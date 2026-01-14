@@ -3,50 +3,50 @@
     <title>83 Reagents, Stains, Media, and Cell Cultures: Virology</title>
     <sect1 id="ch0102s0001">
       <title>83 Reagents, Stains, Media, and Cell Cultures: Virology</title>
-      <anchor id="ch0102s000001a0001"/>
-      <anchor id="ch0102s000000a0001"/>
-      <para id="ch0102s000000p0001" role="chapterAuthor">MATTHEW J. BINNICKER</para>
-      <para id="ch0102s000000p0002">In 1913, vaccinia virus was first propagated in cell culture for the purpose of vaccine production (<link linkend="ch0102s000000li0050">1</link>). However, the potential role of cell culture for clinical diagnostics was not highlighted until 1949, when Enders et al. (<link linkend="ch0102s000000li0051">2</link>) first described the use of cultivated mammalian cells and the observation of cytopathic effect (CPE) for the detection of polioviruses. Today, living cells are used to support the growth of a number of cell-dependent organisms, including viruses and certain intracellular bacteria such as <emphasis>Chlamydia</emphasis> spp. In addition, cultured cells can be used to demonstrate the effects of bacterial toxins excreted from pathogens such as <emphasis>Shigella</emphasis> spp., toxigenic <emphasis>Escherichia coli</emphasis>, including O157:H7, and toxigenic <emphasis>Clostridioides difficile</emphasis> (formerly <emphasis>Clostridium difficile</emphasis>), among others. Traditional tube cell culture and rapid cell culture methods (e.g., shell vial) are dependent on the interactions of viruses with a variety of animal, human, and/or insect cells and are utilized in the laboratory setting as substrates for growth, identification, and enumeration of pathogenic viruses (<link linkend="ch0102s000000li0052">3</link>, <link linkend="ch0102s000000li0053">4</link>).</para>
-      <para id="ch0102s000000p0003">In the era of molecular detection and quantification of viral pathogens, the applicability of viral isolation has been questioned. For many viruses, it is well documented that molecular detection methods are preferred due to their (i) increased sensitivity, (ii) reduced turnaround time (i.e., hours versus days to weeks), (iii) capabilities for quantification, and (iv) reduced safety risk to laboratory personnel compared to viral culture in the event of a highly pathogenic virus (e.g., severe acute respiratory syndrome coronavirus 2 [SARS-CoV-2], Ebola virus, or avian influenza virus) being present. However, cell culture methods have useful applications (i) when the potential viral agent is not known, (ii) when the cost of other methods of testing is significantly greater than that of cell culture, (iii) for documentation of active infection, (iv) to perform antiviral susceptibility testing, (v) for serologic strain typing, and (vi) for vaccine and therapeutic clinical trials. For these reasons, cell cultures are still an important research and clinical laboratory tool, particularly when combined with the use of highly specific monoclonal antibodies (mAbs) for the detection of common viruses and<emphasis>Chlamydia</emphasis> spp. or when cell lines are engineered to produce virus-induced enzymes (<link linkend="ch0102s000000li0054">5</link>), such as β-galactosidase for the detection of herpes simplex viruses (HSVs) (<link linkend="ch0102s000000li0055">6</link>).</para>
-      <para id="ch0102s000000p0004">This chapter describes the cell lines, reagents, stains, and media used in association with traditional tube and rapid viral culture techniques. Included are examples of both well-characterized and emerging viruses that may be encountered in working with viral culture. Sample collection, specimen processing, and culture requirements for individual or classes of viruses are discussed in their respective chapters in this<emphasis>Manual.</emphasis> The reader is referred to a comprehensive review of cell culture (<link linkend="ch0102s000000li0056">7</link>) and to reference document M41-A from the Clinical and Laboratory Standards Institute (Wayne, PA), which provides guidance for viral culture methods, including the applicable biosafety measures required (<link linkend="ch0102s000000li0057">8</link>). A list of virology services offered by the Centers for Disease Control and Prevention, as well as a downloadable test directory, can be found on the CDC website (<ulink url="https://www.cdc.gov/laboratory/specimen-submission/list.html">https://www.cdc.gov/laboratory/specimen-submission/list.html</ulink>). The appendix at the end of this chapter lists the manufacturers and suppliers of cell lines, media, and reagents referred to throughout the chapter.</para>
+      <anchor id="ch0102s0001a0001"/>
+      <anchor id="ch0102s0001a0002"/>
+      <para id="ch0102s0001p0001" role="chapterAuthor">MATTHEW J. BINNICKER</para>
+      <para id="ch0102s0001p0002">In 1913, vaccinia virus was first propagated in cell culture for the purpose of vaccine production (<link linkend="ch0102s0026s0001li0001">1</link>). However, the potential role of cell culture for clinical diagnostics was not highlighted until 1949, when Enders et al. (<link linkend="ch0102s0026s0001li0002">2</link>) first described the use of cultivated mammalian cells and the observation of cytopathic effect (CPE) for the detection of polioviruses. Today, living cells are used to support the growth of a number of cell-dependent organisms, including viruses and certain intracellular bacteria such as <emphasis>Chlamydia</emphasis> spp. In addition, cultured cells can be used to demonstrate the effects of bacterial toxins excreted from pathogens such as <emphasis>Shigella</emphasis> spp., toxigenic <emphasis>Escherichia coli</emphasis>, including O157:H7, and toxigenic <emphasis>Clostridioides difficile</emphasis> (formerly <emphasis>Clostridium difficile</emphasis>), among others. Traditional tube cell culture and rapid cell culture methods (e.g., shell vial) are dependent on the interactions of viruses with a variety of animal, human, and/or insect cells and are utilized in the laboratory setting as substrates for growth, identification, and enumeration of pathogenic viruses (<link linkend="ch0102s0026s0001li0003">3</link>, <link linkend="ch0102s0026s0001li0004">4</link>).</para>
+      <para id="ch0102s0001p0003">In the era of molecular detection and quantification of viral pathogens, the applicability of viral isolation has been questioned. For many viruses, it is well documented that molecular detection methods are preferred due to their (i) increased sensitivity, (ii) reduced turnaround time (i.e., hours versus days to weeks), (iii) capabilities for quantification, and (iv) reduced safety risk to laboratory personnel compared to viral culture in the event of a highly pathogenic virus (e.g., severe acute respiratory syndrome coronavirus 2 [SARS-CoV-2], Ebola virus, or avian influenza virus) being present. However, cell culture methods have useful applications (i) when the potential viral agent is not known, (ii) when the cost of other methods of testing is significantly greater than that of cell culture, (iii) for documentation of active infection, (iv) to perform antiviral susceptibility testing, (v) for serologic strain typing, and (vi) for vaccine and therapeutic clinical trials. For these reasons, cell cultures are still an important research and clinical laboratory tool, particularly when combined with the use of highly specific monoclonal antibodies (mAbs) for the detection of common viruses and<emphasis>Chlamydia</emphasis> spp. or when cell lines are engineered to produce virus-induced enzymes (<link linkend="ch0102s0026s0001li0005">5</link>), such as β-galactosidase for the detection of herpes simplex viruses (HSVs) (<link linkend="ch0102s0026s0001li0006">6</link>).</para>
+      <para id="ch0102s0001p0004">This chapter describes the cell lines, reagents, stains, and media used in association with traditional tube and rapid viral culture techniques. Included are examples of both well-characterized and emerging viruses that may be encountered in working with viral culture. Sample collection, specimen processing, and culture requirements for individual or classes of viruses are discussed in their respective chapters in this<emphasis>Manual.</emphasis> The reader is referred to a comprehensive review of cell culture (<link linkend="ch0102s0026s0001li0007">7</link>) and to reference document M41-A from the Clinical and Laboratory Standards Institute (Wayne, PA), which provides guidance for viral culture methods, including the applicable biosafety measures required (<link linkend="ch0102s0026s0001li0008">8</link>). A list of virology services offered by the Centers for Disease Control and Prevention, as well as a downloadable test directory, can be found on the CDC website (<ulink url="https://www.cdc.gov/laboratory/specimen-submission/list.html">https://www.cdc.gov/laboratory/specimen-submission/list.html</ulink>). The appendix at the end of this chapter lists the manufacturers and suppliers of cell lines, media, and reagents referred to throughout the chapter.</para>
       <sect2 id="ch0102s0001s0001">
         <title>REAGENTS</title>
-        <anchor id="ch0102s000001a0002"/>
-        <anchor id="ch0102s000000a0002"/>
+        <anchor id="ch0102s0001s0001a0001"/>
+        <anchor id="ch0102s0001s0001a0002"/>
       </sect2>
     </sect1>
     <sect1 id="ch0102s0002">
       <title>■ Balanced salt solutions (Hanks’ and Earle’s)</title>
-      <anchor id="ch0102s000002a0001"/>
-      <anchor id="ch0102s000000a0003"/>
-      <para id="ch0102s000000p0005">Hanks’ balanced salt solution and Earle’s balanced salt solution (EBSS) are the two most used formulations. However, Hanks’ balanced salt solution has a better buffering capacity with CO<subscript>2</subscript>, and EBSS has a better buffering capacity with ambient air.</para>
+      <anchor id="ch0102s0002a0001"/>
+      <anchor id="ch0102s0002a0002"/>
+      <para id="ch0102s0002p0001">Hanks’ balanced salt solution and Earle’s balanced salt solution (EBSS) are the two most used formulations. However, Hanks’ balanced salt solution has a better buffering capacity with CO<subscript>2</subscript>, and EBSS has a better buffering capacity with ambient air.</para>
     </sect1>
     <sect1 id="ch0102s0003">
       <title>■ Density gradient media</title>
-      <anchor id="ch0102s000003a0001"/>
-      <anchor id="ch0102s000000a0004"/>
-      <para id="ch0102s000000p0006">Density gradient media or cell preparation tubes (BD, Franklin Lakes, NJ) are used for the isolation of peripheral blood mononuclear and polymorphonuclear lymphocytes. Separated cells can be used for the direct detection of viruses, such as cytomegalovirus (CMV), using immunostaining methods. Detailed descriptions of the specific uses of the gradient media or tubes and commercial sources are listed in<ulink url="ch0100#ch0100s0001s0001">chapter 81</ulink> of this <emphasis>Manual</emphasis>.</para>
+      <anchor id="ch0102s0003a0001"/>
+      <anchor id="ch0102s0003a0002"/>
+      <para id="ch0102s0003p0001">Density gradient media or cell preparation tubes (BD, Franklin Lakes, NJ) are used for the isolation of peripheral blood mononuclear and polymorphonuclear lymphocytes. Separated cells can be used for the direct detection of viruses, such as cytomegalovirus (CMV), using immunostaining methods. Detailed descriptions of the specific uses of the gradient media or tubes and commercial sources are listed in<ulink url="ch0100#ch0100s0001s0001">chapter 81</ulink> of this <emphasis>Manual</emphasis>.</para>
     </sect1>
     <sect1 id="ch0102s0004">
       <title>■ Dulbecco’s PBS</title>
-      <anchor id="ch0102s000004a0001"/>
-      <anchor id="ch0102s000000a0005"/>
-      <para id="ch0102s000000p0007">Dulbecco’s phosphate-buffered saline (PBS) is a maintenance-type medium containing sodium pyruvate and glucose.</para>
+      <anchor id="ch0102s0004a0001"/>
+      <anchor id="ch0102s0004a0002"/>
+      <para id="ch0102s0004p0001">Dulbecco’s phosphate-buffered saline (PBS) is a maintenance-type medium containing sodium pyruvate and glucose.</para>
     </sect1>
     <sect1 id="ch0102s0005">
       <title>■ HEPES</title>
-      <anchor id="ch0102s000005a0001"/>
-      <anchor id="ch0102s000000a0006"/>
-      <para id="ch0102s000000p0008">HEPES is a zwitterionic organic chemical buffering agent that maintains physiological pH despite changes in carbon dioxide concentration, in contrast to bicarbonate buffers. HEPES is widely used in culture media.</para>
-      <anchor id="ch0102s000000a0007"/>
+      <anchor id="ch0102s0005a0001"/>
+      <anchor id="ch0102s0005a0002"/>
+      <para id="ch0102s0005p0001">HEPES is a zwitterionic organic chemical buffering agent that maintains physiological pH despite changes in carbon dioxide concentration, in contrast to bicarbonate buffers. HEPES is widely used in culture media.</para>
+      <anchor id="ch0102s0005a0003"/>
       <beginpage pagenum="1637"/>
     </sect1>
     <sect1 id="ch0102s0006">
       <title>■ Formalin for cell culture preservation</title>
-      <anchor id="ch0102s000006a0001"/>
-      <anchor id="ch0102s000000a0008"/>
-      <para id="ch0102s000000p0009">Formalin can be used to preserve viral CPE in cell culture for both educational and research purposes.</para>
-      <table id="ch0102s000000t0001"><title></title>
+      <anchor id="ch0102s0006a0001"/>
+      <anchor id="ch0102s0006a0002"/>
+      <para id="ch0102s0006p0001">Formalin can be used to preserve viral CPE in cell culture for both educational and research purposes.</para>
+      <table id="ch0102s0006t0001"><title></title>
         
         <tgroup cols="2">
           <tbody>
@@ -63,20 +63,20 @@
           </tbody>
         </tgroup>
       </table>
-      <para id="ch0102s000000p0010">CPE-positive culture tubes should be filled with the solution, sealed, and stored at room temperature.</para>
+      <para id="ch0102s0006p0002">CPE-positive culture tubes should be filled with the solution, sealed, and stored at room temperature.</para>
     </sect1>
     <sect1 id="ch0102s0007">
       <title>■ Saline</title>
-      <anchor id="ch0102s000007a0001"/>
-      <anchor id="ch0102s000000a0009"/>
-      <para id="ch0102s000000p0011">Normal or physiological saline (0.85%) is commonly used as a diluent.</para>
+      <anchor id="ch0102s0007a0001"/>
+      <anchor id="ch0102s0007a0002"/>
+      <para id="ch0102s0007p0001">Normal or physiological saline (0.85%) is commonly used as a diluent.</para>
     </sect1>
     <sect1 id="ch0102s0008">
       <title>■ Gentamicin-amphotericin B solution (10×)</title>
-      <anchor id="ch0102s000008a0001"/>
-      <anchor id="ch0102s000000a0010"/>
-      <para id="ch0102s000000p0012">Several different combinations of antibiotics and amphotericin B are added to transport media, particularly for pretreatment of specimens (e.g., stool) prior to culture inoculation, or are used in refeed medium to reduce both bacterial and fungal contamination. Commercial media containing the appropriate strength of antibiotics and amphotericin B can be purchased. Alternatively, a 10× gentamicin-amphotericin B solution can be added by the laboratory at a ratio of 1:10 (0.1 ml of 10× gentamicin-amphotericin B to every 1.0 ml of specimen). Notably, the effectiveness of antibiotics intended to limit bacterial or fungal contamination of viral culture media may be impacted by the level of antimicrobial resistance patterns within a given community. Laboratories may observe an increase in viral culture contamination, as bacteria and yeast present in patient specimens become resistant. Nonetheless, good quality control (QC) measures necessitate the addition of antimicrobials in transport media. Following receipt by the laboratory of the transport medium containing a specimen, centrifugation may be helpful to reduce cellular artifact overlays or bacterial or fungal contaminants; however, this is not always required. The specimen supernatant is inoculated onto the appropriate cell line(s).</para>
-      <table id="ch0102s000000t0002"><title></title>
+      <anchor id="ch0102s0008a0001"/>
+      <anchor id="ch0102s0008a0002"/>
+      <para id="ch0102s0008p0001">Several different combinations of antibiotics and amphotericin B are added to transport media, particularly for pretreatment of specimens (e.g., stool) prior to culture inoculation, or are used in refeed medium to reduce both bacterial and fungal contamination. Commercial media containing the appropriate strength of antibiotics and amphotericin B can be purchased. Alternatively, a 10× gentamicin-amphotericin B solution can be added by the laboratory at a ratio of 1:10 (0.1 ml of 10× gentamicin-amphotericin B to every 1.0 ml of specimen). Notably, the effectiveness of antibiotics intended to limit bacterial or fungal contamination of viral culture media may be impacted by the level of antimicrobial resistance patterns within a given community. Laboratories may observe an increase in viral culture contamination, as bacteria and yeast present in patient specimens become resistant. Nonetheless, good quality control (QC) measures necessitate the addition of antimicrobials in transport media. Following receipt by the laboratory of the transport medium containing a specimen, centrifugation may be helpful to reduce cellular artifact overlays or bacterial or fungal contaminants; however, this is not always required. The specimen supernatant is inoculated onto the appropriate cell line(s).</para>
+      <table id="ch0102s0008t0001"><title></title>
         
         <tgroup cols="2">
           <tbody>
@@ -98,44 +98,44 @@
           </tbody>
         </tgroup>
       </table>
-      <para id="ch0102s000000p0013">All ingredients should be combined, and the solution should be stored frozen at –20 to –70°C in working-size aliquots.</para>
+      <para id="ch0102s0008p0002">All ingredients should be combined, and the solution should be stored frozen at –20 to –70°C in working-size aliquots.</para>
     </sect1>
     <sect1 id="ch0102s0009">
       <title>■ Trypsin solutions</title>
-      <anchor id="ch0102s000009a0001"/>
-      <anchor id="ch0102s000000a0011"/>
-      <para id="ch0102s000000p0014">In lieu of scraping cells from tubes or wells, trypsin solutions are used to disperse cells from the monolayer for repassage and for immunostaining of cell-associated viruses such as adenovirus, CMV, and varicella-zoster virus (VZV). Trypsin solutions made with 2.5% PBS or EDTA solution are commercially available.</para>
+      <anchor id="ch0102s0009a0001"/>
+      <anchor id="ch0102s0009a0002"/>
+      <para id="ch0102s0009p0001">In lieu of scraping cells from tubes or wells, trypsin solutions are used to disperse cells from the monolayer for repassage and for immunostaining of cell-associated viruses such as adenovirus, CMV, and varicella-zoster virus (VZV). Trypsin solutions made with 2.5% PBS or EDTA solution are commercially available.</para>
     </sect1>
     <sect1 id="ch0102s0010">
       <title>■ Tween 20–PBS</title>
-      <anchor id="ch0102s000010a0001"/>
-      <anchor id="ch0102s000000a0012"/>
-      <para id="ch0102s000000p0015">Tween 20–PBS, typically used at a working concentration of 0.02% and pH of 7.4, may be used to wash cell monolayers prior to staining with fluorescent mAbs but is not always required. The manufacturer’s directions should be followed for specific staining protocols if a commercially available product is used. Tween 20–PBS is stored at room temperature and should be discarded if the solution is turbid or a precipitate develops.</para>
+      <anchor id="ch0102s0010a0001"/>
+      <anchor id="ch0102s0010a0002"/>
+      <para id="ch0102s0010p0001">Tween 20–PBS, typically used at a working concentration of 0.02% and pH of 7.4, may be used to wash cell monolayers prior to staining with fluorescent mAbs but is not always required. The manufacturer’s directions should be followed for specific staining protocols if a commercially available product is used. Tween 20–PBS is stored at room temperature and should be discarded if the solution is turbid or a precipitate develops.</para>
       <sect2 id="ch0102s0010s0001">
         <title>VIROLOGY STAINS</title>
-        <anchor id="ch0102s000010a0002"/>
-        <anchor id="ch0102s000000a0013"/>
-        <para id="ch0102s000000p0016">Direct examination of clinical specimens using several methods, such as slide touch preparations from unfixed tissue from an excision or biopsy, cytologic examination of tissue scrapings (e.g., Tzanck assay for HSV), smears from mucous membrane scrapings (e.g., HSV or VZV), or sample concentration by cytospin or centrifugation (e.g., respiratory viruses), can provide relatively rapid results. Slides can be prepared at the bedside (e.g., skin scrapings for HSV or VZV) or in the laboratory (e.g., respiratory swabs in transport media) and fixed with 80 to 100% reagent-grade acetone, 95% alcohol, or a cytological fixative, depending on the method.</para>
-        <para id="ch0102s000000p0017">Traditional staining with hematoxylin and eosin and Wright-Giemsa stains can demonstrate characteristic cell morphologies such as the “owl’s eye” nuclear inclusions indicative of CMV or the “smudge cells” that contain large basophilic inclusions consistent with adenovirus. Today, the definitive identification of certain viruses or<emphasis>Chlamydia</emphasis> spp. directly in clinical samples is mainly done with mAbs labeled with fluorescein isothiocyanate (FITC), methylrhodamine isothiocyanate, or phycoerythrin with an Evans blue and/or propidium iodide counterstain. Results are available within 15 to 60 min. Additionally, direct fluorescent antibody (DFA) or indirect fluorescent antibody (IFA) testing is used for confirmation of viruses isolated in cell culture and for blind staining in centrifugation-enhanced virus isolation methods (discussed below). Minimal equipment (incubator, fluorescence microscope, pipettes, and centrifuge) and moderate technical expertise are required to perform the procedures and interpret the results (<link linkend="ch0102s000000li0056">7</link>).</para>
-        <para id="ch0102s000000p0018">Commercially available reagents, commonly provided at working strength and quality tested to ensure sensitive and specific reactions, are listed in<anchor id="ch0102s000000a0014"/><link linkend="ch0102s000000a0023">Table 1</link>. Reagents may be cleared for use with direct specimen testing or for culture confirmation, and in some instances for both applications. Various formats of mAb reagents are available for immunofluorescence testing methods that (i) detect but do not differentiate <emphasis>Chlamydia</emphasis> spp. (<anchor id="ch0102s000000a0015"/><link linkend="ch0102s000000a0029">Fig. 1</link>); (ii) target a single virus (<anchor id="ch0102s000000a0016"/><link linkend="ch0102s000000a0032">Fig. 2</link>); (iii) detect and differentiate two or more viruses (<anchor id="ch0102s000000a0017"/><link linkend="ch0102s000000a0034">Fig. 3</link>); (iv) target a single virus and contain a pool of mAbs that detect but do not differentiate multiple additional viruses (<anchor id="ch0102s000000a0018"/><link linkend="ch0102s000000a0039">Fig. 4</link>); or (v) detect a family of viruses or multiple viruses using a pool of mAbs (<anchor id="ch0102s000000a0019"/><link linkend="ch0102s000000a0041">Fig. 5</link>). Both the location of the fluorescent staining (e.g., cytoplasmic versus nuclear) and the staining pattern (e.g., speckled versus homogeneous) can aid in virus differentiation (<link linkend="ch0102s000000a0034">Fig. 3</link>).</para>
+        <anchor id="ch0102s0010s0001a0001"/>
+        <anchor id="ch0102s0010s0001a0002"/>
+        <para id="ch0102s0010s0001p0001">Direct examination of clinical specimens using several methods, such as slide touch preparations from unfixed tissue from an excision or biopsy, cytologic examination of tissue scrapings (e.g., Tzanck assay for HSV), smears from mucous membrane scrapings (e.g., HSV or VZV), or sample concentration by cytospin or centrifugation (e.g., respiratory viruses), can provide relatively rapid results. Slides can be prepared at the bedside (e.g., skin scrapings for HSV or VZV) or in the laboratory (e.g., respiratory swabs in transport media) and fixed with 80 to 100% reagent-grade acetone, 95% alcohol, or a cytological fixative, depending on the method.</para>
+        <para id="ch0102s0010s0001p0002">Traditional staining with hematoxylin and eosin and Wright-Giemsa stains can demonstrate characteristic cell morphologies such as the “owl’s eye” nuclear inclusions indicative of CMV or the “smudge cells” that contain large basophilic inclusions consistent with adenovirus. Today, the definitive identification of certain viruses or<emphasis>Chlamydia</emphasis> spp. directly in clinical samples is mainly done with mAbs labeled with fluorescein isothiocyanate (FITC), methylrhodamine isothiocyanate, or phycoerythrin with an Evans blue and/or propidium iodide counterstain. Results are available within 15 to 60 min. Additionally, direct fluorescent antibody (DFA) or indirect fluorescent antibody (IFA) testing is used for confirmation of viruses isolated in cell culture and for blind staining in centrifugation-enhanced virus isolation methods (discussed below). Minimal equipment (incubator, fluorescence microscope, pipettes, and centrifuge) and moderate technical expertise are required to perform the procedures and interpret the results (<link linkend="ch0102s0026s0001li0007">7</link>).</para>
+        <para id="ch0102s0010s0001p0003">Commercially available reagents, commonly provided at working strength and quality tested to ensure sensitive and specific reactions, are listed in<anchor id="ch0102s0010s0001a0003"/><link linkend="ch0102s0010s0002a0005">Table 1</link>. Reagents may be cleared for use with direct specimen testing or for culture confirmation, and in some instances for both applications. Various formats of mAb reagents are available for immunofluorescence testing methods that (i) detect but do not differentiate <emphasis>Chlamydia</emphasis> spp. (<anchor id="ch0102s0010s0001a0004"/><link linkend="ch0102s0010s0002a0011">Fig. 1</link>); (ii) target a single virus (<anchor id="ch0102s0010s0001a0005"/><link linkend="ch0102s0010s0002a0014">Fig. 2</link>); (iii) detect and differentiate two or more viruses (<anchor id="ch0102s0010s0001a0006"/><link linkend="ch0102s0010s0002a0016">Fig. 3</link>); (iv) target a single virus and contain a pool of mAbs that detect but do not differentiate multiple additional viruses (<anchor id="ch0102s0010s0001a0007"/><link linkend="ch0102s0011a0006">Fig. 4</link>); or (v) detect a family of viruses or multiple viruses using a pool of mAbs (<anchor id="ch0102s0010s0001a0008"/><link linkend="ch0102s0011a0008">Fig. 5</link>). Both the location of the fluorescent staining (e.g., cytoplasmic versus nuclear) and the staining pattern (e.g., speckled versus homogeneous) can aid in virus differentiation (<link linkend="ch0102s0010s0002a0016">Fig. 3</link>).</para>
       </sect2>
       <sect2 id="ch0102s0010s0002">
         <title>CELL CULTURES</title>
-        <anchor id="ch0102s000010a0003"/>
-        <anchor id="ch0102s000000a0020"/>
-        <para id="ch0102s000000p0019">Good manufacturing practices-regulated commercial vendors (see the appendix) provide tissue culture cells that are sterile, stabilized at the proper pH, thoroughly tested for susceptibility to common pathogens, and carefully screened to be free of potentially harmful endogenous agents, such as foamy viruses and mycoplasmas that may interfere with the detection of the intended pathogens. Culture cells are provided in several ready-to-use formats, including traditional 16-by-125-mm glass round-bottom screw-cap tubes, 1-dram vials (shell vials), flasks, or cluster trays. Ready-to-use cell cultures have a shelf life that is defined by the manufacturer in days or weeks, depending on the cell line or intended pathogen to be recovered. Some cells are also supplied frozen in shell vials and may be stored for months or years at ≤–70°C, ready to use with a simple thaw step and change of medium. Other frozen cells are supplied in cryovials and other containers at a stated density and require the laboratory to subculture them to obtain monolayers in a flask, multiwell plate, shell vial, or tube, depending on the end application (<link linkend="ch0102s000000li0058">9</link>). Frozen cells can be used as needed and for unexpected situations such as unanticipated increases in the volume of samples, sudden viral outbreaks, or delays in cell shipments.</para>
-        <anchor id="ch0102s000000a0021"/>
+        <anchor id="ch0102s0010s0002a0001"/>
+        <anchor id="ch0102s0010s0002a0002"/>
+        <para id="ch0102s0010s0002p0001">Good manufacturing practices-regulated commercial vendors (see the appendix) provide tissue culture cells that are sterile, stabilized at the proper pH, thoroughly tested for susceptibility to common pathogens, and carefully screened to be free of potentially harmful endogenous agents, such as foamy viruses and mycoplasmas that may interfere with the detection of the intended pathogens. Culture cells are provided in several ready-to-use formats, including traditional 16-by-125-mm glass round-bottom screw-cap tubes, 1-dram vials (shell vials), flasks, or cluster trays. Ready-to-use cell cultures have a shelf life that is defined by the manufacturer in days or weeks, depending on the cell line or intended pathogen to be recovered. Some cells are also supplied frozen in shell vials and may be stored for months or years at ≤–70°C, ready to use with a simple thaw step and change of medium. Other frozen cells are supplied in cryovials and other containers at a stated density and require the laboratory to subculture them to obtain monolayers in a flask, multiwell plate, shell vial, or tube, depending on the end application (<link linkend="ch0102s0026s0001li0009">9</link>). Frozen cells can be used as needed and for unexpected situations such as unanticipated increases in the volume of samples, sudden viral outbreaks, or delays in cell shipments.</para>
+        <anchor id="ch0102s0010s0002a0003"/>
         <beginpage pagenum="1638"/>
-        <anchor id="ch0102s000000a0022"/>
+        <anchor id="ch0102s0010s0002a0004"/>
         <beginpage pagenum="1639"/>
-        <table id="ch0102s000000t0003"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0102s000000a0023"/><link linkend="ch0102s000000a0014">TABLE 1</link></phrase></emphasis> Commercially available DFA and IFA reagents for the detection of chlamydiae and viruses<superscript><link linkend="ch0102s000000a0026"><emphasis>a</emphasis></link></superscript><anchor id="ch0102s000000a0024"/>
+        <table id="ch0102s0010s0002t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0102s0010s0002a0005"/><link linkend="ch0102s0010s0001a0003">TABLE 1</link></phrase></emphasis> Commercially available DFA and IFA reagents for the detection of chlamydiae and viruses<superscript><link linkend="ch0102s0010s0002a0008"><emphasis>a</emphasis></link></superscript><anchor id="ch0102s0010s0002a0006"/>
 </title>
           
           <tgroup cols="3">
             <tbody>
               <row>
-                <entry><phrase role="center">Target<superscript><link linkend="ch0102s000000a0027"><emphasis>b</emphasis></link></superscript></phrase>
-                  <anchor id="ch0102s000000a0025"/>
+                <entry><phrase role="center">Target<superscript><link linkend="ch0102s0010s0002a0009"><emphasis>b</emphasis></link></superscript></phrase>
+                  <anchor id="ch0102s0010s0002a0007"/>
                 </entry>
                 <entry><phrase role="center">Use as per manufacturer</phrase>
                 </entry>
@@ -448,10 +448,10 @@
             </tbody>
           </tgroup>
         </table>
-        <para id="ch0102s000000p0020" role="table-footnote"><superscript><link linkend="ch0102s000000a0024"><emphasis>a</emphasis></link></superscript><anchor id="ch0102s000000a0026"/>Refer to manufacturers’ websites for Food and Drug Administration and <emphasis>in vitro</emphasis> diagnostic status of reagents. Although uses for the reagents may be suggested on manufacturers’ websites, not all suggested applications may have been validated by the manufacturer. Abbreviations: adeno, adenovirus; CC, culture confirmation; DSD, direct specimen detection; dual, a two-fluorophore stain; FluA, influenza virus A; ID, identification; IF, immunofluorescence; HSV, herpes simplex virus; HMPV, human metapneumovirus; Para, parainfluenza virus; RSV, respiratory syncytial virus; RUO, research use only.</para>
-        <para id="ch0102s000000p0021" role="table-footnote"><superscript><link linkend="ch0102s000000a0025"><emphasis>b</emphasis></link></superscript><anchor id="ch0102s000000a0027"/>Respiratory panel A: adenovirus, influenza viruses A and B, parainfluenza viruses 1, 2, and 3, RSV, HMPV; respiratory panel B: adenovirus, influenza viruses A and B, parainfluenza viruses 1, 2, and 3, RSV; respiratory panel C: adenovirus, influenza virus B, parainfluenza viruses 1, 2, and 3, RSV, and differential detection of influenza virus A; respiratory panel D: adenovirus, influenza viruses A and B, parainfluenza viruses 1, 2, and 3, and differential identification of RSV.</para>
-        <figure id="ch0102s000000f0001"><title><anchor id="ch0102s000000a0028"/><phrase role="figureLabel"><anchor id="ch0102s000000a0029"/><link linkend="ch0102s000000a0015">FIGURE 1</link></phrase> Immunofluorescence detection of <emphasis>C. trachomatis</emphasis> in McCoy cells. Magnification, ×200. (Courtesy of Quidel.)
-<anchor id="ch0102s000000a0030"/>For laboratories that require special cells not readily available from commercial sources, specific cell types can sometimes be obtained from research laboratories or the American Type Culture Collection (Manassas, VA) and then propagated within the user laboratory. Once the cells are received, the laboratory must confirm sterility, the absence of mycoplasmas and other contaminants, and the appropriate passage or cell duplication number necessary to ensure sensitivity for viral or chlamydial isolation. Cell cultures must be maintained in an environment that allows appropriate cellular replication and proper utility for the tests desired (<link linkend="ch0102s000000li0059">10</link>). Several references offer detailed procedures for growing cells from frozen or fresh flasks (<link linkend="ch0102s000000li0053">4</link>, <link linkend="ch0102s000000li0057">8</link>); such procedures are not addressed in this chapter.
+        <para id="ch0102s0010s0002p0002" role="table-footnote"><superscript><link linkend="ch0102s0010s0002a0006"><emphasis>a</emphasis></link></superscript><anchor id="ch0102s0010s0002a0008"/>Refer to manufacturers’ websites for Food and Drug Administration and <emphasis>in vitro</emphasis> diagnostic status of reagents. Although uses for the reagents may be suggested on manufacturers’ websites, not all suggested applications may have been validated by the manufacturer. Abbreviations: adeno, adenovirus; CC, culture confirmation; DSD, direct specimen detection; dual, a two-fluorophore stain; FluA, influenza virus A; ID, identification; IF, immunofluorescence; HSV, herpes simplex virus; HMPV, human metapneumovirus; Para, parainfluenza virus; RSV, respiratory syncytial virus; RUO, research use only.</para>
+        <para id="ch0102s0010s0002p0003" role="table-footnote"><superscript><link linkend="ch0102s0010s0002a0007"><emphasis>b</emphasis></link></superscript><anchor id="ch0102s0010s0002a0009"/>Respiratory panel A: adenovirus, influenza viruses A and B, parainfluenza viruses 1, 2, and 3, RSV, HMPV; respiratory panel B: adenovirus, influenza viruses A and B, parainfluenza viruses 1, 2, and 3, RSV; respiratory panel C: adenovirus, influenza virus B, parainfluenza viruses 1, 2, and 3, RSV, and differential detection of influenza virus A; respiratory panel D: adenovirus, influenza viruses A and B, parainfluenza viruses 1, 2, and 3, and differential identification of RSV.</para>
+        <figure id="ch0102s0010s0002f0001"><title><anchor id="ch0102s0010s0002a0010"/><phrase role="figureLabel"><anchor id="ch0102s0010s0002a0011"/><link linkend="ch0102s0010s0001a0004">FIGURE 1</link></phrase> Immunofluorescence detection of <emphasis>C. trachomatis</emphasis> in McCoy cells. Magnification, ×200. (Courtesy of Quidel.)
+<anchor id="ch0102s0010s0002a0012"/>For laboratories that require special cells not readily available from commercial sources, specific cell types can sometimes be obtained from research laboratories or the American Type Culture Collection (Manassas, VA) and then propagated within the user laboratory. Once the cells are received, the laboratory must confirm sterility, the absence of mycoplasmas and other contaminants, and the appropriate passage or cell duplication number necessary to ensure sensitivity for viral or chlamydial isolation. Cell cultures must be maintained in an environment that allows appropriate cellular replication and proper utility for the tests desired (<link linkend="ch0102s0026s0001li0010">10</link>). Several references offer detailed procedures for growing cells from frozen or fresh flasks (<link linkend="ch0102s0026s0001li0004">4</link>, <link linkend="ch0102s0026s0001li0008">8</link>); such procedures are not addressed in this chapter.
 </title>
           
           <mediaobject>
@@ -460,7 +460,7 @@
             </imageobject>
           </mediaobject>
         </figure>
-        <figure id="ch0102s000000f0002"><title><anchor id="ch0102s000000a0031"/><phrase role="figureLabel"><anchor id="ch0102s000000a0032"/><link linkend="ch0102s000000a0016">FIGURE 2</link></phrase> Immunofluorescence detection of respiratory pathogens in R-Mix cells using D3 Ultra Kit reagents (Quidel). <emphasis role="strong">(A)</emphasis> Uninoculated R-Mix cells; <emphasis role="strong">(B)</emphasis> adenovirus; <emphasis role="strong">(C)</emphasis> influenza virus A; <emphasis role="strong">(D)</emphasis> influenza virus B; <emphasis role="strong">(E)</emphasis> parainfluenza virus type 1; <emphasis role="strong">(F)</emphasis> parainfluenza virus type 2; <emphasis role="strong">(G)</emphasis> parainfluenza virus type 3; <emphasis role="strong">(H)</emphasis> RSV. Magnification, ×170. (Courtesy of Quidel.)
+        <figure id="ch0102s0010s0002f0002"><title><anchor id="ch0102s0010s0002a0013"/><phrase role="figureLabel"><anchor id="ch0102s0010s0002a0014"/><link linkend="ch0102s0010s0001a0005">FIGURE 2</link></phrase> Immunofluorescence detection of respiratory pathogens in R-Mix cells using D3 Ultra Kit reagents (Quidel). <emphasis role="strong">(A)</emphasis> Uninoculated R-Mix cells; <emphasis role="strong">(B)</emphasis> adenovirus; <emphasis role="strong">(C)</emphasis> influenza virus A; <emphasis role="strong">(D)</emphasis> influenza virus B; <emphasis role="strong">(E)</emphasis> parainfluenza virus type 1; <emphasis role="strong">(F)</emphasis> parainfluenza virus type 2; <emphasis role="strong">(G)</emphasis> parainfluenza virus type 3; <emphasis role="strong">(H)</emphasis> RSV. Magnification, ×170. (Courtesy of Quidel.)
 </title>
           
           <mediaobject>
@@ -469,7 +469,7 @@
             </imageobject>
           </mediaobject>
         </figure>
-        <figure id="ch0102s000000f0003"><title><anchor id="ch0102s000000a0033"/><phrase role="figureLabel"><anchor id="ch0102s000000a0034"/><link linkend="ch0102s000000a0017">FIGURE 3</link></phrase> Detection of HSV-1 and HSV-2 in ELVIS cells (Quidel). <emphasis role="strong">(A)</emphasis> Blue cells positive for HSV with X-Gal stain; <emphasis role="strong">(B)</emphasis> immunofluorescence of uninoculated ELVIS cells; <emphasis role="strong">(C)</emphasis> HSV-1-positive ELVIS immunofluorescence (note nuclear pattern); <emphasis role="strong">(D)</emphasis> HSV-2-positive ELVIS immunofluorescence (note cytoplasmic pattern). Magnification, ×170. (Courtesy of Quidel.)
+        <figure id="ch0102s0010s0002f0003"><title><anchor id="ch0102s0010s0002a0015"/><phrase role="figureLabel"><anchor id="ch0102s0010s0002a0016"/><link linkend="ch0102s0010s0001a0006">FIGURE 3</link></phrase> Detection of HSV-1 and HSV-2 in ELVIS cells (Quidel). <emphasis role="strong">(A)</emphasis> Blue cells positive for HSV with X-Gal stain; <emphasis role="strong">(B)</emphasis> immunofluorescence of uninoculated ELVIS cells; <emphasis role="strong">(C)</emphasis> HSV-1-positive ELVIS immunofluorescence (note nuclear pattern); <emphasis role="strong">(D)</emphasis> HSV-2-positive ELVIS immunofluorescence (note cytoplasmic pattern). Magnification, ×170. (Courtesy of Quidel.)
 </title>
           
           <mediaobject>
@@ -478,17 +478,17 @@
             </imageobject>
           </mediaobject>
         </figure>
-        <para id="ch0102s000000p0022">To ensure the safety of the technical staff and to prevent cell culture contamination, the laboratory must follow strict procedures for the handling of biohazardous materials throughout the testing process (<link linkend="ch0102s000000li0057">8</link>, <link linkend="ch0102s000000li0059">10</link>). These include (i) the use of class II or higher biological safety cabinets with HEPA filters and, if possible, external venting, certified at least annually; (ii) facilities and procedures that are appropriate to the biohazard level of the viruses tested, as defined by the Centers for Disease Control and Prevention (Atlanta, GA) (<link linkend="ch0102s000000li0060">11</link>); and (iii) training and annual competency assessment of the laboratory staff. Virology benches and safety cabinets should be disinfected at least daily with a high-level disinfectant, such as 10% sodium hypochlorite (bleach).</para>
+        <para id="ch0102s0010s0002p0004">To ensure the safety of the technical staff and to prevent cell culture contamination, the laboratory must follow strict procedures for the handling of biohazardous materials throughout the testing process (<link linkend="ch0102s0026s0001li0008">8</link>, <link linkend="ch0102s0026s0001li0010">10</link>). These include (i) the use of class II or higher biological safety cabinets with HEPA filters and, if possible, external venting, certified at least annually; (ii) facilities and procedures that are appropriate to the biohazard level of the viruses tested, as defined by the Centers for Disease Control and Prevention (Atlanta, GA) (<link linkend="ch0102s0026s0001li0011">11</link>); and (iii) training and annual competency assessment of the laboratory staff. Virology benches and safety cabinets should be disinfected at least daily with a high-level disinfectant, such as 10% sodium hypochlorite (bleach).</para>
       </sect2>
     </sect1>
     <sect1 id="ch0102s0011">
       <title>■ Traditional cell culture</title>
-      <anchor id="ch0102s000011a0001"/>
-      <anchor id="ch0102s000000a0035"/>
-      <para id="ch0102s000000p0023">The common culturable human viral pathogens causing significant infections are readily detected by using a variety of cell types, including the established cell lines listed in<anchor id="ch0102s000000a0036"/><link linkend="ch0102s000000a0045">Table 2</link>. Cell lines may be primary (e.g., rhesus monkey kidney and rabbit kidney), used for one or two passages; diploid (e.g., human embryonic lung), used for 20 to 50 passages; or heteroploid (e.g., human epidermoid lung carcinoma), which can be passaged indefinitely. The laboratory must maintain sufficient cell types and incubate cell cultures for an optimal length of time and under the appropriate conditions that permit the recovery of the potential range of detectable viruses for all specimen types processed by the laboratory (<link linkend="ch0102s000000li0057">8</link>, <link linkend="ch0102s000000li0059">10</link>, <link linkend="ch0102s000000li0061">12</link>). Cell culture systems can be variable and are susceptible to conditions that can adversely affect results, including cell culture source and lineage, age, and condition of the monolayer, number of passages, shipping conditions, and the presence of contaminating agents. For example, in 2012, cultures of rhesus monkey kidney cells distributed to clinical laboratories throughout the United States were found to be contaminated with <emphasis>Coccidioides immitis</emphasis> that was endogenous to the harvested monkey kidney (<link linkend="ch0102s000000li0062">13</link>, <link linkend="ch0102s000000li0063">14</link>). As a result of rapid communication of this information and adherence to laboratory safety procedures, there were no adverse effects in terms of personnel infection with this highly infectious fungus (<link linkend="ch0102s000000li0062">13</link>). Therefore, QC procedures and specific testing guidelines must be followed (<link linkend="ch0102s000000li0057">8</link>, <link linkend="ch0102s000000li0059">10</link>, <link linkend="ch0102s000000li0064">15</link>). Shipments of cell culture material should be observed microscopically to confirm that the confluency of the monolayer is appropriate (75 to 90%), that the cells are attached to the substratum, that cell appearance is typical, and that no evidence of contaminating viruses, bacteria, or fungi is present, usually signified by cytopathic appearance of the cells before use or turbidity of the cell medium. Cell culture media that will be added to newly shipped cells should also be free of contamination (clear) and near a neutral pH (salmon pink). If the laboratory introduces additives (e.g., <phrase role="small">L</phrase>-glutamine or antibiotics) to commercial media, the final solution must be checked for sterility, pH, growth promotion, and the absence of toxicity to cells. The lot number and date of use for all media, buffers, reagents, and additives should also be recorded.</para>
-      <anchor id="ch0102s000000a0037"/>
+      <anchor id="ch0102s0011a0001"/>
+      <anchor id="ch0102s0011a0002"/>
+      <para id="ch0102s0011p0001">The common culturable human viral pathogens causing significant infections are readily detected by using a variety of cell types, including the established cell lines listed in<anchor id="ch0102s0011a0003"/><link linkend="ch0102s0012a0005">Table 2</link>. Cell lines may be primary (e.g., rhesus monkey kidney and rabbit kidney), used for one or two passages; diploid (e.g., human embryonic lung), used for 20 to 50 passages; or heteroploid (e.g., human epidermoid lung carcinoma), which can be passaged indefinitely. The laboratory must maintain sufficient cell types and incubate cell cultures for an optimal length of time and under the appropriate conditions that permit the recovery of the potential range of detectable viruses for all specimen types processed by the laboratory (<link linkend="ch0102s0026s0001li0008">8</link>, <link linkend="ch0102s0026s0001li0010">10</link>, <link linkend="ch0102s0026s0001li0012">12</link>). Cell culture systems can be variable and are susceptible to conditions that can adversely affect results, including cell culture source and lineage, age, and condition of the monolayer, number of passages, shipping conditions, and the presence of contaminating agents. For example, in 2012, cultures of rhesus monkey kidney cells distributed to clinical laboratories throughout the United States were found to be contaminated with <emphasis>Coccidioides immitis</emphasis> that was endogenous to the harvested monkey kidney (<link linkend="ch0102s0026s0001li0013">13</link>, <link linkend="ch0102s0026s0001li0014">14</link>). As a result of rapid communication of this information and adherence to laboratory safety procedures, there were no adverse effects in terms of personnel infection with this highly infectious fungus (<link linkend="ch0102s0026s0001li0013">13</link>). Therefore, QC procedures and specific testing guidelines must be followed (<link linkend="ch0102s0026s0001li0008">8</link>, <link linkend="ch0102s0026s0001li0010">10</link>, <link linkend="ch0102s0026s0001li0015">15</link>). Shipments of cell culture material should be observed microscopically to confirm that the confluency of the monolayer is appropriate (75 to 90%), that the cells are attached to the substratum, that cell appearance is typical, and that no evidence of contaminating viruses, bacteria, or fungi is present, usually signified by cytopathic appearance of the cells before use or turbidity of the cell medium. Cell culture media that will be added to newly shipped cells should also be free of contamination (clear) and near a neutral pH (salmon pink). If the laboratory introduces additives (e.g., <phrase role="small">L</phrase>-glutamine or antibiotics) to commercial media, the final solution must be checked for sterility, pH, growth promotion, and the absence of toxicity to cells. The lot number and date of use for all media, buffers, reagents, and additives should also be recorded.</para>
+      <anchor id="ch0102s0011a0004"/>
       <beginpage pagenum="1640"/>
-      <figure id="ch0102s000000f0004"><title><anchor id="ch0102s000000a0038"/><phrase role="figureLabel"><anchor id="ch0102s000000a0039"/><link linkend="ch0102s000000a0018">FIGURE 4</link></phrase> Immunofluorescence detection of respiratory pathogens from clinical specimens using Duet stains (Quidel). <emphasis role="strong">(A and B)</emphasis> Influenza virus A Duet stain (influenza virus A [gold] and respiratory pool [green] for adenovirus, influenza virus B, parainfluenza virus types 1, 2, and 3, and RSV) on negative cells <emphasis role="strong">(A)</emphasis> and influenza virus A-positive cells <emphasis role="strong">(B). (C)</emphasis> RSV Duet stain (RSV [gold] and respiratory pool [green] for adenovirus, influenza virus A, influenza virus B, and parainfluenza viruses 1, 2, and 3) on RSV-positive and influenza virus A-positive cells. Magnification, ×170. (Courtesy of Quidel.)
+      <figure id="ch0102s0011f0001"><title><anchor id="ch0102s0011a0005"/><phrase role="figureLabel"><anchor id="ch0102s0011a0006"/><link linkend="ch0102s0010s0001a0007">FIGURE 4</link></phrase> Immunofluorescence detection of respiratory pathogens from clinical specimens using Duet stains (Quidel). <emphasis role="strong">(A and B)</emphasis> Influenza virus A Duet stain (influenza virus A [gold] and respiratory pool [green] for adenovirus, influenza virus B, parainfluenza virus types 1, 2, and 3, and RSV) on negative cells <emphasis role="strong">(A)</emphasis> and influenza virus A-positive cells <emphasis role="strong">(B). (C)</emphasis> RSV Duet stain (RSV [gold] and respiratory pool [green] for adenovirus, influenza virus A, influenza virus B, and parainfluenza viruses 1, 2, and 3) on RSV-positive and influenza virus A-positive cells. Magnification, ×170. (Courtesy of Quidel.)
 </title>
         
         <mediaobject>
@@ -497,7 +497,7 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <figure id="ch0102s000000f0005"><title><anchor id="ch0102s000000a0040"/><phrase role="figureLabel"><anchor id="ch0102s000000a0041"/><link linkend="ch0102s000000a0019">FIGURE 5</link></phrase> Detection of coxsackie B virus in Super E-Mix cells (Quidel). <emphasis role="strong">(A)</emphasis> Unstained, uninoculated cells; <emphasis role="strong">(B)</emphasis> unstained coxsackie B virus CPE; <emphasis role="strong">(C and D)</emphasis> immunofluorescence staining with a pan-enterovirus antibody pool of uninoculated Super E-Mix cells <emphasis role="strong">(C)</emphasis> and coxsackie B virus-infected cells <emphasis role="strong">(D).</emphasis> Magnification, ×170. (Courtesy of Quidel.)
+      <figure id="ch0102s0011f0002"><title><anchor id="ch0102s0011a0007"/><phrase role="figureLabel"><anchor id="ch0102s0011a0008"/><link linkend="ch0102s0010s0001a0008">FIGURE 5</link></phrase> Detection of coxsackie B virus in Super E-Mix cells (Quidel). <emphasis role="strong">(A)</emphasis> Unstained, uninoculated cells; <emphasis role="strong">(B)</emphasis> unstained coxsackie B virus CPE; <emphasis role="strong">(C and D)</emphasis> immunofluorescence staining with a pan-enterovirus antibody pool of uninoculated Super E-Mix cells <emphasis role="strong">(C)</emphasis> and coxsackie B virus-infected cells <emphasis role="strong">(D).</emphasis> Magnification, ×170. (Courtesy of Quidel.)
 </title>
         
         <mediaobject>
@@ -506,19 +506,19 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para id="ch0102s000000p0024">Tubes of cell cultures should be stored in a slanted position with the cell monolayer covered by the medium. Tissue culture cells should ideally be inoculated within 7 days of receipt (8 to 10 days of seeding) for optimal propagation of cell-dependent organisms or demonstration of cytotoxicity. The laboratory should retain all documentation provided by the manufacturer, including cell culture records with cell types, source, passage number, and age of cells. Uninoculated lot-matched tubes, cluster plates, or shell vials that are incubated, maintained, and observed in the same manner as inoculated tissue cells serve as negative controls for CPE, toxicity, exogenous contamination, and procedures such as DFA testing, hemadsorption (HAD), and hemagglutination. Daily inoculation of positive controls to monitor traditional tube culture performance is not routinely performed. However, commonly isolated viruses may be used to perform QC on cell lines when new shipments are received in the laboratory, and they are a source of positive-control material for detection and confirmation methods such as HAD and DFA testing.</para>
-      <para id="ch0102s000000p0025">With the exception of a few slower-growing viruses such as CMV, or when viruses are present at very low titers, the time to detection by traditional tube culture methods is generally between 1 and 7 days of inoculation (<link linkend="ch0102s000000li0053">4</link>). The standard approach for detecting viral proliferation is the microscopic examination of the unstained cell culture monolayer for the presence of CPE. The presence of a virus is indicated by degenerative changes in monolayer cells, including shrinking, swelling, rounding of cells, clustering, and the formation of syncytia, or by complete destruction of the monolayer. Identification of the virus is then based on the CPE characteristics, the cell line involved, the time to detection, specimen type, and confirmation, generally by staining with virus-specific mAbs. Alternatively, for the identification of viruses for which mAbs may not be available, molecular methods or ancillary traditional testing (e.g., acid resistance for rhinoviruses) must be performed. In addition, for certain viruses (i.e., influenza, parainfluenza, and mumps viruses) that do not always demonstrate CPE, HAD testing may be done (<link linkend="ch0102s000000li0065">16</link>).</para>
+      <para id="ch0102s0011p0002">Tubes of cell cultures should be stored in a slanted position with the cell monolayer covered by the medium. Tissue culture cells should ideally be inoculated within 7 days of receipt (8 to 10 days of seeding) for optimal propagation of cell-dependent organisms or demonstration of cytotoxicity. The laboratory should retain all documentation provided by the manufacturer, including cell culture records with cell types, source, passage number, and age of cells. Uninoculated lot-matched tubes, cluster plates, or shell vials that are incubated, maintained, and observed in the same manner as inoculated tissue cells serve as negative controls for CPE, toxicity, exogenous contamination, and procedures such as DFA testing, hemadsorption (HAD), and hemagglutination. Daily inoculation of positive controls to monitor traditional tube culture performance is not routinely performed. However, commonly isolated viruses may be used to perform QC on cell lines when new shipments are received in the laboratory, and they are a source of positive-control material for detection and confirmation methods such as HAD and DFA testing.</para>
+      <para id="ch0102s0011p0003">With the exception of a few slower-growing viruses such as CMV, or when viruses are present at very low titers, the time to detection by traditional tube culture methods is generally between 1 and 7 days of inoculation (<link linkend="ch0102s0026s0001li0004">4</link>). The standard approach for detecting viral proliferation is the microscopic examination of the unstained cell culture monolayer for the presence of CPE. The presence of a virus is indicated by degenerative changes in monolayer cells, including shrinking, swelling, rounding of cells, clustering, and the formation of syncytia, or by complete destruction of the monolayer. Identification of the virus is then based on the CPE characteristics, the cell line involved, the time to detection, specimen type, and confirmation, generally by staining with virus-specific mAbs. Alternatively, for the identification of viruses for which mAbs may not be available, molecular methods or ancillary traditional testing (e.g., acid resistance for rhinoviruses) must be performed. In addition, for certain viruses (i.e., influenza, parainfluenza, and mumps viruses) that do not always demonstrate CPE, HAD testing may be done (<link linkend="ch0102s0026s0001li0016">16</link>).</para>
     </sect1>
     <sect1 id="ch0102s0012">
       <title>■ HAD test</title>
-      <anchor id="ch0102s000012a0001"/>
-      <anchor id="ch0102s000000a0042"/>
-      <para id="ch0102s000000p0026">HAD refers to the attachment of red blood cells to infected cell culture monolayers. Influenza viruses A and B, parainfluenza viruses 1, 2, 3, and 4, and mumps viruses possess a surface hemagglutinin protein that is expressed on the surface of infected cells (<link linkend="ch0102s000000li0065">16</link>). The hemagglutinin protein binds red blood cells and adsorbs them to the infected-cell membrane. HAD may be performed when there is no visual CPE in culture or as a rapid screen for the presence of an orthomyxovirus or a paramyxovirus in cell culture with a suspicious CPE. HAD testing is usually performed at 3 to 7 days of incubation or at the end of the incubation period (generally 10 to 14 days). A typical HAD procedure involves incubation of guinea pig erythrocytes with viral culture monolayers at 4°C. Microscopic examination of the culture after 30 min allows the operator to evaluate for the presence of HAD on the monolayer or hemagglutination in the supernatant. HAD-positive cultures can be further analyzed using mAbs to determine the identity of the infecting virus. HAD-negative cultures can be reincubated after removal of the erythrocytes and the addition of fresh culture medium. QC using positive and negative control tubes is essential, as variations in HAD testing may occur from laboratory to laboratory and may also occur based on the circulating predominant influenza virus strain (<link linkend="ch0102s000000li0066">17</link>). Direct mAb staining of the cell monolayer for infectious agents such as influenza and parainfluenza viruses has largely replaced HAD procedures in most clinical laboratories, because staining tends to be more specific and provides more rapid results, which can be critical to patient care.</para>
-      <anchor id="ch0102s000000a0043"/>
+      <anchor id="ch0102s0012a0001"/>
+      <anchor id="ch0102s0012a0002"/>
+      <para id="ch0102s0012p0001">HAD refers to the attachment of red blood cells to infected cell culture monolayers. Influenza viruses A and B, parainfluenza viruses 1, 2, 3, and 4, and mumps viruses possess a surface hemagglutinin protein that is expressed on the surface of infected cells (<link linkend="ch0102s0026s0001li0016">16</link>). The hemagglutinin protein binds red blood cells and adsorbs them to the infected-cell membrane. HAD may be performed when there is no visual CPE in culture or as a rapid screen for the presence of an orthomyxovirus or a paramyxovirus in cell culture with a suspicious CPE. HAD testing is usually performed at 3 to 7 days of incubation or at the end of the incubation period (generally 10 to 14 days). A typical HAD procedure involves incubation of guinea pig erythrocytes with viral culture monolayers at 4°C. Microscopic examination of the culture after 30 min allows the operator to evaluate for the presence of HAD on the monolayer or hemagglutination in the supernatant. HAD-positive cultures can be further analyzed using mAbs to determine the identity of the infecting virus. HAD-negative cultures can be reincubated after removal of the erythrocytes and the addition of fresh culture medium. QC using positive and negative control tubes is essential, as variations in HAD testing may occur from laboratory to laboratory and may also occur based on the circulating predominant influenza virus strain (<link linkend="ch0102s0026s0001li0017">17</link>). Direct mAb staining of the cell monolayer for infectious agents such as influenza and parainfluenza viruses has largely replaced HAD procedures in most clinical laboratories, because staining tends to be more specific and provides more rapid results, which can be critical to patient care.</para>
+      <anchor id="ch0102s0012a0003"/>
       <beginpage pagenum="1641"/>
-      <anchor id="ch0102s000000a0044"/>
+      <anchor id="ch0102s0012a0004"/>
       <beginpage pagenum="1642"/>
-      <table id="ch0102s000000t0004"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0102s000000a0045"/><link linkend="ch0102s000000a0036">TABLE 2</link></phrase></emphasis> List of cell lines and virus susceptibility profiles
+      <table id="ch0102s0012t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0102s0012a0005"/><link linkend="ch0102s0011a0003">TABLE 2</link></phrase></emphasis> List of cell lines and virus susceptibility profiles
 </title>
         
         <tgroup cols="3">
@@ -528,8 +528,8 @@
               </entry>
               <entry><phrase role="center">Origin</phrase>
               </entry>
-              <entry><phrase role="center">Virus(es)<superscript><link linkend="ch0102s000000a0049"><emphasis>a</emphasis></link></superscript></phrase>
-                <anchor id="ch0102s000000a0046"/>
+              <entry><phrase role="center">Virus(es)<superscript><link linkend="ch0102s0012a0009"><emphasis>a</emphasis></link></superscript></phrase>
+                <anchor id="ch0102s0012a0006"/>
               </entry>
             </row>
             <row>
@@ -538,7 +538,7 @@
               <entry>Adenovirus, HSV, influenza virus, HMPV, measles virus, mumps virus, parainfluenza virus, poliovirus, RSV, rotavirus, VZV</entry>
             </row>
             <row>
-              <entry>AGMK<superscript><link linkend="ch0102s000000a0050"><emphasis>b</emphasis></link></superscript><anchor id="ch0102s000000a0047"/></entry>
+              <entry>AGMK<superscript><link linkend="ch0102s0012a0010"><emphasis>b</emphasis></link></superscript><anchor id="ch0102s0012a0007"/></entry>
               <entry>African green monkey kidney</entry>
               <entry>Enteroviruses, influenza virus, parainfluenza virus</entry>
             </row>
@@ -618,7 +618,7 @@
               <entry>Adenovirus, HSV, VZV</entry>
             </row>
             <row>
-              <entry>Hs27 (HFF<superscript><link linkend="ch0102s000000a0051"><emphasis>c</emphasis></link></superscript><anchor id="ch0102s000000a0048"/><emphasis>;</emphasis> MRHF)</entry>
+              <entry>Hs27 (HFF<superscript><link linkend="ch0102s0012a0011"><emphasis>c</emphasis></link></superscript><anchor id="ch0102s0012a0008"/><emphasis>;</emphasis> MRHF)</entry>
               <entry>Human foreskin fibroblast</entry>
               <entry>Adenovirus, CMV, echovirus, HSV, mumps virus, poliovirus, rhinovirus, VZV</entry>
             </row>
@@ -638,7 +638,7 @@
               <entry>CMV, HSV, influenza virus</entry>
             </row>
             <row>
-              <entry>McCoy<superscript><link linkend="ch0102s000000a0051"><emphasis>c</emphasis></link></superscript></entry>
+              <entry>McCoy<superscript><link linkend="ch0102s0012a0011"><emphasis>c</emphasis></link></superscript></entry>
               <entry>Mouse fibroblast</entry>
               <entry><emphasis>Chlamydia</emphasis> spp., HSV</entry>
             </row>
@@ -668,12 +668,12 @@
               <entry>Adenovirus, coxsackie A virus, echovirus, HSV, poliovirus</entry>
             </row>
             <row>
-              <entry>RK<superscript><link linkend="ch0102s000000a0050"><emphasis>b</emphasis></link></superscript></entry>
+              <entry>RK<superscript><link linkend="ch0102s0012a0010"><emphasis>b</emphasis></link></superscript></entry>
               <entry>Rabbit kidney</entry>
               <entry>HSV, paramyxoviruses</entry>
             </row>
             <row>
-              <entry>RhMK<superscript><link linkend="ch0102s000000a0050"><emphasis>b</emphasis></link></superscript></entry>
+              <entry>RhMK<superscript><link linkend="ch0102s0012a0010"><emphasis>b</emphasis></link></superscript></entry>
               <entry>Rhesus monkey kidney</entry>
               <entry>Arboviruses, coxsackie A and B viruses, echoviruses, influenza virus, parainfluenza virus, measles virus, mumps virus, polioviruses</entry>
             </row>
@@ -705,33 +705,33 @@
           </tbody>
         </tgroup>
       </table>
-      <para id="ch0102s000000p0027" role="table-footnote"><superscript><link linkend="ch0102s000000a0046"><emphasis>a</emphasis></link></superscript><anchor id="ch0102s000000a0049"/>Abbreviations: HCoV, human coronavirus; MERS-CoV, Middle East respiratory syndrome coronavirus; SARS-CoV, severe acute respiratory syndrome coronavirus.</para>
-      <para id="ch0102s000000p0028" role="table-footnote"><superscript><link linkend="ch0102s000000a0047"><emphasis>b</emphasis></link></superscript><anchor id="ch0102s000000a0050"/>Primary cell cultures.</para>
-      <para id="ch0102s000000p0029" role="table-footnote"><superscript><link linkend="ch0102s000000a0048"><emphasis>c</emphasis></link></superscript><anchor id="ch0102s000000a0051"/>Available as fresh and frozen ReadyCells (Quidel).</para>
+      <para id="ch0102s0012p0002" role="table-footnote"><superscript><link linkend="ch0102s0012a0006"><emphasis>a</emphasis></link></superscript><anchor id="ch0102s0012a0009"/>Abbreviations: HCoV, human coronavirus; MERS-CoV, Middle East respiratory syndrome coronavirus; SARS-CoV, severe acute respiratory syndrome coronavirus.</para>
+      <para id="ch0102s0012p0003" role="table-footnote"><superscript><link linkend="ch0102s0012a0007"><emphasis>b</emphasis></link></superscript><anchor id="ch0102s0012a0010"/>Primary cell cultures.</para>
+      <para id="ch0102s0012p0004" role="table-footnote"><superscript><link linkend="ch0102s0012a0008"><emphasis>c</emphasis></link></superscript><anchor id="ch0102s0012a0011"/>Available as fresh and frozen ReadyCells (Quidel).</para>
     </sect1>
     <sect1 id="ch0102s0013">
       <title>■ Centrifugation-enhanced rapid cell culture</title>
-      <anchor id="ch0102s000013a0001"/>
-      <anchor id="ch0102s000000a0052"/>
-      <para id="ch0102s000000p0030">Centrifugation-enhanced inoculation, using cells grown on coverslips in 1-dram shell vials, and pre-CPE detection of viral antigen in monolayer cells by the use of mAbs were first described for the detection of<emphasis>Chlamydia trachomatis</emphasis> (<link linkend="ch0102s000000li0067">18</link>). This technique was adapted for the routine detection of CMV using MRC-5 shell vials and staining with mAbs directed against early CMV proteins (<link linkend="ch0102s000000li0068">19</link>). This pioneering method has reduced the time for virus detection from as long as 10 to 30 days to 16 to 72 h. The important factor in reducing the time to detection is the stressing of the monolayer during centrifugation (<link linkend="ch0102s000000li0069">20</link>). This process has been shown to increase cell proliferation, decrease cell generation times, alter cell metabolism, increase cell longevity, and activate specific genes.</para>
-      <para id="ch0102s000000p0031">Rapid cell culture is available for the detection of<emphasis>Chlamydia</emphasis> spp., CMV, enteroviruses, VZV, HSV, mumps viruses, and the main respiratory viruses (adenovirus, human metapneumovirus [HMPV], influenza A and B viruses, parainfluenza viruses 1, 2, and 3, and respiratory syncytial virus [RSV]) (reviewed in reference <link linkend="ch0102s000000li0056">7</link>). Centrifugation-enhanced rapid cell culture can be used with standard cell lines (<link linkend="ch0102s000000a0045">Table 2</link>; <link linkend="ch0102s000000a0029">Fig. 1</link>) and has been adapted for use with cocultivated cells (<anchor id="ch0102s000000a0053"/><link linkend="ch0102s000000a0056">Table 3</link>) for the detection of respiratory viruses (R-Mix and R-Mix Too; Quidel Corporation, Athens, OH) (<link linkend="ch0102s000000a0032">Fig. 2</link>), for the detection of HSV and VZV (H&amp;V-Mix; Quidel) (<anchor id="ch0102s000000a0054"/><link linkend="ch0102s000000a0064">Fig. 6</link>) (<link linkend="ch0102s000000li0070">21</link>–<link linkend="ch0102s000000li0072">23</link>), and with genetically engineered cells such as ELVIS (enzyme-linked virus-inducible system; Quidel) (<link linkend="ch0102s000000a0056">Table 3</link>) for the detection of HSV (<link linkend="ch0102s000000a0034">Fig. 3</link>) (<link linkend="ch0102s000000li0073">24</link>, <link linkend="ch0102s000000li0074">25</link>) and Super E-Mix (Quidel) for the detection of enteroviruses (<link linkend="ch0102s000000a0041">Fig. 5</link>). Identification of the viral pathogen when centrifugation-enhanced rapid cell culture is used is not dependent on the visualization of CPE, allowing technologists who are not skilled in CPE recognition to perform viral testing. Instead, the virus is detected either by “blind staining” or staining “pre-CPE” with phycoerythrin-, peroxidase-, or FITC-labeled virus-specific mAbs or a combination of phycoerythrin- and FITC-labeled antibodies, or by virus-specific induction of enzymes that are detected by the ELVIS HSV system using substrates such as β-galactosidase (<link linkend="ch0102s000000li0055">6</link>, <link linkend="ch0102s000000li0073">24</link>, <link linkend="ch0102s000000li0074">25</link>). A significant benefit of using cocultivated cells such as R-Mix, R-Mix Too, H&amp;V-Mix, and Super E-Mix is that they allow the identification of multiple viruses from a single shell vial or cluster tray well, rather than having to use multiple shell vials to cover the range of viruses that the laboratory may wish to detect in a particular sample type. One shell vial can be substituted for up to four different tube cell cultures that require much longer incubation times (10 to 14 days) to identify fewer subspecies of the group.</para>
-      <anchor id="ch0102s000000a0055"/>
+      <anchor id="ch0102s0013a0001"/>
+      <anchor id="ch0102s0013a0002"/>
+      <para id="ch0102s0013p0001">Centrifugation-enhanced inoculation, using cells grown on coverslips in 1-dram shell vials, and pre-CPE detection of viral antigen in monolayer cells by the use of mAbs were first described for the detection of<emphasis>Chlamydia trachomatis</emphasis> (<link linkend="ch0102s0026s0001li0018">18</link>). This technique was adapted for the routine detection of CMV using MRC-5 shell vials and staining with mAbs directed against early CMV proteins (<link linkend="ch0102s0026s0001li0019">19</link>). This pioneering method has reduced the time for virus detection from as long as 10 to 30 days to 16 to 72 h. The important factor in reducing the time to detection is the stressing of the monolayer during centrifugation (<link linkend="ch0102s0026s0001li0020">20</link>). This process has been shown to increase cell proliferation, decrease cell generation times, alter cell metabolism, increase cell longevity, and activate specific genes.</para>
+      <para id="ch0102s0013p0002">Rapid cell culture is available for the detection of<emphasis>Chlamydia</emphasis> spp., CMV, enteroviruses, VZV, HSV, mumps viruses, and the main respiratory viruses (adenovirus, human metapneumovirus [HMPV], influenza A and B viruses, parainfluenza viruses 1, 2, and 3, and respiratory syncytial virus [RSV]) (reviewed in reference <link linkend="ch0102s0026s0001li0007">7</link>). Centrifugation-enhanced rapid cell culture can be used with standard cell lines (<link linkend="ch0102s0012a0005">Table 2</link>; <link linkend="ch0102s0010s0002a0011">Fig. 1</link>) and has been adapted for use with cocultivated cells (<anchor id="ch0102s0013a0003"/><link linkend="ch0102s0013a0006">Table 3</link>) for the detection of respiratory viruses (R-Mix and R-Mix Too; Quidel Corporation, Athens, OH) (<link linkend="ch0102s0010s0002a0014">Fig. 2</link>), for the detection of HSV and VZV (H&amp;V-Mix; Quidel) (<anchor id="ch0102s0013a0004"/><link linkend="ch0102s0013a0014">Fig. 6</link>) (<link linkend="ch0102s0026s0001li0021">21</link>–<link linkend="ch0102s0026s0001li0023">23</link>), and with genetically engineered cells such as ELVIS (enzyme-linked virus-inducible system; Quidel) (<link linkend="ch0102s0013a0006">Table 3</link>) for the detection of HSV (<link linkend="ch0102s0010s0002a0016">Fig. 3</link>) (<link linkend="ch0102s0026s0001li0024">24</link>, <link linkend="ch0102s0026s0001li0025">25</link>) and Super E-Mix (Quidel) for the detection of enteroviruses (<link linkend="ch0102s0011a0008">Fig. 5</link>). Identification of the viral pathogen when centrifugation-enhanced rapid cell culture is used is not dependent on the visualization of CPE, allowing technologists who are not skilled in CPE recognition to perform viral testing. Instead, the virus is detected either by “blind staining” or staining “pre-CPE” with phycoerythrin-, peroxidase-, or FITC-labeled virus-specific mAbs or a combination of phycoerythrin- and FITC-labeled antibodies, or by virus-specific induction of enzymes that are detected by the ELVIS HSV system using substrates such as β-galactosidase (<link linkend="ch0102s0026s0001li0006">6</link>, <link linkend="ch0102s0026s0001li0024">24</link>, <link linkend="ch0102s0026s0001li0025">25</link>). A significant benefit of using cocultivated cells such as R-Mix, R-Mix Too, H&amp;V-Mix, and Super E-Mix is that they allow the identification of multiple viruses from a single shell vial or cluster tray well, rather than having to use multiple shell vials to cover the range of viruses that the laboratory may wish to detect in a particular sample type. One shell vial can be substituted for up to four different tube cell cultures that require much longer incubation times (10 to 14 days) to identify fewer subspecies of the group.</para>
+      <anchor id="ch0102s0013a0005"/>
       <beginpage pagenum="1643"/>
-      <table id="ch0102s000000t0005"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0102s000000a0056"/><link linkend="ch0102s000000a0053">TABLE 3</link></phrase></emphasis> List of cocultured cell lines and virus susceptibility profiles
+      <table id="ch0102s0013t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0102s0013a0006"/><link linkend="ch0102s0013a0003">TABLE 3</link></phrase></emphasis> List of cocultured cell lines and virus susceptibility profiles
 </title>
         
         <tgroup cols="3">
           <tbody>
             <row>
-              <entry>Cell mixture<superscript><link linkend="ch0102s000000a0060"><emphasis>a</emphasis></link></superscript><anchor id="ch0102s000000a0057"/></entry>
+              <entry>Cell mixture<superscript><link linkend="ch0102s0013a0010"><emphasis>a</emphasis></link></superscript><anchor id="ch0102s0013a0007"/></entry>
               <entry><phrase role="center">Cell type</phrase>
               </entry>
-              <entry><phrase role="center">Virus(es)<superscript><link linkend="ch0102s000000a0061"><emphasis>b</emphasis></link></superscript></phrase>
-                <anchor id="ch0102s000000a0058"/>
+              <entry><phrase role="center">Virus(es)<superscript><link linkend="ch0102s0013a0011"><emphasis>b</emphasis></link></superscript></phrase>
+                <anchor id="ch0102s0013a0008"/>
               </entry>
             </row>
             <row>
-              <entry>R-Mix<superscript><link linkend="ch0102s000000a0062"><emphasis>c</emphasis></link></superscript><anchor id="ch0102s000000a0059"/></entry>
+              <entry>R-Mix<superscript><link linkend="ch0102s0013a0012"><emphasis>c</emphasis></link></superscript><anchor id="ch0102s0013a0009"/></entry>
               <entry>Mv1Lu (mink lung)</entry>
               <entry>CMV, HSV, influenza virus, SARS-CoV</entry>
             </row>
@@ -741,7 +741,7 @@
               <entry>Adenovirus, HSV, influenza virus, HMPV, measles virus, mumps virus, parainfluenza virus, poliovirus, rotavirus, RSV, VZV</entry>
             </row>
             <row>
-              <entry>R-Mix Too<superscript><link linkend="ch0102s000000a0062"><emphasis>c</emphasis></link></superscript></entry>
+              <entry>R-Mix Too<superscript><link linkend="ch0102s0013a0012"><emphasis>c</emphasis></link></superscript></entry>
               <entry>MDCK (Madin-Darby canine kidney)</entry>
               <entry>Influenza virus</entry>
             </row>
@@ -761,7 +761,7 @@
               <entry>Adenovirus, CMV, echovirus, HSV, influenza virus, mumps virus, poliovirus, rhinovirus, RSV, VZV</entry>
             </row>
             <row>
-              <entry>Super E-Mix<superscript><link linkend="ch0102s000000a0062"><emphasis>c</emphasis></link></superscript></entry>
+              <entry>Super E-Mix<superscript><link linkend="ch0102s0013a0012"><emphasis>c</emphasis></link></superscript></entry>
               <entry>sBGMK (Buffalo green monkey kidney) (with degradation activating factor)</entry>
               <entry><emphasis>Chlamydia</emphasis> spp., coxsackie A and B viruses, echovirus, HSV, poliovirus</entry>
             </row>
@@ -778,10 +778,10 @@
           </tbody>
         </tgroup>
       </table>
-      <para id="ch0102s000000p0032" role="table-footnote"><superscript><link linkend="ch0102s000000a0057"><emphasis>a</emphasis></link></superscript><anchor id="ch0102s000000a0060"/>Available from Quidel.</para>
-      <para id="ch0102s000000p0033" role="table-footnote"><superscript><link linkend="ch0102s000000a0058"><emphasis>b</emphasis></link></superscript><anchor id="ch0102s000000a0061"/>SARS-CoV, severe acute respiratory syndrome coronavirus.</para>
-      <para id="ch0102s000000p0034" role="table-footnote"><superscript><link linkend="ch0102s000000a0059"><emphasis>c</emphasis></link></superscript><anchor id="ch0102s000000a0062"/>Available as both fresh and frozen cells that do not require propagation but are ready to use.</para>
-      <figure id="ch0102s000000f0006"><title><anchor id="ch0102s000000a0063"/><phrase role="figureLabel"><anchor id="ch0102s000000a0064"/><link linkend="ch0102s000000a0054">FIGURE 6</link></phrase> Immunofluorescence detection of <emphasis>Herpesviridae</emphasis> family viruses in H&amp;V-Mix cells (Quidel). <emphasis role="strong">(A)</emphasis> Uninoculated H&amp;V-Mix cells; <emphasis role="strong">(B)</emphasis> CMV; <emphasis role="strong">(C)</emphasis> VZV; <emphasis role="strong">(D)</emphasis> HSV-1; <emphasis role="strong">(E)</emphasis> HSV-2. Magnification, ×170. (Courtesy of Quidel.)
+      <para id="ch0102s0013p0003" role="table-footnote"><superscript><link linkend="ch0102s0013a0007"><emphasis>a</emphasis></link></superscript><anchor id="ch0102s0013a0010"/>Available from Quidel.</para>
+      <para id="ch0102s0013p0004" role="table-footnote"><superscript><link linkend="ch0102s0013a0008"><emphasis>b</emphasis></link></superscript><anchor id="ch0102s0013a0011"/>SARS-CoV, severe acute respiratory syndrome coronavirus.</para>
+      <para id="ch0102s0013p0005" role="table-footnote"><superscript><link linkend="ch0102s0013a0009"><emphasis>c</emphasis></link></superscript><anchor id="ch0102s0013a0012"/>Available as both fresh and frozen cells that do not require propagation but are ready to use.</para>
+      <figure id="ch0102s0013f0001"><title><anchor id="ch0102s0013a0013"/><phrase role="figureLabel"><anchor id="ch0102s0013a0014"/><link linkend="ch0102s0013a0004">FIGURE 6</link></phrase> Immunofluorescence detection of <emphasis>Herpesviridae</emphasis> family viruses in H&amp;V-Mix cells (Quidel). <emphasis role="strong">(A)</emphasis> Uninoculated H&amp;V-Mix cells; <emphasis role="strong">(B)</emphasis> CMV; <emphasis role="strong">(C)</emphasis> VZV; <emphasis role="strong">(D)</emphasis> HSV-1; <emphasis role="strong">(E)</emphasis> HSV-2. Magnification, ×170. (Courtesy of Quidel.)
 </title>
         
         <mediaobject>
@@ -790,404 +790,404 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para id="ch0102s000000p0035">Since rapid-detection formats are not based on the detection of CPE but use blind staining for either single viruses or multiple viruses, positive- and negative-control slides are required for each day of patient testing. When a single-culture system detects multiple viruses, the detection reagents must be validated for all targets (including any pooled mAb reagents) upon receipt in the laboratory (<link linkend="ch0102s000000li0059">10</link>, <link linkend="ch0102s000000li0061">12</link>). Virus controls can be tested daily and virus types can be rotated so that, during the course of 1 week, the lots of cells and reagents have been tested against all the routinely isolated viruses.</para>
+      <para id="ch0102s0013p0006">Since rapid-detection formats are not based on the detection of CPE but use blind staining for either single viruses or multiple viruses, positive- and negative-control slides are required for each day of patient testing. When a single-culture system detects multiple viruses, the detection reagents must be validated for all targets (including any pooled mAb reagents) upon receipt in the laboratory (<link linkend="ch0102s0026s0001li0010">10</link>, <link linkend="ch0102s0026s0001li0012">12</link>). Virus controls can be tested daily and virus types can be rotated so that, during the course of 1 week, the lots of cells and reagents have been tested against all the routinely isolated viruses.</para>
     </sect1>
     <sect1 id="ch0102s0014">
       <title>■ ELVIS</title>
-      <anchor id="ch0102s000014a0001"/>
-      <anchor id="ch0102s000000a0065"/>
-      <para id="ch0102s000000p0036">ELVIS uses a genetically engineered cell line (BHKICP6LacZ) that was first described by Stabell and Olivo (<link linkend="ch0102s000000li0055">6</link>). The promoter sequence of the HSV UL97 gene and the <emphasis>E. coli lacZ</emphasis> gene were used to stably transform a baby hamster kidney cell line. When the cell line is infected with HSV, the virion-associated transactivator protein VP16 and other transactivating factors such as ICP0 strongly transactivate the UL97 promoter, which in turn activates the <emphasis>lacZ</emphasis> gene, resulting in high levels of β-galactosidase activity. Addition of 4-chloro-3-indol-β-<phrase role="small">D</phrase>-galactopyranoside (X-Gal) turns a colorless substrate to blue, indicating the presence of HSV-infected cells (<link linkend="ch0102s000000a0034">Fig. 3A</link>). If HSV typing is required, a fluorescence-labeled MAb that specifically detects HSV-2 (<link linkend="ch0102s000000a0034">Fig. 3D</link>) and an unlabeled MAb that specifically binds to HSV-1 are incorporated in the staining procedure. If the infected (blue) cells are not detected with the HSV-2 MAb, then the monolayers are stained with anti-mouse immunoglobulin fluorescence-labeled antibody to detect the HSV-1 MAb (<link linkend="ch0102s000000a0034">Fig. 3C</link>). The ELVIS test is completed within 16 to 24 h for both positive and negative results (<link linkend="ch0102s000000li0073">24</link>, <link linkend="ch0102s000000li0074">25</link>).</para>
+      <anchor id="ch0102s0014a0001"/>
+      <anchor id="ch0102s0014a0002"/>
+      <para id="ch0102s0014p0001">ELVIS uses a genetically engineered cell line (BHKICP6LacZ) that was first described by Stabell and Olivo (<link linkend="ch0102s0026s0001li0006">6</link>). The promoter sequence of the HSV UL97 gene and the <emphasis>E. coli lacZ</emphasis> gene were used to stably transform a baby hamster kidney cell line. When the cell line is infected with HSV, the virion-associated transactivator protein VP16 and other transactivating factors such as ICP0 strongly transactivate the UL97 promoter, which in turn activates the <emphasis>lacZ</emphasis> gene, resulting in high levels of β-galactosidase activity. Addition of 4-chloro-3-indol-β-<phrase role="small">D</phrase>-galactopyranoside (X-Gal) turns a colorless substrate to blue, indicating the presence of HSV-infected cells (<link linkend="ch0102s0010s0002a0016">Fig. 3A</link>). If HSV typing is required, a fluorescence-labeled MAb that specifically detects HSV-2 (<link linkend="ch0102s0010s0002a0016">Fig. 3D</link>) and an unlabeled MAb that specifically binds to HSV-1 are incorporated in the staining procedure. If the infected (blue) cells are not detected with the HSV-2 MAb, then the monolayers are stained with anti-mouse immunoglobulin fluorescence-labeled antibody to detect the HSV-1 MAb (<link linkend="ch0102s0010s0002a0016">Fig. 3C</link>). The ELVIS test is completed within 16 to 24 h for both positive and negative results (<link linkend="ch0102s0026s0001li0024">24</link>, <link linkend="ch0102s0026s0001li0025">25</link>).</para>
     </sect1>
     <sect1 id="ch0102s0015">
       <title>■ Cytotoxicity assays</title>
-      <anchor id="ch0102s000015a0001"/>
-      <anchor id="ch0102s000000a0066"/>
-      <para id="ch0102s000000p0037">Tissue culture assays using cell types such as human foreskin fibroblasts, MRC-5 cells, and Vero epithelioid cells are commonly used for the detection of toxin-producing strains of<emphasis>C. difficile</emphasis> (<link linkend="ch0102s000000li0075">26</link>–<link linkend="ch0102s000000li0077">28</link>). Cell culture testing for the presence of <emphasis>C. difficile</emphasis> cytotoxin has demonstrated improved sensitivity compared to <emphasis>C. difficile</emphasis> toxin A/B enzyme immunoassays. Enteroviruses can cause CPE similar to that caused by <emphasis>C. difficile</emphasis> toxin; therefore, the procedure includes the use of a specific antitoxin to <emphasis>C. difficile</emphasis> toxin, which creates a more specific assay. The inoculum for this assay can be either liquid stool or a broth culture of a pure <emphasis>C. difficile</emphasis> colony recovered in culture. In either scenario, the liquid is diluted, bacteria are removed by membrane filtration, and the tissue culture cells are exposed to the patient material, with and without <emphasis>C. difficile</emphasis> antitoxin. Test wells without <emphasis>C. difficile</emphasis> antitoxin demonstrating CPE within 12 to 48 h are presumed positive for <emphasis>C. difficile</emphasis> toxin if the control well with <emphasis>C. difficile</emphasis> antitoxin shows no evidence of CPE. As little as 1 pg of toxin can cause a visible change in cells over a period of hours up to 1 to 2 days.</para>
+      <anchor id="ch0102s0015a0001"/>
+      <anchor id="ch0102s0015a0002"/>
+      <para id="ch0102s0015p0001">Tissue culture assays using cell types such as human foreskin fibroblasts, MRC-5 cells, and Vero epithelioid cells are commonly used for the detection of toxin-producing strains of<emphasis>C. difficile</emphasis> (<link linkend="ch0102s0026s0001li0026">26</link>–<link linkend="ch0102s0026s0001li0028">28</link>). Cell culture testing for the presence of <emphasis>C. difficile</emphasis> cytotoxin has demonstrated improved sensitivity compared to <emphasis>C. difficile</emphasis> toxin A/B enzyme immunoassays. Enteroviruses can cause CPE similar to that caused by <emphasis>C. difficile</emphasis> toxin; therefore, the procedure includes the use of a specific antitoxin to <emphasis>C. difficile</emphasis> toxin, which creates a more specific assay. The inoculum for this assay can be either liquid stool or a broth culture of a pure <emphasis>C. difficile</emphasis> colony recovered in culture. In either scenario, the liquid is diluted, bacteria are removed by membrane filtration, and the tissue culture cells are exposed to the patient material, with and without <emphasis>C. difficile</emphasis> antitoxin. Test wells without <emphasis>C. difficile</emphasis> antitoxin demonstrating CPE within 12 to 48 h are presumed positive for <emphasis>C. difficile</emphasis> toxin if the control well with <emphasis>C. difficile</emphasis> antitoxin shows no evidence of CPE. As little as 1 pg of toxin can cause a visible change in cells over a period of hours up to 1 to 2 days.</para>
       <sect2 id="ch0102s0015s0001">
         <title>CELL CULTURE MEDIA</title>
-        <anchor id="ch0102s000015a0002"/>
-        <anchor id="ch0102s000000a0067"/>
+        <anchor id="ch0102s0015s0001a0001"/>
+        <anchor id="ch0102s0015s0001a0002"/>
       </sect2>
     </sect1>
     <sect1 id="ch0102s0016">
       <title>Transport Media and Collection Swabs</title>
-      <anchor id="ch0102s000016a0001"/>
-      <anchor id="ch0102s000000a0068"/>
-      <para id="ch0102s000000p0038">An important consideration in using cell culture is ensuring proper collection of cellular material and maintaining the viability of the organisms from the time of sample collection to inoculation in cell culture. Therefore, time to processing, transport temperature, and the use of transport media need to be evaluated for each sample type. Cell culture media with additives, such as antibiotics and fungicidal agents to inhibit microbial growth, are used to maintain the viability of viruses during sample transport. Transport media may be specific for virus isolation (viral transport media) or also allow the isolation of<emphasis>Chlamydia, Mycoplasma</emphasis>, and <emphasis>Ureaplasma</emphasis> (universal transport media). The types of transport media, uses and components, collection procedures, and swabs are detailed in <ulink url="ch0100#ch0100s0001s0001">chapter 81</ulink> of this <emphasis>Manual</emphasis>.</para>
+      <anchor id="ch0102s0016a0001"/>
+      <anchor id="ch0102s0016a0002"/>
+      <para id="ch0102s0016p0001">An important consideration in using cell culture is ensuring proper collection of cellular material and maintaining the viability of the organisms from the time of sample collection to inoculation in cell culture. Therefore, time to processing, transport temperature, and the use of transport media need to be evaluated for each sample type. Cell culture media with additives, such as antibiotics and fungicidal agents to inhibit microbial growth, are used to maintain the viability of viruses during sample transport. Transport media may be specific for virus isolation (viral transport media) or also allow the isolation of<emphasis>Chlamydia, Mycoplasma</emphasis>, and <emphasis>Ureaplasma</emphasis> (universal transport media). The types of transport media, uses and components, collection procedures, and swabs are detailed in <ulink url="ch0100#ch0100s0001s0001">chapter 81</ulink> of this <emphasis>Manual</emphasis>.</para>
     </sect1>
     <sect1 id="ch0102s0017">
       <title>■ Growth medium with 10% fetal bovine serum</title>
-      <anchor id="ch0102s000017a0001"/>
-      <anchor id="ch0102s000000a0069"/>
-      <para id="ch0102s000000p0039">Cell culture media are an important part of the production and maintenance of cells. Cell culture stocks are generally grown in a richer medium than that which is used for the maintenance of the cells. The higher level of serum or protein in growth medium rapidly enhances cell growth and is used for a day or more before it is replaced by maintenance medium. Standard growth medium consists of EMEM with EBSS and supplemented with 10% heat-inactivated fetal bovine serum (FBS), one or more antimicrobials (gentamicin, penicillin, streptomycin, vancomycin, and/or amphotericin B), and HEPES buffer. Since simian viruses are endogenous to primary monkey kidney cell cultures, media that contain simian virus 5 (SV5) and SV40 antisera are available (Quidel).</para>
+      <anchor id="ch0102s0017a0001"/>
+      <anchor id="ch0102s0017a0002"/>
+      <para id="ch0102s0017p0001">Cell culture media are an important part of the production and maintenance of cells. Cell culture stocks are generally grown in a richer medium than that which is used for the maintenance of the cells. The higher level of serum or protein in growth medium rapidly enhances cell growth and is used for a day or more before it is replaced by maintenance medium. Standard growth medium consists of EMEM with EBSS and supplemented with 10% heat-inactivated fetal bovine serum (FBS), one or more antimicrobials (gentamicin, penicillin, streptomycin, vancomycin, and/or amphotericin B), and HEPES buffer. Since simian viruses are endogenous to primary monkey kidney cell cultures, media that contain simian virus 5 (SV5) and SV40 antisera are available (Quidel).</para>
     </sect1>
     <sect1 id="ch0102s0018">
       <title>■ Maintenance medium</title>
-      <anchor id="ch0102s000018a0001"/>
-      <anchor id="ch0102s000000a0070"/>
-      <para id="ch0102s000000p0040">Maintenance medium contains nutrients and buffers that protect the cells during the stage when rapid growth is not desired but healthy monolayers must be controlled for inoculation of specimens and recovery of the etiologic agent. Seeded flasks, tubes, trays, or shell vials may be fed with medium multiple times prior to release from the vendor to ensure that the cells are growing according to specifications and arrive at the user site ready to be used. At the user site, most cells remain stable for a period of a few days without needing changing of the medium with which they were shipped. However, before use, it is common to remove the shipping medium and add a maintenance medium such as 2% FBS EMEM or 10% FBS Hanks’ buffer, minimal essential medium, or, for viruses that would be inhibited by serum proteins (e.g., myxoviruses and paramyxoviruses), R-Mix refeed medium. Trypsin and antimicrobial agents can be added if indicated. Other refeeding media for viruses include E-Mix refeed medium (Quidel) and 5 or 10% FBS growth medium. Tube cell cultures may require refeeding on a weekly or twice-weekly basis; however, the use of shell vial or cluster plate technology usually reduces refeeding to one time just prior to inoculation. Commercial media with and without enrichments, such as PBS,<phrase role="small">L</phrase>-glutamine, trypsin, and bactericidal and fungicidal agents, are available.</para>
+      <anchor id="ch0102s0018a0001"/>
+      <anchor id="ch0102s0018a0002"/>
+      <para id="ch0102s0018p0001">Maintenance medium contains nutrients and buffers that protect the cells during the stage when rapid growth is not desired but healthy monolayers must be controlled for inoculation of specimens and recovery of the etiologic agent. Seeded flasks, tubes, trays, or shell vials may be fed with medium multiple times prior to release from the vendor to ensure that the cells are growing according to specifications and arrive at the user site ready to be used. At the user site, most cells remain stable for a period of a few days without needing changing of the medium with which they were shipped. However, before use, it is common to remove the shipping medium and add a maintenance medium such as 2% FBS EMEM or 10% FBS Hanks’ buffer, minimal essential medium, or, for viruses that would be inhibited by serum proteins (e.g., myxoviruses and paramyxoviruses), R-Mix refeed medium. Trypsin and antimicrobial agents can be added if indicated. Other refeeding media for viruses include E-Mix refeed medium (Quidel) and 5 or 10% FBS growth medium. Tube cell cultures may require refeeding on a weekly or twice-weekly basis; however, the use of shell vial or cluster plate technology usually reduces refeeding to one time just prior to inoculation. Commercial media with and without enrichments, such as PBS,<phrase role="small">L</phrase>-glutamine, trypsin, and bactericidal and fungicidal agents, are available.</para>
     </sect1>
     <sect1 id="ch0102s0019">
       <title>■ CHLAMYDIA isolation medium</title>
-      <anchor id="ch0102s000019a0001"/>
-      <anchor id="ch0102s000000a0071"/>
-      <para id="ch0102s000000p0041">Some cell-dependent bacteria, such as<emphasis>C. trachomatis</emphasis>, require the cell host to restrict protein synthesis, thus allowing the infecting microbe to replicate more easily. For this reason, media used for propagation of <emphasis>Chlamydia</emphasis> spp. in cell culture commonly contain cycloheximide, a protein synthesis inhibitor. Isolation media for <emphasis>Chlamydia</emphasis> sp. detection using shell vials generally contain EMEM with EBSS, supplemented with 10% FBS, HEPES, glucose, nonessential amino acids, antibiotics (cycloheximide, gentamicin, or streptomycin), and amphotericin B.</para>
-      <anchor id="ch0102s000000a0072"/>
+      <anchor id="ch0102s0019a0001"/>
+      <anchor id="ch0102s0019a0002"/>
+      <para id="ch0102s0019p0001">Some cell-dependent bacteria, such as<emphasis>C. trachomatis</emphasis>, require the cell host to restrict protein synthesis, thus allowing the infecting microbe to replicate more easily. For this reason, media used for propagation of <emphasis>Chlamydia</emphasis> spp. in cell culture commonly contain cycloheximide, a protein synthesis inhibitor. Isolation media for <emphasis>Chlamydia</emphasis> sp. detection using shell vials generally contain EMEM with EBSS, supplemented with 10% FBS, HEPES, glucose, nonessential amino acids, antibiotics (cycloheximide, gentamicin, or streptomycin), and amphotericin B.</para>
+      <anchor id="ch0102s0019a0003"/>
       <beginpage pagenum="1644"/>
     </sect1>
     <sect1 id="ch0102s0020">
       <title>■ EMEM pH 2 to 3</title>
-      <anchor id="ch0102s000020a0001"/>
-      <anchor id="ch0102s000000a0073"/>
-      <para id="ch0102s000000p0042">Rhinoviruses require a lower temperature of incubation than many other pathogenic human viruses, and their characteristic CPE can be confused with enterovirus CPE, which has a similar appearance. At this time, mAbs that identify rhinoviruses are not available. For this reason, the acid solutions that can neutralize rhinoviruses, thus reducing viral titers, can be used to differentiate rhinoviruses from enteroviruses, which are not sensitive to low pH. EMEM pH 2 to 3 can be used to test for acid sensitivity.</para>
+      <anchor id="ch0102s0020a0001"/>
+      <anchor id="ch0102s0020a0002"/>
+      <para id="ch0102s0020p0001">Rhinoviruses require a lower temperature of incubation than many other pathogenic human viruses, and their characteristic CPE can be confused with enterovirus CPE, which has a similar appearance. At this time, mAbs that identify rhinoviruses are not available. For this reason, the acid solutions that can neutralize rhinoviruses, thus reducing viral titers, can be used to differentiate rhinoviruses from enteroviruses, which are not sensitive to low pH. EMEM pH 2 to 3 can be used to test for acid sensitivity.</para>
     </sect1>
     <sect1 id="ch0102s0021">
       <title>■ RPMI 1640 medium</title>
-      <anchor id="ch0102s000021a0001"/>
-      <anchor id="ch0102s000000a0074"/>
-      <para id="ch0102s000000p0043">RPMI medium consists of glucose, essential amino acids, other amino acids, vitamins, HEPES buffer, antibiotics (such as penicillin and streptomycin), and phenol red as an indicator. This enriched medium is used for lymphocyte cell cultivation and culture of HIV.</para>
+      <anchor id="ch0102s0021a0001"/>
+      <anchor id="ch0102s0021a0002"/>
+      <para id="ch0102s0021p0001">RPMI medium consists of glucose, essential amino acids, other amino acids, vitamins, HEPES buffer, antibiotics (such as penicillin and streptomycin), and phenol red as an indicator. This enriched medium is used for lymphocyte cell cultivation and culture of HIV.</para>
     </sect1>
     <sect1 id="ch0102s0022">
       <title>Proprietary Media</title>
-      <anchor id="ch0102s000022a0001"/>
-      <anchor id="ch0102s000000a0075"/>
+      <anchor id="ch0102s0022a0001"/>
+      <anchor id="ch0102s0022a0002"/>
     </sect1>
     <sect1 id="ch0102s0023">
       <title>■ CMV TurboTreat medium</title>
-      <anchor id="ch0102s000023a0001"/>
-      <anchor id="ch0102s000000a0076"/>
-      <para id="ch0102s000000p0044">CMV TurboTreat pretreatment medium (Quidel) consists of EMEM with EBSS without phenol red, 10% FBS, HEPES, and gentamicin. Pretreatment of Mv1Lu, R-Mix, and MRC-5 cultures overnight, prior to specimen addition, enhances the recovery of CMV (<link linkend="ch0102s000000li0078">29</link>).</para>
+      <anchor id="ch0102s0023a0001"/>
+      <anchor id="ch0102s0023a0002"/>
+      <para id="ch0102s0023p0001">CMV TurboTreat pretreatment medium (Quidel) consists of EMEM with EBSS without phenol red, 10% FBS, HEPES, and gentamicin. Pretreatment of Mv1Lu, R-Mix, and MRC-5 cultures overnight, prior to specimen addition, enhances the recovery of CMV (<link linkend="ch0102s0026s0001li0029">29</link>).</para>
     </sect1>
     <sect1 id="ch0102s0024">
       <title>■ ELVIS replacement medium</title>
-      <anchor id="ch0102s000024a0001"/>
-      <anchor id="ch0102s000000a0077"/>
-      <para id="ch0102s000000p0045">ELVIS replacement medium (Quidel) is used with the ELVIS test system and comprises EMEM, FBS, streptomycin, and amphotericin B.</para>
+      <anchor id="ch0102s0024a0001"/>
+      <anchor id="ch0102s0024a0002"/>
+      <para id="ch0102s0024p0001">ELVIS replacement medium (Quidel) is used with the ELVIS test system and comprises EMEM, FBS, streptomycin, and amphotericin B.</para>
     </sect1>
     <sect1 id="ch0102s0025">
       <title>■ R-Mix refeed and rinse medium</title>
-      <anchor id="ch0102s000025a0001"/>
-      <anchor id="ch0102s000000a0078"/>
-      <para id="ch0102s000000p0046">R-Mix refeed and rinse medium is used with R-Mix or R-Mix Too fresh and R-Mix or R-Mix Too ReadyCells (frozen shell vial) culture systems (Quidel) and is a defined serum-free medium with trypsin, penicillin, and streptomycin.</para>
+      <anchor id="ch0102s0025a0001"/>
+      <anchor id="ch0102s0025a0002"/>
+      <para id="ch0102s0025p0001">R-Mix refeed and rinse medium is used with R-Mix or R-Mix Too fresh and R-Mix or R-Mix Too ReadyCells (frozen shell vial) culture systems (Quidel) and is a defined serum-free medium with trypsin, penicillin, and streptomycin.</para>
       <sect2 id="ch0102s0025s0001">
         <title>QC IN THE DIAGNOSTIC VIROLOGY LABORATORY</title>
-        <anchor id="ch0102s000025a0002"/>
-        <anchor id="ch0102s000000a0079"/>
-        <para id="ch0102s000000p0047">The validity of diagnostic test results depends upon the measures employed during each phase of testing—preanalytical, analytical, and postanalytical—as part of an overall quality assurance program. QC in the diagnostic virology laboratory is one component of such a program and refers to the measures included in each assay to verify that the test is working properly and to ensure that a laboratory consistently produces accurate results. Essential to the QC process are the use of internal and external control material and the verification that these controls are performed in accordance with manufacturer criteria for acceptability, adherence to appropriate incubation time and temperatures for the assay, and ensuring that test kits are used prior to expiration. Internal controls demonstrate that each run worked properly, while external controls help to monitor consistent performance of the assay and lot-to-lot variation between kits.</para>
-        <para id="ch0102s000000p0048">Over the past 2 decades, molecular assays have become routine for the diagnosis of viral infections, often replacing traditional culture-based methods. Control material for qualitative molecular assays is often available from both test manufacturers as well as companies specializing in the production of controls and standards (i.e., AcroMetrix/ThermoFisher Scientific, Waltham, MA; Zeptometrix, Buffalo, NY). Due to the increasing number of immunocompromised hosts, molecular assays providing quantitation of viral nucleic acid have become common. In order to promote standardization and enhance the comparability of viral load results between laboratories, there has been a significant amount of effort focused on the development of international standards (ISs). These standards provide a reference point, or source of “universal truth,” against which the results of patient samples can be compared and quantitated.</para>
-        <para id="ch0102s000000p0049">The World Health Organization (WHO) first developed ISs for hepatitis C virus (HCV), hepatitis B virus (HBV), and HIV. Subsequently, WHO ISs have been developed for other transplant-associated viruses, including Epstein-Barr virus (EBV), CMV, and BK virus. The use of ISs allows for quantitative viral load assays to be reported in a standardized unit, International Units (IU). The WHO ISs also serve as resource for the development of secondary standards, which are calibrated directly against the WHO IS and are often incorporated as manufacturer-provided calibrators or assay controls (<link linkend="ch0102s000000li0079">30</link>, <link linkend="ch0102s000000li0080">31</link>).</para>
-        <para id="ch0102s000000p0050">Best practice is to establish a QC program for each assay performed by the diagnostic virology laboratory (<link linkend="ch0102s000000li0081">32</link>, <link linkend="ch0102s000000li0082">33</link>). Laboratories must follow the regulations set forth by the College of American Pathologists, CLIA, or other accrediting agency, but at a minimum, controls should be used at the frequency recommended by the assay manufacturer. Several commercial sources provide reliable QC material for purchase, including specific strains, purified nucleic acid, antigens, antibodies, and other biological reagents. Many companies also offer subscription programs for laboratories to participate in external quality assessment and proficiency testing programs. The appendix below lists several manufacturers and suppliers of QC material.</para>
+        <anchor id="ch0102s0025s0001a0001"/>
+        <anchor id="ch0102s0025s0001a0002"/>
+        <para id="ch0102s0025s0001p0001">The validity of diagnostic test results depends upon the measures employed during each phase of testing—preanalytical, analytical, and postanalytical—as part of an overall quality assurance program. QC in the diagnostic virology laboratory is one component of such a program and refers to the measures included in each assay to verify that the test is working properly and to ensure that a laboratory consistently produces accurate results. Essential to the QC process are the use of internal and external control material and the verification that these controls are performed in accordance with manufacturer criteria for acceptability, adherence to appropriate incubation time and temperatures for the assay, and ensuring that test kits are used prior to expiration. Internal controls demonstrate that each run worked properly, while external controls help to monitor consistent performance of the assay and lot-to-lot variation between kits.</para>
+        <para id="ch0102s0025s0001p0002">Over the past 2 decades, molecular assays have become routine for the diagnosis of viral infections, often replacing traditional culture-based methods. Control material for qualitative molecular assays is often available from both test manufacturers as well as companies specializing in the production of controls and standards (i.e., AcroMetrix/ThermoFisher Scientific, Waltham, MA; Zeptometrix, Buffalo, NY). Due to the increasing number of immunocompromised hosts, molecular assays providing quantitation of viral nucleic acid have become common. In order to promote standardization and enhance the comparability of viral load results between laboratories, there has been a significant amount of effort focused on the development of international standards (ISs). These standards provide a reference point, or source of “universal truth,” against which the results of patient samples can be compared and quantitated.</para>
+        <para id="ch0102s0025s0001p0003">The World Health Organization (WHO) first developed ISs for hepatitis C virus (HCV), hepatitis B virus (HBV), and HIV. Subsequently, WHO ISs have been developed for other transplant-associated viruses, including Epstein-Barr virus (EBV), CMV, and BK virus. The use of ISs allows for quantitative viral load assays to be reported in a standardized unit, International Units (IU). The WHO ISs also serve as resource for the development of secondary standards, which are calibrated directly against the WHO IS and are often incorporated as manufacturer-provided calibrators or assay controls (<link linkend="ch0102s0026s0001li0030">30</link>, <link linkend="ch0102s0026s0001li0031">31</link>).</para>
+        <para id="ch0102s0025s0001p0004">Best practice is to establish a QC program for each assay performed by the diagnostic virology laboratory (<link linkend="ch0102s0026s0001li0032">32</link>, <link linkend="ch0102s0026s0001li0033">33</link>). Laboratories must follow the regulations set forth by the College of American Pathologists, CLIA, or other accrediting agency, but at a minimum, controls should be used at the frequency recommended by the assay manufacturer. Several commercial sources provide reliable QC material for purchase, including specific strains, purified nucleic acid, antigens, antibodies, and other biological reagents. Many companies also offer subscription programs for laboratories to participate in external quality assessment and proficiency testing programs. The appendix below lists several manufacturers and suppliers of QC material.</para>
       </sect2>
       <sect2 id="ch0102s0025s0002">
         <title>APPENDIX</title>
-        <anchor id="ch0102s000025a0003"/>
-        <anchor id="ch0102s000000a0080"/>
+        <anchor id="ch0102s0025s0002a0001"/>
+        <anchor id="ch0102s0025s0002a0002"/>
       </sect2>
     </sect1>
     <sect1 id="ch0102s0026">
       <title>Sources of Virology Reagents, Stains, Media, Cell Lines, and QC Material (Including Molecular Diagnostics)</title>
-      <anchor id="ch0102s000026a0001"/>
-      <anchor id="ch0102s000000a0081"/>
+      <anchor id="ch0102s0026a0001"/>
+      <anchor id="ch0102s0026a0002"/>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0001">
+        <listitem id="ch0102s0026li0001">
           <para>American Type Culture Collection</para>
         </listitem>
-        <listitem id="ch0102s000000li0002">
+        <listitem id="ch0102s0026li0002">
           <para>Manassas, VA 20110</para>
         </listitem>
-        <listitem id="ch0102s000000li0003">
+        <listitem id="ch0102s0026li0003">
           <para><ulink url="http://www.atcc.org">http://www.atcc.org</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0004">
+        <listitem id="ch0102s0026li0004">
           <para>BBI Solutions</para>
         </listitem>
-        <listitem id="ch0102s000000li0005">
+        <listitem id="ch0102s0026li0005">
           <para>Cardiff, Wales, UK</para>
         </listitem>
-        <listitem id="ch0102s000000li0006">
+        <listitem id="ch0102s0026li0006">
           <para><ulink url="https://www.bbisolutions.com">https://www.bbisolutions.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0007">
+        <listitem id="ch0102s0026li0007">
           <para>BD Biosciences</para>
         </listitem>
-        <listitem id="ch0102s000000li0008">
+        <listitem id="ch0102s0026li0008">
           <para>Franklin Lakes, NJ 07417</para>
         </listitem>
-        <listitem id="ch0102s000000li0009">
+        <listitem id="ch0102s0026li0009">
           <para><ulink url="http://www.bdbiosciences.com">http://www.bdbiosciences.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0010">
+        <listitem id="ch0102s0026li0010">
           <para>Bio-Rad Laboratories</para>
         </listitem>
-        <listitem id="ch0102s000000li0011">
+        <listitem id="ch0102s0026li0011">
           <para>Hercules, CA 94547</para>
         </listitem>
-        <listitem id="ch0102s000000li0012">
+        <listitem id="ch0102s0026li0012">
           <para><ulink url="http://www.bio-rad.com">http://www.bio-rad.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0013">
-          <anchor id="ch0102s000000a0082"/>
+        <listitem id="ch0102s0026li0013">
+          <anchor id="ch0102s0026a0003"/>
           <para>Cambrex Corporation (BioWhittaker Cell Products)</para>
         </listitem>
-        <listitem id="ch0102s000000li0014">
+        <listitem id="ch0102s0026li0014">
           <para>East Rutherford, NJ 07073</para>
         </listitem>
-        <listitem id="ch0102s000000li0015">
+        <listitem id="ch0102s0026li0015">
           <para><ulink url="http://www.cambrex.com">http://www.cambrex.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0016">
+        <listitem id="ch0102s0026li0016">
           <para>Lonza, Inc.</para>
         </listitem>
-        <listitem id="ch0102s000000li0017">
+        <listitem id="ch0102s0026li0017">
           <para>Allendale, NJ 07401</para>
         </listitem>
-        <listitem id="ch0102s000000li0018">
+        <listitem id="ch0102s0026li0018">
           <para><ulink url="http://www.lonza.com">http:/www.lonza.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0019">
+        <listitem id="ch0102s0026li0019">
           <para>Maine Molecular Quality Controls, Inc.</para>
         </listitem>
-        <listitem id="ch0102s000000li0020">
+        <listitem id="ch0102s0026li0020">
           <para>Saco, ME 04072</para>
         </listitem>
-        <listitem id="ch0102s000000li0021">
+        <listitem id="ch0102s0026li0021">
           <para><ulink url="http://mmqci.com">http://mmqci.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0022">
+        <listitem id="ch0102s0026li0022">
           <para>Meridian Bioscience</para>
         </listitem>
-        <listitem id="ch0102s000000li0023">
+        <listitem id="ch0102s0026li0023">
           <para>Cincinnati, OH 45244</para>
         </listitem>
-        <listitem id="ch0102s000000li0024">
+        <listitem id="ch0102s0026li0024">
           <para><ulink url="http://www.meridianbioscience.com">http://www.meridianbioscience.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0025">
+        <listitem id="ch0102s0026li0025">
           <para>MilliporeSigma (Chemicon)</para>
         </listitem>
-        <listitem id="ch0102s000000li0026">
+        <listitem id="ch0102s0026li0026">
           <para>Billerica, MA 01821</para>
         </listitem>
-        <listitem id="ch0102s000000li0027">
+        <listitem id="ch0102s0026li0027">
           <para><ulink url="http://www.millipore.com">http://www.millipore.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0028">
+        <listitem id="ch0102s0026li0028">
           <para>Qnostics Ltd</para>
         </listitem>
-        <listitem id="ch0102s000000li0029">
+        <listitem id="ch0102s0026li0029">
           <para>Glasgow, G20 0XA, Scotland, UK, and</para>
         </listitem>
-        <listitem id="ch0102s000000li0030">
+        <listitem id="ch0102s0026li0030">
           <para>Shirley, NY 11967</para>
         </listitem>
-        <listitem id="ch0102s000000li0031">
+        <listitem id="ch0102s0026li0031">
           <para><ulink url="http://www.qnostics.com">www.qnostics.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0032">
+        <listitem id="ch0102s0026li0032">
           <para>Quality Control for Molecular Diagnostics</para>
         </listitem>
-        <listitem id="ch0102s000000li0033">
+        <listitem id="ch0102s0026li0033">
           <para>Glasgow, Scotland, UK</para>
         </listitem>
-        <listitem id="ch0102s000000li0034">
+        <listitem id="ch0102s0026li0034">
           <para><ulink url="http://qcmd.org">http://qcmd.org</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0035">
+        <listitem id="ch0102s0026li0035">
           <para>Quidel (Diagnostic Hybrids)</para>
         </listitem>
-        <listitem id="ch0102s000000li0036">
+        <listitem id="ch0102s0026li0036">
           <para>Athens, OH 45701</para>
         </listitem>
-        <listitem id="ch0102s000000li0037">
+        <listitem id="ch0102s0026li0037">
           <para><ulink url="http://www.quidel.com">http://www.quidel.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0038">
+        <listitem id="ch0102s0026li0038">
           <para>SeraCare Life Sciences (LGC Clinical Diagnostics, Inc.)</para>
         </listitem>
-        <listitem id="ch0102s000000li0039">
+        <listitem id="ch0102s0026li0039">
           <para>Milford, MA 01757</para>
         </listitem>
-        <listitem id="ch0102s000000li0040">
+        <listitem id="ch0102s0026li0040">
           <para><ulink url="http://www.seracare.com">www.seracare.com</ulink>
           </para>
         </listitem>
-        <listitem id="ch0102s000000li0041">
+        <listitem id="ch0102s0026li0041">
           <para>ThermoFisher Scientific (Remel)</para>
         </listitem>
-        <listitem id="ch0102s000000li0042">
+        <listitem id="ch0102s0026li0042">
           <para>Waltham, MA 02451</para>
         </listitem>
-        <listitem id="ch0102s000000li0043">
+        <listitem id="ch0102s0026li0043">
           <para><ulink url="http://thermofisher.com">http://thermofisher.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0044">
+        <listitem id="ch0102s0026li0044">
           <para>Vircell</para>
         </listitem>
-        <listitem id="ch0102s000000li0045">
+        <listitem id="ch0102s0026li0045">
           <para>Avicena 8, 18016 Granada, Spain</para>
         </listitem>
-        <listitem id="ch0102s000000li0046">
+        <listitem id="ch0102s0026li0046">
           <para><ulink url="https://www.vircell.com/">https://www.vircell.com/</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0102s000000li0047">
+        <listitem id="ch0102s0026li0047">
           <para>ZeptoMetrix</para>
         </listitem>
-        <listitem id="ch0102s000000li0048">
+        <listitem id="ch0102s0026li0048">
           <para>Buffalo, NY 14202</para>
         </listitem>
-        <listitem id="ch0102s000000li0049">
+        <listitem id="ch0102s0026li0049">
           <para><ulink url="http://www.zeptometrix.com">www.zeptometrix.com</ulink>
           </para>
         </listitem>
       </itemizedlist>
       <sect2 id="ch0102s0026s0001">
         <title>REFERENCES</title>
-        <anchor id="ch0102s000026a0002"/>
-        <anchor id="ch0102s000000a0083"/>
+        <anchor id="ch0102s0026s0001a0001"/>
+        <anchor id="ch0102s0026s0001a0002"/>
         <itemizedlist mark="none" role="biblioEntryList">
-          <listitem id="ch0102s000000li0050" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0001" role="bibliographyEntry">
             <para>1.<emphasis role="strong">Stinehardt E, Israeli C, Lambert R.</emphasis> 1913. Studies on the cultivation of the virus of vaccinia. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">13:</emphasis>204–300.</para>
           </listitem>
-          <listitem id="ch0102s000000li0051" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0002" role="bibliographyEntry">
             <para>2.<emphasis role="strong">Enders JF, Weller TH, Robbins FC.</emphasis> 1949. Cultivation of the Lansing strain of poliomyelitis virus in cultures of various human embryonic tissues. <citetitle><emphasis>Science</emphasis></citetitle> <emphasis role="strong">109:</emphasis>85–87.</para>
           </listitem>
-          <listitem id="ch0102s000000li0052" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0003" role="bibliographyEntry">
             <para>3.<emphasis role="strong">Landry ML, Leland D.</emphasis> 2016. Primary isolation of viruses, p 79–94. <citetitle><emphasis>In</emphasis></citetitle> Loeffelholz MJ, Hodinka RL, Young SA, Pinsky BA (ed), <citetitle><emphasis>Clinical Virology Manual</emphasis></citetitle>, 5th ed. ASM Press, Washington, DC.</para>
           </listitem>
-          <listitem id="ch0102s000000li0053" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0004" role="bibliographyEntry">
             <para>4.<emphasis role="strong">Leland DS.</emphasis> 1996. <citetitle><emphasis>Clinical Virology.</emphasis></citetitle> WB Saunders, Philadelphia, PA.</para>
           </listitem>
-          <listitem id="ch0102s000000li0054" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0005" role="bibliographyEntry">
             <para>5.<emphasis role="strong">Olivo PD.</emphasis> 1996. Transgenic cell lines for detection of animal viruses. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">9:</emphasis>321–334.</para>
           </listitem>
-          <listitem id="ch0102s000000li0055" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0006" role="bibliographyEntry">
             <para>6.<emphasis role="strong">Stabell EC, Olivo PD.</emphasis> 1992. Isolation of a cell line for rapid and sensitive histochemical assay for the detection of herpes simplex virus. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">38:</emphasis>195–204.</para>
           </listitem>
-          <listitem id="ch0102s000000li0056" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0007" role="bibliographyEntry">
             <para>7.<emphasis role="strong">Leland DS, Ginocchio CC.</emphasis> 2007. Role of cell culture for virus detection in the age of technology. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">20:</emphasis>49–78.</para>
           </listitem>
-          <listitem id="ch0102s000000li0057" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0008" role="bibliographyEntry">
             <para>8.<emphasis role="strong">Clinical and Laboratory Standards Institute.</emphasis> 2006. <citetitle><emphasis>Viral culture. CLSI document M41-A.</emphasis></citetitle> Clinical and Laboratory Standards Institute, Wayne, PA.</para>
           </listitem>
-          <listitem id="ch0102s000000li0058" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0009" role="bibliographyEntry">
             <para>9.<emphasis role="strong">Huang YT, Yan H, Sun Y, Jollick JA Jr, Baird H.</emphasis> 2002. Cryopreserved cell monolayers for rapid detection of herpes simplex virus and influenza virus. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">40:</emphasis>4301–4303.</para>
           </listitem>
-          <listitem id="ch0102s000000li0059" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0010" role="bibliographyEntry">
             <para>10.<emphasis role="strong">Bankowski MJ.</emphasis> 2016. Quality assurance and quality control in clinical and molecular virology, p 27–34. <citetitle><emphasis>In</emphasis></citetitle> Loeffelholz MJ, Hodinka RL, Young SA, Pinsky BA (ed), <citetitle><emphasis>Clinical Virology Manual</emphasis></citetitle>, 5th ed. ASM Press, Washington, DC.</para>
           </listitem>
-          <listitem id="ch0102s000000li0060" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0011" role="bibliographyEntry">
             <para>11.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2009. Biosafety in microbiological and biomedical laboratories, 5th ed. Centers for Disease Control and Prevention, Atlanta, GA. <ulink url="http://www.cdc.gov/biosafety/publications/bmbl5/BMBL.pdf">http://www.cdc.gov/biosafety/publications/bmbl5/BMBL.pdf</ulink>.</para>
           </listitem>
-          <listitem id="ch0102s000000li0061" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0012" role="bibliographyEntry">
             <para>12.<emphasis role="strong">College of American Pathologists.</emphasis> 2013. <citetitle><emphasis>Laboratory Improvement: Laboratory Accreditation Program Checklists.</emphasis></citetitle> College of American Pathologists, Chicago, IL.</para>
           </listitem>
-          <listitem id="ch0102s000000li0062" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0013" role="bibliographyEntry">
             <para>13.<emphasis role="strong">Ginocchio CC, Lotlikar M, Li X, Elsayed HH, Teng Y, Dougherty P, Kuhles DJ, Chaturvedi S, St George K.</emphasis> 2013. Identification of endogenous <citetitle><emphasis>Coccidioides posadasii</emphasis></citetitle> contamination of commercial primary rhesus monkey kidney cells. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">51:</emphasis>1288–1290.</para>
           </listitem>
-          <listitem id="ch0102s000000li0063" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0014" role="bibliographyEntry">
             <para>14.<emphasis role="strong">Purfield A, Ahmad N, Park BJ, Kuhles D, St George K, Ginocchio C, Harris JR.</emphasis> 2013. Epidemiology of commercial rhesus monkey kidney cells contaminated with <citetitle><emphasis>Coccidioides posadasii. J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">51:</emphasis>2005.</para>
           </listitem>
-          <listitem id="ch0102s000000li0064" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0015" role="bibliographyEntry">
             <para>15.<emphasis role="strong">Clinical and Laboratory Standards Institute.</emphasis> 2006. <citetitle><emphasis>Quality assurance for commercially prepared microbiologic culture media. CLSI document M22-A3.</emphasis></citetitle> Clinical and Laboratory Standards Institute, Wayne, PA.</para>
           </listitem>
-          <listitem id="ch0102s000000li0065" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0016" role="bibliographyEntry">
             <para>16.<emphasis role="strong">Minnich LL, Ray CG.</emphasis> 1987. Early testing of cell cultures for detection of hemadsorbing viruses. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">25:</emphasis>421–422.</para>
           </listitem>
-          <listitem id="ch0102s000000li0066" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0017" role="bibliographyEntry">
             <para>17.<emphasis role="strong">Weinberg A, Mettenbrink CJ, Ye D, Yang CF.</emphasis> 2005. Sensitivity of diagnostic tests for influenza varies with the circulating strains. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">33:</emphasis>172–175.</para>
           </listitem>
-          <listitem id="ch0102s000000li0067" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0018" role="bibliographyEntry">
             <para>18.<emphasis role="strong">Johnston SL, Siegel C.</emphasis> 1992. Comparison of Buffalo green monkey kidney cells and McCoy cells for the isolation of <citetitle><emphasis>Chlamydia trachomatis</emphasis></citetitle> in shell vial centrifugation culture. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">15:</emphasis>355–357.</para>
           </listitem>
-          <listitem id="ch0102s000000li0068" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0019" role="bibliographyEntry">
             <para>19.<emphasis role="strong">Gleaves CA, Smith TF, Shuster EA, Pearson GR.</emphasis> 1984. Rapid detection of cytomegalovirus in MRC-5 cells inoculated with urine specimens by using low-speed centrifugation and monoclonal antibody to an early antigen. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">19:</emphasis>917–919.</para>
           </listitem>
-          <listitem id="ch0102s000000li0069" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0020" role="bibliographyEntry">
             <para>20.<emphasis role="strong">Hughes JH.</emphasis> 1993. Physical and chemical methods for enhancing rapid detection of viruses and other agents. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">6:</emphasis>150–175.</para>
           </listitem>
-          <listitem id="ch0102s000000li0070" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0021" role="bibliographyEntry">
             <para>21.<emphasis role="strong">Barenfanger J, Drake C, Mueller T, Troutt T, O’Brien J, Guttman K.</emphasis> 2001. R-Mix cells are faster, at least as sensitive and marginally more costly than conventional cell lines for the detection of respiratory viruses. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">22:</emphasis>101–110.</para>
           </listitem>
-          <listitem id="ch0102s000000li0071" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0022" role="bibliographyEntry">
             <para>22.<emphasis role="strong">Fong CK, Lee MK, Griffith BP.</emphasis> 2000. Evaluation of R-Mix FreshCells in shell vials for detection of respiratory viruses. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">38:</emphasis>4660–4662.</para>
           </listitem>
-          <listitem id="ch0102s000000li0072" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0023" role="bibliographyEntry">
             <para>23.<emphasis role="strong">Huang YT, Hite S, Duane V, Yan H.</emphasis> 2002. CV-1 and MRC-5 mixed cells for simultaneous detection of herpes simplex viruses and varicella zoster virus in skin lesions. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">24:</emphasis>37–43.</para>
           </listitem>
-          <listitem id="ch0102s000000li0073" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0024" role="bibliographyEntry">
             <para>24.<emphasis role="strong">LaRocco MT.</emphasis> 2000. Evaluation of an enzyme-linked viral inducible system for the rapid detection of herpes simplex virus. <citetitle><emphasis>Eur J Clin Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">19:</emphasis>233–235.</para>
           </listitem>
-          <listitem id="ch0102s000000li0074" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0025" role="bibliographyEntry">
             <para>25.<emphasis role="strong">Proffitt MR, Schindler SA.</emphasis> 1995. Rapid detection of HSV with an enzyme-linked virus inducible system (ELVIS) employing a genetically modified cell line. <citetitle><emphasis>Clin Diagn Virol</emphasis></citetitle> <emphasis role="strong">4:</emphasis>175–182.</para>
           </listitem>
-          <listitem id="ch0102s000000li0075" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0026" role="bibliographyEntry">
             <para>26.<emphasis role="strong">Donta ST, Shaffer SJ.</emphasis> 1980. Effects of <citetitle><emphasis>Clostridium difficile</emphasis></citetitle> toxin on tissue-cultured cells. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">141:</emphasis>218–222.</para>
           </listitem>
-          <listitem id="ch0102s000000li0076" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0027" role="bibliographyEntry">
             <para>27.<emphasis role="strong">Ryan RW, Kwasnik I, Tilton RC.</emphasis> 1980. Rapid detection of <citetitle><emphasis>Clostridium difficile</emphasis></citetitle> toxin in human feces. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">12:</emphasis>776–779.</para>
           </listitem>
-          <listitem id="ch0102s000000li0077" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0028" role="bibliographyEntry">
             <para>28.<emphasis role="strong">Thelestam M, Brönnegård M.</emphasis> 1980. Interaction of cytopathogenic toxin from <citetitle><emphasis>Clostridium difficile</emphasis></citetitle> with cells in tissue culture. <citetitle><emphasis>Scand J Infect Dis Suppl</emphasis></citetitle> <emphasis role="strong">12</emphasis>(Suppl 22)<emphasis role="strong">:</emphasis>16–29.</para>
           </listitem>
-          <listitem id="ch0102s000000li0078" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0029" role="bibliographyEntry">
             <para>29.<emphasis role="strong">Yang W, Hite S, Huang YT.</emphasis> 2005. Enhancement of cytomegalovirus detection in mink lung cells using CMV Turbo. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">34:</emphasis>125–128.</para>
           </listitem>
-          <listitem id="ch0102s000000li0079" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0030" role="bibliographyEntry">
             <para>30.<emphasis role="strong">Madej RM, Davis J, Holden MJ, Kwang S, Labourier E, Schneider GJ.</emphasis> 2010. International standards and reference materials for quantitative molecular infectious disease testing. <citetitle><emphasis>J Mol Diagn</emphasis></citetitle> <emphasis role="strong">12:</emphasis>133–143.</para>
           </listitem>
-          <listitem id="ch0102s000000li0080" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0031" role="bibliographyEntry">
             <para>31.<emphasis role="strong">Baylis SA, Wallace P, McCulloch E, Niesters HGM, Nübling CM.</emphasis> 2019. Standardization of nucleic acid tests: the approach of the World Health Organization. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">57:</emphasis>e01056–e18.</para>
           </listitem>
-          <listitem id="ch0102s000000li0081" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0032" role="bibliographyEntry">
             <para>32.<emphasis role="strong">Clinical and Laboratory Standards Institute.</emphasis> 2011. Quality management system: a model for laboratory services. Approved guideline. 4th ed. CLSI document QMS01-A4. Clinical and Laboratory Standards Institute, Wayne, PA.</para>
           </listitem>
-          <listitem id="ch0102s000000li0082" role="bibliographyEntry">
+          <listitem id="ch0102s0026s0001li0033" role="bibliographyEntry">
             <para>33.<emphasis role="strong">Clinical and Laboratory Standards Institute.</emphasis> 2012. <citetitle><emphasis>ISO 15189: Medical laboratories—requirements for quality and competence.</emphasis></citetitle> Clinical and Laboratory Standards Institute, Wayne, PA.</para>
           </listitem>
         </itemizedlist>
-        <anchor id="ch0102s000000a0084"/>
+        <anchor id="ch0102s0026s0001a0003"/>
         <beginpage pagenum="1646"/>
       </sect2>
     </sect1>
