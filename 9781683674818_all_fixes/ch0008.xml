@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <chapter id="ch0008">
     <title/>
-    <sect1 id="ch0008s0001">
+    <sect1 id="ch0008s10000">
       <title/>
-      <para id="ch0008s0001p0001">Copyright © 2023 by the American Society for Microbiology. All rights reserved.</para>
-      <para id="ch0008s0001p0002">Copublication by the American Society for Microbiology and John Wiley &amp; Sons, Inc.</para>
-      <para id="ch0008s0001p0003">No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means electronic, mechanical, photocopying, recording, scanning, or otherwise, except as permitted by law. Advice on how to reuse material from this title is available at<ulink url="http://wiley.com/go/permissions">http://wiley.com/go/permissions</ulink>.</para>
-      <para id="ch0008s0001p0004">The right of Karen C. Carroll and Michael A. Pfaller to be identified as the editors of this work/the editorial material in this work has been asserted in accordance with law.</para>
-      <para id="ch0008s0001p0005"><emphasis>Limit of Liability/Disclaimer of Warranty</emphasis>
+      <para id="ch0008s0000p0001">Copyright © 2023 by the American Society for Microbiology. All rights reserved.</para>
+      <para id="ch0008s0000p0002">Copublication by the American Society for Microbiology and John Wiley &amp; Sons, Inc.</para>
+      <para id="ch0008s0000p0003">No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means electronic, mechanical, photocopying, recording, scanning, or otherwise, except as permitted by law. Advice on how to reuse material from this title is available at<ulink url="http://wiley.com/go/permissions">http://wiley.com/go/permissions</ulink>.</para>
+      <para id="ch0008s0000p0004">The right of Karen C. Carroll and Michael A. Pfaller to be identified as the editors of this work/the editorial material in this work has been asserted in accordance with law.</para>
+      <para id="ch0008s0000p0005"><emphasis>Limit of Liability/Disclaimer of Warranty</emphasis>
       </para>
-      <para id="ch0008s0001p0006">While the publishers, editors, and authors have used their best efforts in preparing this book, they make no representations or warranties with respect to the accuracy of completeness of the contents of this book and specifically disclaim any implied warranties or merchantability of fitness for a particular purpose. No warranty may be created or extended by sales representatives or written sales materials. The publisher is not providing legal, medical, or other professional services. The procedures and guidelines suggested herein are from reliable sources and in line with the practices accepted at the time of publishing. Any reference herein to any specific commercial products, procedures, or services by trade name, trademark, manufacturer, or otherwise does not constitute or imply endorsement, recommendation, or favored status by the American Society for Microbiology (ASM). The views and opinions of the author(s) expressed in this publication do not necessarily state or reflect those of ASM, and they shall not be used to advertise or endorse any product.</para>
-      <para id="ch0008s0001p0007"><emphasis>Editorial Correspondence:</emphasis>
+      <para id="ch0008s0000p0006">While the publishers, editors, and authors have used their best efforts in preparing this book, they make no representations or warranties with respect to the accuracy of completeness of the contents of this book and specifically disclaim any implied warranties or merchantability of fitness for a particular purpose. No warranty may be created or extended by sales representatives or written sales materials. The publisher is not providing legal, medical, or other professional services. The procedures and guidelines suggested herein are from reliable sources and in line with the practices accepted at the time of publishing. Any reference herein to any specific commercial products, procedures, or services by trade name, trademark, manufacturer, or otherwise does not constitute or imply endorsement, recommendation, or favored status by the American Society for Microbiology (ASM). The views and opinions of the author(s) expressed in this publication do not necessarily state or reflect those of ASM, and they shall not be used to advertise or endorse any product.</para>
+      <para id="ch0008s0000p0007"><emphasis>Editorial Correspondence:</emphasis>
       </para>
-      <para id="ch0008s0001p0008">ASM Press, 1752 N Street, NW, Washington, DC 20036-2904, USA</para>
-      <para id="ch0008s0001p0009"><emphasis>Registered Offices:</emphasis>
+      <para id="ch0008s0000p0008">ASM Press, 1752 N Street, NW, Washington, DC 20036-2904, USA</para>
+      <para id="ch0008s0000p0009"><emphasis>Registered Offices:</emphasis>
       </para>
-      <para id="ch0008s0001p0010">John Wiley &amp; Sons, Inc., 111 River Street, Hoboken, NJ 07030, USA</para>
-      <para id="ch0008s0001p0011">For details of our global editorial offices, customer services, and more information about Wiley products, visit us at<ulink url="http://www.wiley.com">www.wiley.com</ulink>.</para>
-      <para id="ch0008s0001p0012"><emphasis>Library of Congress Cataloging-in-Publication Data has been applied for</emphasis>
+      <para id="ch0008s0000p0010">John Wiley &amp; Sons, Inc., 111 River Street, Hoboken, NJ 07030, USA</para>
+      <para id="ch0008s0000p0011">For details of our global editorial offices, customer services, and more information about Wiley products, visit us at<ulink url="http://www.wiley.com">www.wiley.com</ulink>.</para>
+      <para id="ch0008s0000p0012"><emphasis>Library of Congress Cataloging-in-Publication Data has been applied for</emphasis>
       </para>
-      <para id="ch0008s0001p0013">Print ISBN: 9781683674290</para>
-      <para id="ch0008s0001p0014">Volume ISBN: 9781683674313</para>
-      <para id="ch0008s0001p0015">Cover design by: Wiley</para>
+      <para id="ch0008s0000p0013">Print ISBN: 9781683674290</para>
+      <para id="ch0008s0000p0014">Volume ISBN: 9781683674313</para>
+      <para id="ch0008s0000p0015">Cover design by: Wiley</para>
     </sect1>
   </chapter>

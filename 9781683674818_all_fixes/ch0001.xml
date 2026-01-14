@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <preface id="ch0001">
     <title>Preface</title>
-    <figure id="ch0001f0001"><title>Cover</title>
+    <figure id="ch0001s0000f0000"><title>Cover</title>
       
       <mediaobject>
         <imageobject>
@@ -9,9 +9,9 @@
         </imageobject>
       </mediaobject>
     </figure>
-    <sect1 id="ch0001s0001">
+    <sect1 id="ch0001s10000">
       <title>Preface</title>
-      <figure id="ch0001s0001f0001"><title/>
+      <figure id="ch0001s0000f0001"><title/>
         
         <mediaobject>
           <imageobject>
