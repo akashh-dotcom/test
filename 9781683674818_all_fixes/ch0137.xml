@@ -3,82 +3,82 @@
     <title>section VI MYCOLOGY</title>
     <sect1 id="ch0137s0001">
       <title>section VI MYCOLOGY</title>
-      <anchor id="ch0137s000100a0001"/>
-      <anchor id="ch0137s000000a0001"/>
-      <para id="ch0137s000000p0001" role="chapterAuthor"><emphasis role="strong">VOLUME EDITOR:</emphasis> BOBBI S. PRITT</para>
-      <para id="ch0137s000000p0002" role="chapterAuthor"><emphasis role="strong">SECTION EDITORS:</emphasis> ELIZABETH M. JOHNSON AND SEAN X. ZHANG</para>
+      <anchor id="ch0137s0001a0001"/>
+      <anchor id="ch0137s0001a0002"/>
+      <para id="ch0137s0001p0001" role="chapterAuthor"><emphasis role="strong">VOLUME EDITOR:</emphasis> BOBBI S. PRITT</para>
+      <para id="ch0137s0001p0002" role="chapterAuthor"><emphasis role="strong">SECTION EDITORS:</emphasis> ELIZABETH M. JOHNSON AND SEAN X. ZHANG</para>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0137s000000li0001">
+        <listitem id="ch0137s0001li0001">
           <para><ulink url="ch0138">G<phrase role="small">ENERAL</phrase></ulink>
           </para>
         </listitem>
-        <listitem id="ch0137s000000li0002">
+        <listitem id="ch0137s0001li0002">
           <para><ulink url="ch0138#ch0138s0001s0001">117 Taxonomy, Classification, and Nomenclature of Fungi</ulink></para>
-          <para id="ch0137s000000p0003">CONNIE F. CAÑETE-GIBAS AND NATHAN P. WIEDERHOLD</para>
+          <para id="ch0137s0001p0003">CONNIE F. CAÑETE-GIBAS AND NATHAN P. WIEDERHOLD</para>
         </listitem>
-        <listitem id="ch0137s000000li0003">
+        <listitem id="ch0137s0001li0003">
           <para><ulink url="ch0139#ch0139s0001">118 Specimen Collection, Transport, and Processing: Mycology</ulink></para>
-          <para id="ch0137s000000p0004">ELIZABETH L. BERKOW AND D. JOSEPH SEXTON</para>
+          <para id="ch0137s0001p0004">ELIZABETH L. BERKOW AND D. JOSEPH SEXTON</para>
         </listitem>
-        <listitem id="ch0137s000000li0004">
+        <listitem id="ch0137s0001li0004">
           <para><ulink url="ch0140#ch0140s0001">119 Reagents, Stains, and Media: Mycology</ulink></para>
-          <para id="ch0137s000000p0005">MARK D. LINDSLEY</para>
+          <para id="ch0137s0001p0005">MARK D. LINDSLEY</para>
         </listitem>
-        <listitem id="ch0137s000000li0005">
+        <listitem id="ch0137s0001li0005">
           <para><ulink url="ch0141#ch0141s0001">120 General Approaches for Direct and Indirect Detection and Identification of Fungi</ulink></para>
-          <para id="ch0137s000000p0006">MADIHA FIDA, NANCY L. WENGENACK, AND ELITZA S. THEEL</para>
+          <para id="ch0137s0001p0006">MADIHA FIDA, NANCY L. WENGENACK, AND ELITZA S. THEEL</para>
         </listitem>
-        <listitem id="ch0137s000000li0006">
+        <listitem id="ch0137s0001li0006">
           <para><ulink url="ch0142">F<phrase role="small">UNGI</phrase></ulink>
           </para>
         </listitem>
-        <listitem id="ch0137s000000li0007">
+        <listitem id="ch0137s0001li0007">
           <para><ulink url="ch0142#ch0142s0001s0001">121 Candida, Cryptococcus, and Other Yeasts of Medical Importance</ulink></para>
-          <para id="ch0137s000000p0007">ANDREW M. BORMAN AND ELIZABETH M. JOHNSON</para>
+          <para id="ch0137s0001p0007">ANDREW M. BORMAN AND ELIZABETH M. JOHNSON</para>
         </listitem>
-        <listitem id="ch0137s000000li0008">
+        <listitem id="ch0137s0001li0008">
           <para><ulink url="ch0143#ch0143s0001">122 Pneumocystis jirovecii</ulink></para>
-          <para id="ch0137s000000p0008">MELANIE T. CUSHION, A. GEORGE SMULIAN, AND MARGARET V. POWERS-FLETCHER</para>
+          <para id="ch0137s0001p0008">MELANIE T. CUSHION, A. GEORGE SMULIAN, AND MARGARET V. POWERS-FLETCHER</para>
         </listitem>
-        <listitem id="ch0137s000000li0009">
+        <listitem id="ch0137s0001li0009">
           <para><ulink url="ch0144#ch0144s0001">123 Aspergillus, Talaromyces, and Penicillium</ulink></para>
-          <para id="ch0137s000000p0009">SHARON C.-A. CHEN, WIELAND MEYER, TANIA C. SORRELL, AND CATRIONA L. HALLIDAY</para>
+          <para id="ch0137s0001p0009">SHARON C.-A. CHEN, WIELAND MEYER, TANIA C. SORRELL, AND CATRIONA L. HALLIDAY</para>
         </listitem>
-        <listitem id="ch0137s000000li0010">
+        <listitem id="ch0137s0001li0010">
           <para><ulink url="ch0145#ch0145s0001">124 Fusarium and Other Opportunistic Hyaline Fungi</ulink></para>
-          <para id="ch0137s000000p0010">SEAN X. ZHANG, KERRY O’DONNELL, NATHAN P. WIEDERHOLD, AND CONNIE F. CAÑETE-GIBAS</para>
+          <para id="ch0137s0001p0010">SEAN X. ZHANG, KERRY O’DONNELL, NATHAN P. WIEDERHOLD, AND CONNIE F. CAÑETE-GIBAS</para>
         </listitem>
-        <listitem id="ch0137s000000li0011">
+        <listitem id="ch0137s0001li0011">
           <para><ulink url="ch0146#ch0146s0001">125 Agents of Systemic and Subcutaneous Mucormycosis and Entomophthoromycosis</ulink></para>
-          <para id="ch0137s000000p0011">DEA GARCIA-HERMOSO, ALEXANDRE ALANIO, FANNY LANTERNIER, AND OLIVIER LORTHOLARY</para>
+          <para id="ch0137s0001p0011">DEA GARCIA-HERMOSO, ALEXANDRE ALANIO, FANNY LANTERNIER, AND OLIVIER LORTHOLARY</para>
         </listitem>
-        <listitem id="ch0137s000000li0012">
+        <listitem id="ch0137s0001li0012">
           <para><ulink url="ch0147#ch0147s0001">126 Histoplasma, Blastomyces, Coccidioides, Paracoccidioides and Other Dimorphic Fungi Causing Systemic Mycoses</ulink></para>
-          <para id="ch0137s000000p0012">GEORGE R. THOMPSON, III AND BEATRIZ L. GOMEZ</para>
+          <para id="ch0137s0001p0012">GEORGE R. THOMPSON, III AND BEATRIZ L. GOMEZ</para>
         </listitem>
-        <listitem id="ch0137s000000li0013">
+        <listitem id="ch0137s0001li0013">
           <para><ulink url="ch0148#ch0148s0001">127 The Dermatophytes and Their Relatives (Trichophyton, Microsporum, Epidermophyton, Arthroderma, Nannizzia, Paraphyton, and Lophophyton) and Other Agents of Superficial Mycoses</ulink></para>
-          <para id="ch0137s000000p0013">ANDREW M. BORMAN AND RICHARD C. SUMMERBELL</para>
+          <para id="ch0137s0001p0013">ANDREW M. BORMAN AND RICHARD C. SUMMERBELL</para>
         </listitem>
-        <listitem id="ch0137s000000li0014">
+        <listitem id="ch0137s0001li0014">
           <para><ulink url="ch0149#ch0149s0001">128 Curvularia, Exophiala, Scedosporium, Sporothrix, and Other Melanized Fungi</ulink></para>
-          <para id="ch0137s000000p0014">JOSEP GUARRO, HUGO MADRID, AND SYBREN<phrase role="small">DE</phrase> HOOG</para>
+          <para id="ch0137s0001p0014">JOSEP GUARRO, HUGO MADRID, AND SYBREN<phrase role="small">DE</phrase> HOOG</para>
         </listitem>
-        <listitem id="ch0137s000000li0015">
+        <listitem id="ch0137s0001li0015">
           <para><ulink url="ch0150#ch0150s0001">129 Fungi Causing Eumycotic Mycetoma</ulink></para>
-          <para id="ch0137s000000p0015">WENDY W. J. VAN DE SANDE</para>
+          <para id="ch0137s0001p0015">WENDY W. J. VAN DE SANDE</para>
         </listitem>
-        <listitem id="ch0137s000000li0016">
+        <listitem id="ch0137s0001li0016">
           <para><ulink url="ch0151#ch0151s0001">130 Mycotoxins</ulink></para>
-          <para id="ch0137s000000p0016">DIANIRIS LUCIANO-ROSARIO AND NANCY P. KELLER</para>
+          <para id="ch0137s0001p0016">DIANIRIS LUCIANO-ROSARIO AND NANCY P. KELLER</para>
         </listitem>
-        <listitem id="ch0137s000000li0017">
+        <listitem id="ch0137s0001li0017">
           <para><ulink url="ch0152#ch0152s0001">131 Lagenidium, Paralagenidium, Pythium, Rhinosporidium, and Uncultivated Paracoccidioides Species (Formerly Lacazia loboi )</ulink></para>
-          <para id="ch0137s000000p0017">RAQUEL VILELA AND LEONEL MENDOZA</para>
+          <para id="ch0137s0001p0017">RAQUEL VILELA AND LEONEL MENDOZA</para>
         </listitem>
-        <listitem id="ch0137s000000li0018">
+        <listitem id="ch0137s0001li0018">
           <para><ulink url="ch0153#ch0153s0001">132 Microsporidia</ulink></para>
-          <para id="ch0137s000000p0018">LOUIS M. WEISS</para>
+          <para id="ch0137s0001p0018">LOUIS M. WEISS</para>
         </listitem>
       </itemizedlist>
     </sect1>
