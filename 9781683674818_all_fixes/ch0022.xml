@@ -1,0 +1,645 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0022">
+    <title>7 Laboratory Automation in Clinical Microbiology</title>
+    <sect1 id="ch0022s0001">
+      <title>7 Laboratory Automation in Clinical Microbiology</title>
+      <anchor id="ch0022s000001a0001"/>
+      <anchor id="ch0022s000000a0001"/>
+      <para role="chapterAuthor"><phrase role="center">ERIN M<phrase role="small">C</phrase>ELVANIA, CHRISTOPHER D. DOERN, AND KARISSA CULBREATH</phrase>
+      </para>
+      <para id="ch0022s000000p0001">The practice of clinical microbiology has been revolutionized by technological innovations such as the advent of molecular diagnostics and PCR, matrix-assisted laser desorption ionization–time of flight mass spectrometry (MALDI-TOF MS), and most recently laboratory automation. The ability to automate culture-based microbiology comes as a welcome relief to laboratories struggling to keep up with the demands of increasing test volumes in the face of ongoing staffing shortages. Automated culture-based microbiology systems can be modular and automate isolated tasks, such as specimen processing, inoculation, and plate streaking, or they can offer a comprehensive process which automates everything from specimen processing to plate reading and obtaining results.</para>
+      <para id="ch0022s000000p0002">Although there are many forms of automation, this chapter focuses on the automation of culture-based bacteriology, and readers are referred to other chapters for discussions on automated susceptibility testing systems (<ulink url="ch0093#ch0093s0001">chapter 75</ulink>) and molecular diagnostics (<ulink url="ch0023#ch0023s0001">chapter 8</ulink>). In this chapter, the various components of culture-based automation are discussed, along with some important considerations for those looking to adopt automation in their microbiology laboratory, such as how to select the right system, change management, and system validation. The chapter also includes some details of each system for the purposes of facilitating a capability comparison. It is important to note that these systems are rapidly evolving; readers should check with the manufacturers as they are making decisions about which automated system is best for their laboratory.</para>
+      <sect2 id="ch0022s0001s0001">
+        <title>LABORATORY AUTOMATION: HISTORICAL PERSPECTIVE</title>
+        <anchor id="ch0022s000001a0002"/>
+        <anchor id="ch0022s000000a0002"/>
+        <para id="ch0022s000000p0003">The microbiology laboratory has changed very little over the past 30 years with respect to laboratory automation. The field, though, is now shifting toward automating what has traditionally been a manual discipline. Even though clinical chemistry laboratories adopted total laboratory automation (TLA) over 30 years ago, the concept has been slow to be accepted in microbiology (<link linkend="ch0022s000000li0001">1</link>). Several factors have contributed to the delay in automating clinical microbiology laboratories.</para>
+        <para id="ch0022s000000p0004">First, the complexity of the microbiological specimen has hindered the development of TLA solutions. The clinical chemistry specimen is of relatively uniform volume and consistency and, perhaps most importantly, is collected in standardized containers. These factors are conducive to automation and are in sharp contrast to specimens received in clinical microbiology laboratories. The clinical microbiology laboratory must be able to process and analyze an enormous variety of specimen types which are collected in highly variable containers. The shift towards liquid-based, flocked-swab specimen collection systems has simplified processing of a significant portion of microbiology specimens and facilitated the adoption of laboratory automation, in particular, automated specimen processing.</para>
+        <para id="ch0022s000000p0005">Second, many specimens collected for bacterial culture are not from normally sterile sites. Technologists must read and interpret cultures and distinguish normal flora from pathogens using Gram stain interpretation, knowledge of expected microbiota at the site, knowledge of pathogens, and the relative quantity of these organisms. Culture interpretation is a highly specialized skill that takes months to years for technologists to develop. In the clinical microbiology laboratory, technologists must work with TLA systems to efficiently produce culture results. This differs significantly from the “sample in, answer out” testing performed by automated chemistry instruments. Artificial intelligence programs may one day be able to replicate the complex interpretations required of microbiology technologists, but at present, most culture interpretation requires human judgment and cannot be automated.</para>
+        <para id="ch0022s000000p0006">Third, the cost of automation is a significant barrier to entry into the clinical microbiology laboratory. Relative to chemistry testing, microbiology specimen volumes are much smaller. However, in the face of clinical microbiology laboratory consolidation and labor shortages, the high-volume, centralized laboratory model is becoming common and may be an attractive setting for the introduction and expansion of automation.</para>
+      </sect2>
+      <sect2 id="ch0022s0001s0002">
+        <title>DESCRIPTION OF LABORATORY AUTOMATION SYSTEMS</title>
+        <anchor id="ch0022s000001a0003"/>
+        <anchor id="ch0022s000000a0003"/>
+        <para id="ch0022s000000p0007">There are three major commercial systems for laboratory automation: BD Kiestra (Becton Dickinson, Franklin Lakes, NJ), Copan WASPLab (Copan Diagnostics, Murrieta, CA), and the Clever Culture Systems APAS (Clever Culture Systems, Freienbach, Switzerland). The details of each system are presented below. The BD Kiestra and the Copan WASPLAB are modular, consisting of a specimen processor which inoculates specimens onto agar plates, “smart” incubators which hold temperature and CO<subscript>2</subscript> concentration constant, resulting in optimal growth of bacterial and yeast colonies, and digital imaging of agar plates for culture reading and interpretation. Automation in microbiology aims to improve quality, reduce time to results, better manage an increasing number of specimens, compensate for reduction in skilled staff, and be more economically effective (<link linkend="ch0022s000000li0002">2</link>). In one study, installation of a WASPLab system in four diverse clinical microbiology laboratories resulted in an 18 to 93% increase in productivity. Testing volumes at all four laboratories rose after TLA was implemented, and the increased productivity resulted in a full-time equivalent (FTE) savings of 5.6 to 13.6, depending on the site (<link linkend="ch0022s000000li0003">3</link>, <link linkend="ch0022s000000li0004">4</link>).</para>
+        <anchor id="ch0022s000000a0004"/>
+        <beginpage pagenum="124"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0022s0002">
+      <title>BD Kiestra Lab Automation</title>
+      <anchor id="ch0022s000002a0001"/>
+      <anchor id="ch0022s000000a0005"/>
+      <para id="ch0022s000000p0008">BD Kiestra lab automation comes in many configurations, allowing a custom design to accommodate the specimen volumes, physical laboratory space, and clinical needs of any microbiology laboratory. BD Kiestra TLA consists of InoqulA+ specimen processing, a ProceedA track, a ReadA compact incubator and imaging module, and work benches connected to the ProceedA track (<anchor id="ch0022s000000a0006"/><link linkend="ch0022s000000a0014">Fig. 1</link> and <anchor id="ch0022s000000a0007"/><link linkend="ch0022s000000a0016">2</link>). Other configurations are the stand-alone BD Kiestra InoqulA+ sample processor (<anchor id="ch0022s000000a0009"/><link linkend="ch0022s000000a0023">Fig. 3</link>), the BD Kiestra work cell, consisting of InoqulA+ and a ReadA compact incubator and imaging module (<anchor id="ch0022s000000a0010"/><link linkend="ch0022s000000a0025">Fig. 4</link>), and the BD Kiestra ReadA module (<anchor id="ch0022s000000a0011"/><link linkend="ch0022s000000a0027">Fig. 5</link>), which is a stand-alone incubation and imaging module. New additions to the BD Kiestra lab automation system include IdentifA, an automated colony picking and MALDI-TOF mass spectrometry spotting module, and SusceptA, an automated antimicrobial susceptibility testing module to be used in conjunction with the BD Phoenix M50 system (<anchor id="ch0022s000000a0012"/><link linkend="ch0022s000000a0029">Fig. 6</link>).</para>
+      <anchor id="ch0022s000000a0008"/>
+      <beginpage pagenum="125"/>
+      <figure id="ch0022s000000f0001"><title><anchor id="ch0022s000000a0013"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0014"/><link linkend="ch0022s000000a0006">FIGURE 1</link></phrase></emphasis> BD Kiestra TLA unit consisting of the InoqulA+ front-end processor, six work stations attached to the ProceedA tract system, and four ReadA compact incubators with internal agar plate imaging. Courtesy and © Beckton, Dickinson, and Company. Reprinted with permission.</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0022f13.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0022s000000f0002"><title><anchor id="ch0022s000000a0015"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0016"/><link linkend="ch0022s000000a0007">FIGURE 2</link></phrase></emphasis> Installed BD Kiestra TLA unit with one InoqulA processor, five ReadA compact incubators, and seven workbenches, installed at Bioscientia Labor Ingelheim, Ingelheim, Germany. Courtesy and © Beckton, Dickinson, and Company. Reprinted with permission.
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0022f14.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+    </sect1>
+    <sect1 id="ch0022s0003">
+      <title>WASPLab</title>
+      <anchor id="ch0022s000003a0001"/>
+      <anchor id="ch0022s000000a0017"/>
+      <para id="ch0022s000000p0009">The WASPLab (Copan) (<anchor id="ch0022s000000a0018"/><link linkend="ch0022s000000a0034">Fig. 7</link>) has a modular construction and connects the individual machines through a conveyer-connected system. The system processes smears (as an add-on feature) and sputum, stool, and liquid samples. It includes specimen processing with the WASP, incubation in aerobic and CO<subscript>2</subscript> atmospheres, and digital imaging. An incubator has a capacity of 854 (single incubator) to 1,708 (double incubator) plates. The system includes an automated colony-picking system (Colibri) (<anchor id="ch0022s000000a0019"/><link linkend="ch0022s000000a0036">Fig. 8</link>). The Colibri system automates the preparation of targets for MALDI-TOF MS and prepares a suspension for antimicrobial susceptibility testing that can be adjusted to accommodate a variety of identification (ID) and antimicrobial susceptibility testing (AST) systems. It processes subcultures and purity plates. The Colibri system receives information from WASPLab via digital imaging. The WASP-FLO supports automatic robotic sorting and loading of samples onto conveyor lines to distribute samples to multiple WASP stations. The Collaborative Robot is a HEPA-filtered workstation that can be contained in a biological safety cabinet to allow processing of specimens that cannot be placed on the WASP directly, such as tissues, traditional transport swabs, and nonstandard collection devices. Specimens processed in this way are inserted into the automation incubation system after they have been inoculated. <anchor id="ch0022s000000a0021"/><link linkend="ch0022s000000a0041">Figure 9</link> shows a WASPLab installed in a clinical laboratory.</para>
+      <anchor id="ch0022s000000a0020"/>
+      <beginpage pagenum="126"/>
+      <figure id="ch0022s000000f0003"><title><anchor id="ch0022s000000a0022"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0023"/><link linkend="ch0022s000000a0009">FIGURE 3</link></phrase></emphasis> BD Kiestra stand-alone InoqulA+ front-end processor. Courtesy and © Beckton, Dickinson, and Company. Reprinted with permission.</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0022f15.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0022s000000f0004"><title><anchor id="ch0022s000000a0024"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0025"/><link linkend="ch0022s000000a0010">FIGURE 4</link></phrase></emphasis> BD Kiestra work cell automation (WCA) consisting of an InoqulA+ front-end processor and two ReadA compact incubators with internal imaging. Courtesy and © Beckton, Dickinson, and Company. Reprinted with permission.</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0022f16.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0022s000000f0005"><title><anchor id="ch0022s000000a0026"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0027"/><link linkend="ch0022s000000a0011">FIGURE 5</link></phrase></emphasis> BD Kiestra ReadA compact stand-alone instrument for agar plate incubation and imaging. Courtesy and © Beckton, Dickinson, and Company. Reprinted with permission.</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0022f17.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0022s000000f0006"><title><anchor id="ch0022s000000a0028"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0029"/><link linkend="ch0022s000000a0012">FIGURE 6</link></phrase></emphasis> BD Kiestra TLA containing the IdentifA and SusceptA modules, which allow automated MALDI-TOF MS organism identification and antimicrobial susceptibility testing in conjunction with the BD Phoenix M50 system. Courtesy and © Beckton, Dickinson, and Company. Reprinted with permission.</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0022f18.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+    </sect1>
+    <sect1 id="ch0022s0004">
+      <title>Clever Culture Systems APAS Independence</title>
+      <anchor id="ch0022s000004a0001"/>
+      <anchor id="ch0022s000000a0030"/>
+      <para id="ch0022s000000p0010">The APAS Independence is currently the only FDA-cleared system for presumptive classification of colonies in large morphologic groups (i.e., coliform-like colonies, swarming colonies,<emphasis>Staphylococcus</emphasis>-like colonies, etc.) (<anchor id="ch0022s000000a0031"/><link linkend="ch0022s000000a0043">Fig. 10</link>). The APAS Independence system requires off-line incubation and manual loading of plates onto the system for imaging analysis. As of the writing of this chapter, the system is capable of interpreting methicillin-resistant <emphasis>Staphylococcus aureus</emphasis> (MRSA) chromogenic agar plates as well as urine culture plates. Artificial intelligence analyzes the digital images of the plates and triages them into the categories “significant,” “nonsignificant,” “negative,” or “for review,” thus allowing the laboratory to streamline their workflow and potentially reduce the burden of managing negative cultures. Once the plates have been analyzed, the system sorts them into canisters according to their interpretation so that a technologist can then remove them and take the appropriate next steps in the culture workup. A study by Glasson et al. demonstrated this system was able to generate presumptive identifications on blood and MacConkey agar with variable sensitivity, with the lowest percentages for <emphasis>Staphylococcus</emphasis>-like colonies (81.5%) and physically smaller colonies (88.8) and the highest percentages for swarming colonies and small β-hemolytic colonies (100%) (<link linkend="ch0022s000000li0005">5</link>).</para>
+      <anchor id="ch0022s000000a0032"/>
+      <beginpage pagenum="127"/>
+      <figure id="ch0022s000000f0007"><title><anchor id="ch0022s000000a0033"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0034"/><link linkend="ch0022s000000a0018">FIGURE 7</link></phrase></emphasis> WASPLab (Copan), including WASP (depth, 79.0 cm; width, 194.9 cm; weight, 720 to 740 kg), double incubator (depth, 83.0 cm; width, 173.8 cm; weight, 875 kg), and imaging system (depth, 121.3 cm; width, 37.5 cm; weight, 300 kg). Image courtesy of COPAN Diagnostics, Inc.</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0022f19.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0022s000000f0008"><title><anchor id="ch0022s000000a0035"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0036"/><link linkend="ch0022s000000a0019">FIGURE 8</link></phrase></emphasis> WASP Colibri (depth, 79.0 cm; width, 193.0 cm; weight, 780 kg). Image courtesy of COPAN Diagnostics, Inc.</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0022f20.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para id="ch0022s000000p0011">The APAS Independence is a free-standing instrument that weighs about 730 lb (330 kg) with dimensions (length by width by height) of 78.74 in. by 31.5 in. by 62.99 in. and can process 200 plates per h.</para>
+      <sect2 id="ch0022s0004s0001">
+        <title>AUTOMATED SPECIMEN PROCESSING</title>
+        <anchor id="ch0022s000004a0002"/>
+        <anchor id="ch0022s000000a0037"/>
+        <para id="ch0022s000000p0012">Automated inoculation of clinical specimens has been the center of research and development for several years (<link linkend="ch0022s000000li0006">6</link>). The automation of microbiological specimen processing improves the quality of plate streaking, avoids cross-contamination, alleviates ergonomic issues, and reduces processing time and costs (<link linkend="ch0022s000000li0007">7</link>). Automated plate streaking is reproducible and reliably yields isolated colonies. This reduces the number of subcultures necessary for identification and antimicrobial susceptibility testing (<link linkend="ch0022s000000li0008">8</link>). The systems usually process swabs in liquid transport media such as E-swab (Copan Diagnostics, Murrieta, CA), Pur Flock (Puritan Medical Products, Guilford, ME), and Sigma swab (Medical Wire, Wiltshire, England). These swab systems consist of either an open-pore polyurethane foam tip with modified Amies medium (Sigma swab) or a nylon-flocked swab with Amies medium (E-Swab and Pur Flock). These systems lead to a significantly improved release of microorganisms from the swab to the transport medium and allow better evaluation of the microorganisms in the Gram stain (<link linkend="ch0022s000000li0009">9</link>, <link linkend="ch0022s000000li0010">10</link>). Swabs in solid or semisolid transport media can be processed only on semiautomatic instruments. The devices available are divided according to different inoculation techniques using the loop or the bead technique. In <anchor id="ch0022s000000a0039"/><link linkend="ch0022s000000a0047">Table 1</link>, the automated inoculation systems are compared according to the specimen type processed, the capacity of specimen loading, the number of specimens processed depending on streaking pattern, the number of plates inoculated, and the preparation of slides and broth medium (<link linkend="ch0022s000000li0011">11</link>, <link linkend="ch0022s000000li0012">12</link>). Most recent inoculation instruments were evaluated. A comparative study of the Copan WASP and the BD Kiestra InoqulA (<link linkend="ch0022s000000li0008">8</link>) showed greater accuracy and a higher number of isolated colonies produced by the InoqulA Instrument than the WASP for the inoculation of urine samples. More studies are required to evaluate the quality of laboratory automation concerning other clinical specimens, such as stool samples, respiratory material, and wound swabs.</para>
+        <anchor id="ch0022s000000a0038"/>
+        <beginpage pagenum="128"/>
+        <figure id="ch0022s000000f0009"><title><anchor id="ch0022s000000a0040"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0041"/><link linkend="ch0022s000000a0021">FIGURE 9</link></phrase></emphasis> Installed WASPLab with 2 WASP, 2 double incubators, and 10 work benches, installed at Stichting PAMM Laboratorium Medische Microbiologie, Veldhoven, The Netherlands. Image courtesy of COPAN Diagnostics, Inc.</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0022f21.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+        <figure id="ch0022s000000f0010"><title><anchor id="ch0022s000000a0042"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0043"/><link linkend="ch0022s000000a0031">FIGURE 10</link></phrase></emphasis> APAS Independence Clever Culture system (Clever Culture Systems, Freienbach, Switzerland). Photo courtesy of Thermo Fisher Scientific.</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0022f22.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0022s0005">
+      <title>BD Kiestra InoqulA+</title>
+      <anchor id="ch0022s000005a0001"/>
+      <anchor id="ch0022s000000a0044"/>
+      <para id="ch0022s000000p0013">The InoqulA+ specimen processor operates in three modes. Fully automated (FA) mode is used for liquid-based specimens and includes medium selection based on the specimen type, agar plate labeling with patient identifiers, specimen inoculation, and agar plate streaking; semiautomated (SA) mode allows the technologist to add specimen to the agar plate from within the biosafety cabinet, but all other steps detailed above are automated; and first-inoculation (FI) mode allows the technologist to inoculate and streak the agar plates, but medium selection and labeling are automated. In FA and SA modes, the streaking pattern (<anchor id="ch0022s000000a0046"/><link linkend="ch0022s000000a0051">Fig. 11</link>) can be either selected from a variety of patterns or defined by the customer for each specimen or medium type. Rather than a traditional loop-based system, the InoqulA+ uses a sterile magnetic rolling bead technology to streak the plates. The InoqulA+ can hold 1,836 uninoculated plates in boxes with up to 24 different types of media (<link linkend="ch0022s000000a0047">Table 1</link>). Sterilized, disposable, metal inoculation beads are purchased from the manufacturer.</para>
+      <anchor id="ch0022s000000a0045"/>
+      <beginpage pagenum="129"/>
+      <table id="ch0022s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0047"/><link linkend="ch0022s000000a0039">TABLE 1</link></phrase></emphasis> Automated inoculation systems
+</title>
+        
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry>Feature</entry>
+              <entry><phrase role="center">InoqulA FA/SA/MI<superscript><link linkend="ch0022s000000a0049"><emphasis>a</emphasis></link></superscript></phrase>
+                <anchor id="ch0022s000000a0048"/>
+              </entry>
+              <entry><phrase role="center">WASP</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>Specimen types</entry>
+              <entry>Liquid-based specimens, smears, urine (FA); swab specimens, nonfluid specimens (SA/MI)</entry>
+              <entry>Liquid-based specimens, smears, sputum, stool</entry>
+            </row>
+            <row>
+              <entry>Maximum capacity for specimen loading</entry>
+              <entry>270 loaded in 6 racks</entry>
+              <entry>72 loaded in 12 racks</entry>
+            </row>
+            <row>
+              <entry>Plate storage</entry>
+              <entry>1,836 plates</entry>
+              <entry>324–378 plates</entry>
+            </row>
+            <row>
+              <entry>Broth storage</entry>
+              <entry>5 racks of 45</entry>
+              <entry>4 racks of 12</entry>
+            </row>
+            <row>
+              <entry>No. of different media</entry>
+              <entry>24</entry>
+              <entry>9</entry>
+            </row>
+            <row>
+              <entry>Sample centrifugation</entry>
+              <entry>No</entry>
+              <entry>Yes</entry>
+            </row>
+            <row>
+              <entry>Additional required disposables</entry>
+              <entry>Pipette, bead</entry>
+              <entry>None</entry>
+            </row>
+            <row>
+              <entry>Broth inoculation (inoculation vol [μl])</entry>
+              <entry>Yes (10–250)</entry>
+              <entry>Yes (1, 10, 30)</entry>
+            </row>
+            <row>
+              <entry>Inoculation technique (vol [μl])</entry>
+              <entry>Bead (10–250)</entry>
+              <entry>Loop (1, 10, 30)</entry>
+            </row>
+            <row>
+              <entry>No. of plates streaked at the same time</entry>
+              <entry>1–5</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>No. of specimens/h</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Inoculation, urine, pattern 1 plating</entry>
+              <entry>78</entry>
+              <entry>180</entry>
+            </row>
+            <row>
+              <entry>Inoculation, urine, pattern 1 plating + 1 slide preparation</entry>
+              <entry>39</entry>
+              <entry>90</entry>
+            </row>
+            <row>
+              <entry>3 quadrant, pattern 1 plating</entry>
+              <entry>78</entry>
+              <entry>140</entry>
+            </row>
+            <row>
+              <entry>3 quadrant, pattern 1 plating of 3 plates + 1 broth medium</entry>
+              <entry>41</entry>
+              <entry>40</entry>
+            </row>
+            <row>
+              <entry>3 quadrant, pattern 1 plating of 3 plates + 1 broth medium + 1 slide preparation</entry>
+              <entry>28</entry>
+              <entry>25</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para role="table-footnote"><superscript><link linkend="ch0022s000000a0048"><emphasis>a</emphasis></link></superscript><anchor id="ch0022s000000a0049"/> FA, full automation; SA, semi-automated; MI, manual inoculation.</para>
+      <figure id="ch0022s000000f0011"><title><anchor id="ch0022s000000a0050"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0051"/><link linkend="ch0022s000000a0046">FIGURE 11</link></phrase></emphasis> InoqulA+ inoculated agar plate (chromogenic medium; CHROMagar orientation). Courtesy and © Beckton, Dickinson, and Company. Reprinted with permission.</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0022f23.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <sect2 id="ch0022s0005s0001">
+        <title>WASP</title>
+        <anchor id="ch0022s000005a0002"/>
+        <anchor id="ch0022s000000a0052"/>
+        <para id="ch0022s000000p0014">The WASP processes various specimen types which are automatically decapped and recapped as well as agitated or centrifuged prior to inoculation. Between 342 and 370 uninoculated plates can be stored in silos with up to nine different types of media; only one plate type should be used per silo (<link linkend="ch0022s000000a0047">Table 1</link>). The streaking pattern (<anchor id="ch0022s000000a0053"/><link linkend="ch0022s000000a0059">Fig. 12</link>) can be selected from a variety of options. The inoculating loop is thermally sterilized and includes imaging of the loop to ensure inoculum capture. In addition, a single agar plate can be inoculated with two different specimens on each half. The inoculated media are sorted according to the plate type. The plates are labeled on the side or on the base. Gram slide preparation, inoculation of enrichment broths, and an antibiotic disk dispenser for antimicrobial susceptibility testing are available. Cultured plates can be reloaded in the WASP for disk diffusion antimicrobial susceptibility testing. The WASP is equipped with a HEPA filtration system.</para>
+        <para id="ch0022s000000p0015">Features of the BD Kiestra and WASPLab systems are listed in<anchor id="ch0022s000000a0054"/><link linkend="ch0022s000000a0063">Table 2</link>.</para>
+      </sect2>
+      <sect2 id="ch0022s0005s0002">
+        <title>DIGITAL IMAGING AND IMAGE ANALYSIS</title>
+        <anchor id="ch0022s000005a0003"/>
+        <anchor id="ch0022s000000a0055"/>
+        <para id="ch0022s000000p0016">Digital imaging of the culture plate is one of the central components in TLA and is the raw data produced by TLA systems. Digital imaging software is designed to capture high-resolution images and improve the visual assessment of organism growth. Per manufacturer recommendations, digital images should be viewed on computer monitors that have met specification requirements established by the manufacturer due to the variation in monitor resolution.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0022s0006">
+      <title>Imaging</title>
+      <anchor id="ch0022s000006a0001"/>
+      <anchor id="ch0022s000000a0056"/>
+      <para id="ch0022s000000p0017">The camera may be considered the most powerful tool on the automation system. The quality of the camera provides the imaging power that will be used in subsequent data analysis. Several important factors ensure that high-quality images are captured for digital image analysis: color reproduction and consistency, low noise, wide dynamic range, and high spatial resolution.</para>
+      <anchor id="ch0022s000000a0057"/>
+      <beginpage pagenum="130"/>
+      <figure id="ch0022s000000f0012"><title><anchor id="ch0022s000000a0058"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0059"/><link linkend="ch0022s000000a0053">FIGURE 12</link></phrase></emphasis> WASP-inoculated MacConkey agar plate (<emphasis>E. coli</emphasis>).</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0022f12.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <sect2 id="ch0022s0006s0001">
+        <title>Color Reproduction and Consistency</title>
+        <anchor id="ch0022s000006a0002"/>
+        <anchor id="ch0022s000000a0060"/>
+        <para id="ch0022s000000p0018">Clinical microbiology is practiced by identifying and acting upon colony morphologies based on visual cues of even small variations of color. Colors captured by the digital camera should match as closely as possible the color perceived by the technologists by visual inspection. Additionally, the color capture should be consistent from image to image and across the cameras that are used on the system. An additional component to this is the monitor on which the digital image is viewed (personal communication Erin McElvania).</para>
+      </sect2>
+      <sect2 id="ch0022s0006s0002">
+        <title>Resolution</title>
+        <anchor id="ch0022s000006a0003"/>
+        <anchor id="ch0022s000000a0061"/>
+        <para id="ch0022s000000p0019">The resolution of an image is the ability to distinguish fine detail in the image. The resolution of an image is expressed as the number of dots per inch (dpi) or pixels per inch (ppi) of the image that is captured. The higher the dpi of an image, the higher its image resolution. A high-resolution camera allows one to capture a digital image in a single frame while maintaining the detail and clarity of the image. The goal of resolution is to differentiate the smallest amount of detail that is anticipated to be necessary for appropriate interpretation of the culture.</para>
+        <para id="ch0022s000000p0020">For digital images, one must consider both the resolution of the camera and the pixel dimensions of the monitors on which the image will be displayed. Each monitor is different and may have a different resolution based on the pixel dimensions (i.e., the horizontal and vertical measurements of an image expressed in pixels). The pixel dimension of the monitor has a significant impact on the quality of the image presented to the technologist to be analyzed. Therefore, many manufacturers require that images be analyzed only on approved monitors that have image resolution appropriate for culture interpretation and analysis.</para>
+        <anchor id="ch0022s000000a0062"/>
+        <beginpage pagenum="131"/>
+        <table id="ch0022s000000t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0063"/><link linkend="ch0022s000000a0054">TABLE 2</link></phrase></emphasis> Features of BD Kiestra WCA and TLA and WASPLab
+</title>
+          
+          <tgroup cols="8">
+            <tbody>
+              <row>
+                <entry>Instrument</entry>
+                <entry>Incubator capacity (no. of plates)</entry>
+                <entry>Atmosphere</entry>
+                <entry>Plate loading and image taking<emphasis>T</emphasis><subscript>0</subscript> (plates/h)</entry>
+                <entry>Camera</entry>
+                <entry>Light source and background</entry>
+                <entry>Configuration</entry>
+                <entry>No. of installed units<superscript><link linkend="ch0022s000000a0065"><emphasis>a</emphasis></link></superscript><anchor id="ch0022s000000a0064"/></entry>
+              </row>
+              <row>
+                <entry>WCA; TLA (BD Kiestra B.V., Drachten, The Netherlands)</entry>
+                <entry>1,152</entry>
+                <entry>Aerobic, CO<subscript>2</subscript></entry>
+                <entry>300</entry>
+                <entry>25 megapixels</entry>
+                <entry>Top, bottom, side; black and white</entry>
+                <entry><para>WCA: 1 specimen processor, 1–3 incubators; integration of workbenches with software possible</para>
+                  <para id="ch0022s000000p0021">TLA: 1 or 2 specimen processors, 1–6 incubators; 1–12 integrated workbenches</para>
+                </entry>
+                <entry><para>InoqulA: 152</para>
+                  <para id="ch0022s000000p0022">WCA: 60</para>
+                  <para id="ch0022s000000p0023">TLA: 102</para>
+                  <para id="ch0022s000000p0024">ReadA stand-alone: 18</para>
+                  <para id="ch0022s000000p0025">IdentifA: 14</para>
+                </entry>
+              </row>
+              <row>
+                <entry>WASPLab (Copan Italia Spa, Brescia, Italy)</entry>
+                <entry>854–1,708</entry>
+                <entry>Aerobic, CO<subscript>2</subscript></entry>
+                <entry>250</entry>
+                <entry>27 megapixels</entry>
+                <entry>Top, bottom; black and white</entry>
+                <entry>1 or 2 specimen processors, 1–3 incubators; integration of workbenches with software possible</entry>
+                <entry><para>WASP: 476</para>
+                  <para id="ch0022s000000p0026">WASPLab: 65</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><link linkend="ch0022s000000a0064"><emphasis>a</emphasis></link></superscript><anchor id="ch0022s000000a0065"/>WASPLab and BD Kiestra WCA and TLA; data current as of April 2021.</para>
+      </sect2>
+      <sect2 id="ch0022s0006s0003">
+        <title>Light</title>
+        <anchor id="ch0022s000006a0004"/>
+        <anchor id="ch0022s000000a0066"/>
+        <para id="ch0022s000000p0027">Critical to the ability to capture digital images is the use of light in the imaging system. For image analysis, two key features are used to describe how light impacts the image, dynamic range and sensitivity. Dynamic range is the total range of tonal difference between the lightest and darkest part of an image that can be captured in one form. The higher the dynamic range, the more shades from light to dark that can be represented. However, with a high dynamic range, there is still the need for a range of tones to be represented. This is impacted by the imaging sensitivity, which is the lowest light intensity a camera can capture with the lowest level of noise introduced into the system (personal communication Erin McElvania). According to the manufacturers, combining dynamic range and sensitivity will determine the appropriate amount of light needed to distinguish the appropriate features in the culture image.</para>
+        <para id="ch0022s000000p0028">Culture plate imaging systems take pictures of plates with several exposures and under different lighting conditions (front, back, and side lights) and imaging conditions (exposure time and brightness) in order to simulate the lighting environment used by the technologist to determine the colony size, shape, color, and hemolysis. For instance, backlighting may be better to observe hemolysis, while front lighting may be best to observe bacterial colony shape and color (personal communication Erin McElvania). Systems may include an image acquired after inoculation but prior to being entered in the incubator, time zero (<emphasis>T</emphasis><subscript>0</subscript>). The <emphasis>T</emphasis><subscript>0</subscript> image can be used to (i) compare growth following incubation, (ii) review any inconsistencies in the agar that may have been present prior to incubation, and (iii) provide a baseline image for automated image analysis system.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0022s0007">
+      <title>Image Analysis</title>
+      <anchor id="ch0022s000007a0001"/>
+      <anchor id="ch0022s000000a0067"/>
+      <para id="ch0022s000000p0029">Obtaining a digital image of the culture allows the use of new tools and opportunities for advancement in culture reading and interpretation. The benefits of using a digital image for analysis include customization of image capture time for laboratory workflow, static image capture, preservation of the image for future use, and automation software-supported image analysis.</para>
+      <para id="ch0022s000000p0030">Most systems allow users to configure the imaging process to take pictures of plates at customizable times with several exposures and at various angles in order to simulate the lighting environments used by the technologist to determine colony size, shape, color, and hemolysis. This allows the user to determine the appropriate time for image capture based on the needs and workflow in the laboratory. This customization of imaging ensures that cultures are imaged at specified times and aids in interpretation of cultures. Use of digital images and TLA can allow images to be captured at earlier time points, reducing the overall turnaround time (TAT) for culture reading (<link linkend="ch0022s000000li0003">3</link>, <link linkend="ch0022s000000li0013">13</link>–<link linkend="ch0022s000000li0015">15</link>). In one study, image capture at 16 h instead of 18 h reduced the overall time to result by 10 h with only a slight loss in sensitivity (1 to 2% for Gram-negative organisms and 3 to 7% for Gram-positive organisms) (<link linkend="ch0022s000000li0014">14</link>).</para>
+      <para id="ch0022s000000p0031">Digital images provide the advantage of capturing the culture at a static period, thus preserving the optimal read time for the culture. Even if images are not processed immediately, the image remains preserved, allowing evaluation of the culture to be interpreted appropriately, even if colonies grow further and can possibly grow together. In each system, with the included software interface, colonies of bacteria can be digitally selected and labeled by the technologist reading the culture or by image analysis systems for further processing either manually or by additional automation components (<link linkend="ch0022s000000li0016">16</link>, <link linkend="ch0022s000000li0017">17</link>). In addition, all samples from one patient (e.g., urine, sputum, and multidrug-resistant organism screening) can be evaluated simultaneously to allow comprehensive interpretation of the cultures, rather than each culture or source being interpreted in isolation. Last, images can be archived and later used for training or for quality control (QC) programs.</para>
+      <para id="ch0022s000000p0032">The methods employed by clinical microbiology image analysis systems may include comparing images taken at inoculation to images taken at different times during incubation, using an algorithm based on signal-to-noise/pixel ratio or machine learning to distinguish colony presence and absence (<link linkend="ch0022s000000li0005">5</link>). Applications of these tools to aid in interpretation of colony morphology include detection and quantification of all colonies on a particular medium type, detection of appropriate growth on chromogenic media for morphologic assessment, and interpretation of colony morphology.</para>
+      <para id="ch0022s000000p0033">Obtaining a digital image provides the opportunity for developing digital image analysis systems based on artificial intelligence (AI) and neural network pathways to support interpretation of the culture. The system must be able to replicate the complex decision-making that a technologist performs. A simple decision tree for a technologist may be as follows: (i) determine the presence of colonies; (ii) determine the morphology; (iii) distinguish the presence of multiple morphologies; (iv) count the colonies present; (v) count the colonies of each morphology present; (vi) use laboratory procedures to determine how to work up the culture. Developing AI systems that can replicate these highly complex tasks required to interpret a culture remains a challenge.</para>
+      <para id="ch0022s000000p0034">The first algorithms that were developed were based on the first criterion of growth or no growth on general culture media, which looks for the presence of microbial colonies at a given colony count to identify cultures with growth (<link linkend="ch0022s000000li0018">18</link>–<link linkend="ch0022s000000li0020">20</link>). The use of chromogenic media can further enhance these tools by combining the ability to identify colony growth and colony color to aid in identification of colonies on the agar. Several studies have demonstrated that use of image analysis tools with chromogenic media improves the detection of positive colonies compared to when cultures are reviewed either on the digital image or manually (<link linkend="ch0022s000000li0021">21</link>). Further, the use of image analysis tools plus chromogenic media improves the sensitivity of cultures to approach that of molecular methods (<link linkend="ch0022s000000li0022">22</link>). In the cases of chromogenic media, there is generally very high specificity, with false-positive results generated often due to pigmentation associated with residual sample matrix or due to inherent lack of specificity of the chromogenic media (<link linkend="ch0022s000000li0021">21</link>, <link linkend="ch0022s000000li0022">22</link>).</para>
+      <para id="ch0022s000000p0035">AI-powered image analysis systems have the potential to move beyond simple detection of the presence of organisms on nonselective media or chromogenic agar. Ultimately, the goal for the AI would be to provide a presumptive organism identification.</para>
+      <para id="ch0022s000000p0036">Advancements in the automated analysis and interpretation of digital images are expected to continue. These advancements can include the use of more chromogenic media for simplified image analysis, additional imaging tools to identify distinguishing features in colonies that allow more accurate colony identification, and integration of laboratory data to aid in the interpretation of significance of the culture. Last, approval of these algorithms by the FDA may lead to broader adoption, as this may remove the need for a medical technologist to verify instrument decisions.</para>
+      <anchor id="ch0022s000000a0068"/>
+      <beginpage pagenum="132"/>
+      <sect2 id="ch0022s0007s0001">
+        <title>CRITERIA FOR EVALUATION AND SELECTION OF AN AUTOMATION SYSTEM</title>
+        <anchor id="ch0022s000007a0002"/>
+        <anchor id="ch0022s000000a0069"/>
+        <para id="ch0022s000000p0037">Before an automation system is chosen, the daily routine in the laboratory should be evaluated. Data regarding specimen volume, arrival time of specimens, plate reading schedule, and overall workflow must be collected in order to negotiate the future laboratory design with the manufacturers being considered. If possible, it is recommended that the institutions conduct a thorough assessment of the systems installed in other institutions to determine whether each system can fulfill a laboratory’s needs. All types of laboratory personnel should be involved in the project to incorporate their suggestions and ideas as well as to increase general support for the necessary changes. There are now several publications addressing this issue (<link linkend="ch0022s000000li0002">2</link>, <link linkend="ch0022s000000li0003">3</link>).</para>
+        <para id="ch0022s000000p0038">Factors to consider when selecting an automated system are outlined below.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0022s0008">
+      <title>Productivity and Throughput</title>
+      <anchor id="ch0022s000008a0001"/>
+      <anchor id="ch0022s000000a0070"/>
+      <para id="ch0022s000000p0039">The productivity of automation systems depends upon the number of specimens processed and the TAT for the entire analytic process. Productivity is affected by several factors. Specimen type and the number of plates per sample must be considered. Respiratory material, urine, wound swabs, genitourinary tract specimens, and screening swabs for multidrug-resistant organisms are processed with different types of media. The productivity is influenced by the choice of a streaking pattern, the number of pictures taken by digital imaging, and whether a whole plate or a biplate is inoculated. Given the current trend of consolidation of clinical microbiology laboratories, laboratories should consider current and future states of productivity with appropriate growth metrics included in the analysis (<link linkend="ch0022s000000li0003">3</link>, <link linkend="ch0022s000000li0023">23</link>).</para>
+    </sect1>
+    <sect1 id="ch0022s0009">
+      <title>Reliability, Stability, and Durability</title>
+      <anchor id="ch0022s000009a0001"/>
+      <anchor id="ch0022s000000a0071"/>
+      <para id="ch0022s000000p0040">Indicators showing possible malfunctions of a system should be applied. Contingency plans for possible failures of the system based on information provided by the manufacturer should be laid out in advance. Allowance for a certain number of inspections and service procedures should be made, with time allotted for their duration. Staff to service the system should be available on weekends and during holidays.</para>
+    </sect1>
+    <sect1 id="ch0022s0010">
+      <title>Technical Aspects</title>
+      <anchor id="ch0022s000010a0001"/>
+      <anchor id="ch0022s000000a0072"/>
+      <para id="ch0022s000000p0041">In the beginning, a survey of the buildings should be conducted, and the infrastructure of the rooms determined: the required space and the weight of the machines should be calculated; the power supply and, if necessary, the compressed-air outlets should be determined as well as the heating, ventilation, and air conditioning (HVAC) capacities. At present, the dimensions of the devices and systems continue to decrease. Future developments must also be considered. The possible integration of additional devices such as PCR equipment, colony-picking instruments, and identification and antimicrobial susceptibility testing instruments, including MALDI-TOF MS, should also be considered.</para>
+    </sect1>
+    <sect1 id="ch0022s0011">
+      <title>Software Applications</title>
+      <anchor id="ch0022s000011a0001"/>
+      <anchor id="ch0022s000000a0073"/>
+      <para id="ch0022s000000p0042">The instruments should possess a bidirectional interface to the laboratory information system (LIS), which may require the use of middleware. Coordinating the middleware software and LIS is essential. If required, instruments from other manufacturers should be integrated.</para>
+    </sect1>
+    <sect1 id="ch0022s0012">
+      <title>Safety and Hygiene</title>
+      <anchor id="ch0022s000012a0001"/>
+      <anchor id="ch0022s000000a0074"/>
+      <para id="ch0022s000000p0043">The automated specimen processors should be closed and an appropriate air filter system such as a HEPA filter applied. The risk of contamination must also be considered, and protocols for cleaning and disinfecting of the incubators and conveyors should be established. Occupational health and safety regulations should be considered. There are no current regulations or guidelines addressing the issue of safety in laboratory automation. Of significant concern is the matter of containing exposures generated through errors in automatic incubation.</para>
+    </sect1>
+    <sect1 id="ch0022s0013">
+      <title>Quality Control and Scientific Aspects</title>
+      <anchor id="ch0022s000013a0001"/>
+      <anchor id="ch0022s000000a0075"/>
+      <para id="ch0022s000000p0044">The entire system should be integrated into the quality management program. The individual work steps must be monitored in compliance with the laboratory regulations: reading the barcode on the samples and plates, inoculating and transporting the plates, digital image processing, and waste disposal. Inoculators should ensure that particles and air bubbles in the specimen are detected in order to avoid false-negative inoculations. Measures against transposition and cross-contamination of the samples should be ensured during the validation process. A study evaluating cross-contamination by automated systems has been published (<link linkend="ch0022s000000li0024">24</link>). In that study, sterile and <emphasis>E. coli</emphasis>-inoculated Vacutainer tubes as well as E-Swab tubes were alternately loaded on the WASP. No colonies were observed from the sterile specimen. At present, there is no formal guidance on the performance of quality control for automated systems. As a result, laboratory directors will need to decide what is appropriate for their own laboratories. Although there is no official guidance, one option would be to implement sterility checks that control the inoculation process by processing negative specimens and looking for system contamination. Additional quality control monitoring may include incubator temperature checks, standards for quantitation, and image quality assessment. Manufacturers may make specific recommendation for monitoring these processes or the laboratory may choose to develop their own internal monitoring processes (<link linkend="ch0022s000000li0024">24</link>).</para>
+    </sect1>
+    <sect1 id="ch0022s0014">
+      <title>Costs</title>
+      <anchor id="ch0022s000014a0001"/>
+      <anchor id="ch0022s000000a0076"/>
+      <para id="ch0022s000000p0045">Laboratories must take into consideration not only the cost of purchasing the devices but also the cost of the consumable supplies (e.g., pipettes, combs, or beads). Inoculation devices cost at least $200,000 (U.S. dollars [USD]). TLA costs vary by country but can exceed 2 million USD. It might be necessary to purchase agar plates and broths from different manufacturers. Changing agar media often results in the need to reprogram the automated plate streaker, which can lead to additional costs. Changes in workflow can lead to alterations in the staffing requirements on different shifts and may necessitate implementing a night shift if one does not currently exist. This must be considered when the return on the investment is assessed. Service and repair charges, as well as the costs of the interfaces, must also be included. The annual costs of the service agreement can exceed 10% of the original investment. Possible structural changes in the laboratory should also be represented in the financial plan. Laboratories should have a clearly identified plan for determining the return on investment when deciding to implement a TLA system (<link linkend="ch0022s000000li0003">3</link>). The life span of automated systems has not been formally defined by the manufacturer and will be dependent on the usage in each laboratory. Some early adopters in Europe have been using their BD Kiestra automated systems for 10 years (as of 2022).</para>
+      <anchor id="ch0022s000000a0077"/>
+      <beginpage pagenum="133"/>
+    </sect1>
+    <sect1 id="ch0022s0015">
+      <title>The Final Decision</title>
+      <anchor id="ch0022s000015a0001"/>
+      <anchor id="ch0022s000000a0078"/>
+      <para id="ch0022s000000p0046">The choice of the type and extent of laboratory automation is, of course, dependent upon the individual circumstances and the financial resources available. It has been a long time since clinical microbiology has experienced such an enormous innovative surge. It is therefore necessary to consider future innovations in organism identification and antimicrobial susceptibility testing. New methods can influence procedures in the work process and drastically change the demands on capacity.</para>
+      <sect2 id="ch0022s0015s0001">
+        <title>HOW TO IMPLEMENT TLA</title>
+        <anchor id="ch0022s000015a0002"/>
+        <anchor id="ch0022s000000a0079"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0022s0016">
+      <title>Validation</title>
+      <anchor id="ch0022s000016a0001"/>
+      <anchor id="ch0022s000000a0080"/>
+      <para id="ch0022s000000p0047">Due to the relative newness of automation systems, there is little in the way of regulation for validation of laboratory automation. It therefore falls upon the laboratory director to design and implement a validation plan. There are numerous ways in which to achieve this goal, but any validation plan should evaluate the functional components of the instrument, assess analytical functionality, and compare clinical results that are achieved with automation versus traditional culture methods. Due to the unique nature of these systems, several groups are developing guidance documents to standardize recommendations for validating/verifying laboratory automation. Laboratories should refer to these documents in order to meet the Clinical Laboratory Improvement Amendments of 1988 requirements for system validation/verification. The following text is intended to provide some general considerations for evaluating the performance of automated systems and is not intended to serve as validation/verification guidance.</para>
+      <sect2 id="ch0022s0016s0001">
+        <title>Functional Validation</title>
+        <anchor id="ch0022s000016a0002"/>
+        <anchor id="ch0022s000000a0081"/>
+        <para id="ch0022s000000p0048">A functional validation may include confirmation that the specimen barcode label can be scanned and interfaces with the LIS, the correct medium is selected, the specimen barcode is applied to agar plates and is recognized by the scanner, the correct amount of specimen is plated, the correct streaking pattern is applied, the specimen is sent to the correct incubator, the specimen is imaged at appropriate times postincubation, images ready for reading are correctly populated onto work lists, and automation software for specimen workup and resulting is functional and integrated with the LIS. All specimen types and containers which may be received by the laboratory should be included in the functional validation of the system to ensure that culture results using automation systems are consistent with the standard of care in that laboratory.</para>
+      </sect2>
+      <sect2 id="ch0022s0016s0002">
+        <title>Analytical Validation</title>
+        <anchor id="ch0022s000016a0003"/>
+        <anchor id="ch0022s000000a0082"/>
+        <para id="ch0022s000000p0049">An analytical validation may include confirmation of the amount of specimen cultured for each specimen type and ensuring that there is no cross-contamination between specimens. In addition, laboratories should consider a reproducibility and precision study, the specifics of which will be defined by the laboratory director. Future guidance on this subject will be addressed by the Clinical and Laboratory Standards Institute (CLSI) document mentioned below.</para>
+      </sect2>
+      <sect2 id="ch0022s0016s0003">
+        <title>Clinical Validation</title>
+        <anchor id="ch0022s000016a0004"/>
+        <anchor id="ch0022s000000a0083"/>
+        <para id="ch0022s000000p0050">A clinical validation may compare semiquantitative or quantitative culture results between traditional and automated methods. The number of specimens included in the validation should be decided by the laboratory director. Directors will want to consider the complexity of their patient population and specimen types. Laboratories serving a lower-complexity patient population may require fewer validation/verification specimens than those with higher-complexity patient populations. For example, a laboratory that receives primarily clean catch urine specimens from uncomplicated urinary tract infections may warrant a smaller validation study than a laboratory that receives urine specimens from a patient population with indwelling catheters, nephrostomy tubes, and ileal conduits and ureterostomy specimens.</para>
+        <para id="ch0022s000000p0051">Manufacturers of laboratory automation instrumentation (BD and Copan) provide guidance documents and resources that laboratories can reference as they plan their TLA validations. In addition, the CLSI is in the process of drafting guidance for validation of laboratory automation equipment.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0022s0017">
+      <title>Change Management</title>
+      <anchor id="ch0022s000017a0001"/>
+      <anchor id="ch0022s000000a0084"/>
+      <para id="ch0022s000000p0052">Up until this point, the discussion of evaluation, installation, and validation has focused on the physical laboratory automation equipment; however, simply dropping TLA into a laboratory is not the end of the story but only the beginning. To maximize the benefits and efficiencies of TLA, the entire workflow and culture of the laboratory must be reevaluated. Luckily, laboratory automation provides tools which can be used to optimize laboratory practices. Data on specimen volumes, time of specimen arrival, and time of day when cultures have been imaged and are ready for reading are readily available. Laboratories can use this information to optimize staffing hours for specimen processing, culture reading, culture workup, and susceptibility testing. This allows the greatest number of employees to be working when the greatest amount of work needs to be performed, and it allows a laboratory to schedule their employees for times when the results they are entering make the biggest impact on patient care. Employee productivity can also be tracked, which ensures equitable distribution of the workload and generates metrics to justify staffing numbers.</para>
+      <para id="ch0022s000000p0053">Each clinical microbiology laboratory and the medical staff they serve are different, so there is no “one size fits all” solution for optimizing laboratory automation workflows. One important step toward optimizing the use of laboratory automation is having specimens placed in liquid-based transport media wherever possible. Efficiencies are gained through trial and error and require collaboration between laboratory staff and clinical directors. During the transition from traditional culture workup to laboratory automation, it is important for laboratory staff and directors to focus on the end goal of improved patient care. Change is never easy, but a positive attitude and a willingness to try new things will go far during this process.</para>
+    </sect1>
+    <sect1 id="ch0022s0018">
+      <title>Culture Reading with TLA</title>
+      <anchor id="ch0022s000018a0001"/>
+      <anchor id="ch0022s000000a0085"/>
+      <para id="ch0022s000000p0054">The introduction of digital image processing into diagnostic microbiology offers new opportunities for organizing workflows and shortening TAT (<link linkend="ch0022s000000li0018">18</link>–<link linkend="ch0022s000000li0020">20</link>). Reading plates digitally results in earlier recognition of colony growth. Consequently, identification and susceptibility testing can be accelerated. The pictures of the plates are taken at user-defined intervals and times for further processing. Computers can support the preselection of culture-negative plates. The plates showing growth are sent through further diagnostic procedures. Imaging technology can detect even the smallest of colonies, which are difficult for the human eye to distinguish. Chromogenic media for identifying antimicrobial-resistant organisms, such as MRSA, vancomycin-resistant enterococci (VRE), and multidrug-resistant <emphasis>Escherichia coli, Acinetobacter</emphasis> spp., and <emphasis>Salmonella</emphasis> spp., are particularly suitable for imaging technology, since results of the cultures can be documented earlier (<link linkend="ch0022s000000li0021">21</link>, <link linkend="ch0022s000000li0022">22</link>, <link linkend="ch0022s000000li0025">25</link>). Adapting work hours to conform to the above procedures should be considered. Manually inoculated plates can also be sent through digital image processing. The benefits of automation can be maximized by batching the specimens for the process described.</para>
+      <anchor id="ch0022s000000a0086"/>
+      <beginpage pagenum="134"/>
+      <para id="ch0022s000000p0055">Traditional culture reading involves a single technologist reading, interpreting, and working-up a defined set of cultures for the day, such as blood, urine, respiratory, or wound cultures. This method is not efficient when combined with laboratory automation. One model used by many laboratories with automation is the “reader-worker” method. In this model “readers” view agar plates that have been imaged after predefined incubation periods specific to their culture type on computer monitors. Any culture interpreted as “no growth,” “insufficient growth,” or “mixed microbiota” normal for the culture site is reported as such in the laboratory information system. Cultures which require manual manipulation for the purposes of identification or organism rule-out are marked for testing and appear on the “worker” task list. Staff on the worker bench pull the appropriate agar plate required for testing, perform the task (e.g., biochemical testing or MALDI-TOF MS), and return the plates to the incubator. The benefits of the reader-worker method are that it promotes consistency in specimen workup, as multiple technologists have eyes on each culture. Task-based workup also allows technologists to move through culture more rapidly.</para>
+      <para id="ch0022s000000p0056">Within the reader-worker model, there is room for specialization, and automation facilitates special situations unique to each laboratory. Examples are having a dedicated technologist spot MALDI-TOF MS targets from specimens that are pure cultures, ensuring that positive blood, cerebrospinal fluid (CSF), and sterile body fluids are viewed and worked up before other culture types, and designating certain culture types (e.g., urine culture, group A<emphasis>Streptococcus</emphasis>, and group B <emphasis>Streptococcus</emphasis> screens) that are read by technologists on second and third shifts, where there tends to be less supervision than on the day shift.</para>
+      <para id="ch0022s000000p0057">Automatic culture reading is another huge advance made possible with laboratory automation. These applications use machine learning to determine growth of microorganisms on agar plates. If growth is detected, the imaging algorithms can determine how many colony types and what quantity of growth is present. Use of chromogenic media allows organisms to be presumptively identified (<link linkend="ch0022s000000li0021">21</link>, <link linkend="ch0022s000000li0022">22</link>, <link linkend="ch0022s000000li0025">25</link>). If no growth is detected, the culture is finalized as “no growth” at the end of the incubation period, and agar plates are automatically sent to the trash. Copan WASP currently has algorithms for urine culture, MRSA, VRE, group A <emphasis>Streptococcus</emphasis>, and group B <emphasis>Streptococcus</emphasis>. BD Kiestra has applications for urine pending FDA approval.</para>
+    </sect1>
+    <sect1 id="ch0022s0019">
+      <title>Staff Training in TLA</title>
+      <anchor id="ch0022s000019a0001"/>
+      <anchor id="ch0022s000000a0087"/>
+      <para id="ch0022s000000p0058">Laboratory staff can have various levels of education and experience, which dictate the tasks that they can perform. Becoming a medical technologist (MT) (also referred to as a clinical laboratory scientist, biomedical scientist, or medical laboratory scientist) generally requires a bachelor’s degree in medical technology or in a science such as biology or chemistry. MT programs are usually offered through a university and involve clinical laboratory internships, and some states may require that MTs pass an examination to be licensed. MTs are qualified to perform complex testing and analyses, including direct specimen microscopy, culture interpretation, organism identification, and antimicrobial susceptibility testing, to perform high-complexity molecular testing, and to supervise others. MTs are expected to understand the underlying scientific principles of laboratory testing as well as the causes of disease and the importance of test selection.</para>
+      <para id="ch0022s000000p0059">A medical laboratory technician (MLT) is defined as someone who has a working comprehension of technical and procedural aspects of laboratory tests. The technician correlates tests with disease processes, understands basic physiology, and recognizes abnormal test results. The tasks that can be performed by MLTs vary by institution but generally include quality assurance monitoring, computer applications, and instrumentation troubleshooting and require an understanding of specimen collection and processing. The American Society for Clinical Pathology (ASCP) states that a technician may make technical decisions related to testing but should be supervised by a technologist, supervisor, or laboratory director. MLTs usually have an associate degree from a community or junior college or a vocational school. MLTs may become MTs through additional education and experience.</para>
+      <para id="ch0022s000000p0060">Medical laboratory assistants are individuals who receive on-the-job training and may have specialized education, although that is not required. The primary tasks of the medical laboratory assistant are processing specimens and using preanalytical systems. These professionals must have in-depth knowledge of specimen acceptability.</para>
+      <para id="ch0022s000000p0061">Traditionally, microbiology staff are trained to read plates by specimen type, starting with culture types that are typically monomicrobial, such as those from urine specimens, and moving toward cultures that are often polymicrobial with complex algorithms for interpretation, such as cultures of respiratory and wound specimens. Training with TLA follows the same pattern. Worklists can be used to pull specific culture types so that the trainee can view only the specimens on which they are being trained. Positive and normal flora cultures can be saved for training purposes while cultures with no growth can be bypassed, giving the trainee exposure to a higher number of specimens in a shorter amount of time, while eliminating non-value-added activities such as shuffling through plates and viewing cultures with no growth. Being able to view images of all agar plates at once as well as the same culture at multiple time points allows trainees to recognize bacterial growth on various media at different stages of growth. Historical cultures can be saved and used as training aids to highlight unusual organisms or rare culture patterns. In total, although the process for technologist training follows a similar pattern, the exposure to a higher number of cultures in a shorter amount of time can increase the speed at which competency in culture reading is achieved.</para>
+      <para id="ch0022s000000p0062">In laboratories with TLA, either MTs, MLTs, or laboratory assistants can load specimens onto the automated instrument, which takes the place of agar plate selection and labeling, specimen inoculation and streaking, and placing agar plates in the incubator. Generally, culture reading, interpretation, and workup are performed by MTs. A change with automation is the ability to be creative and identify special niches of work traditionally performed by medical technologists that can now be performed by MLTs. An example of this is spotting organism from pure cultures onto targets for MALDI-TOF MS analysis. Use of automation allows qualifying cultures to be easily identified and pulled from the incubator for workup.</para>
+      <anchor id="ch0022s000000a0088"/>
+      <beginpage pagenum="135"/>
+      <table id="ch0022s000000t0003"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0022s000000a0089"/><link linkend="ch0022s000000a0091">TABLE 3</link></phrase></emphasis> Advantages and disadvantages of TLA
+</title>
+        
+        <tgroup cols="2">
+          <tbody>
+            <row>
+              <entry>Advantages</entry>
+              <entry><phrase role="center">Disadvantages</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>Improved workflow</entry>
+              <entry>Inoculation of all samples (respiratory material, tissues) is not fully automated</entry>
+            </row>
+            <row>
+              <entry>Standardized streaking yielding single colonies</entry>
+              <entry>Backup plan is necessary when automation equipment suffers instrument failure</entry>
+            </row>
+            <row>
+              <entry>Decrease in errors</entry>
+              <entry>Expensive instrument maintenance</entry>
+            </row>
+            <row>
+              <entry>Reproducibility with plate image documentation</entry>
+              <entry>Staff losing repetitive skills such as plate streaking</entry>
+            </row>
+            <row>
+              <entry>Elimination of repetitive tasks</entry>
+              <entry>Cost savings and return on investment depend on the amount invested, costs of service, workflow optimization, and reduction in laboratorian salaries</entry>
+            </row>
+            <row>
+              <entry>Barcoding</entry>
+              <entry>Economy of scale may justify implementation only in high-volume laboratories</entry>
+            </row>
+            <row>
+              <entry>Reduction of TAT, resulting in improved patient care and reduction of hospitalization costs</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <sect2 id="ch0022s0019s0001">
+        <title>LIMITATIONS OF AUTOMATION SYSTEMS</title>
+        <anchor id="ch0022s000019a0002"/>
+        <anchor id="ch0022s000000a0090"/>
+        <para id="ch0022s000000p0063">The strength of the automatic systems described lies in the increased quality of specimen processing as well as directing technologist time to high-level analytical tasks and away from repetitive, manual processes. The main limitation of laboratory automation is the type of specimens they are equipped to handle. Specimens that cannot be pipetted, such as tissues, require some manual processing even with automation. However, the possibilities for automatic processing can be expanded considerably using liquid-based specimen transport systems. This effectively converts a very high-volume specimen, the swab, into a liquid specimen that can be easily managed with an automated specimen processor (<link linkend="ch0022s000000li0010">10</link>, <link linkend="ch0022s000000li0026">26</link>).</para>
+        <para id="ch0022s000000p0064">Incubators are equipped for CO<subscript>2</subscript> and ambient-air incubation at 35°C, but other incubation conditions such as those used for anaerobic and <emphasis>Campylobacter</emphasis> species must be performed offline. Medium selection, specimen inoculation, and plate streaking can still be automated using these systems.</para>
+        <para id="ch0022s000000p0065">A high level of flexibility and system compatibility is needed to fit automation instrumentation into the large variety of clinical microbiology laboratories that exist today. The modular nature of the automation systems described enables the laboratories to achieve various levels of automation: front-end processing, incubation and imaging, or more comprehensive configurations. The combination of modular automation and process improvement, as explained, promises scalability of the current automation systems for laboratories independent of their size or physical layout. The advantages and disadvantages of the described systems are provided in<anchor id="ch0022s000000a0091"/><link linkend="ch0022s000000a0089">Table 3</link> (<link linkend="ch0022s000000li0027">27</link>).</para>
+      </sect2>
+      <sect2 id="ch0022s0019s0002">
+        <title>FUTURE PERSPECTIVES</title>
+        <anchor id="ch0022s000019a0003"/>
+        <anchor id="ch0022s000000a0092"/>
+        <para id="ch0022s000000p0066">The degree of automation as well as the variety of procedures that can be automated will continue to increase. Continued development will make the systems more flexible and result in products that can better accommodate the conditions of each individual laboratory. Automated technology is evolving quickly. It will soon include additional testing, such as direct testing of blood culture systems and molecular diagnostics.</para>
+        <para id="ch0022s000000p0067">The primary objective of automating microbiology laboratories is to improve the quality and consistency of processes that suffer from high variability and are labor-intensive. The hope is that these technologies will allow the laboratory staff to concentrate on the processing of more technically demanding specimens. Software solutions for integrating point-of-care testing devices will further improve the analytic process.</para>
+        <para id="ch0022s000000p0068">Further scientific evaluation of TLA could also facilitate an appraisal of its clinical relevance and its impact on patient care. Automation could reduce errors and improve the quality of diagnostic microbiology. A time gain of 30.6 h per isolate was demonstrated in comparison to conventional microbiology methods when Kiestra TLA combined with MALDI-TOF MS was used for microbial identification of blood culture isolates (<link linkend="ch0022s000000li0028">28</link>). The early identification resulted in a change of antibiotic regimen for 12% (24/200) of patients.</para>
+        <para id="ch0022s000000p0069">Last, digital image processing as an integral part of bacteriological clinical diagnostics will promote further development in telemedicine as laboratory consolidations result in microbiology laboratories serving larger and larger geographical areas. In many centralized laboratory models, sample processing and plate reading may not take place in the same location. In such situations, quality standards can still be maintained in small laboratories or in remote areas by offering access to experienced personnel. Telemedicine can help counter the lack of skilled personnel in these areas.</para>
+      </sect2>
+      <sect2 id="ch0022s0019s0003">
+        <title>SUMMARY</title>
+        <anchor id="ch0022s000019a0004"/>
+        <anchor id="ch0022s000000a0093"/>
+        <para id="ch0022s000000p0070">New advances in technology as well as staffing shortages are causing microbiologists to rethink laboratory design. It may be that the traditional laboratory model as we know it today will cease to exist soon. TLA will likely become commonplace in high-volume laboratories and may eventually be found in smaller laboratories. Despite its promise, there are advantages and disadvantages of laboratory automation, and it may not be appropriate for all environments (<link linkend="ch0022s000000a0089">Table 3</link>). Automation is unlikely to replace MTs, but it will change requirements in two important ways. First, manual processing of the plates will be replaced by digital imaging. Second, the efficiency of automation may cause more laboratories to adopt the 24-h culture-reading strategy. Clinical microbiology is changing at a rapid pace, primarily due to a surge in technological advances. Laboratory designs will need to be more flexible to accommodate future developments.</para>
+        <anchor id="ch0022s000000a0094"/>
+        <beginpage pagenum="136"/>
+      </sect2>
+      <sect2 id="ch0022s0019s0004">
+        <title>REFERENCES</title>
+        <anchor id="ch0022s000019a0005"/>
+        <anchor id="ch0022s000000a0095"/>
+        <itemizedlist mark="none" role="biblioEntryList">
+          <listitem id="ch0022s000000li0001" role="bibliographyEntry">
+            <para>1.<emphasis role="strong">Hawker CD.</emphasis> 2007. Laboratory automation: total and subtotal. <emphasis><citetitle>Clin Lab Med</citetitle></emphasis> <emphasis role="strong">27:</emphasis>749–770.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0002" role="bibliographyEntry">
+            <para>2.<emphasis role="strong">Mulatero F, Bonnardel V, Micolaud C.</emphasis> 2011. The way forward for fast microbiology. <emphasis><citetitle>Clin Microbiol Infect</citetitle></emphasis> <emphasis role="strong">17:</emphasis>661–667.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0003" role="bibliographyEntry">
+            <para>3.<emphasis role="strong">Culbreath K, Piwonka H, Korver J, Noorbakhsh M.</emphasis> 2021. Benefits derived from full laboratory automation in microbiology: a tale of four laboratories. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">59:</emphasis>e01969.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0004" role="bibliographyEntry">
+            <para>4.<emphasis role="strong">Baselski VBK, Carey R, Clarridge J, Weissfeld A.</emphasis> 2005. <emphasis><citetitle>Survey of Clinical Microbiology Laboratory Workloads, Productivity Rates and Staffing Vacancies. The American Society for Microbiology Benchmarking Study</citetitle></emphasis>. American Society for Microbiology, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0005" role="bibliographyEntry">
+            <para>5.<emphasis role="strong">Glasson J, Hill R, Summerford M, Olden D, Papadopoulos F, Young S, Giglio S.</emphasis> 2017. Multicenter evaluation of an image analysis device (APAS): comparison between digital image and traditional plate reading using urine cultures. <emphasis><citetitle>Ann Lab Med</citetitle></emphasis> <emphasis role="strong">37:</emphasis>499–504.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0006" role="bibliographyEntry">
+            <para>6.<emphasis role="strong">Tilton RC, Ryan RW.</emphasis> 1978. Evaluation of an automated agar plate streaker. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">7:</emphasis>298–304.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0007" role="bibliographyEntry">
+            <para>7.<emphasis role="strong">Dauwalder O, Landrieve L, Laurent F, de Montclos M, Vandenesch F, Lina G.</emphasis> 2016. Does bacteriology laboratory automation reduce time to results and increase quality management? <emphasis><citetitle>Clin Microbiol Infect</citetitle></emphasis> <emphasis role="strong">22:</emphasis>236–243.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0008" role="bibliographyEntry">
+            <para>8.<emphasis role="strong">Croxatto A, Dijkstra K, Prod’hom G, Greub G.</emphasis> 2015. Comparison of inoculation with the InoqulA and WASP automated systems with manual inoculation. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">53:</emphasis>2298–2307.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0009" role="bibliographyEntry">
+            <para>9.<emphasis role="strong">Persoon TJ, Zaleski S, Frerichs J.</emphasis> 2006. Improving preanalytic processes using the principles of lean production (Toyota Production System). <emphasis><citetitle>Am J Clin Pathol</citetitle></emphasis> <emphasis role="strong">125:</emphasis>16–25.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0010" role="bibliographyEntry">
+            <para>10.<emphasis role="strong">Jones G, Matthews R, Cunningham R, Jenks P.</emphasis> 2011. Comparison of automated processing of flocked swabs with manual processing of fiber swabs for detection of nasal carriage of <emphasis><citetitle>Staphylococcus aureus</citetitle></emphasis>. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">49:</emphasis>2717–2718.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0011" role="bibliographyEntry">
+            <para>11.<emphasis role="strong">Rhoads DD, Novak SM, Pantanowitz L.</emphasis> 2015. A review of the current state of digital plate reading of cultures in clinical microbiology. <emphasis><citetitle>J Pathol Inform</citetitle></emphasis> <emphasis role="strong">6:</emphasis>23.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0012" role="bibliographyEntry">
+            <para>12.<emphasis role="strong">Bourbeau PP, Swartz BL.</emphasis> 2009. First evaluation of the WASP, a new automated microbiology plating instrument. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">47:</emphasis>1101–1106.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0013" role="bibliographyEntry">
+            <para>13.<emphasis role="strong">Iversen J, Stendal G, Gerdes CM, Meyer CH, Andersen CO, Frimodt-Moller N.</emphasis> 2016. Comparative evaluation of inoculation of urine samples with the Copan WASP and BD Kiestra InoqulA instruments. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">54:</emphasis>328–332.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0014" role="bibliographyEntry">
+            <para>14.<emphasis role="strong">Mischnik A, Trampe M, Zimmermann S.</emphasis> 2015. Evaluation of the impact of automated specimen inoculation, using Previ Isola, on the quality of and technical time for stool cultures. <emphasis><citetitle>Ann Lab Med</citetitle></emphasis> <emphasis role="strong">35:</emphasis>82–88.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0015" role="bibliographyEntry">
+            <para>15.<emphasis role="strong">Faron ML, Buchan BW, Vismara C, Lacchini C, Bielli A, Gesu G, Liebregts T, van Bree A, Jansz A, Soucy G, Korver J, Ledeboer NA.</emphasis> 2016. Automated scoring of chromogenic media for detection of methicillin-resistant <emphasis><citetitle>Staphylococcus aureus</citetitle></emphasis> by use of WASPLab image analysis software. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">54:</emphasis>620–624.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0016" role="bibliographyEntry">
+            <para>16.<emphasis role="strong">Yu HE, Lanzoni H, Steffen T, Derr W, Cannon K, Contreras J, Olson JE.</emphasis> 2019. Improving laboratory processes with total laboratory automation. <emphasis><citetitle>Lab Med</citetitle></emphasis> <emphasis role="strong">50:</emphasis>96–102.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0017" role="bibliographyEntry">
+            <para>17.<emphasis role="strong">Bailey AL, Burnham CD.</emphasis> 2019. Reducing the time between inoculation and first-read of urine cultures using total lab automation significantly reduces turn-around-time of positive culture results with minimal loss of first-read sensitivity. <emphasis><citetitle>Eur J Clin Microbiol Infect Dis</citetitle></emphasis> <emphasis role="strong">38:</emphasis>1135–1141.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0018" role="bibliographyEntry">
+            <para>18.<emphasis role="strong">Croxatto A, Marcelpoil R, Orny C, Morel D, Prod’hom G, Greub G.</emphasis> 2017. Towards automated detection, semi-quantification and identification of microbial growth in clinical bacteriology: a proof of concept. <emphasis><citetitle>Biomed J</citetitle></emphasis> <emphasis role="strong">40:</emphasis>317–328.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0019" role="bibliographyEntry">
+            <para>19.<emphasis role="strong">Faron ML, Buchan BW, Relich RF, Clark J, Ledeboer NA.</emphasis> 2020. Evaluation of the WASPLab Segregation software to automatically analyze urine cultures using routine blood and MacConkey agars. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">58:</emphasis>e01683-19.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0020" role="bibliographyEntry">
+            <para>20.<emphasis role="strong">Brenton L, Waters MJ, Stanford T, Giglio S.</emphasis> 2020. Clinical evaluation of the APAS Independence: automated imaging and interpretation of urine cultures using artificial intelligence with composite reference standard discrepant resolution. <emphasis><citetitle>J Microbiol Methods</citetitle></emphasis> <emphasis role="strong">177:</emphasis>106047.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0021" role="bibliographyEntry">
+            <para>21.<emphasis role="strong">Faron ML, Buchan BW, Coon C, Liebregts T,</emphasis> van <emphasis role="strong">Bree A, Jansz AR, Soucy G, Korver J, Ledeboer NA.</emphasis> 2016. Automatic digital analysis of chromogenic media for vancomycin-resistant-enterococcus screens using Copan WASPLab. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">54:</emphasis>2464–2469.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0022" role="bibliographyEntry">
+            <para>22.<emphasis role="strong">Baker J, Timm K, Faron M, Ledeboer N, Culbreath K.</emphasis> 2020. Digital image analysis for the detection of group B <emphasis><citetitle>Streptococcus</citetitle></emphasis> from ChromID Strepto B medium using PhenoMatrix algorithms. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">59:</emphasis>e01902-19.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0023" role="bibliographyEntry">
+            <para>23.<emphasis role="strong">Vandenberg O, Durand G, Hallin M, Diefenbach A, Gant V, Murray P, Kozlakidis Z, van Belkum A.</emphasis> 2020. Consolidation of clinical microbiology laboratories and introduction of transformative technologies. <emphasis><citetitle>Clin Microbiol Rev</citetitle></emphasis> <emphasis role="strong">33:</emphasis>e00057-19.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0024" role="bibliographyEntry">
+            <para>24.<emphasis role="strong">Farnsworth CW, Wallace MA, Liu A, Gronowski AM, Burnham CD, Yarbrough ML.</emphasis> 2020. Evaluation of the risk of laboratory microbial contamination during routine testing in automated clinical chemistry and microbiology laboratories. <emphasis><citetitle>Clin Chem</citetitle></emphasis> <emphasis role="strong">66:</emphasis>1190–1199.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0025" role="bibliographyEntry">
+            <para>25.<emphasis role="strong">Van TT, Mata K, Dien Bard J.</emphasis> 2019. Automated detection of <emphasis><citetitle>Streptococcus pyogenes</citetitle></emphasis> pharyngitis by use of Colorex Strep A CHROMagar and WASPLab artificial intelligence chromogenic detection module software. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">57:</emphasis>e00811-19.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0026" role="bibliographyEntry">
+            <para>26.<emphasis role="strong">Van Horn KG, Audette CD, Sebeck D, Tucker KA.</emphasis> 2008. Comparison of the Copan ESwab system with two Amies agar swab transport systems for maintenance of microorganism viability. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">46:</emphasis>1655–1658.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0027" role="bibliographyEntry">
+            <para>27.<emphasis role="strong">Greub G, Prod’hom G.</emphasis> 2011. Automation in clinical bacteriology: what system to choose? <emphasis><citetitle>Clin Microbiol Infect</citetitle></emphasis> <emphasis role="strong">17:</emphasis>655–660.</para>
+          </listitem>
+          <listitem id="ch0022s000000li0028" role="bibliographyEntry">
+            <para>28.<emphasis role="strong">Mutters NT, Hodiamont CJ, de Jong MD, Overmeijer HP, van den Boogaard M, Visser CE.</emphasis> 2014. Performance of Kiestra total laboratory automation combined with MS in clinical microbiology practice. <emphasis><citetitle>Ann Lab Med</citetitle></emphasis> <emphasis role="strong">34:</emphasis>111–117.</para>
+          </listitem>
+        </itemizedlist>
+      </sect2>
+    </sect1>
+  </chapter>

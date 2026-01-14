@@ -1,0 +1,1367 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0106">
+    <title>87 Influenza Viruses</title>
+    <sect1 id="ch0106s0001">
+      <title>87 Influenza Viruses</title>
+      <anchor id="ch0106s000001a0001"/>
+      <anchor id="ch0106s000000a0001"/>
+      <para id="ch0106s000000p0001" role="chapterAuthor">ROBERT L. ATMAR</para>
+      <sect2 id="ch0106s0001s0001">
+        <title>TAXONOMY</title>
+        <anchor id="ch0106s000001a0002"/>
+        <anchor id="ch0106s000000a0002"/>
+        <para id="ch0106s000000p0002">The influenza viruses are members of the family<emphasis>Orthomyxoviridae.</emphasis> Antigenic differences in two major structural proteins, the matrix protein (M) and the nucleoprotein (NP), and phylogenetic analyses of the virus genome are used to separate the influenza viruses into four genera within the family: <emphasis>Influenzavirus A, Influenzavirus B, Influenzavirus C</emphasis>, and <emphasis>Influenzavirus D.</emphasis> Members of these four genera are also referred to as influenza type A, B, C, and D viruses, respectively. The influenza A viruses are further classified into subtypes based upon characteristics of the two major surface glycoproteins, the hemagglutinin (HA) and neuraminidase (NA). Subtypes are recognized by the lack of cross-reactivity in double immunodiffusion assays with animal hyperimmune sera corresponding to each antigen (<link linkend="ch0106s000000li0001">1</link>). Currently, 18 HA subtypes and 11 NA subtypes are recognized (<link linkend="ch0106s000000li0002">2</link>). Strains may be further subclassified into lineages or clades based upon phylogenetic analysis of gene sequences. An example is the classification of the Eurasian lineage of highly pathogenic H5N1 strains into clades and the further subdivision of circulating viruses into second-, third-, fourth- and fifth-order clades (<link linkend="ch0106s000000li0003">3</link>). Influenza B viruses do not have subtypes, but they are subdivided into two antigenically distinct lineages: B/Victoria and B/Yamagata.</para>
+        <para id="ch0106s000000p0003">The following information is used in the naming of individual virus strains: type, species of origin (if nonhuman), geographic location of isolation strain, laboratory identification number, year of isolation, and subtype (influenza A viruses only). Thus, an example of a human strain of influenza virus is A/Texas/50/2012 (H3N2), while A/quail/Vietnam/36/2004 (H5N1) is an example of an avian strain isolated in an epizootic in Asia.</para>
+      </sect2>
+      <sect2 id="ch0106s0001s0002">
+        <title>DESCRIPTION OF THE AGENTS</title>
+        <anchor id="ch0106s000001a0003"/>
+        <anchor id="ch0106s000000a0003"/>
+        <para id="ch0106s000000p0004">Orthomyxoviruses are enveloped, single-stranded RNA viruses with segmented genomes of negative sense. Influenza A and B viruses have eight RNA segments, while influenza C and D viruses have only seven segments. Gene segments range from ~800 to ~2,500 nucleotides in length, and the entire genome ranges from 10 to 14.6 kb. The segmented genome of influenza viruses allows the exchange of one or more gene segments between two viruses when both infect a single cell. This exchange is called genetic reassortment and results in the generation of new strains containing a mix of genes from both parental viruses. Genetic reassortment between human and avian influenza virus strains led to the generation of the 1957 H2N2 and 1968 H3N2 pandemic strains, and it also played a role in the emergence of the pandemic 2009 H1N1 virus and in H7N9 avian strains from China that have caused infections in people (<link linkend="ch0106s000000li0004">4</link>).</para>
+        <para id="ch0106s000000p0005">Influenza viruses are spherical and pleomorphic, with diameters of 80 to 120 nm after serial passage in culture. Filamentous forms also occur and may be up to several micrometers in size. The lipid envelope is derived from the host cell membrane through which maturing virus particles bud, and HA and NA form characteristic rod-like spikes (HA) and spikes with globular heads (NA) on the virus surface. As its name implies, the HA can agglutinate red blood cells from both mammalian (e.g., human [type O], guinea pig, and horse) and avian (e.g., chicken and turkey) species by binding to sialic acid residues. The HA protein is the major antigenic determinant and is used to identify viruses with immune sera. The lipid envelope surrounds the nucleocapsid, which has helical symmetry and consists of the genomic RNA segments, several copies of the polymerase proteins, and the NP. The matrix-1 (M1) protein is present between the nucleocapsid and the envelope, and the matrix-2 (M2) protein forms an ion channel across the envelope in influenza A viruses.</para>
+      </sect2>
+      <sect2 id="ch0106s0001s0003">
+        <title>EPIDEMIOLOGY AND TRANSMISSION</title>
+        <anchor id="ch0106s000001a0004"/>
+        <anchor id="ch0106s000000a0004"/>
+        <para id="ch0106s000000p0006">Influenza A and B viruses cause annual epidemics in areas with temperate climates, but in tropical climates, seasonality is less apparent and influenza viruses can be isolated throughout the year. Although the pandemic circulation of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has disrupted the usual seasonality of influenza viruses, in the temperate regions of the Northern Hemisphere, epidemics generally occur between December and March, and in the Southern Hemisphere, the epidemic period is usually between May and August. Epidemics are characterized by a sudden increase in febrile respiratory illnesses and absenteeism from school and work, and within a community, the epidemic period usually lasts from 3 to 8 weeks. A single subtype (A) or type (B) of influenza virus may predominate, but epidemics in which both A and B viruses or two influenza A virus subtypes are isolated also occur. Global epidemics, or pandemics, occur less frequently and are seen only with influenza A viruses. Pandemics arise following the emergence of an influenza A virus that carries a novel HA and that can be readily transmitted from person to person. The pandemic strain may develop because of genetic reassortment following coinfection of a susceptible host with human and animal influenza viruses or through gradual adaptation of an avian strain to mammalian hosts. Influenza C viruses cause asymptomatic or mild respiratory disease in people. Although the epidemiology of these viruses is less well characterized, they have caused outbreaks of disease during winter-spring months, and seroprevalence studies suggest that most children have been infected by age 10 (<link linkend="ch0106s000000li0005">5</link>). Influenza D viruses infect swine and cattle, but they do not infect people (<link linkend="ch0106s000000li0006">6</link>).</para>
+        <anchor id="ch0106s000000a0005"/>
+        <beginpage pagenum="1691"/>
+        <para id="ch0106s000000p0007">Influenza viruses are transmitted from person to person primarily via droplets generated by sneezing, coughing, and speaking. Direct or indirect (fomite) contact with contaminated secretions and small-particle aerosols is another potential route of transmission that has been noted’ to ‘are other potential routes of transmission that have been noted. The relative importance of these different routes has not been determined for influenza viruses (<link linkend="ch0106s000000li0007">7</link>). As for human infections caused by avian strains of influenza virus, direct contact with infected birds has been the most common factor of transmission, and direct inoculation into the pharynx or gastrointestinal tract may lead to infection (<link linkend="ch0106s000000li0008">8</link>, <link linkend="ch0106s000000li0009">9</link>).</para>
+        <para id="ch0106s000000p0008">The pandemic potential of avian strains of influenza virus has been a concern since at least 1997, when several human cases of infection with H5N1 viruses occurred in Hong Kong in association with a large poultry outbreak. The outbreak was controlled by slaughtering all poultry in Hong Kong, but H5N1 viruses again caused outbreaks in poultry in China in 2003. By late 2005, the virus had spread to other parts of Asia and to parts of Europe, Africa, and the Middle East. Human cases of H5N1 infection have been directly associated with outbreaks in poultry, and through 2016, more than 850 human infections had been documented. However, only a few human cases have been seen since then. Most cases occurred in southeastern Asia, but cases also were documented in the Middle East and in northern Africa. Most human cases were due to direct contact with infected birds, but limited human-to-human transmission also occurred (<link linkend="ch0106s000000li0008">8</link>). Human infection was also observed in association with an outbreak of H5N1 among domestic and wild birds in the United States in 2021-2022 (<link linkend="ch0106s000000li0010">10</link>). Several mutations in influenza virus genes are required for avian influenza viruses to replicate efficiently in mammalian cells and to be transmitted by droplet aerosol between ferrets, an animal model of human infection (<link linkend="ch0106s000000li0011">11</link>, <link linkend="ch0106s000000li0012">12</link>). H5N1 viruses continue to evolve and increase diversity, raising the possibility that they may acquire the ability to spread efficiently among humans.</para>
+        <para id="ch0106s000000p0009">Other avian influenza A virus subtypes are also of concern. An outbreak of H7N7 virus in commercial poultry farms in the Netherlands in 2003 was associated with respiratory illness in &gt;400 persons, although only a single person died (<link linkend="ch0106s000000li0013">13</link>). H7N9 viruses emerged in poultry markets in China between 2013 and 2017, with more than 1,200 persons having been infected (<link linkend="ch0106s000000li0014">14</link>), but no human cases have been reported since 2019. Sporadic infection of humans with other avian subtypes is occasionally observed. The greatest risk for infection has been exposure to infected poultry, similar to what has been observed with human cases of H5N1.</para>
+        <para id="ch0106s000000p0010">Swine are another source of novel influenza virus strains that can infect people. In 2009, a novel influenza A/H1N1 virus (pdm09) was initially identified as a cause of significant febrile respiratory illnesses in Mexico and the United States, and it rapidly spread to many countries around the world, which prompted the World Health Organization (WHO) to declare an influenza pandemic. The new strain subsequently replaced previously circulating seasonal H1N1 strains. Other infections with swine virus and antigenically distinct HAs (e.g., variant H3N2) have been identified in the United States (<link linkend="ch0106s000000li0015">15</link>). Fortunately, most cases are associated with direct or indirect contact with swine, and these variant strains have not spread among the population like the H1N1 pdm09 strain and can be suspected based upon epidemiologic exposures. The transmission of influenza viruses to people from avian and swine species highlights the need for vigilant surveillance for such events.</para>
+      </sect2>
+      <sect2 id="ch0106s0001s0004">
+        <title>CLINICAL SIGNIFICANCE</title>
+        <anchor id="ch0106s000001a0005"/>
+        <anchor id="ch0106s000000a0006"/>
+        <para id="ch0106s000000p0011">Influenza A and B virus infections typically cause a febrile respiratory illness characterized by fever, cough, upper respiratory tract symptoms (including sore throat, rhinorrhea, and nasal congestion), and systemic symptoms (including headache, myalgia, and malaise). This constellation of symptoms is called influenza, although other clinical presentations, ranging from asymptomatic infection to viral pneumonia, also occur. Illness begins abruptly after a 1- to 5-day incubation period (average, 2 days). Fever generally lasts for 3 to 5 days, but symptoms of dry cough and malaise may persist for several weeks. Complications include otitis media in children, sinusitis, viral pneumonia, secondary bacterial pneumonia, exacerbation of underlying cardiac (including acute myocardial infarction) or pulmonary disease, myositis (including rhabdomyolysis), neurologic problems (seizures, acute encephalitis/encephalopathy, and postinfectious encephalopathy), Reye syndrome (associated with aspirin use), myopericarditis, and death (<link linkend="ch0106s000000li0016">16</link>–<link linkend="ch0106s000000li0018">18</link>). In contrast, influenza C viruses cause mild respiratory illnesses that clinically are not distinguishable from common colds.</para>
+        <para id="ch0106s000000p0012">Influenza A(H5N1) and A(H7N9) viruses also cause a febrile respiratory illness, although lower respiratory tract illness is more prevalent. Upper respiratory tract symptoms may be absent, and gastrointestinal symptoms (watery diarrhea, vomiting, and abdominal pain) occur in some patients (<link linkend="ch0106s000000li0008">8</link>, <link linkend="ch0106s000000li0019">19</link>). Acute encephalitis may occur. H5N1 infection is associated with a high mortality (~60%), with most patients dying of progressive pneumonia. Although overall severity of infection with H7N9 viruses is lower than for H5N1 strains, mortality is still at least 30% (<link linkend="ch0106s000000li0019">19</link>). Patient age and the presence of underlying diseases are different among hospitalized patients dying from H5N1 or H7N9 infection (<link linkend="ch0106s000000li0020">20</link>). Viral replication may be prolonged, and levels of several inflammatory mediators (e.g., interleukin-6, interleukin-8, and interleukin-1β) in plasma have been found to be higher in fatal cases than in nonfatal cases. Surviving patients develop measurable serum antibody responses 10 to 14 days after symptom onset.</para>
+        <para id="ch0106s000000p0013">Influenza A and B virus infections spread rapidly through the community, with clinical attack rates having been documented to be as high as 70% following a common-source exposure in an enclosed space. Epidemic disease is associated with an increase in hospitalization rates, especially in young children and in the elderly, and an increase in mortality rates in the elderly. Mortality rates have been higher in epidemics caused by influenza A/H3N2 viruses than in those caused by H1N1 or B viruses in the past 20 years. Additional information on the clinical presentation, manifestations, and complications of the diseases can be found in clinical textbooks (<link linkend="ch0106s000000li0016">16</link>, <link linkend="ch0106s000000li0018">18</link>).</para>
+        <anchor id="ch0106s000000a0007"/>
+        <beginpage pagenum="1692"/>
+        <para id="ch0106s000000p0014">There are six licensed antiviral medications available for the treatment of influenza virus infection. Amantadine and rimantadine are adamantanes that block the M2 ion channel. The adamantanes have no activity against influenza B viruses, and unfortunately, the currently circulating influenza A viruses have developed resistance, so that the adamantanes are not clinically useful as monotherapy for these viruses either. Zanamivir, oseltamivir, and peramivir are NA inhibitors and are active against both influenza A and B viruses. Clinically significant resistance can occur following treatment of immunocompromised patients. Baloxavir marboxil is an inhibitor of the viral polymerase A (PA) protein, blocking its endonuclease activity. It is also active against both influenza A and B viruses, and clinically important resistance can develop in immunocompetent persons (<link linkend="ch0106s000000li0021">21</link>). Treatment with any of these medications should be initiated within 2 days of symptom onset to have demonstrable clinical benefit, although initiation of treatment of virus-positive hospitalized patients has been recommended at any time during the illness (<link linkend="ch0106s000000li0022">22</link>). These drugs have also been used for prophylaxis, but annual immunization with a quadrivalent influenza vaccine is the primary means of prevention of influenza.</para>
+        <para id="ch0106s000000p0015">Inactivated influenza vaccines (IIVs), a live attenuated influenza virus (LAIV) vaccine, and a recombinant hemagglutinin vaccine (RIV) are licensed in the United States (<link linkend="ch0106s000000li0023">23</link>). The IIVs are derived from viruses grown in cell culture (ccIIV) or embryonated chicken eggs that are harvested and then inactivated. Viral proteins are partially purified and standardized to contain 15 μg of HA per dose. The IIVs in the United States are now all quadrivalent (IIV4), containing influenza B virus strains from two lineages (B/Victoria and B/Yamagata), A/H1N1, and A/H3N2. A high-dose IIV4 containing 60 μg of each HA and an MF59-adjuvanted IIV4 containing 15 μg of each HA are also licensed for adults 65 years of age and older. The RIV4 vaccine contains 45 μg of baculovirus-expressed, recombinant hemagglutinin for an A/H1N1, A/H3N2, and two B strains. LAIV4 vaccine is quadrivalent and contains the same strains recommended for IIV4. A reassortant vaccine virus for each strain to be included is derived to contain six internal genes from a parental attenuated influenza (A or B) virus and the HA and NA from the WHO-recommended vaccine strain. It is given topically into the nose, and the virus replicates in the upper respiratory tract (<link linkend="ch0106s000000li0024">24</link>). The vaccine is licensed in the United States for use in persons 2 to 49 years of age, although 3 years of poor effectiveness against influenza A viruses led the American Committee on Immunization Practices (ACIP) to withdraw its recommendation for its use for 2 years. In February 2018, the ACIP recommendation for LAIV use was renewed based upon changes made to correct the poor replicative fitness of the H1N1 component that was identified as the putative cause of LAIV’s low effectiveness. The latest guidance for the use of influenza vaccines in the United States can be found online at <ulink url="https://www.cdc.gov/vaccines/hcp/acip-recs/vacc-specific/flu.html">https://www.cdc.gov/vaccines/hcp/acip-recs/vacc-specific/flu.html</ulink>.</para>
+        <para id="ch0106s000000p0016">Due to constant virus evolution causing gradual antigenic changes in the HA protein, viruses included in the influenza vaccines must be updated periodically. The strains to be included in the vaccine are selected twice annually by WHO. Vaccine strains for Northern Hemisphere countries are selected in January and February to make vaccine for use in September. New vaccine alternatives, including those given by other routes and in combination with adjuvants, are undergoing clinical studies.</para>
+      </sect2>
+      <sect2 id="ch0106s0001s0005">
+        <title>COLLECTION, TRANSPORT, AND STORAGE OF SPECIMENS</title>
+        <anchor id="ch0106s000001a0006"/>
+        <anchor id="ch0106s000000a0008"/>
+        <para id="ch0106s000000p0017">Influenza viruses infect the respiratory epithelium and can be found in respiratory secretions of all types. The level of virus shedding parallels the severity of clinical symptoms in uncomplicated influenza and is maximal in the first several days of illness. Samples should be collected during this time (first 2 to 3 days) to maximize the likelihood of virus detection. A variety of upper respiratory tract samples alone or in combination are routinely used for virus identification, including nasal aspirates, nasal wash fluids, nasal or nasopharyngeal swabs, throat swabs, and throat wash fluids. Virus titers tend to be lower in samples collected from the throat, so assays of these samples alone tend to be less sensitive (<link linkend="ch0106s000000li0025">25</link>, <link linkend="ch0106s000000li0026">26</link>). However, reports of human infection caused by H5N1 and H7N9 strains suggest that throat samples and lower respiratory tract samples may have better diagnostic yields than samples collected from the nose (<link linkend="ch0106s000000li0008">8</link>, <link linkend="ch0106s000000li0027">27</link>). Lower respiratory tract samples, including sputa, tracheal aspirates, and bronchoalveolar lavage fluids, may yield virus and can be assayed when available; some studies have found higher yields with sputum than with upper respiratory tract samples (<link linkend="ch0106s000000li0028">28</link>, <link linkend="ch0106s000000li0029">29</link>). Virus can occasionally be identified in nonrespiratory clinical samples (<link linkend="ch0106s000000li0008">8</link>); however, for some clinical syndromes (e.g., encephalopathy/encephalitis and myocarditis/pericarditis), respiratory samples remain the best specimens for virus detection due to the immune-mediated pathogenesis of disease in these nonrespiratory tissues (<link linkend="ch0106s000000li0030">30</link>).</para>
+        <para id="ch0106s000000p0018">Once collected, the clinical samples should be placed in viral transport medium. A number of transport media are suitable for influenza viruses, including veal infusion broth, Hanks balanced salt solution, tryptose phosphate broth, sucrose phosphate buffer, and commercially available cell culture medium. All these media are supplemented with 0.5% bovine serum albumin or 0.1% gelatin to stabilize the virus and antimicrobials (antibiotics and antifungals) to inhibit the growth of other respiratory biota. However, the use of transport medium may interfere with the test performance for certain commercially available virus detection assays; the package inserts of these assays should be consulted if they are to be used for diagnosis (<anchor id="ch0106s000000a0009"/><link linkend="ch0106s000000a0011">Tables 1</link> and <anchor id="ch0106s000000a0010"/><link linkend="ch0106s000000a0016">2</link>). Influenza virus infectivity is maintained for up to 5 days when samples are placed in transport medium and maintained at 4°C (<link linkend="ch0106s000000li0031">31</link>). Clinical samples should be transported to the diagnostic laboratory as rapidly as possible after collection under these conditions. If a sample cannot be cultured during this time frame, it should be stored immediately at −70°C; storage at higher temperatures (e.g., −20°C) leads to the loss of virus viability. Immediate transport and processing of samples after collection are necessary for immunofluorescence detection of virus antigen in exfoliated epithelial cells.</para>
+        <table id="ch0106s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0106s000000a0011"/><link linkend="ch0106s000000a0009">TABLE 1</link></phrase></emphasis> Commercially available kits for detection of influenza A or B viruses by fluorescent-antibody staining<superscript><link linkend="ch0106s000000a0014"><emphasis>a</emphasis></link></superscript><anchor id="ch0106s000000a0012"/>
+</title>
+          
+          <tgroup cols="8">
+            <tbody>
+              <row>
+                <entry>Assay format</entry>
+                <entry>Kit name (manufacturer)</entry>
+                <entry>Acceptable clinical samples for direct detection; cell culture confirmation</entry>
+                <entry>Comments</entry>
+                <entry>Influenza virus type(s) detected</entry>
+                <entry>Assay sensitivity and specificity (%) (per manufacturer brochure) for:</entry>
+                <entry>Other virus(es) detected</entry>
+              </row>
+              <row>
+                <entry><phrase role="center">Direct detection</phrase>
+                </entry>
+                <entry><phrase role="center">Isolate identification</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry>DFA</entry>
+                <entry>D<superscript>3</superscript> Ultra DFA respiratory virus screening and ID kit (Diagnostic Hybrids, Inc.)</entry>
+                <entry>NAsp, NPA, NW; cell culture</entry>
+                <entry>Virus-specific MAbs provided mixed for screen and individually for identification</entry>
+                <entry>A and B</entry>
+                <entry><para id="ch0106s000000p0019">A: 100, 100</para>
+                  <para id="ch0106s000000p0020">B: 100, 98.7–100</para>
+                </entry>
+                <entry><para id="ch0106s000000p0021">A: 100, 100</para>
+                  <para id="ch0106s000000p0022">B: 100, 100</para>
+                </entry>
+                <entry>Ad, P1, P2, P3, RSV</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>D<superscript>3</superscript> Duet DFA respiratory virus screening kit (Diagnostic Hybrids, Inc.)</entry>
+                <entry>NAsp, NPA, NPS, NS; cell culture</entry>
+                <entry>Distinguishes influenza A from other respiratory viruses; these viruses (including influenza B) must be identified with reagents from the Ultra kit</entry>
+                <entry>A and B</entry>
+                <entry><para id="ch0106s000000p0023">A: 99, A and B 100</para>
+                  <para id="ch0106s000000p0024">B: 100, 100</para>
+                </entry>
+                <entry><para id="ch0106s000000p0025">A: 100, 100</para>
+                  <para id="ch0106s000000p0026">B: 100, 100</para>
+                </entry>
+                <entry>Ad, P1, P2, P3, RSV</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>D<superscript>3</superscript> FastPoint DFA respiratory virus screening kit (Diagnostic Hybrids, Inc.)</entry>
+                <entry>NAsp, NPA, NPS, NS, NW</entry>
+                <entry>Distinguishes influenza A virus from influenza B virus</entry>
+                <entry></entry>
+                <entry><para id="ch0106s000000p0027">A: 82.9–100, 97.5–100</para>
+                  <para id="ch0106s000000p0028">B: 66.7–100, 99.7–100</para>
+                </entry>
+                <entry>N/A</entry>
+                <entry></entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>Imagen influenza virus A and B (Thermo Fisher Scientific)</entry>
+                <entry>NPA; cell culture</entry>
+                <entry>Virus-specific MAbs provided mixed for screen and individually for identification</entry>
+                <entry>A and B</entry>
+                <entry><para id="ch0106s000000p0029">A: 96.2, 100</para>
+                  <para id="ch0106s000000p0030">B: 86.7, 99.5</para>
+                </entry>
+                <entry><para id="ch0106s000000p0031">A: 100, 100</para>
+                  <para id="ch0106s000000p0032">B: 100, 100</para>
+                </entry>
+                <entry>None</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>PathoDx respiratory virus panel (Oxoid)</entry>
+                <entry>Cell culture only</entry>
+                <entry>Not approved for direct use on clinical specimens</entry>
+                <entry>A and B</entry>
+                <entry>NA</entry>
+                <entry><para id="ch0106s000000p0033">A: 100, 100</para>
+                  <para id="ch0106s000000p0034">B: 100, 100</para>
+                </entry>
+                <entry>Ad, P1, P2, P3, RSV</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>Light Diagnostics Simulfluor viral diagnostic screen (Millipore)</entry>
+                <entry>Cell culture</entry>
+                <entry>Does not distinguish influenza A or influenza B virus from Ad, P1, P2, or P3</entry>
+                <entry>A and B</entry>
+                <entry>NA</entry>
+                <entry><para id="ch0106s000000p0035">A: 95.8–100, 99.6–100</para>
+                  <para id="ch0106s000000p0036">B: 100, 100</para>
+                </entry>
+                <entry>Ad, P1, P2, P3, RSV</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>Light Diagnostics Simulfluor Flu A/Flu B (Millipore)</entry>
+                <entry>BAL, NPA, NPS, NS, NW, TS; cell culture</entry>
+                <entry>Distinguishes influenza A from influenza B virus</entry>
+                <entry>A and B</entry>
+                <entry><para id="ch0106s000000p0037">A: 58.8–80, 98.3–98.6</para>
+                  <para id="ch0106s000000p0038">B: 43.2–50, 98.3–100</para>
+                </entry>
+                <entry><para id="ch0106s000000p0039">A: 97.8–100, 100</para>
+                  <para id="ch0106s000000p0040">B: 100, 100</para>
+                </entry>
+                <entry></entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>Light Diagnostics Simulfluor RSV Flu A (Millipore)</entry>
+                <entry>Cell culture</entry>
+                <entry>Distinguishes influenza A virus from RSV</entry>
+                <entry>A</entry>
+                <entry>NA</entry>
+                <entry>A: 95.8–100, 99.6–100</entry>
+                <entry>RSV</entry>
+              </row>
+              <row>
+                <entry>IFA</entry>
+                <entry>Imagen respiratory screen (Thermo Fisher Scientific)</entry>
+                <entry>NPA; cell culture</entry>
+                <entry>Does not distinguish between different viruses in kit</entry>
+                <entry>A and B</entry>
+                <entry>96.7, 89.6<superscript><link linkend="ch0106s000000a0015"><emphasis>b</emphasis></link></superscript><anchor id="ch0106s000000a0013"/></entry>
+                <entry><para id="ch0106s000000p0041">A: 100, 100</para>
+                  <para id="ch0106s000000p0042">B: 100, 100</para>
+                </entry>
+                <entry>Ad, P1, P2, P3, RSV</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>Light Diagnostics respiratory viral screen IFA (Millipore)</entry>
+                <entry>Cell culture</entry>
+                <entry>Does not distinguish influenza A or influenza B virus from Ad, P1, P2, P3, or RSV</entry>
+                <entry>A and B</entry>
+                <entry><para id="ch0106s000000p0043">A: 100, 100</para>
+                  <para id="ch0106s000000p0044">B: 100, 100</para>
+                </entry>
+                <entry><para id="ch0106s000000p0045">A: 100, 100</para>
+                  <para id="ch0106s000000p0046">B: 100, 100</para>
+                </entry>
+                <entry>Ad, P1, P2, P3, RSV</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0106s000000p0047" role="table-footnote"><superscript><link linkend="ch0106s000000a0012"><emphasis>a</emphasis></link></superscript><anchor id="ch0106s000000a0014"/>DFA, direct fluorescent antibody; IFA, indirect fluorescent antibody; BAL, bronchoalveolar lavage fluid; NAsp, nasal aspirate; NPA, nasopharyngeal aspirate; NPS, nasopharyngeal swab; NS, nasal swab; NW, nasal wash; TS, throat swab; MAbs, monoclonal antibodies; NA, not applicable; Ad, adenovirus; P1, parainfluenza type 1; P2, parainfluenza type 2; P3, parainfluenza type 3; RSV, respiratory syncytial virus.</para>
+        <para id="ch0106s000000p0048" role="table-footnote"><superscript><link linkend="ch0106s000000a0013"><emphasis>b</emphasis></link></superscript><anchor id="ch0106s000000a0015"/>Sensitivity and specificity for all viruses tested; unable to determine assay parameters for each virus.</para>
+        <table id="ch0106s000000t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0106s000000a0016"/><link linkend="ch0106s000000a0010">TABLE 2</link></phrase></emphasis> Commercially available, antigen-based RIDT kits for rapid (≤30 minutes) detection of influenza A or B viruses<superscript><link linkend="ch0106s000000a0022"><emphasis>a</emphasis></link></superscript><anchor id="ch0106s000000a0017"/>,<superscript><link linkend="ch0106s000000a0024"><emphasis>b</emphasis></link></superscript><anchor id="ch0106s000000a0018"/>
+</title>
+          
+          <tgroup cols="6">
+            <tbody>
+              <row>
+                <entry>Assay format</entry>
+                <entry>Kit name (manufacturer)</entry>
+                <entry>Acceptable clinical samples</entry>
+                <entry>Sample collection restrictions</entry>
+                <entry>Assay performance time (min)</entry>
+                <entry>Assay complexity<superscript><link linkend="ch0106s000000a0025"><emphasis>c</emphasis></link></superscript><anchor id="ch0106s000000a0019"/> (510K number)</entry>
+              </row>
+              <row>
+                <entry>Dipstick chromatographic immunoassay</entry>
+                <entry>QuickVue Influenza A+B test (Quidel Corporation)</entry>
+                <entry>NPS, NS</entry>
+                <entry>Limited transport media supported</entry>
+                <entry>10</entry>
+                <entry>CLIA waived (K031899)</entry>
+              </row>
+              <row>
+                <entry>Lateral-flow chromatographic immunoassay</entry>
+                <entry>Advantage Flu A&amp;B (LABSCO); Biosign Flu A+B (Princeton BioMeditech Corporation); Consult immunoassay influenza A&amp;B (McKesson); ImmunoCard STAT! Flu A&amp;B (Meridian Bioscience, Inc.); OraSure Quick Flu Rapid Flu A+B test (OraSure Technologies, Inc.); OSOM Ultra Flu A&amp;B (Sekisui Diagnostics); Poly stat Flu A&amp;B (Polymedco, Inc.); Status Flu A&amp;B (Life Sign LLC)</entry>
+                <entry>NPS, NPA, NS, NW</entry>
+                <entry>Use only swabs supplied with the kit</entry>
+                <entry>10–15</entry>
+                <entry>CLIA waived (NS, NPS); moderate (NPA, NW) (K083746)<superscript>d</superscript></entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>CareStart Flu A&amp;B Plus (Access Bio, Inc.)</entry>
+                <entry>NPS</entry>
+                <entry>Use NPS provided in the kit</entry>
+                <entry>10</entry>
+                <entry>CLIA moderate (K191514)</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>OSOM Ultra Plus Flu A&amp;B (Sekisui Diagnostics); Sure-Vue Signature Influenza A&amp;B Test (Fisher Healthcare)</entry>
+                <entry>NPS, NS</entry>
+                <entry>Use swabs provided in the kit</entry>
+                <entry>10</entry>
+                <entry>CLIA waived (L192719)<superscript><link linkend="ch0106s000000a0026"><emphasis>d</emphasis></link></superscript><anchor id="ch0106s000000a0020"/></entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>Xpect Flu A&amp;B (Thermo Fisher Scientific)</entry>
+                <entry>NS, NW, TS</entry>
+                <entry>For swab samples, use flocked swabs or synthetic-tipped (Dacron or nylon) swabs with aluminum or plastic shafts; cotton tips and wooden shafts not recommended; do not use calcium alginate</entry>
+                <entry>15</entry>
+                <entry>CLIA moderate (K031565)</entry>
+              </row>
+              <row>
+                <entry>Lateral flow chromatographic immunoassay with a reader</entry>
+                <entry>Acucy Influenza A&amp;B Test (Sekisui Diagnostics)</entry>
+                <entry>NPS, NS</entry>
+                <entry>NS included in the kit; do not use swabs that have cotton, rayon, or polyester tips or wooden shafts</entry>
+                <entry>15</entry>
+                <entry>CLIA waived (K182001)</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>BinaxNOW Influenza A&amp;B Card 2 (Abbott)<superscript><link linkend="ch0106s000000a0027"><emphasis>e</emphasis></link></superscript><anchor id="ch0106s000000a0021"/></entry>
+                <entry>NPS, NS</entry>
+                <entry>Swabs included in the kit</entry>
+                <entry>15</entry>
+                <entry>CLIA waived (K162642)</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>BD Veritor (Becton Dickinson)<superscript><link linkend="ch0106s000000a0027"><emphasis>e</emphasis></link></superscript></entry>
+                <entry>NPS, NS</entry>
+                <entry>Flocked-tip swabs included in the kit</entry>
+                <entry>10</entry>
+                <entry>CLIA waived (K112277)</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>BD Veritor (Becton Dickinson)<superscript><link linkend="ch0106s000000a0027"><emphasis>e</emphasis></link></superscript></entry>
+                <entry>NA, NW, NPS in transport media</entry>
+                <entry></entry>
+                <entry>10</entry>
+                <entry>CLIA moderate (K121797)</entry>
+              </row>
+              <row>
+                <entry></entry>
+                <entry>Sofia Influenza A+B FIA (Quidel Corporation)<superscript><link linkend="ch0106s000000a0027"><emphasis>e</emphasis></link></superscript></entry>
+                <entry>NPA, NPS, NS, NW</entry>
+                <entry>Use nylon-flocked swab for NPS and kit swab for NS</entry>
+                <entry>15</entry>
+                <entry>CLIA waived (K162438)</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0106s000000p0049" role="table-footnote"><superscript><link linkend="ch0106s000000a0017"><emphasis>a</emphasis></link></superscript><anchor id="ch0106s000000a0022"/>Additional information on rapid tests can be found at <ulink url="https://www.cdc.gov/flu/professionals/diagnosis/table-ridt.html">https://www.cdc.gov/flu/professionals/diagnosis/table-ridt.html</ulink>; Note: See <anchor id="ch0106s000000a0023"/><link linkend="ch0106s000000a0042">Table 4</link> in <ulink url="ch0112#ch0112s0001">chapter 93</ulink> on Coronaviruses for examples of combination Influenza A &amp; B / SARS CoV-2 antigen tests.</para>
+        <para id="ch0106s000000p0050" role="table-footnote"><superscript><link linkend="ch0106s000000a0018"><emphasis>b</emphasis></link></superscript><anchor id="ch0106s000000a0024"/>NA, nasal aspirate; NPA, nasopharyngeal aspirate; NPS, nasopharyngeal swab; NS, nasal swab; TS, throat swab; NW, nasal wash.</para>
+        <para id="ch0106s000000p0051" role="table-footnote"><superscript><link linkend="ch0106s000000a0019"><emphasis>c</emphasis></link></superscript><anchor id="ch0106s000000a0025"/>CLIA-waived laboratory assays employ methodologies that are so simple and accurate as to render the likelihood of erroneous results negligible. CLIA moderate-complexity assays require some knowledge, training, reagent preparation, processing, proficiency, ability to troubleshoot or interpret, and judgment in the performance of the test. CLIA-waived assays may be used as point-of-care tests; some when used in the laboratory are reclassified as moderate complexity.</para>
+        <para id="ch0106s000000p0052" role="table-footnote"><superscript><link linkend="ch0106s000000a0020"><emphasis>d</emphasis></link></superscript><anchor id="ch0106s000000a0026"/> Several kits with different names are distributed under the same 510 K number.</para>
+        <para id="ch0106s000000p0053" role="table-footnote"><superscript><link linkend="ch0106s000000a0021"><emphasis>e</emphasis></link></superscript><anchor id="ch0106s000000a0027"/>Requires a reader for assay interpretation.</para>
+      </sect2>
+      <sect2 id="ch0106s0001s0006">
+        <title>DIRECT DETECTION</title>
+        <anchor id="ch0106s000001a0007"/>
+        <anchor id="ch0106s000000a0028"/>
+        <anchor id="ch0106s000000a0029"/>
+        <anchor id="ch0106s000000a0030"/>
+        <anchor id="ch0106s000000a0031"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0106s0002">
+      <title>Microscopy</title>
+      <anchor id="ch0106s000002a0001"/>
+      <anchor id="ch0106s000000a0032"/>
+      <para id="ch0106s000000p0054">Influenza viruses have been detected in clinical specimens by direct and indirect visualization of their typical morphological appearance by electron microscopy (EM). Immune EM has been the most sensitive EM method and allows differentiation of virus type and subtype when specific hyperimmune sera are used in the assay (<link linkend="ch0106s000000li0032">32</link>). However, large numbers of viruses (&gt;10<superscript>5</superscript> to 10<superscript>6</superscript> per ml) must be present in the clinical sample for successful detection using this diagnostic approach. Because of the need for an experienced microscopist and access to an electron microscope, the relatively high costs of assay performance, and the greater sensitivity of other diagnostic approaches, EM is not routinely used for the diagnosis of influenza virus infection.</para>
+    </sect1>
+    <sect1 id="ch0106s0003">
+      <title>Antigen Detection</title>
+      <anchor id="ch0106s000003a0001"/>
+      <anchor id="ch0106s000000a0033"/>
+      <para id="ch0106s000000p0055">Antigen detection assays are used in a variety of formats to rapidly detect influenza viruses in clinical specimens and to confirm the identity of isolates grown in culture. These assays are based upon detection of the interaction of viral proteins with specific antibodies. A variety of different formats have been used, including direct and indirect fluorescent antibody (FA) staining, enzyme immunoassay, immunochromatographic assay, and fluoroimmunoassay.</para>
+      <para id="ch0106s000000p0056">FA assays identify viral antigens present on, or in, infected, exfoliated epithelial cells present in respiratory secretions. Cells are collected on swabs or in aspirates or wash fluids and are washed in cold buffer to remove mucus before being applied and fixed to a microscope slide. Use of cytocentrifugation for application of the cells to slides can improve the number and morphology of cells for evaluation and enhance the accuracy of interpretation. Virus-specific antibodies are applied to the fixed cells; monoclonal antibodies directed against viral proteins that are conserved and expressed in large quantities (e.g., M and NP) are used because of their greater specificity compared to polyclonal sera and are available from several manufacturers. A fluorochrome is conjugated to the virus-specific antibody in direct FA (DFA) assays, and it is conjugated to a second antibody that reacts with the virus-specific antibody in indirect FA (IFA) assays. Antibody staining of cells is detected with a fluorescent microscope. Contaminating mucus can cause nonspecific fluorescence that can be reduced by treating the samples with<emphasis>N</emphasis>-acetylcysteine or dithiothreitol and by centrifuging cells through Percoll. DFA and IFA assays take 2 to 4 h to perform, although some diagnostic laboratories batch samples and do not perform tests as soon as the sample is received, delaying the availability of results. In theory, IFA assays should be more sensitive and less specific than DFA assays, but there is significant overlap, noted in published reports, in the sensitivities (50% to 90%) and specificities (generally &gt;90%) of these assays (<link linkend="ch0106s000000li0033">33</link>). Lower sensitivities may be the result of suboptimal laboratory expertise or malfunctioning equipment (<link linkend="ch0106s000000li0034">34</link>). An advantage of FA assays is that sample quality can be determined by observing whether an adequate number of epithelial cells are present. In addition, kits are available to screen for other respiratory viruses (e.g., respiratory syncytial virus, parainfluenza viruses, and adenovirus) as well as for influenza A and B viruses (<link linkend="ch0106s000000a0011">Table 1</link>). These multiplex assays allow efficient screening for other viral causes of febrile respiratory disease. Disadvantages include the need for specialized equipment (a fluorescent microscope) and the effect of technician expertise on assay performance characteristics (i.e., sensitivity and specificity). Each laboratory should establish its own performance characteristics compared to those of cell culture.</para>
+      <para id="ch0106s000000p0057">Several immunoassays that use different reporter formats (colorimetric, fluorometric, and chromatographic) have been developed for the detection of influenza virus antigen in clinical specimens. Many of these assays take at least 2 h to perform and have 50% to 80% sensitivity compared to culture methods. Rapid influenza diagnostic test (RIDT) kits that use immunochromatographic assay formats for rapid (≤30-min) detection of influenza A and B viruses in clinical specimens are used much more commonly than other antigen detection immunoassay formats (<link linkend="ch0106s000000a0016">Table 2</link>). The kits use monoclonal antibodies to detect the presence of the influenza A or B nucleoprotein by chromatographic immunoassay. All the kits provide results within 30 min, and some of them can be used as point-of-care tests (i.e., those classified by the Clinical Laboratory Improvement Amendments [CLIA] as waived). The types of specimens that are appropriate for testing vary among the kits, and specific instructions for sample collection and processing must be followed for optimal results.</para>
+      <para id="ch0106s000000p0058">Assay performance characteristics in clinical settings are affected by the age of the patient (sensitivity is generally lower in adults), by the amount of virus in the clinical sample, and by the type of specimen analyzed. The sensitivity of antigen detection-based RIDTs for identification of infection was noted to be quite poor in some circumstances during the 2009 H1N1 pandemic (<link linkend="ch0106s000000li0035">35</link>, <link linkend="ch0106s000000li0036">36</link>). The lower sensitivity associated with many of the antigen detection-based RIDTs led the Food and Drug Administration to establish minimum sample sensitivity requirements with appropriate culture or molecular methods as the gold standard (<anchor id="ch0106s000000a0034"/><link linkend="ch0106s000000a0037">Table 3</link>), to monitor device performance over time to evaluate its ability to identify contemporary strains (available annually from the Centers for Disease Control and Prevention), and to require provisions for evaluating an antigen detection-based RIDT’s ability to detect newly emerging influenza virus strains (<link linkend="ch0106s000000li0037">37</link>). As a result, several previously marketed kits are no longer available, and others have been modified to enhance their performance. Even with these new requirements, a negative RIDT result should not prevent prescription of antiviral treatment for a patient with suspected influenza, especially when influenza is prevalent in the community, and follow-up testing with culture or RT-PCR should be considered (<link linkend="ch0106s000000li0022">22</link>). With the emergence of SARS-CoV-2 as a cause of febrile respiratory illness, many of the RIDTs that detect influenza virus have been modified to also identify SARS-CoV-2 and are available via emergency use authorization (See <ulink url="ch0112#ch0112s0001">chapter 93</ulink> on Coronaviruses).</para>
+    </sect1>
+    <sect1 id="ch0106s0004">
+      <title>Nucleic Acid Analyses</title>
+      <anchor id="ch0106s000004a0001"/>
+      <anchor id="ch0106s000000a0035"/>
+      <para id="ch0106s000000p0059">Molecular methods are commonly used both for the detection and characterization (see below) of influenza viruses. The most commonly used molecular method is reverse transcription-PCR (RT-PCR). Viral nucleic acids are first extracted from clinical samples. The use of guanidinium thiocyanate with silica particles or commercial kits based upon this approach reliably removes inhibitors of the enzymatic amplification that are often present in clinical specimens. Automated extraction instruments decrease the amount of time personnel must spend in sample preparation while increasing the reproducibility of the procedure compared to the use of manual extraction methods, and several commercial assays are licensed to be used in combination with an automated extraction procedure. Reverse transcriptase is used to synthesize cDNA from viral RNA by random hexamers or virus gene-specific oligonucleotides. The cDNA is then amplified by use of virus gene-specific oligonucleotides as primers and a heat-stable DNA polymerase. Resulting amplicons are identified as virus specific by a variety of different methods (e.g., identification by size, hybridization, restriction enzyme mapping, and sequencing).</para>
+      <anchor id="ch0106s000000a0036"/>
+      <beginpage pagenum="1696"/>
+      <table id="ch0106s000000t0003"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0106s000000a0037"/><link linkend="ch0106s000000a0034">TABLE 3</link></phrase></emphasis> FDA minimal performance requirements for antigen-based RIDTs (<link linkend="ch0106s000000li0037">37</link>)
+</title>
+        
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry>Parameter<superscript><link linkend="ch0106s000000a0039"><emphasis>a</emphasis></link></superscript><anchor id="ch0106s000000a0038"/></entry>
+              <entry><phrase role="center">Value (%) when comparator is:</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry><phrase role="center">Molecular assay</phrase>
+              </entry>
+              <entry><phrase role="center">Culture</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>Sensitivity</entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Minimal point estimate</entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Influenza A virus</entry>
+              <entry><phrase role="center">80</phrase>
+              </entry>
+              <entry><phrase role="center">90</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>Influenza B virus</entry>
+              <entry><phrase role="center">80</phrase>
+              </entry>
+              <entry><phrase role="center">80</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>95% CI lower bound</entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Influenza A virus</entry>
+              <entry><phrase role="center">≥70</phrase>
+              </entry>
+              <entry><phrase role="center">≥80</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>Influenza B virus</entry>
+              <entry><phrase role="center">≥70</phrase>
+              </entry>
+              <entry><phrase role="center">≥70</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>Specificity</entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Minimal point estimate</entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Influenza A and B viruses</entry>
+              <entry><phrase role="center">95</phrase>
+              </entry>
+              <entry><phrase role="center">95</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>95% CI lower bound</entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Influenza A and B viruses</entry>
+              <entry><phrase role="center">≥90</phrase>
+              </entry>
+              <entry><phrase role="center">≥90</phrase>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="ch0106s000000p0060" role="table-footnote"><superscript><link linkend="ch0106s000000a0038"><emphasis>a</emphasis></link></superscript><anchor id="ch0106s000000a0039"/> CI, confidence interval.</para>
+      <para id="ch0106s000000p0061">Many different RT-PCR assays have been developed since the initial description in 1991 of an RT-PCR method to detect and distinguish influenza A, B, and C viruses (<link linkend="ch0106s000000li0038">38</link>). Assays that identify and distinguish different influenza virus types have targeted conserved genes, such as the matrix gene, and subtype-specific assays have amplified a portion of the HA gene (<link linkend="ch0106s000000a0042">Table 4</link>). Nested PCR assays have been developed to improve assay sensitivity, but the inherent problem of carryover contamination associated with the use of this assay format limits its utility for most diagnostic laboratories. Real-time RT-PCR assays, which are less vulnerable to cross contamination, can directly and rapidly detect influenza viruses in clinical specimens with a sensitivity approaching or exceeding that of culture (<link linkend="ch0106s000000li0039">39</link>).</para>
+      <para id="ch0106s000000p0062">Multiplexed assays able to identify influenza viruses and other respiratory viruses have been developed and have performance characteristics that meet or exceed those of cell culture (<link linkend="ch0106s000000li0040">40</link>, <link linkend="ch0106s000000li0041">41</link>). A variety of methodologies are used to detect amplified products, and different equipment is needed based upon each assay’s characteristics. Multiplexed respiratory virus panels may be less sensitive than monoplex molecular assays that target a single virus (<link linkend="ch0106s000000li0040">40</link>, <link linkend="ch0106s000000li0041">41</link>). Genetic drift among circulating viruses can result in mutations in primer and probe target regions, resulting in decreased assay sensitivity, as has been noted for some assays targeting H3N2 viruses in recent years (<link linkend="ch0106s000000li0042">42</link>). The availability, and FDA clearance, of such assays and their ability to identify multiple other respiratory pathogens (<link linkend="ch0106s000000a0042">Table 4</link>) has led many diagnostic laboratories to use these assays for respiratory virus diagnosis in place of the more time-consuming cell culture methods, and the improved sensitivity of molecular methods is replacing culture methods as the gold standard for influenza virus detection (<link linkend="ch0106s000000li0040">40</link>, <link linkend="ch0106s000000li0041">41</link>, <link linkend="ch0106s000000li0043">43</link>). Several multiplex PCR-based, emergency-use-authorization SARS-CoV-2 assays cover both influenza viruses A and B (<ulink url="https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations-medical-devices#coronavirus2019">https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations-medical-devices#coronavirus2019</ulink>). See Table 7 in <ulink url="ch0112#ch0112s0001">chapter 93</ulink> on Coronaviruses for additional information.</para>
+      <para id="ch0106s000000p0063">A number of isothermal molecular amplification assays are undergoing evaluation for direct detection of influenza viruses in clinical samples. These include nucleic acid sequence-based amplification (NASBA), reverse transcription-loop mediated amplification (RT-LAMP), RT-helicase dependent amplification (RT-HDA), and RT-nicking enzyme amplification reaction (RT-NEAR) (<link linkend="ch0106s000000li0044">44</link>, <link linkend="ch0106s000000li0045">45</link>). Nucleic acid amplification occurs at a single temperature without requiring the cycling associated with PCR. All these assays require initial synthesis of complementary DNA with a reverse transcriptase. NASBA uses T7 RNA polymerase to generate RNA amplicons, while the other listed methods use a DNA polymerase to produce DNA amplicons. For the DNA-based methods, separation of double-stranded DNA occurs enzymatically rather than as a result of the heat denaturation used in PCRs. Successful amplification is detected with a variety of different methods, including molecular beacon probes, turbidity assays (RT-LAMP), and probe hybridization using electrochemical readouts. As with RT-PCR assays, these isothermal amplification methods are more sensitive than culture or immunofluorescent-antibody staining for the diagnosis of influenza virus infection.</para>
+      <para id="ch0106s000000p0064">The time to a result for molecular assays varies widely depending on the assay used, but it can exceed 4 h (<link linkend="ch0106s000000a0042">Table 4</link>). However, some self-enclosed systems integrating nucleic acid extraction, amplification, and detection that provide results in &lt;30 min, and there are also several CLIA-waived assays available (<link linkend="ch0106s000000a0042">Table 4</link>). These random-access, integrated assays have improved sensitivity compared to rapid antigen detection tests and can be used as point-of-care tests, improving patient care in outpatient settings (<link linkend="ch0106s000000li0036">36</link>, <link linkend="ch0106s000000li0046">46</link>).</para>
+      <sect2 id="ch0106s0004s0001">
+        <title>ISOLATION PROCEDURES</title>
+        <anchor id="ch0106s000004a0002"/>
+        <anchor id="ch0106s000000a0040"/>
+        <para id="ch0106s000000p0065">Influenza virus isolation procedures should be performed under biosafety level 2 (BSL-2) conditions. When the clinical sample comes from a patient suspected to be infected with a highly pathogenic avian influenza (HPAI) virus strain or other avian influenza A viruses with the potential to cause severe human disease, attempts at virus isolation should be performed under BSL-3 or higher conditions. Human clinical samples should be processed in separate laboratories and by staff members other than those handling clinical material from swine or birds (<link linkend="ch0106s000000li0047">47</link>).</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0106s0005">
+      <title>Cell Culture</title>
+      <anchor id="ch0106s000005a0001"/>
+      <anchor id="ch0106s000000a0041"/>
+      <para id="ch0106s000000p0066">Influenza viruses can be grown in a number of different cell lines, including primary monkey kidney cells, Vero cells, human diploid lung fibroblasts, mink lung epithelial cells, human lung adenocarcinoma (A549) cells, and Madin-Darby canine kidney (MDCK) cells (<link linkend="ch0106s000000li0046">46</link>–<link linkend="ch0106s000000li0048">48</link>). Although some variability can be seen from season to season, MDCK and primary monkey kidney cell lines have similar isolation frequencies (<link linkend="ch0106s000000li0049">49</link>), and MDCK cells are more sensitive than Vero cells or diploid lung fibroblast (<link linkend="ch0106s000000li0050">50</link>). Thus, MDCK cells (CCL-34; American Type Culture Collection, Manassas, VA), a continuous polarized cell line, are the most common cell line used for isolation of influenza viruses and support the growth of type A, B, and C strains. Continuous cell lines do not produce proteases that will cleave the viral HA, a step necessary to produce infectious viral progeny, so exogenous protease must be added to the maintenance medium. TPCK [l-(tosylamido-2-phenyl)ethyl chloromethyl ketone]-treated trypsin at a concentration of 1 to 2 μg/ml provides the necessary proteolytic activity and is the recommended protease for virus isolation. Chymotrypsin cleavage of the HA prevents the trypsin-mediated enhancement of viral infectivity, and TPCK treatment inactivates chymotrypsin activity, which may contaminate pancreatic extracts of trypsin.</para>
+      <table id="ch0106s000000t0004"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0106s000000a0042"/><link linkend="ch0106s000000a0023">TABLE 4</link></phrase></emphasis> FDA-cleared molecular detection assays for influenza viruses<superscript><link linkend="ch0106s000000a0046"><emphasis>a</emphasis></link></superscript><anchor id="ch0106s000000a0043"/>,<superscript><link linkend="ch0106s000000a0047"><emphasis>b</emphasis></link></superscript><anchor id="ch0106s000000a0044"/>
+</title>
+        
+        <tgroup cols="10">
+          <tbody>
+            <row>
+              <entry>Assay format</entry>
+              <entry>Kit name (manufacturer)</entry>
+              <entry>Instrumentation</entry>
+              <entry>Acceptable clinical samples</entry>
+              <entry>Virus type(s) (subtypes) detected</entry>
+              <entry>Influenza target gene(s)</entry>
+              <entry>Assay performance time (min)</entry>
+              <entry>Assay complexity (510K number)</entry>
+              <entry>Other viruses detected</entry>
+              <entry>Reference(s)</entry>
+            </row>
+            <row>
+              <entry>Isothermal nucleic acid amplification assay (NEAR)</entry>
+              <entry>ID NOW Influenza A&amp;B 2 (Abbott)</entry>
+              <entry>ID NOW platform</entry>
+              <entry>NPS, NS; direct or in VTM</entry>
+              <entry>A, B</entry>
+              <entry>PB2 (A); PA (B)</entry>
+              <entry>&lt;15</entry>
+              <entry>CLIA waived (K191534)</entry>
+              <entry>None</entry>
+              <entry><link linkend="ch0106s000000li0078">78</link>, <link linkend="ch0106s000000li0079">79</link></entry>
+            </row>
+            <row>
+              <entry>Isothermal nucleic acid amplification assay (RT-HDA)</entry>
+              <entry>Solana Influenza A+B assay (Quidel Corp.)</entry>
+              <entry>Solana instrument</entry>
+              <entry>NPS, NS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A, B)</entry>
+              <entry>~45</entry>
+              <entry>Moderate (K161814)</entry>
+              <entry>None</entry>
+              <entry><link linkend="ch0106s000000li0080">80</link>
+              </entry>
+            </row>
+            <row>
+              <entry>Multiplex real-time RT-PCR</entry>
+              <entry>cobas Liat Influenza A/B (Roche Molecular Diagnostics)</entry>
+              <entry>cobas Liat system</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A); NSP (B)</entry>
+              <entry>~20</entry>
+              <entry>CLIA waived (K111387)</entry>
+              <entry>None</entry>
+              <entry><link linkend="ch0106s000000li0078">78</link>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>cobas Liat Influenza A/B &amp; RSV (Roche Molecular Diagnostics)</entry>
+              <entry>cobas Liat system</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A); NSP (B)</entry>
+              <entry>~20</entry>
+              <entry>CLIA waived (K153544)</entry>
+              <entry>RSV</entry>
+              <entry><link linkend="ch0106s000000li0081">81</link>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>Idylla respiratory (IFV-RSV) panel (Biocartis)</entry>
+              <entry>Idylla</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (H1, 2009H1, H3), B</entry>
+              <entry>Matrix (A, B); HA (A), NA (A)</entry>
+              <entry>&lt;50</entry>
+              <entry>Moderate (K163628)</entry>
+              <entry>RSV A, RSV B</entry>
+              <entry><link linkend="ch0106s000000li0082">82</link>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>QIAstat-Dx respiratory panel</entry>
+              <entry>QIAstat-Dx analyzer</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (H1, 2009 H1, H3), B</entry>
+              <entry>Matrix (A); HA (H1, H3); NA (H1 2009); NP (B)</entry>
+              <entry>~60</entry>
+              <entry>Moderate (K183597)</entry>
+              <entry>RSV, PIV1, PIV2, PIV3, PIV4 hMPV, Ad, HRV/EV, 229E, OC43, NL63, HKU1</entry>
+              <entry><link linkend="ch0106s000000li0083">83</link>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>Panther Fusion Flu A/B/RSV (Hologic, Inc.)</entry>
+              <entry>Panther Fusion system</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A, B)</entry>
+              <entry>~150</entry>
+              <entry>High (K171963)</entry>
+              <entry>RSV</entry>
+              <entry><link linkend="ch0106s000000li0084">84</link>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>Cepheid Xpert Flu assay</entry>
+              <entry>Cepheid GeneXpert instrument systems</entry>
+              <entry>NA, NPS, NW in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A); HA (2009 H1); ? for B</entry>
+              <entry>75</entry>
+              <entry>Moderate (K123191)</entry>
+              <entry>None</entry>
+              <entry><link linkend="ch0106s000000li0085">85</link>, <link linkend="ch0106s000000li0086">86</link></entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>Cepheid Xpert Flu/RSV XC assay</entry>
+              <entry>Cepheid GeneXpert instrument systems</entry>
+              <entry>NA, NPS, NW in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A, B), PB2 (A); PA (A); NSP (B)</entry>
+              <entry>60</entry>
+              <entry>CLIA waived, moderate (K142045)</entry>
+              <entry>RSV</entry>
+              <entry><link linkend="ch0106s000000li0087">87</link>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>Cepheid Xpert Xpress Flu assay</entry>
+              <entry>Cepheid GeneXpert instrument systems</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A, B), PB2 (A), PA (A), NSP (B)</entry>
+              <entry>~30</entry>
+              <entry>CLIA waived (K171552), moderate (K162456)</entry>
+              <entry>None</entry>
+              <entry><link linkend="ch0106s000000li0078">78</link>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>Cepheid Xpert Xpress Flu/RSV assay</entry>
+              <entry>Cepheid GeneXpert instrument systems</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A, B), PB2 (A), PA (A), NSP (B)</entry>
+              <entry>~30</entry>
+              <entry>Moderate (K162331)</entry>
+              <entry>RSV</entry>
+              <entry><link linkend="ch0106s000000li0088">88</link>, <link linkend="ch0106s000000li0089">89</link></entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>FluChip-8G Influenza A+B assay (InDevR)</entry>
+              <entry>Bio-Rad T100 endpoint thermal cycler with FluChip-8G imaging system</entry>
+              <entry>NPS, NS in VTM</entry>
+              <entry>A (H1 2009, H3, other), B (Vic, Yam)</entry>
+              <entry>Matrix (A), HA (A, B), Nase (A, B), NP (A), NSP (A)</entry>
+              <entry>&lt;480</entry>
+              <entry>High (K182513)</entry>
+              <entry>None</entry>
+              <entry><link linkend="ch0106s000000li0061">61</link>, <link linkend="ch0106s000000li0090">90</link></entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>ProFast+ assay (Hologic, Inc.)</entry>
+              <entry>Cepheid SmartCycler II</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (2009 H1, seasonal H1, H3)</entry>
+              <entry>HA</entry>
+              <entry>~240</entry>
+              <entry>High (K101855)</entry>
+              <entry>None</entry>
+              <entry><link linkend="ch0106s000000li0091">91</link>, <link linkend="ch0106s000000li0092">92</link></entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>ProFlu+ assay (Hologic, Inc.)</entry>
+              <entry>Cepheid SmartCycler II</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A), NSP (B)</entry>
+              <entry>~240</entry>
+              <entry>High (K110968, K132129, K153219)</entry>
+              <entry>RSV</entry>
+              <entry><link linkend="ch0106s000000li0088">88</link>, <link linkend="ch0106s000000li0092">92</link></entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>Simplexa Flu A/B &amp; RSV (Focus Diagnostics)</entry>
+              <entry>3M integrated cycler</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A, B)</entry>
+              <entry>&lt;240</entry>
+              <entry>High (K102170)</entry>
+              <entry>RSV</entry>
+              <entry><link linkend="ch0106s000000li0093">93</link>, <link linkend="ch0106s000000li0094">94</link></entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>Simplexa Flu A/B &amp; RSV Direct (Focus Diagnostics)</entry>
+              <entry>3M integrated cycler</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A, B)</entry>
+              <entry>~60</entry>
+              <entry>Moderate (K120413)</entry>
+              <entry>RSV</entry>
+              <entry><link linkend="ch0106s000000li0095">95</link>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>Simplexa Influenza A H1N1 (2009) kit (Focus Diagnostics)</entry>
+              <entry>3M integrated cycler</entry>
+              <entry>NPA, NPS, NS in VTM</entry>
+              <entry>A (2009 H1)</entry>
+              <entry>Matrix (A), HA (2009 H1)</entry>
+              <entry>&lt;240</entry>
+              <entry>High (K100148)</entry>
+              <entry>None</entry>
+              <entry><link linkend="ch0106s000000li0096">96</link>
+              </entry>
+            </row>
+            <row>
+              <entry>Real-time RT-PCR</entry>
+              <entry>CDC Human influenza virus real-time RT-PCR detection and characterization panel (CDC)</entry>
+              <entry>ABI 7500 Fast DX real-time PCR instrument</entry>
+              <entry>BAL, BW, NA, NPS, NS, NW, TA, TS, sputum, lung</entry>
+              <entry>A (H1, H3, 2009 H1, H5), B (B/Yam, B/Vic)</entry>
+              <entry>Matrix (A); NP (A/swine); NSP (B); HA (H1, H3, 2009 H1, H5, B/Yam, B/Vic)</entry>
+              <entry>~240</entry>
+              <entry>High (K132508)</entry>
+              <entry>None</entry>
+              <entry><link linkend="ch0106s000000li0097">97</link>
+              </entry>
+            </row>
+            <row>
+              <entry>Multiplex RT-PCR with colorimetric visualization</entry>
+              <entry>Accula Flu A/B test (Mesa Biotech, Inc.); Silaris Influenza A&amp;B (Sekisui Diagnostics)</entry>
+              <entry>Accula Dock instrument; Silaris dock</entry>
+              <entry>NS</entry>
+              <entry>A, B</entry>
+              <entry>PB2 (A), matrix (B)</entry>
+              <entry>~30</entry>
+              <entry>CLIA waived (K171641)</entry>
+              <entry>None</entry>
+              <entry>None</entry>
+            </row>
+            <row>
+              <entry>Multiplex RT-PCR</entry>
+              <entry>artus Influenza A/B RG kit (Qiagen GmbH)</entry>
+              <entry>Rotor-Gene Q MDx instrument</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A, B)</entry>
+              <entry>~240</entry>
+              <entry>High (K113323)</entry>
+              <entry>None</entry>
+              <entry><link linkend="ch0106s000000li0098">98</link>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="ch0106s000000t0005"><title>Table 5 (continued)</title>
+        
+        <tgroup cols="10">
+          <tbody>
+            <row>
+              <entry>Multiplex RT-PCR with probe capture and fluorescent detection</entry>
+              <entry>BioCode respiratory pathogen panel (Applied BioCode, Inc.)</entry>
+              <entry>BioCode MDx-3000 system</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (H1, 2009H1, H3), B</entry>
+              <entry>Matrix (A); HA (H1, 2009 H1, H3); ? (B)</entry>
+              <entry>~300</entry>
+              <entry>High (K192485)</entry>
+              <entry>RSV, PIV1, PIV2, PIV3, PIV4, hMPV, Ad, HRV/EV, CoV<superscript><emphasis><anchor id="ch0106s000000a0045"/><link linkend="ch0106s000000a0048">c</link></emphasis></superscript></entry>
+              <entry>None</entry>
+            </row>
+            <row>
+              <entry>Multiplex RT-PCR with probe detection using voltammetry</entry>
+              <entry>ePlex respiratory virus panel (GenMark Diagnostics, Inc.)</entry>
+              <entry>ePlex instrument</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (H1, 2009 H1, H3), B</entry>
+              <entry>Matrix (A); PB1 (B); HA (H1, H3, 2009 H1)</entry>
+              <entry>~105</entry>
+              <entry>Moderate (K163636)</entry>
+              <entry>RSV A, RSV B, PIV1, PIV2, PIV3, PIV4, hMPV, Ad, HRV/Ent, CoV</entry>
+              <entry><link linkend="ch0106s000000li0099">99</link>, <link linkend="ch0106s000000li0100">100</link></entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>eSensor respiratory virus panel (GenMark Diagnostics, Inc.)</entry>
+              <entry>eSensor XT-8TM system</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (H1, 2009 H1, H3), B</entry>
+              <entry>Matrix (A); PB1 (B); HA (H1, H3, 2009 H1)</entry>
+              <entry>~480</entry>
+              <entry>High (K113731)</entry>
+              <entry>RSV A, RSV B, PIV1, PIV2, PIV3, hMPV, Ad, HRV/Ent</entry>
+              <entry><link linkend="ch0106s000000li0043">43</link>, <link linkend="ch0106s000000li0101">101</link></entry>
+            </row>
+            <row>
+              <entry>Multiplex RT-PCR with endpoint melt curve analysis</entry>
+              <entry>FilmArray respiratory panel (BioFire Diagnostics)</entry>
+              <entry>FilmArray instrument, FilmArray system 2.0 or FilmArray Torch system</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (H1, 2009 H1, H3), B</entry>
+              <entry>Matrix (A); HA (H1, 2009 H1, H3, B)</entry>
+              <entry>~60</entry>
+              <entry>Moderate (K110764, K160068)</entry>
+              <entry>RSV, PIV1, PIV2, PIV3, PIV4, hMPV, HRV/Ent, Ad, OC43, HKU1, 229E, NL63</entry>
+              <entry><link linkend="ch0106s000000li0043">43</link>, <link linkend="ch0106s000000li0099">99</link></entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>FilmArray respiratory panel 2.0 (BioFire Diagnostics)</entry>
+              <entry>FilmArray system 2.0 or FilmArray Torch system</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (H1, 2009 H1, H3), B</entry>
+              <entry>Matrix (A); HA (H1, 2009 H1, H3, B)</entry>
+              <entry>~45</entry>
+              <entry>Moderate (K170604)</entry>
+              <entry>RSV, PIV1, PIV2, PIV3, PIV4, hMPV, HRV/Ent, Ad, OC43, HKU1, 229E, NL63</entry>
+              <entry><link linkend="ch0106s000000li0102">102</link>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>FilmArray respiratory panel 2.0 Plus (BioFire Diagnostics)</entry>
+              <entry>FilmArray system 2.0 or FilmArray Torch system</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (H1, 2009 H1, H3), B</entry>
+              <entry>Matrix (A); HA (H1, 2009 H1, H3, B)</entry>
+              <entry>~45</entry>
+              <entry>Moderate (DEN170017)</entry>
+              <entry>RSV, PIV1, PIV2, PIV3, PIV4, hMPV, HRV/Ent, Ad, OC43, HKU1, 229E, NL63, MERS</entry>
+              <entry>None</entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>FilmArray pneumonia panel (BioFire Diagnostics)</entry>
+              <entry>FilmArray system 2.0 or FilmArray Torch system</entry>
+              <entry>BAL, sputum, TA</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A); HA (B)</entry>
+              <entry>~60</entry>
+              <entry>High (K180966)</entry>
+              <entry>RSV, PIV, hMPV, HRV/Ent, Ad, CoV</entry>
+              <entry><link linkend="ch0106s000000li0103">103</link>, <link linkend="ch0106s000000li0104">104</link></entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>FilmArray pneumonia panel Plus (BioFire Diagnostics)</entry>
+              <entry>FilmArray system 2.0 or FilmArray Torch system</entry>
+              <entry>BAL, sputum, TA</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A); HA (B)</entry>
+              <entry>~60</entry>
+              <entry>High (K181324)</entry>
+              <entry>RSV, PIV, hMPV, HRV/Ent, Ad, CoV<superscript><link linkend="ch0106s000000a0048"><emphasis>c</emphasis></link></superscript>, MERS</entry>
+              <entry><link linkend="ch0106s000000li0105">105</link>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>FilmArray respiratory panel EZ (BioFire Diagnostics)</entry>
+              <entry>FilmArray instrument</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (H1, 2009 H1, H3), B</entry>
+              <entry>Matrix (A); HA (H1, 2009 H1, H3, B)</entry>
+              <entry>~60</entry>
+              <entry>CLIA waived (K152579)</entry>
+              <entry>RSV, PIV<superscript>c</superscript>, hMPV, HRV/Ent, Ad, CoV<superscript>c</superscript></entry>
+              <entry><link linkend="ch0106s000000li0106">106</link>
+              </entry>
+            </row>
+            <row>
+              <entry>Multiplex RT-PCR</entry>
+              <entry>Lyra Influenza A+B (Quidel)</entry>
+              <entry>ABI 7500 Fast Dx real-time PCR instrument, QuantStudio Dx real-time PCR instrument, Cepheid SmartCycler II</entry>
+              <entry>NS, NPS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A), NA (B)</entry>
+              <entry>&lt;75</entry>
+              <entry>High (K112172, K113777, K131728)</entry>
+              <entry>None</entry>
+              <entry>None</entry>
+            </row>
+            <row>
+              <entry>Multiplex real-time RT-PCR with melt curve analysis</entry>
+              <entry>ARIES Flu A/B &amp; RSV assay (Luminex Corporation)</entry>
+              <entry>ARIES system, ARIES M1 system</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A, B</entry>
+              <entry>Matrix (A, B)</entry>
+              <entry>&lt;120</entry>
+              <entry>Moderate (K161220)</entry>
+              <entry>RSV</entry>
+              <entry><link linkend="ch0106s000000li0087">87</link>
+              </entry>
+            </row>
+            <row>
+              <entry>Multiplex real-time RT-PCR, target-specific primer extension, fluidic microbead microarray</entry>
+              <entry>NxTAG respiratory virus panel (Luminex Molecular Diagnostics)</entry>
+              <entry>MAGPIX instrument</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (seasonal H1, H3), B</entry>
+              <entry>Matrix (A, B), HA (H1, H3)</entry>
+              <entry>~225</entry>
+              <entry>High (K152386)</entry>
+              <entry>RSV A, RSV B, PIV1, PIV2, PIV3, PIV4, hMPV, HRV, Ad, OC43, 229E, NL63, HKU1, Boca</entry>
+              <entry><link linkend="ch0106s000000li0048">48</link>
+              </entry>
+            </row>
+            <row>
+              <entry>Multiplex RT-PCR with microarray hybridization</entry>
+              <entry>Verigene respiratory pathogens Flex nucleic acid test (Luminex Corporation)</entry>
+              <entry>Verigene system</entry>
+              <entry>NPS in VTM</entry>
+              <entry>A (H1, H3, 2009 H1), B</entry>
+              <entry>Matrix (A), HA (2009 H1, H3), NSP (B)</entry>
+              <entry>~120</entry>
+              <entry>Moderate (K143653)</entry>
+              <entry>RSV A, RSV B, PIV1, PIV2, PIV3, PIV4, hMPV, HRV, Ad</entry>
+              <entry>None</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="ch0106s000000p0067" role="table-footnote"><superscript><link linkend="ch0106s000000a0043"><emphasis>a</emphasis></link></superscript><anchor id="ch0106s000000a0046"/>Additional information on rapid tests can be found at <ulink url="http://www.cdc.gov/flu/professionals/diagnosis/molecular-assays.htm">http://www.cdc.gov/flu/professionals/diagnosis/molecular-assays.htm</ulink>; Note: See <ulink url="ch0112#ch0112s000000a0087">Table 7</ulink> in <ulink url="ch0112#ch0112s0001">chapter 93</ulink> on Coronaviruses for examples of combination influenza A &amp; B / SARS CoV-2 molecular tests.</para>
+      <para id="ch0106s000000p0068" role="table-footnote"><superscript><link linkend="ch0106s000000a0044"><emphasis>b</emphasis></link></superscript><anchor id="ch0106s000000a0047"/>BAL, bronchoalveolar lavage fluid; NA, nasal aspirate; NPS, nasopharyngeal swab; NS, nasal swab; TS, throat swab; BW, bronchial wash; NW, nasal wash; TA, tracheal aspirate; VTM, viral transport medium; NP, nucleoprotein; RSV, respiratory syncytial virus; PIV, parainfluenza virus; hMPV, human metapneumovirus; HRV, human rhinovirus; Ent, enterovirus; Ad, adenovirus; Boca, bocavirus; OC43, 229E, NL63, and HKU1, human coronavirus (CoV) variants; HA, hemagglutinin; Nase, neuraminidase; NSP, nonstructural protein; Yam, Yamagata lineage; Vic, Victoria lineage; ?, not reported.</para>
+      <para id="ch0106s000000p0069" role="table-footnote"><superscript><link linkend="ch0106s000000a0045"><emphasis>c</emphasis></link></superscript><anchor id="ch0106s000000a0048"/>Does not differentiate type.</para>
+      <para id="ch0106s000000p0070">MDCK cells are propagated in growth medium that contains 5% to 10% fetal calf serum (FCS). FCS contains inhibitors that prevent the production of infectious virus, so the FCS must be removed prior to inoculation of the clinical sample (<link linkend="ch0106s000000li0051">51</link>, <link linkend="ch0106s000000li0052">52</link>). The inhibitory effects of FCS can be prevented by washing the cell sheet with Hanks buffer or serum-free medium sufficiently to remove the protein-containing growth medium and then adding serum-free medium to cover the cell sheet. The clinical sample is then inoculated into the medium. After a 2-h incubation, the inoculum-medium mixture is removed and replaced with serum-free medium supplemented with TPCK-treated trypsin. Alternatively, the sample can be inoculated directly onto cells with serum-free medium supplemented with TPCK-treated trypsin and incubated overnight prior to changing of the medium the next day. The cultures are maintained at 33°C to 34°C and monitored for virus growth.</para>
+      <anchor id="ch0106s000000a0049"/>
+      <beginpage pagenum="1697"/>
+      <anchor id="ch0106s000000a0050"/>
+      <beginpage pagenum="1698"/>
+      <anchor id="ch0106s000000a0051"/>
+      <beginpage pagenum="1699"/>
+      <anchor id="ch0106s000000a0052"/>
+      <beginpage pagenum="1700"/>
+      <anchor id="ch0106s000000a0053"/>
+      <beginpage pagenum="1701"/>
+      <para id="ch0106s000000p0071">The replication of influenza viruses typically leads to cytopathic effects (CPE) and destruction of the cell sheet within a week after inoculation. CPE may be inapparent or absent in the presence of viral replication, but viral replication can be identified by the ability of the viral HA to bind to sialic residues on the erythrocytes of different animal species. Cultures should be screened every 2 to 3 days by hemadsorption (binding of erythrocytes to the viral HA of infected cells) or hemagglutination (cross-linking of erythrocytes by virus in the culture medium) for evidence of viral replication. To evaluate hemadsorption of cells grown in a tissue culture tube, the monolayer is first examined for CPE (<anchor id="ch0106s000000a0054"/><link linkend="ch0106s000000a0056">Fig. 1A</link>), and the medium is removed and stored. The cell sheet is rinsed three times with 1 ml of 0.05% guinea pig red blood cells. One milliliter of 0.5% guinea pig red blood cells is then added, and the tube is stored at 4°C for 20 min, with the red blood cell suspension covering the cells. The tube is then shaken, and adherence of red blood cells to the cell sheet is determined microscopically (<link linkend="ch0106s000000a0056">Fig. 1B</link>). If cytopathic changes are scored as less than 4+ (i.e., less than 75% of cell sheet with CPE), the tissue culture tubes are rinsed with phosphate-buffered saline and refed with culture medium. The medium collected initially from tubes with 4+ cytopathic changes can be used for further characterization. All procedures are performed in a BSL-2 safety cabinet, and care must be taken to prevent cross-contamination between cultures. Guinea pig red blood cells are more sensitive for detection of influenza virus than are avian cells, but influenza C virus does not agglutinate guinea pig red blood cells. Chicken red blood cells can be used in agglutination assays to identify influenza C viruses. Although most isolates demonstrate growth within 1 week after inoculation, virus from samples with low infectious titers may require extended culture incubation for 10 to 14 days and additional blind passaging of negative cultures. Presumptive isolates are characterized further, as outlined below.</para>
+      <para id="ch0106s000000p0072">A disadvantage of traditional cell culture methods is the time needed to obtain a positive result (average, 4 to 5 days). More rapid methods have been developed by inoculating samples onto cell culture monolayers maintained in shell vials or multiwell plates. This approach can use either cell lines employed in traditional cell culture for identification of influenza virus (e.g., MDCK cells) or mixed cell cultures (e.g., A549 cells plus mink lung cells) to screen for multiple respiratory viruses (R-Mix FreshCells; Quidel, San Diego, CA), which are reported to detect seasonal influenza virus strains as well as strains with novel hemagglutinins (<link linkend="ch0106s000000li0033">33</link>, <link linkend="ch0106s000000li0051">51</link>). The cells are fixed after 24 to 72 h, and type-specific monoclonal antibodies are used to detect viral antigen. Sensitivity can be lower than that achieved by standard isolation methods, although R-mix cells have been reported to have 82% to 100% sensitivity for detection of influenza A and B viruses (<link linkend="ch0106s000000li0035">35</link>, <link linkend="ch0106s000000li0053">53</link>). Shell vial assays have the disadvantage of not producing virus for additional studies (e.g., antigenic characterization). Screening for viral antigen by immunofluorescence also can be used at the end of the 10- to 14-day incubation period for standard culture prior to discarding of cells (<link linkend="ch0106s000000li0054">54</link>). This step is usually not necessary if screening by hemadsorption or hemagglutination is being performed, but it may detect virus in the absence of cytopathic changes if other strategies for virus detection are not used.</para>
+      <figure id="ch0106s000000f0001"><title><anchor id="ch0106s000000a0055"/><phrase role="figureLabel"><anchor id="ch0106s000000a0056"/><link linkend="ch0106s000000a0054">FIGURE 1</link></phrase> Influenza virus-infected MDCK cells. (A) Cytopathic changes. (B) Hemadsorption with guinea pig red blood cells. Red blood cells adsorb to both infected cells (black arrows) and the plastic previously occupied by infected cells and where residual hemagglutinin protein is still present (white arrowheads).
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0106f01.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+    </sect1>
+    <sect1 id="ch0106s0006">
+      <title>Isolation from Embryonated Chicken Eggs</title>
+      <anchor id="ch0106s000006a0001"/>
+      <anchor id="ch0106s000000a0057"/>
+      <para id="ch0106s000000p0073">The amniotic and allantoic cavities of 10- to 11-day-old embryonated chicken eggs are inoculated with the clinical sample for isolation of influenza A and B viruses. Seven- to 8-day-old eggs are used for isolation of influenza C viruses, although these viruses are also isolated with 10- to 11-day-old eggs. Embryonated eggs have endogenous proteases that can cleave the viral HA to yield infectious virus, so exogenous administration of proteases is not necessary. Inoculated eggs are incubated at 33°C to 34°C for 2 to 3 days (5 days for influenza C viruses), and then both amniotic and allantoic fluids are collected and assayed for hemagglutination activity. Influenza A and B viruses can grow both in cells lining the allantoic cavities and in those lining the amniotic cavities of embryonated eggs, whereas influenza C virus grows only in cells lining the amniotic cavities. If no hemagglutination activity is detected, influenza viruses may still be recovered by performing one or two blind passages. A pool containing equal volumes of the amniotic and allantoic fluids is inoculated into eggs as described above (<link linkend="ch0106s000000li0051">51</link>).</para>
+      <para id="ch0106s000000p0074">Isolation and passaging of influenza viruses in eggs can lead to adaptive mutations that include alterations in glycosylation sites in the viral hemagglutinin (<link linkend="ch0106s000000li0053">53</link>, <link linkend="ch0106s000000li0054">54</link>). Such alterations can adversely affect the immunogenicity of egg-passaged viruses used in vaccines, which leads to decreased vaccine effectiveness, as has been observed for egg-passaged inactivated influenza vaccines targeting A/H3N2 viruses (<link linkend="ch0106s000000li0055">55</link>, <link linkend="ch0106s000000li0056">56</link>).</para>
+      <anchor id="ch0106s000000a0058"/>
+      <beginpage pagenum="1702"/>
+      <sect2 id="ch0106s0006s0001">
+        <title>IDENTIFICATION AND TYPING SYSTEMS</title>
+        <anchor id="ch0106s000006a0002"/>
+        <anchor id="ch0106s000000a0059"/>
+        <para id="ch0106s000000p0075">A variety of methods are used to identify and characterize influenza virus isolates. The most common are shown in<anchor id="ch0106s000000a0060"/><link linkend="ch0106s000000a0062">Table 5</link> and are based upon immunologic or molecular approaches. The initial step is to identify the isolate as an influenza virus and to distinguish it from other respiratory viruses that have the ability to agglutinate or adsorb red blood cells (e.g., parainfluenza viruses and mumps virus). In many instances, it is sufficient to identify the virus by type, and this may be accomplished by immunofluorescent or immunoperoxidase stains or an enzyme-linked immunosorbent assay (ELISA) using commercially available, type-specific antibodies targeting the viral NP or M proteins. These assays are particularly useful for working with cell culture isolates. The rapid immunochromatographic assays described in <link linkend="ch0106s000000a0016">Table 2</link> may be able to identify isolates and type them, but there are limited data on the use of these assays for this purpose, and these assays are not approved for this use. Importantly, the immunochromatographic assays may give false-negative results when the quantity of virus in a cell culture harvest is low.</para>
+        <para id="ch0106s000000p0076">Hemagglutination inhibition (HAI) assays have been performed for more than 80 years and are still used for identification (<link linkend="ch0106s000000li0047">47</link>, <link linkend="ch0106s000000li0057">57</link>). HAI assays can be type, subtype, or strain specific, and they are particularly useful for examining antigenic relationships among strains of the same subtype. HAI is the WHO gold standard for antigenic characterization of influenza isolates and vaccine strain selection. Immune sera are usually produced in ferrets, sheep, or chickens. The hemagglutination activity of the virus is quantitated, and a standard amount of viral HA (4 HA units) is mixed with serial 2-fold dilutions of the immune serum and turkey or guinea pig red blood cells. A 4-fold or greater difference in HAI activities between the isolate and the reference strain is an indication that the isolate may be an antigenic variant. Because the HA undergoes antigenic change over time, subtype-specific antisera for interpandemic strains must be prepared and standardized periodically. Thus, subtype identification by HAI is usually performed only as part of surveillance activities or investigation of a case in which there is a strong epidemiologic suspicion of infection with a nonhuman strain.</para>
+        <para id="ch0106s000000p0077">Molecular assays can be used for virus identification and characterization. The same RT-PCR assays used for detection of viruses in clinical samples also can be used to identify clinical isolates. An advantage that molecular assays have over immunology-based assays is that the molecular assays can identify influenza A virus subtypes even after significant antigenic variation has occurred, because there are well-conserved regions of the HA gene that serve as targets for the primers and probes used for identification. Multiplex assays can also be used to distinguish influenza A and B viruses or to identify HA and NA subtypes (<link linkend="ch0106s000000li0058">58</link>). Results are determined by identification of amplicon size, by hybridization to type- or subtype-specific probes, and by direct sequencing of the amplicons. If the sequences of different variants are known, it may be possible to identify unique differences by digesting amplified DNA with restriction endonucleases that generate restriction fragment length polymorphisms (RFLP) unique to each strain (<link linkend="ch0106s000000li0059">59</link>). Given the difficulty of designing and performing RFLP analysis and the reduced cost and time required to perform DNA sequencing, direct sequencing of amplicons, or the entire HA gene, has become a more common way to track and characterize specific strains. Electrospray ionization-mass spectrometry is another method that can be used to analyze virus-specific PCR amplicons and to identify novel variants and reassortants when the viral genomic sequence is unknown, as was done with the initial identification of the 2009 H1N1 virus as a likely swine-origin virus (<link linkend="ch0106s000000li0060">60</link>).</para>
+        <anchor id="ch0106s000000a0061"/>
+        <beginpage pagenum="1703"/>
+        <table id="ch0106s000000t0006"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0106s000000a0062"/><link linkend="ch0106s000000a0060">TABLE 5</link></phrase></emphasis> Methods to identify and characterize influenza virus isolates
+</title>
+          
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry>Assay</entry>
+                <entry>Advantages</entry>
+                <entry>Limitations</entry>
+              </row>
+              <row>
+                <entry><emphasis role="strong">Assays using type- or subtype-specific antisera</emphasis>
+                </entry>
+                <entry></entry>
+              </row>
+              <row>
+                <entry>ELISA</entry>
+                <entry>Standard assay with known performance characteristics; most labs experienced with assay format</entry>
+                <entry>For subtyping of influenza A virus strains, need to update sera periodically to detect circulating strain</entry>
+              </row>
+              <row>
+                <entry>Hemagglutination inhibition</entry>
+                <entry>Standard assay with known performance characteristics; no special equipment needed; gold standard for antigenic characterization</entry>
+                <entry>For subtyping of influenza A virus strains, need to update sera periodically to detect circulating strain; many clinical labs not experienced with this method</entry>
+              </row>
+              <row>
+                <entry>Immunofluorescence or immunoperoxidase staining of infected cells</entry>
+                <entry>Standard assay with known performance characteristics; many labs experienced with assay format; monoclonal antibodies commercially available</entry>
+                <entry>For subtyping of influenza A virus strains, need to update monoclonal antibodies periodically to detect circulating strain</entry>
+              </row>
+              <row>
+                <entry><emphasis role="strong">Molecular methods</emphasis>
+                </entry>
+                <entry></entry>
+                <entry></entry>
+              </row>
+              <row>
+                <entry>RT-PCR</entry>
+                <entry>Very sensitive assays</entry>
+                <entry>Potential for carryover contamination; need for stringent laboratory controls</entry>
+              </row>
+              <row>
+                <entry>Amplicon size</entry>
+                <entry>Ease of performance</entry>
+                <entry>Potential for false-positive results due to nonspecific amplification</entry>
+              </row>
+              <row>
+                <entry>Probe hybridization</entry>
+                <entry>Most commonly used approach for confirmation of PCR results; real-time formats eliminate need for postamplification processes</entry>
+                <entry>Depending on hybridization format used, may add time to performance of assay</entry>
+              </row>
+              <row>
+                <entry>Restriction analysis</entry>
+                <entry>Ease of performance</entry>
+                <entry>Need to know specific sequence; requires specific nuclease site; increased handling of post-PCR samples</entry>
+              </row>
+              <row>
+                <entry>Genetic sequence</entry>
+                <entry>Highest level of identity; sequence data that may be used in other studies</entry>
+                <entry>Need for specialized equipment; technically complex; increased cost</entry>
+              </row>
+              <row>
+                <entry>Microarray analysis</entry>
+                <entry>Potential to analyze multiple genetic sequences simultaneously</entry>
+                <entry>Need for specialized equipment; technically complex; increased cost</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0106s000000p0078">DNA microarrays are being used increasingly in diagnostics for identification of specific pathogens. Oligonucleotide probes are arrayed on a chip or membrane, and hybridization of virus-specific sequences is then detected. The viral sequences can be generated by cDNA synthesis from viral genomic RNA or by amplification of fragments of genomic RNA by RT-PCR. Microarray analysis strategies have been developed that distinguish influenza virus types (A versus B) and subtypes (<link linkend="ch0106s000000li0061">61</link>, <link linkend="ch0106s000000li0062">62</link>).</para>
+        <para id="ch0106s000000p0079">Next-generation sequencing methods are being applied to influenza virus for the analysis of the entire influenza virus genome (<link linkend="ch0106s000000li0063">63</link>, <link linkend="ch0106s000000li0064">64</link>). The sequence of each segment is determined, which allows a more detailed evaluation of reassortment and evolution of viral genes. This technology provided the ability to more fully characterize strains in surveillance studies.</para>
+      </sect2>
+      <sect2 id="ch0106s0006s0002">
+        <title>SEROLOGIC TESTS</title>
+        <anchor id="ch0106s000006a0003"/>
+        <anchor id="ch0106s000000a0063"/>
+        <para id="ch0106s000000p0080">Influenza virus infections are also identified by serologic methods. Most persons have been infected previously with influenza viruses, so detection of virus-specific immunoglobulin M or other immunoglobulin subclasses has not been particularly useful (<link linkend="ch0106s000000li0065">65</link>). An exception may be detection of immunoglobulin M responses to novel HAs from avian strains (<link linkend="ch0106s000000li0066">66</link>). Instead, paired acute- and convalescent-phase serum samples collected at least 10 days apart are needed to detect a significant (4-fold or greater) increase in serum antibody levels. The requirement for paired sera to identify infection makes serology an impractical method for identification of influenza virus infection in the acutely ill individual. Instead, serology is used primarily in surveillance and in epidemiologic studies.</para>
+        <para id="ch0106s000000p0081">The most widely used assay formats include complement fixation, HAI, neutralization, and enzyme immunoassay. Complement fixation identifies type-specific antibodies to the NP, but it is not as sensitive as the other commonly used serologic assays in detecting significant rises in antibody levels. HAI and neutralization antibodies in serum are functionally significant in that higher serum antibody levels correlate with protection from infection and illness, and these antibody levels are used to measure responses to vaccination and to identify infection. HAI antibodies block the binding of the viral HA to sialic acid residues on red blood cells and thus inhibit hemagglutination. Each of the components in the HAI assay may affect the outcome of the test. Human and animal sera may contain nonspecific inhibitors of hemagglutination, but methods to remove these inhibitors have been developed (<link linkend="ch0106s000000li0051">51</link>). The source of the viral antigen can affect results, in that virus initially isolated in cell culture may detect a greater frequency of antibody increases than egg-grown virus (<link linkend="ch0106s000000li0067">67</link>). The species from which the red blood cells are derived can affect assay results. Chicken and turkey red blood cells are commonly used to measure HAI antibody to human strains of influenza viruses, but they may fail to detect HAI antibodies to avian strains (such as H5N1). Substitution of horse red blood cells can improve HAI assay sensitivity for detection of antibodies to avian influenza virus strains (<link linkend="ch0106s000000li0068">68</link>).</para>
+        <para id="ch0106s000000p0082">Neutralizing antibodies block viral infectivity and provide a more sensitive assay for detection of antibodies to influenza A and B viruses (<link linkend="ch0106s000000li0069">69</link>). Neutralization assays are the preferred method for the detection of antibodies to HPAI virus strains. Consensus approaches have been developed to allow comparable results to be obtained between laboratories (<link linkend="ch0106s000000li0070">70</link>). Neutralization assays require the use of live virus, so their use with HPAI virus strains is restricted to laboratories with BSL-3 or higher facilities. Enzyme immunoassays are also used for detection of antibody responses to whole-virus antigen or to specific viral proteins. The conjugate and the antigen used in the assay are factors that affect the performance characteristics (sensitivity and specificity) of these assays. Enzyme immunoassays are used to measure specific immunoglobulin responses in a variety of clinical specimens (serum samples and respiratory secretions). Serologic assays targeting influenza virus are not used to manage individual patients clinically, but such tests are useful in vaccine evaluation and in epidemiological and other research studies.</para>
+      </sect2>
+      <sect2 id="ch0106s0006s0003">
+        <title>ANTIVIRAL SUSCEPTIBILITIES</title>
+        <anchor id="ch0106s000006a0004"/>
+        <anchor id="ch0106s000000a0064"/>
+        <para id="ch0106s000000p0083">Plaque inhibition assays are the gold standard for measuring susceptibility to amantadine and rimantadine, but the assays are cumbersome and time-consuming to perform. ELISA methods have also been used to measure decreases in the expression of viral antigens in the presence of these drugs. These assays can be used in combination with genotypic characterization of the M2 gene since<emphasis>in vitro</emphasis> and <emphasis>in vivo</emphasis> resistance to these drugs is associated with specific M2 gene mutations (<link linkend="ch0106s000000li0071">71</link>). RT-PCR amplification followed by restriction fragment length polymorphism analysis or direct sequencing of amplicons is a genotypic method used to identify resistant viruses.</para>
+        <para id="ch0106s000000p0084">Cell culture assays do not reliably identify antiviral susceptibility to the NA inhibitors zanamivir and oseltamivir. Instead, NA enzyme inhibition assays with chemiluminescent or fluorescent substrates are used to identify resistance. Several commercially available diagnostic assays (e.g., NA-Star, NA-Fluor, and NA-XTD; Applied Biosystems) are available for<emphasis>in vitro</emphasis> screening of influenza virus isolates (<link linkend="ch0106s000000li0072">72</link>). The results of these assays also correlate with mutations in the NA gene that can be identified by sequencing. Molecular approaches can be used to identify known NA gene mutations associated with NAI resistance (e.g., E119V and R292K in A/H3N2, H274Y in A/H1N1, and R152K in influenza B virus) (<link linkend="ch0106s000000li0073">73</link>). Traditional terminal deoxynucleotide (Sanger) sequencing and next-generation sequencing of the NA gene can successfully identify these mutations. Another strategy to quickly screen a large number of isolates is application of a real-time RT-PCR assay that uses a probe that recognizes wild-type (susceptible) NA sequence. This approach identified all A/H1N1 strains with a H274Y NA gene mutation (<link linkend="ch0106s000000li0074">74</link>).</para>
+        <para id="ch0106s000000p0085">Mutations in the HA gene may also lead to a resistance phenotype through decreased binding affinity of HA to cell surface receptors and decreased reliance on NA function to release budding viruses from infected cells. No reliable cell culture system currently exists for identifying HA resistance mutations, so identification relies upon sequencing of the receptor binding site of the HA gene.</para>
+        <anchor id="ch0106s000000a0065"/>
+        <beginpage pagenum="1704"/>
+        <para id="ch0106s000000p0086">There are no standardized methods for identifying resistance to baloxavir, a cap-dependent endonuclease inhibitor. Two phenotypic assays, the high content neutralization test (<link linkend="ch0106s000000li0075">75</link>) and the focus reduction assay (<link linkend="ch0106s000000li0076">76</link>), have been developed. The assays report different 50% effective concentrations for a selected virus, but measured fold changes are similar between the tests (<link linkend="ch0106s000000li0073">73</link>). Other surveillance methods sequence the polymerase A gene to identify mutations associated with resistance (e.g., I38X) (<link linkend="ch0106s000000li0021">21</link>).</para>
+      </sect2>
+      <sect2 id="ch0106s0006s0004">
+        <title>EVALUATION, INTERPRETATION, AND REPORTING OF RESULTS</title>
+        <anchor id="ch0106s000006a0005"/>
+        <anchor id="ch0106s000000a0066"/>
+        <para id="ch0106s000000p0087">The results of a diagnostic test must be considered in the context of the overall setting in which the test is ordered. Clinicians play a critical role in assessing the plausibility of a test result, but the laboratory also can contribute to this appraisal. Seasonal, epidemiologic, and clinical factors are elements that must be evaluated in addition to the type of assay used. Unexpected laboratory results can be recognized by the laboratory as well as by the clinician. For example, a positive influenza test result when influenza is not recognized to be circulating in the community should prompt an assessment as to whether epidemiologic (e.g., travel history) or clinical (e.g., immunocompromised host) factors support the diagnosis of influenza virus infection. Similarly, a negative result, especially with a less sensitive assay (e.g., a RIDT), should not preclude prescription of antiviral treatment to a patient with signs and symptoms of influenza. Close interactions between the laboratory and clinician are a vital component of a quality control program.</para>
+        <para id="ch0106s000000p0088">No diagnostic assay has 100% sensitivity and specificity, so false-negative and false-positive results can be expected to occur. Many factors that contribute to lowered sensitivity and specificity are known and can be addressed in ongoing quality control programs. False-negative results may be due to poor quality or inappropriate clinical sample collection, delays in sample transportation or processing, inadequate sample storage (e.g., wrong temperature or transport medium), the time of sample collection during the clinical illness (e.g., later in the illness than recommended, when viral shedding has decreased), the performance characteristics of the diagnostic assay (i.e., lower sensitivity), and the infecting strain (e.g., swine or avian influenza). False-positive results may also be due to other characteristics of the diagnostic assay (i.e., nonspecific reactions), cross-contamination within the laboratory, mislabeling of specimens, and microbial contamination. Standard operating procedures in the collection, transportation, and processing of clinical samples should be established and followed to minimize the occurrence of inaccurate test results. Reagents should be standardized, and periodic assessments of assay performance should be performed with known positive and negative controls. The timing of these assessments will be based upon the type and number of tests being performed and the sources of reagents.</para>
+        <para id="ch0106s000000p0089">Each laboratory must decide upon the goals of its influenza virus diagnostic program when selecting the diagnostic assays to be performed. Rapid and sensitive assays can favorably affect patient management by allowing the prescription of targeted antiviral therapy and the institution of appropriate infection control isolation procedures. Positive test results may form the basis for offering prophylactic therapy to close contacts of infected patients, especially contacts with high-risk medical conditions. Early and rapid laboratory diagnosis also can be important for evaluating influenza-like illnesses in the setting of a nosocomial outbreak, at the beginning of the influenza season (before influenza is recognized to be circulating in the community), and in persons with a history of contact with pigs or birds or travel to an area where influenza virus is circulating. Confirmation of swine- or avian-origin virus strains can be accomplished by submission of suspect samples or isolates to a public health laboratory for evaluation.</para>
+        <para id="ch0106s000000p0090">The laboratory’s expertise, staffing, and available equipment will also influence test selection. For example, a fluorescent microscope and an experienced technician are necessary for the performance of immunofluorescence assays, and a thermal cycler along with other equipment is needed for RT-PCR assays. If the clinical specimen being tested comes from a patient who may be infected with an HPAI virus strain (e.g., H5N1), non-culture-based assays are currently recommended for laboratories that do not meet the BSL-3 or higher conditions recommended for growth of these strains. Commercially available antigen detection assays or the more sensitive H5- and H7-specific RT-PCR assays may be performed with BSL-2 work practices. In the United States, influenza A virus-positive samples from patients meeting the clinical (febrile [&gt;38°C] respiratory illness [cough, sore throat, or dyspnea]) and epidemiologic (contact with poultry or domestic birds or with a patient with known or suspected H5N1 or H7N9 virus infection in a country with endemic transmission of avian influenza) parameters for suspected avian influenza virus infection are referred to the CDC for further evaluation. Selected negative samples may also be sent to the CDC for analysis in consultation with the local public health department.</para>
+        <para id="ch0106s000000p0091">As new strains of influenza virus emerge, the sensitivities of established methods to detect these strains may change. For example, cell lines may have diminished sensitivity to new strains, or the ability to detect influenza virus antigen in infected tissue culture cells (e.g., by hemadsorption) may decrease (<link linkend="ch0106s000000li0054">54</link>). Thus, it is prudent to reevaluate periodically the performance characteristics of established methods, especially if results do not correlate with those expected based upon clinical and epidemiologic criteria.</para>
+        <para id="ch0106s000000p0092">Influenza diagnosis is also performed for reasons other than patient management. On the local level, knowledge that influenza is circulating in a community allows diagnosis of influenza based upon clinical symptoms (febrile respiratory illness with cough) with a sensitivity (60% to 80%) similar to that of many rapid antigen tests (<link linkend="ch0106s000000li0077">77</link>), although the value of these clinical findings is likely diminished when SARS-CoV-2 is cocirculating. Influenza viruses isolated in national and global surveillance systems are characterized antigenically and genetically to identify variants. Information gained from these surveillance activities is used in the annual selection of strains for inclusion in updated trivalent influenza vaccines. Surveillance and characterization of isolates also allow the identification of infection with novel subtypes, as has occurred with influenza A/H5N1 and A/H7N9 viruses in Southeast Asia, A/H5N1 in the United States, and A/H7N7 strains in the Netherlands.</para>
+      </sect2>
+      <sect2 id="ch0106s0006s0005">
+        <title>REFERENCES</title>
+        <anchor id="ch0106s000006a0006"/>
+        <anchor id="ch0106s000000a0067"/>
+        <itemizedlist mark="none" role="biblioEntryList">
+          <listitem id="ch0106s000000li0001" role="bibliographyEntry">
+            <para>1.<emphasis role="strong">World Health Organization.</emphasis> 1980. A revision of the system of nomenclature for influenza viruses: a WHO memorandum. <citetitle><emphasis>Bull World Health Organ</emphasis></citetitle> <emphasis role="strong">58:</emphasis>585–591.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0002" role="bibliographyEntry">
+            <para>2.<emphasis role="strong">Tong S, Zhu X, Li Y, Shi M, Zhang J, Bourgeois M, Yang H, Chen X, Recuenco S, Gomez J, Chen LM, Johnson A, Tao Y, Dreyfus C, Yu W, McBride R, Carney PJ, Gilbert AT, Chang J, Guo Z, Davis CT, Paulson JC, Stevens J, Rupprecht CE, Holmes EC, Wilson IA, Donis RO.</emphasis> 2013. New world bats harbor diverse influenza A viruses. <citetitle><emphasis>PLoS Pathog</emphasis></citetitle> <emphasis role="strong">9:</emphasis>e1003657.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0003" role="bibliographyEntry">
+            <para>3.<emphasis role="strong">World Health Organization/World Organisation for Animal Health/Food and Agriculture Organization (WHO/OIE/FAO) H5N1 Evolution Working Group.</emphasis> 2014. Revised and updated nomenclature for highly pathogenic avian influenza A (H5N1) viruses. <citetitle><emphasis>Influenza Other Respir Viruses</emphasis></citetitle> <emphasis role="strong">8:</emphasis>384–388.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0004" role="bibliographyEntry">
+            <para>4.<emphasis role="strong">Xiang N, Li X, Ren R, Wang D, Zhou S, Greene CM, Song Y, Zhou L, Yang L, Davis CT, Zhang Y, Wang Y, Zhao J, Li X, Iuliano AD, Havers F, Olsen SJ, Uyeki TM, Azziz-Baumgartner E, Trock S, Liu B, Sui H, Huang X, Zhang Y, Ni D, Feng Z, Shu Y, Li Q.</emphasis> 2016. Assessing change in avian influenza A(H7N9) virus infections during the fourth epidemic - China, September 2015-August 2016. <citetitle><emphasis>MMWR Morb Mortal Wkly Rep</emphasis></citetitle> <emphasis role="strong">65:</emphasis>1390–1394.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0005" role="bibliographyEntry">
+            <para>5.<emphasis role="strong">Sederdahl BK, Williams JV.</emphasis> 2020. Epidemiology and clinical characteristics of influenza C virus. <citetitle><emphasis>Viruses</emphasis></citetitle> <emphasis role="strong">12:</emphasis>89.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0006" role="bibliographyEntry">
+            <para>6.<emphasis role="strong">Ferguson L, Olivier AK, Genova S, Epperson WB, Smith DR, Schneider L, Barton K, McCuan K, Webby RJ, Wan XF.</emphasis> 2016. Pathogenesis of influenza D virus in cattle. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">90:</emphasis>5636–5642.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0007" role="bibliographyEntry">
+            <para>7.<emphasis role="strong">Brankston G, Gitterman L, Hirji Z, Lemieux C, Gardam M.</emphasis> 2007. Transmission of influenza A in human beings. <citetitle><emphasis>Lancet Infect Dis</emphasis></citetitle> <emphasis role="strong">7:</emphasis>257–265.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0008" role="bibliographyEntry">
+            <para>8.<emphasis role="strong">Beigel JH, Farrar J, Han AM, Hayden FG, Hyer R, de Jong MD, Lochindarat S, Nguyen TK, Nguyen TH, Tran TH, Nicoll A, Touch S, Yuen KY, Writing Committee of the World Health Organization (WHO) Consultation on Human Influenza A/H5.</emphasis> 2005. Avian influenza A (H5N1) infection in humans. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">353:</emphasis>1374–1385.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0009" role="bibliographyEntry">
+            <para>9.<emphasis role="strong">Li Q, Zhou L, Zhou M, Chen Z, Li F, Wu H, Xiang N, Chen E, Tang F, Wang D, Meng L, Hong Z, Tu W, Cao Y, Li L, Ding F, Liu B, Wang M, Xie R, Gao R, Li X, Bai T, Zou S, He J, Hu J, Xu Y, Chai C, Wang S, Gao Y, Jin L, Zhang Y, Luo H, Yu H, He J, Li Q, Wang X, Gao L, Pang X, Liu G, Yan Y, Yuan H, Shu Y, Yang W, Wang Y, Wu F, Uyeki TM, Feng Z.</emphasis> 2014. Epidemiology of human infections with avian influenza A(H7N9) virus in China. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">370:</emphasis>520–532.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0010" role="bibliographyEntry">
+            <para>10.<emphasis role="strong">Merced-Morales A, Daly P, Abd Elal AI, Ajayi N, Annan E, Budd A, Barnes J, Colon A, Cummings CN, Iuliano AD, DaSilva J, Dempster N, Garg S, Gubareva L, Hawkins D, Howa A, Huang S, Kirby M, Kniss K, Kondor R, Liddell J, Moon S, Nguyen HT, O’Halloran A, Smith C, Stark T, Tastad K, Ujamaa D, Wentworth DE, Fry AM, Dugan VG, Brammer L.</emphasis> 2022. Influenza activity and composition of the 2022-23 influenza vaccine - United States, 2021-22 season. <citetitle><emphasis>MMWR Morb Mortal Wkly Rep</emphasis></citetitle> <emphasis role="strong">71:</emphasis>913–919.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0011" role="bibliographyEntry">
+            <para>11.<emphasis role="strong">Herfst S, Schrauwen EJ, Linster M, Chutinimitkul S, de Wit E, Munster VJ, Sorrell EM, Bestebroer TM, Burke DF, Smith DJ, Rimmelzwaan GF, Osterhaus AD, Fouchier RA.</emphasis> 2012. Airborne transmission of influenza A/H5N1 virus between ferrets. <citetitle><emphasis>Science</emphasis></citetitle> <emphasis role="strong">336:</emphasis>1534–1541.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0012" role="bibliographyEntry">
+            <para>12.<emphasis role="strong">Imai M, Watanabe T, Hatta M, Das SC, Ozawa M, Shinya K, Zhong G, Hanson A, Katsura H, Watanabe S, Li C, Kawakami E, Yamada S, Kiso M, Suzuki Y, Maher EA, Neumann G, Kawaoka Y.</emphasis> 2012. Experimental adaptation of an influenza H5 HA confers respiratory droplet transmission to a reassortant H5 HA/H1N1 virus in ferrets. <citetitle><emphasis>Nature</emphasis></citetitle> <emphasis role="strong">486:</emphasis>420–428.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0013" role="bibliographyEntry">
+            <para>13.<emphasis role="strong">Koopmans M, Wilbrink B, Conyn M, Natrop G, van der Nat H, Vennema H, Meijer A, van Steenbergen J, Fouchier R, Osterhaus A, Bosman A.</emphasis> 2004. Transmission of H7N7 avian influenza A virus to human beings during a large outbreak in commercial poultry farms in the Netherlands. <citetitle><emphasis>Lancet</emphasis></citetitle> <emphasis role="strong">363:</emphasis>587–593.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0014" role="bibliographyEntry">
+            <para>14.<emphasis role="strong">Wang X, Jiang H, Wu P, Uyeki TM, Feng L, Lai S, Wang L, Huo X, Xu K, Chen E, Wang X, He J, Kang M, Zhang R, Zhang J, Wu J, Hu S, Zhang H, Liu X, Fu W, Ou J, Wu S, Qin Y, Zhang Z, Shi Y, Zhang J, Artois J, Fang VJ, Zhu H, Guan Y, Gilbert M, Horby PW, Leung GM, Gao GF, Cowling BJ, Yu H.</emphasis> 2017. Epidemiology of avian influenza A H7N9 virus in human beings across five epidemics in mainland China, 2013-17: an epidemiological study of laboratory-confirmed case series. <citetitle><emphasis>Lancet Infect Dis</emphasis></citetitle> <emphasis role="strong">17:</emphasis>822–832.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0015" role="bibliographyEntry">
+            <para>15.<emphasis role="strong">Nelson MI, Wentworth DE, Das SR, Sreevatsan S, Killian ML, Nolting JM, Slemons RD, Bowman AS.</emphasis> 2016. Evolutionary dynamics of influenza A viruses in US exhibition swine. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">213:</emphasis>173–182.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0016" role="bibliographyEntry">
+            <para>16.<emphasis role="strong">Hayden FG, Palese P.</emphasis> 2017. Influenza virus, p 1009-1058. <citetitle><emphasis>In</emphasis></citetitle> Richman DDW, Whitely RJ, Hayden FG (ed), <citetitle><emphasis>Clinical Virology</emphasis></citetitle>, 4th ed. ASM Press, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0017" role="bibliographyEntry">
+            <para>17.<emphasis role="strong">Sellers SA, Hagan RS, Hayden FG, Fischer WA II.</emphasis> 2017. The hidden burden of influenza: a review of the extra-pulmonary complications of influenza infection. <citetitle><emphasis>Influenza Other Respir Viruses</emphasis></citetitle> <emphasis role="strong">11:</emphasis>372–393.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0018" role="bibliographyEntry">
+            <para>18.<emphasis role="strong">Treanor JJ.</emphasis> 2020. Influenza viruses, including avian influenza and swine influenza, p 2143–2168. <citetitle><emphasis>In</emphasis></citetitle> Bennett JE, Dolin R, Blaser MJ (ed), <citetitle><emphasis>Mandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases</emphasis></citetitle>, 9th ed, vol 2. Elsevier, Inc., Philadelphia, PA.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0019" role="bibliographyEntry">
+            <para>19.<emphasis role="strong">Yu H, Cowling BJ, Feng L, Lau EH, Liao Q, Tsang TK, Peng Z, Wu P, Liu F, Fang VJ, Zhang H, Li M, Zeng L, Xu Z, Li Z, Luo H, Li Q, Feng Z, Cao B, Yang W, Wu JT, Wang Y, Leung GM.</emphasis> 2013. Human infection with avian influenza A H7N9 virus: an assessment of clinical severity. <citetitle><emphasis>Lancet</emphasis></citetitle> <emphasis role="strong">382:</emphasis>138–145.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0020" role="bibliographyEntry">
+            <para>20.<emphasis role="strong">Wang C, Yu H, Horby PW, Cao B, Wu P, Yang S, Gao H, Li H, Tsang TK, Liao Q, Gao Z, Ip DK, Jia H, Jiang H, Liu B, Ni MY, Dai X, Liu F, Van Kinh N, Liem NT, Hien TT, Li Y, Yang J, Wu JT, Zheng Y, Leung GM, Farrar JJ, Cowling BJ, Uyeki TM, Li L.</emphasis> 2014. Comparison of patients hospitalized with influenza A subtypes H7N9, H5N1, and 2009 pandemic H1N1. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">58:</emphasis>1095–1103.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0021" role="bibliographyEntry">
+            <para>21.<emphasis role="strong">Uehara T, Hayden FG, Kawaguchi K, Omoto S, Hurt AC, De Jong MD, Hirotsu N, Sugaya N, Lee N, Baba K, Shishido T, Tsuchiya K, Portsmouth S, Kida H.</emphasis> 2020. Treatment-emergent influenza variant viruses with reduced baloxavir susceptibility: impact on clinical and virologic outcomes in uncomplicated influenza. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">221:</emphasis>346–355.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0022" role="bibliographyEntry">
+            <para>22.<emphasis role="strong">Uyeki TM, Bernstein HH, Bradley JS, Englund JA, File TM, Fry AM, Gravenstein S, Hayden FG, Harper SA, Hirshon JM, Ison MG, Johnston BL, Knight SL, McGeer A, Riley LE, Wolfe CR, Alexander PE, Pavia AT.</emphasis> 2019. Clinical practice guidelines by the Infectious Diseases Society of America: 2018 update on diagnosis, treatment, chemoprophylaxis, and institutional outbreak management of seasonal influenza. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">68:</emphasis>895–902.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0023" role="bibliographyEntry">
+            <para>23.<emphasis role="strong">Grohskopf LA, Alyanak E, Broder KR, Blanton LH, Fry AM, Jernigan DB, Atmar RL.</emphasis> 2020. Prevention and control of seasonal influenza with vaccines: recommendations of the Advisory Committee on Immunization Practices - United States, 2020-21 influenza season. <citetitle><emphasis>MMWR Recomm Rep</emphasis></citetitle> <emphasis role="strong">69:</emphasis>1–24.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0024" role="bibliographyEntry">
+            <para>24.<emphasis role="strong">Singanayagam A, Zambon M, Lalvani A, Barclay W.</emphasis> 2018. Urgent challenges in implementing live attenuated influenza vaccine. <citetitle><emphasis>Lancet Infect Dis</emphasis></citetitle> <emphasis role="strong">18:</emphasis>e25–e32.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0025" role="bibliographyEntry">
+            <para>25.<emphasis role="strong">Covalciuc KA, Webb KH, Carlson CA.</emphasis> 1999. Comparison of four clinical specimen types for detection of influenza A and B viruses by optical immunoassay (FLU OIA test) and cell culture methods. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">37:</emphasis>3971–3974.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0026" role="bibliographyEntry">
+            <para>26.<emphasis role="strong">Kaiser L, Briones MS, Hayden FG.</emphasis> 1999. Performance of virus isolation and Directigen Flu A to detect influenza A virus in experimental human infection. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">14:</emphasis>191–197.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0027" role="bibliographyEntry">
+            <para>27.<emphasis role="strong">Yu L, Wang Z, Chen Y, Ding W, Jia H, Chan JF, To KK, Chen H, Yang Y, Liang W, Zheng S, Yao H, Yang S, Cao H, Dai X, Zhao H, Li J, Bao Q, Chen P, Hou X, Li L, Yuen KY.</emphasis> 2013. Clinical, virological, and histopathological manifestations of fatal human infections by avian influenza A(H7N9) virus. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">57:</emphasis>1449–1457.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0028" role="bibliographyEntry">
+            <para>28.<emphasis role="strong">Falsey AR, Formica MA, Walsh EE.</emphasis> 2012. Yield of sputum for viral detection by reverse transcriptase PCR in adults hospitalized with respiratory illness. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">50:</emphasis>21–24.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0029" role="bibliographyEntry">
+            <para>29.<emphasis role="strong">Jeong JH, Kim KH, Jeong SH, Park JW, Lee SM, Seo YH.</emphasis> 2014. Comparison of sputum and nasopharyngeal swabs for detection of respiratory viruses. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">86:</emphasis>2122–2127.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0030" role="bibliographyEntry">
+            <para>30.<emphasis role="strong">Dolader P, Balcells J, Gran F.</emphasis> 2022. Influenza myocarditis in paediatric patients. <citetitle><emphasis>Cardiol Young</emphasis></citetitle> <emphasis role="strong">32:</emphasis>1188–1190.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0031" role="bibliographyEntry">
+            <para>31.<emphasis role="strong">Baxter BD, Couch RB, Greenberg SB, Kasel JA.</emphasis> 1977. Maintenance of viability and comparison of identification methods for influenza and other respiratory viruses of humans. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">6:</emphasis>19–22.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0032" role="bibliographyEntry">
+            <para>32.<emphasis role="strong">Ptáková M, Tu˚mová B.</emphasis> 1985. Detection of type A and B influenza viruses in clinical materials by immunoelectronmicroscopy. <citetitle><emphasis>Acta Virol</emphasis></citetitle> <emphasis role="strong">29:</emphasis>19–24.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0033" role="bibliographyEntry">
+            <para>33.<emphasis role="strong">Uyeki TM.</emphasis> 2003. Influenza diagnosis and treatment in children: a review of studies on clinically useful tests and antiviral treatment for influenza. <citetitle><emphasis>Pediatr Infect Dis J</emphasis></citetitle> <emphasis role="strong">22:</emphasis>164–177.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0034" role="bibliographyEntry">
+            <para>34.<emphasis role="strong">Landry ML.</emphasis> 2011. Diagnostic tests for influenza infection. <citetitle><emphasis>Curr Opin Pediatr</emphasis></citetitle> <emphasis role="strong">23:</emphasis>91–97.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0035" role="bibliographyEntry">
+            <para>35.<emphasis role="strong">Ginocchio CC, Zhang F, Manji R, Arora S, Bornfreund M, Falk L, Lotlikar M, Kowerska M, Becker G, Korologos D, de Geronimo M, Crawford JM.</emphasis> 2009. Evaluation of multiple test methods for the detection of the novel 2009 influenza A (H1N1) during the New York City outbreak. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">45:</emphasis>191–195.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0036" role="bibliographyEntry">
+            <para>36.<emphasis role="strong">Merckx J, Wali R, Schiller I, Caya C, Gore GC, Chartrand C, Dendukuri N, Papenburg J.</emphasis> 2017. Diagnostic accuracy of novel and traditional rapid tests for influenza infection compared with reverse transcriptase polymerase chain reaction: a systematic review and meta-analysis. <citetitle><emphasis>Ann Intern Med</emphasis></citetitle> <emphasis role="strong">167:</emphasis>394–409.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0037" role="bibliographyEntry">
+            <para>37.<emphasis role="strong">Food and Drug Administration, HHS.</emphasis> 2017. Reclassification of influenza virus antigen detection test systems intended for use directly with clinical specimens. <citetitle><emphasis>Fed Regist</emphasis></citetitle> <emphasis role="strong">82:</emphasis>3609–3619.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0038" role="bibliographyEntry">
+            <para>38.<emphasis role="strong">Zhang WD, Evans DH.</emphasis> 1991. Detection and identification of human influenza viruses by the polymerase chain reaction. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">33:</emphasis>165–189.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0039" role="bibliographyEntry">
+            <para>39.<emphasis role="strong">van Elden LJ, Nijhuis M, Schipper P, Schuurman R, van Loon AM.</emphasis> 2001. Simultaneous detection of influenza viruses A and B using real-time quantitative PCR. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">39:</emphasis>196–200.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0040" role="bibliographyEntry">
+            <para>40.<emphasis role="strong">Pabbaraju K, Tokaryk KL, Wong S, Fox JD.</emphasis> 2008. Comparison of the Luminex xTAG respiratory viral panel with in-house nucleic acid amplification tests for diagnosis of respiratory virus infections. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">46:</emphasis>3056–3062.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0041" role="bibliographyEntry">
+            <para>41.<emphasis role="strong">Raymond F, Carbonneau J, Boucher N, Robitaille L, Boisvert S, Wu WK, De Serres G, Boivin G, Corbeil J.</emphasis> 2009. Comparison of automated microarray detection with real-time PCR assays for detection of respiratory viruses in specimens obtained from children. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">47:</emphasis>743–750.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0042" role="bibliographyEntry">
+            <para>42.<emphasis role="strong">Stellrecht KA.</emphasis> 2018. The drift in molecular testing for influenza: mutations affecting assay performance. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">56:</emphasis>e01531-17.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0043" role="bibliographyEntry">
+            <para>43.<emphasis role="strong">Popowitch EB, O’Neill SS, Miller MB.</emphasis> 2013. Comparison of the Biofire FilmArray RP, Genmark eSensor RVP, Luminex xTAG RVPv1, and Luminex xTAG RVP fast multiplex assays for detection of respiratory viruses. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">51:</emphasis>1528–1533.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0044" role="bibliographyEntry">
+            <para>44.<emphasis role="strong">Sidoti F, Bergallo M, Costa C, Cavallo R.</emphasis> 2013. Alternative molecular tests for virological diagnosis. <citetitle><emphasis>Mol Biotechnol</emphasis></citetitle> <emphasis role="strong">53:</emphasis>352–362.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0045" role="bibliographyEntry">
+            <para>45.<emphasis role="strong">Vemula SV, Zhao J, Liu J, Wang X, Biswas S, Hewlett I.</emphasis> 2016. Current approaches for diagnosis of influenza virus infections in humans. <citetitle><emphasis>Viruses</emphasis></citetitle> <emphasis role="strong">8:</emphasis>96.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0046" role="bibliographyEntry">
+            <para>46.<emphasis role="strong">Trabattoni E, Le V, Pilmis B, Pean de Ponfilly G, Caisso C, Couzigou C, Vidal B, Mizrahi A, Ganansia O, Le Monnier A, Lina B, Nguyen Van JC.</emphasis> 2018. Implementation of Alere i Influenza A &amp; B point of care test for the diagnosis of influenza in an ED. <citetitle><emphasis>Am J Emerg Med</emphasis></citetitle> <emphasis role="strong">36:</emphasis>916–921.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0047" role="bibliographyEntry">
+            <para>47.<emphasis role="strong">Webster R, Cox N, Stohr K.</emphasis> 2002. <citetitle><emphasis>WHO Manual on Animal Influenza Diagnosis and Surveillance. World Health Organization Department Communicable Disease Surveillance and Response.</emphasis></citetitle> World Health Organization, Geneva, Switzerland.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0048" role="bibliographyEntry">
+            <para>48.<emphasis role="strong">Tang YW, Gonsalves S, Sun JY, Stiles J, Gilhuley KA, Mikhlina A, Dunbar SA, Babady NE, Zhang H.</emphasis> 2016. Clinical evaluation of the Luminex NxTAG respiratory pathogen panel. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">54:</emphasis>1912–1914.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0049" role="bibliographyEntry">
+            <para>49.<emphasis role="strong">Frank AL, Couch RB, Griffis CA, Baxter BD.</emphasis> 1979. Comparison of different tissue cultures for isolation and quantitation of influenza and parainfluenza viruses. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">10:</emphasis>32–36.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0050" role="bibliographyEntry">
+            <para>50.<emphasis role="strong">Reina J, Fernandez-Baca V, Blanco I, Munar M.</emphasis> 1997. Comparison of Madin-Darby canine kidney cells (MDCK) with a green monkey continuous cell line (Vero) and human lung embryonated cells (MRC-5) in the isolation of influenza A virus from nasopharyngeal aspirates by shell vial culture. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">35:</emphasis>1900–1901.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0051" role="bibliographyEntry">
+            <para>51.<emphasis role="strong">Dowdle WR, Kendal AP, Noble GR.</emphasis> 1979. Influenza viruses, p 585–609. <citetitle><emphasis>In</emphasis></citetitle> Lennette EH, Schmidt NJ (ed), <citetitle><emphasis>Diagnostic Procedures for Viral, Rickettsial, and Chlamydial Infections</emphasis></citetitle>, 5th ed. American Public Health Association, Washington, D.C.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0052" role="bibliographyEntry">
+            <para>52.<emphasis role="strong">Zambon M.</emphasis> 1998. Laboratory diagnosis of influenza, p 291–313. <citetitle><emphasis>In</emphasis></citetitle> Nicholson KG, Webster RG, Hay AJ (ed), <citetitle><emphasis>Textbook of Influenza.</emphasis></citetitle> Blackwell Science, London, England.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0053" role="bibliographyEntry">
+            <para>53.<emphasis role="strong">Fong CK, Lee MK, Griffith BP.</emphasis> 2000. Evaluation of R-Mix FreshCells in shell vials for detection of respiratory viruses. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">38:</emphasis>4660–4662.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0054" role="bibliographyEntry">
+            <para>54.<emphasis role="strong">Weinberg A, Mettenbrink CJ, Ye D, Yang CF.</emphasis> 2005. Sensitivity of diagnostic tests for influenza varies with the circulating strains. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">33:</emphasis>172–175.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0055" role="bibliographyEntry">
+            <para>55.<emphasis role="strong">Govorkova EA, Kodihalli S, Alymova IV, Fanget B, Webster RG.</emphasis> 1999. Growth and immunogenicity of influenza viruses cultivated in Vero or MDCK cells and in embryonated chicken eggs. <citetitle><emphasis>Dev Biol Stand</emphasis></citetitle> <emphasis role="strong">98:</emphasis>39–51, discussion 73–74.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0056" role="bibliographyEntry">
+            <para>56.<emphasis role="strong">Zost SJ, Parkhouse K, Gumina ME, Kim K, Diaz Perez S, Wilson PC, Treanor JJ, Sant AJ, Cobey S, Hensley SE.</emphasis> 2017. Contemporary H3N2 influenza viruses have a glycosylation site that alters binding of antibodies elicited by egg-adapted vaccine strains. <citetitle><emphasis>Proc Natl Acad Sci USA</emphasis></citetitle> <emphasis role="strong">114:</emphasis>12578–12583.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0057" role="bibliographyEntry">
+            <para>57.<emphasis role="strong">Hirst GK.</emphasis> 1942. The quantitative determination of Influenza virus and antibodies by means of red cell agglutination. <citetitle><emphasis>J Exp Med</emphasis></citetitle> <emphasis role="strong">75:</emphasis>49–64.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0058" role="bibliographyEntry">
+            <para>58.<emphasis role="strong">Zhou B, Deng YM, Barnes JR, Sessions OM, Chou TW, Wilson M, Stark TJ, Volk M, Spirason N, Halpin RA, Kamaraj US, Ding T, Stockwell TB, Salvatore M, Ghedin E, Barr IG, Wentworth DE.</emphasis> 2017. Multiplex reverse transcription-PCR for simultaneous surveillance of influenza A and B viruses. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">55:</emphasis>3492–3501.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0059" role="bibliographyEntry">
+            <para>59.<emphasis role="strong">O’Donnell FT, Munoz FM, Atmar RL, Hwang LY, Demmler GJ, Glezen WP.</emphasis> 2003. Epidemiology and molecular characterization of co-circulating influenza A/H3N2 virus variants in children: Houston, Texas, 1997-8. <citetitle><emphasis>Epidemiol Infect</emphasis></citetitle> <emphasis role="strong">130:</emphasis>521–531.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0060" role="bibliographyEntry">
+            <para>60.<emphasis role="strong">Metzgar D, Baynes D, Myers CA, Kammerer P, Unabia M, Faix DJ, Blair PJ.</emphasis> 2010. Initial identification and characterization of an emerging zoonotic influenza virus prior to pandemic spread. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">48:</emphasis>4228–4234.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0061" role="bibliographyEntry">
+            <para>61.<emphasis role="strong">Toth E, Dawson ED, Taylor AW, Stoughton RS, Blair RH, Johnson JE Jr, Slinskey A, Fessler R, Smith CB, Talbot S, Rowlen K.</emphasis> 2020. FluChip-8G Insight: HA and NA subtyping of potentially pandemic influenza A viruses in a single assay. <citetitle><emphasis>Influenza Other Respir Viruses</emphasis></citetitle> <emphasis role="strong">14:</emphasis>55–60.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0062" role="bibliographyEntry">
+            <para>62.<emphasis role="strong">Taylor AW, Dawson ED, Blair RH, Johnson JE Jr, Slinskey AH, Smolak AW, Toth E, Liikanen K, Stoughton RS, Smith C, Talbot S, Rowlen KL.</emphasis> 2019. Analytical evaluation of the microarray-based FluChip-8G Influenza A+B Assay. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">273:</emphasis>113686.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0063" role="bibliographyEntry">
+            <para>63.<emphasis role="strong">Poon LL, Song T, Rosenfeld R, Lin X, Rogers MB, Zhou B, Sebra R, Halpin RA, Guan Y, Twaddle A, DePasse JV, Stockwell TB, Wentworth DE, Holmes EC, Greenbaum B, Peiris JS, Cowling BJ, Ghedin E.</emphasis> 2016. Quantifying influenza virus diversity and transmission in humans. <citetitle><emphasis>Nat Genet</emphasis></citetitle> <emphasis role="strong">48:</emphasis>195–200.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0064" role="bibliographyEntry">
+            <para>64.<emphasis role="strong">Van Poelvoorde L, Vanneste K, De Keersmaecker SCJ, Thomas I, Van Goethem N, Van Gucht S, Saelens X, Roosens NHC.</emphasis> 2022. Whole-genome sequence approach and phylogenomic stratification Improve the association analysis of mutations with patient data in influenza surveillance. <citetitle><emphasis>Front Microbiol</emphasis></citetitle> <emphasis role="strong">13:</emphasis>809887.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0065" role="bibliographyEntry">
+            <para>65.<emphasis role="strong">Rothbarth PH, Groen J, Bohnen AM, de Groot R, Osterhaus AD.</emphasis> 1999. Influenza virus serology—a comparative study. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">78:</emphasis>163–169.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0066" role="bibliographyEntry">
+            <para>66.<emphasis role="strong">Katz JM, Lim W, Bridges CB, Rowe T, Hu-Primmer J, Lu X, Abernathy RA, Clarke M, Conn L, Kwong H, Lee M, Au G, Ho YY, Mak KH, Cox NJ, Fukuda K.</emphasis> 1999. Antibody response in individuals infected with avian influenza A (H5N1) viruses and detection of anti-H5 antibody among household and social contacts. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">180:</emphasis>1763–1770.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0067" role="bibliographyEntry">
+            <para>67.<emphasis role="strong">Pyhälä R, Pyhälä L, Valle M, Aho K.</emphasis> 1987. Egg-grown and tissue-culture-grown variants of influenza A (H3N2) virus with special attention to their use as antigens in seroepidemiology. <citetitle><emphasis>Epidemiol Infect</emphasis></citetitle> <emphasis role="strong">99:</emphasis>745–753.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0068" role="bibliographyEntry">
+            <para>68.<emphasis role="strong">Stephenson I, Wood JM, Nicholson KG, Zambon MC.</emphasis> 2003. Sialic acid receptor specificity on erythrocytes affects detection of antibody to avian influenza haemagglutinin. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">70:</emphasis>391–398.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0069" role="bibliographyEntry">
+            <para>69.<emphasis role="strong">World Health Organization.</emphasis> 2003. Assays for neutralizing antibody to influenza viruses. Report of an informal scientific workshop, Dresden, 18-19 March 2003. <citetitle><emphasis>Wkly Epidemiol Rec</emphasis></citetitle> <emphasis role="strong">78:</emphasis>290–293.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0070" role="bibliographyEntry">
+            <para>70.<emphasis role="strong">Laurie KL, Engelhardt OG, Wood J, Heath A, Katz JM, Peiris M, Hoschler K, Hungnes O, Zhang W, Van Kerkhove MD, CONSISE Laboratory Working Group participants.</emphasis> 2015. International laboratory comparison of influenza microneutralization assays for A(H1N1)pdm09, A(H3N2), and A(H5N1) influenza viruses by CONSISE. <citetitle><emphasis>Clin Vaccine Immunol</emphasis></citetitle> <emphasis role="strong">22:</emphasis>957–964.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0071" role="bibliographyEntry">
+            <para>71.<emphasis role="strong">Belshe RB, Smith MH, Hall CB, Betts R, Hay AJ.</emphasis> 1988. Genetic basis of resistance to rimantadine emerging during treatment of influenza virus infection. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">62:</emphasis>1508–1512.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0072" role="bibliographyEntry">
+            <para>72.<emphasis role="strong">Murtaugh W, Mahaman L, Healey B, Peters H, Anderson B, Tran M, Ziese M, Carlos MP.</emphasis> 2013. Evaluation of three influenza neuraminidase inhibition assays for use in a public health laboratory setting during the 2011-2012 influenza season. <citetitle><emphasis>Public Health Rep</emphasis></citetitle> <emphasis role="strong">128</emphasis>(Suppl 2)<emphasis role="strong">:</emphasis>75–87.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0073" role="bibliographyEntry">
+            <para>73.<emphasis role="strong">Govorkova EA, Takashita E, Daniels RS, Fujisaki S, Presser LD, Patel MC, Huang W, Lackenby A, Nguyen HT, Pereyaslov D, Rattigan A, Brown SK, Samaan M, Subbarao K, Wong S, Wang D, Webby RJ, Yen HL, Zhang W, Meijer A, Gubareva LV.</emphasis> 2022. Global update on the susceptibilities of human influenza viruses to neuraminidase inhibitors and the cap-dependent endonuclease inhibitor baloxavir, 2018-2020. <citetitle><emphasis>Antiviral Res</emphasis></citetitle> <emphasis role="strong">200:</emphasis>105281.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0074" role="bibliographyEntry">
+            <para>74.<emphasis role="strong">Bolotin S, Robertson AV, Eshaghi A, De Lima C, Lombos E, Chong-King E, Burton L, Mazzulli T, Drews SJ.</emphasis> 2009. Development of a novel real-time reverse-transcriptase PCR method for the detection of H275Y positive influenza A H1N1 isolates. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">158:</emphasis>190–194.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0075" role="bibliographyEntry">
+            <para>75.<emphasis role="strong">Gubareva LV, Mishin VP, Patel MC, Chesnokov A, Nguyen HT, De La Cruz J, Spencer S, Campbell AP, Sinner M, Reid H, Garten R, Katz JM, Fry AM, Barnes J, Wentworth DE.</emphasis> 2019. Assessing baloxavir susceptibility of influenza viruses circulating in the United States during the 2016/17 and 2017/18 seasons. <citetitle><emphasis>Euro Surveill</emphasis></citetitle> <emphasis role="strong">24:</emphasis>1800666.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0076" role="bibliographyEntry">
+            <para>76.<emphasis role="strong">Takashita E, Abe T, Morita H, Nagata S, Fujisaki S, Miura H, Shirakura M, Kishida N, Nakamura K, Kuwahara T, Mitamura K, Ichikawa M, Yamazaki M, Watanabe S, Hasegawa H, Influenza Virus Surveillance Group of Japan.</emphasis> 2020. Influenza A(H1N1)pdm09 virus exhibiting reduced susceptibility to baloxavir due to a PA E23K substitution detected from a child without baloxavir treatment. <citetitle><emphasis>Antiviral Res</emphasis></citetitle> <emphasis role="strong">180:</emphasis>104828.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0077" role="bibliographyEntry">
+            <para>77.<emphasis role="strong">Monto AS, Gravenstein S, Elliott M, Colopy M, Schweinle J.</emphasis> 2000. Clinical signs and symptoms predicting influenza infection. <citetitle><emphasis>Arch Intern Med</emphasis></citetitle> <emphasis role="strong">160:</emphasis>3243–3247.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0078" role="bibliographyEntry">
+            <para>78.<emphasis role="strong">Kanwar N, Michael J, Doran K, Montgomery E, Selvarangan R.</emphasis> 2020. Comparison of the ID Now Influenza A &amp; B 2, Cobas Influenza A/B, and Xpert Xpress Flu point-of-care nucleic acid amplification tests for influenza A/B virus detection in children. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">58:</emphasis>e01611-19.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0079" role="bibliographyEntry">
+            <para>79.<emphasis role="strong">Mitamura K, Yamazaki M, Ichikawa M, Yasumi Y, Shiozaki K, Tokushima M, Abe T, Kawakami C.</emphasis> 2021. Clinical usefulness of a rapid molecular assay, ID NOW™ influenza A &amp; B 2, in adults. <citetitle><emphasis>J Infect Chemother</emphasis></citetitle> <emphasis role="strong">27:</emphasis>450–454.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0080" role="bibliographyEntry">
+            <para>80.<emphasis role="strong">Mecias-Fria J, Silbert S, Uy D, Widen R.</emphasis> 2017. Laboratory evaluation of the Solana Flu A+B assay on the Solana Instrument, abstr, 507. ASM Microbe, New Orleans, LA. American Society for Microbiology, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0081" role="bibliographyEntry">
+            <para>81.<emphasis role="strong">Gibson J, Schechter-Perkins EM, Mitchell P, Mace S, Tian Y, Williams K, Luo R, Yen-Lieberman B.</emphasis> 2017. Multi-center evaluation of the cobas<superscript>®</superscript> Liat<superscript>®</superscript> Influenza A/B &amp; RSV assay for rapid point of care diagnosis. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">95:</emphasis>5–9.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0082" role="bibliographyEntry">
+            <para>82.<emphasis role="strong">Matheeussen V, Loens K, Kuijstermans M, Jacobs K, Coenen S, van der Velden AW, Bongard E, Butler CC, Verheij TJ, Goossens H, Ieven M.</emphasis> 2021. Diagnostic performance of the Idylla™ respiratory panel for molecular detection of influenza A/B in patients presenting to primary care with influenza-like illness during 3 consecutive influenza seasons. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">144:</emphasis>104998.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0083" role="bibliographyEntry">
+            <para>83.<emphasis role="strong">Leber AL, Lisby JG, Hansen G, Relich RF, Schneider UV, Granato P, Young S, Pareja J, Hannet I.</emphasis> 2020. Multicenter evaluation of the QIAstat-Dx respiratory panel for detection of viruses and bacteria in nasopharyngeal swab specimens. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">58:</emphasis>e00155-20.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0084" role="bibliographyEntry">
+            <para>84.<emphasis role="strong">Banerjee D, Kanwar N, Hassan F, Essmyer C, Selvarangan R.</emphasis> 2018. Comparison of six sample-to-answer influenza A/B and respiratory syncytial virus nucleic acid amplification assays using respiratory specimens from children. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">56:</emphasis>e00930-18.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0085" role="bibliographyEntry">
+            <para>85.<emphasis role="strong">Li M, Brenwald N, Bonigal S, Chana K, Osman H, Oppenheim B.</emphasis> 2012. Rapid diagnosis of influenza: an evaluation of two commercially available RT-PCR assays. <citetitle><emphasis>J Infect</emphasis></citetitle> <emphasis role="strong">65:</emphasis>60–63.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0086" role="bibliographyEntry">
+            <para>86.<emphasis role="strong">Rabaan AA, Bazzi AM, Alshaikh SA.</emphasis> 2018. Comparison of Cepheid<superscript>®</superscript> Xpert Flu and Roche RealTime Ready Influenza A/H1N1 detection set for detection of influenza A/H1N1. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">90:</emphasis>280–285.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0087" role="bibliographyEntry">
+            <para>87.<emphasis role="strong">McMullen P, Boonlayangoor S, Charnot-Katsikas A, Beavis KG, Tesic V.</emphasis> 2017. The performance of Luminex ARIES<superscript>®</superscript> Flu A/B &amp; RSV and Cepheid Xpert<superscript>®</superscript> Flu/RSV XC for the detection of influenza A, influenza B, and respiratory syncytial virus in prospective patient samples. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">95:</emphasis>84–85.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0088" role="bibliographyEntry">
+            <para>88.<emphasis role="strong">Cohen DM, Kline J, May LS, Harnett GE, Gibson J, Liang SY, Rafique Z, Rodriguez CA, McGann KM</emphasis> Sr<emphasis role="strong">, Gaydos CA, Mayne D, Phillips D, Cohen J.</emphasis> 2018. Accurate PCR detection of influenza A/B and respiratory syncytial viruses by use of Cepheid Xpert Flu+RSV Xpress Assay in point-of-care settings: comparison to Prodesse ProFlu. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">56:</emphasis>e01237-17.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0089" role="bibliographyEntry">
+            <para>89.<emphasis role="strong">Ling L, Kaplan SE, Lopez JC, Stiles J, Lu X, Tang YW.</emphasis> 2018. Parallel validation of three molecular devices for simultaneous detection and identification of influenza A and B and respiratory syncytial viruses. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">56:</emphasis>e01691-17.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0090" role="bibliographyEntry">
+            <para>90.<emphasis role="strong">Blair RH, Dawson ED, Taylor AW, Johnson JE Jr, Slinskey AH, O’Neil K, Smolak AW, Toth E, Liikanen K, Stoughton RS, Smith CB, Talbot S, Rowlen KL.</emphasis> 2019. Clinical validation of the FluChip-8G Influenza A+B assay for influenza type and subtype identification. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">118:</emphasis>20–27.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0091" role="bibliographyEntry">
+            <para>91.<emphasis role="strong">Stellrecht KA, Nattanmai SM, Butt J, Maceira VP, Espino AA, Castro AJ, Landes A, Dresser N, Butt SA.</emphasis> 2017. Effect of genomic drift of influenza PCR tests. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">93:</emphasis>25–29.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0092" role="bibliographyEntry">
+            <para>92.<emphasis role="strong">Van Wesenbeeck L, Meeuws H, Van Immerseel A, Ispas G, Schmidt K, Houspie L, Van Ranst M, Stuyver L.</emphasis> 2013. Comparison of the FilmArray RP, Verigene RV+, and Prodesse ProFLU+/FAST+ multiplex platforms for detection of influenza viruses in clinical samples from the 2011-2012 influenza season in Belgium. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">51:</emphasis>2977–2985.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0093" role="bibliographyEntry">
+            <para>93.<emphasis role="strong">Banerjee D, Kanwar N, Hassan F, Lankachandra K, Selvarangan R.</emphasis> 2019. Comparative analysis of four sample-to-answer influenza A/B and RSV nucleic acid amplification assays using adult respiratory specimens. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">118:</emphasis>9–13.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0094" role="bibliographyEntry">
+            <para>94.<emphasis role="strong">Hindiyeh M, Kolet L, Meningher T, Weil M, Mendelson E, Mandelboim M.</emphasis> 2013. Evaluation of Simplexa Flu A/B &amp; RSV for direct detection of influenza viruses (A and B) and respiratory syncytial virus in patient clinical samples. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">51:</emphasis>2421–2424.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0095" role="bibliographyEntry">
+            <para>95.<emphasis role="strong">Mitchell SL, Chang YC, Feemster K, Cárdenas AM.</emphasis> 2018. Implementation of a rapid influenza A/B and RSV direct molecular assay improves emergency department oseltamivir use in paediatric patients. <citetitle><emphasis>J Med Microbiol</emphasis></citetitle> <emphasis role="strong">67:</emphasis>358–363.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0096" role="bibliographyEntry">
+            <para>96.<emphasis role="strong">Bogoch II, Andrews JR, Zachary KC, Hohmann EL.</emphasis> 2013. Diagnosis of influenza from lower respiratory tract sampling after negative upper respiratory tract sampling. <citetitle><emphasis>Virulence</emphasis></citetitle> <emphasis role="strong">4:</emphasis>82–84.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0097" role="bibliographyEntry">
+            <para>97.<emphasis role="strong">Jernigan DB, Lindstrom SL, Johnson JR, Miller JD, Hoelscher M, Humes R, Shively R, Brammer L, Burke SA, Villanueva JM, Balish A, Uyeki T, Mustaquim D, Bishop A, Handsfield JH, Astles R, Xu X, Klimov AI, Cox NJ, Shaw MW.</emphasis> 2011. Detecting 2009 pandemic influenza A (H1N1) virus infection: availability of diagnostic testing led to rapid pandemic response. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">52</emphasis>(Suppl 1)<emphasis role="strong">:</emphasis>S36–S43.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0098" role="bibliographyEntry">
+            <para>98.<emphasis role="strong">Gharabaghi F, Tellier R, Cheung R, Collins C, Broukhanski G, Drews SJ, Richardson SE.</emphasis> 2008. Comparison of a commercial qualitative real-time RT-PCR kit with direct immunofluorescence assay (DFA) and cell culture for detection of influenza A and B in children. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">42:</emphasis>190–193.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0099" role="bibliographyEntry">
+            <para>99.<emphasis role="strong">Babady NE, England MR, Jurcic Smith KL, He T, Wijetunge DS, Tang YW, Chamberland RR, Menegus M, Swierkosz EM, Jerris RC, Greene W.</emphasis> 2018. Multicenter evaluation of the ePlex respiratory pathogen panel for the detection of viral and bacterial respiratory tract pathogens in nasopharyngeal swabs. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">56:</emphasis>e01658-17.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0100" role="bibliographyEntry">
+            <para>100.<emphasis role="strong">Zapf AJ, Hardick J, McBryde B, Sauer LM, Fenstermacher KZJ, Ricketts EP, Lin YC, Chen KF, Hsieh YH, Dugas A, Shaw-Saliba K, Pekosz A, Gaydos CA, Rothman RE, Emergency Department National Network Influenza Investigators.</emphasis> 2022. Impact of coinfection status and comorbidity on disease severity in adult emergency department patients with influenza B. <citetitle><emphasis>Influenza Other Respir Viruses</emphasis></citetitle> <emphasis role="strong">16:</emphasis>236–246.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0101" role="bibliographyEntry">
+            <para>101.<emphasis role="strong">Popowitch EB, Kaplan S, Wu Z, Tang YW, Miller MB.</emphasis> 2022. Comparative performance of the Luminex NxTAG respiratory pathogen panel, GenMark eSensor respiratory viral panel, and BioFire FilmArray respiratory panel. <citetitle><emphasis>Microbiol Spectr</emphasis></citetitle> <emphasis role="strong">10:</emphasis>e0124822.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0102" role="bibliographyEntry">
+            <para>102.<emphasis role="strong">Leber AL, Everhart K, Daly JA, Hopper A, Harrington A, Schreckenberger P, McKinley K, Jones M, Holmberg K, Kensinger B.</emphasis> 2018. Multicenter evaluation of BioFire FilmArray Respiratory Panel 2 for detection of viruses and bacteria in nasopharyngeal swab samples. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">56:</emphasis>e01945-17.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0103" role="bibliographyEntry">
+            <para>103.<emphasis role="strong">Buchan BW, Windham S, Balada-Llasat JM, Leber A, Harrington A, Relich R, Murphy C, Dien Bard J, Naccache S, Ronen S, Hopp A, Mahmutoglu D, Faron ML, Ledeboer NA, Carroll A, Stone H, Akerele O, Everhart K, Bonwit A, Kwong C, Buckner R, Warren D, Fowler R, Chandrasekaran S, Huse H, Campeau S, Humphries R, Graue C, Huang A.</emphasis> 2020. Practical comparison of the BioFire FilmArray Pneumonia panel to routine diagnostic methods and potential impact on antimicrobial stewardship in adult hospitalized patients with lower respiratory tract infections. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">58:</emphasis>e00135-20.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0104" role="bibliographyEntry">
+            <para>104.<emphasis role="strong">Monard C, Pehlivan J, Auger G, Alviset S, Tran Dinh A, Duquaire P, Gastli N, d’Humières C, Maamar A, Boibieux A, Baldeyrou M, Loubinoux J, Dauwalder O, Cattoir V, Armand-Lefèvre L, Kernéis S, Becker A, Charpentier J, Textoris J, Gustave C-A, Destras G, Vandenesch F, Lina B, Casalegno JS, Lejeune M, Montravers P, Poyart C, Tête H, Timsit J-F, Uberti T, ADAPT study group.</emphasis> 2020. Multicenter evaluation of a syndromic rapid multiplex PCR test for early adaptation of antimicrobial therapy in adult patients with pneumonia. <citetitle><emphasis>Crit Care</emphasis></citetitle> <emphasis role="strong">24:</emphasis>434.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0105" role="bibliographyEntry">
+            <para>105.<emphasis role="strong">Murphy CN, Fowler R, Balada-Llasat JM, Carroll A, Stone H, Akerele O, Buchan B, Windham S, Hopp A, Ronen S, Relich RF, Buckner R, Warren DA, Humphries R, Campeau S, Huse H, Chandrasekaran S, Leber A, Everhart K, Harrington A, Kwong C, Bonwit A, Dien Bard J, Naccache S, Zimmerman C, Jones B, Rindlisbacher C, Buccambuso M, Clark A, Rogatcheva M, Graue C, Bourzac KM.</emphasis> 2020. Multicenter evaluation of the BioFire FilmArray Pneumonia/Pneumonia Plus panel for detection and quantification of agents of lower respiratory tract infection. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">58:</emphasis>e00128-20.</para>
+          </listitem>
+          <listitem id="ch0106s000000li0106" role="bibliographyEntry">
+            <para>106.<emphasis role="strong">Beal SG, Posa M, Gaffar M, Reppucci J, Mack JA, Gurka MJ, Rand K, Houck H, Kelly MN.</emphasis> 2020. Performance and impact of a CLIA-waived, point-of-care respiratory PCR panel in a pediatric clinic. <citetitle><emphasis>Pediatr Infect Dis J</emphasis></citetitle> <emphasis role="strong">39:</emphasis>188–191.</para>
+          </listitem>
+        </itemizedlist>
+        <anchor id="ch0106s000000a0068"/>
+        <beginpage pagenum="1705"/>
+        <anchor id="ch0106s000000a0069"/>
+        <beginpage pagenum="1706"/>
+        <anchor id="ch0106s000000a0070"/>
+        <beginpage pagenum="1707"/>
+        <anchor id="ch0106s000000a0071"/>
+        <beginpage pagenum="1708"/>
+      </sect2>
+    </sect1>
+  </chapter>

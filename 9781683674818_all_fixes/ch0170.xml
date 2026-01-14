@@ -1,0 +1,1406 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0170">
+    <title>147 Nematodes</title>
+    <sect1 id="ch0170s0001">
+      <title>147 Nematodes</title>
+      <anchor id="ch0170s000001a0001"/>
+      <anchor id="ch0170s000000a0001"/>
+      <para id="ch0170s000000p0001" role="chapterAuthor">HARSHA SHEOREY, BEVERLEY-ANN BIGGS, AND RICHARD S. BRADBURY</para>
+      <para id="ch0170s000000p0002">Nematodes are unsegmented cylindrical worms with a body cavity containing an alimentary canal and genital system; the sexes are separate. They have longitudinal muscles, which allow them to move by flexing their bodies. There are four or five larval stages and the adult worm. In most instances, the third-stage larva is the infective stage.</para>
+      <para id="ch0170s000000p0003">Intestinal nematodes include the soil-transmitted helminths (STHs), which are among the most common infections globally with more than 1.5 billion people infected, especially in tropical and subtropical regions and in resource-poor settings where sanitation is inadequate. These parasites are a major cause of poor health, with the greatest morbidity in women and children, and are included in the list of Neglected Tropical Diseases by the World Health Organization (WHO) (<link linkend="ch0170s000000li0053">1</link>). By definition, STH infections refer to ascariasis, trichuriasis, and hookworm. Although <emphasis>Strongyloides stercoralis</emphasis> also has a soil-transmitted cycle, it differs from most other helminths in its capacity to reproduce within a human host. However, there has been a compelling argument that the control of strongyloidiasis should be promoted in conjunction with STH control programs (<link linkend="ch0170s000000li0054">2</link>, <link linkend="ch0170s000000li0055">3</link>). Control measures for strongyloidiasis are now being included in many STH treatment programs in areas of endemicity (<link linkend="ch0170s000000li0055">3</link>). In developed countries, groups such as immigrants and refugees, travelers, and war veterans often unknowingly harbor intestinal helminths for years after leaving an area of endemicity. This has implications for provision of health services and necessitates action to formulate guidelines for managing infections that are not commonly seen in these countries (e.g., guidelines formulated within Australia [4]). Chronic morbidity in humans from STH infections can be reduced by periodic treatment with anthelmintics in high-risk populations. In particular, global efforts to target STH infections in children with school-based chemotherapy have reduced the prevalence of infection in many lower- and middle-income countries (3; <ulink url="http://www.who.int/intestinal_worms/en/">http://www.who.int/intestinal_worms/en/</ulink>). However, monitoring and evaluation of treatment programs is labor intensive, and newer technologies are needed for assessing program effectiveness. Deworming programs need to distinguish between populations where parasitic infection is controlled and those where further treatment is required. Where possible, the use of real-time PCR (quantitative polymerase chain reaction or similar high-throughput molecular diagnostics) has been suggested in this context due to its improved sensitivity and specificity when compared to traditional microscopic methods (<link linkend="ch0170s000000li0057">5</link>).</para>
+      <para id="ch0170s000000p0004">Conventional laboratory diagnosis is based primarily on microscopic examination of feces and differentiation of species based on morphology of eggs or larvae detected (<anchor id="ch0170s000000a0002"/><link linkend="ch0170s000000a0006">Fig. 1</link> through <anchor id="ch0170s000000a0003"/><link linkend="ch0170s000000a0010">3</link>). The sensitivity of microscopy is influenced by the method of processing, e.g., direct microscopy, formalin-ethyl acetate concentration, Kato-Katz smears, or mini-FLOTAC (University of Naples Frederico II, Naples, Italy), and is affected by factors such as variability of the number of eggs or larvae excreted. Occasionally adult worms may be processed by histology, and anatomical features of both the adult worm and the eggs may be used in identifying the parasite (<anchor id="ch0170s000000a0004"/><link linkend="ch0170s000000a0011">Fig. 4</link> and <anchor id="ch0170s000000a0005"/><link linkend="ch0170s000000a0012">5</link>).</para>
+      <para id="ch0170s000000p0005">Molecular diagnosis for intestinal nematodes (including real-time multiplex PCR; 6) is increasingly being introduced in diagnostic laboratories. There are issues with sensitivity of assays for<emphasis>Strongyloides</emphasis> in particular (<link linkend="ch0170s000000li0059">7</link>); in chronic infection, numbers of larvae may be low and they are intermittently excreted in feces. The number of eggs produced by a single adult female <emphasis>Strongyloides</emphasis> is estimated at only 30 to 50 per day. This exceptionally low yield compared to the output of the STH worms accounts for some of the diagnostic difficulties encountered in screening for this species. In research studies, real-time PCR on a single fecal sample has compared favorably to quadruplicate Kato-Katz microscopy performed on 2 separate days and shows markedly improved sensitivity in patients with low-burden STH infection (<link linkend="ch0170s000000li0060">8</link>). The sensitivity of real-time PCR assays is dependent on the assay chosen, and some commercial multiplex panels appear to have a sensitivity equivalent to, or slightly lower than, microscopy concentration methods in early evaluations (<link linkend="ch0170s000000li0061">9</link>). It should be noted that the method of sample preservation, transport and storage temperature, and choice of DNA extraction method will affect the sensitivity of STH real-time PCR assays (<link linkend="ch0170s000000li0062">10</link>). The inclusion of a bead-beating step in the DNA extraction stage is necessary to ensure optimal sensitivity (<link linkend="ch0170s000000li0061">9</link>).</para>
+      <figure id="ch0170s000000f0001"><title><phrase role="figureLabel"><anchor id="ch0170s000000a0006"/><link linkend="ch0170s000000a0002"><emphasis role="strong">FIGURE 1</emphasis></link></phrase> Relative size of helminth eggs.
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0170f11.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0170s000000f0002"><title><phrase role="figureLabel"><anchor id="ch0170s000000a0007"/><link linkend="ch0170s000000a0022"><emphasis role="strong">FIGURE 2</emphasis></link></phrase> Various eggs of intestinal nematodes (magnification, ×850). <emphasis role="strong">(A)</emphasis> Fertile egg of <emphasis>A. lumbricoides.</emphasis> <emphasis role="strong">(B)</emphasis> Decorticated fertile egg of <emphasis>A. lumbricoides.</emphasis> <emphasis role="strong">(C)</emphasis> Infertile egg of <emphasis>A. lumbricoides.</emphasis> <emphasis role="strong">(D)</emphasis> Egg of hookworm with thin shell and central morula. <emphasis role="strong">(E)</emphasis> Egg of <emphasis>Trichostrongylus</emphasis> sp. <emphasis role="strong">(F)</emphasis> Embryonated infective egg of <emphasis>E. vermicularis.</emphasis> <emphasis role="strong">(G)</emphasis> Egg of <emphasis>T. trichiura</emphasis> with polar plugs.
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0170f02.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para id="ch0170s000000p0006">The subject of preventive chemotherapy has recently been updated by WHO, 2017 (<link linkend="ch0170s000000li0053">1</link>). Global trends and management options for <emphasis>Strongyloides</emphasis> infection (including screening and prophylaxis of at-risk groups) are available (<link linkend="ch0170s000000li0063">11</link>–<link linkend="ch0170s000000li0065">13</link>).</para>
+      <anchor id="ch0170s000000a0008"/>
+      <beginpage pagenum="2896"/>
+      <para id="ch0170s000000p0007">For details about susceptibility testing for parasites, consult<ulink url="ch0179#ch0179s0001">chapter 155</ulink>.</para>
+    </sect1>
+    <sect1 id="ch0170s0002">
+      <title>Taxonomy of Nematodes</title>
+      <anchor id="ch0170s000002a0001"/>
+      <anchor id="ch0170s000000a0009"/>
+      <para id="ch0170s000000p0008">There are a variety of morphological features and DNA sequences which form the basis for taxonomy of nematodes. At the anterior end, mouth parts may possess structures for attachment or penetration. These may include spines, hooks, or cutting plates. The pharyngeal cavity may be short, hollowed out, or long and hairlike. Esophageal shape also varies but usually ends in a muscular bulb. In the male, features of the tail may include caudal papillae and copulatory spicules (sclerotized copulatory aids) or bursa. Studies strongly suggest that nematodes are actually related to the arthropods and priapulids in a newly recognized group, the Ecdysozoa. All these nematodes belong to Kingdom Animalia, Phylum Nemathelminthes (Nematoda). The nematode infections described in detail in this chapter are by no means exhaustive but include those commonly associated with human infection on a worldwide scale. This chapter is confined to consideration of the soil-transmitted helminths (including<emphasis>S. stercoralis</emphasis>) and <emphasis>Enterobius vermicularis.</emphasis> From time to time, other less common species may be encountered, and the assistance of reference laboratories covering both human and veterinary diagnostic services may be required.</para>
+      <figure id="ch0170s000000f0003"><title><phrase role="figureLabel"><anchor id="ch0170s000000a0010"/><link linkend="ch0170s000000a0003"><emphasis role="strong">FIGURE 3</emphasis></link></phrase> Larvae of intestinal nematodes. <emphasis role="strong">(A)</emphasis> Rhabditiform or first-stage larva of <emphasis>S. stercoralis</emphasis> showing short buccal cavity (arrow). <emphasis role="strong">(B)</emphasis> Rhabditiform or first-stage larva of <emphasis>S. stercoralis</emphasis> showing rhomboid genital primordium (arrow). <emphasis role="strong">(C)</emphasis> Rhabditiform or first-stage larva of hookworm. <emphasis role="strong">(D)</emphasis> Anterior end of rhabditiform <emphasis>S. stercoralis</emphasis> larva showing short buccal cavity. <emphasis role="strong">(E)</emphasis> Anterior end of rhabditiform hookworm larva showing long buccal cavity. <emphasis role="strong">(F)</emphasis> Tail end of filariform, or last-stage, larva of <emphasis>S. stercoralis</emphasis> with the notched tail (arrow). <emphasis role="strong">(G)</emphasis> Tail end of filariform, or last-stage, hookworm larva with tapering tail. <emphasis role="strong">(H)</emphasis> Agar plate culture showing tracks of bacterial colonies due to larval movement on the surface and inside the agar. The fecal specimen is placed in the middle of the plate and sealed, as larvae are infectious. <emphasis role="strong">(I)</emphasis> Fertile eggs of <emphasis>A. lumbricoides</emphasis> with hatching larvae. This is only seen in preserved specimens, although they sometimes hatch in formalin preparations if kept at room temperature (courtesy of Pam Smith, Royal Darwin Hospital). <emphasis role="strong">(J)</emphasis> Comparison of hookworm and <emphasis>S. stercoralis</emphasis> larvae.
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0170f12.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0170s000000f0004"><title><phrase role="figureLabel"><anchor id="ch0170s000000a0011"/><link linkend="ch0170s000000a0004"><emphasis role="strong">FIGURE 4</emphasis></link></phrase> Various adult worms of intestinal nematodes. <emphasis role="strong">(A)</emphasis> <emphasis>A. lumbricoides</emphasis> adult worm with typical cylindrical body with tapering ends and thick cuticle. The <emphasis>A. lumbricoides</emphasis> adult worm is the largest of the human pathogenic nematodes, 15 to 35 cm in length. (Arrow and inset) The three-lipped mouth distinctive of <emphasis>A. lumbricoides.</emphasis> <emphasis role="strong">(B)</emphasis> Adult worms of <emphasis>E. vermicularis</emphasis> in feces (arrow). <emphasis role="strong">(C)</emphasis> <emphasis>E. vermicularis</emphasis> adult female. Adult females are usually 8 to 13 by 0.3 to 0.5 mm in size. Shown is the anterior end of a female worm with the characteristic cervical alae (“lips”). Typical eggs can also usually be seen in the field. <emphasis role="strong">(D)</emphasis> <emphasis>E. vermicularis</emphasis> adult male. These are only occasionally seen in feces. Shown is the anterior end of a worm with the characteristic cervical alae (“lips”) (arrow). There is also a characteristic spicule at the posterior end (open arrow) (courtesy Pam Smith, Royal Darwin Hospital). <emphasis role="strong">(E)</emphasis> Parasitic adult female of <emphasis>S. stercoralis</emphasis> in the feces of a patient with hyperinfection. <emphasis role="strong">(F)</emphasis> Free-living female of <emphasis>S. stercoralis</emphasis> (with adjacent filariform larva) in culture.
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0170f13.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure id="ch0170s000000f0005"><title><phrase role="figureLabel"><anchor id="ch0170s000000a0012"/><link linkend="ch0170s000000a0005"><emphasis role="strong">FIGURE 5</emphasis></link></phrase> Sections of adult female worms taken at colonoscopy/endoscopy (hematoxylin-eosin stain; magnification, ×400). <emphasis role="strong">(A)</emphasis> <emphasis>Enterobius vermicularis</emphasis> female showing characteristic eggs (arrow). <emphasis role="strong">(B)</emphasis> <emphasis>Trichuris trichiura</emphasis> female (×100) showing characteristic eggs (inset, ×400). <emphasis role="strong">(C)</emphasis> <emphasis>Strongyloides stercoralis</emphasis> parasitic females in the small intestine (×400).
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0170f14.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <sect2 id="ch0170s0002s0001">
+        <title>COLLECTION, TRANSPORT, AND STORAGE OF SPECIMENS</title>
+        <anchor id="ch0170s000002a0002"/>
+        <anchor id="ch0170s000000a0013"/>
+        <anchor id="ch0170s000000a0014"/>
+        <anchor id="ch0170s000000a0015"/>
+        <anchor id="ch0170s000000a0016"/>
+        <para id="ch0170s000000p0009">Specimens should be collected before antibiotics or antiparasitic drugs are given (for details, refer to<ulink url="ch0160#ch0160s0001">chapter 137</ulink>). It is important to transport and process feces specimens for parasitic examination as soon as possible following collection. Clinicians and collection staff should be encouraged to send fresh specimens to the laboratory without delay. It should be noted that formalin-based fixatives will damage DNA and may not allow subsequent molecular analysis. If delay is inevitable, specimens should be refrigerated or transported in commercially available vials or kits with a preservative recommended by the testing laboratory. If these are not available at the point of collection, preservative should be added as soon as the specimen is received in the laboratory. Excellent directions for proper collection are available with these kits. Discussion on which preservative to use depends on various considerations such as whether permanent-stained smears or immunoassays are required. Two or three specimens collected over a period of 7 to 10 days is optimal. Specimens that are very small in volume or obviously dry should be rejected and a fresh specimen should be collected. Refrigeration and the use of preservatives should be avoided if agar plate culture (APC) or Baermann procedures for culture of <emphasis>Strongyloides</emphasis> larvae are required (for details, see reference <link linkend="ch0170s000000li0066">14</link>).</para>
+        <para id="ch0170s000000p0010">Helminths (or other worms) retrieved at colonoscopy or submitted by the patient should be transported to the laboratory without delay. Worms can be preserved in 60% alcohol; avoid the use of formalin, as it causes contraction and hardening of tissues. Adult worms should not be histologically sectioned, as this will often impair accurate species identification.</para>
+        <para id="ch0170s000000p0011">For sputum specimens, proper instructions should be given to patients emphasizing requirements, i.e., avoidance of saliva, and avoiding use of a mouthwash before deep coughing (expectorating). Sputum and aspirates should be transported to the laboratory and processed immediately.</para>
+        <para id="ch0170s000000p0012">All specimens should be handled using standard precautions, e.g., latex gloves should be worn by anyone handling the specimens.</para>
+      </sect2>
+      <sect2 id="ch0170s0002s0002">
+        <title>LABORATORY METHODS</title>
+        <anchor id="ch0170s000002a0003"/>
+        <anchor id="ch0170s000000a0017"/>
+        <para id="ch0170s000000p0013">The specimen should be handled in a work cabinet (biological safety cabinet), and gloves and gown should be worn. Examine the specimen and note its consistency. Look for any motile or nonmotile worms (<link linkend="ch0170s000000a0011">Fig. 4A</link>, <link linkend="ch0170s000000a0004">B</link>). Select and sample areas that look watery, purulent, or bloody. If feces are formed, sample from several areas of the specimen for the concentration technique.</para>
+        <para id="ch0170s000000p0014">Both the direct specimen and concentrate are examined as wet preparations in saline and iodine. However, iodine is generally not recommended when looking for helminth eggs, as it may darken them and may be difficult to recognize. Scan the whole coverslip area at low-power magnification (×100). Most helminth eggs and larvae can be identified at this magnification and diagnosis can be confirmed at high power (×400) on the basis of their shape, size, and characteristic features (<link linkend="ch0170s000000a0006">Fig. 1</link> to <link linkend="ch0170s000000a0010">3</link>). Smears should be prepared from a centrifuged deposit (500 × <emphasis>g</emphasis>, 10 minutes) for permanent staining, but this technique is not the preferred method for identification of nematode eggs or larvae; it is primarily to diagnose mixed infections with protozoa. Some commercial diagnostic gastrointestinal helminth multiplex real-time PCR panels now incorporate <emphasis>Ascaris</emphasis> primers (<link linkend="ch0170s000000li0061">9</link>).</para>
+      </sect2>
+      <sect2 id="ch0170s0002s0003">
+        <title>ASCARIS LUMBRICOIDES (ROUNDWORM)</title>
+        <anchor id="ch0170s000002a0004"/>
+        <anchor id="ch0170s000000a0018"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0003">
+      <title>Taxonomy</title>
+      <anchor id="ch0170s000003a0001"/>
+      <anchor id="ch0170s000000a0019"/>
+      <para id="ch0170s000000p0015">The organisms in this group, in the modern classification of biological species, are in clade III (Chromadoria: Spururina) of the Nematoda, in the order Ascaridida and the family<emphasis>Ascarididae</emphasis>.</para>
+      <para id="ch0170s000000p0016">Of the three genera of ascaridid nematodes regularly occurring as parasites of humans, only<emphasis>Ascaris</emphasis> is a true human parasite. The others (<emphasis>Toxocara</emphasis> and <emphasis>Toxascaris</emphasis>) are common parasites of cats and dogs that occasionally infect humans. Ascaridids are related to anisakids, with three distinct lips, but differ in that their life cycle is linked to terrestrial rather than aquatic conditions.</para>
+      <para id="ch0170s000000p0017"><emphasis>Ascaris suum</emphasis> was once thought to be a separate species in pigs but has since been found to be genetically similar to the human species <emphasis>A. lumbricoides</emphasis> (<link linkend="ch0170s000000li0067">15</link>).</para>
+    </sect1>
+    <sect1 id="ch0170s0004">
+      <title>Description</title>
+      <anchor id="ch0170s000004a0001"/>
+      <anchor id="ch0170s000000a0020"/>
+      <sect2 id="ch0170s0004s0001">
+        <title>Eggs</title>
+        <anchor id="ch0170s000004a0002"/>
+        <anchor id="ch0170s000000a0021"/>
+        <para id="ch0170s000000p0018">Eggs of<emphasis>A. lumbricoides</emphasis> (<anchor id="ch0170s000000a0022"/><link linkend="ch0170s000000a0007">Fig. 2A</link> to <link linkend="ch0170s000000a0022">C</link>) are usually seen in two forms: unfertilized and fertilized. The egg shell of a fertilized egg (45 to 75 by 35 to 50 μm) consists of an inner lipid layer responsible for selective permeability, a chitin-protein layer responsible for structural strength, and an outer vitelline layer. The inner layer contains a lipoprotein, ascaroside, which helps prevent formaldehyde, disinfectants, and other chemicals from contacting the embryo. The outer corticate surface of the fertilized egg has an uneven deposit of mucopolysaccharide with adhesive properties (<link linkend="ch0170s000000a0007">Fig. 2A</link>). This corticate outer surface may not be present in some eggs (<link linkend="ch0170s000000a0007">Fig. 2B</link>). Eggs appear brown due to staining by bile. The unfertilized eggs have thinner walls and distorted mammillations. These eggs are usually more elongated in shape, measure 85 to 95 by 43 to 47 μm, and may have either a pronounced mammillated coat or little or no mammillated layer. Although rare, unfertilized eggs may be seen (<link linkend="ch0170s000000a0007">Fig. 2C</link>).</para>
+        <anchor id="ch0170s000000a0023"/>
+        <beginpage pagenum="2900"/>
+      </sect2>
+      <sect2 id="ch0170s0004s0002">
+        <title>Larvae</title>
+        <anchor id="ch0170s000004a0003"/>
+        <anchor id="ch0170s000000a0024"/>
+        <para id="ch0170s000000p0019">During an incubation period of 2 to 3 weeks in soil, first-stage larvae develop inside the eggs and molt to form the second-stage larvae. Following ingestion of eggs, the larvae hatch in the jejunum; these second-stage larvae have a typical filariform appearance (measuring approximately 250 by 14 μm). They migrate across the intestinal wall and enter the circulation to reach the lungs, growing to approximately 560 by 28 μm. A further molt occurs in the lungs, and the larvae develop over 8 or 9 days to reach a size of 1.2 mm by 36 μm. They are carried up the airways to the throat and are swallowed. Growth is rapid after the fourth and final molt in the intestine.</para>
+      </sect2>
+      <sect2 id="ch0170s0004s0003">
+        <title>Worms</title>
+        <anchor id="ch0170s000004a0004"/>
+        <anchor id="ch0170s000000a0025"/>
+        <para id="ch0170s000000p0020">Adult male and female<emphasis>A. lumbricoides</emphasis> worms (<link linkend="ch0170s000000a0011">Fig. 4A</link>) are colored light brown-pink when fresh, turning white with storage in ethanol/formalin-based fixatives. Egg laying commences at 8 to 9 weeks when females measure 15 to 20 cm, and they may reach 45 cm by 5 mm; males are generally smaller at 15 to 31 cm by 3 mm. Males have a curved tail containing a cloaca, a pair of copulatory spicules, and caudal papillae. Adult worms live in the lumen of the small intestine and feed on digestion products.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0005">
+      <title>Epidemiology and Prevention</title>
+      <anchor id="ch0170s000005a0001"/>
+      <anchor id="ch0170s000000a0026"/>
+      <para id="ch0170s000000p0021"><emphasis>A. lumbricoides</emphasis> infection is one of the most common human infections, with approximately 800 million people estimated to be infected (<link linkend="ch0170s000000li0068">16</link>). It has a worldwide distribution but is most common in tropical and subtropical areas. It is particularly associated with crowding and poor sanitation. Contamination of soil by human excreta can result in a layer of eggs within silt that is easily disturbed, resulting in contamination of root and vegetable produce.</para>
+      <para id="ch0170s000000p0022">Preventive measures consist of health education about personal hygiene and sanitation, and drug therapy.</para>
+    </sect1>
+    <sect1 id="ch0170s0006">
+      <title>Transmission and Life Cycle (Fig. 6)</title>
+      <anchor id="ch0170s000006a0001"/>
+      <anchor id="ch0170s000000a0027"/>
+      <anchor id="ch0170s000000a0028"/>
+      <para id="ch0170s000000p0023">Eggs passed in feces (diagnostic stage) have an unsegmented ovum; this develops in the soil over 10 to 15 days to reach an infective-stage larva (<anchor id="ch0170s000000a0029"/><link linkend="ch0170s000000a0038">Table 1</link>). Eggs may survive in this form for years under favorable conditions of heat and humidity. Infection follows the ingestion of embryonated eggs (infective stage) that hatch in the small intestine. Larvae penetrate the intestinal mucosa, and the venous circulation carries them to the lungs. From here they migrate to the trachea and are swallowed. They then complete their development into mature adult worms in the small intestine, with eggs produced after 60 to 70 days. A minority of individuals develop heavy infections and act as an important source of transmission.</para>
+      <para id="ch0170s000000p0024">The prepatent period (from egg ingestion to egg production) is approximately 2 months.</para>
+    </sect1>
+    <sect1 id="ch0170s0007">
+      <title>Clinical Significance</title>
+      <anchor id="ch0170s000007a0001"/>
+      <anchor id="ch0170s000000a0030"/>
+      <para id="ch0170s000000p0025">Initial infection is usually asymptomatic. Migration of larvae through the lungs may result in an eosinophilic pneumonitis with cough, fever, and dyspnea. This may occur up to 2 weeks after infection and lasts approximately 3 weeks. Bronchospasm can be prominent and, although rare, may be fatal.</para>
+      <para id="ch0170s000000p0026">The clinical features in established infections relate to the worm burden. Most infections are light and asymptomatic, but nonspecific abdominal symptoms may occur. Heavy infections are associated with malnutrition and impaired growth in children. Intestinal obstruction is an uncommon complication in children with a very large worm burden and may have a high mortality rate in some settings (<link linkend="ch0170s000000li0055">3</link>). Ectopic ascariasis occasionally occurs when adult worms attempt to escape the gut lumen. This may be a spontaneous event or may occur in response to febrile illness, medication, or anesthesia. Worms may enter hepatobiliary and pancreatic ducts or the appendix and cause obstruction, resulting in biliary colic, cholecystitis, acute cholangitis, acute pancreatitis, appendicitis, or a hepatic abscess. It occurs more commonly in countries with high rates of infection where the parasite is endemic. For more on the clinical manifestations of <emphasis>A. lumbricoides</emphasis>, see reference <link linkend="ch0170s000000li0069">17</link> and <anchor id="ch0170s000000a0031"/><link linkend="ch0170s000000a0041">Table 2</link>.</para>
+      <para id="ch0170s000000p0027">Peripheral blood eosinophilia may be seen at different stages of larval migration (<anchor id="ch0170s000000a0032"/><link linkend="ch0170s000000a0044">Table 3</link>).</para>
+    </sect1>
+    <sect1 id="ch0170s0008">
+      <title>Laboratory Detection</title>
+      <anchor id="ch0170s000008a0001"/>
+      <anchor id="ch0170s000000a0033"/>
+      <sect2 id="ch0170s0008s0001">
+        <title>Microscopy</title>
+        <anchor id="ch0170s000008a0002"/>
+        <anchor id="ch0170s000000a0034"/>
+        <para id="ch0170s000000p0028">The primary diagnosis of infection is by demonstration of<emphasis>A. lumbricoides</emphasis> eggs in feces. The fertilized eggs are round to oval, bile stained, mammillated, and thick walled and 50 to 80 μm long by 40 to 60 μm wide. Both fertilized and unfertilized eggs may be found in the same specimen; fertilized eggs are more elongate (up to 90 μm) than unfertilized eggs. Multiple specimens taken on separate days may be required. Concentration methods such as formalin-ethyl acetate sedimentation or saturated solution flotation methods should be used for optimal yield. Decorticated fertile and infertile eggs may be difficult to recognize (<link linkend="ch0170s000000a0007">Fig. 2B</link> and <link linkend="ch0170s000000a0022">C</link>). Motile larvae may sometimes be seen in expectorated sputum, usually during the initial lung migration stage.</para>
+      </sect2>
+      <sect2 id="ch0170s0008s0002">
+        <title>Macroscopic Examination</title>
+        <anchor id="ch0170s000008a0003"/>
+        <anchor id="ch0170s000000a0035"/>
+        <para id="ch0170s000000p0029">Occasionally, an adult worm may be passed in feces or may spontaneously migrate out of the anus, mouth, or nares, particularly in children.</para>
+        <para id="ch0170s000000p0030">Identification is relatively straightforward due to the large size and distinctive morphology of<emphasis>A. lumbricoides.</emphasis> However, it should be noted that earthworms of comparable size can occasionally be retrieved from toilets and submitted for identification. The distinguishing features of <emphasis>Ascaris</emphasis> adult worms are that they have tapering ends (<link linkend="ch0170s000000a0011">Fig. 4A</link>), a lateral white line along the entire length of the body, three lips at the anterior end, and a tough cuticle.</para>
+      </sect2>
+      <sect2 id="ch0170s0008s0003">
+        <title>Nucleic Acid Detection</title>
+        <anchor id="ch0170s000008a0004"/>
+        <anchor id="ch0170s000000a0036"/>
+        <para id="ch0170s000000p0031">Commercial or in-house assays are now available to detect<emphasis>A. lumbricoides</emphasis> DNA directly from feces. The inclusion of a bead-beating step prior to fecal DNA extraction is advised to ensure the sensitivity of any PCR assays for <emphasis>A. lumbricoides</emphasis> eggs.</para>
+        <figure id="ch0170s000000f0006"><title><phrase role="figureLabel"><anchor id="ch0170s000000a0037"/><link linkend="ch0170s000000a0028"><emphasis role="strong">FIGURE 6</emphasis></link></phrase> Life cycle of <emphasis>Ascaris lumbricoides.</emphasis> Image courtesy of DPDx, Centers for Disease Control and Prevention (<ulink url="https://www.cdc.gov/dpdx">https://www.cdc.gov/dpdx</ulink>).
+</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0170f15.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+        <table id="ch0170s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0170s000000a0038"/><link linkend="ch0170s000000a0029">TABLE 1</link></phrase></emphasis> Usual times for completion of life cycles under favorable conditions
+</title>
+          
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Nematodes</phrase>
+                </entry>
+                <entry><phrase role="center">Time for life cycle completion</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="center">Within host</phrase>
+                </entry>
+                <entry><phrase role="center">In external environment</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><emphasis>Ascaris lumbricoides</emphasis>
+                </entry>
+                <entry>8 weeks</entry>
+                <entry>10–15 days</entry>
+              </row>
+              <row>
+                <entry><emphasis>Enterobius vermicularis</emphasis>
+                </entry>
+                <entry>4–7 weeks</entry>
+                <entry>6 hours</entry>
+              </row>
+              <row>
+                <entry>Hookworms</entry>
+                <entry>4–7 weeks</entry>
+                <entry>5–6 days</entry>
+              </row>
+              <row>
+                <entry><emphasis>Strongyloides stercoralis</emphasis>
+                </entry>
+                <entry>4 weeks</entry>
+                <entry>3–4 days (direct)</entry>
+              </row>
+              <row>
+                <entry><emphasis>Trichuris trichiura</emphasis>
+                </entry>
+                <entry>10–12 weeks</entry>
+                <entry>21 days</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0009">
+      <title>Treatment</title>
+      <anchor id="ch0170s000009a0001"/>
+      <anchor id="ch0170s000000a0039"/>
+      <para id="ch0170s000000p0032">Albendazole is the first choice for treating<emphasis>A. lumbricoides</emphasis>, and mebendazole is also effective (see <ulink url="ch0177#ch0177s0001">chapter 153</ulink> and references <link linkend="ch0170s000000li0053">1</link> and <link linkend="ch0170s000000li0069">17</link>). Pyrantel and piperazine are also effective and can be used in pregnancy (see <ulink url="ch0177#ch0177s0001">chapter 153</ulink> and references <link linkend="ch0170s000000li0053">1</link> and <link linkend="ch0170s000000li0069">17</link>).</para>
+      <anchor id="ch0170s000000a0040"/>
+      <beginpage pagenum="2901"/>
+      <table id="ch0170s000000t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0170s000000a0041"/><link linkend="ch0170s000000a0031">TABLE 2</link></phrase></emphasis> Summary of some epidemiological and clinical features of nematodes<anchor id="ch0170s000000a0042"/><link linkend="ch0170s000000a0043">a</link>
+</title>
+        
+        <tgroup cols="6">
+          <tbody>
+            <row>
+              <entry><phrase role="center">Parasite</phrase>
+              </entry>
+              <entry><phrase role="center">Oral ingestion</phrase>
+              </entry>
+              <entry><phrase role="center">Direct skin penetration</phrase>
+              </entry>
+              <entry><phrase role="center">Lung migratory phase</phrase>
+              </entry>
+              <entry><phrase role="center">STH</phrase>
+              </entry>
+              <entry><phrase role="center">Autoinfection</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry><emphasis>Ascaris lumbricoides</emphasis>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">X</phrase>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">X</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry><emphasis>Enterobius vermicularis</emphasis>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">X</phrase>
+              </entry>
+              <entry><phrase role="center">X</phrase>
+              </entry>
+              <entry><phrase role="center">X</phrase>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>Hookworms</entry>
+              <entry><phrase role="center">X</phrase>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">X</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry><emphasis>Strongyloides stercoralis</emphasis>
+              </entry>
+              <entry><phrase role="center">X</phrase>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+            </row>
+            <row>
+              <entry><emphasis>Trichuris trichiura</emphasis>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">X</phrase>
+              </entry>
+              <entry><phrase role="center">X</phrase>
+              </entry>
+              <entry><phrase role="center">
+                  <emphasis>✓</emphasis>
+                </phrase>
+              </entry>
+              <entry><phrase role="center">X</phrase>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para role="table-footnote"><superscript><emphasis><anchor id="ch0170s000000a0043"/><link linkend="ch0170s000000a0042">a</link></emphasis></superscript>STH, soil-transmitted helminth, included in the neglected tropical diseases (NTDs) by WHO ( 1). ✓, yes; X, no.</para>
+      <table id="ch0170s000000t0003"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0170s000000a0044"/><link linkend="ch0170s000000a0032">TABLE 3</link></phrase></emphasis> Overview of parasitic eosinophilia<superscript><emphasis><anchor id="ch0170s000000a0045"/><link linkend="ch0170s000000a0046">a</link></emphasis></superscript>
+</title>
+        
+        <tgroup cols="1">
+          <tbody>
+            <row>
+              <entry><para>Overview</para>
+                <itemizedlist>
+                  <listitem id="ch0170s000000li0001">
+                    <para>Parasitic eosinophilia is a hematologic reaction to tissue invasive stages of helminth (worm) infection.</para>
+                  </listitem>
+                  <listitem id="ch0170s000000li0002">
+                    <para>Two protozoans,<emphasis>Cystoisospora</emphasis> and <emphasis>Sarcocystis</emphasis>, rarely may cause a mild eosinophilia in some patients.</para>
+                  </listitem>
+                  <listitem id="ch0170s000000li0003">
+                    <para>Helminth infections that cause eosinophilia, in travelers or otherwise, are listed below. Acute disease in travelers 4 to 6 weeks post freshwater exposure mimics other undifferentiated tropical fevers, but no eosinophilia is seen in malaria, typhoid, arboviral infection, amebiasis, or rickettsial disease.</para>
+                  </listitem>
+                  <listitem id="ch0170s000000li0004">
+                    <para>Ectoparasite infection (e.g., crusted scabies) may sometimes cause eosinophilia.</para>
+                  </listitem>
+                  <listitem id="ch0170s000000li0005">
+                    <para>Differential diagnosis consists of drug reactions and other nonparasitic medical conditions (malignancies, fungal infections, skin diseases).</para>
+                  </listitem>
+                </itemizedlist>
+                <para>Specific parasitic infections</para>
+                <itemizedlist>
+                  <listitem id="ch0170s000000li0006">
+                    <para><emphasis role="strong">Frequent and often intense (&gt;5,000 eosinophils/μl):</emphasis></para>
+                    <itemizedlist>
+                      <listitem id="ch0170s000000li0007">
+                        <para><emphasis>Strongyloides</emphasis> (eosinophilia may be absent, especially in compromised hosts)</para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0008">
+                        <para>Lymphatic filariasis (especially tropical pulmonary eosinophilia)</para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0009">
+                        <para><emphasis>Toxocara</emphasis> (visceral larva migrans)</para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0010">
+                        <para><emphasis>Trichinella</emphasis> (ingestion of uncooked game meat)</para>
+                      </listitem>
+                    </itemizedlist>
+                  </listitem>
+                </itemizedlist>
+                <itemizedlist>
+                  <listitem id="ch0170s000000li0011">
+                    <para><emphasis role="strong">Moderate during larval migration; absent or mild during chronic infections:</emphasis></para>
+                    <itemizedlist>
+                      <listitem id="ch0170s000000li0012">
+                        <para><emphasis>Ascaris</emphasis>
+                        </para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0013">
+                        <para>Hookworm</para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0014">
+                        <para><emphasis>Fasciola</emphasis> (right upper quadrant pain)</para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0015">
+                        <para><emphasis>Clonorchis</emphasis>
+<emphasis>Paragonimus</emphasis> (rusty sputum mistaken for TB)</para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0016">
+                        <para><emphasis>Opisthorchis</emphasis>
+                        </para>
+                      </listitem>
+                    </itemizedlist>
+                  </listitem>
+                </itemizedlist>
+                <itemizedlist>
+                  <listitem id="ch0170s000000li0017">
+                    <para><emphasis role="strong">Occurs at various stages of infection:</emphasis></para>
+                    <itemizedlist>
+                      <listitem id="ch0170s000000li0018">
+                        <para>Schistosomiasis</para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0019">
+                        <para>Cysticercosis (seizures or raised intracranial pressure)</para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0020">
+                        <para><emphasis>Echinococcus</emphasis> (especially if cyst rupture occurs)</para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0021">
+                        <para><emphasis>Trichuris</emphasis>
+                        </para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0022">
+                        <para><emphasis>Angiostrongylus</emphasis>
+                        </para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0023">
+                        <para><emphasis>Wuchereria</emphasis>
+                        </para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0024">
+                        <para><emphasis>Onchocerca</emphasis>
+                        </para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0025">
+                        <para><emphasis>Loa loa</emphasis>
+                        </para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0026">
+                        <para><emphasis>Gnathostoma</emphasis>
+                        </para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0027">
+                        <para><emphasis>Capillaria</emphasis>
+                        </para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0028">
+                        <para><emphasis>Fasciolopsis</emphasis>
+                        </para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0029">
+                        <para><emphasis>Trichostrongylus</emphasis>
+                        </para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0030">
+                        <para><emphasis>Baylisascaris</emphasis>
+                        </para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0031">
+                        <para>Other human and non-human filarial worms (<emphasis>Dirofilaria, Mansonella</emphasis>)</para>
+                      </listitem>
+                      <listitem id="ch0170s000000li0032">
+                        <para><emphasis>Anisakis</emphasis> (and other fish helminthic parasites)</para>
+                      </listitem>
+                    </itemizedlist>
+                  </listitem>
+                </itemizedlist>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para role="table-footnote"><superscript><emphasis><anchor id="ch0170s000000a0046"/><link linkend="ch0170s000000a0045">a</link></emphasis></superscript>Modified from reference <link linkend="ch0170s000000li0125">74</link>.</para>
+      <para id="ch0170s000000p0033">For a summary of<emphasis>A. lumbricoides</emphasis>, see <link linkend="ch0170s000000a0041">Table 2</link> and <anchor id="ch0170s000000a0047"/><link linkend="ch0170s000000a0053">Table 4</link>.</para>
+      <sect2 id="ch0170s0009s0001">
+        <title>ENTEROBIUS VERMICULARIS (PINWORM OR THREADWORM)</title>
+        <anchor id="ch0170s000009a0002"/>
+        <anchor id="ch0170s000000a0048"/>
+        <anchor id="ch0170s000000a0049"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0010">
+      <title>Taxonomy</title>
+      <anchor id="ch0170s000010a0001"/>
+      <anchor id="ch0170s000000a0050"/>
+      <para id="ch0170s000000p0034">The organisms in this group, in the modern classification of biological species, are in clade III (Chromadoria: Spururina) of the Nematoda, in the order Oxyurida and the family Oxyuridae. Only the genus<emphasis>Enterobius</emphasis> of this family regularly occurs in humans and other primates.</para>
+    </sect1>
+    <sect1 id="ch0170s0011">
+      <title>Description</title>
+      <anchor id="ch0170s000011a0001"/>
+      <anchor id="ch0170s000000a0051"/>
+      <sect2 id="ch0170s0011s0001">
+        <title>Eggs</title>
+        <anchor id="ch0170s000011a0002"/>
+        <anchor id="ch0170s000000a0052"/>
+        <para id="ch0170s000000p0035">Pinworm eggs (<link linkend="ch0170s000000a0007">Fig. 2F</link>) are ovoid, 50 to 60 by 20 to 35 μm, and asymmetrically flattened on one side, and appear colorless when recovered from the perianal skin. The outer layer of the egg shell is albuminous and sticky, enabling the egg to adhere readily. The egg contains an immature first-stage larva, but this develops rapidly to become infective.</para>
+        <table id="ch0170s000000t0004"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0170s000000a0053"/><link linkend="ch0170s000000a0047">TABLE 4</link></phrase></emphasis> Summary of common nematodes
+
+</title>
+          
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Parasite</phrase>
+                </entry>
+                <entry><phrase role="center">Major clinical presentations of infection</phrase>
+                </entry>
+                <entry><phrase role="center">Prepatent period</phrase>
+                </entry>
+                <entry><phrase role="center">Laboratory findings</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><emphasis>Ascaris lumbricoides</emphasis>
+                </entry>
+                <entry>Symptoms relate to worm burden; most infections are light and asymptomatic; migratory phase, eosinophilic pneumonitis</entry>
+                <entry>2 mo</entry>
+                <entry>Demonstration of eggs in feces; identification of worm passed; eosinophilia low or absent</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Symptoms of established infection include:</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry><itemizedlist>
+                    <listitem id="ch0170s000000li0033">
+                      <para>History of passing/vomiting worm</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry><itemizedlist>
+                    <listitem id="ch0170s000000li0034">
+                      <para>Mild gastrointestinal symptoms</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry><itemizedlist>
+                    <listitem id="ch0170s000000li0035">
+                      <para>Small-bowel obstruction in children with heavy worm burdens</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry><itemizedlist>
+                    <listitem id="ch0170s000000li0036">
+                      <para>Ectopic ascariasis involving appendix or hepatobiliary or pancreatic ducts</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry><itemizedlist>
+                    <listitem id="ch0170s000000li0037">
+                      <para>Malnutrition and growth retardation in children</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><emphasis>Enterobius vermicularis</emphasis>
+                </entry>
+                <entry>Many infections are asymptomatic; pruritus ani occurs mainly at night; excoriation from scratching and secondary infection are common; general symptoms include weight loss and loss of appetite; occasionally ectopic, involving appendix or female genital tract</entry>
+                <entry>3–4 wk</entry>
+                <entry>Demonstration of eggs in “sticky tape” preparation; eosinophilia low or absent</entry>
+              </row>
+              <row>
+                <entry>Hookworms</entry>
+                <entry>Pruritic rash or “ground itch” on extremities at site of entry of larvae; migratory phase, cough and wheezing due to eosinophilic pneumonitis</entry>
+                <entry>4–8 wk</entry>
+                <entry>Demonstration of eggs or larvae in feces; culture (agar plate method or Harada-Mori technique); eosinophilia usually moderate</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Symptoms of established infection include:</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry><itemizedlist>
+                    <listitem id="ch0170s000000li0038">
+                      <para>Iron-deficiency anemia</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry><itemizedlist>
+                    <listitem id="ch0170s000000li0039">
+                      <para>Hypoproteinemia leading to chronic malnutrition and growth disorders in children</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry><itemizedlist>
+                    <listitem id="ch0170s000000li0040">
+                      <para>Enteropathy with gastrointestinal symptoms</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry><itemizedlist>
+                    <listitem id="ch0170s000000li0041">
+                      <para>Light infections may be asymptomatic</para>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><emphasis>Strongyloides stercoralis</emphasis>
+                </entry>
+                <entry>Chronic infection occurs due to autoinfection; recurrent, migratory, linear rash when larvae enter perianal skin, or “larva currens”; urticarial rashes also occur; enteropathy causing intermittent or chronic diarrhea, sometimes with malabsorption; pulmonary symptoms and hypereosinophilia may occur during autoinfection; Loeffler-like syndrome; Gram-negative-bacterial septicemia or meningitis due to transfer of bowel microbiota by migrating larvae; hyperinfection syndrome (disseminated) in immunocompromised or debilitated individuals, leading to severe enteropathy and respiratory symptoms</entry>
+                <entry>2–4 wk</entry>
+                <entry>Demonstration of larvae in feces; culture (agar plate method or Harada-Mori technique); demonstration of antibodies in serum; eosinophilia variable but usually moderate; PCR, high specificity but variable sensitivity</entry>
+              </row>
+              <row>
+                <entry><emphasis>Trichuris trichiura</emphasis>
+                </entry>
+                <entry>Usually asymptomatic or mild gastrointestinal symptoms; epigastric pain, vomiting, distension, anorexia, and weight loss;<emphasis>Trichuris</emphasis> dysentery, sometimes with rectal prolapse, may occur in heavy infections; growth retardation in children due to chronic malnutrition and anemia</entry>
+                <entry>3 mo</entry>
+                <entry>Demonstration of eggs in feces; eosinophilia low or absent</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </sect2>
+      <sect2 id="ch0170s0011s0002">
+        <title>Larvae</title>
+        <anchor id="ch0170s000011a0003"/>
+        <anchor id="ch0170s000000a0054"/>
+        <para id="ch0170s000000p0036">The larvae hatch in the small bowel, then migrate to the large bowel to complete molting and development.</para>
+        <anchor id="ch0170s000000a0055"/>
+        <beginpage pagenum="2903"/>
+      </sect2>
+      <sect2 id="ch0170s0011s0003">
+        <title>Worms</title>
+        <anchor id="ch0170s000011a0004"/>
+        <anchor id="ch0170s000000a0056"/>
+        <para id="ch0170s000000p0037">Adult female worms (<link linkend="ch0170s000000a0011">Fig. 4B</link> and <link linkend="ch0170s000000a0004">C</link>) measure approximately 8 to 13 by 0.3 to 0.5 mm, with cervical alae or winglike expansions at the mouth and a long, pointed tail (hence the name pinworm). Male worms are 2.5 to 5 mm by 0.1 to 0.2 mm but are rarely seen (<link linkend="ch0170s000000a0011">Fig. 4D</link>).</para>
+        <para id="ch0170s000000p0038"><emphasis>Enterobius gregorii</emphasis> was thought to be a sister species of <emphasis>E. vermicularis</emphasis>, and has a slightly smaller spicule (sexual organ). However, it is now believed that <emphasis>E. gregorii</emphasis> likely represents an immature stage of <emphasis>E. vermicularis</emphasis>.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0012">
+      <title>Epidemiology and Prevention</title>
+      <anchor id="ch0170s000012a0001"/>
+      <anchor id="ch0170s000000a0057"/>
+      <para id="ch0170s000000p0039"><emphasis>E. vermicularis</emphasis> infection has a worldwide distribution and is more common in children than adults. Preventive measures consist of health education about personal hygiene and sanitation, and drug therapy.</para>
+      <anchor id="ch0170s000000a0058"/>
+      <beginpage pagenum="2904"/>
+    </sect1>
+    <sect1 id="ch0170s0013">
+      <title>Transmission and Life Cycle (Fig. 7)</title>
+      <anchor id="ch0170s000013a0001"/>
+      <anchor id="ch0170s000000a0059"/>
+      <anchor id="ch0170s000000a0060"/>
+      <para id="ch0170s000000p0040">Adult worms inhabit the cecum, appendix, and ascending colon. The female migrates down the colon when mature and deposits eggs on perianal and perineal skin (diagnostic stage). More than 10,000 eggs may be deposited, become infective within 6 h (<link linkend="ch0170s000000a0038">Table 1</link>), and remain viable for up to 5 days. Eggs are sticky on deposition, but after drying they lose this quality and become well suited to dissemination in dust (<link linkend="ch0170s000000li0070">18</link>). It is assumed, though not proven, that the female reenters the rectum after egg deposition (<link linkend="ch0170s000000li0071">19</link>).</para>
+      <para id="ch0170s000000p0041">Transmission is either via autoinfection, direct from the anal and perianal regions to the mouth, usually by fingernail contamination, or from exposure to dust in a contaminated environment. When swallowed, the embryonated eggs (infective stage) hatch in the small bowel. Larvae migrate to the large bowel, where they mature into adult worms. Retroinfection occurs when hatched larvae migrate from the anal skin back to the rectum (<link linkend="ch0170s000000li0070">18</link>).</para>
+      <anchor id="ch0170s000000a0061"/>
+      <beginpage pagenum="2905"/>
+      <figure id="ch0170s000000f0007"><title><phrase role="figureLabel"><anchor id="ch0170s000000a0062"/><link linkend="ch0170s000000a0060"><emphasis role="strong">FIGURE 7</emphasis></link></phrase> Life cycle of <emphasis>Enterobius vermicularis.</emphasis> Image courtesy of DPDx, Centers for Disease Control and Prevention (<ulink url="https://www.cdc.gov/dpdx">https://www.cdc.gov/dpdx</ulink>).
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0170f16.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para id="ch0170s000000p0042">The prepatent period (from egg ingestion to egg production) is 3 to 4 weeks.</para>
+    </sect1>
+    <sect1 id="ch0170s0014">
+      <title>Clinical Significance</title>
+      <anchor id="ch0170s000014a0001"/>
+      <anchor id="ch0170s000000a0063"/>
+      <para id="ch0170s000000p0043">Children are most commonly infected. Many patients are asymptomatic or present with pruritus ani and perineal pruritus, which may be severe and worse at night. Excoriation from scratching and secondary bacterial infection is often evident. With heavy worm burdens, poor concentration, enuresis, and emotional distress are features. General symptoms, including abdominal pain, weight loss, and loss of appetite, may occur. Occasionally, the presence of worms in the appendix contributes to inflammation and true appendicitis (<link linkend="ch0170s000000li0072">20</link>). Reinfection (autoinfection or retroinfection) is also possible.</para>
+      <para id="ch0170s000000p0044">The presence of ectopic worms and eggs in several sites, including the female genitourinary tract, the epididymis, and the peritoneum, has been reported. Some of these mimic tumor-like lesions (<link linkend="ch0170s000000li0073">21</link>) or endometriosis. They rarely cause serious complications. For more on the clinical manifestations of <emphasis>E. vermicularis</emphasis>, see reference <link linkend="ch0170s000000li0069">17</link> and <link linkend="ch0170s000000a0041">Table 2</link>.</para>
+    </sect1>
+    <sect1 id="ch0170s0015">
+      <title>Laboratory Detection</title>
+      <anchor id="ch0170s000015a0001"/>
+      <anchor id="ch0170s000000a0064"/>
+      <sect2 id="ch0170s0015s0001">
+        <title>Microscopy</title>
+        <anchor id="ch0170s000015a0002"/>
+        <anchor id="ch0170s000000a0065"/>
+        <para id="ch0170s000000p0045">The primary diagnosis of infection is by demonstration of the presence of eggs on the skin in the perineal area by using the “sticky tape” method (eggs adhere to cellulose tape and can then be detected microscopically). Briefly, a strip of cellulose tape, folded onto a microscopy slide with adhesive side outwards, is pressed firmly against the right and left perianal folds, preferably early in the morning. The tape is then spread back over the slide with the adhesive side down and examined directly under the microscope. Visibility of eggs can be improved by lifting the tape from the slide, adding a drop of xylene or xylene substitute, and pressing the tape back down on the slide. This helps clear the preparation, and the eggs can be observed clearly (<link linkend="ch0170s000000li0074">22</link>, <link linkend="ch0170s000000li0075">23</link>). If a frosted tape is submitted by mistake, a drop of immersion oil on the top of the tape will clear it enough for microscopy. Repeated preparations on 2 to 3 consecutive days may be required. Commercial collection kits (Evergreen Scientific, Los Angeles, CA, or Swube [Becton Dickinson], Sparks, MD) are available in some countries. Eggs are occasionally present in feces. Eggs are non-bile stained, ovoid, asymmetrical with a characteristic shape (concave on one side and flat on the other), smooth, and thick walled and may contain a partially or fully developed larva (<link linkend="ch0170s000000a0007">Fig. 2F</link>). Specimens should ideally be taken early in the morning prior to the child’s bathing or using the toilet.</para>
+      </sect2>
+      <sect2 id="ch0170s0015s0002">
+        <title>Macroscopic examination</title>
+        <anchor id="ch0170s000015a0003"/>
+        <anchor id="ch0170s000000a0066"/>
+        <para id="ch0170s000000p0046">Adult female worms may be seen in feces, observed around the anal opening, or detected at colonoscopy. They are white or cream-colored, pin- or threadlike worms. In rare instances, immature worms that lack the winglike expansions at the mouth may be detected in feces. The mature, distended female contains copious eggs, and these may be extruded from the genital pore by applying pressure to the coverslip (<link linkend="ch0170s000000a0011">Fig. 4C</link>). The cross-section view of the adult female shows characteristic eggs in histology section (<link linkend="ch0170s000000a0012">Fig. 5A</link>). Lateral alae that run the length of the body in both male and female worms can be seen and can also be seen in histological sections.</para>
+      </sect2>
+      <sect2 id="ch0170s0015s0003">
+        <title>Nucleic Acid Detection</title>
+        <anchor id="ch0170s000015a0004"/>
+        <anchor id="ch0170s000000a0067"/>
+        <para id="ch0170s000000p0047">Commercial or in-house assays are now available to detect DNA directly from feces.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0016">
+      <title>Treatment</title>
+      <anchor id="ch0170s000016a0001"/>
+      <anchor id="ch0170s000000a0068"/>
+      <para id="ch0170s000000p0048">Albendazole, mebendazole, or pyrantel pamoate are drugs of choice. These drugs should be avoided in early pregnancy. Piperazine is also effective and can be used in pregnancy but has lower efficacy (see<ulink url="ch0177#ch0177s0001">chapter 153</ulink> and references <link linkend="ch0170s000000li0053">1</link> and <link linkend="ch0170s000000li0069">17</link>).</para>
+      <para id="ch0170s000000p0049">It is important to treat other family members and close contacts and to decontaminate the environment by washing bed linen and clothes. Advice should be given on adequate hygiene and hand washing.</para>
+      <para id="ch0170s000000p0050">For a summary of<emphasis>E. vermicularis</emphasis>, see <link linkend="ch0170s000000a0041">Table 2</link> and <link linkend="ch0170s000000a0053">Table 4</link>.</para>
+      <sect2 id="ch0170s0016s0001">
+        <title>HOOKWORMS</title>
+        <anchor id="ch0170s000016a0002"/>
+        <anchor id="ch0170s000000a0069"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0017">
+      <title>Taxonomy</title>
+      <anchor id="ch0170s000017a0001"/>
+      <anchor id="ch0170s000000a0070"/>
+      <para id="ch0170s000000p0051">The organisms in this group, in the modern classification of biological species, are in clade V (Chromadoria: Rhabditina) of the Nematoda, in the order Rhabditida (Strongylida) and the family<emphasis>Ancylostomatidae</emphasis>.</para>
+      <para id="ch0170s000000p0052"><emphasis>Ancylostoma</emphasis> and <emphasis>Necator</emphasis> are the two genera of <emphasis>Ancylostomatidae</emphasis> that infect humans. Infective species include <emphasis>Ancylostoma duodenale</emphasis> (Old World hookworm), <emphasis>Ancylostoma ceylanicum</emphasis> (mainly described from Asia and the Pacific Islands) (<link linkend="ch0170s000000li0079">27</link>), and <emphasis>Necator americanus</emphasis> (New World hookworm).</para>
+    </sect1>
+    <sect1 id="ch0170s0018">
+      <title>Description</title>
+      <anchor id="ch0170s000018a0001"/>
+      <anchor id="ch0170s000000a0071"/>
+      <sect2 id="ch0170s0018s0001">
+        <title>Eggs</title>
+        <anchor id="ch0170s000018a0002"/>
+        <anchor id="ch0170s000000a0072"/>
+        <para id="ch0170s000000p0053">Eggs (<link linkend="ch0170s000000a0007">Fig. 2D</link>) of <emphasis>A. duodenale, A. ceylanicum</emphasis>, and <emphasis>Necator americanus</emphasis> are practically indistinguishable; they are oval shaped with a thin shell and measure approximately 56 to 75 by 36 to 40 μm. They have a clear space between the developing embryo and the thin eggshell. When passed, eggs are only at the four-cell stage. Development of larvae occurs in moist, shady, warm soil, where larvae hatch within 1 to 2 days.</para>
+      </sect2>
+      <sect2 id="ch0170s0018s0002">
+        <title>Larvae</title>
+        <anchor id="ch0170s000018a0003"/>
+        <anchor id="ch0170s000000a0073"/>
+        <para id="ch0170s000000p0054">First-stage rhabditoid larvae (<link linkend="ch0170s000000a0010">Fig. 3C</link>, <link linkend="ch0170s000000a0003">E</link>, and <link linkend="ch0170s000000a0003">G</link>) from the hatched eggs measure about 200 μm in length. The have a long buccal cavity (<link linkend="ch0170s000000a0010">Fig. 3E</link>) and an inconspicuous genital primordium. They feed on organic debris and undergo two further molts over a 5- to 8-day period. The infective, nonfeeding third-stage larvae measure from 500 to 700 μm. The larvae are ensheathed and have a esophagus:intestine ratio of 1:3. <emphasis>Ancylostoma</emphasis> larvae are generally longer than those of <emphasis>Necator</emphasis> and have a tail that gradually tapers to a rounded end, while <emphasis>N. americanus</emphasis> has a rapidly tapering tail ending in a point. The oral cavity of <emphasis>N. americanus</emphasis> filariform larvae is clearly visible and rhomboid, while that of <emphasis>A. duodenale</emphasis> larvae is less conspicuous. The sheath of <emphasis>N. americanus</emphasis> filariform larvae has prominent transverse striations; these are less prominent in <emphasis>A. duodenale.</emphasis> These infective filariform larvae remain viable in the soil for several weeks. Variations in the morphology of the filariform larvae have been used to differentiate <emphasis>A. duodenale</emphasis> from <emphasis>N. americanus</emphasis>, but are of no clinical significance as these are not freshly passed in human feces. The common dog hookworm <emphasis>Ancylostoma caninum</emphasis> may infect the human intestinal tract, but generally does not reach maturity, though it may cause eosinophilic enteritis (<link linkend="ch0170s000000li0076">24</link>). Recent reports of infections of humans with sexually mature <emphasis>A. caninum</emphasis> from South Africa (<link linkend="ch0170s000000li0077">25</link>) and India (<link linkend="ch0170s000000li0078">26</link>), based only on molecular identification of eggs passed in feces, require further investigation.</para>
+        <anchor id="ch0170s000000a0074"/>
+        <beginpage pagenum="2906"/>
+      </sect2>
+      <sect2 id="ch0170s0018s0003">
+        <title>Worms</title>
+        <anchor id="ch0170s000018a0004"/>
+        <anchor id="ch0170s000000a0075"/>
+        <para id="ch0170s000000p0055">For all three species, male worms (5 to 11 mm) are shorter than females (7 to 13 by 0.4 to 0.5 mm), and<emphasis>A. duodenale</emphasis> is generally longer and more sturdily built than <emphasis>N. americanus.</emphasis> The three hookworm species infecting humans can be differentiated on the basis of their anatomical differences in mouth parts and caudal and buccal anatomy. Adult worms are rarely seen since they remain firmly attached to the intestinal mucosa, feeding on blood obtained by puncturing the capillary network in the intestinal mucosa.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0019">
+      <title>Epidemiology and Prevention</title>
+      <anchor id="ch0170s000019a0001"/>
+      <anchor id="ch0170s000000a0076"/>
+      <para id="ch0170s000000p0056">An estimated 740 million people are infected in impoverished regions of the tropics and subtropics, especially in Asia, Latin America, the Caribbean, and sub-Saharan Africa (<link linkend="ch0170s000000li0055">3</link>). <emphasis>A. ceylanicum</emphasis>, although previously considered to be largely a parasite of cats and dogs, is prevalent in humans in Southeast Asia and is also reported from the Pacific Islands (<link linkend="ch0170s000000li0079">27</link>, <link linkend="ch0170s000000li0080">28</link>). Additionally, in a study conducted in Cambodia, sequencing of the cytochrome oxidase-1 gene has identified two groups of <emphasis>A. ceylanicum</emphasis>, the first apparently restricted entirely to infections in humans and the second group including isolates from humans and dogs, thus confirming that <emphasis>A. ceylanicum</emphasis> represents a true zoonosis (<link linkend="ch0170s000000li0081">29</link>). In addition to drug therapy, preventive measures consist of health education about personal hygiene, the need to wear shoes, and avoidance of soil with possible fecal contamination. A double-blinded, randomized, controlled, dose-escalation phase 1 clinical trial confirms that coadministration of the two hookworm vaccine candidates is safe and well tolerated in children (<link linkend="ch0170s000000li0082">30</link>).</para>
+      <figure id="ch0170s000000f0008"><title><phrase role="figureLabel"><anchor id="ch0170s000000a0077"/><link linkend="ch0170s000000a0079"><emphasis role="strong">FIGURE 8</emphasis></link></phrase> Life cycle of hookworms. Image courtesy of DPDx, Centers for Disease Control and Prevention (<ulink url="https://www.cdc.gov/dpdx">https://www.cdc.gov/dpdx</ulink>).
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0170f17.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+    </sect1>
+    <sect1 id="ch0170s0020">
+      <title>Transmission and Life Cycle (Fig. 8)</title>
+      <anchor id="ch0170s000020a0001"/>
+      <anchor id="ch0170s000000a0078"/>
+      <anchor id="ch0170s000000a0079"/>
+      <para id="ch0170s000000p0057">Eggs are passed in the feces into the environment, where they hatch into rhabditiform larvae that mature into filariform larvae, with potential to infect new hosts. Entry of third-stage or filariform larvae (infective stage) by direct penetration of the skin initiates human infection; within 10 days this is followed by migration to the lungs.<emphasis>A. duodenale</emphasis> larvae can also infect if swallowed, to result in direct maturation to the adult stage in the anterior small intestine. In contrast, larvae of <emphasis>N. americanus</emphasis> require an obligatory lung migration to initiate infection. Larvae leave the lungs after 3 to 5 weeks, travel up the airways to the trachea and pharynx, then enter the gastrointestinal tract and attach to the intestinal mucosa, where they mature into adults (<link linkend="ch0170s000000a0038">Table 1</link>). Attachment and the release of anticlotting factors results in blood loss and is greater with <emphasis>A. duodenale.</emphasis> Hookworms may survive in the host for several years. The prepatent period from larva penetration to egg production is 4 to 8 weeks.</para>
+    </sect1>
+    <sect1 id="ch0170s0021">
+      <title>Clinical Significance</title>
+      <anchor id="ch0170s000021a0001"/>
+      <anchor id="ch0170s000000a0080"/>
+      <para id="ch0170s000000p0058">The major clinical manifestation of hookworm infection is iron-deficiency anemia due to intestinal blood loss and depletion of iron stores. The degree of iron deficiency induced by hookworms depends on the intensity and duration of infection, the species of hookworm, and the iron status of the host. It has been estimated that a single<emphasis>A. duodenale</emphasis> worm can withdraw as much as 0.2 ml of blood per day, whereas <emphasis>N. americanus</emphasis> withdraws approximately 0.05 ml. <emphasis>A. ceylanicum</emphasis> has also been recorded as causing a similar jejunal infection with associated anemia. In other cases, infection has been limited to the lower gastrointestinal tract, with symptoms more comparable to those seen with <emphasis>A. caninum</emphasis> eosinophilic enteritis (<link linkend="ch0170s000000li0076">24</link>). Young children, women of reproductive age, and pregnant women are most at risk for iron-deficiency anemia because of inadequate dietary iron and reduced iron reserves. Anemia during pregnancy is linked to maternal morbidity and mortality, impaired lactation, and prematurity and/or low-birth-weight infants. In children, iron-deficiency anemia may be associated with impaired neurocognitive development, reduced school performance, and exercise intolerance.</para>
+      <anchor id="ch0170s000000a0081"/>
+      <beginpage pagenum="2907"/>
+      <para id="ch0170s000000p0059">Patients with light worm burdens are usually asymptomatic. Moderate and heavy worm burdens cause epigastric pain and tenderness, nausea, weight loss, and diarrhea. This may lead to protein-losing enteropathy and hypoalbuminemia. In those who develop iron-deficiency anemia, common symptoms are lethargy and fatigue, exertional dyspnea, and palpitations. In children, chronic malnutrition and developmental delay may occur.</para>
+      <para id="ch0170s000000p0060">A pruritic rash is often present at the site of penetration of larvae (“ground itch”). This must be differentiated from cercarial dermatitis and creeping eruptions from other causes. In some patients, mild cough and wheezing occur in response to larval migration through the lungs. For more on the clinical manifestations and review of hookworms, see references<link linkend="ch0170s000000li0069">17</link> and <link linkend="ch0170s000000li0083">31</link> and <link linkend="ch0170s000000a0041">Table 2</link>.</para>
+      <para id="ch0170s000000p0061">Peripheral blood eosinophilia may be seen at different stages of larval migration (<link linkend="ch0170s000000a0044">Table 3</link>).</para>
+    </sect1>
+    <sect1 id="ch0170s0022">
+      <title>Laboratory Detection</title>
+      <anchor id="ch0170s000022a0001"/>
+      <anchor id="ch0170s000000a0082"/>
+      <sect2 id="ch0170s0022s0001">
+        <title>Microscopy</title>
+        <anchor id="ch0170s000022a0002"/>
+        <anchor id="ch0170s000000a0083"/>
+        <para id="ch0170s000000p0062">The primary diagnosis of infection is by detection of eggs in feces. Multiple specimens taken on separate days may be required. For optimal yield, both direct and concentration methods such as formalin-ethyl acetate sedimentation or mini-FLOTAC should be used. Eggs are non-bile stained and usually have a 4- to 8-cell-stage embryo (<link linkend="ch0170s000000a0007">Fig. 2D</link>). Occasionally, a 16- to 32-cell-stage embryo or a developing larva may be seen, especially if there is delay in processing an unfixed fecal specimen. Hookworm eggs may be confused with <emphasis>Trichostrongylus</emphasis> eggs, but eggs of the latter species are more elongated (<link linkend="ch0170s000000a0007">Fig. 2E</link>), often have a unipolar tapering, and generally are in an advanced stage of cleavage upon passage. Some zoonotic helminths of primates, such as <emphasis>Oesophagostomum</emphasis> spp., <emphasis>Strongyloides fuelleborni</emphasis>, and <emphasis>Ternidens deminutus</emphasis>, may also be confused with hookworm eggs, though the size of these eggs does not fall within the normal hookworm egg size range (<link linkend="ch0170s000000li0084">32</link>).</para>
+      </sect2>
+      <sect2 id="ch0170s0022s0002">
+        <title>Culture</title>
+        <anchor id="ch0170s000022a0003"/>
+        <anchor id="ch0170s000000a0084"/>
+        <para id="ch0170s000000p0063">Baermann sedimentation or culture for the detection of<emphasis>Strongyloides stercoralis</emphasis> larvae by the Harada-Mori technique or agar plate methods may also demonstrate the presence of hookworm larvae (see “<emphasis>Strongyloides stercoralis</emphasis>” below for details) (<link linkend="ch0170s000000a0010">Fig. 3C</link> to <link linkend="ch0170s000000a0003">G</link>). Hookworm larvae can be differentiated from <emphasis>Strongyloides stercoralis</emphasis> larvae by their morphological features (<link linkend="ch0170s000000a0010">Fig. 3A</link> to <link linkend="ch0170s000000a0003">G</link>). Hookworm larvae are uncommon in freshly passed and adequately fixed fecal specimens, but motile larvae may be seen occasionally in expectorated sputum.</para>
+      </sect2>
+      <sect2 id="ch0170s0022s0003">
+        <title>Macroscopic examination</title>
+        <anchor id="ch0170s000022a0004"/>
+        <anchor id="ch0170s000000a0085"/>
+        <para id="ch0170s000000p0064">Usually the worm is firmly attached to the small bowel mucosa, and they are rarely passed in feces. Worms may be detected during gastroscopy or colonoscopy and a specimen may be recovered. The adult worm can be identified by the structure of the buccal capsule and the morphology of the male bursal rays.</para>
+        <para id="ch0170s000000p0065">The diagnosis of hookworm infection should be considered in people who have resided in areas where the infection is endemic, especially if they have eosinophilia or iron-deficiency anemia.</para>
+      </sect2>
+      <sect2 id="ch0170s0022s0004">
+        <title>Nucleic Acid Detection</title>
+        <anchor id="ch0170s000022a0005"/>
+        <anchor id="ch0170s000000a0086"/>
+        <para id="ch0170s000000p0066">Real-time PCR has been shown to have a higher sensitivity than microscopy for the detection of hookworm infection, particularly in low-intensity infections. This approach has the added advantage of allowing species-level identification. Some recently released commercial diagnostic helminth multiple real-time PCRs incorporate<emphasis>N. americanus</emphasis> and <emphasis>Ancylostoma</emphasis> spp. primers (<link linkend="ch0170s000000li0061">9</link>).</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0023">
+      <title>Treatment</title>
+      <anchor id="ch0170s000023a0001"/>
+      <anchor id="ch0170s000000a0087"/>
+      <para id="ch0170s000000p0067">The two most practical and effective drugs for treating hookworm infections are albendazole or mebendazole. These benzimidazoles should not be used in the first trimester of pregnancy and in children &lt;12 months of age. Pyrantel pamoate is also effective and can be used in pregnancy (see<ulink url="ch0177#ch0177s0001">chapter 153</ulink> and references <link linkend="ch0170s000000li0053">1</link> and <link linkend="ch0170s000000li0069">17</link>).</para>
+      <para id="ch0170s000000p0068">Iron supplementation may be required for those who are iron deficient.</para>
+      <para id="ch0170s000000p0069">For a summary of hookworms, see<link linkend="ch0170s000000a0041">Table 2</link> and <link linkend="ch0170s000000a0053">Table 4</link>.</para>
+      <sect2 id="ch0170s0023s0001">
+        <title>STRONGYLOIDES STERCORALIS</title>
+        <anchor id="ch0170s000023a0002"/>
+        <anchor id="ch0170s000000a0088"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0024">
+      <title>Taxonomy</title>
+      <anchor id="ch0170s000024a0001"/>
+      <anchor id="ch0170s000000a0089"/>
+      <para id="ch0170s000000p0070">The organisms in this group, in the modern classification of biological species, are in clade V (Chromadoria: Rhabditina) of the Nematoda, in the order Rhabditida (Strongylida) and the family<emphasis>Strongylidae</emphasis>.</para>
+      <para id="ch0170s000000p0071">Members of the family<emphasis>Strongylidae</emphasis> exhibit an irregular alternation of generations, with a parasitic parthenogenetic female alternating with a free-living sexual generation. Only one genus, <emphasis>Strongyloides,</emphasis> occurs in humans.</para>
+    </sect1>
+    <sect1 id="ch0170s0025">
+      <title>Description, Transmission, and Life Cycle (Fig. 9)</title>
+      <anchor id="ch0170s000025a0001"/>
+      <anchor id="ch0170s000000a0090"/>
+      <anchor id="ch0170s000000a0091"/>
+      <sect2 id="ch0170s0025s0001">
+        <title>Eggs</title>
+        <anchor id="ch0170s000025a0002"/>
+        <anchor id="ch0170s000000a0092"/>
+        <para id="ch0170s000000p0072">Eggs of the parasitic female are deposited within the mucosa of the small intestine and usually hatch within the crypts of Lieberkuhn before reaching the lumen. As a result, they are rarely excreted in the feces (<emphasis>Strongyloides fuelleborni fuelleborni</emphasis>, seen in Africa and Asia, and <emphasis>Strongyloides fuelleborni kellyi</emphasis>, found on the island of New Guinea, are the exceptions; see below). Eggs of the free-living adult female are partially embryonated and oval in shape and measure approximately 50 to 70 μm in length.</para>
+        <figure id="ch0170s000000f0009"><title><phrase role="figureLabel"><anchor id="ch0170s000000a0093"/><link linkend="ch0170s000000a0091"><emphasis role="strong">FIGURE 9</emphasis></link></phrase> Life cycle of <emphasis>Strongyloides stercoralis.</emphasis> Image courtesy of DPDx, Centers for Disease Control and Prevention (<ulink url="https://www.cdc.gov/dpdx">https://www.cdc.gov/dpdx</ulink>).
+</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0170f18.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </sect2>
+      <sect2 id="ch0170s0025s0002">
+        <title>Larvae</title>
+        <anchor id="ch0170s000025a0003"/>
+        <anchor id="ch0170s000000a0094"/>
+        <para id="ch0170s000000p0073">First- and second-stage rhabditiform larvae (<link linkend="ch0170s000000a0010">Fig. 3A</link>, <link linkend="ch0170s000000a0003">B</link>, and <link linkend="ch0170s000000a0003">D</link>) measure approximately 180 to 380 by 14 to 20 μm and are characterized by a muscular esophagus comprising the anterior third of the body. A short buccal cavity (<link linkend="ch0170s000000a0010">Fig. 3A</link> and <link linkend="ch0170s000000a0003">D</link>) and a prominent genital primordium located midbody (<link linkend="ch0170s000000a0010">Fig. 3B</link>) help to distinguish them from morphologically similar nematodes such as hookworms (<link linkend="ch0170s000000a0010">Fig. 3C</link> and <link linkend="ch0170s000000a0003">E</link>). In the soil, rhabditiform larvae follow a direct or indirect course of development. In the direct cycle, larvae develop rapidly into infective third-stage filariform larvae; in the indirect cycle, first-stage larvae develop into third-stage rhabditiform larvae and then moult to free-living adult male and female worms. Third-stage filariform larvae are 400 to 700 by 12 to 20 μm, and the ratio of eosophageal to intestinal length is approximately 1:1. The tail of the larva has a subtle v-shaped notch (<link linkend="ch0170s000000a0010">Fig. 3F</link> and <link linkend="ch0170s000000a0003">G</link>) but may be difficult to see.</para>
+        <anchor id="ch0170s000000a0095"/>
+        <beginpage pagenum="2908"/>
+      </sect2>
+      <sect2 id="ch0170s0025s0003">
+        <title>Worms</title>
+        <anchor id="ch0170s000025a0004"/>
+        <anchor id="ch0170s000000a0096"/>
+        <para id="ch0170s000000p0074">Parasitic male forms do not occur. Parasitic females are small and thin, measuring approximately 2 to 3 mm in length and 30 to 50 μm in width. The anterior portion is thinner than the posterior and contains the esophagus.</para>
+        <para id="ch0170s000000p0075">The free-living adult female is approximately half the size (1 to 1.5 mm) of its parasitic counterpart, although nearly twice as thick (approximately 85 μm). While the reproductive systems are morphologically similar, the uterus in the free-living adult female contains significantly more eggs. The free-living adult male is slightly smaller than the female (0.95 to 1.2 mm) and approximately 55 μm in width, and has prominent paired spicules at the posterior end. The free-living stage of<emphasis>S. stercoralis</emphasis> only exists for one generation, and all progeny become infective filariform larvae (<link linkend="ch0170s000000li0085">33</link>).</para>
+        <para id="ch0170s000000p0076">Transmission occurs when filariform (infective-stage) larvae penetrate the skin or mucous membranes and enter the venous circulation. Larvae may migrate directly through the organs to the gut or may be carried through the circulation to the lungs, where they penetrate alveolar walls, migrate through the tracheobronchial tree, are swallowed, and then embed within the mucosa of the upper small intestine. Here, they reach maturity and commence egg production by the process of parthenogenesis. The eggs hatch within the intestinal crypts to release rhabditiform larvae, most of which are excreted in feces (diagnostic stage) (<link linkend="ch0170s000000li0085">33</link>).</para>
+        <anchor id="ch0170s000000a0097"/>
+        <beginpage pagenum="2909"/>
+        <para id="ch0170s000000p0077">Some rhabditiform larvae develop into infective filariform larvae in the bowel lumen or crypts of the anus and maintain a cycle of repeated migration either by penetration of the mucosa of the colon or small intestine or externally by crossing perianal skin, to repeat the cycle of maturation within the same host. This process of autoinfection results in chronic infections that may persist for 40 years or more. The prepatent period (from larval penetration to egg production) is 2 to 4 weeks.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0026">
+      <title>Epidemiology and Prevention</title>
+      <anchor id="ch0170s000026a0001"/>
+      <anchor id="ch0170s000000a0098"/>
+      <para id="ch0170s000000p0078"><emphasis>Strongyloides</emphasis> live in warm, moist soil and are widely distributed in the tropics and subtropics, with distribution similar to hookworms. Strongyloidiasis still occurs among underserved or marginalized communities in some high-income countries and temperate regions of the world (<link linkend="ch0170s000000li0086">34</link>–<link linkend="ch0170s000000li0090">38</link>), including some regions of the United States (<link linkend="ch0170s000000li0086">34</link>, <link linkend="ch0170s000000li0087">35</link>). There are an estimated 386 to 614 million patients infected with <emphasis>S. stercoralis</emphasis> worldwide (<link linkend="ch0170s000000li0091">39</link>, <link linkend="ch0170s000000li0092">40</link>). Analysis of the limited prevalence data available identifies the geographical distribution and risk factors for <emphasis>Strongyloides</emphasis> infection. In particular there are hotspots for infection identified, especially in Southeast Asia (<link linkend="ch0170s000000li0093">41</link>). However, the true prevalence is uncertain due to the low sensitivity of conventional methods typically used for the detection of other STH infections. More sensitive methods such as the Baermann or APC method are required to detect the variably low numbers of larvae typically excreted in chronic infection (<link linkend="ch0170s000000li0054">2</link>, <link linkend="ch0170s000000li0094">42</link>). At-risk groups include those living in areas where the parasite is endemic, and immigrants and refugees, indigenous peoples, and war veterans previously exposed in these regions (<link linkend="ch0170s000000li0095">43</link>, <link linkend="ch0170s000000li0096">44</link>). Screening and active treatment of patients undergoing immunosuppression should be considered for at-risk groups (<link linkend="ch0170s000000li0063">11</link>–<link linkend="ch0170s000000li0065">13</link>). Patients with hyperinfection syndrome also pose an infection risk for immediate family, laboratory workers, and those providing nursing care.</para>
+      <para id="ch0170s000000p0079">Preventive measures include good personal hygiene and wearing shoes in areas where transmission occurs. Comparison of genotypes of<emphasis>S. stercoralis</emphasis> isolated from dogs and humans has illustrated that one genotypic clade of <emphasis>S. stercoralis</emphasis> is found in dogs and humans, while another is found in dogs only, raising the possibility that dogs may represent a zoonotic source of infection (<link linkend="ch0170s000000li0097">45</link>).</para>
+    </sect1>
+    <sect1 id="ch0170s0027">
+      <title>Clinical Significance</title>
+      <anchor id="ch0170s000027a0001"/>
+      <anchor id="ch0170s000000a0099"/>
+      <para id="ch0170s000000p0080"><emphasis>S. stercoralis</emphasis> infections are often chronic, lasting for several decades. Most patients have low worm burdens and are asymptomatic or have intermittent cutaneous and/or gastrointestinal symptoms. Intermittent or chronic diarrhea, abdominal pain and bloating, nausea, and anorexia are the main gastrointestinal symptoms. Other manifestations (e.g., dermatological, pulmonary) are less common.</para>
+      <para id="ch0170s000000p0081">Recurrent pruritic, slightly serpiginous, erythematous rashes may develop rapidly due to larval migration in the skin (“larva currens”). These are seen most commonly on the buttocks, groin, and trunk; movement under the skin is relatively rapid (several centimeters per hour) and may continue for 1 to 2 days. Other, less distinctive urticarial and papular rashes also occur. In contrast, cutaneous larva migrans due to animal hookworm species is very serpiginous and develops very slowly over weeks to months. Although pulmonary symptoms are uncommon in uncomplicated strongyloidiasis, passage of larvae through the lung may be associated with a cough, wheezing and dyspnea, and patchy infiltrates upon radiography (Loeffler-like syndrome).</para>
+      <para id="ch0170s000000p0082">In chronic infection it is thought that there is a balance between immunity and the level of infection. However, this equilibrium may be lost when illness or drug therapy leads to immunosuppression. Exacerbation of symptoms can occur in as little as 6 days after commencement of treatment with corticosteroids. The resulting disseminated strongyloidiasis or hyperinfection syndrome has a very high fatality rate (<link linkend="ch0170s000000li0085">33</link>, <link linkend="ch0170s000000li0097">45</link>, <link linkend="ch0170s000000li0098">46</link>). Other conditions predisposing to these syndromes include chemotherapy, HTLV-1 infection, alcoholism, kidney disease, bone marrow transplantation, and hypogammaglobulinemia (<link linkend="ch0170s000000li0069">17</link>, <link linkend="ch0170s000000li0089">37</link>).</para>
+      <para id="ch0170s000000p0083">In disseminated disease, migration of larvae extends to multiple organs, and this can be associated with bacteremia and even meningitis caused by Gram-negative bacilli carried from the gut during migration of the larvae. Hyperinfection results from proliferation of worms with no spreading beyond the normal pattern of migration. Large numbers of larvae (and occasionally embryonated eggs) in stool and sputum produce severe gastrointestinal and/or respiratory symptoms (<link linkend="ch0170s000000li0099">47</link>). Within the bowel, the range of symptoms include generalized inflammation, colitis, proctitis, and mucosal ulceration. Most cases of strongyloidiasis associated with solid organ transplantation have been due to the reactivation of a latent infection in the recipient as a result of the immunosuppressive therapy; however, donor-derived infections are becoming increasingly frequent (<link linkend="ch0170s000000li0100">48</link>). Current practice guidelines need to be updated to incorporate immunological and molecular techniques for the rapid screening for strongyloidiasis prior to transplantation, and empirical treatment with ivermectin should be considered (<link linkend="ch0170s000000li0095">43</link>).</para>
+      <para id="ch0170s000000p0084">For more on the clinical manifestations of<emphasis>S. stercoralis</emphasis>, see references <link linkend="ch0170s000000li0069">17</link> and <link linkend="ch0170s000000li0101">49</link> and <link linkend="ch0170s000000a0041">Table 2</link>.</para>
+    </sect1>
+    <sect1 id="ch0170s0028">
+      <title>Laboratory Detection</title>
+      <anchor id="ch0170s000028a0001"/>
+      <anchor id="ch0170s000000a0100"/>
+      <para id="ch0170s000000p0085">The laboratory diagnosis of strongyloidiasis can be difficult (<link linkend="ch0170s000000li0102">50</link>, <link linkend="ch0170s000000li0103">51</link>). Microscopy, including concentration techniques, has low sensitivity for the detection of strongyloidiasis (<link linkend="ch0170s000000li0102">50</link>). Diagnosis is based on demonstrating the presence of the larvae in feces, detecting DNA by real-time PCR, or demonstrating antibodies to <emphasis>S. stercoralis</emphasis> in blood. The choice may be based on practicalities in different clinical settings (<link linkend="ch0170s000000li0104">52</link>, <link linkend="ch0170s000000li0105">53</link>). Currently, serology is the optimal screening method, but will not detect all cases. A combination of serology, APC, and PCR may be necessary for selected cases (<link linkend="ch0170s000000li0103">51</link>, <link linkend="ch0170s000000li0106">54</link>).</para>
+      <sect2 id="ch0170s0028s0001">
+        <title>Microscopy and Culture</title>
+        <anchor id="ch0170s000028a0002"/>
+        <anchor id="ch0170s000000a0101"/>
+        <para id="ch0170s000000p0086">Microscopy of feces may detect the rhabditiform larvae; eggs or adult worms are very rarely detected in cases with very heavy infection. In chronic infection, the sensitivity of microscopy is generally low, as larvae are shed sporadically and numbers depend on the stage and severity of the infection. For this reason, multiple specimens collected over several days should be examined. Coproculture is an alternative method of detection of larvae in freshly passed stool specimen. Ideally, this should be attempted for all suspected cases, especially with patients from areas where the infection is endemic. It is important that the specimen be sent directly to the laboratory, without refrigeration or addition of preservative. The critical factor in culture methods is that large quantities of stool can be processed. This improves the sensitivity compared with standard procedures such as formalin-ethyl acetate concentration or Kato-Katz smear. Care should be exercised in the handling of these cultures, as the larvae present are filariform or infectious and capable of crossing intact skin. The various methods available for culture are as follows (for details, see references<link linkend="ch0170s000000li0066">14</link>).</para>
+        <anchor id="ch0170s000000a0102"/>
+        <beginpage pagenum="2910"/>
+        <sect3 id="ch0170s0028s0001s0001">
+          <title>Agar Plate Culture</title>
+          <anchor id="ch0170s000028a0003"/>
+          <anchor id="ch0170s000000a0103"/>
+          <para id="ch0170s000000p0087">A large amount (2 to 3 g) of unrefrigerated feces is placed on the center of a nutrient agar plate, and the plate is sealed and incubated at room temperature. If larvae are present, they travel away from the initial inoculum, carrying bacteria from the feces. Colonies of these bacteria appear on the surface as tracks (or occasionally inside the agar) with a characteristic sinusoidal pattern (<link linkend="ch0170s000000a0010">Fig. 3H</link>). The plates are examined under a dissecting microscope for confirmation of the presence of larvae. For safety, larvae should be recovered in a solution containing formalin or ethanol to allow confirmation of identity. This is the most sensitive, safest, and most acceptable culture method to perform in a laboratory and is now the recommended procedure.</para>
+        </sect3>
+        <sect3 id="ch0170s0028s0001s0002">
+          <title>Harada-Mori Technique</title>
+          <anchor id="ch0170s000028a0004"/>
+          <anchor id="ch0170s000000a0104"/>
+          <para id="ch0170s000000p0088">The unrefrigerated fecal specimen is smeared on the top of a strip of filter paper, then dipped into 3 ml of water in a 15-ml sealed centrifuge tube. The tube is held at 25°C in the dark. After 7 to 10 days the water can be tested by microscopy for the presence of larvae.</para>
+        </sect3>
+        <sect3 id="ch0170s0028s0001s0003">
+          <title>Petri Dish Methods</title>
+          <anchor id="ch0170s000028a0005"/>
+          <anchor id="ch0170s000000a0105"/>
+          <para id="ch0170s000000p0089">Petri dish methods use either filter paper or a watch glass to hold the specimen. The larvae migrate to fresh water and light.</para>
+        </sect3>
+        <sect3 id="ch0170s0028s0001s0004">
+          <title>Baermann Technique</title>
+          <anchor id="ch0170s000028a0006"/>
+          <anchor id="ch0170s000000a0106"/>
+          <para id="ch0170s000000p0090">The Baermann technique is a modified funnel device that allows sampling of the water used to moisten the fecal specimen placed on a wire mesh covered with gauze. It relies on the principle that larvae will actively migrate out of the feces to fresh water and higher temperature.</para>
+          <para id="ch0170s000000p0091">Occasionally, hookworm larvae may hatch in feces that have been left at warm temperatures for long periods before processing. In contrast with<emphasis>S. stercoralis</emphasis>, these rhabditiform hookworm larvae have a long buccal cavity and inconspicuous genital primordium (<link linkend="ch0170s000000a0010">Fig. 3A</link> to <link linkend="ch0170s000000a0003">E</link>). The presence of larvae of <emphasis>Strongyloides</emphasis> in expectorated sputum or duodenal aspirate via an enteroscope may also be demonstrated. Filariform <emphasis>Strongyloides</emphasis> larvae may be seen in feces or sputum in cases of hyperinfection or in cases in which infection has been identified by the culture methods described above.</para>
+        </sect3>
+        <sect3 id="ch0170s0028s0001s0005">
+          <title>Nucleic Acid Detection</title>
+          <anchor id="ch0170s000028a0007"/>
+          <anchor id="ch0170s000000a0107"/>
+          <para id="ch0170s000000p0092">Diagnosis by molecular techniques has been developed (<link linkend="ch0170s000000li0107">55</link>) and is now available in many reference laboratories. Various formats for detecting DNA in feces such as real-time PCR, LAMP, and nested PCR have been shown to be useful (<link linkend="ch0170s000000li0108">56</link>–<link linkend="ch0170s000000li0110">58</link>). Overall, the specificity is very high, but the sensitivity is variable due to low numbers and intermittent excretion of larvae in feces during different phases of the infection. Good reviews comparing different testing protocols are available (<link linkend="ch0170s000000li0059">7</link>). Recently developed commercial diagnostic multiplex real-time PCR assays for the detection of gastrointestinal helminths include <emphasis>Strongyloides</emphasis> genus primers.</para>
+        </sect3>
+        <sect3 id="ch0170s0028s0001s0006">
+          <title>Other Tests</title>
+          <anchor id="ch0170s000028a0008"/>
+          <anchor id="ch0170s000000a0108"/>
+          <para id="ch0170s000000p0093">Although peripheral blood eosinophilia is common, especially during an initial acute infection, it does not reliably correlate with infection and may be intermittent in chronic infection. Eosinophil count may be used post treatment along with serology (<link linkend="ch0170s000000li0111">60</link>). The concomitant use of steroids may significantly decrease eosinophilia in infected patients (<link linkend="ch0170s000000li0112">61</link>) (<link linkend="ch0170s000000a0044">Table 3</link>).</para>
+        </sect3>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0029">
+      <title>Serologic Tests</title>
+      <anchor id="ch0170s000029a0001"/>
+      <anchor id="ch0170s000000a0109"/>
+      <para id="ch0170s000000p0094">Demonstration of anti-<emphasis>Strongyloides</emphasis> antibodies in blood should be used as a screening test or as an adjunct for diagnosis. In most cases it is useful in monitoring treatment. Antibody levels decline after 6 to 12 months of effective treatment and may be negative by 12 to 24 months (<link linkend="ch0170s000000li0112">61</link>, <link linkend="ch0170s000000li0113">62</link>). It should be noted that a small number of patients with active infection (especially those immunocompromised) will not generate detectable antibody responses, and therefore APC or PCR may be necessary to include in any diagnostic algorithm. Multiple commercial and noncommercial diagnostic ELISA assays are available, employing crude <emphasis>S. stercoralis</emphasis> or <emphasis>Strongyloides ratti</emphasis> larval antigens or newer recombinant antigens such as NIE (31 kDa antigen). The sensitivity and specificity of these assays vary by antigen, but are generally between 75 to 94% and 82 to 96%, respectively (<link linkend="ch0170s000000li0114">63</link>). Dried blood spots have been shown to be a useful specimen in remote areas (<link linkend="ch0170s000000li0115">64</link>). Sensitivity may be lower in severely immunocompromised patients. Cross-reactions in patients with filarial and other nematode infections may occur. If antibodies are detected, efforts should be made to establish a parasitological diagnosis (microscopic and culture) and to exclude infection with other parasites that could result in cross-reacting antibodies. <emphasis>Strongyloides</emphasis> serology should be performed for all at-risk candidates for immunosuppressive therapy (see below). Assessing the accuracy and sensitivity of serological methods is difficult because of the lack of sensitivity of a fecal-based reference (“gold”) standard. Point-of-care lateral flow assays are also being developed; however, the specificity and sensitivity of these may be lower than the standard ELISA techniques (<link linkend="ch0170s000000li0116">65</link>).</para>
+      <sect2 id="ch0170s0029s0001">
+        <title>Summary of Serologic Tests</title>
+        <anchor id="ch0170s000029a0002"/>
+        <anchor id="ch0170s000000a0110"/>
+        <itemizedlist>
+          <listitem id="ch0170s000000li0042">
+            <para>Low specificity compared to microscopy and PCR, so should be used as an adjunct to diagnosis</para>
+          </listitem>
+          <listitem id="ch0170s000000li0043">
+            <para>Sensitivity and specificity differ substantially between assays; newer assays using recombinant antigens (e.g., NIE) perform better than others</para>
+          </listitem>
+          <listitem id="ch0170s000000li0044">
+            <para>Good and easy screening tool, especially in immunocompetent individuals and before immunosuppression is undertaken</para>
+          </listitem>
+          <listitem id="ch0170s000000li0045">
+            <para>False negatives in immunocompromised individuals may occur</para>
+          </listitem>
+          <listitem id="ch0170s000000li0046">
+            <para>Useful for followup after treatment, but it may take 12 months or longer to see a substantial fall in titer or to become negative</para>
+          </listitem>
+        </itemizedlist>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0030">
+      <title>Screening of At-Risk Patients</title>
+      <anchor id="ch0170s000030a0001"/>
+      <anchor id="ch0170s000000a0111"/>
+      <para id="ch0170s000000p0095">Strongyloidiasis screening should be considered in the following:</para>
+      <itemizedlist>
+        <listitem id="ch0170s000000li0047">
+          <para>Patients who are on or about to begin corticosteroid therapy or other immunosuppressants</para>
+        </listitem>
+        <listitem id="ch0170s000000li0048">
+          <para>Individuals known to have HTLV-1 infection</para>
+        </listitem>
+        <listitem id="ch0170s000000li0049">
+          <para>Patients with hematologic malignancies including leukemias and lymphomas</para>
+        </listitem>
+        <listitem id="ch0170s000000li0050">
+          <para>Patients who have had or are being considered for organ transplantation</para>
+        </listitem>
+        <listitem id="ch0170s000000li0051">
+          <para>Individuals with persistent peripheral or unexplained eosinophilia</para>
+        </listitem>
+        <listitem id="ch0170s000000li0052">
+          <para>Individuals with recent or remote travel histories to endemic areas, or areas with a known high prevalence of infection</para>
+        </listitem>
+      </itemizedlist>
+      <para id="ch0170s000000p0096">Of note, though persons with HIV/AIDS can have disseminated strongyloidiasis or hyperinfection syndrome, observational studies have not shown an increased risk in this population (<link linkend="ch0170s000000li0117">66</link>).</para>
+      <anchor id="ch0170s000000a0112"/>
+      <beginpage pagenum="2911"/>
+      <para id="ch0170s000000p0097">For testing algorithms, see references<link linkend="ch0170s000000li0063">11</link>, <link linkend="ch0170s000000li0064">12</link>, and <link linkend="ch0170s000000li0065">13</link>.</para>
+    </sect1>
+    <sect1 id="ch0170s0031">
+      <title>Treatment</title>
+      <anchor id="ch0170s000031a0001"/>
+      <anchor id="ch0170s000000a0113"/>
+      <para id="ch0170s000000p0098"><emphasis>Strongyloides stercoralis</emphasis> infection should always be treated because of the potential for developing severe complicated disease. Ivermectin is the drug of choice. Repeated cycles of treatment may be required in immunocompromised patients. Ivermectin should not be used in pregnancy or in children &lt;15 kg. Albendazole is less efficacious than ivermectin. Thiabendazole, although effective, is no longer used in many countries due to frequent severe side effects (see <ulink url="ch0177#ch0177s0001">chapter 153</ulink> and references <link linkend="ch0170s000000li0053">1</link>, <link linkend="ch0170s000000li0069">17</link>, and <link linkend="ch0170s000000li0101">49</link>).</para>
+      <para id="ch0170s000000p0099">Monitoring (usually 6 to 12 months after treatment) with serology, stool microscopy (if positive), and eosinophil count is recommended until infection is eradicated. Guidelines are available for refugees and migrants from countries of endemicity (<link linkend="ch0170s000000li0056">4</link>).</para>
+      <para id="ch0170s000000p0100">For a summary of<emphasis>S. stercoralis</emphasis>, see <link linkend="ch0170s000000a0041">Table 2</link> and <link linkend="ch0170s000000a0053">Table 4</link>.</para>
+      <sect2 id="ch0170s0031s0001">
+        <title>STRONGYLOIDES FUELLEBORNI FUELLEBORNI AND STRONGYLOIDES FUELLEBORNI KELLYI</title>
+        <anchor id="ch0170s000031a0002"/>
+        <anchor id="ch0170s000000a0114"/>
+        <para id="ch0170s000000p0101"><emphasis>Strongyloides f. fuelleborni</emphasis> is a non-human primate parasite found in non-human primates in Africa and Asia. Most human infections are asymptomatic.</para>
+        <para id="ch0170s000000p0102"><emphasis>Strongyloides f. kellyi</emphasis> has only been reported from the island of New Guinea. This infection is thought to be asymptomatic in adults but may cause a severe protein-loss enteropathy and abdominal distension (“swollen belly syndrome”) in infants with high-worm-burden infections (<link linkend="ch0170s000000li0118">67</link>). In contrast to <emphasis>S. stercoralis</emphasis>, some ova of <emphasis>S. fuelleborni</emphasis> are found in feces in large numbers and resemble those of hookworms, but are smaller (45 to 55 μm by 30 to 35 μm) and contain a developing larva on passage (<link linkend="ch0170s000000li0119">68</link>).</para>
+      </sect2>
+      <sect2 id="ch0170s0031s0002">
+        <title>TRICHURIS TRICHIURA (WHIPWORM)</title>
+        <anchor id="ch0170s000031a0003"/>
+        <anchor id="ch0170s000000a0115"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0032">
+      <title>Taxonomy</title>
+      <anchor id="ch0170s000032a0001"/>
+      <anchor id="ch0170s000000a0116"/>
+      <para id="ch0170s000000p0103">The organisms in this group, in the modern classification of biological species, are in clade I (Dorylaimia) of the Nematoda, in the order Trichocephalida and the family Trichuridae.</para>
+    </sect1>
+    <sect1 id="ch0170s0033">
+      <title>Description</title>
+      <anchor id="ch0170s000033a0001"/>
+      <anchor id="ch0170s000000a0117"/>
+      <sect2 id="ch0170s0033s0001">
+        <title>Eggs</title>
+        <anchor id="ch0170s000033a0002"/>
+        <anchor id="ch0170s000000a0118"/>
+        <para id="ch0170s000000p0104">Eggs of<emphasis>T. trichiura</emphasis> (<link linkend="ch0170s000000a0007">Fig. 2G</link>) are lemon shaped with a mucous plug at both ends and an unsegmented nucleus. Eggs have a double shell with the outer one bile-stained; they measure 50 to 55 by 20 to 24 μm. Under favorable conditions in soil, the eggs become fully embryonated and infective in 2 to 4 weeks.</para>
+      </sect2>
+      <sect2 id="ch0170s0033s0002">
+        <title>Larvae</title>
+        <anchor id="ch0170s000033a0003"/>
+        <anchor id="ch0170s000000a0119"/>
+        <para id="ch0170s000000p0105">Larvae emerge in the small intestine (the second-stage larvae measure about 260 by 15 μm in length). After a period of growth they pass into the cecum, where they embed in the mucosa.</para>
+      </sect2>
+      <sect2 id="ch0170s0033s0003">
+        <title>Worms</title>
+        <anchor id="ch0170s000033a0004"/>
+        <anchor id="ch0170s000000a0120"/>
+        <para id="ch0170s000000p0106">Adult worms have a highly characteristic shape, from which the name whipworm is derived. The long, thin anterior end lies in a burrow in the mucosa, and the thicker end, which contains the reproductive tract, extends into the intestinal lumen. Worms are whitish; the males (30 to 45 mm) are shorter than the females (35 to 50 mm) and have a coiled posterior end. Adult females produce up to 20,000 eggs/day and live for approximately 3 years.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0034">
+      <title>Epidemiology and Prevention</title>
+      <anchor id="ch0170s000034a0001"/>
+      <anchor id="ch0170s000000a0121"/>
+      <para id="ch0170s000000p0107"><emphasis>Trichuris</emphasis> has a worldwide distribution and is often associated with <emphasis>Ascaris</emphasis> and hookworm infections in children and pregnant women in tropical and subtropical areas.</para>
+      <para id="ch0170s000000p0108">Preventive measures include health education about personal hygiene, avoidance of food and water with possible soil contamination, and drug therapy programs in areas where infection is endemic.</para>
+    </sect1>
+    <sect1 id="ch0170s0035">
+      <title>Transmission and Life Cycle (Fig. 10)</title>
+      <anchor id="ch0170s000035a0001"/>
+      <anchor id="ch0170s000000a0122"/>
+      <anchor id="ch0170s000000a0123"/>
+      <para id="ch0170s000000p0109">Transmission is direct via oral ingestion of embryonated eggs (infective stage) from contaminated soil. Following ingestion, larvae are released and pass into the large bowel, where they mature into adults in mucosal crypts. The eggs passed in feces contain an unsegmented ovum (diagnostic stage), and once the eggs are in warm, moist conditions in soil, they become infective 2 to 4 weeks after passage (<link linkend="ch0170s000000a0038">Table 1</link>). Rare zoonotic infections with the dog and pig whipworms, <emphasis>Trichuris vulpis</emphasis> and <emphasis>Trichuris suis</emphasis>, have been observed.</para>
+      <para id="ch0170s000000p0110">The prepatent period (from egg ingestion to egg production) is 3 months.</para>
+    </sect1>
+    <sect1 id="ch0170s0036">
+      <title>Clinical Significance</title>
+      <anchor id="ch0170s000036a0001"/>
+      <anchor id="ch0170s000000a0124"/>
+      <para id="ch0170s000000p0111">The clinical features are related to the intensity of infection; light infections are asymptomatic or present with mild gastrointestinal symptoms.</para>
+      <para id="ch0170s000000p0112">Epigastric pain, vomiting, distension, anorexia, and weight loss may occur with heavier infections, and<emphasis>Trichuris</emphasis> dysentery syndrome may be seen, in extreme cases complicated by rectal prolapse. Children with severe infections may develop growth retardation due to chronic malnutrition and iron-deficiency anemia (IDA). IDA may also occur in pregnant women with a higher worm burden, especially when hookworm coinfection is present (<link linkend="ch0170s000000li0120">69</link>). The mechanisms by which <emphasis>Trichuris</emphasis> infection causes anemia include blood loss from damage to the intestinal epithelium by adult worms, and infection-attributable loss of appetite resulting in lower food (and iron) intake. The health impact from <emphasis>T. trichiura</emphasis> rises as the worm burden increases and can result in chronic undernutrition. For more on the clinical manifestations of <emphasis>T. trichiura</emphasis>, see reference <link linkend="ch0170s000000li0069">17</link> and <link linkend="ch0170s000000a0041">Table 2</link>.</para>
+      <para id="ch0170s000000p0113">Peripheral blood eosinophilia may be seen at different stages of larval migration (<link linkend="ch0170s000000a0044">Table 3</link>).</para>
+    </sect1>
+    <sect1 id="ch0170s0037">
+      <title>Laboratory Detection</title>
+      <anchor id="ch0170s000037a0001"/>
+      <anchor id="ch0170s000000a0125"/>
+      <sect2 id="ch0170s0037s0001">
+        <title>Microscopy</title>
+        <anchor id="ch0170s000037a0002"/>
+        <anchor id="ch0170s000000a0126"/>
+        <para id="ch0170s000000p0114">The primary diagnosis of infection is by detection of eggs or DNA in feces. Multiple specimens collected on separate days may be required. Concentration methods such as formalin-ethyl acetate sedimentation or mini-FLOTAC should be used for optimal yield. The eggs are bile-stained and double walled with mucoid plugs at both ends, giving them a characteristic “tea tray” appearance (<link linkend="ch0170s000000a0007">Fig. 2G</link>).</para>
+        <figure id="ch0170s000000f0010"><title><phrase role="figureLabel"><anchor id="ch0170s000000a0127"/><link linkend="ch0170s000000a0123"><emphasis role="strong">FIGURE 10</emphasis></link></phrase> Life cycle of <emphasis>Trichuris trichiura.</emphasis> Image courtesy of DPDx, Centers for Disease Control and Prevention (<ulink url="https://www.cdc.gov/dpdx">https://www.cdc.gov/dpdx</ulink>).
+</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0170f10.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </sect2>
+      <sect2 id="ch0170s0037s0002">
+        <title>Macroscopic Examination</title>
+        <anchor id="ch0170s000037a0003"/>
+        <anchor id="ch0170s000000a0128"/>
+        <para id="ch0170s000000p0115">Adult worms are rarely passed in feces and are occasionally found on colonoscopy (<link linkend="ch0170s000000li0121">70</link>). They have a coiled, long, thin anterior region and a thicker tail, giving them the appearance of a stock whip (hence the name whipworm). The characteristic eggs may be seen in histological section (<link linkend="ch0170s000000a0012">Fig. 5B</link>).</para>
+        <anchor id="ch0170s000000a0129"/>
+        <beginpage pagenum="2912"/>
+      </sect2>
+      <sect2 id="ch0170s0037s0003">
+        <title>Nucleic Acid Detection</title>
+        <anchor id="ch0170s000037a0004"/>
+        <anchor id="ch0170s000000a0130"/>
+        <para id="ch0170s000000p0116">Real-time PCR assays for<emphasis>T. trichiura</emphasis> are available, and it is detected by recently released commercial multiplex real-time PCR diagnostic assays (<link linkend="ch0170s000000li0061">9</link>). When performing real-time PCR for <emphasis>T. trichiura</emphasis>, the inclusion of a bead-beating step prior to fecal DNA extraction is imperative to ensure the sensitivity of the subsequent PCR assay (<link linkend="ch0170s000000li0061">9</link>).</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0170s0038">
+      <title>Treatment</title>
+      <anchor id="ch0170s000038a0001"/>
+      <anchor id="ch0170s000000a0131"/>
+      <para id="ch0170s000000p0117">Albendazole or mebendazole are the drugs of choice (see<ulink url="ch0177#ch0177s0001">chapter 153</ulink> and references <link linkend="ch0170s000000li0053">1</link> and <link linkend="ch0170s000000li0069">17</link>), although efficacy is not satisfactory. Failures are not uncommon and multiple doses are required. Various combination chemotherapies have showed high efficacy, e.g., albendazole plus oxantel pamoate and albendazole (400 mg daily for 3 days) plus ivermectin (600 μg/kg daily for 3 days) (<link linkend="ch0170s000000li0122">71</link>–<link linkend="ch0170s000000li0124">73</link>). The benzimidazoles should not be used in the first trimester of pregnancy or in children &lt;12 months of age. For a summary of <emphasis>T. trichiura</emphasis>, see <link linkend="ch0170s000000a0041">Table 2</link> and <link linkend="ch0170s000000a0053">Table 4</link>.</para>
+      <sect2 id="ch0170s0038s0001">
+        <title>EVALUATION, INTERPRETATION, AND REPORTING OF RESULTS</title>
+        <anchor id="ch0170s000038a0002"/>
+        <anchor id="ch0170s000000a0132"/>
+        <anchor id="ch0170s000000a0133"/>
+        <para id="ch0170s000000p0118">Make note of the adequacy and quality of the specimen submitted. If an inadequate amount is submitted, mention it on the report.</para>
+        <para id="ch0170s000000p0119">Any helminth eggs or larvae found in feces are significant, and treatment is recommended even if the patient is asymptomatic. There is no need to quantitate helminth parasites in a diagnostic context, as this does not necessarily correlate with clinical illness. However, this may be required for epidemiological studies or for clinical assessment of children.</para>
+        <para id="ch0170s000000p0120">The time of collection is also important, especially when<emphasis>Enterobius</emphasis> is suspected. If the specimen is inadequate, e.g., delayed, dry, or insufficient, a repeat specimen should be requested. A freshly collected specimen and/or use of preservative kits should be encouraged where possible. Nucleic acid detection can be variable and depends on stage of infection, the technique used for extraction, and the primers used.</para>
+        <para id="ch0170s000000p0121">Examples of interpretative comments used to ensure that adequate testing is performed are as follows.</para>
+        <para id="ch0170s000000p0122">1. Larvae of<emphasis>S. stercoralis</emphasis> not detected. A single negative result does not exclude the diagnosis of <emphasis>Strongyloides.</emphasis> Please send freshly collected feces and transport to laboratory without delay.</para>
+        <para id="ch0170s000000p0123">2. Eggs of<emphasis>E. vermicularis</emphasis> not detected on the sticky tape preparation. A single negative result does not exclude the diagnosis of pinworm infection. Please send properly collected repeat specimen, if clinically indicated. Contact the laboratory for instructions if required.</para>
+        <para id="ch0170s000000p0124">3. No parasites detected. Excretion of parasite forms may be variable or intermittent. Repeat testing is recommended if clinically indicated. Contact the laboratory for instructions if required.</para>
+        <para id="ch0170s000000p0125">4. Serology for<emphasis>Strongyloides stercoralis</emphasis> negative. In immunocompromised patients, feces examination of fresh specimen or a PCR is recommended.</para>
+        <para id="ch0170s000000p0126">5. Nucleic acid of<emphasis>Strongyloides stercoralis</emphasis> not detected by PCR. Excretion of parasite forms may be variable or intermittent, or there may be inhibitors present in feces. Repeat testing is recommended if clinically indicated.</para>
+      </sect2>
+      <sect2 id="ch0170s0038s0002">
+        <title>REFERENCES</title>
+        <anchor id="ch0170s000038a0003"/>
+        <anchor id="ch0170s000000a0134"/>
+        <itemizedlist mark="none" role="biblioEntryList">
+          <listitem id="ch0170s000000li0053" role="bibliographyEntry">
+            <para>1.<emphasis role="strong">World Health Organization.</emphasis> 2017. <citetitle><emphasis>Guideline: Preventive Chemotherapy to Control Soil-Transmitted Helminth Infections in At-Risk Population Groups.</emphasis></citetitle> World Health Organization, Geneva, Switzerland.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0054" role="bibliographyEntry">
+            <para>2.<emphasis role="strong">Krolewiecki AJ, Lammie P, Jacobson J, Gabrielli A-F, Levecke B, Socias E, Arias LM, Sosa N, Abraham D, Cimino R, Echazú A, Crudo F, Vercruysse J, Albonico M.</emphasis> 2013. A public health response against <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle>: time to look at soil-transmitted helminthiasis in full. <citetitle><emphasis>PLoS Negl Trop Dis</emphasis></citetitle> <emphasis role="strong">7:</emphasis>e2165.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0055" role="bibliographyEntry">
+            <para>3.<emphasis role="strong">World Health Organization.</emphasis> 2020. <citetitle><emphasis>2030 Targets for Soil-Transmitted Helminthiases Control Programmes.</emphasis></citetitle> World Health Organization, Geneva, Switzerland.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0056" role="bibliographyEntry">
+            <para>4.<emphasis role="strong">Chaves NJ, Paxton G, Biggs BA, Thambiran A, Smith M, Williams J, Gardiner J, Davis JS.</emphasis> 2016. <citetitle><emphasis>Recommendations for Comprehensive Post-Arrival Health Assessment for People from Refugee-Like Backgrounds</emphasis></citetitle>, 2nd ed. Australasian Society for Infectious Diseases, Sydney, Australia.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0057" role="bibliographyEntry">
+            <para>5.<emphasis role="strong">Cools P, Vlaminck J, Verweij JJ, Levecke B.</emphasis> 2021. Quantitative PCR in soil-transmitted helminth epidemiology and control programs: toward a universal standard. <citetitle><emphasis>PLoS Negl Trop Dis</emphasis></citetitle> <emphasis role="strong">15:</emphasis>e0009134.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0058" role="bibliographyEntry">
+            <para>6.<emphasis role="strong">Mejia R, Vicuña Y, Broncano N, Sandoval C, Vaca M, Chico M, Cooper PJ, Nutman TB.</emphasis> 2013. A novel, multi-parallel, real-time polymerase chain reaction approach for eight gastrointestinal parasites provides improved diagnostic capabilities to resource-limited at-risk populations. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">88:</emphasis>1041–1047.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0059" role="bibliographyEntry">
+            <para>7.<emphasis role="strong">Buonfrate D, Requena-Mendez A, Angheben A, Cinquini M, Cruciani M, Fittipaldo A, Giorli G, Gobbi F, Piubelli C, Bisoffi Z.</emphasis> 2018. Accuracy of molecular biology techniques for the diagnosis of Strongyloides stercoralis infection: a systematic review and meta-analysis. <citetitle><emphasis>PLoS Negl Trop Dis</emphasis></citetitle> <emphasis role="strong">12:</emphasis>e0006229.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0060" role="bibliographyEntry">
+            <para>8.<emphasis role="strong">Barda B, Schindler C, Wampfler R, Ame S, Ali SM, Keiser J.</emphasis> 2020. Comparison of real-time PCR and the Kato-Katz method for the diagnosis of soil-transmitted helminthiasis and assessment of cure in a randomized controlled trial. <citetitle><emphasis>BMC Microbiol</emphasis></citetitle> <emphasis role="strong">20:</emphasis>298.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0061" role="bibliographyEntry">
+            <para>9.<emphasis role="strong">Autier B, Gangneux J-P, Robert-Gangneux F.</emphasis> 2021. Evaluation of the Allplex™ GI-Helminth(I) Assay, the first marketed multiplex PCR for helminth diagnosis. <citetitle><emphasis>Parasite</emphasis></citetitle> <emphasis role="strong">28:</emphasis>33.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0062" role="bibliographyEntry">
+            <para>10.<emphasis role="strong">Papaiakovou M, Gasser RB, Littlewood DTJ.</emphasis> 2019. Quantitative PCR-based diagnosis of soil-transmitted helminth infections: faecal or fickle? <citetitle><emphasis>Trends Parasitol</emphasis></citetitle> <emphasis role="strong">35:</emphasis>491–500.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0063" role="bibliographyEntry">
+            <para>11.<emphasis role="strong">Davis JS, Currie BJ, Fisher DA, Huffam SE, Anstey NM, Price RN, Krause VL, Zweck N, Lawton PD, Snelling PL, Selva-Nayagam S.</emphasis> 2003. Prevention of opportunistic infections in immunosuppressed patients in the tropical top end of the Northern Territory. <citetitle><emphasis>Commun Dis Intell Q Rep</emphasis></citetitle> <emphasis role="strong">27:</emphasis>526–532.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0064" role="bibliographyEntry">
+            <para>12.<emphasis role="strong">Requena-Méndez A, Buonfrate D, Gomez-Junyent J, Zammarchi L, Bisoffi Z, Muñoz J.</emphasis> 2017. Evidence-based guidelines for screening and management of strongyloidiasis in non-endemic countries. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">97:</emphasis>645–652.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0065" role="bibliographyEntry">
+            <para>13.<emphasis role="strong">Carnino L, Schwob J-M, Gétaz L, Nickel B, Neumayr A, Eperon G.</emphasis> 2021. A practical approach to screening for <citetitle><emphasis>Strongyloides stercoralis. Trop Med Infect Dis</emphasis></citetitle> <emphasis role="strong">6:</emphasis>203.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0066" role="bibliographyEntry">
+            <para>14.<emphasis role="strong">Shimizu RY, Garcia LS.</emphasis> 2016. Parasitology, p 9.1–9.10. <citetitle><emphasis>In</emphasis></citetitle> <emphasis role="strong">Leber AL</emphasis> (ed), <citetitle><emphasis>Clinical Microbiology Procedures Handbook</emphasis></citetitle>, 4th ed, vol 2. ASM Press, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0067" role="bibliographyEntry">
+            <para>15.<emphasis role="strong">Shao CC, Xu MJ, Alasaad S, Song HQ, Peng L, Tao JP, Zhu XQ.</emphasis> 2014. Comparative analysis of microRNA profiles between adult <citetitle><emphasis>Ascaris lumbricoides</emphasis></citetitle> and <citetitle><emphasis>Ascaris suum. BMC Vet Res</emphasis></citetitle> <emphasis role="strong">10:</emphasis>99–104.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0068" role="bibliographyEntry">
+            <para>16.<emphasis role="strong">Vos T, et al, GBD 2016 Disease and Injury Incidence and Prevalence Collaborators.</emphasis> 2017. Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016. <citetitle><emphasis>Lancet</emphasis></citetitle> <emphasis role="strong">390:</emphasis>1211–1259.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0069" role="bibliographyEntry">
+            <para>17.<emphasis role="strong">Meija R, Weatherhead J, Hotez PJ.</emphasis> 2020. Intestinal nematodes (roundworms), p 3436–3442. <citetitle><emphasis>In</emphasis></citetitle> Bennett JE, Dolin R, Blaser MJ (ed), <citetitle><emphasis>Mandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases</emphasis></citetitle>, 9th ed. Elsevier, Saunders, Philadelphia, PA.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0070" role="bibliographyEntry">
+            <para>18.<emphasis role="strong">Schüffner W, Swellengrebel NH.</emphasis> 1949. Retrofection in oxyuriasis; a newly discovered mode of infection with Enterobius vermicularis. <citetitle><emphasis>J Parasitol</emphasis></citetitle> <emphasis role="strong">35:</emphasis>138–146.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0071" role="bibliographyEntry">
+            <para>19.<emphasis role="strong">Beaver PC, Jung RC, Cupp EW.</emphasis> 1984. Oxyuridae and Ascaroidea, p 334. <citetitle><emphasis>In</emphasis></citetitle> Beaver PC (ed), <citetitle><emphasis>Clinical Parasitology</emphasis></citetitle>, 9th ed. Lea &amp; Febiger: Philadelphia, PA.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0072" role="bibliographyEntry">
+            <para>20.<emphasis role="strong">Arca MJ, Gates RL, Groner JI, Hammond S, Caniano DA.</emphasis> 2004. Clinical manifestations of appendiceal pinworms in children: an institutional experience and a review of the literature. <citetitle><emphasis>Pediatr Surg Int</emphasis></citetitle> <emphasis role="strong">20:</emphasis>372–375.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0073" role="bibliographyEntry">
+            <para>21.<emphasis role="strong">Pampiglione S, Rivasi F.</emphasis> 2009. Enterobiasis in ectopic locations mimicking tumor-like lesions. <citetitle><emphasis>Int J Microbiol</emphasis></citetitle> <emphasis role="strong">2009:</emphasis>642481.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0074" role="bibliographyEntry">
+            <para>22.<emphasis role="strong">Ash LR, Orihel TC.</emphasis> 2003. Intestinal helminths, p 2031–2046. <citetitle><emphasis>In</emphasis></citetitle> Murray PR, Baron EJ, Jorgensen JH, Pfaller MA, Yolken RH (ed), <citetitle><emphasis>Manual of Clinical Microbiology</emphasis></citetitle>, 8th ed. ASM Press, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0075" role="bibliographyEntry">
+            <para>23.<emphasis role="strong">Garcia LS.</emphasis> 2016. Intestinal nematodes, p 299–335. <citetitle><emphasis>In Diagnostic Medical Parasitology</emphasis></citetitle>, 6th ed. ASM Press, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0076" role="bibliographyEntry">
+            <anchor id="ch0170s000000a0135"/>
+            <para>24.<emphasis role="strong">Prociv P, Croese J.</emphasis> 1990. Human eosinophilic enteritis caused by dog hookworm <citetitle><emphasis>Ancylostoma caninum. Lancet</emphasis></citetitle> <emphasis role="strong">335:</emphasis>1299–1302.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0077" role="bibliographyEntry">
+            <para>25.<emphasis role="strong">Furtado LFV, Dias LTO, Rodrigues TO, Silva VJD, Oliveira VNGM, Rabelo ÉML.</emphasis> 2020. Egg genotyping reveals the possibility of patent <citetitle><emphasis>Ancylostoma caninum</emphasis></citetitle> infection in human intestine. <citetitle><emphasis>Sci Rep</emphasis></citetitle> <emphasis role="strong">10:</emphasis>3006.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0078" role="bibliographyEntry">
+            <para>26.<emphasis role="strong">George S, Levecke B, Kattula D, Velusamy V, Roy S, Geldhof P, Sarkar R, Kang G.</emphasis> 2016. Molecular identification of hookworm isolates in humans, dogs and soil in a tribal area in Tamil Nadu, India. <citetitle><emphasis>PLoS Negl Trop Dis</emphasis></citetitle> <emphasis role="strong">10:</emphasis>e0004891.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0079" role="bibliographyEntry">
+            <para>27.<emphasis role="strong">Traub RJ.</emphasis> 2013. <citetitle><emphasis>Ancylostoma ceylanicum</emphasis></citetitle>, a re-emerging but neglected parasitic zoonosis. <citetitle><emphasis>Int J Parasitol</emphasis></citetitle> <emphasis role="strong">43:</emphasis>1009–1015.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0080" role="bibliographyEntry">
+            <para>28.<emphasis role="strong">Bradbury RS, Hii SF, Harrington H, Speare R, Traub R.</emphasis> 2017. <citetitle><emphasis>Ancylostoma ceylanicum</emphasis></citetitle> hookworm in the Solomon Islands. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">23:</emphasis>252–257.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0081" role="bibliographyEntry">
+            <para>29.<emphasis role="strong">Inpankaew T, Schär F, Dalsgaard A, Khieu V, Chimnoi W, Chhoun C, Sok D, Marti H, Muth S, Odermatt P, Traub RJ, Muth S, Odermatt P, Traub RJ.</emphasis> 2014. High prevalence of <citetitle><emphasis>Ancylostoma ceylanicum</emphasis></citetitle> hookworm infections in humans, Cambodia, 2012. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">20:</emphasis>976–982.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0082" role="bibliographyEntry">
+            <para>30.<emphasis role="strong">Zinsou JF, Honpkehedji J, Agobe Jean Claude D, Adegbite BR, Ronald Edoa J, Van Leeuwen R, Diemert D, Elena Botazzi M, Kremsner PG, Yazdanbakhsh M, Hotez P, P Grobusch M</emphasis>, <emphasis role="strong">Akim Adegnika A</emphasis>, <emphasis role="strong">De Vries S.</emphasis> 2019. Oc 8521: preliminary report on safety of co-administered human hookworm vaccine candidates Na-APR-1 (M74)/Alhydrogel<superscript>®</superscript> and Na-GST-1/Alhydrogel<superscript>®</superscript> in Gabonese children. <citetitle><emphasis>BMJ Glob Health</emphasis></citetitle> <emphasis role="strong">4</emphasis>(Suppl 3)<emphasis role="strong">:</emphasis>A12.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0083" role="bibliographyEntry">
+            <para>31.<emphasis role="strong">Loukas A, Hotez PJ, Diemert D, Yazdanbakhsh M, McCarthy JS, Correa-Oliveira R, Croese J, Bethony JM.</emphasis> 2016. Hookworm infection. <citetitle><emphasis>Nat Rev Dis Primers</emphasis></citetitle> <emphasis role="strong">2:</emphasis>16088.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0084" role="bibliographyEntry">
+            <para>32.<emphasis role="strong">Bradbury RS.</emphasis> 2019. <citetitle><emphasis>Ternidens deminutus</emphasis></citetitle> revisited: a review of human infections with the false hookworm. <citetitle><emphasis>Trop Med Infect Dis</emphasis></citetitle> <emphasis role="strong">4:</emphasis>106.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0085" role="bibliographyEntry">
+            <para>33.<emphasis role="strong">Page W, Judd JA, Bradbury RS.</emphasis> 2018. The unique life cycle of <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> and implications for public health action. <citetitle><emphasis>Trop Med Infect Dis</emphasis></citetitle> <emphasis role="strong">3:</emphasis>53.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0086" role="bibliographyEntry">
+            <para>34.<emphasis role="strong">Davis S, Bosserman E, Montgomery S, Woodhall D, Russell ES, Centers for Disease Control and Prevention.</emphasis> 2013. Notes from the field: strongyloidiasis in a rural setting—Southeastern Kentucky, 2013. <citetitle><emphasis>MMWR Morb Mortal Wkly Rep</emphasis></citetitle> <emphasis role="strong">62:</emphasis>843.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0087" role="bibliographyEntry">
+            <para>35.<emphasis role="strong">Bradbury RS, Lane M, Arguello I, Handali S, Cooley G, Pilotte N, Williams JM, Jameson S, Montgomery SP, Hellmann K, Tharp M, Haynie L, Galloway R, Brackin B, Kirmse B, Stempak L, Byers P, Williams S, Faruque F, Hobbs CV.</emphasis> 2021. Parasitic disease surveillance, Mississippi, USA. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">27:</emphasis>2201–2204.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0088" role="bibliographyEntry">
+            <para>36.<emphasis role="strong">Štrkolcová G, Goldová M, Bocková E, Mojžišová J.</emphasis> 2017. The roundworm <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> in children, dogs, and soil inside and outside a segregated settlement in Eastern Slovakia: frequent but hardly detectable parasite. <citetitle><emphasis>Parasitol Res</emphasis></citetitle> <emphasis role="strong">116:</emphasis>891–900.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0089" role="bibliographyEntry">
+            <para>37.<emphasis role="strong">Gordon CA, Shield JM, Bradbury RS, Muhi S, Page W, Judd JA, Lee R, Biggs BA, Ross K, Kurscheid J, Gray DJ, McManus DP.</emphasis> 2021. HTLV-I and <citetitle><emphasis>Strongyloides</emphasis></citetitle> in Australia: the worm lurking beneath. <citetitle><emphasis>Adv Parasitol</emphasis></citetitle> <emphasis role="strong">111:</emphasis>119–201.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0090" role="bibliographyEntry">
+            <para>38.<emphasis role="strong">Beknazarova M, Whiley H, Ross K.</emphasis> 2016. Strongyloidiasis: a disease of socioeconomic disadvantage. <citetitle><emphasis>Int J Environ Res Public Health</emphasis></citetitle> <emphasis role="strong">13:</emphasis>517.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0091" role="bibliographyEntry">
+            <para>39.<emphasis role="strong">Fleitas PE, Travacio M, Martí-Soler H, Socías ME, Lopez WR, Krolewiecki AJ.</emphasis> 2020. The Strongyloides stercoralis-hookworms association as a path to the estimation of the global burden of strongyloidiasis: a systematic review. <citetitle><emphasis>PLoS Negl Trop Dis</emphasis></citetitle> <emphasis role="strong">14:</emphasis>e0008184.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0092" role="bibliographyEntry">
+            <para>40.<emphasis role="strong">Buonfrate D, Bisanzio D, Giorli G, Odermatt P, Fürst T, Greenaway C, French M, Reithinger R, Gobbi F, Montresor A, Bisoffi Z.</emphasis> 2020. The global prevalence of <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> infection. <citetitle><emphasis>Pathogens</emphasis></citetitle> <emphasis role="strong">9:</emphasis>468.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0093" role="bibliographyEntry">
+            <para>41.<emphasis role="strong">Schär F, Giardina F, Khieu V, Muth S, Vounatsou P, Marti H, Odermatt P.</emphasis> 2016. Occurrence of and risk factors for <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> infection in South-East Asia. <citetitle><emphasis>Acta Trop</emphasis></citetitle> <emphasis role="strong">159:</emphasis>227–238.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0094" role="bibliographyEntry">
+            <para>42.<emphasis role="strong">Asundi A, Beliavsky A, Liu XJ, Akaberi A, Schwarzer G, Bisoffi Z, Requena-Méndez A, Shrier I, Greenaway C.</emphasis> 2019. Prevalence of strongyloidiasis and schistosomiasis among migrants: a systematic review and meta-analysis. <citetitle><emphasis>Lancet Glob Health</emphasis></citetitle> <emphasis role="strong">7:</emphasis>e236–e248.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0095" role="bibliographyEntry">
+            <para>43.<emphasis role="strong">Shield J, Braat S, Watts M, Robertson G, Beaman M, McLeod J, Baird RW, Hart J, Robson J, Lee R, McKessar S, Nicholson S, Mayer-Coverdale J, Biggs BA.</emphasis> 2021. Seropositivity and geographical distribution of Strongyloides stercoralis in Australia: a study of pathology laboratory data from 2012-2016. <citetitle><emphasis>PLoS Negl Trop Dis</emphasis></citetitle> <emphasis role="strong">15:</emphasis>e0009160.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0096" role="bibliographyEntry">
+            <para>44.<emphasis role="strong">Bradbury RS, Paf</emphasis>č<emphasis role="strong">o B, Nosková E, Hasegawa H.</emphasis> 2021. <citetitle><emphasis>Strongyloides</emphasis></citetitle> genotyping: a review of methods and application in public health and population genetics. <citetitle><emphasis>Int J Parasitol</emphasis></citetitle> <emphasis role="strong">51:</emphasis>1153–1166.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0097" role="bibliographyEntry">
+            <para>45.<emphasis role="strong">Mejia R, Nutman TB.</emphasis> 2012. Screening, prevention, and treatment for hyperinfection syndrome and disseminated infections caused by <citetitle><emphasis>Strongyloides stercoralis. Curr Opin Infect Dis</emphasis></citetitle> <emphasis role="strong">25:</emphasis>458–463.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0098" role="bibliographyEntry">
+            <para>46.<emphasis role="strong">Fardet L, Généreau T, Poirot JL, Guidet B, Kettaneh A, Cabane J.</emphasis> 2007. Severe strongyloidiasis in corticosteroid-treated patients: case series and literature review. <citetitle><emphasis>J Infect</emphasis></citetitle> <emphasis role="strong">54:</emphasis>18–27.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0099" role="bibliographyEntry">
+            <para>47.<emphasis role="strong">Schroeder L, Banaei N.</emphasis> 2013. Strongyloides stercoralis embryonated ova in the lung. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">368:</emphasis>e15.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0100" role="bibliographyEntry">
+            <para>48.<emphasis role="strong">Kim JH, Kim DS, Yoon YK, Sohn JW, Kim MJ.</emphasis> 2016. Donor-derived strongyloidiasis infection in solid organ transplant recipients: a review and pooled analysis. <citetitle><emphasis>Transplant Proc</emphasis></citetitle> <emphasis role="strong">48:</emphasis>2442–2449.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0101" role="bibliographyEntry">
+            <para>49.<emphasis role="strong">Leder K, Weller PF.</emphasis> 2022. Strongyloidiasis. <citetitle><emphasis>In</emphasis></citetitle> Ryan ET (ed), UpToDate. <ulink url="https://www.uptodate.com/contents/strongyloidiasis">https://www.uptodate.com/contents/strongyloidiasis</ulink>. Accessed 14 October 2022.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0102" role="bibliographyEntry">
+            <para>50.<emphasis role="strong">Watts MR, Robertson G, Bradbury RS.</emphasis> 2016. The laboratory diagnosis of <citetitle><emphasis>Strongyloides stercoralis. Microbiol Aust</emphasis></citetitle> <emphasis role="strong">37:</emphasis>4–9.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0103" role="bibliographyEntry">
+            <para>51.<emphasis role="strong">Buonfrate D, Perandin F, Formenti F, Bisoffi Z.</emphasis> 2017. A retrospective study comparing agar plate culture, indirect immunofluorescence and real-time PCR for the diagnosis of <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> infection. <citetitle><emphasis>Parasitology</emphasis></citetitle> <emphasis role="strong">144:</emphasis>812–816.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0104" role="bibliographyEntry">
+            <para>52.<emphasis role="strong">Levenhagen MA, Costa-Cruz JM.</emphasis> 2014. Update on immunologic and molecular diagnosis of human strongyloidiasis. <citetitle><emphasis>Acta Trop</emphasis></citetitle> <emphasis role="strong">135:</emphasis>33–43.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0105" role="bibliographyEntry">
+            <para>53.<emphasis role="strong">Buonfrate D, Formenti F, Perandin F, Bisoffi Z.</emphasis> 2015. Novel approaches to the diagnosis of <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> infection. <citetitle><emphasis>Clin Microbiol Infect</emphasis></citetitle> <emphasis role="strong">21:</emphasis>543–552.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0106" role="bibliographyEntry">
+            <para>54.<emphasis role="strong">Requena-Méndez A, Chiodini P, Bisoffi Z, Buonfrate D, Gotuzzo E, Muñoz J.</emphasis> 2013. The laboratory diagnosis and follow up of strongyloidiasis: a systematic review. <citetitle><emphasis>PLoS Negl Trop Dis</emphasis></citetitle> <emphasis role="strong">7:</emphasis>e2002.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0107" role="bibliographyEntry">
+            <para>55.<emphasis role="strong">Verweij JJ, Canales M, Polman K, Ziem J, Brienen EA, Polderman AM, van Lieshout L.</emphasis> 2009. Molecular diagnosis of <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> in faecal samples using real-time PCR. <citetitle><emphasis>Trans R Soc Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">103:</emphasis>342–346.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0108" role="bibliographyEntry">
+            <para>56.<emphasis role="strong">Sultana Y, Jeoffreys N, Watts MR, Gilbert GL, Lee R.</emphasis> 2013. Real-time polymerase chain reaction for detection of <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> in stool. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">88:</emphasis>1048–1051.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0109" role="bibliographyEntry">
+            <para>57.<emphasis role="strong">Watts MR, James G, Sultana Y, Ginn AN, Outhred AC, Kong F, Verweij JJ, Iredell JR, Chen SC, Lee R.</emphasis> 2014. A loop-mediated isothermal amplification (LAMP) assay for <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> in stool that uses a visual detection method with SYTO-82 fluorescent dye. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">90:</emphasis>306–311.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0110" role="bibliographyEntry">
+            <para>58.<emphasis role="strong">Sharifdini M, Mirhendi H, Ashrafi K, Hosseini M, Mohebali M, Khodadadi H, Kia EB.</emphasis> 2015. Comparison of nested polymerase chain reaction and real-time polymerase chain reaction with parasitological methods for detection of <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> in human fecal samples. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">93:</emphasis>1285–1291.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0111" role="bibliographyEntry">
+            <para>60.<emphasis role="strong">Loutfy MR, Wilson M, Keystone JS, Kain KC.</emphasis> 2002. Serology and eosinophil count in the diagnosis and management of strongyloidiasis in a non-endemic area. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">66:</emphasis>749–752.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0112" role="bibliographyEntry">
+            <para>61.<emphasis role="strong">Biggs BA, Caruana S, Mihrshahi S, Jolley D, Leydon J, Chea L, Nuon S.</emphasis> 2009. Management of chronic strongyloidiasis in immigrants and refugees: is serologic testing useful? <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">80:</emphasis>788–791.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0113" role="bibliographyEntry">
+            <anchor id="ch0170s000000a0136"/>
+            <para>62.<emphasis role="strong">Kearns TM, Currie BJ, Cheng AC, McCarthy J, Carapetis JR, Holt DC, Page W, Shield J, Gundjirryirr R, Mulholland E, Ward L, Andrews RM.</emphasis> 2017. <citetitle><emphasis>Strongyloides</emphasis></citetitle> seroprevalence before and after an ivermectin mass drug administration in a remote Australian Aboriginal community. <citetitle><emphasis>PLoS Negl Trop Dis</emphasis></citetitle> <emphasis role="strong">11:</emphasis>e0005607.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0114" role="bibliographyEntry">
+            <para>63.<emphasis role="strong">Bisoffi Z, Buonfrate D, Sequi M, Mejia R, Cimino RO, Krolewiecki AJ, Albonico M, Gobbo M, Bonafini S, Angheben A, Requena-Mendez A, Muñoz J, Nutman TB.</emphasis> 2014. Diagnostic accuracy of five serologic tests for <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> infection. <citetitle><emphasis>PLoS Negl Trop Dis</emphasis></citetitle> <emphasis role="strong">8:</emphasis>e2640.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0115" role="bibliographyEntry">
+            <para>64.<emphasis role="strong">Mounsey K, Kearns T, Rampton M, Llewellyn S, King M, Holt D, Currie BJ, Andrews R, Nutman T, McCarthy J.</emphasis> 2014. Use of dried blood spots to define antibody response to the <citetitle><emphasis>Strongyloides stercoralis</emphasis></citetitle> recombinant antigen NIE. <citetitle><emphasis>Acta Trop</emphasis></citetitle> <emphasis role="strong">138:</emphasis>78–82.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0116" role="bibliographyEntry">
+            <para>65.<emphasis role="strong">Noordin R, Osman E, Kalantari N, Anuar NS, Gorgani-Firouzjaee T, Sithithaworn P, Juri NM, Rahumatullah A.</emphasis> 2022. A point-of-care cassette test for detection of <citetitle><emphasis>Strongyloides stercoralis. Acta Trop</emphasis></citetitle> <emphasis role="strong">226:</emphasis>106251.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0117" role="bibliographyEntry">
+            <para>66.<emphasis role="strong">CDC Resources for Health Professionals.</emphasis> 2022. Parasites: <citetitle><emphasis>Strongyloides.</emphasis></citetitle> <ulink url="https://www.cdc.gov/parasites/strongyloides/health_professionals/index.html#screening">https://www.cdc.gov/parasites/strongyloides/health_professionals/index.html#screening</ulink>. Accessed 14 October 2022.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0118" role="bibliographyEntry">
+            <para>67.<emphasis role="strong">Ashford RW, Barnish G, Viney ME.</emphasis> 1992. <citetitle><emphasis>Strongyloides fuelleborni kellyi</emphasis></citetitle>: infection and disease in Papua New Guinea. <citetitle><emphasis>Parasitol Today</emphasis></citetitle> <emphasis role="strong">8:</emphasis>314–318.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0119" role="bibliographyEntry">
+            <para>68.<emphasis role="strong">Potters I, Micalessi I, Van Esbroeck M, Gils S, Theunissen C.</emphasis> 2020. A rare case of imported <citetitle><emphasis>Strongyloides fuelleborni</emphasis></citetitle> infection in a Belgian student. <citetitle><emphasis>Clin Infec Pract</emphasis></citetitle> <emphasis role="strong">7:</emphasis>100031.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0120" role="bibliographyEntry">
+            <para>69.<emphasis role="strong">Gyorkos TW, Gilbert NL, Larocque R, Casapía M.</emphasis> 2011. Trichuris and hookworm infections associated with anaemia during pregnancy. <citetitle><emphasis>Trop Med Int Health</emphasis></citetitle> <emphasis role="strong">16:</emphasis>531–537.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0121" role="bibliographyEntry">
+            <para>70.<emphasis role="strong">Lorenzetti R, Campo SM, Stella F, Hassan C, Zullo A, Morini S.</emphasis> 2003. An unusual endoscopic finding: <citetitle><emphasis>trichuris trichiura</emphasis></citetitle>. Case report and review of the literature. <citetitle><emphasis>Dig Liver Dis</emphasis></citetitle> <emphasis role="strong">35:</emphasis>811–813.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0122" role="bibliographyEntry">
+            <para>71.<emphasis role="strong">Speich B, Ali SM, Ame SM, Bogoch II, Alles R, Huwyler J, Albonico M, Hattendorf J, Utzinger J, Keiser J.</emphasis> 2015. Efficacy and safety of albendazole plus ivermectin, albendazole plus mebendazole, albendazole plus oxantel pamoate, and mebendazole alone against Trichuris trichiura and concomitant soil-transmitted helminth infections: a four-arm, randomised controlled trial. <citetitle><emphasis>Lancet Infect Dis</emphasis></citetitle> <emphasis role="strong">15:</emphasis>277–284.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0123" role="bibliographyEntry">
+            <para>72.<emphasis role="strong">Else KJ, Keiser J, Holland CV, Grencis RK, Sattelle DB, Fujiwara RT, Bueno LL, Asaolu SO, Sowemimo OA, Cooper PJ.</emphasis> 2020. Whipworm and roundworm infections. <citetitle><emphasis>Nat Rev Dis Primers</emphasis></citetitle> <emphasis role="strong">6:</emphasis>44.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0124" role="bibliographyEntry">
+            <para>73.<emphasis role="strong">Matamoros G, Sánchez A, Gabrie JA, Juárez M, Ceballos L, Escalada A, Rodríguez C, Martí-Soler H, Rueda MM, Canales M, Lanusse C, Cajal P, Álvarez L, Cimino RO, Krolewiecki A.</emphasis> 2021. Efficacy and safety of albendazole and high-dose ivermectin coadministration in school-aged children infected with <citetitle><emphasis>Trichuris trichiura</emphasis></citetitle> in Honduras: a randomized controlled trial. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">73:</emphasis>1203–1210.</para>
+          </listitem>
+          <listitem id="ch0170s000000li0125" role="bibliographyEntry">
+            <para>74.<emphasis role="strong">Freedman DO.</emphasis> 2021. Overview of parasitic eosinophilia. <citetitle><emphasis>In</emphasis></citetitle> Gilbert DN, Chambers HF, Saag MS, Pavia AT, Boucher HW (ed), <citetitle><emphasis>The Sanford Guide to Antimicrobial Therapy 2021.</emphasis></citetitle> Antimicrobial Therapy, Inc, Sperryville, VA.</para>
+          </listitem>
+        </itemizedlist>
+      </sect2>
+    </sect1>
+  </chapter>

@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0103">
+    <title>84 Algorithms for Detection and Identification of Viruses</title>
+    <sect1 id="ch0103s0001">
+      <title>84 Algorithms for Detection and Identification of Viruses</title>
+      <anchor id="ch0103s000001a0001"/>
+      <anchor id="ch0103s000000a0001"/>
+      <para id="ch0103s000000p0001" role="chapterAuthor">MARIE LOUISE LANDRY, N. ESTHER BABADY, MATTHEW J. BINNICKER, BENJAMIN A. PINSKY, AND YI-WEI TANG</para>
+      <sect2 id="ch0103s0001s0001">
+        <title>INTRODUCTION</title>
+        <anchor id="ch0103s000001a0002"/>
+        <anchor id="ch0103s000000a0002"/>
+        <para id="ch0103s000000p0002">When the first edition of the<emphasis>Manual of Clinical Microbiology</emphasis> was published in 1970, traditional virologic methods, namely, conventional cell cultures, neutralization tests with antisera for virus identification, manual serologic techniques, and light and electron microscopy, were the mainstay. Diagnostic virology was a distinct discipline that was practiced primarily in public health, research, and academic settings. The time to results was slow, and it was often said that the patient was dead or better by the time the result was received. Over the past 50 years, change has been driven by advances in medical care and diagnostics, the increased number of immunosuppressed hosts, recognition of sexually transmitted viruses, emergence of epidemics and pandemics, and importantly, the development of antiviral therapies.</para>
+      </sect2>
+      <sect2 id="ch0103s0001s0002">
+        <title>ADVANCES IN DIAGNOSTICS</title>
+        <anchor id="ch0103s000001a0003"/>
+        <anchor id="ch0103s000000a0003"/>
+        <para id="ch0103s000000p0003">Besides the clinical drivers of change, scientific advances have been essential to the transformation of diagnostic virology. Early technological improvements in the laboratory included enzyme immunoassays, IgM class capture assays, monoclonal antibodies for identification, rapid centrifugation cultures, and direct detection of viral antigens in clinical specimens by immunofluorescence. At the point of care (POC), lateral-flow immunochromatography tests were introduced to detect viral antigens or antibodies in 10 to 20 min without equipment or reagent additions, allowing immediate impact on clinical decisions. More recently, chemiluminescence immunoassays have transformed serology, permitting random access instead of batch testing, as well as shortening turnaround time and improving accuracy. The most transformative, however, was the introduction of nucleic acid amplification tests (NAATs), which are both rapid and sensitive, can be automated, high-throughput, or random access, and can detect viruses not amenable to routine culture.</para>
+        <para id="ch0103s000000p0004">Initially, NAAT was confined to a limited number of specialized molecular laboratories, using multistep, technically demanding laboratory-developed methods, and required separate assays optimized for each pathogen. For decades, only a handful of Food and Drug Administration (FDA)-cleared or -approved commercial NAATs were available. With each new edition of this<emphasis>Manual</emphasis>, the transition to molecular methods has accelerated, due to advances in technology, real-time amplification methods, and user-friendly, FDA-approved or -cleared devices. For years, viral culture was considered the gold standard because it could detect a variety of pathogens and reveal an unexpected virus. With the development of NAAT-based syndromic panels, first for respiratory pathogens and then for agents responsible for meningitis/encephalitis and gastrointestinal disease, the relevance of viral culture to clinical management has receded further. Not only are these panels faster, requiring only several hours to generate a result, but also they detect more viruses than culture and may include nonviral pathogens that can have a similar presentation. They also require less technical skill than viral culture. Some require the simple addition of a sample into a device and insertion into the instrument. When a more limited diagnosis is sought, another option is the multiplexed minipanel for two or three key pathogens. An additional benefit of nonculture methods is safety, since some viruses (e.g., HIV, severe acute respiratory syndrome coronavirus 2 [SARS CoV-2], and monkeypox virus) require biosafety level 3 for propagation.</para>
+        <para id="ch0103s000000p0005">For quantitative monitoring of viral load in blood, more tests continue to be FDA approved, and substantial effort has been invested in the development of international quantitative standards that will permit cross-institutional comparisons and interpretive guidelines. Other recent innovations include greater flexibility, the ability to accommodate multiple assays simultaneously in a flexible and automated manner, elimination of the need for separate RNA or DNA extraction, and shorter turnaround times.</para>
+        <table id="ch0103s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0103s000000a0004"/><link linkend="ch0103s000000a0014">TABLE 1</link></phrase></emphasis> Methods for detection and identification of viruses
+</title>
+          
+          <tgroup cols="7">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Virus</phrase>
+                </entry>
+                <entry><phrase role="center">Applicability of detection method<superscript><emphasis><anchor id="ch0103s000000a0005"/><link linkend="ch0103s000000a0007">a</link>,<anchor id="ch0103s000000a0006"/><link linkend="ch0103s000000a0008">b</link></emphasis></superscript></phrase>
+                </entry>
+                <entry><phrase role="center">Pathology</phrase>
+                </entry>
+                <entry><phrase role="center">Comments</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="center">Nucleic acid</phrase>
+                </entry>
+                <entry><phrase role="center">Antigen</phrase>
+                </entry>
+                <entry><phrase role="center">Virus isolation</phrase>
+                </entry>
+                <entry><phrase role="center">Antibody</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry>Adenoviruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry>NAAT is most sensitive for detection, but tests vary in ability to detect diverse types. Quantitative NAAT used to monitor viral load in immunocompromised hosts. Antigen assays used for ocular, enteric, or respiratory adenoviruses, but less sensitive than culture or NAAT. Sequencing required to define new genotypes.</entry>
+              </row>
+              <row>
+                <entry>Arboviruses</entry>
+                <entry><phrase role="center">A, C</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">A, C</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT and IgM are useful in acute infection, depending on day of illness and clinical disease. However, NAAT is not commercially available for most neurotropic arboviruses, except WNV. Serologic cross-reactivity is problematic, especially Zika and dengue viruses. More specific PRNT available at CDC. Rapid antigen tests available for dengue. Most arboviruses are readily cultured, but may require BSL-3 or -4 facilities.</entry>
+              </row>
+              <row>
+                <entry>Bocaviruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT is the primary test available for diagnosis. Antigen tests available in Europe. Persistence of bocavirus DNA in respiratory tract after acute infection is common, leading to diagnostic uncertainty. High viral load and positive antigen tests have a higher correlation with disease.</entry>
+              </row>
+              <row>
+                <entry>Coronaviruses: OC43, 229E, NL63, HKU1</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT used for seasonal respiratory CoV as part of multiplex panels.</entry>
+              </row>
+              <row>
+                <entry>Coronaviruses: SARS-CoV-1, MERS</entry>
+                <entry><phrase role="center">A, C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT and antibody tests available only in public health or research laboratories.</entry>
+              </row>
+              <row>
+                <entry>Coronaviruses: SARS-CoV-2</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">C, D</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT and antigen tests are widely available, including for testing at home. Culture requires BSL-3 containment and is performed primarily in public health and research laboratories. IgG testing may be useful to monitor vaccine response, particularly in the immunocompromised, but is not recommended for most patients.</entry>
+              </row>
+              <row>
+                <entry>Cytomegalovirus</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry>NAAT is most sensitive and can determine viral load. pp65 antigenemia can be used to determine viral load in blood but has been replaced by NAAT in most centers. Culture has limited applicability. IgG antibody used to determine immune status, and IgM to screen for recent infection. IgG avidity testing may be useful to evaluate timing of exposure during pregnancy. CMV-specific gamma interferon release assay is available to measure cell-mediated immunity.</entry>
+              </row>
+              <row>
+                <entry>Enteroviruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT more sensitive and strongly preferred, especially for CNS infection and viremia. Parechovirus requires separate NAAT.</entry>
+              </row>
+              <row>
+                <entry>Epstein-Barr virus</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry>Serology test of choice for diagnosis of primary infection. NAAT useful for monitoring viral load in blood. IHC or ISH used on tissue biopsies.</entry>
+              </row>
+              <row>
+                <entry>Filoviruses and arenaviruses</entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">A, C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry>NAAT is key to rapid diagnosis. BSL-4 facility needed for culture, except for LCMV. Patients with severe disease may die without developing antibody. LCMV diagnosed primarily by serology.</entry>
+              </row>
+              <row>
+                <entry>Hantaviruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT and serology equally useful for diagnosis. IHC used in fatal cases. BSL-4 facility needed for culture. Isolation difficult.</entry>
+              </row>
+              <row>
+                <entry>Hepatitis A virus</entry>
+                <entry><phrase role="center">B, C</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>Serology is the standard diagnostic test. False-positive IgM problematic in low-prevalence areas. NAAT available in public health laboratories in U.S. and in Europe as CE-marked kits, many for screening blood products.</entry>
+              </row>
+              <row>
+                <entry>Hepatitis B virus</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>Detection of specific viral antigens and antibodies allows diagnosis and monitoring the course of infection. NAAT used to monitor therapy and determine genotype.</entry>
+              </row>
+              <row>
+                <entry>Hepatitis C virus</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>Serology is used for diagnosis. NAAT used to confirm active infection and monitor response to therapy. Genotyping helps determine drug regimen and duration of therapy, though this has become less important due to pan-genotypic therapies.</entry>
+              </row>
+              <row>
+                <entry>Hepatitis D virus</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>Testing confined to reference laboratories. Diagnosis is relevant only in the presence of hepatitis B infection. IHC of biopsy tissue useful for diagnosis.</entry>
+              </row>
+              <row>
+                <entry>Hepatitis E virus</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>Serology is the standard diagnostic test, but tests vary in sensitivity and specificity. False-positive IgM problematic in low-prevalence areas. NAAT required for accurate diagnosis in transplant patients. Genotype performed at CDC for autochthonous cases. Antigen tests available in Europe.</entry>
+              </row>
+              <row>
+                <entry>Herpes simplex virus</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry>NAAT is test of choice especially for CSF infection. IFA used for rapid detection in skin/mucous membrane lesions. Serology used to determine immune status.</entry>
+              </row>
+              <row>
+                <entry>Herpesviruses 6A and 6B</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT is test of choice for diagnosis. Serology can document primary infection in children. Interpretation of HHV-6 NAAT can be complicated by chromosomal integration of virus.</entry>
+              </row>
+              <row>
+                <entry>Herpesvirus 7</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT is test of choice but not routinely available.</entry>
+              </row>
+              <row>
+                <entry>Herpesvirus 8</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry>Serology used to identify infected persons. NAAT of blood may be useful in diagnosis posttransplant and monitoring therapy. IHC preferred for tissue.</entry>
+              </row>
+              <row>
+                <entry>Human immunodeficiency virus</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>Serology is primary diagnostic method. Antigen/antibody combination tests reduce seronegative window in acute infection. Quantitative RNA tests used to guide therapy and monitor response. Proviral DNA tests useful for diagnosis of neonatal infection. Sequencing used for resistance testing.</entry>
+              </row>
+              <row>
+                <entry>Human metapneumovirus</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT is the test of choice for diagnosis. IFA and shell vial culture less sensitive options. Conventional culture difficult.</entry>
+              </row>
+              <row>
+                <entry>Human T-cell lymphotropic virus</entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry>Serology is primary diagnostic method. NAAT is qualitative only. Useful if serology is indeterminate.</entry>
+              </row>
+              <row>
+                <entry>Influenza viruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT most sensitive and can provide influenza A virus subtype. Rapid antigen tests have lower sensitivity and specificity than NAAT. IFA and rapid culture more accurate. Serology may be useful for epidemiological studies or retrospective diagnosis.</entry>
+              </row>
+              <row>
+                <entry>Measles viruses</entry>
+                <entry><phrase role="center">A, C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>Serology used for diagnosis and determination of immunity. NAAT best for acute infection. Isolation can be useful if attempted early (prodromal period to 4 days post-rash).</entry>
+              </row>
+              <row>
+                <entry>Mumps virus</entry>
+                <entry><phrase role="center">A, C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>Serology used most commonly for diagnosis and determination of immunity. NAAT useful for diagnosing infection especially among vaccinated individuals.</entry>
+              </row>
+              <row>
+                <entry>Noroviruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT is test of choice. Strain variability has potential to impact results.</entry>
+              </row>
+              <row>
+                <entry>Parainfluenza viruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT more sensitive than isolation and is test of choice. NAAT differentiates between types, but this is of unclear clinical utility. IFA most common rapid detection method.</entry>
+              </row>
+              <row>
+                <entry>Parechoviruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT is test of choice.</entry>
+              </row>
+              <row>
+                <entry>Papillomaviruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry>NAAT is test of choice for detection and genotype differentiation. Cytopathology useful for diagnosis.</entry>
+              </row>
+              <row>
+                <entry>Parvovirus B19</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry>Serology used to diagnose B19 in immunocompetent individuals. NAAT is test of choice for immunocompromised hosts, early in infection before antibody, and for B19-exposed fetuses. Viral loads in blood very high prior to development of antibody.</entry>
+              </row>
+              <row>
+                <entry>Polyomaviruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry>NAAT is test of choice. Genetic variability has led to falsely low or negative results. JC DNA detection in CSF useful for presumptive diagnosis of PML. JC antibody used to predict risk for PML. BK DNA quantification in plasma/urine used for preemptive diagnosis of PVAN. IHC and EM useful for biopsy tissues.</entry>
+              </row>
+              <row>
+                <entry>Poxviruses</entry>
+                <entry><phrase role="center">A, C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry>NAAT allows virus inactivation and rapid detection. Electron microscopy is very useful for rapid diagnosis but limited availability. Smallpox isolation requires BSL-3 or BSL-4 and should be attempted only in WHO collaborating centers. Vaccinia virus culture requires BSL-2 and monkeypox BSL-3.</entry>
+              </row>
+              <row>
+                <entry>Rabies virus</entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">A, C</phrase>
+                </entry>
+                <entry>For human rabies, testing done at CDC. NAAT and culture used for saliva, CSF, and tissue; IFA for skin biopsy; serology for CSF and serum. Serology available at commercial laboratories used to monitor antibody titers in vaccinated professionals.</entry>
+              </row>
+              <row>
+                <entry>Respiratory syncytial virus</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT most sensitive. Rapid antigen tests, especially IFA, useful. Serology useful only for epidemiological studies.</entry>
+              </row>
+              <row>
+                <entry>Rhinoviruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>NAAT much more sensitive than culture; cross reaction with other enteroviruses can occur.</entry>
+              </row>
+              <row>
+                <entry>Rotaviruses</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>Antigen detection has been standard test for diagnosis. Rotavirus now in NAAT gastroenteritis panels. EM useful if available.</entry>
+              </row>
+              <row>
+                <entry>Rubella virus</entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">C</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry>Serology used for diagnosis and immune status. NAAT for acute infection. Isolation useful for postnatal rubella if attempted early (prodromal period to 4 days post-rash). In CRS, virus can be isolated for weeks to months after birth.</entry>
+              </row>
+              <row>
+                <entry>Transmissible spongiform encephalopathy agents</entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">D</phrase>
+                </entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry>Histology most useful diagnostic test. Surrogate markers popular but lack specificity. Western blot for PrP performed in specialized laboratories. RT-QuIC to detect PrP<superscript><emphasis>Sc.</emphasis></superscript> Human genome sequencing useful for diagnosis of genetic disorders.</entry>
+              </row>
+              <row>
+                <entry>Varicella-zoster virus</entry>
+                <entry><phrase role="center">A</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry><phrase role="center">B</phrase>
+                </entry>
+                <entry>NAAT most sensitive and increasingly used. IFA more sensitive than culture. Culture slow and not sensitive. Serology most useful for determination of immunity and can be useful in CNS vasculopathy.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0103s000000p0006" role="table-footnote"><superscript><link linkend="ch0103s000000a0005"><emphasis>a</emphasis></link></superscript><anchor id="ch0103s000000a0007"/>Viral nucleic acids (DNA and RNA) are detected by amplification methods such as PCR and characterized by sequencing. Viral antigens can be detected by a variety of immunoassays. Virus isolation includes conventional cell culture and rapid centrifugation culture with detection of viral antigens by immunostaining. Antibody detection involves measurement of total or class-specific immunoglobulins directed at specific viral antigens. Pathology involves the visualization of virus-induced changes in tissue or cytology smears (including inclusions and multinucleated cells), immunohistochemistry or <emphasis>in situ</emphasis> hybridization, or visualization of viral particles by electron microscopy.</para>
+        <para id="ch0103s000000p0007" role="table-footnote"><superscript><link linkend="ch0103s000000a0006"><emphasis>b</emphasis></link></superscript><anchor id="ch0103s000000a0008"/>A, test is generally preferred for routine clinical diagnosis; B, alternative test whose utility may be limited to specific indications, forms of infection, or sample types, as delineated in the comments and in the text of the relevant chapters; C, test is limited to public health laboratories, such as CDC, due to specialized testing or biosafety concerns; D, test is not available, is not generally useful, or is used only in research.</para>
+        <para id="ch0103s000000p0008" role="table-footnote">Abbreviations: NAAT, nucleic acid amplification test; WNV, West Nile virus; PRNT, plaque reduction neutralization test; CDC, Centers for Disease Control and Prevention; BSL, biosafety level; CoV, coronavirus; SARS, severe acute respiratory syndrome; MERS, Middle East respiratory syndrome; CMV, cytomegalovirus; CNS, central nervous system; LCMV, lymphocytic choriomeningitis virus; IHC, immunohistochemistry; CSF, cerebrospinal fluid; ISH,<emphasis>in situ</emphasis> hybridization; PML, progressive multifocal leukoencephalopathy; PVAN, polyomavirus-associated nephropathy; IFA, immunofluorescence assay; HHV, human herpesvirus; EM, electron microscopy; CRS, congenital rubella syndrome; PrP, prion protein; RT-QuIC, real-time quake-induced conversion.</para>
+        <para id="ch0103s000000p0009">In 2015, a paradigm shift occurred when the first NAAT was approved for POC use, providing results for influenza virus in 15 min, or in as little as 5 min for positives. Subsequently, additional Clinical Laboratory Improvement Act (CLIA)-waived NAATs were introduced, with results in 20 to 30 min for influenza A and B viruses and respiratory syncytial virus (RSV) using real-time PCR and in 60 min for 14 respiratory viruses and 3 bacterial pathogens using nested PCR. As an indication of how far the field has come, these POC tests can be as sensitive as the best laboratory-performed assays.</para>
+        <anchor id="ch0103s000000a0009"/>
+        <beginpage pagenum="1648"/>
+        <anchor id="ch0103s000000a0010"/>
+        <beginpage pagenum="1649"/>
+        <anchor id="ch0103s000000a0011"/>
+        <beginpage pagenum="1650"/>
+        <anchor id="ch0103s000000a0012"/>
+        <beginpage pagenum="1651"/>
+        <para id="ch0103s000000p0010">Despite these advantages, some pitfalls of molecular testing have become apparent as the tests are more widely used. The sensitivities and specificities for detecting the same virus often vary between assays. In addition, despite targeting conserved regions of the genome, strain variability and mutations can lead to underquantification of viral load, or even false-negative results. Furthermore, as tests become more sensitive, low levels of clinically irrelevant or nonviable viruses may be detected and can be misleading to clinicians. Similarly, interpreting the clinical relevance of multiple viral pathogens in the same sample, especially when relative quantification is not available, is often problematic.</para>
+      </sect2>
+      <sect2 id="ch0103s0001s0003">
+        <title>IMPACT OF COVID-19, CURRENT CHALLENGES, AND FUTURE PERSPECTIVES</title>
+        <anchor id="ch0103s000001a0004"/>
+        <anchor id="ch0103s000000a0013"/>
+        <para id="ch0103s000000p0011">With the arrival of the coronavirus disease 2019 (COVID-19) pandemic, ongoing trends accelerated. The use of respiratory viral culture was eliminated by many laboratories. Molecular platforms of every type were redirected to SARS-CoV-2 testing. Due to concerns regarding SARS-CoV-2 mutations, almost all NAATs incorporated an unprecedented 2 or 3 viral gene targets to avoid false-negative results. Though stretched to their limits, manufacturers and diagnostic laboratories have done their best to meet the demands created by repeated waves of SARS-CoV-2 variants. Of necessity, acceptable specimen types expanded, self-collection of nasal swabs and saliva was embraced, and a broad array of test platforms was employed in order to meet clinical needs. Unexpectedly, both existing and new lateral-flow rapid antigen detection methods saw a tremendous surge in demand, as their value for POC and home testing for SARS-CoV-2 became evident. Even NAATs were developed and commercialized for home use.</para>
+        <para id="ch0103s000000p0012">Four years ago, we wrote that next-generation sequencing (NGS) for resistance testing, outbreak management, and characterization and surveillance of pathogens, as well as metagenomics to discover unexpected etiologies of disease, would be the next wave of technological advances moving from the research laboratory to the clinical arena. This has indeed come to pass, as NGS has been critical to understanding and responding to the SARS-CoV-2 pandemic. However, there remain significant challenges in the implementation of NGS for clinical diagnosis, including the expertise required, cost of instrumentation and personnel, turnaround time, bioinformatics, and result interpretation.</para>
+        <para id="ch0103s000000p0013">Through this period of transition, it is clear that viral diagnosis is no longer confined to small, specialized laboratories with highly skilled staff but is increasingly performed in multiple venues, including large, highly automated laboratories, at the point of care in clinics and pharmacies, and, for SARS-CoV-2, even at home. With this expansion comes concern that clinical virology expertise in test selection and result interpretation may be diminishing. Going forward, linking best practice guidelines to specific test orders and results should be encouraged if the full benefits of an accurate and rapid diagnosis are to be realized. Selecting the appropriate test will depend on the virus(es) sought, sample site, clinical presentation, clinical purpose (e.g., screening, confirmation, diagnosis, or monitoring), patient characteristics, and disease prevalence. This<emphasis>Manual</emphasis> should serve as a key resource for accomplishing these tasks. <anchor id="ch0103s000000a0014"/><link linkend="ch0103s000000a0004">Table 1</link> provides a concise overview for each virus group; however, the reader is referred to the specific chapters for more detailed discussions.</para>
+        <para id="ch0103s000000p0014">While the pace of change can be daunting for laboratories, it is extremely gratifying to witness the impact of state-of-the-art testing on patient care. As we move forward, it is critical that laboratorians communicate with each other to address problems, including the optimization and standardization of methods, and, in addition, that they encourage input and feedback from clinicians. Due to the speed of technological advancements and the continuing discovery of new viruses and new therapies, keeping abreast of the most recent literature is strongly recommended.</para>
+      </sect2>
+    </sect1>
+  </chapter>

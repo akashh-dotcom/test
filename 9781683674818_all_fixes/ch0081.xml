@@ -1,0 +1,1162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0081">
+    <title>MYCOPLASMAS AND OBLIGATE INTRACELLULAR BACTERIA</title>
+    <sect1 id="ch0081s0001">
+      <title>MYCOPLASMAS AND OBLIGATE INTRACELLULAR BACTERIA</title>
+      <sect2 id="ch0081s0001s0001">
+        <title>64 General Approaches to Identification of Mycoplasma, Ureaplasma, and Obligately Intracellular Bacteria</title>
+        <anchor id="ch0081s010001a0001"/>
+        <anchor id="ch0081s000000a0001"/>
+        <para role="chapterAuthor"><phrase role="center">CÉCILE BÉBÉAR AND J. STEPHEN DUMLER</phrase>
+        </para>
+        <para id="ch0081s000000p0001">The bacteria discussed in<ulink url="ch0082#ch0082s0001">chapters 65</ulink> to <ulink url="ch0087#ch0087s0001">70</ulink> differ from bacteria described in other parts of this <emphasis>Manual</emphasis> by several characteristics, including a lack of ideal characterization with the Gram stain method and, except for <emphasis>Mycoplasma</emphasis> and <emphasis>Ureaplasma</emphasis> species and to a limited degree for <emphasis>Coxiella burnetii</emphasis> and <emphasis>Tropheryma whipplei</emphasis>, a requirement for intracellular growth. Thus, the most frequently used tests in clinical microbiology laboratories, Gram staining and culture on artificial media, are often unable to detect these organisms if they are present in clinical samples. Diagnosis of infections caused by these bacteria has traditionally been accomplished by Giemsa and Wright stains of clinical samples, by detection of antibody responses to infection using a variety of serologic tests, or by histopathologic analysis of biopsy samples. Molecular diagnostic tools and enhanced culture methods have significantly improved the ability to detect these agents and to diagnose the diseases they cause. For many of these infections, molecular tools have become standard. The following tables summarize the epidemiology of these infections (<anchor id="ch0081s000000a0002"/><link linkend="ch0081s000000a0012">Table 1</link>) and the diagnostic tests most often used for detection of the causative bacteria (<anchor id="ch0081s000000a0003"/><link linkend="ch0081s000000a0013">Table 2</link>).</para>
+        <anchor id="ch0081s000000a0004"/>
+        <beginpage pagenum="1229"/>
+        <anchor id="ch0081s000000a0005"/>
+        <beginpage pagenum="1230"/>
+        <anchor id="ch0081s000000a0006"/>
+        <beginpage pagenum="1231"/>
+        <anchor id="ch0081s000000a0007"/>
+        <beginpage pagenum="1232"/>
+        <anchor id="ch0081s000000a0008"/>
+        <beginpage pagenum="1233"/>
+        <anchor id="ch0081s000000a0009"/>
+        <beginpage pagenum="1234"/>
+        <anchor id="ch0081s000000a0010"/>
+        <beginpage pagenum="1235"/>
+        <anchor id="ch0081s000000a0011"/>
+        <beginpage pagenum="1236"/>
+        <table id="ch0081s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0081s000000a0012"/><link linkend="ch0081s000000a0002">TABLE 1</link></phrase></emphasis> Epidemiology and clinical diseases associated with <emphasis>Anaplasma, Chlamydia, Coxiella, Ehrlichia, Mycoplasma, Orientia, Rickettsia, Tropheryma</emphasis>, and <emphasis>Ureaplasma</emphasis> infections
+</title>
+          
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Organism</phrase>
+                </entry>
+                <entry><phrase role="center">Disease</phrase>
+                </entry>
+                <entry><phrase role="center">Reservoir(s)</phrase>
+                </entry>
+                <entry><phrase role="center">Vector and mode of transmission</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Anaplasma phagocytophilum</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Human granulocytic anaplasmosis: fever, headache, myalgia, systemic involvement except for central nervous system</phrase>
+                </entry>
+                <entry><phrase role="left">White-footed mouse, other small mammals, ruminants. deer</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Ixodes scapularis</emphasis> (deer or black-legged tick), <emphasis>I. pacificus</emphasis> (western black-legged tick), <emphasis>I. ricinus</emphasis> (rabbit tick), <emphasis>I. persulcatus</emphasis> (taiga tick) bites, <emphasis>Haemaphysalis concinna</emphasis> (relict tick)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Chlamydia abortus</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Spontaneous abortion</phrase>
+                </entry>
+                <entry><phrase role="left">Ruminants</phrase>
+                </entry>
+                <entry><phrase role="left">Exposure to infected sheep or goats during birthing season</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Chlamydia pneumoniae</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Pneumonia, bronchitis, sinusitis, pharyngitis</phrase>
+                </entry>
+                <entry><phrase role="left">Humans</phrase>
+                </entry>
+                <entry><phrase role="left">Inhalation of infected aerosols</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Chlamydia psittaci</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Psittacosis (pneumonia), systemic infections</phrase>
+                </entry>
+                <entry><phrase role="left">Birds, domestic animals</phrase>
+                </entry>
+                <entry><phrase role="left">Direct contact with or inhalation of infected aerosols</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Chlamydia trachomatis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Endemic trachoma, inclusion keratoconjunctivitis, urethritis, cervicitis, epididymitis, endometritis, salpingitis, perihepatitis, tubal factor infertility, ectopic pregnancy, neonatal conjunctivitis and pneumonia, lymphogranuloma venereum, proctitis</phrase>
+                </entry>
+                <entry><phrase role="left">Humans</phrase>
+                </entry>
+                <entry><phrase role="left">Sexual contact, hand-eye contact, insect fomites, infected birth canal</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Coxiella burnetii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Acute Q fever (self-limited febrile illness with or without pneumonia, hepatitis), chronic Q fever (endocarditis, endovascular infections)</phrase>
+                </entry>
+                <entry><phrase role="left">Cattle, sheep, goats, cats, rabbits, dogs, ticks</phrase>
+                </entry>
+                <entry><phrase role="left">Inhalation of infected aerosols, ingestion of nonpasteurized dairy products, ticks</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Ehrlichia chaffeensis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Human monocytic ehrlichiosis: fever, headache, myalgia, systemic involvement including central nervous system</phrase>
+                </entry>
+                <entry><phrase role="left">White-tailed deer, dogs and other canids, raccoons</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Amblyomma americanum</emphasis> (lone star tick) and potentially <emphasis>Dermacentor variabilis</emphasis> (American dog tick) bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Ehrlichia ewingii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>E. ewingii</emphasis> ehrlichiosis: fever, headache, myalgia</phrase>
+                </entry>
+                <entry><phrase role="left">Dogs and other canids</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>A. americanum</emphasis> (lone star tick) bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>Ehrlichia muris</emphasis> subsp<emphasis>. eauclairensis</emphasis></phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>E. muris</emphasis> subsp. <emphasis>eauclairensis</emphasis> ehrlichiosis: fever, headache, myalgia</phrase>
+                </entry>
+                <entry><phrase role="left">Small mammals</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>I. scapularis</emphasis> (deer or black-legged tick)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Mycoplasma genitalium</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Urethritis, cervicitis, endometritis, salpingitis, association with increased risk of tubal factor infertility, preterm birth, and abortion</phrase>
+                </entry>
+                <entry><phrase role="left">Humans</phrase>
+                </entry>
+                <entry><phrase role="left">Sexual contact</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Mycoplasma hominis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Association with bacterial vaginosis, salpingitis, postabortion bacteremia, neonatal infections particularly in preterm neonates, acute pyelonephritis, bacteremia with immune suppression, arthritis, pleural space infection, surgical site infection, mediastinitis in cardiothoracic transplant recipients, and other extragenital infections in immunosuppressed patients</phrase>
+                </entry>
+                <entry><phrase role="left">Humans</phrase>
+                </entry>
+                <entry><phrase role="left">Commensal of urogenital tract, sexual contact, vertical transmission <emphasis>in utero</emphasis> or intrapartum, obstruction or instrumentation of urinary tract, donor-derived infection in solid organ transplant recipients</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Mycoplasma pneumoniae</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Tracheobronchitis, pneumonia, pharyngitis, extrapulmonary complications (meningoencephalitis, pericarditis, arthritis, etc.)</phrase>
+                </entry>
+                <entry><phrase role="left">Humans</phrase>
+                </entry>
+                <entry><phrase role="left">Contact with infectious aerosols or fomites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">“<emphasis>Candidatus</emphasis> Neoehrlichia mikurensis”</phrase>
+                </entry>
+                <entry><phrase role="left">Neoehrlichiosis: fever, headache, myalgia/arthralgia; vascular and thromboembolic events in immunocompromised patients</phrase>
+                </entry>
+                <entry><phrase role="left">Small mammals, canids</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Ixodes ricinus, I. persulcatus, H. concinna</emphasis> ticks</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Orientia tsutsugamushi</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Scrub typhus</phrase>
+                </entry>
+                <entry><phrase role="left">Chiggers (larval mites)</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Leptotrombidium</emphasis> sp. (chigger) bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia africae</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">African tick bite fever</phrase>
+                </entry>
+                <entry><phrase role="left">Ticks; other reservoirs not established</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Amblyomma</emphasis> sp. tick bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia akari</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Rickettsialpox</phrase>
+                </entry>
+                <entry><phrase role="left">Mice and other small mammals</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Allodermanyssus sanguineus</emphasis> (mouse mite) bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia australis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Queensland tick typhus</phrase>
+                </entry>
+                <entry><phrase role="left">Small marsupials</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Ixodes holocyclus</emphasis> (marsupial tick) bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia conorii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Boutonneuse fever or Mediterranean spotted fever</phrase>
+                </entry>
+                <entry><phrase role="left">Small mammals and ticks</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Rhipicephalus sanguineus</emphasis> (brown dog tick) bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia felis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Flea-borne spotted fever</phrase>
+                </entry>
+                <entry><phrase role="left">Fleas, opossums, cats, dogs, rats</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Ctenocephalides felis</emphasis> (cat fleas), contamination of flea bite with infected flea feces</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia heilongjiangensis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Far Eastern tick-borne rickettsiosis</phrase>
+                </entry>
+                <entry><phrase role="left">Ticks, other reservoirs?</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Dermacentor</emphasis> and <emphasis>Haemaphysalis</emphasis> spp. tick bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia honei</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Flinders Island spotted fever</phrase>
+                </entry>
+                <entry><phrase role="left">Rats, reptiles?</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Aponomma hydrosauri</emphasis> (reptile tick), <emphasis>Ixodes granulatus, Ixodes</emphasis> sp., <emphasis>Rhipicephalus</emphasis> sp. tick bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia japonica</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Japanese spotted fever</phrase>
+                </entry>
+                <entry><phrase role="left">Rodents, small mammals, domestic and wild animals, ticks</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Dermacentor</emphasis> sp., <emphasis>Haemaphysalis</emphasis> sp., and <emphasis>Ixodes ovatus</emphasis> tick bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia parkeri</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">American tick bite fever</phrase>
+                </entry>
+                <entry><phrase role="left">Small mammals</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Amblyomma</emphasis> spp. tick bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia prowazekii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Primary louse-borne typhus</phrase>
+                </entry>
+                <entry><phrase role="left">Humans, lice, flying squirrels</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Pediculus humanus</emphasis> (body louse), infected louse feces rubbed into broken skin or mucous membranes or inhaled as aerosol</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Brill-Zinsser disease</phrase>
+                </entry>
+                <entry><phrase role="left">Humans</phrase>
+                </entry>
+                <entry><phrase role="left">Recrudescence years after primary attack of louse-borne typhus</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia rickettsii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Rocky Mountain spotted fever</phrase>
+                </entry>
+                <entry><phrase role="left">Ticks, small and medium-sized mammals</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Dermacentor variabilis</emphasis> (American dog tick), <emphasis>Dermacentor andersoni</emphasis> (wood tick), <emphasis>Rhipicephalus sanguineus</emphasis> (North and Central America), <emphasis>Amblyomma cajennense</emphasis> (Central and South America) tick bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia sibirica</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">North Asian tick typhus, lymphangitis-associated rickettsiosis</phrase>
+                </entry>
+                <entry><phrase role="left">Ticks</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Dermacentor, Haemaphysalis, Hyalomma</emphasis> sp., and <emphasis>Rhipicephalus pusillus</emphasis> tick bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia slovaca</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Tick-borne lymphadenopathy</phrase>
+                </entry>
+                <entry><phrase role="left">Domestic and wild mammals, ticks</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Dermacentor</emphasis> spp. tick bites</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia typhi</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Murine typhus</phrase>
+                </entry>
+                <entry><phrase role="left">Rats and other rodents, opossums</phrase>
+                </entry>
+                <entry><phrase role="left">Infected <emphasis>Xenopsylla cheopis</emphasis> (rat flea) and <emphasis>Ctenocephalides felis</emphasis> (cat flea) flea feces rubbed into broken skin or mucous membranes or inhaled as aerosol</phrase>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="ch0081s000000t0002"><title>Table 2 (continued)</title>
+          
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Tropheryma whipplei</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Whipple disease: chronic diarrhea, malabsorption, arthritis, weight loss, lymphadenopathy, uveitis/retinitis/endophthalmitis, endocarditis, encephalitis, immune reconstitution inflammatory syndrome, acute gastroenteritis, pleural effusion, pulmonary infiltration, mediastinal lymphadenopathy</phrase>
+                </entry>
+                <entry><phrase role="left">Humans</phrase>
+                </entry>
+                <entry><phrase role="left">Environmental contacts (sewage, human stool, saliva), genetic predispositions, fecal-oral transmission among asymptomatically infected humans</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>Ureaplasma urealyticum</emphasis> or <emphasis>Ureaplasma parvum</emphasis></phrase>
+                </entry>
+                <entry><phrase role="left">Urethritis, epididymo-orchitis, urinary calculi, abortion, chorioamnionitis, preterm birth, neonatal infections particularly in preterm neonates, arthritis and other extragenital infections in immunosuppressed patients, hyperammonemia in lung transplant recipients and other immunosuppressed patients</phrase>
+                </entry>
+                <entry><phrase role="left">Humans</phrase>
+                </entry>
+                <entry><phrase role="left">Commensal of urogenital tract, sexual contact, <emphasis>in utero</emphasis> or peripartum vertical transmission, donor-derived infection in solid organ transplant recipients</phrase>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="ch0081s000000t0003"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0081s000000a0013"/><link linkend="ch0081s000000a0003">TABLE 2</link></phrase></emphasis> Diagnostic tests for <emphasis>Anaplasma, Chlamydia, Coxiella, Ehrlichia, Mycoplasma, Orientia, Rickettsia, Tropheryma</emphasis>, and <emphasis>Ureaplasma</emphasis> species
+</title>
+          
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry><phrase role="left">Organism</phrase>
+                </entry>
+                <entry><phrase role="left">Diagnostic test type</phrase>
+                </entry>
+                <entry><phrase role="center">Comments<superscript><emphasis><anchor id="ch0081s000000a0014"/><link linkend="ch0081s000000a0015">a</link></emphasis></superscript></phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Anaplasma phagocytophilum</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">Giemsa or Wright stain of peripheral blood or buffy coat smears is positive in 25–75% of infected people.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">None commercially available; IHC offered at CDC</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">EDTA-anticoagulated blood collected during the pretreatment acute phase of illness is used for NAATs. Species- and genus-specific tests are described. Current test of choice for diagnosis during active infection.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Not routinely used in clinical practice</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">IFA is the most frequently used test. In a patient with typical clinical features of human granulocytic anaplasmosis, a ≥4-fold rise in IgG titer confirms infection, and a single peak IgG titer of ≥128 provides supportive evidence. IgG test sensitivity is between 90 and 100% when using paired acute-phase and convalescent-phase samples; specificity is ~95%. IgM testing is not recommended. Cross-reactivity with <emphasis>Ehrlichia chaffeensis</emphasis> occurs.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Chlamydia pneumoniae</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">Organisms may be detected by Giemsa stain or DFA test directed against LPS, but both tests are insensitive.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">Available EIAs directed against LPS detect all <emphasis>Chlamydiaceae</emphasis> but are licensed only for <emphasis>C. trachomatis.</emphasis> Antigen tests are much less sensitive than NAATs and are not recommended for diagnostic purposes.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">FDA-cleared assays are not currently available, except on multiplex panels.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Widely considered insensitive for diagnosis confirmation. Recovery best if inoculated onto HL cells or Hep-2 cells. Available only through reference laboratories.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">MIF test is the test of choice. Diagnosis confirmed by ≥4-fold rise in titer or single samples with IgM titer of ≥16 and/or IgG titer of ≥512. However, the MIF test is often complex to read and is being replaced more and more by EIAs.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Chlamydia psittaci</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">Organisms may be detected by Giemsa stain or DFA test directed against LPS, but both tests are insensitive.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">Available EIAs directed against LPS detect all <emphasis>Chlamydiaceae</emphasis> but are licensed only for <emphasis>C. trachomatis.</emphasis> Antigen tests are much less sensitive than NAATs and are not recommended for diagnostic purpose.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">None commercially available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Requires biosafety level 3 facility and practices; recovered in many different cell cultures including McCoy and HeLa cells</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">MIF test is most sensitive and specific (test of choice).</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Chlamydia trachomatis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">Organisms can be detected by DFA test or Giemsa stain. These tests are much less sensitive than NAATs, and their routine use cannot be recommended for diagnostic purposes.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">Commercial EIAs for <emphasis>C. trachomatis</emphasis> are considered substandard; they are not recommended for use and are not suitable for screening urine or vaginal swabs. Point-of-care tests are only 62–72% sensitive compared to culture and 33–50% sensitive compared to molecular tests.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">FDA-cleared commercial NAATs (PCR, transcription-mediated amplification, strand displacement amplification) are available and are tests of choice for diagnosis of <emphasis>C. trachomatis</emphasis> infections.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Recovered in many different cell cultures, including McCoy and HeLa 229 cells. Test sensitivity is lower than that of molecular tests and dependent on the quality of the submitted specimen. Available only through reference laboratories.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">MIF test is most sensitive and specific (test of choice) for neonatal pneumonia and can support clinical diagnostic of lymphogranuloma venereum but is not recommended for other <emphasis>C. trachomatis</emphasis> infections. Rises in titers of ≥4-fold are significant, but rising titers may not be observed with chronic, repeated, or systemic infections. A single IgM titer of ≥32 supports a diagnosis of neonatal pneumonia. However, the MIF test is often complex to read and is being replaced more and more by EIAs.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Coxiella burnetii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">DFA or IHC may be performed, but these tests are not widely available.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">None commercially available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">NAATs available through reference laboratories; more sensitive than serology during first 2 weeks; whole blood or leukocyte fractions could have higher concentrations of bacteria, but serum can also be used. Cardiac valve tissue more sensitive than blood for chronic Q fever endocarditis.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Requires biosafety level 3 facility and practices; HHS and USDA select agent. Animal (mouse) inoculation is the most sensitive. May be cultivated in a variety of cell lines, especially HEL, Vero, RK13, THP1, or A549 cells or in embryonated chicken eggs. Axenic culture in ACCM-2 has been developed but is not yet proven for primary isolation.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">Most frequently used diagnostic test. Acute Q fever is confirmed by a ≥4-fold rise in IgG titer to phase II antigens. Chronic Q fever is confirmed in a single serum with a ≥512 IgG titer to phase I antigen without risk factors; ≥256 in those with risk factors (aneurysm, vascular prosthesis, congenital heart disease, severe valve dysfunction, or a prosthetic heart valve). A decreasing antibody titer suggests successful therapy. The IFA test that detects both phase I and II IgG is recommended. Enzyme-linked immunosorbent assay not recommended for chronic Q fever diagnosis.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Ehrlichia chaffeensis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">Giemsa or Wright stain of peripheral blood or buffy coat smears is positive in 2–38% of infected people.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">None commercially available; IHC offered at CDC</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">EDTA-anticoagulated blood collected during the pretreatment acute phase of illness is used for NAATs. Species- and genus-specific tests are described. Current test of choice for diagnosis during active infection. Sensitivity ranges from 60 to 100%.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Not generally used in clinical practice</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">IFA is the most frequently used test. In a patient with typical clinical features of human monocytic ehrlichiosis, a ≥4-fold rise in IgG titer confirms infection, and a single peak IgG titer of ≥128 provides supportive evidence. IgG test sensitivity and specificity are believed to be high when using paired acute- and convalescent-phase samples. IgM testing is not recommended. Cross-reactivity with <emphasis>A. phagocytophilum</emphasis> occurs.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Ehrlichia ewingii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">Giemsa or Wright stain of peripheral blood or buffy coat smears occasionally reveals bacterial clusters (morulae) in neutrophils of infected people.</phrase>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="ch0081s000000t0004"><title>Table 4 (continued)</title>
+          
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">None available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">EDTA-anticoagulated blood collected during the pretreatment acute phase of illness is used for NAATs. Species- and genus-specific tests are available in some reference and public health laboratories. Current test of choice for diagnosis during active infection. Sensitivity is not currently known but is suspected to be high.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">No method of <emphasis>in vitro</emphasis> culture has been developed.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">No specific antibody test is available. Antibody tests are based largely on cross-reactivity with <emphasis>E. chaffeensis</emphasis> and alone are not diagnostic.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>Ehrlichia muris</emphasis> subsp. <emphasis>eauclairensis</emphasis></phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">Giemsa and Wright stains of peripheral blood or buffy coat smears should be examined but have not definitively revealed bacterial clusters in human leukocytes.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">None available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">EDTA-anticoagulated blood collected during the pretreatment acute phase of illness is used for NAATs. A species-specific test is available in some reference and public health laboratories. Current test of choice for diagnosis during active infection. Sensitivity is not currently known but is suspected to be high.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Not currently used in clinical practice</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">Currently only available at some public health laboratories; cross-reactivity with <emphasis>E. chaffeensis</emphasis> occurs.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Mycoplasma genitalium</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">May be detected in genital fluids by use of DNA fluorochrome stains (Hoechst 33258 or acridine orange), but these are not specific and are not recommended for diagnostic purposes.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">Not recommended for diagnostic purposes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">NAATs are the only practical means for detection of the pathogen. FDA-cleared commercial kits for the detection of <emphasis>M. genitalium</emphasis> alone or in combination with <emphasis>C. trachomatis, Neisseria gonorrhoeae</emphasis>, and/or <emphasis>Trichomonas vaginalis</emphasis> are now available in the U.S. In Europe and various countries, several of these commercial assays can detect <emphasis>M. genitalium</emphasis> and its macrolide resistance-associated mutations, but they are not yet FDA cleared.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Growth conditions are not well established but can require cell culture for long periods. Widely considered insensitive for diagnosis confirmation.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">MIF and Western immunoblot methods have been described, although none are commercially available.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Mycoplasma hominis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">May be detected in body fluids by use of DNA fluorochrome stains (Hoechst 33258 or acridine orange), but these are not specific and are not recommended for diagnostic purposes.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">None commercially available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">NAATs have been developed but because of rapid growth are less useful than culture, except for upper genital and extragenital infections. Commercial assays available in various countries simultaneously detect <emphasis>M. hominis, M. genitalium, Ureaplasma</emphasis> spp., and other STI pathogens. No FDA-cleared tests are available, but RUO commercial NAATs are available in U.S. reference laboratories.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Organisms are isolated from a variety of clinical samples. Dacron or polyester swabs are preferred; wood-shafted cotton swabs should be avoided. Mycoplasmas are extremely labile, and appropriate transport medium should be used. Can be recovered on SP4 broth and agar supplemented with arginine (best overall), on Shepard’s 10B broth, or on A8 agar. Growth occurs within 2–4 days. A variety of kits for detection, quantitation, identification, and antimicrobial susceptibility testing of <emphasis>Ureaplasma</emphasis> spp. and <emphasis>M. hominis</emphasis> from urogenital specimens are available in Europe, and two products (Mycoscreen Plus and Mycofast US; ELITechGroup, Puteaux, France) are now FDA cleared in the United States.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">Not commercially available in the U.S. and not recommended for routine use</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Mycoplasma pneumoniae</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">May be detected in body fluids by use of DNA fluorochrome stains (Hoechst 33258 or acridine orange), but these are not specific and are not recommended for diagnostic purposes.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">Not recommended for diagnostic purposes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">NAATs are the methods of choice and have higher analytical and clinical sensitivity in most instances than serology and culture. Real-time PCR is highly sensitive in early <emphasis>M. pneumoniae</emphasis> infection. FDA-cleared commercial kits are available for the detection of <emphasis>M. pneumoniae</emphasis> alone or in combination with other respiratory tract pathogens in both the United States and Europe.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Organisms are isolated from a variety of clinical samples. Dacron or polyester swabs are preferred; wood-shafted cotton swabs should be avoided. Mycoplasmas are extremely labile, and appropriate transport medium should be used. Can be recovered on SP4 glucose broth or agar. Growth occurs after 21 days or longer. Widely considered insensitive for diagnosis confirmation.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">EIAs are more sensitive and specific than complement fixation and IFA; detection of seroconversion with paired sera is preferred, but detection of IgM antibodies in single sera may be useful. The cold agglutinin test is not recommended for diagnosis of <emphasis>M. pneumoniae</emphasis> infection.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">“<emphasis>Candidatus</emphasis> Neoehrlichia mikurensis”</phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">Giemsa and Wright stains of peripheral blood or buffy coat smears should be examined but have not definitively revealed bacterial clusters in human leukocytes.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">None available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">Available at public health referral laboratories</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Not currently used in clinical practice</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">No specific antibody test is available.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Orientia tsutsugamushi</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">DFA or IHC on skin or other tissues may be performed, but tests are not widely available.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">None available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">NAATs performed on EDTA- or sodium citrate-anticoagulated blood, buffy coat leukocytes, plasma, or tissue samples obtained during acute phase of illness and from arthropod vectors found on patients; available only through reference laboratories. NAATs provide a higher diagnostic yield (86%) when applied to biopsy specimens and eschar swabs compared to blood (≤81%); specificity is high. Real-time PCR is the preferred diagnostic method for the acute stage of scrub typhus.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Requires biosafety level 3 facility and practices. Not currently used in clinical practice but can be performed only in public health reference laboratories.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">When an IFA test is used on patients in a region of endemicity, an admission cutoff IgM IFA titer of ≥3,200 or a &gt;4-fold rise to ≥3,200 in paired convalescent-phase samples is required for diagnosis; lower cutoffs are used for travelers and for populations in which the infection is not endemic. Indirect immunoperoxidase uses light microscopy and is also sensitive and specific. Rapid IgM and IgG diagnostic tests have lower sensitivity than IFA but are best applied to paired samples. The Weil-Felix (<emphasis>Proteus</emphasis>) OX-K febrile agglutinin test is not recommended.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>Rickettsia africae, R. conorii, R. parkeri, R. akari, R. felis</emphasis>, and other spotted fever group rickettsiae (see <emphasis>R. rickettsii</emphasis> below)</phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">DFA or IHC on skin biopsy specimen of rash or eschar is sensitive and specific for spotted fever group rickettsiae and available at public health reference laboratories. Antibodies are not commercially available.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">Not available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">NAATs performed on EDTA- or sodium citrate-anticoagulated blood, buffy coat leukocytes, plasma, skin biopsy specimens, or tissue samples obtained during acute phase of illness; available only through reference laboratories. NAATs have poor sensitivity for blood (6–69%) but provide a higher diagnostic yield when applied to biopsy specimens and eschar swabs (48–92%).</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Requires biosafety level 3 facility and practices for some species. Heparin-anticoagulated plasma or buffy coat cells or triturated skin biopsy specimens obtained before antirickettsial therapy are inoculated into shell vials seeded with cell lines such as Vero, L-929, HEL, or MRC5. Infected cells are detected by Giemsa, Gimenez, or immunofluorescence staining or PCR after 48–72 h; sensitivity is up to 59%.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">IFA is sensitive using <emphasis>R. africae, R. conorii, R. parkeri</emphasis>, and other spotted fever group rickettsial antigens (e.g., <emphasis>R. rickettsii</emphasis>) but is low during the acute phase of illness. A 4-fold increase in titer is generally considered most specific, but single titers of ≥128 for IgG are considered diagnostically significant. IgM titers should not be interpreted alone. Indirect immunoperoxidase is also sensitive and specific. A dot EIA that is modestly less sensitive and specific is available for <emphasis>R. conorii.</emphasis></phrase>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="ch0081s000000t0005"><title>Table 5 (continued)</title>
+          
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia prowazekii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">Not available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">Not available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">NAATs performed on EDTA- or sodium citrate-anticoagulated blood, buffy coat leukocytes, plasma, or tissue samples obtained during acute phase of illness and from arthropod vectors found on patients; available only through reference laboratories. NAATs provide a higher diagnostic yield when applied to biopsy specimens.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Requires biosafety level 3 facility and practices. HHS and USDA select agent. Heparin-anticoagulated blood, plasma, or buffy coat cells are inoculated into shell vials seeded with cell lines such as Vero, L-929, HEL, or MRC-5. Infected cells are detected by Giemsa, Gimenez, or fluorescent-antibody staining or PCR after 48–72 h. Sensitivity is not known.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">IFA is sensitive using either <emphasis>R. prowazekii</emphasis> or <emphasis>R. typhi</emphasis> as antigens. A 4-fold increase in titer is generally considered most specific, but single titers of ≥128 for IgG and ≥32 for IgM are considered diagnostically significant. A positive test is not specific for typhus group <emphasis>Rickettsia</emphasis> species owing to broad serologic cross-reactivity.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia rickettsii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">DFA or IHC on skin biopsy specimen of rash is 70% sensitive and 100% specific. Available at public health reference laboratories. Antibodies are not commercially available.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">Not available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">NAATs performed on EDTA- or sodium citrate-anticoagulated blood, buffy coat leukocytes, plasma, skin biopsy specimens, or tissue samples obtained during acute phase of illness; available only through reference laboratories. NAATs have poor sensitivity for blood (6–69%) but provide a higher diagnostic yield when applied to biopsy specimens (48–92%).</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Not generally used in clinical practice. Requires biosafety level 3 facility and practices. Heparin-anticoagulated blood, plasma, or buffy coat cells are inoculated into shell vials seeded with cell lines such as Vero, L-929, HEL, or MRC-5. Infected cells are detected by Giemsa, Gimenez, or fluorescent-antibody staining or PCR after 48–72 h. Sensitivity is not known.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">IFA is sensitive using <emphasis>R. rickettsii</emphasis> or other spotted fever group rickettsial antigens but is low during the acute phase of illness. A 4-fold increase in titer is generally considered most specific, but single titers of ≥128 for IgG and ≥32 for IgM are considered diagnostically significant. IgM titers should not be interpreted alone. A positive serologic test is not specific for <emphasis>R. rickettsii</emphasis> infection owing to broad serologic cross-reactivity among spotted fever group <emphasis>Rickettsia</emphasis> species. EIAs are commercially available but not FDA cleared and not recommended.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Rickettsia typhi</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">DFA or IHC on a skin biopsy specimen of a rash is sensitive and specific. Available at public health reference laboratories. Antibodies are not commercially available.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">Not available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">NAATs performed on EDTA- or sodium citrate-anticoagulated blood, buffy coat leukocytes, plasma, or tissue samples obtained during acute phase of illness; available only through reference laboratories. NAATs have poor sensitivity for blood but provide a higher diagnostic yield when applied to biopsy specimens.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Requires biosafety level 3 facility and practices. Heparin-anticoagulated blood, plasma, or buffy coat cells are inoculated into shell vials seeded with cell lines such as Vero, L-929, HEL, or MRC-5. Infected cells are detected by Giemsa, Gimenez, or fluorescent-antibody staining or PCR after 48–72 h. Sensitivity is not known.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">IFA is sensitive using either <emphasis>R. prowazekii</emphasis> or <emphasis>R. typhi</emphasis> as the antigen. A 4-fold increase in titer is generally considered most specific, but single titers of ≥128 for IgG and ≥32 for IgM are considered diagnostically significant. Indirect immunoperoxidase is also sensitive and specific. A dot EIA that is modestly less sensitive and more specific than IFA is available for <emphasis>R. typhi.</emphasis> Cross-reactivity with spotted fever group <emphasis>Rickettsia</emphasis> species can occur. EIAs are commercially available, but none are FDA cleared or currently recommended.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Tropheryma whipplei</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">Tissue biopsy with periodic acid-Schiff stain, IHC, or fluorescence <emphasis>in situ</emphasis> hybridization; electron microscopy</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">None available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">NAATs are currently the preferred method for specific diagnosis; performed on fresh, frozen, or paraffin-embedded small intestinal biopsy specimens, cardiac valve tissues, lymph nodes, liver, synovium, central nervous system samples, skin, saliva, and stools. Can be used in blood, but a negative result does not rule out infection. Available through reference laboratories.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Isolation requires long-term (&gt;30 days) culture and is currently available in only a few research and reference/public health laboratories around the world.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">Not currently useful</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>Ureaplasma urealyticum</emphasis> or <emphasis>Ureaplasma parvum</emphasis></phrase>
+                </entry>
+                <entry><phrase role="left">Microscopy</phrase>
+                </entry>
+                <entry><phrase role="left">May be detected in body fluids using DNA fluorochrome stains (Hoechst 33258 or acridine orange), but these are not specific and not recommended for diagnostic purposes.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Antigen</phrase>
+                </entry>
+                <entry><phrase role="left">None commercially available</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Molecular</phrase>
+                </entry>
+                <entry><phrase role="left">NAATs have been developed but are less useful than culture, except for extragenital infections. Commercial assays available in various countries simultaneously detect <emphasis>M. hominis, M. genitalium, Ureaplasma</emphasis> spp., and other STI pathogens. No FDA-cleared tests are available, but RUO commercial NAATs are available in U.S. reference laboratories.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Culture</phrase>
+                </entry>
+                <entry><phrase role="left">Organisms are isolated from a variety of clinical samples. Dacron or polyester swabs are preferred; wood-shafted cotton swabs should be avoided. Ureaplasmas are extremely labile, and appropriate transport medium should be used. Can be recovered on Shepard’s 10B urea broth and A8 agar. Growth occurs within 2–4 days. A variety of kits for detection, quantitation, identification, and antimicrobial susceptibility testing of <emphasis>Ureaplasma</emphasis> spp. and <emphasis>M. hominis</emphasis> from urogenital specimens are available in Europe, and two products are now FDA cleared in the United States.</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">Serologic</phrase>
+                </entry>
+                <entry><phrase role="left">Not recommended for routine use</phrase>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0081s000000a0015"/><link linkend="ch0081s000000a0014">a</link></emphasis></superscript>Abbreviations: ACCM-2, acidified citrate cysteine medium 2; DFA, direct fluorescent-antibody assay; EIA, enzyme immunoassay; HHS, Department of Health and Human Services; IFA, indirect fluorescent-antibody assay; IHC, immunohistochemistry; LPS, lipopolysaccharide; MIF, microimmunofluorescence; NAATs, nucleic acid amplification tests; RUO, research use only; STI, sexually transmitted infection; USDA, U.S. Department of Agriculture.</para>
+      </sect2>
+    </sect1>
+  </chapter>

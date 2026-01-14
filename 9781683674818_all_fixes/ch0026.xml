@@ -1,0 +1,915 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0026">
+    <title>11 Investigation of Disease Outbreaks</title>
+    <sect1 id="ch0026s0001">
+      <title>11 Investigation of Disease Outbreaks</title>
+      <anchor id="ch0026s000001a0001"/>
+      <anchor id="ch0026s000000a0001"/>
+      <para role="chapterAuthor"><phrase role="center">REBECCA M. ROLON AND WENDY A. SZYMCZAK</phrase>
+      </para>
+      <sect2 id="ch0026s0001s0001">
+        <title>INTRODUCTION</title>
+        <anchor id="ch0026s000001a0002"/>
+        <anchor id="ch0026s000000a0002"/>
+        <para id="ch0026s000000p0001">A disease outbreak (or cluster) is the occurrence of a disease in excess of what would otherwise be expected. Outbreaks can have a major impact on health care expenditures, whether they occur in a restricted area or result in cases with a wide geographic spread. The time period may be limited or may last for years. To classify an outbreak, it is vital to know the epidemiology of the implicated infectious agent. A single case in an unrecognized area or community, as in the case of smallpox, can be considered an outbreak and should be investigated. Whether the cases are few in number or enter into the hundreds or thousands, outbreaks can provoke fear and anxiety for large populations and divert a large amount of public resources (<link linkend="ch0026s000000li0002">1</link>).</para>
+        <para id="ch0026s000000p0002">Recognizing an increase in the number of cases relative to the ongoing background of diseases is difficult. Increasing the specificity of the case definition by describing outbreaks in terms of time, place, and person can minimize this challenge. This involves collecting detailed information on the similarities of clustered cases as well as identifying the important outliers. Geography was traditionally a major clue as to the source of the outbreak. However, as a result of the globalization of economies, as well as increases in travel and trade, pathogens have expanded beyond their typical geographical ranges. Both people and foodstuffs now regularly travel far distances and challenge prior demarcations for infectious agents. Public health officials must have the knowledge and flexibility to be prepared for presentations of disease in uncommon locations and the ability to trace back a source across continents. It is easy to see how an outbreak can become a pandemic, an epidemic spreading to several countries, as has occurred with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic.</para>
+        <para id="ch0026s000000p0003">Outbreaks are usually triggered when immunologically naïve individuals travel into an area of endemicity or when a new infectious disease is introduced into a susceptible population. The ongoing SARS-CoV-2 pandemic provides an example of the devastation that can occur when a population with no immunity is exposed to a highly transmissible pathogen capable of causing significant morbidity and mortality. Over 500 million people have been infected, and there have been over 6 million deaths as of June 1, 2022 (<ulink url="https://coronavirus.jhu.edu/map.html">https://coronavirus.jhu.edu/map.html</ulink>). Estimates of the reproduction number, R<subscript>0</subscript>, which is the average number of infections produced by an infected person, varies in different regions of the world and has changed over time. During the first months of the pandemic, the median R<subscript>0</subscript> value was estimated to be 5.8 in the United States (<link linkend="ch0026s000000li0003">2</link>), but implementation of restrictions such as school and workplace closures and public event bans was associated with decreasing the R<subscript>0</subscript> by 3 to 24% (<link linkend="ch0026s000000li0004">3</link>). Unfortunately, we have seen the emergence of SARS-COV-2 variants with increased transmissibility (<link linkend="ch0026s000000li0005">4</link>). Another example of an introduction of a pathogen into a susceptible population occurred with Zika virus in Yap in 2007, French Polynesia in 2013, and finally Brazil in 2015, which resulted in a global outbreak that lasted nearly 2 years. Zika virus has been endemic in areas of Africa and Asia since at least 1947, but had not caused clinically significant disease such as microcephaly in infants or Guillain-Barré syndrome until it was introduced into immunologically naïve populations (<link linkend="ch0026s000000li0006">5</link>–<link linkend="ch0026s000000li0008">7</link>).</para>
+        <para id="ch0026s000000p0004">The modern response to outbreaks can be vastly different than in years past due to advances in the understanding of infectious disease pathogenesis, microbial identification, and strain typing. These advancements increase the likelihood that the infectious agent will be identified at the time of the outbreak. We have faced many challenges in the past few years, the most significant being the ongoing SARS-CoV-2 pandemic. We continue to face other important challenges, such as limiting transmission of multidrug-resistant organisms (MDROs) such as<emphasis>Candida auris</emphasis> and Gram-negative bacteria with resistance to most or all available antimicrobial agents. Rapid and accurate identification of these emerging pathogens is critical for limiting outbreak propagation.</para>
+        <para id="ch0026s000000p0005">This chapter will review concepts associated with infectious diseases outbreaks, including disease surveillance, mechanisms used to detect outbreaks, and the epidemiological steps used to investigate an outbreak. Since this text is largely for laboratorians, the chapter describes the role of the laboratory in outbreaks and includes examples where laboratory testing played a key role in the investigation of the outbreak. We provide specific examples of how laboratories contributed to the SARS-CoV-2 outbreak response, but a complete description of the public health response is beyond the scope of this chapter.</para>
+        <anchor id="ch0026s000000a0003"/>
+        <beginpage pagenum="208"/>
+      </sect2>
+      <sect2 id="ch0026s0001s0002">
+        <title>DISEASE SURVEILLANCE</title>
+        <anchor id="ch0026s000001a0003"/>
+        <anchor id="ch0026s000000a0004"/>
+        <para id="ch0026s000000p0006">Outbreak (or epidemic) intelligence is the process used to detect, verify, analyze, assess, and investigate signals that may represent a threat to public health (<link linkend="ch0026s000000li0009">8</link>). Around the world, this effort is coordinated by international health organizations that receive information from national public health agencies, which in turn rely on local authorities. At every level, there are multidisciplinary teams involved that are composed of epidemiologists, laboratory personnel, environmentalists, and other technical staff. <anchor id="ch0026s000000a0005"/><link linkend="ch0026s000000a0009">Table 1</link> illustrates the vast number of types and levels of organizations that work hand in hand to address infectious diseases outbreaks in the United States. Most of the investigations and most of the legal authority to conduct those investigations are at the state or local level. In the health care setting, most outbreak surveillance is performed by members of the infection control and prevention team. Basic laboratory testing and interviews of a select number of individuals may provide sufficient information to identify the source and take appropriate measures. This is well within the means of the local authorities and can usually be performed voluntarily, without a public health mandate. Outbreak investigations provide a unique opportunity for local authorities to provide enhanced education and awareness.</para>
+        <para id="ch0026s000000p0007">Federal agencies usually become involved only when outbreaks involve multiple states, coordination across multiple agencies is needed, or specific expertise is requested. In the United States, there are a variety of federal agencies that assist in setting standards and coordinating efforts, such as the Centers for Disease Control and Prevention (CDC), the U.S. Food and Drug Administration (FDA), U.S. Department of Agriculture (USDA), and the U.S. Department of Health and Human Services (HHS). The CDC, for example, regularly collects surveillance data from health departments in the 50 states, five territories, New York City, and the District of Columbia. Reporting is typically performed through the National Electronic Disease Surveillance System (NEDSS) by local health departments on a voluntary basis. The list of nationally notifiable diseases is updated by the Council of State and Territorial Epidemiologists and CDC every year; an adapted version is included in<anchor id="ch0026s000000a0006"/><link linkend="ch0026s000000a0022">Table 2</link> (<ulink url="https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp">https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp</ulink>). The national data allow for the identification of spikes in case numbers or changes in distribution that could be potentially missed at the individual state level. Internationally, the World Health Organization (WHO) has a 24-h global alert and response system for epidemics and health emergencies and supports member states in their preparedness for epidemics by pooling the resources of existing entities with particular expertise. The 2005 International Health Regulations published by the WHO provide a framework for the climate under which member nations develop and maintain surveillance capabilities. Any nation with knowledge of a disease outbreak of international concern is obligated to report it to the WHO within 24 h (<ulink url="https://www.who.int/news-room/q-a-detail/emergencies-ten-things-you-need-to-do-to-implement-the-international-health-regulations">https://www.who.int/news-room/q-a-detail/emergencies-ten-things-you-need-to-do-to-implement-the-international-health-regulations</ulink>). It is then the role of larger, international agencies to collect and disseminate information to local agencies and keep them current on the global perspective.</para>
+      </sect2>
+      <sect2 id="ch0026s0001s0003">
+        <title>OUTBREAK DETECTION</title>
+        <anchor id="ch0026s000001a0004"/>
+        <anchor id="ch0026s000000a0007"/>
+        <para id="ch0026s000000p0008">The initial investigation of an outbreak is started for many reasons, but in general, potential outbreaks come to the attention of health authorities through direct reporting, passive surveillance, active surveillance, and syndromic surveillance. These surveillance methods are described below.</para>
+        <para id="ch0026s000000p0009">Direct reporting is when the public notifies health authorities, through notification or complaints systems, of cases of which they have immediate knowledge. Direct reporting enables identification of cases caused by any organism, not just those under passive surveillance monitoring, and is usually timely. Reporting via notification has been important to the identification of outbreaks since the inception of public health agencies. Typically, an individual will call in to report an illness, perhaps after a group function or event. A physician caring for that individual may also report one or more cases. First knowledge of an outbreak often begins with an astute clinician making a connection between a particular clinical presentation and the possibility that it may be associated with a larger exposure event, especially if multiple patients with the same presentation are encountered. For example, the enterovirus D68 (EV-D68) outbreak of 2014 was identified through reporting of an increased number of patients with severe respiratory illness from two children’s hospitals in Missouri and Illinois. An increased number of enterovirus/rhinovirus PCR-positive results had also been reported, and further testing performed at CDC confirmed the causative agent to be EV-D68 (<link linkend="ch0026s000000li0010">9</link>). Laboratorians may also identify potential outbreaks that should be further investigated in conjunction with the infection prevention and control team. Laboratorians may suspect an outbreak when there is an apparent increase in the number of a specific pathogen or group of organisms with a rarely encountered resistance phenotype. Laboratorians can begin the investigation by examining the number of times the suspected organism was identified relative to the number of specimens tested during a specific time period. This recovery rate should then be compared to previous time periods. Reasons for the increased observation should be considered, such as seasonal variance of a specific pathogen or changes in laboratory or hospital protocols that might have resulted in increased identification. If the investigation suggests that an outbreak has occurred, hospital infection prevention and control and local health authorities must be notified.</para>
+        <anchor id="ch0026s000000a0008"/>
+        <beginpage pagenum="209"/>
+        <table id="ch0026s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0026s000000a0009"/><link linkend="ch0026s000000a0005">TABLE 1</link></phrase></emphasis> Key agencies involved in outbreak response
+</title>
+          
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Level of response required</phrase>
+                </entry>
+                <entry><phrase role="center">Examples of agencies involved<superscript><link linkend="ch0026s000000a0016"><emphasis>a</emphasis></link></superscript></phrase>
+                  <anchor id="ch0026s000000a0010"/>
+                </entry>
+              </row>
+              <row>
+                <entry>Local: Events contained to one city or county</entry>
+                <entry>Health care providers, local laboratories from public and private agencies including city and county health departments</entry>
+              </row>
+              <row>
+                <entry>State: Events across several cities/counties</entry>
+                <entry>State health departments and state-level private organizations</entry>
+              </row>
+              <row>
+                <entry>Federal: Large numbers of people or outbreaks that are particularly widespread</entry>
+                <entry>National private organizations or public national agencies such as the Centers for Disease Control and Prevention<superscript><link linkend="ch0026s000000a0017">1</link></superscript><anchor id="ch0026s000000a0011"/>, U.S. Food and Drug Administration<superscript><link linkend="ch0026s000000a0018">2</link></superscript><anchor id="ch0026s000000a0012"/>, U.S. Department of Agriculture<superscript><link linkend="ch0026s000000a0019">3</link></superscript><anchor id="ch0026s000000a0013"/>, or U.S. Department of Health and Human Services<superscript><link linkend="ch0026s000000a0020">4</link></superscript><anchor id="ch0026s000000a0014"/></entry>
+              </row>
+              <row>
+                <entry>International: Global outbreak preparation and response</entry>
+                <entry>World Health Organization<superscript><link linkend="ch0026s000000a0021">5</link></superscript><anchor id="ch0026s000000a0015"/></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><link linkend="ch0026s000000a0010"><emphasis>a</emphasis></link></superscript><anchor id="ch0026s000000a0016"/>More information at <anchor id="ch0026s000000a0017"/><link linkend="ch0026s000000a0011">(1)</link> <ulink url="http://www.cdc.gov">http://www.cdc.gov</ulink>; <anchor id="ch0026s000000a0018"/><link linkend="ch0026s000000a0012">(2)</link> <ulink url="http://www.fda.gov">http://www.fda.gov</ulink>; <anchor id="ch0026s000000a0019"/><link linkend="ch0026s000000a0013">(3)</link> <ulink url="http://www.usda.gov/wps/portal/usda/usdahome">http://www.usda.gov/wps/portal/usda/usdahome</ulink>; <anchor id="ch0026s000000a0020"/><link linkend="ch0026s000000a0014">(4)</link> <ulink url="http://www.hhs.gov">http://www.hhs.gov</ulink>; <anchor id="ch0026s000000a0021"/><link linkend="ch0026s000000a0015">(5)</link> <ulink url="http://www.who.int">http://www.who.int</ulink>.</para>
+        <table id="ch0026s000000t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0026s000000a0022"/><link linkend="ch0026s000000a0006">TABLE 2</link></phrase></emphasis> Infectious diseases designated as notifiable at the national level<superscript><link linkend="ch0026s000000a0024"><emphasis>a</emphasis></link></superscript><anchor id="ch0026s000000a0023"/>
+</title>
+          
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry><para>Anthrax</para>
+                  <para id="ch0026s000000p0010">Arboviral diseases, neuroinvasive and non-neuroinvasive</para>
+                  <para id="ch0026s000000p0011">Babesiosis</para>
+                  <para id="ch0026s000000p0012">Botulism (foodborne, infant, and other)</para>
+                  <para id="ch0026s000000p0013">Brucellosis</para>
+                  <para id="ch0026s000000p0014">Campylobacteriosis</para>
+                  <para id="ch0026s000000p0015"><emphasis>Candida auris</emphasis>
+                  </para>
+                  <para id="ch0026s000000p0016">Carbapenemase-producing carbapenem-resistant<emphasis>Enterobacteriaceae</emphasis></para>
+                  <para id="ch0026s000000p0017">Chancroid</para>
+                  <para id="ch0026s000000p0018"><emphasis>Chlamydia trachomatis</emphasis> infection</para>
+                  <para id="ch0026s000000p0019">Cholera</para>
+                  <para id="ch0026s000000p0020">Coccidioidomycosis</para>
+                  <para id="ch0026s000000p0021">Congenital syphilis</para>
+                  <para id="ch0026s000000p0022">Cryptosporidiosis</para>
+                  <para id="ch0026s000000p0023">Cyclosporiasis</para>
+                  <para id="ch0026s000000p0024">Dengue virus infections</para>
+                  <para id="ch0026s000000p0025">Diphtheria</para>
+                  <para id="ch0026s000000p0026">Ehrlichiosis/anaplasmosis</para>
+                  <para id="ch0026s000000p0027">Giardiasis</para>
+                  <para id="ch0026s000000p0028">Gonorrhea</para>
+                  <para id="ch0026s000000p0029"><emphasis>Haemophilus influenzae</emphasis>, invasive disease</para>
+                  <para id="ch0026s000000p0030">Hansen’s disease (leprosy)</para>
+                  <para id="ch0026s000000p0031">Hantavirus pulmonary syndrome</para>
+                  <para id="ch0026s000000p0032">Hemolytic uremic syndrome, post-diarrheal</para>
+                  <para id="ch0026s000000p0033">Hepatitis, viral</para>
+                  <para id="ch0026s000000p0034">Hepatitis A, acute</para>
+                  <para id="ch0026s000000p0035">Hepatitis B, acute, chronic, or perinatal</para>
+                  <para id="ch0026s000000p0036">Hepatitis C, acute, chronic, perinatal</para>
+                  <para id="ch0026s000000p0037">Human immunodeficiency virus (HIV) infection</para>
+                  <para id="ch0026s000000p0038">Influenza-associated pediatric mortality</para>
+                  <para id="ch0026s000000p0039">Invasive pneumococcal disease</para>
+                  <para id="ch0026s000000p0040">Legionellosis</para>
+                  <para id="ch0026s000000p0041">Leptospirosis</para>
+                  <para id="ch0026s000000p0042">Listeriosis</para>
+                  <para id="ch0026s000000p0043">Lyme disease</para>
+                  <para id="ch0026s000000p0044">Malaria</para>
+                </entry>
+                <entry><para>Measles</para>
+                  <para id="ch0026s000000p0045">Meningococcal disease</para>
+                  <para id="ch0026s000000p0046">Monkeypox</para>
+                  <para id="ch0026s000000p0047">Mumps</para>
+                  <para id="ch0026s000000p0048">Novel influenza A virus infections</para>
+                  <para id="ch0026s000000p0049">Pertussis</para>
+                  <para id="ch0026s000000p0050">Plague</para>
+                  <para id="ch0026s000000p0051">Poliovirus infection</para>
+                  <para id="ch0026s000000p0052">Psittacosis</para>
+                  <para id="ch0026s000000p0053">Q fever</para>
+                  <para id="ch0026s000000p0054">Rabies: animal and human</para>
+                  <para id="ch0026s000000p0055">Rubella</para>
+                  <para id="ch0026s000000p0056">Salmonellosis</para>
+                  <para id="ch0026s000000p0057">Severe acute respiratory syndrome-associated coronavirus (SARS-CoV) disease</para>
+                  <para id="ch0026s000000p0058">Shiga toxin-producing<emphasis>Escherichia coli</emphasis> (STEC)</para>
+                  <para id="ch0026s000000p0059">Shigellosis</para>
+                  <para id="ch0026s000000p0060">Smallpox</para>
+                  <para id="ch0026s000000p0061">Spotted fever rickettsiosis</para>
+                  <para id="ch0026s000000p0062">Streptococcal toxic-shock syndrome</para>
+                  <para id="ch0026s000000p0063">Syphilis</para>
+                  <para id="ch0026s000000p0064">Tetanus</para>
+                  <para id="ch0026s000000p0065">Toxic-shock syndrome (other than streptococcal)</para>
+                  <para id="ch0026s000000p0066">Trichinellosis</para>
+                  <para id="ch0026s000000p0067">Tuberculosis</para>
+                  <para id="ch0026s000000p0068">Tularemia</para>
+                  <para id="ch0026s000000p0069">Typhoid fever</para>
+                  <para id="ch0026s000000p0070">Vancomycin-intermediate<emphasis>Staphylococcus aureus</emphasis> (VISA) infection</para>
+                  <para id="ch0026s000000p0071">Vancomycin-resistant<emphasis>Staphylococcus</emphasis> <emphasis>aureus</emphasis> (VRSA) infection</para>
+                  <para id="ch0026s000000p0072">Varicella</para>
+                  <para id="ch0026s000000p0073">Vibriosis</para>
+                  <para id="ch0026s000000p0074">Viral hemorrhagic fever</para>
+                  <para id="ch0026s000000p0075">Yellow fever</para>
+                  <para id="ch0026s000000p0076">Zika virus disease and infection</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><link linkend="ch0026s000000a0023"><emphasis>a</emphasis></link></superscript><anchor id="ch0026s000000a0024"/>Adapted from reference <link linkend="ch0026s000000li0068">67</link>.</para>
+        <para id="ch0026s000000p0077">The reporting of specific conditions and diseases from routine specimen submissions to the laboratory constitutes passive surveillance. Each state and local area defines a list of specific infectious diseases that are required to be reported to local health departments. Most states require dual reporting by both the laboratory and the clinician, which ensures that cases are not missed and allows the local health department to obtain complete laboratory and clinical information that will be necessary for follow-up investigations. Authorities regularly conduct pathogen-specific passive surveillance to look for clusters of cases or numbers previously not seen in certain geographical areas, using predetermined case definitions. The ongoing collection of epidemiologic data allows thresholds for alerts and responses to be set. However, passive notification-based systems rely on a high degree of resources to appropriately triage and analyze the reports.</para>
+        <para id="ch0026s000000p0078">Because predefined reporting lists potentially neglect unrecognized, or emerging pathogens, language is included that mandates reporting of any “unusual clusters” or “pathogens that may take on some unexpected significance.” In addition, health departments and the CDC will provide real-time health alerts if an emerging pathogen or an organism associated with an outbreak should be reported and if additional testing should be performed. For example, a CDC health alert requested reporting and submission of<emphasis>C. auris</emphasis> isolates to public health authorities when the pathogen was recognized within the United States (<link linkend="ch0026s000000li0011">10</link>).</para>
+        <para id="ch0026s000000p0079">Active surveillance is performed by public health authorities and involves regularly contacting heath care providers or the population to seek information about patients with a specific infection or condition. Active surveillance provides timely information that can be used to quickly identify outbreaks and subsequently limit transmission but has a high cost. Because of the expense, active surveillance may not be employed until after a disease cluster is suspected (<ulink url="https://www.cdc.gov/training/publichealth101/surveillance.html">https://www.cdc.gov/training/publichealth101/surveillance.html</ulink>) (<link linkend="ch0026s000000li0012">11</link>). Outbreak surveillance often involves active surveillance methods. During the SARS-CoV-2 pandemic, outbreak surveillance in many countries included contact tracing to identify exposed individuals so that self-quarantine could be undertaken to limit transmission (<link linkend="ch0026s000000li0013">12</link>).</para>
+        <anchor id="ch0026s000000a0025"/>
+        <beginpage pagenum="210"/>
+        <para id="ch0026s000000p0080">Public health authorities also actively engage in syndromic surveillance by looking at nonspecific health indicators. Syndromic surveillance can use passive or active methods. An example of syndromic surveillance is the CDC’s practice of looking at diagnosis codes in all emergency departments around the time of notable events, such as the Olympics. This allows epidemiologists to look for cases of intentional food poisoning or biological terrorism (<link linkend="ch0026s000000li0014">13</link>). Evidence collected via these methods may include false-positives, so it is important to establish clear case definitions and appropriate thresholds for action.</para>
+      </sect2>
+      <sect2 id="ch0026s0001s0004">
+        <title>EPIDEMIOLOGICAL APPROACHES TO AN OUTBREAK INVESTIGATION</title>
+        <anchor id="ch0026s000001a0005"/>
+        <anchor id="ch0026s000000a0026"/>
+        <para id="ch0026s000000p0081">Once an outbreak is suspected, the decision to perform a full investigation can be initiated. Reasons for initiating an outbreak investigation can be multiple, including, but not limited to, to identify the etiologic agent responsible, to find the source of the infection, to determine the specific attack rate, and to formulate recommendations to prevent further transmission. Speed and accuracy are two key components of an outbreak investigation, and a systematic framework is vital to ensure that neither component is sacrificed for the other. The basic steps of an outbreak investigation are listed in<anchor id="ch0026s000000a0027"/><link linkend="ch0026s000000a0029">Table 3</link> (<ulink url="https://www.cdc.gov/csels/dsepd/ss1978/lesson6/section2.html">https://www.cdc.gov/csels/dsepd/ss1978/lesson6/section2.html</ulink>) (<link linkend="ch0026s000000li0015">14</link>). These steps serve as a guide to stay organized, work systematically, and promote planning. In the urgency of an outbreak investigation, many of these steps can occur concurrently or be rearranged, but must not be overlooked, and should serve as a checklist. The extent and scope of the investigation may change based on resources, timing, the clinical or public health significance of the outbreak, and whether the outbreak is still ongoing. Depending on the nature of the outbreak, a team of experts knowledgeable in the area should be brought together. For example, a list of key players that should be involved in foodborne outbreaks is provided by the CDC (<ulink url="https://www.cdc.gov/foodsafety/outbreaks/investigating-outbreaks/key-players.html">https://www.cdc.gov/foodsafety/outbreaks/investigating-outbreaks/key-players.html</ulink>) (<anchor id="ch0026s000000a0028"/><link linkend="ch0026s000000a0032">Table 4</link>).</para>
+        <table id="ch0026s000000t0003"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0026s000000a0029"/><link linkend="ch0026s000000a0027">TABLE 3</link></phrase></emphasis> Steps in an outbreak investigation
+</title>
+          
+          <tgroup cols="1">
+            <tbody>
+              <row>
+                <entry><orderedlist>
+                    <listitem id="ch0026s000000li0001">
+                      <para>Prepare to investigate:</para>
+                      <para id="ch0026s000000p0082">Identify team, review literature, notify appropriate entities, determine if immediate control measures are needed.</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Verify the diagnosis:</para>
+                      <para id="ch0026s000000p0083">Confirm cases are “real.”</para>
+                      <para id="ch0026s000000p0084">Exclude pseudo-outbreaks.</para>
+                      <para id="ch0026s000000p0085">Compare pre-epidemic and epidemic rates.</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Establish a case definition:</para>
+                      <para id="ch0026s000000p0086">Establish a set of criteria for selecting ill persons.</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Find cases:</para>
+                      <para id="ch0026s000000p0087">Find cases and define the scope.</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Descriptive epidemiology:</para>
+                      <para id="ch0026s000000p0088">Describe and orient the data in terms of time, place, and person.</para>
+                      <para id="ch0026s000000p0089">Create line-listing and epidemic curve.</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Develop hypotheses:</para>
+                      <para id="ch0026s000000p0090">Determine the how and why of the outbreak.</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Evaluate the hypotheses:</para>
+                      <para id="ch0026s000000p0091">May perform cohort or case-control study to compare risk factors.</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Refine hypotheses and carry out additional studies:</para>
+                      <para id="ch0026s000000p0092">Conduct culture surveys of the environment.</para>
+                      <para id="ch0026s000000p0093">Perform isolate typing.</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Implement control and prevention measures:</para>
+                      <para id="ch0026s000000p0094">Develop strategies for future prevention.</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Communicate findings:</para>
+                      <para id="ch0026s000000p0095">Educate public health staff as well as the community at large.</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0026s000000p0096">In order to verify that an outbreak is occurring, the observed number of cases must exceed the expected number. Unrelated cases of clinically similar illnesses but different diseases, and sporadic and unrelated cases of the same disease, may confound the investigation and must be ruled out. The diagnosis must be confirmed by testing or through the collection of laboratory specimens to be analyzed at a later time point (in cases where the pathogen is unknown). Because laboratories will often discard primary specimens and culture plates within 1 week, and may only routinely save bacterial isolates from specific sources, members of the outbreak investigation team must be in close communication with the laboratory when an outbreak is first suspected so that a plan for specimen retention is agreed upon. For outbreaks caused by an unknown pathogen, public health authorities may also be able to provide guidance, since some specimens may be requested by the local health department or CDC for further testing. An initial case definition should be established. This involves classifying cases as (i) “confirmed” if laboratory testing is positive, (ii) “probable” if clinical features are present without laboratory test confirmation, or (iii) “suspected” if only a subset of the clinical features is observed. This approach allows for an accurate case count and some evolution in case definition and diagnosis.</para>
+        <para id="ch0026s000000p0097">Laboratories can be the cause of a pseudo-outbreak; therefore, laboratory processes should be examined during outbreak investigations. Between 2013 and 2014, two pseudo-outbreaks of<emphasis>Listeria monocytogenes</emphasis> occurred as a result of contaminated sheep blood agar plates. Listeriosis did not fit the clinical picture in most of the cases, and the bacteria were isolated from sources not commonly associated with <emphasis>Listeria</emphasis> infection, such as urine, a wound, and an abscess. Astute laboratory technologists were involved in recognition of the pseudo-outbreak as they noted growth of the organism on uninoculated plates, below the surface of the medium, and outside of streak lines (<link linkend="ch0026s000000li0016">15</link>). Changes in both laboratory and clinical practices should be evaluated during outbreak investigations. Improved bacterial isolation due to modification of culture conditions and changes in clinician ordering practices have been documented as causes of pseudo-outbreaks (<link linkend="ch0026s000000li0017">16</link>, <link linkend="ch0026s000000li0018">17</link>). Similarly, the introduction of new and improved technologies like matrix-assisted laser desorption ionization – time-of-flight mass spectrometry (MALDI-TOF MS) can result in changes to laboratory reporting protocols and identification of species that clinicians are not familiar with, generating unnecessary concern.</para>
+        <para id="ch0026s000000p0098">The next step in an outbreak investigation is to perform some simple epidemiologic analyses. The outbreak investigation team will begin by creating a line listing of cases that includes patient demographic factors, illness information, and epidemiologic information. An example of the data elements to consider while investigating a foodborne outbreak are shown in<anchor id="ch0026s000000a0030"/><link linkend="ch0026s000000a0034">Table 5</link> (<ulink url="https://outbreaktools.ca/background/line-lists/">https://outbreaktools.ca/background/line-lists/</ulink>). The line list will then be used to start to identify patterns in those affected and potential sources or exposures that could be causing or at least related to the source.</para>
+        <anchor id="ch0026s000000a0031"/>
+        <beginpage pagenum="211"/>
+        <table id="ch0026s000000t0004"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0026s000000a0032"/><link linkend="ch0026s000000a0028">TABLE 4</link></phrase></emphasis> Key players in foodborne outbreaks
+</title>
+          
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Key individual or group</phrase>
+                </entry>
+                <entry><phrase role="center">Role</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry>Local agencies, state agencies, federal agencies</entry>
+                <entry>Investigation of outbreaks within the state, across multiple states, or at the federal level when large numbers of cases or severe or unusual illnesses have been reported. For foodborne outbreaks, local and state health departments, state agricultural departments, the CDC, FDA, and the Food Safety and Inspection Service may be involved.</entry>
+              </row>
+              <row>
+                <entry>Epidemiologists</entry>
+                <entry>Outbreak investigation</entry>
+              </row>
+              <row>
+                <entry>Microbiologists</entry>
+                <entry>Perform testing on clinical specimens and food samples</entry>
+              </row>
+              <row>
+                <entry>Environmental health specialists</entry>
+                <entry>Perform restaurant food safety inspections</entry>
+              </row>
+              <row>
+                <entry>Regulatory compliance officers and inspectors</entry>
+                <entry>Inspect food processing facilities</entry>
+              </row>
+              <row>
+                <entry>Health communication specialists</entry>
+                <entry>Communicate outbreak information to the public</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0026s000000p0099">Creating a histogram at this stage is key to representing the number of cases that occurred over time and to determine how they were propagated relative to the exposure. A point source outbreak has a cluster of cases around the time of the exposure, while person-to-person spread results in cases that cluster around the exposure (the primary cases), followed by the secondary cases (household contacts, school contacts, etc.) that occur when the epidemic is propagated (<anchor id="ch0026s000000a0033"/><link linkend="ch0026s000000a0037">Fig. 1</link>).</para>
+        <para id="ch0026s000000p0100">It is important that specimens continue to be collected as the cases are identified, and any remnant specimens collected when propagation was unknown should be procured. Early development of a hypothesis regarding the source of the outbreak is recommended, but it must be revised as more information becomes available. Included in this hypothesis should be the mode of transmission and the likely mechanism of exposure. Once the disease is known, specimen collection can be limited to sites most relevant for the suspected diagnosis. When possible, laboratories should retain remnant specimens in case additional testing is required, and biorepositories can be created for use in further research studies (<link linkend="ch0026s000000li0019">18</link>–<link linkend="ch0026s000000li0021">20</link>). Because laboratory space and resources are often limited, clinicians and researchers must discuss with laboratorians the total number of specimens that can be stored, the types of specimens that would be of most value to procure, whether storage of sequential specimens from patients is needed, and storage time. Additionally, in cases in which bioterrorism is suspected, chain of custody may need to be maintained, so laboratories need to have processes in place should this be required.</para>
+        <table id="ch0026s000000t0005"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0026s000000a0034"/><link linkend="ch0026s000000a0030">TABLE 5</link></phrase></emphasis> Example of data elements to include in a foodborne outbreak line list
+</title>
+          
+          <tgroup cols="1">
+            <tbody>
+              <row>
+                <entry><para>Demographic information</para>
+                  <para id="ch0026s000000p0101">Name</para>
+                  <para id="ch0026s000000p0102">Address</para>
+                  <para id="ch0026s000000p0103">County of residence</para>
+                  <para id="ch0026s000000p0104">Phone number</para>
+                  <para id="ch0026s000000p0105">Age or date of birth</para>
+                  <para id="ch0026s000000p0106">Gender</para>
+                  <para id="ch0026s000000p0107">Race</para>
+                  <para id="ch0026s000000p0108">Occupation</para>
+                  <para id="ch0026s000000p0109"><emphasis role="strong">Illness information</emphasis>
+                  </para>
+                  <para id="ch0026s000000p0110">Date and time of illness onset</para>
+                  <para id="ch0026s000000p0111">Date and time of recovery</para>
+                  <para id="ch0026s000000p0112">Date of laboratory specimen collections</para>
+                  <para id="ch0026s000000p0113">Results of laboratory tests</para>
+                  <para id="ch0026s000000p0114">Symptoms</para>
+                  <para id="ch0026s000000p0115"><emphasis role="strong">Exposure information</emphasis>
+                  </para>
+                  <para id="ch0026s000000p0116">Date and time of meals</para>
+                  <para id="ch0026s000000p0117">Meal locations</para>
+                  <para id="ch0026s000000p0118">Food and drinks consumed</para>
+                  <para id="ch0026s000000p0119">Known contacts with similar symptoms</para>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0026s000000p0120">Once a hypothesis is developed, control measures should be implemented to contain the outbreak. These measures may be revised and should become permanent if needed to protect vulnerable populations and prevent the occurrence of a repeat or similar outbreak. The investigation does not end with the outbreak. Ongoing surveillance must be conducted to ensure that there are no new cases that are linked or that exceed a normal threshold for that particular disease. The effectiveness of established control measures is dependent on public compliance. Through effective communication and education, health officials can ensure compliance with new measures. The WHO provides guidelines to communicate with the public during an outbreak, but most communications should be handled by local health departments who have experience in outreach (<ulink url="https://www.who.int/publications/i/item/who-outbreak-communication-guidelines">https://www.who.int/publications/i/item/who-outbreak-communication-guidelines</ulink>). Monitoring after an outbreak may need to be enhanced and more permanent active surveillance measures put in place.</para>
+        <anchor id="ch0026s000000a0035"/>
+        <beginpage pagenum="212"/>
+        <figure id="ch0026s000000f0001"><title><anchor id="ch0026s000000a0036"/><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0026s000000a0037"/><link linkend="ch0026s000000a0033">FIGURE 1</link></phrase></emphasis> Epidemic curves. The <emphasis>x</emphasis> axis is time; <emphasis>y</emphasis> axis is the number of cases. The two curves contrast the distribution of cases from a point source outbreak compared to person-to-person spread.</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0026f01.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+        <para id="ch0026s000000p0121">In some outbreaks, additional, more sophisticated epidemiological studies may be considered (e.g., case control studies, cohort studies, practice observations). Situations where this may be appropriate include when resources are available, when the outbreak is associated with high mortality or severe disease, when new or unusual pathogens or methods of transmission are observed, and/or when outbreaks continue despite implementation of control measures. Discussion of these more advanced studies is beyond the scope of this chapter but can be found in<emphasis>Epidemiology</emphasis> by Gordis (<link linkend="ch0026s000000li0022">21</link>).</para>
+      </sect2>
+      <sect2 id="ch0026s0001s0005">
+        <title>THE ROLE OF THE LABORATORY IN OUTBREAKS</title>
+        <anchor id="ch0026s000001a0006"/>
+        <anchor id="ch0026s000000a0038"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0026s0002">
+      <title>Outbreak Response</title>
+      <anchor id="ch0026s000002a0001"/>
+      <anchor id="ch0026s000000a0039"/>
+      <para id="ch0026s000000p0122">The laboratory has always played an essential role in responses to outbreaks, but the SARS-CoV-2 pandemic has prominently highlighted the necessity for laboratories to be able to initiate a rapid response to an emerging pathogen. In addition to rapidly developing and deploying diagnostic tests, laboratories have many other responsibilities during outbreaks, which include providing guidance on specimen collection and handling, adapting safety protocols, providing aggregate data to display infection trends over time, and stocking testing materials during the outbreak and in anticipation of future outbreaks. Using examples from the SARS-CoV-2 and Ebola outbreaks, we describe below the critical role of the laboratory and challenges that can occur during the outbreak response. Additional information regarding the role of laboratories in the response to health care-associated outbreaks can be found in<ulink url="ch0025#ch0025s0001">chapter 10</ulink> of this <emphasis>Manual</emphasis>.</para>
+      <para id="ch0026s000000p0123">At the onset of an outbreak response, laboratories should assess the need to develop assays to detect the pathogen or to implement assays that have been developed by others such as public health laboratories or diagnostic companies. Hospital-based laboratories may choose to send specimens to local health departments, the CDC, or reference laboratories if these outside facilities have sufficient capacity to handle testing needs. It became quickly evident during the SARS-CoV-2 pandemic that the large specimen volume could not be supported by public health and reference laboratories alone. Many hospital laboratories implemented on-site testing in order to provide rapid results for patients being admitted to facilities and, later, as capacity allowed, to test patients being discharged to the community and to screen asymptomatic individuals. The implementation of diagnostic tests for emerging pathogens can be complicated by the lack of FDA-approved assays. In these scenarios, laboratories are faced with the challenge of rapidly validating a laboratory-developed test or, if the laboratory is qualified, performing assays that have been given Emergency Use Authorization (EUA) by the FDA. When the requirement for EUA for a diagnostic assay is declared, manufacturers and laboratories developing their own assays must submit their data to the FDA, or state laboratory authorized by the FDA, for review. The EUA declaration limits liability related to the new diagnostic assay, and the review process helps to ensure the accuracy of rapidly developed tests, but it can also create challenges such as delayed test implementation if there is a need to wait for approval. In addition, EUA amendments need to be submitted for review if any modification to an assay is made, which adds an additional burden. The EUA approval process changed frequently during the SARS-CoV-2 pandemic, which at times helped to streamline processes; however, laboratorians were faced with the challenge of keeping up with the constant changes (<ulink url="https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/in-vitro-diagnostics-euas">https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/in-vitro-diagnostics-euas</ulink>). Manufacturers also face challenges as they develop and evaluate new assays, since regulations regarding sample ownership, data ownership, and human subject consent are specific to individual countries and, for complicated scenarios, may not be defined. In addition, the requirements for validation of a new assay for which a “gold standard” reference method does not exist are lacking. The need for global emergency standards for evaluation of assays in outbreak settings has been proposed (<link linkend="ch0026s000000li0023">22</link>). The recent SARS-CoV-2 pandemic exemplified this phenomenon and required rapid development of laboratory-developed and commercial nucleic acid amplification test, antigen, and serologic assays (<link linkend="ch0026s000000li0024">23</link>). Guidance on test implementation and utilization was published by professional organizations and other groups at the time to support laboratories (<link linkend="ch0026s000000li0025">24</link>–<link linkend="ch0026s000000li0029">28</link>). Laboratories largely shifted operations to focus mainly on the response to the pandemic, and in many laboratories, this response included the purchasing of new instruments and the development of new assays. In addition, new laboratories dedicated to SARS-CoV-2 testing and outpatient drive-through testing sites were created to meet hospital and community testing demands during the rapidly expanding pandemic (<link linkend="ch0026s000000li0030">29</link>).</para>
+      <para id="ch0026s000000p0124">Safety is paramount during an outbreak response, and laboratories are responsible for performing a comprehensive biological risk assessment to determine appropriate specimen handling from collection and transport to processing. This process helps define the types of patient samples that should be considered infectious, whether specialized sample treatments are necessary to ensure safety for laboratory personnel, and facility requirements necessary for performing testing. Additional details on risk assessments and the prevention of laboratory-acquired infections can be found in<ulink url="ch0029#ch0029s0001">chapter 14</ulink> of this <emphasis>Manual</emphasis>. The risk assessment can be particularly challenging when facing an outbreak of a novel human pathogen as with the current SARS-CoV-2 pandemic, or a pathogen such as Ebola virus where effective treatments are limited. With the largest ever Ebola virus disease outbreak that occurred between 2013 and 2016, laboratory testing was often performed in designated spaces with enhanced protective features such as restricted access, negative pressure, separate exhaust and filtration, and autoclaves for waste sterilization (<link linkend="ch0026s000000li0031">30</link>, <link linkend="ch0026s000000li0032">31</link>). Risk mitigation was also accomplished by using dedicated point-of-care instruments contained within biosafety cabinets and enhanced personal protective equipment (PPE) for testing personnel. In order to reduce risks for testing personnel, laboratories should consider restricting testing for patients with high-consequence pathogens such as Ebola to only those tests that will help to diagnose infection, will help to establish an alternative diagnosis, or are essential for ongoing clinical care. The CDC provides guidance for laboratories receiving specimens from patients with suspected Ebola virus disease (<ulink url="https://www.cdc.gov/vhf/ebola/laboratory-personnel/safe-specimen-management.html">https://www.cdc.gov/vhf/ebola/laboratory-personnel/safe-specimen-management.html</ulink>) as well as resources for laboratory preparedness (<ulink url="https://www.cdc.gov/csels/dls/preparedlabs/index.html">https://www.cdc.gov/csels/dls/preparedlabs/index.html</ulink>). As data become available during an outbreak, biosafety practices in the laboratory may need to be quickly updated (<link linkend="ch0026s000000li0033">32</link>).</para>
+      <anchor id="ch0026s000000a0040"/>
+      <beginpage pagenum="213"/>
+      <para id="ch0026s000000p0125">Laboratories should also be prepared to offer clinical guidance on specimen collection, which may evolve as more information about the infectious disease is obtained. Communicating updated safety or specimen collection guidelines during an outbreak can be challenging, but the credibility of the laboratory can be maintained by providing clear protocols that are guided by the best evidence available and by being honest that the guidance may change as more data become available. Strategies recommended by the CDC for communicating during an emergency may be helpful during an outbreak and include expressing confidence, expertise, dedication, empathy, and being open and honest (<ulink url="https://emergency.cdc.gov/cerc/resources/index.asp">https://emergency.cdc.gov/cerc/resources/index.asp</ulink>). At the onset of the SARS-CoV-2 pandemic, interim laboratory guidance was provided by the CDC and was based on what little was known about the virus at the time (<ulink url="https://www.cdc.gov/coronavirus/2019-nCoV/lab/guidelines-clinical-specimens.html">https://www.cdc.gov/coronavirus/2019-nCoV/lab/guidelines-clinical-specimens.html</ulink>). The CDC and WHO also have guidelines for general as well as disease-specific specimen collection. An adapted version is provided in 6.</para>
+      <para id="ch0026s000000p0126">Communication and workflow adjustments are key in response to an outbreak. In response to the SARS-CoV-2 pandemic, many laboratories maximized workload efficiency and resource utilization by centralizing specimen triaging and test prioritization. Institutions created command centers or task forces to handle the overwhelming influx of new, potentially infectious specimens, and interdisciplinary teams to support clinical, testing, and research operations (<link linkend="ch0026s000000li0030">29</link>, <link linkend="ch0026s000000li0034">33</link>, <link linkend="ch0026s000000li0035">34</link>). Redeployment of staff to cover areas of necessity was common and required in many laboratories (<link linkend="ch0026s000000li0034">33</link>, <link linkend="ch0026s000000li0036">35</link>, <link linkend="ch0026s000000li0037">36</link>).</para>
+      <para id="ch0026s000000p0127">Supply chain shortages, as witnessed during the SARS-CoV-2 pandemic, can impact testing capacity for the offending pathogen as well as the availability of other basic materials in the laboratory. Laboratory teams should try to anticipate and stock materials needed to collect, process, and transport specimens required for an outbreak investigation. Professional organizations such as the American Society for Microbiology were crucial in gathering information about the needs and challenges faced by laboratories during the SARS-CoV-2 pandemic and in generating national recognition to overcome some of these challenges. This evidenced the importance and impact of laboratories at the institutional and national level in response initiatives, preparation, and policy implementation (<link linkend="ch0026s000000li0038">37</link>).</para>
+    </sect1>
+    <sect1 id="ch0026s0003">
+      <title>Informatics-Based Surveillance and Response</title>
+      <anchor id="ch0026s000003a0001"/>
+      <anchor id="ch0026s000000a0041"/>
+      <para id="ch0026s000000p0128">Informatics has been used to optimize surveillance activities and responses to the ongoing SARS-CoV-2 pandemic. One example of the utility of informatics is the creation of local dashboards used to communicate in real time. For example, at one institute, dashboards were created that displayed SARS-CoV-2 test status to providers. To do this, the institute used the R statistical programming language to extract tracking information from the laboratory information system indicating when specimens were placed on instruments, and, along with known assay run times, to create dashboards that displayed the remaining time to test result. Providers could query the status for a particular patient or patient care service. The dashboards were highly accessed by providers and reduced call volumes to the laboratory (<link linkend="ch0026s000000li0016">15</link>). Another example is the use of dashboards to display metrics such as the total number of individuals tested for SARS-CoV-2, number of positive tests, percentage of positive tests, rolling positivity rates, and facility-specific metrics such as the number of patients under investigation and hospital census. Because these dashboards can be built to update in real time, the data can be used to inform decisions regarding supplies, staffing, and other aspects of hospital operations (<link linkend="ch0026s000000li0039">38</link>, <link linkend="ch0026s000000li0040">39</link>). Dashboards that contained regional, national, or global SARS-CoV-2 metrics related to cases and deaths were also used by health departments and the public to track the progress of the pandemic. The creation of the Johns Hopkins web-based COVID-19 dashboard (<link linkend="ch0026s000000li0041">40</link>) and the COVID data tracker (<ulink url="https://covid.cdc.gov/COVID-data-tracker/?submenu-select=cases_casesinlast7days#datatracker-home">https://covid.cdc.gov/COVID-data-tracker/?submenu-select=cases_casesinlast7days#datatracker-home</ulink>) allowed individuals globally to stay up to date on the rapidly evolving situation.</para>
+      <anchor id="ch0026s000000a0042"/>
+      <beginpage pagenum="214"/>
+      <table id="ch0026s000000t0006"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0026s000000a0043"/>TABLE 6</phrase></emphasis> Laboratory specimen types for specific outbreak syndromes<superscript><link linkend="ch0026s000000a0045"><emphasis>a</emphasis></link></superscript><anchor id="ch0026s000000a0044"/>
+</title>
+        
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry><phrase role="center">Syndrome</phrase>
+              </entry>
+              <entry><phrase role="center">Suggested laboratory specimens</phrase>
+              </entry>
+              <entry><phrase role="center">Suggested laboratory studies</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>Acute diarrhea syndrome</entry>
+              <entry>Stool</entry>
+              <entry>Stool culture, toxin assay, serotyping, viral culture, antigen detection, parasite macro- and microscopic examination, multiplex PCR</entry>
+            </row>
+            <row>
+              <entry>Acute hemorrhagic fever syndrome</entry>
+              <entry>Serum, postmortem tissue specimens</entry>
+              <entry>Viral culture, antigen detection, antibody levels, pathology of postmortem tissue specimens</entry>
+            </row>
+            <row>
+              <entry>Acute jaundice syndrome</entry>
+              <entry>Serum, urine, postmortem liver biopsy</entry>
+              <entry>Viral culture, antigen detection, antibody levels,<emphasis>Leptospira</emphasis> culture and serotyping</entry>
+            </row>
+            <row>
+              <entry>Acute neurological syndrome</entry>
+              <entry>CSF, serum, throat swab</entry>
+              <entry>Viral culture, bacterial culture with susceptibility testing, antigen detection, serotyping, antibody levels, PCR</entry>
+            </row>
+            <row>
+              <entry>Acute respiratory syndrome</entry>
+              <entry>Serum, throat swab, nasopharyngeal swab, sputum, blood culture, urine</entry>
+              <entry>Viral culture, bacterial culture with susceptibility testing, antigen detection, antibody levels, serotyping, PCR, sequencing</entry>
+            </row>
+            <row>
+              <entry>Acute dermatological syndrome</entry>
+              <entry>Vesicular fluid/scraping, serum</entry>
+              <entry>Viral culture, bacterial culture, antigen detection, antibody levels, PCR</entry>
+            </row>
+            <row>
+              <entry>Acute ophthalmologic syndrome</entry>
+              <entry>Conjunctival swab, throat swab, serum</entry>
+              <entry>Viral culture, bacterial culture, antigen detection, antibody levels, PCR</entry>
+            </row>
+            <row>
+              <entry>Acute “systemic” syndrome</entry>
+              <entry>Serum, blood culture, urine, bubo aspirate, and CSF (if meningeal signs present) for analysis and culture</entry>
+              <entry>Viral culture, bacterial culture, antigen detection, antibody levels, serotyping, PCR, blood smears (for parasites)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para role="table-footnote"><superscript><link linkend="ch0026s000000a0044"><emphasis>a</emphasis></link></superscript><anchor id="ch0026s000000a0045"/>Adapted from reference <link linkend="ch0026s000000li0069">68</link>.</para>
+      <para id="ch0026s000000p0129">Informatics-driven software systems have been critical to the early recognition of regions of increasing SARS-CoV-2 transmission (<link linkend="ch0026s000000li0042">41</link>). Although these software systems are primarily used by public health authorities, hospital-based systems that contain local laboratory data have been used to proactively provide outreach to community leaders (<link linkend="ch0026s000000li0039">38</link>). Advances in informatics have also allowed for the creation of surveillance applications that were used to optimize contact-tracing activities performed by public health authorities (<ulink url="https://www.cdc.gov/coronavirus/2019-ncov/global-covid-19/compare-digital-tools.html">https://www.cdc.gov/coronavirus/2019-ncov/global-covid-19/compare-digital-tools.html</ulink>; <ulink url="https://coronavirus.health.ny.gov/covid-alert-ny">https://coronavirus.health.ny.gov/covid-alert-ny</ulink>).</para>
+      <para id="ch0026s000000p0130">Laboratory-based information systems are also important for investigation of community- or hospital-acquired infections. Laboratorians may be asked to assist infection control and prevention teams by providing reports of organisms isolated during a specified time. Although this can be accomplished through reports generated through hospital or infection control and prevention information systems, at some medical centers it may be accomplished in a timelier manner if the laboratory is able to assist and serves as a secondary source of data to ensure that no cases are missed. Although laboratory data systems will vary, many have capabilities to generate reports for all patients with a specific pathogen. For example, the outbreak of<emphasis>Mycobacterium chimaera</emphasis> caused by contaminated heater-cooler units used during surgical procedures resulted in the need for hospitals to identify patients potentially exposed to or infected with this species (<link linkend="ch0026s000000li0043">42</link>, <link linkend="ch0026s000000li0044">43</link>). Hospitals were asked to identify all isolates of <emphasis>M. chimaera, Mycobacterium avium-intracellulare</emphasis> complex, or nontuberculous mycobacteria, depending on the level to which the laboratory identified isolates, so that further review of patient history could be performed. Some software can also be used to prospectively identify specific pathogens through real-time alerts or to provide reports that can be used to monitor the numbers of isolates recovered. These laboratory-based systems might be used in conjunction with additional systems used by infection prevention and control departments.</para>
+      <para id="ch0026s000000p0131">Laboratorians may also be asked to use laboratory-based informatics systems to assess the susceptibility patterns of isolates during an outbreak investigation. Hospital information system reports may not be sufficient if not all antibiotics tested are reported to the patient chart. However, analysis of susceptibility data must be used with caution in outbreak investigations. Susceptibility results of related strains may appear to be different due to inherent MIC testing variability or acquired resistance that has occurred over the course of infection. In addition, similar susceptibility profiles may not reflect strain relatedness, so additional strain typing would still be needed. Antibiograms are another tool that may be generated from laboratory-based information systems that might be used to detect outbreaks. The emergence of a specific pathogen as reflected by changes in susceptibility over time may warrant further investigation. However, the use of the antibiogram is limited by the retrospective nature of the data, the inclusion of only the first patient isolate, and the reporting of only routinely tested antimicrobial agents.</para>
+    </sect1>
+    <sect1 id="ch0026s0004">
+      <title>Laboratory Detection Methods</title>
+      <anchor id="ch0026s000004a0001"/>
+      <anchor id="ch0026s000000a0046"/>
+      <para id="ch0026s000000p0132">Modern techniques for identifying pathogens have become integral to both surveillance activities and sporadic case investigations and have advanced the speed at which outbreak investigations can be conducted. Once the etiology of an outbreak is known, the focus can shift from pathogen detection to intervention. Resources can then be directed toward employing treatments such as antimicrobials, therapeutic antibodies, and vaccines. Thus, a method for rapid and accurate organism detection is highly desirable.<anchor id="ch0026s000000a0047"/><link linkend="ch0026s000000a0050">Table 7</link> summarizes some examples of the use of the laboratory in selected outbreaks (<link linkend="ch0026s000000li0045">44</link>–<link linkend="ch0026s000000li0048">47</link>). Molecular techniques are discussed in detail in <ulink url="ch0027#ch0027s0001">chapter 12</ulink> of this <emphasis>Manual</emphasis> and include nucleic acid amplification assays, whole-genome sequencing (WGS), and MALDI-TOF MS. In the recent SARS-CoV-2 pandemic, nucleic acid amplification and antigen detection assays have been used widely for virus identification from specimens, while WGS has been used for both the detection of and surveillance for emerging variants (<link linkend="ch0026s000000li0024">23</link>, <link linkend="ch0026s000000li0049">48</link>). Additional information regarding the use of sequencing for SARS-CoV-2 can be found in <ulink url="ch0112#ch0112s0001">chapter 93</ulink>.</para>
+      <sect2 id="ch0026s0004s0001">
+        <title>SELECT EXAMPLES OF OUTBREAK SCENARIOS: COLLABORATION BETWEEN HEALTH CARE FACILITIES AND CLINICAL AND PUBLIC HEALTH LABORATORIES</title>
+        <anchor id="ch0026s000004a0002"/>
+        <anchor id="ch0026s000000a0048"/>
+        <para id="ch0026s000000p0133">Below we highlight the interactions that occur between health care facilities and laboratories during outbreak investigations. The examples given demonstrate the close communication that must occur for outbreaks to be quickly recognized so that deleterious impacts will be minimized.</para>
+        <para id="ch0026s000000p0134">Health care facilities and their laboratories are essential to investigations of outbreaks in communities. For example, during the community outbreaks of measles that occurred in New York City and New York State between 2018 and 2019, control of the outbreaks was accomplished by surveillance and constant communication between providers, hospital laboratories, public health laboratories and agencies, and the CDC (<link linkend="ch0026s000000li0050">49</link>). These two closely related outbreaks occurred primarily within specific religious communities and resulted from international importation of the virus after travel. The outbreaks lasted nearly a year due to low vaccination rates, high population density, and repeated importations among unvaccinated travelers. At the onset of the outbreak, many hospital-based laboratories in the New York area did not offer molecular assays for detection of acute infection, so laboratory directors and clinicians worked together to implement workflows to send specimens to public health laboratories for testing. The NYC Department of Health set up systems to optimize transit of the specimens from the hospitals and scaled-up testing capacity so that suspected cases could be quickly confirmed (<link linkend="ch0026s000000li0051">50</link>).</para>
+        <para id="ch0026s000000p0135">Another area in which outbreak investigations are becoming increasingly important is in the preparation, handling, and distribution of medications. In one case, an outbreak of<emphasis>Serratia marcescens</emphasis> and <emphasis>Enterobacter cloacae</emphasis> bacteremia in a surgical intensive care unit was traced to contamination of fentanyl by likely tampering from a health care worker. The laboratory contributed to the outbreak investigation by analyzing patient, environmental, and drug samples, ruling out environmental causes, and showing similarities of the fentanyl and blood isolates (<link linkend="ch0026s000000li0052">51</link>). In a recent outbreak of <emphasis>S. marcescens</emphasis>, diversion of hydromorphone and morphine from syringes and replacement with a contaminated saline-like solution was determined to be the likely outbreak source. Although the administered syringes were not available for culture, pulsed-field gel electrophoresis (PFGE) analysis demonstrated the relatedness of the isolates from the five cluster patients, and the outbreak ceased upon termination of the health care worker responsible for the tampering (<link linkend="ch0026s000000li0053">52</link>). These outbreaks highlight the necessity for close monitoring of narcotics and surveillance for clusters of bacterial infections when tampering is suspected.</para>
+        <anchor id="ch0026s000000a0049"/>
+        <beginpage pagenum="215"/>
+        <table id="ch0026s000000t0007"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0026s000000a0050"/><link linkend="ch0026s000000a0047">TABLE 7</link></phrase></emphasis> Examples of the laboratory techniques and control interventions used in significant outbreaks by pathogen type
+</title>
+          
+          <tgroup cols="6">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Pathogen type (reference[s])</phrase>
+                </entry>
+                <entry><phrase role="center">Pathogen</phrase>
+                </entry>
+                <entry><phrase role="center">Location and no. of patients</phrase>
+                </entry>
+                <entry><phrase role="center">Source</phrase>
+                </entry>
+                <entry><phrase role="center">Lab techniques</phrase>
+                </entry>
+                <entry><phrase role="center">Control measures</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><emphasis role="strong">Bacterial</emphasis>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><ulink url="http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-updatecholera-in-yemen-12-january-2020.html">http://www.emro.who.int/pandemic-epidemic-diseases/cholera/outbreak-updatecholera-in-yemen-12-january-2020.html</ulink>
+                </entry>
+                <entry><emphasis>Vibrio cholerae</emphasis> O1</entry>
+                <entry>Yemen; 1,246,230 cases</entry>
+                <entry>Contaminated drinking water</entry>
+                <entry>Rapid antigen detection, culture, serogrouping</entry>
+                <entry>Water purification, treatment facilities, education campaign, vaccination</entry>
+              </row>
+              <row>
+                <entry>44, 45</entry>
+                <entry><emphasis>Neisseria meningitidis</emphasis> group A</entry>
+                <entry>West Africa, primarily Nigeria and Niger; 88,199 cases</entry>
+                <entry>Person-to-person transmission</entry>
+                <entry>CSF culture and susceptibility testing, PCR, serogrouping, and multilocus sequence typing for strain identification</entry>
+                <entry>Isolation wards, postexposure prophylaxis, and vaccination campaigns, including introduction of a new group A conjugate vaccine</entry>
+              </row>
+              <row>
+                <entry><emphasis role="strong">Viral</emphasis>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>69</entry>
+                <entry>Zika</entry>
+                <entry>Worldwide, primarily Brazil, Andean area, Caribbean; 800,000–1.5 million cases estimated</entry>
+                <entry>Mosquito:<emphasis>Aedes aegypti</emphasis> (<emphasis>Aedes albopictus</emphasis> a potential vector)</entry>
+                <entry>RT-PCR, serology, sequencing for lineage studies</entry>
+                <entry>Vector control, travel warnings, educational campaigns</entry>
+              </row>
+              <row>
+                <entry>46, 70</entry>
+                <entry>Ebola</entry>
+                <entry>West Africa, primarily Sierra Leone, Liberia, Guinea; 28,652 cases</entry>
+                <entry>Person-to-person transmission (bat reservoir and zoonotic exposure suspected)</entry>
+                <entry>RT-PCR, sequencing for lineage studies</entry>
+                <entry>Case management, isolation wards, infection control efforts, safe burial practices</entry>
+              </row>
+              <row>
+                <entry>71, 72</entry>
+                <entry>COVID-19</entry>
+                <entry>Worldwide (ongoing)</entry>
+                <entry>Person-to-person transmission</entry>
+                <entry>Amplification assays (RT-PCR, transcription-mediated amplification, etc.), antigen assays, serology, WGS for detection and lineage determination</entry>
+                <entry>Public health interventions (mask wearing, school and workplace closures, stay-at-home requirements, restaurant and store capacity restrictions or closures, public event bans, travel restrictions, screening of asymptomatic individuals, contact tracing, vaccination), novel treatments</entry>
+              </row>
+              <row>
+                <entry><emphasis role="strong">Parasitic</emphasis>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>73</entry>
+                <entry><emphasis>Cyclospora cayetanensis</emphasis>
+                </entry>
+                <entry>U.S.; 631</entry>
+                <entry>Packaged salad mix</entry>
+                <entry>Stool examination with modified acid-fast staining and PCR</entry>
+                <entry>Suspension of production of salad mix from Taylor Farms of Mexico</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0026s000000p0136">In a multistate outbreak of fungal meningitis, the laboratory played a crucial role in confirming cases that met the case definition and in investigating the contaminated product, particularly in the identification of which lots were infected.<anchor id="ch0026s000000a0052"/><link linkend="ch0026s000000a0053">Table 8</link> reviews this investigation and how the laboratory played a role at the key steps in the outbreak investigation. Using <link linkend="ch0026s000000a0029">Table 3</link> as a template, we show how a multistate outbreak of fungal meningitis was linked to cases from Tennessee and extrinsic contamination from a compounding pharmacy (<link linkend="ch0026s000000li0054">53</link>, <link linkend="ch0026s000000li0055">54</link>). By adding clear associations between products and infection, the laboratory provides evidence to warrant change either on the level of an individual institution or in a move to revise legislation.</para>
+        <anchor id="ch0026s000000a0051"/>
+        <beginpage pagenum="216"/>
+        <para id="ch0026s000000p0137">Limiting outbreaks caused by multidrug-resistant pathogens is a priority at the national level and is being tackled through collaborations between hospital and public health laboratories and the CDC. The CDC established the Antibiotic Resistance (AR) Laboratory Network in 2016 to rapidly detect antibiotic resistant pathogens, identify emerging threats, and prevent the spread of resistant organisms. The AR network includes public health laboratories in all 50 states and Puerto Rico, seven regional laboratories that help coordinate responses, and one national tuberculosis molecular surveillance center (<ulink url="https://www.cdc.gov/drugresistance/solutions-initiative/ar-lab-network.html">https://www.cdc.gov/drugresistance/solutions-initiative/ar-lab-network.html</ulink>). Hospital laboratories contribute to the AR network surveillance through submission of clinical isolates for additional confirmatory testing, including sequencing. Public health laboratories and the CDC have also been at the forefront of developing and optimizing molecular and culture-based screening assays for <emphasis>C. auris</emphasis>, identifying clades of <emphasis>C. auris</emphasis> predominating within regions of the United States, and using sequencing to demonstrate how <emphasis>C. auris</emphasis> emerged globally and was introduced into the United States (<link linkend="ch0026s000000li0056">55</link>–<link linkend="ch0026s000000li0059">58</link>). Unfortunately, during the COVID-19 pandemic, some hospitals reported increased incidence or outbreaks of MDROs, including <emphasis>C. auris</emphasis>. Increased numbers of MDROs were associated with extended use of PPE, ventilator circuits, and suctioning catheters; wearing multiple layers of gown and gloves; double occupancy of single rooms; team nursing models that were used in the setting of staffing shortages; reduced surveillance activities for MDROs; and limited auditing for infection prevention compliance (<link linkend="ch0026s000000li0060">59</link>–<link linkend="ch0026s000000li0062">61</link>), highlighting the importance of maintaining routine infection prevention practices during a pandemic response. For additional information on principles and practices for antimicrobial-resistant pathogen outbreak response, a reference document created by the Council for Outbreak Response: Healthcare-Associated Infections and Antimicrobial-Resistant Pathogens can be accessed at <ulink url="https://www.corha.org/resources/corha-principles-and-practices-for-outbreak-response/">https://www.corha.org/resources/corha-principles-and-practices-for-outbreak-response/</ulink>.</para>
+        <table id="ch0026s000000t0008"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0026s000000a0053"/><link linkend="ch0026s000000a0052">TABLE 8</link></phrase></emphasis> Steps of an outbreak investigation using fungal meningitis cases linked to contaminated steroid injections from a multistate outbreak in 2012
+</title>
+          
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Steps in an outbreak</phrase>
+                </entry>
+                <entry><phrase role="center">Specific illustrative finding</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Prepare to investigate</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry>The Tennessee Department of Health was aware of baseline data, including the uncommon nature of fungal CNS infections and the known association of infection with epidural injections.</entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Verify the diagnosis</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry>The index case was confirmed to be<emphasis>Aspergillus fumigatus</emphasis> by CSF culture and by a Gram stain of the L4-L5 space on autopsy that yielded branching hyphal elements consistent with <emphasis>A. fumigatus</emphasis>.</entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Establish a case definition</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry>In response to a single reported case of<emphasis>Aspergillus</emphasis> meningitis in a patient who had a recent epidural injection, active surveillance for additional cases was performed. Cases were defined as patients with fungal meningitis, posterior circulation stroke, spinal osteomyelitis, or epidural abscess that developed after epidural or paraspinal glucocorticoid injections that were administered after May 21, 2012, in Tennessee.</entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Find cases</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry>Additional cases were identified on active surveillance. Initially cases from the same clinic were investigated, including those that received methylprednisolone injections. After the index case, 21 additional patients had laboratory confirmation of infection, all with<emphasis>Exserohilum rostratum</emphasis>.</entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Descriptive epidemiology</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry>Factors including common products used in the procedures and investigated and detailed chart reviews captured patient data.</entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Develop a hypothesis</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry>Based on the finding of an association with single-dose vials of methylprednisolone injections, the Massachusetts Department of Health contacted the supplier, the New England Compounding Center (NECC).</entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Evaluate the hypothesis</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry><para>Cerebrospinal fluid, isolates, and tissue obtained from clinical specimens were sent to CDC for identification of the pathogen with the use of PCR amplification of fungal DNA and genomic sequencing. The FDA also analyzed unopened vials of methylprednisolone that had been collected from NECC and were later found to be positive.</para>
+                  <para id="ch0026s000000p0138">Patients who received injections of other medications at the same clinic did not manifest disease.</para>
+                </entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Refine hypothesis and carry out additional studies</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry>Based on the distribution of the methylprednisolone vials from the manufacturer, two additional clinics were quickly included in the investigation in Tennessee and over 65 patients were identified.</entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Implement control and prevention measures</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry>In October 2012, NECC recalled all products compounded at and distributed by its facility in Framingham, MA.</entry>
+              </row>
+              <row>
+                <entry><orderedlist>
+                    <listitem>
+                      <para>Communicate findings</para>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry>The CDC regularly received reports of and communicated rates of fungal infections due to NECC products. The FDA advised follow-up with patients who were administered products from NECC and advised withholding any products still in circulation.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0026s000000p0139">Due to the critical nature of our food network supply and distribution chain, monitoring of foodborne diseases is one of the most active, coordinated surveillance systems in the United States, involving hospital-based laboratories for initial pathogen detection, followed by strain relatedness studies and epidemiologic investigations performed by local and national agencies. FoodNet is a sentinel surveillance system undertaken at 10 participating sites in the United States in collaboration with the CDC, USDA, and FDA. Together these sites survey about 15% of the U.S. population (<link linkend="ch0026s000000li0063">62</link>). PulseNet is a national subtyping network of over 80 state and local public health laboratories and federal food regulatory laboratories that performs molecular surveillance of foodborne infections. Laboratories within the network routinely detect and report on subtypes of eight bacteria including <emphasis>Escherichia coli</emphasis> O157:H7, <emphasis>L. monocytogenes</emphasis>, and <emphasis>Salmonella</emphasis> serotypes. While PFGE and multiple-locus variable-number tandem repeat analysis were initially the primary techniques used to determine strain relatedness, <emphasis>Listeria</emphasis> typing is now performed by WGS, and state health departments are offering or in the process of validating WGS-based typing assays for the other foodborne pathogens (<ulink url="https://www.cdc.gov/pulsenet/pathogens/wgs.html">https://www.cdc.gov/pulsenet/pathogens/wgs.html</ulink>). The adoption of WGS in 2013 by PulseNet laboratories for typing of <emphasis>Listeria</emphasis> resulted in the detection of an increased number of <emphasis>Listeria</emphasis> clusters and reduced numbers of cases per outbreak (<ulink url="https://www.cdc.gov/listeria/pdf/whole-genome-sequencing-and-listeria-508c.pdf">https://www.cdc.gov/listeria/pdf/whole-genome-sequencing-and-listeria-508c.pdf</ulink>). The use of WGS has also improved outbreak investigations by allowing focused definitions of cases. For example, in 2018, the Massachusetts Department of Public Health State Public Health Laboratory identified an increase in the number of <emphasis>Salmonella enterica</emphasis> serovar Enteritidis PFGE pattern JEGX01.004 isolates, with an initial total of 34 isolates. In combination with epidemiologic investigation data that revealed three persons had dined at the same restaurant, WGS data narrowed the outbreak case definition by demonstrating the relatedness of these three isolates while eliminating other isolates within the PFGE JEGX01.004 cluster that were unrelated (<link linkend="ch0026s000000li0064">63</link>). WGS data can also be of more value than PFGE data in developing hypotheses for outbreak sources. During a multisite outbreak of <emphasis>E. coli</emphasis> O26 in 2019, the initial hypothesis was that the outbreak might be caused by contaminated ground beef, since there had a been previous outbreak associated with the same PFGE pattern. However, core genome multilocus sequence typing performed from the WGS data revealed that the two outbreaks were unrelated, guiding epidemiologists to consider alternative food sources, which ultimately led to the identification of contaminated flour as the source of the outbreak (<link linkend="ch0026s000000li0065">64</link>).</para>
+        <anchor id="ch0026s000000a0054"/>
+        <beginpage pagenum="217"/>
+      </sect2>
+      <sect2 id="ch0026s0004s0002">
+        <title>RESOURCES TO STAY INFORMED AND CONNECTED IN GLOBAL OUTBREAKS</title>
+        <anchor id="ch0026s000004a0003"/>
+        <anchor id="ch0026s000000a0055"/>
+        <para id="ch0026s000000p0140">With the rise of Internet-based surveillance and other social media tools, the way that we identify, communicate during, and react during an outbreak is being revolutionized. In the past few decades, the WHO has often responded to outbreak investigations that have been triggered by what had been previously thought of as nontraditional sources such as media surveillance systems (<link linkend="ch0026s000000li0066">65</link>). Even with national and transnational public health organizations engaging in continual information gathering, often the most vulnerable countries have no infrastructure for reporting or alerting populations (<link linkend="ch0026s000000li0067">66</link>). Internet or mobile resources can support high-risk areas that may lack epidemic infrastructure. Some additional widely used resources for outbreak alerts or current information during ongoing outbreaks include Geosentinel (<ulink url="https://www.istm.org/geosentinel">https://www.istm.org/geosentinel</ulink>), ProMED (<ulink url="http://www.promedmail.org">http://www.promedmail.org</ulink>), and HealthMap (<ulink url="http://healthmap.org">http://healthmap.org</ulink>). Some of these resources provide comprehensive surveillance by tracking both human and zoonotic infections, since many outbreaks originate in domestic animals or wildlife.</para>
+      </sect2>
+      <sect2 id="ch0026s0004s0003">
+        <title>SUMMARY AND EVALUATION</title>
+        <anchor id="ch0026s000004a0004"/>
+        <anchor id="ch0026s000000a0056"/>
+        <para id="ch0026s000000p0141">The rise in globalization highlights the importance of thinking about the world health community when responding to an outbreak. Local clinicians, laboratorians, and public health practitioners remain the stalwart members of the outbreak team. However, they must interface with state, national, and international authorities and professional organizations in order to act fast, precisely define, and stem the tide of an outbreak. Pathogen identification is becoming faster, sensitive, and more accurate. The laboratory will continue to play a crucial and likely expanding role in the investigation of infectious disease outbreaks in the coming years.</para>
+        <para id="ch0026s000000p0142"><emphasis>We thank original chapter author Dr. Belinda Ostrowsky, Department of Medicine, Division of Infectious Disease, Albert Einstein College of Medicine and Montefiore Medical Center, for her contributions to all previous versions of the manuscript</emphasis>.</para>
+      </sect2>
+      <sect2 id="ch0026s0004s0004">
+        <title>REFERENCES</title>
+        <anchor id="ch0026s000004a0005"/>
+        <anchor id="ch0026s000000a0057"/>
+        <itemizedlist mark="none" role="biblioEntryList">
+          <listitem id="ch0026s000000li0002" role="bibliographyEntry">
+            <para>1.<emphasis role="strong">Person B, Sy F, Holton K, Govert B, Liang A, Garza B, Gould D, Hickson M, McDonald M, Meijer C, Smith J, Veto L, Williams W, Zauderer L, National Center for Infectious Diseases/SARS Community Outreach Team.</emphasis> 2004. Fear and stigma: the epidemic within the SARS outbreak. <emphasis><citetitle>Emerg Infect Dis</citetitle></emphasis> <emphasis role="strong">10:</emphasis>358–363.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0003" role="bibliographyEntry">
+            <para>2.<emphasis role="strong">Ke R, Romero-Severson E, Sanche S, Hengartner N.</emphasis> 2021. Estimating the reproductive number R<subscript>0</subscript> of SARS-CoV-2 in the United States and eight European countries and implications for vaccination. <emphasis><citetitle>J Theor Biol</citetitle></emphasis> <emphasis role="strong">517:</emphasis>110621.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0004" role="bibliographyEntry">
+            <para>3.<emphasis role="strong">Li Y, Campbell H, Kulkarni D, Harpur A, Nundy M, Wang X, Nair H, Usher Network for COVID-19 Evidence Reviews (UNCOVER) group.</emphasis> 2021. The temporal association of introducing and lifting non-pharmaceutical interventions with the time-varying reproduction number (R) of SARS-CoV-2: a modelling study across 131 countries. <emphasis><citetitle>Lancet Infect Dis</citetitle></emphasis> <emphasis role="strong">21:</emphasis>193–202.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0005" role="bibliographyEntry">
+            <para>4.<emphasis role="strong">Volz E, Mishra S, Chand M, Barrett JC, Johnson R, Geidelberg L, Hinsley WR, Laydon DJ, Dabrera G, O’Toole Á, Amato R, Ragonnet-Cronin M, Harrison I, Jackson B, Ariani CV, Boyd O, Loman NJ, McCrone JT, Gonçalves S, Jorgensen D, Myers R, Hill V, Jackson DK, Gaythorpe K, Groves N, Sillitoe J, Kwiatkowski DP, Flaxman S, Ratmann O, Bhatt S, Hopkins S, Gandy A, Rambaut A, Ferguson NM, COVID-19 Genomics UK (COG-UK) Consortium.</emphasis> 2021. Assessing transmissibility of SARS-CoV-2 lineage B.1.1.7 in England. <emphasis><citetitle>Nature</citetitle></emphasis> <emphasis role="strong">593:</emphasis>266–269.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0006" role="bibliographyEntry">
+            <para>5.<emphasis role="strong">Posen HJ, Keystone JS, Gubbay JB, Morris SK.</emphasis> 2016. Epidemiology of Zika virus, 1947-2007. <emphasis><citetitle>BMJ Glob Health</citetitle></emphasis> <emphasis role="strong">1:</emphasis>e000087.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0007" role="bibliographyEntry">
+            <para>6.<emphasis role="strong">Cao-Lormeau VM, Blake A, Mons S, Lastère S, Roche C, Vanhomwegen J, Dub T, Baudouin L, Teissier A, Larre P, Vial AL, Decam C, Choumet V, Halstead SK, Willison HJ, Musset L, Manuguerra JC, Despres P, Fournier E, Mallet HP, Musso D, Fontanet A, Neil J, Ghawché F.</emphasis> 2016. Guillain-Barré syndrome outbreak associated with Zika virus infection in French Polynesia: a case-control study. <emphasis><citetitle>Lancet</citetitle></emphasis> <emphasis role="strong">387:</emphasis>1531–1539.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0008" role="bibliographyEntry">
+            <anchor id="ch0026s000000a0058"/>
+            <para>7.<emphasis role="strong">Duffy MR, Chen TH, Hancock WT, Powers AM, Kool JL, Lanciotti RS, Pretrick M, Marfel M, Holzbauer S, Dubray C, Guillaumot L, Griggs A, Bel M, Lambert AJ, Laven J, Kosoy O, Panella A, Biggerstaff BJ, Fischer M, Hayes EB.</emphasis> 2009. Zika virus outbreak on Yap Island, Federated States of Micronesia. <emphasis><citetitle>N Engl J Med</citetitle></emphasis> <emphasis role="strong">360:</emphasis>2536–2543.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0009" role="bibliographyEntry">
+            <para>8.<emphasis role="strong">Paquet C, Coulombier D, Kaiser R, Ciotti M.</emphasis> 2006. Epidemic intelligence: a new framework for strengthening disease surveillance in Europe. <emphasis><citetitle>Euro Surveill</citetitle></emphasis> <emphasis role="strong">11:</emphasis>212–214.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0010" role="bibliographyEntry">
+            <para>9.<emphasis role="strong">Midgley CM, Jackson MA, Selvarangan R, Turabelidze G, Obringer E, Johnson D, Giles BL, Patel A, Echols F, Oberste MS, Nix WA, Watson JT, Gerber SI.</emphasis> 2014. Severe respiratory illness associated with enterovirus D68—Missouri and Illinois, 2014. <emphasis><citetitle>MMWR Morb Mortal Wkly Rep</citetitle></emphasis> <emphasis role="strong">63:</emphasis>798–799.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0011" role="bibliographyEntry">
+            <para>10.<emphasis role="strong">Tsay S, Welsh RM, Adams EH, Chow NA, Gade L, Berkow EL, Poirot E, Lutterloh E, Quinn M, Chaturvedi S, Kerins J, Black SR, Kemble SK, Barrett PM, Barton K, Shannon DJ, Bradley K, Lockhart SR, Litvintseva AP, Moulton-Meissner H, Shugart A, Kallen A, Vallabhaneni S, Chiller TM, Jackson BR, MSD.</emphasis> 2017. Notes from the Field: Ongoing transmission of <emphasis><citetitle>Candida auris</citetitle></emphasis> in health care facilities—United States, June 2016–May 2017. <emphasis><citetitle>MMWR Morb Mortal Wkly Rep</citetitle></emphasis> <emphasis role="strong">66:</emphasis>514–515.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0012" role="bibliographyEntry">
+            <para>11.<emphasis role="strong">Nsubuga P, White ME, Thacker SB, Anderson MA, Broome CV, Chiller TM.</emphasis> Public health surveillance: a tool for targeting and monitoring interventions, p 997–1015. <emphasis><citetitle>In</citetitle></emphasis> Jamison DT, Breman JG, Measham AR, Alleyne G, Claeson M, Evans B, Jha P, Mills A, Musgrove P (ed), <emphasis><citetitle>Disease Control Priorities in Developing Countries</citetitle></emphasis>, 2nd ed. The International Bank for Reconstruction and Development/The World Bank, New York, NY.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0013" role="bibliographyEntry">
+            <para>12.<emphasis role="strong">Fetzer T, Graeber T.</emphasis> 2021. Measuring the scientific effectiveness of contact tracing: evidence from a natural experiment. <emphasis><citetitle>Proc Natl Acad Sci USA</citetitle></emphasis> <emphasis role="strong">118:</emphasis>e2100814118.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0014" role="bibliographyEntry">
+            <para>13.<emphasis role="strong">Henning KJ.</emphasis> 2004. What is syndromic surveillance? <emphasis><citetitle>MMWR Suppl</citetitle></emphasis> <emphasis role="strong">53</emphasis>(Suppl)<emphasis role="strong">:</emphasis>5–11.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0015" role="bibliographyEntry">
+            <para>14.<emphasis role="strong">Ostrowsky BE, Jarvis WR.</emphasis> 2001. Challenges in outbreak investigations in intensive care units, p 377–404. <emphasis><citetitle>In</citetitle></emphasis> Rello J, Valles J, Kollef MH (ed), <emphasis><citetitle>Critical Care Infectious Diseases Textbook</citetitle></emphasis>. Kluwer Academic Publishers, Boston, MA.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0016" role="bibliographyEntry">
+            <para>15.<emphasis role="strong">Matanock A, Katz LS, Jackson KA, Kucerova Z, Conrad AR, Glover WA, Nguyen V, Mohr MC, Marsden-Haug N, Thompson D, Dunn JR, Stroika S, Melius B, Tarr C, Dietrich SE, Kao AS, Kornstein L, Li Z, Maroufi A, Marder EP, Meyer R, Perez-Osorio AC, Reddy V, Reporter R, Carleton H, Tweeten S, Waechter H, Yee LM, Wise ME, Davis K, Jackson BR.</emphasis> 2016. Two <emphasis><citetitle>Listeria monocytogenes</citetitle></emphasis> pseudo-outbreaks caused by contaminated laboratory culture media. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">54:</emphasis>768–770.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0017" role="bibliographyEntry">
+            <para>16.<emphasis role="strong">Casanova C, Schweiger A, von Steiger N, Droz S, Marschall J.</emphasis> 2015. <emphasis><citetitle>Campylobacter concisus</citetitle></emphasis> pseudo-outbreak caused by improved culture conditions. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">53:</emphasis>660–662.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0018" role="bibliographyEntry">
+            <para>17.<emphasis role="strong">Peaper DR, Havill NL, Aniskiewicz M, Callan D, Pop O, Towle D, Boyce JM.</emphasis> 2015. Pseudo-outbreak of <emphasis><citetitle>Actinomyces graevenitzii</citetitle></emphasis> associated with bronchoscopy. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">53:</emphasis>113–117.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0019" role="bibliographyEntry">
+            <para>18.<emphasis role="strong">Li JZ, Yu XG.</emphasis> 2020. Overcoming challenges in coronavirus disease 19 translational research. <emphasis><citetitle>J Infect Dis</citetitle></emphasis> <emphasis role="strong">222:</emphasis>1254–1255.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0020" role="bibliographyEntry">
+            <para>19.<emphasis role="strong">Tanga V, Leroy S, Fayada J, Hamila M, Allegra M, Messaoudi Z, Bonnetaud C, Lespinet V, Bordone O, Washetine K, Griffonnet J, Maniel C, Philibert L, Selva E, Benzaquen J, Ilie M, Long E, Lassalle S, Lantéri E, Marquette CH, Hofman V, Hofman P.</emphasis> 2020. Establishment of a collection of blood-derived products from COVID-19 patients for translational research: experience of the LPCE Biobank (Nice, France). <emphasis><citetitle>Biopreserv Biobank</citetitle></emphasis> <emphasis role="strong">18:</emphasis>517–524.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0021" role="bibliographyEntry">
+            <para>20.<emphasis role="strong">Lima R, Gootkind EF, De la Flor D, Yockey LJ, Bordt EA, D’Avino P, Ning S, Heath K, Harding K, Zois J, Park G, Hardcastle M, Grinke KA, Grimmel S, Davidson SP, Forde PJ, Hall KE, Neilan AM, Matute JD, Lerou PH, Fasano A, Shui JE, Edlow AG, Yonker LM.</emphasis> 2020. Establishment of a pediatric COVID-19 biorepository: unique considerations and opportunities for studying the impact of the COVID-19 pandemic on children. <emphasis><citetitle>BMC Med Res Methodol</citetitle></emphasis> <emphasis role="strong">20:</emphasis>228.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0022" role="bibliographyEntry">
+            <para>21.<emphasis role="strong">Gordis L.</emphasis> 2009. <emphasis><citetitle>Epidemiology</citetitle></emphasis>, 4th ed. Elsevier/Saunders, Philadelphia, PA.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0023" role="bibliographyEntry">
+            <para>22.<emphasis role="strong">Pollock NR, Wonderly B.</emphasis> 2017. Evaluating novel diagnostics in an outbreak setting: lessons learned from Ebola. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">55:</emphasis>1255–1261.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0024" role="bibliographyEntry">
+            <para>23.<emphasis role="strong">Vandenberg O, Martiny D, Rochas O, van Belkum A, Kozlakidis Z.</emphasis> 2021. Considerations for diagnostic COVID-19 tests. <emphasis><citetitle>Nat Rev Microbiol</citetitle></emphasis> <emphasis role="strong">19:</emphasis>171–183.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0025" role="bibliographyEntry">
+            <para>24.<emphasis role="strong">Hanson KE, Azar MM, Banerjee R, Chou A, Colgrove RC, Ginocchio CC, Hayden MK, Holodiny M, Jain S, Koo S, Levy J, Timbrook TT, Caliendo AM.</emphasis> 2020. Molecular testing for acute respiratory tract infections: clinical and diagnostic recommendations from the IDSA’s Diagnostics Committee. <emphasis><citetitle>Clin Infect Dis</citetitle></emphasis> <emphasis role="strong">71:</emphasis>2744–2751.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0026" role="bibliographyEntry">
+            <para>25.<emphasis role="strong">Hanson KE, Caliendo AM, Arias CA, Englund JA, Hayden MK, Lee MJ, Loeb M, Patel R, Altayar O, El Alayli A, Sultan S, Falck-Ytter Y, Lavergne V, Morgan RL, Murad MH, Bhimraj A, Mustafa RA.</emphasis> 2020. Infectious Diseases Society of America Guidelines on the Diagnosis of COVID-19: serologic testing. <emphasis><citetitle>Clin Infect Dis</citetitle></emphasis>. <ulink url="http://dx.doi.org/10.1093/cid/ciaa1343">http://dx.doi.org/10.1093/cid/ciaa1343</ulink>.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0027" role="bibliographyEntry">
+            <para>26.<emphasis role="strong">Patel R, Babady E, Theel ES, Storch GA, Pinsky BA, St George K, Smith TC, Bertuzzi S.</emphasis> 2020. Report from the American Society for Microbiology COVID-19 International Summit, 23 March 2020: Value of diagnostic testing for SARS-CoV-2/COVID-19. <emphasis><citetitle>MBio</citetitle></emphasis> <emphasis role="strong">11:</emphasis>e00722–20.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0028" role="bibliographyEntry">
+            <para>27.<emphasis role="strong">Theel ES, Couturier MR, Filkins L, Palavecino E, Mitchell S, Campbell S, Pentella M, Butler-Wu S, Jerke K, Dharmarha V, McNult P, Schuetz AN.</emphasis> 2020. Application, verification, and implementation of SARS-CoV-2 serologic assays with emergency use authorization. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">59:</emphasis>e02148–20.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0029" role="bibliographyEntry">
+            <para>28.<emphasis role="strong">Theel ES, Slev P, Wheeler S, Couturier MR, Wong SJ, Kadkhoda K.</emphasis> 2020. The role of antibody testing for SARS-CoV-2: is there one? <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">58:</emphasis>e00797–20.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0030" role="bibliographyEntry">
+            <para>29.<emphasis role="strong">Nimer SD, Chapman J, Reidy L, Alencar A, Wu Y, Williams S, Pagan L, Gjolaj L, MacIntyre J, Triana M, Vance B, Andrews D, Fan YS, Zhou Y, Martinez O, Garcia-Buitrago M, Cray C, Tekin M, McCauley JL, Ruiz P, Pagan P, Lamar W, Alencar M, Bilbao D, Prieto S, Polania M, Suarez M, Lujardo M, Campos G, Morris M, Shukla B, Caban-Martinez A, Kobetz E, Parekh DJ, Jorda M.</emphasis> 2020. A how-to guide to building a robust SARS-CoV-2 testing program at a university-based health system. <emphasis><citetitle>Acad Pathol</citetitle></emphasis> <emphasis role="strong">7:</emphasis>2374289520958200.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0031" role="bibliographyEntry">
+            <para>30.<emphasis role="strong">Garibaldi BT, Kelen GD, Brower RG, Bova G, Ernst N, Reimers M, Langlotz R, Gimburg A, Iati M, Smith C, MacConnell S, James H, Lewin JJ, Trexler P, Black MA, Lynch C, Clarke W, Marzinke MA, Sokoll LJ, Carroll KC, Parish NM, Dionne K, Biddison EL, Gwon HS, Sauer L, Hill P, Newton SM, Garrett MR, Miller RG, Perl TM, Maragakis LL.</emphasis> 2016. The creation of a biocontainment unit at a tertiary care hospital. The Johns Hopkins Medicine experience. <emphasis><citetitle>Ann Am Thorac Soc</citetitle></emphasis> <emphasis role="strong">13:</emphasis>600–608.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0032" role="bibliographyEntry">
+            <para>31.<emphasis role="strong">Bannister B, Puro V, Fusco FM, Heptonstall J, Ippolito G, Group EW, EUNID Working Group.</emphasis> 2009. Framework for the design and operation of high-level isolation units: consensus of the European Network of Infectious Diseases. <emphasis><citetitle>Lancet Infect Dis</citetitle></emphasis> <emphasis role="strong">9:</emphasis>45–56.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0033" role="bibliographyEntry">
+            <para>32.<emphasis role="strong">Iwen PC, Stiles KL, Pentella MA.</emphasis> 2020. Safety considerations in the laboratory testing of specimens suspected or known to contain the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). <emphasis><citetitle>Lab Med</citetitle></emphasis> <emphasis role="strong">51:</emphasis>239–242.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0034" role="bibliographyEntry">
+            <para>33.<emphasis role="strong">Campbell ST, Orner EP, Reyes Gil M, Fox AS, Goldstein DY, Wolgast LR, Cadoff EM, Freedman VH, Akabas MH, Prystowsky MB, Szymczak WA.</emphasis> 2021. Mater artium necessitas: the birth of a COVID-19 command center. <emphasis><citetitle>Acad Pathol</citetitle></emphasis> <emphasis role="strong">8:</emphasis>23742895211015347.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0035" role="bibliographyEntry">
+            <para>34.<emphasis role="strong">Tomer Y, Ng Gong M, Keller MJ, Southern W, Kitsis EA, Kajita GR, Shapiro LI, Jariwala SP, Epstein EJ.</emphasis> 2021. Teamwork and leadership under fire at the epicenter of the COVID-19 epidemic in the Bronx. <emphasis><citetitle>Front Med (Lausanne)</citetitle></emphasis> <emphasis role="strong">8:</emphasis>610100.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0036" role="bibliographyEntry">
+            <para>35.<emphasis role="strong">Warrington JS, Crothers JW, Goodwin A, Coulombe L, Hong T, Bryan L, Wojewoda C, Fung M, Warrington G, Clark V, Risley L, Lewis M.</emphasis> 2021. All hands on deck and all decks on hand: surmounting supply chain limitations during the COVID-19 pandemic. <emphasis><citetitle>Acad Pathol</citetitle></emphasis> <emphasis role="strong">8:</emphasis>23742895211011928.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0037" role="bibliographyEntry">
+            <para>36.<emphasis role="strong">Master SR, Neide B, Kollu S, Mulchandani S, Harris RM, Obstfeld AE.</emphasis> 2021. Facilitating test status information communication in the time of COVID-19. <emphasis><citetitle>Acad Pathol</citetitle></emphasis> <emphasis role="strong">8:</emphasis>23742895211006822.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0038" role="bibliographyEntry">
+            <para>37.<emphasis role="strong">American Society for Microbiology.</emphasis> 19 January 2021. Supply shortages impacting COVID-19 and non-COVID testing. <ulink url="https://asm.org/Articles/2020/September/Clinical-Microbiology-Supply-Shortage-Collecti-1">https://asm.org/Articles/2020/September/Clinical-Microbiology-Supply-Shortage-Collecti-1</ulink>. Accessed 25 February 2022.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0039" role="bibliographyEntry">
+            <para>38.<emphasis role="strong">Konchak CW, Krive J, Au L, Chertok D, Dugad P, Granchalek G, Livschiz E, Mandala R, McElvania E, Park C, Robicsek A, Sabatini LM, Shah NS, Kaul K.</emphasis> 2021. From testing to decision-making: a data-driven analytics COVID-19 response. <emphasis><citetitle>Acad Pathol</citetitle></emphasis> <emphasis role="strong">8:</emphasis>23742895211010257.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0040" role="bibliographyEntry">
+            <para>39.<emphasis role="strong">Reeves JJ, Hollandsworth HM, Torriani FJ, Taplitz R, Abeles S, Tai-Seale M, Millen M, Clay BJ, Longhurst CA.</emphasis> 2020. Rapid response to COVID-19: health informatics support for outbreak management in an academic health system. <emphasis><citetitle>J Am Med Inform Assoc</citetitle></emphasis> <emphasis role="strong">27:</emphasis>853–859.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0041" role="bibliographyEntry">
+            <para>40.<emphasis role="strong">Dong E, Du H, Gardner L.</emphasis> 2020. An interactive web-based dashboard to track COVID-19 in real time. <emphasis><citetitle>Lancet Infect Dis</citetitle></emphasis> <emphasis role="strong">20:</emphasis>533–534.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0042" role="bibliographyEntry">
+            <para>41.<emphasis role="strong">Greene SK, Peterson ER, Balan D, Jones L, Culp GM, Fine AD, Kulldorff M.</emphasis> 2021. Detecting COVID-19 clusters at high spatiotemporal resolution, New York City, New York, USA, June-July 2020. <emphasis><citetitle>Emerg Infect Dis</citetitle></emphasis> <emphasis role="strong">27:</emphasis>1500–1504.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0043" role="bibliographyEntry">
+            <para>42.<emphasis role="strong">Perkins KM, Lawsin A, Hasan NA, Strong M, Halpin AL, Rodger RR, Moulton-Meissner H, Crist MB, Schwartz S, Marders J, Daley CL, Salfinger M, Perz JF.</emphasis> 2016. Notes from the Field: <emphasis><citetitle>Mycobacterium chimaera</citetitle></emphasis> contamination of heater-cooler devices used in cardiac surgery—United States. <emphasis><citetitle>MMWR Morb Mortal Wkly Rep</citetitle></emphasis> <emphasis role="strong">65:</emphasis>1117–1118.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0044" role="bibliographyEntry">
+            <para>43.<emphasis role="strong">Sax H, Bloemberg G, Hasse B, Sommerstein R, Kohler P, Achermann Y, Rössle M, Falk V, Kuster SP, Böttger EC, Weber R.</emphasis> 2015. Prolonged outbreak of <emphasis><citetitle>Mycobacterium chimaera</citetitle></emphasis> infection after open-chest heart surgery. <emphasis><citetitle>Clin Infect Dis</citetitle></emphasis> <emphasis role="strong">61:</emphasis>67–75.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0045" role="bibliographyEntry">
+            <para>44.<emphasis role="strong">Paireau J, Girond F, Collard JM, Maïnassara HB, Jusot JF.</emphasis> 2012. Analysing spatio-temporal clustering of meningococcal meningitis outbreaks in Niger reveals opportunities for improved disease control. <emphasis><citetitle>PLoS Negl Trop Dis</citetitle></emphasis> <emphasis role="strong">6:</emphasis>e1577.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0046" role="bibliographyEntry">
+            <para>45.<emphasis role="strong">Collard JM, Maman Z, Abani A, Mainasara HB, Djibo S, Yacouba H, Maitournam R, Sidikou F, Nicolas P, Rocourt J, Jusot JF.</emphasis> 2011. Microbiological and epidemiological investigation of the <emphasis><citetitle>Neisseria meningitidis</citetitle></emphasis> serogroup A epidemic in Niger in 2009: last wave before the introduction of the serogroup A meningococcal conjugate vaccine? <emphasis><citetitle>Epidemiol Infect</citetitle></emphasis> <emphasis role="strong">139:</emphasis>1656–1660.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0047" role="bibliographyEntry">
+            <para>46.<emphasis role="strong">Broadhurst MJ, Brooks TJ, Pollock NR.</emphasis> 2016. Diagnosis of Ebola virus disease: past, present, and future. <emphasis><citetitle>Clin Microbiol Rev</citetitle></emphasis> <emphasis role="strong">29:</emphasis>773–793.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0048" role="bibliographyEntry">
+            <para>47.<emphasis role="strong">Weaver SC, Costa F, Garcia-Blanco MA, Ko AI, Ribeiro GS, Saade G, Shi PY, Vasilakis N.</emphasis> 2016. Zika virus: history, emergence, biology, and prospects for control. <emphasis><citetitle>Antiviral Res</citetitle></emphasis> <emphasis role="strong">130:</emphasis>69–80.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0049" role="bibliographyEntry">
+            <para>48.<emphasis role="strong">O’Toole Á, et al, Division of Emerging Infectious Diseases (KDCA).</emphasis> 2021. Tracking the international spread of SARS-CoV-2 lineages B.1.1.7 and B.1.351/501Y-V2 with grinch. <emphasis><citetitle>Wellcome Open Res</citetitle></emphasis> <emphasis role="strong">6:</emphasis>121.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0050" role="bibliographyEntry">
+            <para>49.<emphasis role="strong">Patel M, Lee AD, Clemmons NS, Redd SB, Poser S, Blog D, Zucker JR, Leung J, Link-Gelles R, Pham H, Arciuolo RJ, Rausch-Phung E, Bankamp B, Rota PA, Weinbaum CM, Gastañaduy PA.</emphasis> 2019. National update on measles cases and outbreaks—United States, January 1–October 1, 2019. <emphasis><citetitle>MMWR Morb Mortal Wkly Rep</citetitle></emphasis> <emphasis role="strong">68:</emphasis>893–896.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0051" role="bibliographyEntry">
+            <para>50.<emphasis role="strong">Rosen JZ, Zucker JR.</emphasis> 2018. ALERT #38: Measles outbreak in New York City in the orthodox Jewish community. New York City Department of Health and Mental Hygiene, NY. <ulink url="https://www1.nyc.gov/assets/doh/downloads/pdf/han/alert/2018/alert38-measles-outbreak.pdf">https://www1.nyc.gov/assets/doh/downloads/pdf/han/alert/2018/alert38-measles-outbreak.pdf</ulink>.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0052" role="bibliographyEntry">
+            <para>51.<emphasis role="strong">Ostrowsky BE, Whitener C, Bredenberg HK, Carson LA, Holt S, Hutwagner L, Arduino MJ, Jarvis WR.</emphasis> 2002. <emphasis><citetitle>Serratia marcescens</citetitle></emphasis> bacteremia traced to an infused narcotic. <emphasis><citetitle>N Engl J Med</citetitle></emphasis> <emphasis role="strong">346:</emphasis>1529–1537.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0053" role="bibliographyEntry">
+            <para>52.<emphasis role="strong">Schuppener LM, Pop-Vicas AE, Brooks EG, Duster MN, Crnich CJ, Sterkel AK, Webb AP, Safdar N.</emphasis> 2017. <emphasis><citetitle>Serratia marcescens</citetitle></emphasis> bacteremia: nosocomial cluster following narcotic diversion. <emphasis><citetitle>Infect Control Hosp Epidemiol</citetitle></emphasis> <emphasis role="strong">38:</emphasis>1027–1031.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0054" role="bibliographyEntry">
+            <para>53.<emphasis role="strong">Kainer MA, Reagan DR, Nguyen DB, Wiese AD, Wise ME, Ward J, Park BJ, Kanago ML, Baumblatt J, Schaefer MK, Berger BE, Marder EP, Min JY, Dunn JR, Smith RM, Dreyzehner J, Jones TF, Tennessee Fungal Meningitis Investigation.</emphasis> 2012. Fungal infections associated with contaminated methylprednisolone in Tennessee. <emphasis><citetitle>N Engl J Med</citetitle></emphasis> <emphasis role="strong">367:</emphasis>2194–2203.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0055" role="bibliographyEntry">
+            <para>54.<emphasis role="strong">Pettit AC, Kropski JA, Castilho JL, Schmitz JE, Rauch CA, Mobley BC, Wang XJ, Spires SS, Pugh ME.</emphasis> 2012. The index case for the fungal meningitis outbreak in the United States. <emphasis><citetitle>N Engl J Med</citetitle></emphasis> <emphasis role="strong">367:</emphasis>2119–2125.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0056" role="bibliographyEntry">
+            <para>55.<emphasis role="strong">Chow NA, Gade L, Tsay SV, Forsberg K, Greenko JA, Southwick KL, Barrett PM, Kerins JL, Lockhart SR, Chiller TM, Litvintseva AP, Adams E, Barton K, Beer KD, Bentz ML, Berkow EL, Black S, Bradley KK, Brooks R, Chaturvedi S, Clegg W, Cumming M, DeMaria A, Dotson N, Epson E, Fernandez R, Fulton T, Greeley R, Jackson B, Kallen A, Kemble S, Klevens M, Kuykendall R,</emphasis> Le <emphasis role="strong">NH, Leung V, Lutterloh E, Mcateer J, Pacilli M, Peterson J, Quinn M, Ross K, Rozwadowski F, Shannon DJ, Skrobarcek KA, Vallabhaneni S, Welsh R, Zhu Y, US Candida auris Investigation Team.</emphasis> 2018. Multiple introductions and subsequent transmission of multidrug-resistant <emphasis><citetitle>Candida auris</citetitle></emphasis> in the USA: a molecular epidemiological survey. <emphasis><citetitle>Lancet Infect Dis</citetitle></emphasis> <emphasis role="strong">18:</emphasis>1377–1384.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0057" role="bibliographyEntry">
+            <para>56.<emphasis role="strong">Kordalewska M, Zhao Y, Lockhart SR, Chowdhary A, Berrio I, Perlin DS.</emphasis> 2017. Rapid and accurate molecular identification of the emerging multidrug-resistant pathogen <emphasis><citetitle>Candida auris</citetitle></emphasis>. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">55:</emphasis>2445–2452.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0058" role="bibliographyEntry">
+            <para>57.<emphasis role="strong">Lockhart SR, Etienne KA, Vallabhaneni S, Farooqi J, Chowdhary A, Govender NP, Colombo AL, Calvo B, Cuomo CA, Desjardins CA, Berkow EL, Castanheira M, Magobo RE, Jabeen K, Asghar RJ, Meis JF, Jackson B, Chiller T, Litvintseva AP.</emphasis> 2017. Simultaneous emergence of multidrug-resistant <emphasis><citetitle>Candida auris</citetitle></emphasis> on 3 continents confirmed by whole-genome sequencing and epidemiological analyses. <emphasis><citetitle>Clin Infect Dis</citetitle></emphasis> <emphasis role="strong">64:</emphasis>134–140.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0059" role="bibliographyEntry">
+            <para>58.<emphasis role="strong">Zhu Y, O’Brien B, Leach L, Clarke A, Bates M, Adams E, Ostrowsky B, Quinn M, Dufort E, Southwick K, Erazo R, Haley VB, Bucher C, Chaturvedi V, Limberger RJ, Blog D, Lutterloh E, Chaturvedi S.</emphasis> 2020. Laboratory analysis of an outbreak of <emphasis><citetitle>Candida auris</citetitle></emphasis> in New York from 2016 to 2018: impact and lessons learned. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">58:</emphasis>e01503–19.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0060" role="bibliographyEntry">
+            <para>59.<emphasis role="strong">Patel A, Emerick M, Cabunoc MK, Williams MH, Preas MA, Schrank G, Rabinowitz R, Luethy P, Johnson JK, Leekha S.</emphasis> 2021. Rapid spread and control of multidrug-resistant Gram-negative bacteria in COVID-19 patient care units. <emphasis><citetitle>Emerg Infect Dis</citetitle></emphasis> <emphasis role="strong">27:</emphasis>1234–1237.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0061" role="bibliographyEntry">
+            <para>60.<emphasis role="strong">Perez S, Innes GK, Walters MS, Mehr J, Arias J, Greeley R, Chew D.</emphasis> 2020. Increase in hospital-acquired carbapenem-resistant <emphasis><citetitle>Acinetobacter baumannii</citetitle></emphasis> infection and colonization in an acute care hospital during a surge in COVID-19 admissions—New Jersey, February–July 2020. <emphasis><citetitle>MMWR Morb Mortal Wkly Rep</citetitle></emphasis> <emphasis role="strong">69:</emphasis>1827–1831.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0062" role="bibliographyEntry">
+            <para>61.<emphasis role="strong">Prestel C, Anderson E, Forsberg K, Lyman M, de Perio MA, Kuhar D, Edwards K, Rivera M, Shugart A, Walters M, Dotson NQ.</emphasis> 2021. <emphasis><citetitle>Candida auris</citetitle></emphasis> outbreak in a COVID-19 specialty care unit—Florida, July–August 2020. <emphasis><citetitle>MMWR Morb Mortal Wkly Rep</citetitle></emphasis> <emphasis role="strong">70:</emphasis>56–57.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0063" role="bibliographyEntry">
+            <para>62.<emphasis role="strong">Scallan E, Mahon BE.</emphasis> 2012. Foodborne Diseases Active Surveillance Network (FoodNet) in 2012: a foundation for food safety in the United States. <emphasis><citetitle>Clin Infect Dis</citetitle></emphasis> <emphasis role="strong">54</emphasis>(Suppl 5)<emphasis role="strong">:</emphasis>S381–S384.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0064" role="bibliographyEntry">
+            <anchor id="ch0026s000000a0060"/>
+            <para>63.<emphasis role="strong">Vaughn EL, Vo QT, Vostok J, Stiles T, Lang A, Brown CM, Klevens RM, Madoff L.</emphasis> 2020. Linking epidemiology and whole-genome sequencing to investigate <emphasis><citetitle>Salmonella</citetitle></emphasis> outbreak, Massachusetts, USA, 2018. <emphasis><citetitle>Emerg Infect Dis</citetitle></emphasis> <emphasis role="strong">26:</emphasis>1538–1541.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0065" role="bibliographyEntry">
+            <para>64.<emphasis role="strong">Vasser M, Barkley J, Miller A, Gee E, Purcell K, Schroeder MN, Basler C, Neil KP.</emphasis> 2021. Notes from the Field: multistate outbreak of <emphasis><citetitle>Escherichia coli</citetitle></emphasis> O26 infections linked to raw flour—United States, 2019. <emphasis><citetitle>MMWR Morb Mortal Wkly Rep</citetitle></emphasis> <emphasis role="strong">70:</emphasis>600–601.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0066" role="bibliographyEntry">
+            <para>65.<emphasis role="strong">Grein TW, Kamara KB, Rodier G, Plant AJ, Bovier P, Ryan MJ, Ohyama T, Heymann DL.</emphasis> 2000. Rumors of disease in the global village: outbreak verification. <emphasis><citetitle>Emerg Infect Dis</citetitle></emphasis> <emphasis role="strong">6:</emphasis>97–102.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0067" role="bibliographyEntry">
+            <para>66.<emphasis role="strong">Butler D.</emphasis> 2006. Disease surveillance needs a revolution. <emphasis><citetitle>Nature</citetitle></emphasis> <emphasis role="strong">440:</emphasis>6–7.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0068" role="bibliographyEntry">
+            <para>67.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> <ulink url="https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp">https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp</ulink>. Accessed 10 June 2022.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0069" role="bibliographyEntry">
+            <para>68.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2022. WHO Guidelines for the collection of clinical specimens during field investigation of outbreaks. <ulink url="https://apps.who.int/iris/handle/10665/66348">https://apps.who.int/iris/handle/10665/66348</ulink>. Accessed 6 October 2022.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0070" role="bibliographyEntry">
+            <para>69.<emphasis role="strong">Pan American Health Organization, World Health Organization.</emphasis> 2018. Zika cumulative cases. <ulink url="https://www3.paho.org/hq/index.php?option=com_content&amp;view=article&amp;id=12390:zika-cumulative-cases&amp;Itemid=42090&amp;lang=en">https://www3.paho.org/hq/index.php?option=com_content&amp;view=article&amp;id=12390:zika-cumulative-cases&amp;Itemid=42090&amp;lang=en</ulink>. Accessed 6 October 2022.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0071" role="bibliographyEntry">
+            <para>70.<emphasis role="strong">Centers for Diseases Control and Prevention.</emphasis> 2019. 2014–2016 Ebola outbreak in West Africa. <ulink url="https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/index.html">https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/index.html</ulink>. Accessed 6 October 2022.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0072" role="bibliographyEntry">
+            <para>71.<emphasis role="strong">Johns Hopkins University of Medicine Coronavirus Resource Center.</emphasis> <ulink url="https://coronavirus.jhu.edu/map.html">https://coronavirus.jhu.edu/map.html</ulink>. Accessed 6 October 2022.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0073" role="bibliographyEntry">
+            <para>72.<emphasis role="strong">Food and Drug Administration.</emphasis> 2022. In vitro diagnostics EUAs. <ulink url="https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/in-vitro-diagnostics-euas">https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/in-vitro-diagnostics-euas</ulink>. Accessed 6 October 2022.</para>
+          </listitem>
+          <listitem id="ch0026s000000li0074" role="bibliographyEntry">
+            <para>73.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2013. Cyclosporiasis outbreak investigations—United States, 2013 (final update). <ulink url="http://www.cdc.gov/parasites/cyclosporiasis/outbreaks/investigation-2013.html">http://www.cdc.gov/parasites/cyclosporiasis/outbreaks/investigation-2013.html</ulink>. Accessed 6 October 2022.</para>
+          </listitem>
+        </itemizedlist>
+        <anchor id="ch0026s000000a0059"/>
+        <beginpage pagenum="219"/>
+      </sect2>
+    </sect1>
+  </chapter>

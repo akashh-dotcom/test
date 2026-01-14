@@ -1,0 +1,984 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0124">
+    <title>105 Human Herpesviruses 6A, 6B, and 7</title>
+    <sect1 id="ch0124s0001">
+      <title>105 Human Herpesviruses 6A, 6B, and 7</title>
+      <anchor id="ch0124s000001a0001"/>
+      <anchor id="ch0124s000000a0001"/>
+      <para id="ch0124s000000p0001" role="chapterAuthor">ALEXANDER L. GRENINGER, RUTH HALL SEDLAK, AND KEITH R. JEROME</para>
+      <sect2 id="ch0124s0001s0001">
+        <title>HUMAN HERPESVIRUS 6</title>
+        <anchor id="ch0124s000001a0002"/>
+        <anchor id="ch0124s000000a0002"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0124s0002">
+      <title>Taxonomy</title>
+      <anchor id="ch0124s000002a0001"/>
+      <anchor id="ch0124s000000a0003"/>
+      <para id="ch0124s000000p0002">Human herpesvirus (HHV) 6A, HHV-6B, and HHV-7 are three distinct virus species that make up the<emphasis>Roseolovirus</emphasis> genus (<link linkend="ch0124s000000li0001">1</link>). Although HHV-6A and HHV-6B were originally considered subtypes of the same viral species, they were officially classified as distinct viral species in 2012 (<link linkend="ch0124s000000li0002">2</link>). Together with cytomegalovirus (CMV), which is discussed in a separate chapter in this <emphasis>Manual</emphasis>, the roseoloviruses represent the four human viruses of the <emphasis>Betaherpesvirus</emphasis> subfamily. Roseoloviruses share many features of their genomic architecture and genetic content, the ability to replicate and establish latent infections in lymphocytes, associations with febrile rash in young children and with a variety of neurologic disorders, and the ability to act as opportunistic pathogens in immunocompromised patients. HHV-6A and HHV-6B have the ability to genetically recombine with each other in the laboratory (<link linkend="ch0124s000000li0003">3</link>). For convenience, we sometimes refer to HHV-6A and HHV-6B collectively as HHV-6 when there are no discriminating data.</para>
+    </sect1>
+    <sect1 id="ch0124s0003">
+      <title>Description of the Agent</title>
+      <anchor id="ch0124s000003a0001"/>
+      <anchor id="ch0124s000000a0004"/>
+      <para id="ch0124s000000p0003">HHV-6 virions are about 200 nm in diameter and consist of four major components: a double-stranded DNA genome (160 to 170 kb) within the core of an icosahedral capsid surrounded by a proteinaceous tegument, all of which is surrounded by a lipid bilayer envelope containing a variety of viral and cellular proteins. The viral genomes carry approximately 100 unique genes. HHV-6A and HHV-6B share approximately 95% nucleotide identity with each other, which is by far the highest similarity of any two species of human herpesvirus. By comparison, HHV-6A and B share approximately 60% nucleotide identity in alignable regions with HHV-7 and are essentially unalignable in nucleotide space with CMV (&lt;45% nucleotide identity in housekeeping genes).</para>
+      <para id="ch0124s000000p0004">Actively replicating HHV-6B strains cluster by geographical origin and are highly similar to each other, with an average pairwise nucleotide identity of &gt;99.9% (<link linkend="ch0124s000000li0004">4</link>). Comparatively few genome sequences from acute infections of HHV-6A are available, although the pairwise sequencing identity among HHV-6A strains suggests conservation similar to that seen in HHV-6B.</para>
+    </sect1>
+    <sect1 id="ch0124s0004">
+      <title>Epidemiology and Transmission</title>
+      <anchor id="ch0124s000004a0001"/>
+      <anchor id="ch0124s000000a0005"/>
+      <sect2 id="ch0124s0004s0001">
+        <title>Epidemiology</title>
+        <anchor id="ch0124s000004a0002"/>
+        <anchor id="ch0124s000000a0006"/>
+        <para id="ch0124s000000p0005">The seroprevalence of HHV-6A and HHV-6B together is high (&gt;90%) (<link linkend="ch0124s000000li0005">5</link>), but as discussed later, extensive cross-reactivity has hindered large-scale assessment of the specific seroprevalence of each virus. Transmission is thought to occur mainly via saliva (<link linkend="ch0124s000000li0006">6</link>). Most individuals become infected by the age of 2 or 3 years (<link linkend="ch0124s000000li0007">7</link>). In the United States, Japan, and Europe, HHV-6B is typically acquired in early childhood and infects nearly all individuals, and HHV-6A prevalence in these areas may exceed 50% by adulthood. In Zambia, HHV-6A was reported in &gt;85% of asymptomatic infants, suggesting possible international differences in the epidemiology of the HHV-6 variants (<link linkend="ch0124s000000li0008">8</link>). However, in Uganda, over 90% of newly acquired HHV-6 infections in infants were HHV-6B (<link linkend="ch0124s000000li0009">9</link>). Further studies will be required to develop a full understanding of regional differences.</para>
+      </sect2>
+      <sect2 id="ch0124s0004s0002">
+        <title>Tissue Distribution</title>
+        <anchor id="ch0124s000004a0003"/>
+        <anchor id="ch0124s000000a0007"/>
+        <para id="ch0124s000000p0006">The cell surface receptor for HHV-6A is CD46, while the receptor for HHV-6B is CD134 (<link linkend="ch0124s000000li0010">10</link>). As such, the tissue distribution of the two viruses appears to be distinct, although the differential detection of the two viruses is confounded by their differing prevalence. HHV-6B DNA has been detected in as many as 90% of peripheral blood mononuclear cell (PBMC) specimens, &gt;80% of brains, &gt;90% of tonsils (in epithelial cells of tonsillar crypts), and 40 to 90% of oral fluid and nasal mucus specimens; it has been detected less frequently in skin, lungs, endomyocardial biopsy specimens, goblet cells and histiocytes of the large intestine, cervical fluids, and ocular aqueous humor. HHV-6B is commonly detected in the gastrointestinal tract of transplant patients (<link linkend="ch0124s000000li0011">11</link>). The receptor tropism may be associated with delayed T-cell reconstitution in transplant patients with reactivated HHV-6 (<link linkend="ch0124s000000li0012">12</link>). During primary infection in young children in the United States, HHV-6A was found by PCR in 2.5% of PBMC and 17% of cerebrospinal fluid (CSF) specimens, while HHV-6B was found in 99% of PBMC and 86% of CSF specimens (<link linkend="ch0124s000000li0013">13</link>). The median salivary viral level of HHV-6B increases from approximately 10<superscript>3</superscript> copies of HHV-6/ml at 1 week postinfection to 10<superscript>5</superscript> copies of HHV-6/ml by 8 weeks postinfection (<link linkend="ch0124s000000li0007">7</link>). Shedding may persist at substantial levels into adulthood (<link linkend="ch0124s000000li0014">14</link>, <link linkend="ch0124s000000li0015">15</link>). HHV-6A DNA was reported to be present in over half of lung specimens, mostly in conjunction with HHV-6B (<link linkend="ch0124s000000li0016">16</link>). In a study of adult brains from 40 consecutive autopsies, 28% were positive for HHV-6A and 75% for HHV-6B (<link linkend="ch0124s000000li0017">17</link>). For bone marrow transplant recipients, HHV-6A and HHV-6B have both been detected in plasma, but HHV-6B was the species overwhelmingly detected in PBMC (<link linkend="ch0124s000000li0018">18</link>, <link linkend="ch0124s000000li0019">19</link>). Interpreting HHV-6 detection by PCR in clinical specimens is complicated by both the ubiquity of subclinical reactivation and inherited chromosomally integrated forms (<link linkend="ch0124s000000li0020">20</link>–<link linkend="ch0124s000000li0023">23</link>).</para>
+        <anchor id="ch0124s000000a0008"/>
+        <beginpage pagenum="2041"/>
+      </sect2>
+      <sect2 id="ch0124s0004s0003">
+        <title>Latency, Persistence, and Transmission</title>
+        <anchor id="ch0124s000004a0004"/>
+        <anchor id="ch0124s000000a0009"/>
+        <para id="ch0124s000000p0007">Other than during the acute phase of roseola, HHV-6 can seldom be detected by culture. However, HHV-6 DNA can be detected in PBMC from 90% of children by PCR, and transcripts can occasionally be detected in asymptomatic children (~1% of specimens) (<link linkend="ch0124s000000li0024">24</link>). This suggests that latent infection is established in PBMC. Latent HHV-6B has been detected in monocytes, PBMC-derived dendritic cells, and their CD34<superscript>+</superscript> bone marrow progenitors (<link linkend="ch0124s000000li0025">25</link>). Unlike other human herpesviruses, HHV-6A and -6B appear to establish latency via integration into subtelomeric regions of host cells, rather than as episomes (<link linkend="ch0124s000000li0026">26</link>). The cell tropism of HHV-6A latency is less well understood, although latency has been established in oligodendrocytes <emphasis>in vitro</emphasis> (<link linkend="ch0124s000000li0027">27</link>). Both HHV-6B and HHV-7 are detected in high proportions of salivary glands, suggesting that this is a critical reservoir of persistent infection and shedding (<link linkend="ch0124s000000li0028">28</link>, <link linkend="ch0124s000000li0029">29</link>). Primary infection with HHV-6 typically occurs with the waning of maternal antibody, with transmission likely occurring via saliva (<link linkend="ch0124s000000li0006">6</link>). HHV-6 was not detected in breast milk, suggesting that this is not a significant vehicle for transmission (<link linkend="ch0124s000000li0030">30</link>). Little is known of HHV-6A transmission.</para>
+        <para id="ch0124s000000p0008">Unique among the human herpesviruses, approximately 1% of the population harbors inherited chromosomally integrated HHV-6 (iciHHV-6) genomes at a chromosomal telomere. This occurs via vertical transmission through the germ line, and as such, all cells in these individuals harbor viral DNA (<link linkend="ch0124s000000li0026">26</link>, <link linkend="ch0124s000000li0031">31</link>). iciHHV-6 can result in persistence of high levels of HHV-6 DNA in CSF and blood, which is most commonly observed in posttransplant patients (<link linkend="ch0124s000000li0032">32</link>). It is still unclear how frequently iciHHV-6 reactivates, although recent reports suggest it is possible (<link linkend="ch0124s000000li0033">33</link>, <link linkend="ch0124s000000li0034">34</link>) and may explain some cases of congenital infection (<link linkend="ch0124s000000li0035">35</link>, <link linkend="ch0124s000000li0036">36</link>). iciHHV-6 may express select RNA transcripts in the absence of reactivation (<link linkend="ch0124s000000li0037">37</link>). While some iciHHV-6B strains genomically cluster with acute HHV-6B strains, many unrelated iciHHV-6 cases share identical iciHHV-6 sequences, suggesting a founder effect in inheritance of HHV-6 (<link linkend="ch0124s000000li0004">4</link>, <link linkend="ch0124s000000li0038">38</link>, <link linkend="ch0124s000000li0039">39</link>).</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0124s0005">
+      <title>Clinical Significance</title>
+      <anchor id="ch0124s000005a0001"/>
+      <anchor id="ch0124s000000a0010"/>
+      <para id="ch0124s000000p0009">While infections with HHV-6 are generally subclinical or mild in immunocompetent individuals, they can be severe in immunocompromised persons.</para>
+      <sect2 id="ch0124s0005s0001">
+        <title>Primary Infection</title>
+        <anchor id="ch0124s000005a0002"/>
+        <anchor id="ch0124s000000a0011"/>
+        <para id="ch0124s000000p0010">HHV-6 primary infection causes roseola (also called roseola infantum, sixth disease, and exanthem subitum) and accounts for 10 to 20% of febrile illness presenting to the emergency department in the 6- to 12-month-old population (<link linkend="ch0124s000000li0040">40</link>). While HHV-6B is the predominant etiologic agent of roseola, rare cases of HHV-6A-associated roseola or febrile illness have been reported. About 94% of children are symptomatic at the time of primary infection, with specifically associated symptoms including fever (58%), fussiness (70%), rhinorrhea (66%), diarrhea (26%), rash (31%), and roseola (24%) (<link linkend="ch0124s000000li0007">7</link>).</para>
+        <para id="ch0124s000000p0011">Classic roseola symptoms include an abrupt rise in temperature (39 to 40°C), which persists for 3 to 5 days. Fever abatement coincides with onset of a blanching maculopapular rash (<anchor id="ch0124s000000a0012"/><link linkend="ch0124s000000a0015">Fig. 1</link>), which resolves within 3 days. Initial appearance of the rash is on the neck, behind the ears, and on the back, followed by spread to the rest of the body. The illness lasts 2 to 7 days, usually with no sequelae. Other clinical symptoms of roseola may include lymphadenopathy, erythematous tympanic membranes, and uvulopalatoglossal junctional papules (Nagayama spots) prior to rash onset.</para>
+        <para id="ch0124s000000p0012">Primary HHV-6 infection may also present as fever without rash or rash without fever, because three-quarters of cases do not meet clinical definitions of roseola. Less common but more severe forms of primary HHV-6 infection may include fever of &gt;40°C, respiratory tract distress, diarrhea, and convulsions. Although seizures are rare for HHV-6 primary infections, primary HHV-6 infections account for a significant portion of febrile seizures in young children (<link linkend="ch0124s000000li0041">41</link>, <link linkend="ch0124s000000li0042">42</link>). Recent studies have also suggested a relationship between HHV-6, febrile seizures, and the subsequent development of mesial temporal lobe epilepsy (<link linkend="ch0124s000000li0043">43</link>, <link linkend="ch0124s000000li0044">44</link>). Other serious but rare complications reported with HHV-6 primary infections include hepatosplenomegaly, Gianatti syndrome (an acrodermatitis of childhood that has been associated with hepatitis B virus and Epstein-Barr virus infections), bulging fontanels, aseptic meningitis, encephalitis (perhaps 1% of meningitis and encephalitis cases) (<link linkend="ch0124s000000li0041">41</link>), poor neurologic outcomes following congenital infection, and disseminated fatal infection.</para>
+        <anchor id="ch0124s000000a0013"/>
+        <beginpage pagenum="2042"/>
+        <figure id="ch0124s000000f0001"><title><anchor id="ch0124s000000a0014"/><phrase role="figureLabel"><anchor id="ch0124s000000a0015"/><link linkend="ch0124s000000a0012">FIGURE 1</link></phrase> Child with roseola during primary HHV-6B infection. Public domain photo from M. Davis.
+</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0124f01.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+        <para id="ch0124s000000p0013">Primary HHV-6 infection in adults is rare but can be severe. Clinical presentation in these cases may include a mononucleosis-like illness, prolonged lymphadenopathy, and fulminant hepatitis.</para>
+      </sect2>
+      <sect2 id="ch0124s0005s0002">
+        <title>Transplant Recipients and Immunosuppressed Populations</title>
+        <anchor id="ch0124s000005a0003"/>
+        <anchor id="ch0124s000000a0016"/>
+        <para id="ch0124s000000p0014">HHV-6 reactivation generally occurs in the context of immune suppression. For example, HHV-6 can reactivate in AIDS patients and lead to disseminated infection (<link linkend="ch0124s000000li0045">45</link>). The most common clinical setting for HHV-6 reactivation is transplantation, though routine surveillance is not recommended due to lack of actionable viral load thresholds and poor therapeutic efficacy (<link linkend="ch0124s000000li0046">46</link>). Most cases are due to HHV-6B; less than 3% are thought to result from HHV-6A. In contrast, HHV-6B can be detected in plasma or serum in 30 to 50% of transplant recipients (<link linkend="ch0124s000000li0047">47</link>–<link linkend="ch0124s000000li0049">49</link>). Reactivation typically occurs within the first 2 to 4 weeks posttransplant; the median time to HHV-6 reactivation was reported to be 20 days for HHV-6, compared to 27 days for HHV-7 and 36 days for CMV (<link linkend="ch0124s000000li0005">5</link>). HHV-6 reactivation is associated with the receipt of fewer CD4<superscript>+</superscript> HHV-6-specific donor T cells (<link linkend="ch0124s000000li0050">50</link>, <link linkend="ch0124s000000li0051">51</link>).</para>
+        <para id="ch0124s000000p0015">Multiple disease manifestations have been associated with HHV-6 reactivation in transplant recipients. Of these, encephalitis is the best documented. HHV-6-associated encephalitis occurs in approximately 1% of hematopoietic cell transplants and can lead to damage of the limbic system, brain stem, and hippocampus, manifesting in seizures, cognitive problems, and abnormal electroencephalogram. The frequency of HHV-6 encephalitis varies by transplant type; it reaches approximately 10% in cord blood transplant recipients (<link linkend="ch0124s000000li0049">49</link>), while it appears to be much less frequent in solid organ transplantation (<link linkend="ch0124s000000li0048">48</link>, <link linkend="ch0124s000000li0052">52</link>). Interestingly, levels of HHV-6 DNA found in CSF during reactivation tend to be higher than during primary disease (<link linkend="ch0124s000000li0053">53</link>). HHV-6 also appears to have effects on the central nervous system that are subtler than frank encephalitis, including delirium and cognitive decline after hematopoietic cell transplantation (<link linkend="ch0124s000000li0054">54</link>).</para>
+        <para id="ch0124s000000p0016">HHV-6 reactivation after transplant has also been associated with other clinical manifestations. Myelosuppression and delayed engraftment have been reported (<link linkend="ch0124s000000li0055">55</link>, <link linkend="ch0124s000000li0056">56</link>). Several studies have also associated HHV-6 with the development of acute graft-versus-host disease (<link linkend="ch0124s000000li0047">47</link>, <link linkend="ch0124s000000li0055">55</link>, <link linkend="ch0124s000000li0057">57</link>, <link linkend="ch0124s000000li0058">58</link>). Interestingly, one study suggests that either HHV-6 reactivation or acute graft-versus-host disease predisposes to the subsequent development of the other (<link linkend="ch0124s000000li0059">59</link>); future studies should clarify the mechanisms and causality of this relationship. HHV-6 may contribute to allograft dysfunction and rejection; in one study of liver transplantation, some patients with graft hepatitis responded favorably to antiviral therapy (<link linkend="ch0124s000000li0060">60</link>). Beyond allografts, HHV-6 has also been reported to affect organs in the context of hematopoietic cell transplantation, including liver (<link linkend="ch0124s000000li0061">61</link>) and lung (<link linkend="ch0124s000000li0062">62</link>). Detection of HHV-6 in bronchoalveolar lavage has been associated with idiopathic pneumonia syndrome, and reductions in HHV-6 levels and mortality have been associated with antiviral therapy (<link linkend="ch0124s000000li0062">62</link>, <link linkend="ch0124s000000li0063">63</link>). Finally, HHV-6 has been associated with an increased risk of CMV reactivation, both in hematopoietic (<link linkend="ch0124s000000li0047">47</link>, <link linkend="ch0124s000000li0064">64</link>) and solid organ transplants (<link linkend="ch0124s000000li0065">65</link>, <link linkend="ch0124s000000li0066">66</link>). Coreactivation of HHV-6 and CMV is associated with a worse outcome in intensive care unit patients than either virus alone (<link linkend="ch0124s000000li0067">67</link>). Similarly, several studies have demonstrated that HHV-6 reactivation is a predictor of increased mortality after hematopoietic cell transplantation (<link linkend="ch0124s000000li0047">47</link>, <link linkend="ch0124s000000li0055">55</link>, <link linkend="ch0124s000000li0068">68</link>). Whether these relationships indicate a causal relationship or instead merely reflect the underlying immunosuppression remains to be established. Despite these associations, a randomized clinical trial of patients after liver transplant demonstrated no clinical benefit from routine monitoring for HHV-6 (<link linkend="ch0124s000000li0069">69</link>).</para>
+        <para id="ch0124s000000p0017">iciHHV-6 may affect clinical outcomes in immunocompromised patients, but further study is required (<link linkend="ch0124s000000li0070">70</link>, <link linkend="ch0124s000000li0071">71</link>). Acute graft-versus-host disease grades 2 to 4 have been shown to be more frequent when recipients or donors had iciHHV-6. CMV viremia is also more frequent among recipients with iciHHV-6 (<link linkend="ch0124s000000li0072">72</link>).</para>
+      </sect2>
+      <sect2 id="ch0124s0005s0003">
+        <title>Other</title>
+        <anchor id="ch0124s000005a0004"/>
+        <anchor id="ch0124s000000a0017"/>
+        <sect3 id="ch0124s0005s0003s0001">
+          <title>Drug-Induced Hypersensitivity Syndromes</title>
+          <anchor id="ch0124s000005a0005"/>
+          <anchor id="ch0124s000000a0018"/>
+          <para id="ch0124s000000p0018">Exposure to certain drugs occasionally results in a severe and sometimes fatal reaction variously known as drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms, and anticonvulsant hypersensitivity syndrome (<link linkend="ch0124s000000li0073">73</link>). HHV-6 reactivations have been identified specifically in the acute phases of drug rash with eosinophilia and systemic symptoms cases, but not in toxic epidermal necrolysis or Stevens-Johnson syndrome (<link linkend="ch0124s000000li0074">74</link>). It remains to be seen whether HHV-6 contributes to either initiation or exacerbation of these events or instead represents a biomarker of immune activation (<link linkend="ch0124s000000li0075">75</link>).</para>
+        </sect3>
+        <sect3 id="ch0124s0005s0003s0002">
+          <title>Hashimoto’s Thyroiditis</title>
+          <anchor id="ch0124s000005a0006"/>
+          <anchor id="ch0124s000000a0019"/>
+          <para id="ch0124s000000p0019">Hashimoto’s thyroiditis (HT) is an autoimmune condition in which the thyroid gland is gradually destroyed. The disease is more common in women and is thought to result from a combination of genetic and environmental factors. Multiple studies have reported a higher prevalence and viral load of HHV-6 in thyroid fine-needle aspirates, thyroid tissue, or serum from HT/autoimmune thyroid disease patients compared to controls (<link linkend="ch0124s000000li0076">76</link>–<link linkend="ch0124s000000li0079">79</link>). Immunohistochemistry revealed expression of HHV-6 antigens on thyroid tissue from HT patients. Higher natural killer cell activity and T-cell responses to HHV-6-infected thyroid cells were observed in HT patients compared to controls, suggesting a possible role in pathogenesis.</para>
+        </sect3>
+        <sect3 id="ch0124s0005s0003s0003">
+          <title>Cardiomyopathy and Cardiovascular Disease</title>
+          <anchor id="ch0124s000005a0007"/>
+          <anchor id="ch0124s000000a0020"/>
+          <para id="ch0124s000000p0020">HHV-6B antigens and DNA have been detected in damaged cardiac tissues of patients with acute and chronic cardiomyopathies (<link linkend="ch0124s000000li0080">80</link>, <link linkend="ch0124s000000li0081">81</link>). A study of 19,597 participants, with a 0.58% prevalence of iciHHV-6, found a 3.3 times greater prevalence of angina pectoris in iciHHV-6-positive individuals compared to non-iciHHV-6-positive individuals but no association with myocardial infarction (<link linkend="ch0124s000000li0079">79</link>).</para>
+        </sect3>
+      </sect2>
+      <sect2 id="ch0124s0005s0004">
+        <title>Other Diseases</title>
+        <anchor id="ch0124s000005a0008"/>
+        <anchor id="ch0124s000000a0021"/>
+        <para id="ch0124s000000p0021">There is no conclusive evidence for causal associations between HHV-6 and multiple sclerosis, malignancy, or chronic fatigue syndrome. Two serological surveys found higher anti-HHV-6 responses in patients with multiple sclerosis (<link linkend="ch0124s000000li0082">82</link>, <link linkend="ch0124s000000li0083">83</link>). A population-based case-control study of 1,090 women with incident breast cancer and 1,053 controls from British Columbia and Ontario (Canada) found no statistically significant associations between inherited chromosomally integrated HHV-6 and breast cancer in women (odds ratio 0.87). HHV-6 has been suggested to be a biomarker for physiological fatigue associated with military training but is not associated with chronic fatigue syndrome or other pathological fatigue syndromes (<link linkend="ch0124s000000li0084">84</link>). A recent study found fetal inheritance of chromosomally integrated HHV-6 to lead to higher risks of pre-eclampsia, while other studies found higher risks of spontaneous abortion associated with maternal iciHHV-6 (<link linkend="ch0124s000000li0085">85</link>, <link linkend="ch0124s000000li0086">86</link>). HHV-6 detection in endometrial biopsies has also been associated with recurrent implantation failure (<link linkend="ch0124s000000li0087">87</link>). For many of these associations, proof of causality will require randomized clinical trials using an efficacious antiviral drug (<link linkend="ch0124s000000li0088">88</link>).</para>
+        <anchor id="ch0124s000000a0022"/>
+        <beginpage pagenum="2043"/>
+      </sect2>
+      <sect2 id="ch0124s0005s0005">
+        <title>Therapy</title>
+        <anchor id="ch0124s000005a0009"/>
+        <anchor id="ch0124s000000a0023"/>
+        <para id="ch0124s000000p0022">Antiviral treatment of HHV-6 has been reviewed in depth (<link linkend="ch0124s000000li0005">5</link>). No antivirals are licensed for treatment of HHV-6. Therapeutic approaches are similar to those for human CMV, including ganciclovir, cidofovir, and foscarnet, which show <emphasis>in vitro</emphasis> activity against HHV-6. Artesunate has anti-HHV-6 activity <emphasis>in vitro</emphasis> and was reported to effectively treat a case of HHV-6B-associated myocarditis (<link linkend="ch0124s000000li0080">80</link>). The few trials completed to date on the use of antivirals for HHV-6 have not demonstrated statistically significant improvements in outcomes (<link linkend="ch0124s000000li0089">89</link>–<link linkend="ch0124s000000li0091">91</link>). Nevertheless, it is considered prudent to use antiviral therapy in the setting of HHV-6 reactivation in immunocompromised individuals (<link linkend="ch0124s000000li0092">92</link>). It is important to distinguish iciHHV-6 from HHV-6 reactivation when considering antiviral therapy for patients with detectable HHV-6, and clinical symptoms should weigh heavily in treatment decisions (<link linkend="ch0124s000000li0031">31</link>). Indeed, testing for iciHHV-6 is often used to justify stopping antiviral therapy in the setting of a positive HHV-6 PCR without clear symptoms. Nevertheless, it is important to recognize that HHV-6 reactivation and disease can occur in the setting of iciHHV-6, and thus the presence of iciHHV-6 is by itself not enough to justify halting treatment if symptoms are compatible with HHV-6 disease.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0124s0006">
+      <title>Collection, Transport, and Storage of Specimens</title>
+      <anchor id="ch0124s000006a0001"/>
+      <anchor id="ch0124s000000a0024"/>
+      <para id="ch0124s000000p0023">Saliva specimens can be collected for virus detection by various methods, including filter paper strips (<link linkend="ch0124s000000li0093">93</link>), oral swabs, throat swabs, and expectorated saliva collection. Plasma should be separated from cells shortly after collection to avoid false-positive results for individuals with iciHHV-6 due to release of cellular DNA. Serum, plasma, CSF, bronchoalveolar lavage fluid, and cells or tissues intended for PCR can be shipped frozen. A single freeze-thaw cycle was associated with a 10-fold decrease in HHV-6 quantitation in one study (<link linkend="ch0124s000000li0014">14</link>). CSF specimens for testing by the FilmArray Meningitis/Encephalitis Panel (BioFire/bioMérieux, Salt Lake City, UT) can be stored for up to 1 day at room temperature, or up to 7 days under refrigeration. Whole blood is the specimen of choice for iciHHV-6 testing using droplet digital PCR (<link linkend="ch0124s000000li0094">94</link>).</para>
+    </sect1>
+    <sect1 id="ch0124s0007">
+      <title>Direct Examination</title>
+      <anchor id="ch0124s000007a0001"/>
+      <anchor id="ch0124s000000a0025"/>
+      <para id="ch0124s000000p0024">Direct detection of HHV-6 can be done by immunohistochemistry (<link linkend="ch0124s000000li0095">95</link>, <link linkend="ch0124s000000li0096">96</link>), <emphasis>in situ</emphasis> hybridization, and <emphasis>in situ</emphasis> or other PCR (<link linkend="ch0124s000000li0097">97</link>, <link linkend="ch0124s000000li0098">98</link>). The most common method of detection by far is PCR. The sensitivity of PCR is of particular value for the detection of HHV-6, given that even during periods of viral activity, viral DNA can be at relatively low concentrations. A multitude of PCR strategies have been published that utilize numerous HHV-6 genomic targets and, in some instances, inclusion in multiplex assays (<link linkend="ch0124s000000li0099">99</link>–<link linkend="ch0124s000000li0101">101</link>). HHV-6A and HHV-6B can readily be distinguished by appropriate choice of PCR primers and probes. Reverse transcription PCR for detection of HHV-6 mRNA can be useful for specific detection of active HHV-6 replication and may be useful to discriminate between latent virus and reactivation (<link linkend="ch0124s000000li0102">102</link>), which may be particularly relevant in the setting of iciHHV-6.</para>
+      <para id="ch0124s000000p0025">Quantitative PCR from whole blood or plasma is useful for the determination of baseline viral load levels in transplant patients, with significant increases above baseline indicating active infection and increased risk of clinical disease. Testing can be performed on plasma, serum, whole blood, or PBMC, and it is critical that same specimen type must be used for baseline and monitoring. We recommend the use of plasma for HHV-6 PCR. Detection of HHV-6 DNA in serum or plasma appears to correlate well with indicators of active replication (<link linkend="ch0124s000000li0103">103</link>); in contrast, higher levels of HHV-6 in other sample types can result from the presence of latently infected cells or DNA released from them (<link linkend="ch0124s000000li0104">104</link>, <link linkend="ch0124s000000li0105">105</link>).</para>
+      <para id="ch0124s000000p0026">As is the case for all quantitative real-time PCR assays, testing for HHV-6 should incorporate a coamplified internal positive control, and ideally the two HHV-6 species should be distinguished. Important variables that need to be carefully standardized and incorporated into the sensitivity calculation and interpretation are the amount of material initially lysed to prepare the template (e.g., volume of fluid or number of cells) and the amount of this material that is included in each reaction mixture (<link linkend="ch0124s000000li0106">106</link>, <link linkend="ch0124s000000li0107">107</link>).</para>
+      <para id="ch0124s000000p0027">Selected reference laboratories performing HHV-6 testing are summarized in<anchor id="ch0124s000000a0026"/><link linkend="ch0124s000000a0030">Table 1</link>. Thorough evaluations of HHV-6 PCR assays are essential (<link linkend="ch0124s000000li0100">100</link>), as are ongoing comparisons and proficiency testing to improve the standardization of quantitative assays (<link linkend="ch0124s000000li0108">108</link>). Interlaboratory quantitative agreement for HHV-6 viral load is poor (<link linkend="ch0124s000000li0108">108</link>, <link linkend="ch0124s000000li0109">109</link>). To address this, the World Health Organization has recently made a provisional international standard available for HHV-6, which consists of cultured Z29 type strain for HHV-6B and the GS type strain for HHV-6A. Both of these standards have been noted to have large tandem repeats in the origin of replication and the potential for large genomic rearrangements, similar to that seen in the JC and BK polyomaviruses (<link linkend="ch0124s000000li0003">3</link>, <link linkend="ch0124s000000li0110">110</link>, <link linkend="ch0124s000000li0111">111</link>), and for this reason, diagnostic PCR assays should avoid these regions. HHV-6 has recently been included in an FDA-cleared multiplex PCR panel for meningitis/encephalitis, and it is likely that HHV-6 detection in the context of encephalitis will increase as more laboratories perform HHV-6 testing (<anchor id="ch0124s000000a0027"/><link linkend="ch0124s000000a0036">Table 2</link>) (<link linkend="ch0124s000000li0112">112</link>).</para>
+      <para id="ch0124s000000p0028">Digital PCR quantitation is especially attractive for HHV-6, given the ability to accurately count copies of human and viral DNA. In digital PCR, a sample is divided into thousands of individual partitions, each of which undergoes PCR amplification to the endpoint. The proportion of partitions with positive amplification allows calculation of the starting concentration of analyte. Digital PCR is substantially more accurate and precise than traditional quantitative PCR (qPCR). The accuracy of digital PCR may also provide a solution to the poor commutability of quantitative testing discussed above.</para>
+    </sect1>
+    <sect1 id="ch0124s0008">
+      <title>Isolation Procedures</title>
+      <anchor id="ch0124s000008a0001"/>
+      <anchor id="ch0124s000000a0028"/>
+      <para id="ch0124s000000p0029">HHV-6 can be isolated from patient PBMC by cocultivation with stimulated human umbilical cord blood lymphocytes (<link linkend="ch0124s000000li0113">113</link>–<link linkend="ch0124s000000li0115">115</link>), but virus culture is not used for routine clinical diagnostics.</para>
+      <anchor id="ch0124s000000a0029"/>
+      <beginpage pagenum="2044"/>
+      <table id="ch0124s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0124s000000a0030"/><link linkend="ch0124s000000a0026">TABLE 1</link></phrase></emphasis> Selected reference laboratories offering HHV-6 and HHV-7 testing<superscript><link linkend="ch0124s000000a0032"><emphasis>a</emphasis></link></superscript><anchor id="ch0124s000000a0031"/>
+</title>
+        
+        <tgroup cols="7">
+          <tbody>
+            <row>
+              <entry><phrase role="center">Laboratory</phrase>
+              </entry>
+              <entry><phrase role="center">Website</phrase>
+              </entry>
+              <entry><phrase role="center">HHV-6</phrase>
+              </entry>
+              <entry><phrase role="center">HHV-6</phrase>
+              </entry>
+              <entry><phrase role="center">iciHHV-6</phrase>
+              </entry>
+              <entry><phrase role="center">HHV-7</phrase>
+              </entry>
+              <entry><phrase role="center">HHV-7</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry><phrase role="center">PCR</phrase>
+              </entry>
+              <entry><phrase role="center">Serology</phrase>
+              </entry>
+              <entry></entry>
+              <entry><phrase role="center">PCR</phrase>
+              </entry>
+              <entry><phrase role="center">Serology</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>ARUP Laboratories</entry>
+              <entry><ulink url="http://www.aruplab.com">www.aruplab.com</ulink>
+              </entry>
+              <entry>qPCR (serum, plasma, CSF)</entry>
+              <entry>IgM, IgG</entry>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Coppe Labs</entry>
+              <entry><ulink url="http://www.coppelabs.com/">http://www.coppelabs.com/</ulink>
+              </entry>
+              <entry>qPCR, reverse transcription PCR (plasma, whole blood, CSF, bone marrow, tissue)</entry>
+              <entry></entry>
+              <entry>PCR (hair follicles, nail clippings)</entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Labcorp</entry>
+              <entry><ulink url="http://www.labcorp.com">www.labcorp.com</ulink>
+              </entry>
+              <entry>PCR (serum, plasma, whole blood, CSF)</entry>
+              <entry>IgM, IgG</entry>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry><phrase role="center">Mayo Clinical Labs</phrase>
+              </entry>
+              <entry><ulink url="http://www.mayocliniclabs.com">www.mayocliniclabs.com</ulink>
+              </entry>
+              <entry>PCR (plasma, CSF)</entry>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry><phrase role="center">Quest Diagnostics</phrase>
+              </entry>
+              <entry><ulink url="http://www.questdiagnostics.com">www.questdiagnostics.com</ulink>
+              </entry>
+              <entry>qPCR (serum, plasma, whole blood, CSF, BAL, bone marrow, urine)</entry>
+              <entry>IgM, IgG</entry>
+              <entry></entry>
+              <entry>qPCR (serum, plasma, whole blood)</entry>
+              <entry>IgM, IgG</entry>
+            </row>
+            <row>
+              <entry>University of Washington</entry>
+              <entry><ulink url="http://www.depts.washington.edu/uwviro">www.depts.washington.edu/uwviro</ulink>
+              </entry>
+              <entry>PCR, qPCR (serum, plasma, whole blood, CSF, BAL, bone marrow, tissue)</entry>
+              <entry></entry>
+              <entry>ddPCR (whole blood)</entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry>Viracor</entry>
+              <entry><ulink url="http://www.viracor-eurofins.com">www.viracor-eurofins.com</ulink>
+              </entry>
+              <entry>PCR, qPCR (serum, plasma, whole blood, CSF, BAL, bone marrow, urine, stool, tissue)</entry>
+              <entry>IgM, IgG</entry>
+              <entry></entry>
+              <entry>PCR, qPCR (serum, plasma, whole blood, CSF, BAL, bone marrow, urine, stool, tissue)</entry>
+              <entry></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="ch0124s000000p0030" role="table-footnote"><superscript><link linkend="ch0124s000000a0031"><emphasis>a</emphasis></link></superscript><anchor id="ch0124s000000a0032"/>BAL, bronchoalveolar lavage fluid; ddPCR, droplet digital PCR.</para>
+    </sect1>
+    <sect1 id="ch0124s0009">
+      <title>Identification</title>
+      <anchor id="ch0124s000009a0001"/>
+      <anchor id="ch0124s000000a0033"/>
+      <para id="ch0124s000000p0031">HHV-6 virions have typical herpesvirus morphology by electron microscopy, i.e., approximately 200-nm spherical enveloped virions containing a 90- to 110-nm icosahedral capsid with an electron-dense core surrounded by an amorphous tegument (<link linkend="ch0124s000000li0001">1</link>). Numerous monoclonal antibodies are available (both commercially and from research laboratories) that react with HHV-6A and/or HHV-6B (<link linkend="ch0124s000000li0116">116</link>).</para>
+    </sect1>
+    <sect1 id="ch0124s0010">
+      <title>Typing Systems</title>
+      <anchor id="ch0124s000010a0001"/>
+      <anchor id="ch0124s000000a0034"/>
+      <para id="ch0124s000000p0032">HHV-6A and HHV-6B can be typed through the use of species-specific monoclonal antibodies and species-specific PCR assays. In many cases, differentiation of HHV-6A and HHV-6B is not essential for patient management, but assays that discriminate between HHV-6A and HHV-6B may be useful in the setting of coinfection or the presence of iciHHV-6 (<link linkend="ch0124s000000li0117">117</link>) and may lead to a better understanding of the clinical manifestations of these viruses. Typing systems have typically been based on primer binding regions that are highly conserved between HHV-6A and HHV-6B, with an intervening region that can be targeted by probes specific for one or the other virus. However, the recent expansion of whole HHV-6 genomes available in GenBank allows other approaches to PCR assay design as well.</para>
+      <anchor id="ch0124s000000a0035"/>
+      <beginpage pagenum="2045"/>
+      <table id="ch0124s000000t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0124s000000a0036"/><link linkend="ch0124s000000a0027">TABLE 2</link></phrase></emphasis> FDA-cleared and CE-IVD marked assays for HHV-6 detection
+</title>
+        
+        <tgroup cols="7">
+          <tbody>
+            <row>
+              <entry><phrase role="center">Regulatory status</phrase>
+              </entry>
+              <entry><phrase role="center">Name</phrase>
+              </entry>
+              <entry><phrase role="center">Manufacturer</phrase>
+              </entry>
+              <entry><phrase role="center">LoD<superscript><link linkend="ch0124s000000a0038"><emphasis>a</emphasis></link></superscript></phrase>
+                <anchor id="ch0124s000000a0037"/>
+              </entry>
+              <entry><phrase role="center">Gene target</phrase>
+              </entry>
+              <entry><phrase role="center">Sensitivity</phrase>
+              </entry>
+              <entry><phrase role="center">Specificity</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>FDA cleared</entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>FilmArray Meningitis/Encephalitis panel</entry>
+              <entry>BioFire/bioMérieux</entry>
+              <entry>10,000 copies/ml</entry>
+              <entry>Unknown</entry>
+              <entry><phrase role="center">85.7%</phrase>
+              </entry>
+              <entry><phrase role="center">99.7%</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>CE/IVD marked</entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>HHV-6 ELITe MGB kit</entry>
+              <entry>ELITechGroup</entry>
+              <entry>132 copies/ml</entry>
+              <entry>ORF13R, U67</entry>
+              <entry><phrase role="center">100%</phrase>
+              </entry>
+              <entry><phrase role="center">100%</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>RealStar HHV-6 PCR kit</entry>
+              <entry>Altona</entry>
+              <entry>50 copies/ml</entry>
+              <entry>Unknown</entry>
+              <entry><phrase role="center">100%</phrase>
+              </entry>
+              <entry><phrase role="center">100%</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>artus HHV-6 RG PCR kit</entry>
+              <entry>Qiagen</entry>
+              <entry>2 copies/μl DNA extract</entry>
+              <entry>Unknown</entry>
+              <entry><phrase role="center">100%</phrase>
+              </entry>
+              <entry><phrase role="center">100%</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>Herpesvirus type 6 (HHV6) PCR Kit CE/IVD</entry>
+              <entry>Emelca</entry>
+              <entry>5 copies/μl DNA extract</entry>
+              <entry>U67</entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>Human herpesvirus 6/7 (HHV-6/7) PCR kit</entry>
+              <entry>GeneProof</entry>
+              <entry>500 copies/ml</entry>
+              <entry>U57</entry>
+              <entry></entry>
+              <entry></entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>CMV HHV6,7,8 R-Gene</entry>
+              <entry>bioMérieux</entry>
+              <entry>555 copies/ml whole blood</entry>
+              <entry>U57</entry>
+              <entry><phrase role="center">100%</phrase>
+              </entry>
+              <entry><phrase role="center">96.40%</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry></entry>
+              <entry>RealLine HHV-6</entry>
+              <entry>Bioron</entry>
+              <entry>100 copies/sample</entry>
+              <entry>U72</entry>
+              <entry><phrase role="center">100%</phrase>
+              </entry>
+              <entry><phrase role="center">100%</phrase>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="ch0124s000000p0033" role="table-footnote"><superscript><link linkend="ch0124s000000a0037"><emphasis>a</emphasis></link></superscript><anchor id="ch0124s000000a0038"/>LOD, limit of detection.</para>
+    </sect1>
+    <sect1 id="ch0124s0011">
+      <title>Serologic Tests</title>
+      <anchor id="ch0124s000011a0001"/>
+      <anchor id="ch0124s000000a0039"/>
+      <para id="ch0124s000000p0034">Numerous serologic methods for detecting HHV-6 antibodies have been described, and commercial reagents are available. These serologic methods have limited utility for diagnosis of primary infections, are unable to reliably identify HHV-6 reactivations, and are rarely indicated clinically. Recent versus past infections have been discriminated through the use of immunofluorescence-based antibody avidity tests, though these are not available clinically (<link linkend="ch0124s000000li0118">118</link>). Maturation from low- to high-avidity HHV-6 antibody following primary HHV-6 infection takes approximately 5 months. Antibody avidity testing can also be used to differentiate between HHV-6 and HHV-7 primary infections. Neutralizing antibodies typically become detectable 3 to 8 days following the onset of fever during primary infection.</para>
+      <para id="ch0124s000000p0035">Due to their protein sequence homology, there is extensive serologic cross-reactivity between HHV-6A and HHV-6B and also substantial cross-reactivity with HHV-7 and CMV (<link linkend="ch0124s000000li0118">118</link>, <link linkend="ch0124s000000li0119">119</link>). The simultaneous rise in antibodies to both HHV-6 and human CMV seen in some patients may be due to the combination of simultaneous activity of both viruses together with responses to cross-reactive antigens. One assay has been reported to distinguish between antibodies to HHV-6A and HHV-6B (<link linkend="ch0124s000000li0102">102</link>), but this assay has not found widespread use. Despite some serologic cross-reactivity between HHV-6 and HHV-7, adsorption methods and antibody avidity tests can be used for differentiation, though they are not routinely available clinically (<link linkend="ch0124s000000li0118">118</link>).</para>
+    </sect1>
+    <sect1 id="ch0124s0012">
+      <title>Antiviral Susceptibilities</title>
+      <anchor id="ch0124s000012a0001"/>
+      <anchor id="ch0124s000000a0040"/>
+      <para id="ch0124s000000p0036">The highest<emphasis>in vitro</emphasis> antiviral susceptibilities and selectivities have consistently been seen for foscarnet, cidofovir, and ganciclovir. Similar to human CMV, mutations in the HHV-6 U69-encoded protein kinase or the HHV-6 U38-encoded DNA polymerase gene can cause HHV-6 resistance to these drugs (<link linkend="ch0124s000000li0120">120</link>, <link linkend="ch0124s000000li0121">121</link>). HHV-6 antiviral susceptibility testing is not available clinically, but a rapid PCR-based genotyping assay for U69-associated mutations for ganciclovir resistance has been developed (<link linkend="ch0124s000000li0122">122</link>). Ganciclovir-resistant HHV-6 has been reported in posttransplantation cases, but it is extraordinarily rare (<link linkend="ch0124s000000li0123">123</link>).</para>
+    </sect1>
+    <sect1 id="ch0124s0013">
+      <title>Evaluation, Interpretation, and Reporting of Results</title>
+      <anchor id="ch0124s000013a0001"/>
+      <anchor id="ch0124s000000a0041"/>
+      <para id="ch0124s000000p0037">The diagnosis of HHV-6 infection is complicated by the varying clinical manifestations, the ability of the virus to establish and later reactivate from latency, and the entity of iciHHV-6. Thus, the testing ordered and the interpretation of results should rely heavily on the clinical presentation.</para>
+      <para id="ch0124s000000p0038">The most common presentation of HHV-6 is primary infection in young children. As described previously in this chapter, such presentation is usually quite typical; while the rash of exanthem subitum (roseola) can be visually dramatic, systemic symptoms and fever are comparatively mild. While primary infection with roseoloviruses leads to significant health care utilization (<link linkend="ch0124s000000li0007">7</link>), in uncomplicated cases clinical diagnosis without confirmatory lab testing may suffice. On the other hand, testing in such circumstances may be justified if it is likely to provide other benefits such as preventing unnecessary hospitalization or excessive use of antibiotics. As a more severe presentation, roseoloviruses account for approximately one-third of cases of febrile status epilepticus (<link linkend="ch0124s000000li0042">42</link>), and inclusion of HHV-6 in the differential diagnosis is warranted, along with PCR testing of CSF and plasma.</para>
+      <para id="ch0124s000000p0039">The most usual setting for HHV-6 testing is in the context of immunosuppression, especially hematopoietic cell or solid organ transplantation. Again, HHV-6 can present with a variety of end-organ complications, but the most common is central nervous system alteration. The mainstay of laboratory diagnosis is PCR testing. While there are currently no FDA-cleared quantitative assays available for HHV-6, a wide variety of validated HHV-6 DNA load assays are available from reference and other laboratories (<link linkend="ch0124s000000a0030">Tables 1</link> and <link linkend="ch0124s000000a0036">2</link>). It is important to recognize that interlaboratory agreement for quantitative HHV-6 PCR testing is poor; thus, there are no widely accepted quantitative thresholds for therapy, and clinicians should avoid comparing viral load measurements from different laboratories. This situation may improve with the recent introduction of a WHO international standard, although previous experience with the CMV international standard suggests that this will not completely solve the issue of interlaboratory commutability (<link linkend="ch0124s000000li0124">124</link>).</para>
+      <para id="ch0124s000000p0040">For most clinical presentations, we recommend PCR testing on plasma or serum, along with another specimen based on the clinical symptoms present (CSF, bronchoalveolar lavage fluid, or tissue). Most laboratories interpret the detection of virus in such samples as suggestive of a pathogenic role for HHV-6; however, with improved standardization of assays it may be possible in the future to define viral load thresholds that can better guide clinical treatment decisions. The lack of detection of HHV-6 in plasma does not rule out localized active infection in a specific organ or tissue. On the other hand, it is important to recognize that detection of low-level HHV-6 in cellular specimens such as tissue or whole blood can also reflect the presence of latent virus rather than active viral replication. Finally, as with all PCR assays for a single analyte, it is important to note that the presence of HHV-6 does not rule out the possible presence of other copathogens. The recent development of simple-to-perform and highly multiplexed assays that include HHV-6, such as the BioFire FilmArray (bioMérieux), may be helpful in this regard; as always, the clinical context should drive test selection and result interpretation. One systematic study of BioFire HHV-6 positives in CSF found that 20% of cases resulted in diagnosis of HHV-6 meningitis/meningoencephalitis (<link linkend="ch0124s000000li0023">23</link>). Certainly it is helpful to know an individual’s iciHHV-6 status when considering the role of HHV-6 in meningitis when detected by BioFire.</para>
+      <para id="ch0124s000000p0041">The detection of HHV-6 DNA by PCR can be especially difficult to interpret in the context of iciHHV-6. Cellular specimens from such patients have high HHV-6 levels, but plasma and CSF from such patients are almost always PCR positive due to the release of cellular DNA (which by definition includes viral DNA in cases of iciHHV-6). Thus, it is often useful to rule out iciHHV-6 in patients with high-level HHV-6 in plasma, especially if such levels are not consistent with the clinical presentation. Previously, testing for iciHHV-6 required fluorescence<emphasis>in situ</emphasis> hybridization or quantitative PCR analysis of hair follicles or fingernail clippings, but the introduction of digital PCR has allowed the development of rapid and accessible testing for iciHHV-6. In the context of iciHHV-6, the precision of digital PCR is more important in that it allows the simultaneous quantitation of HHV-6 and a human reference gene (RPP30). Because people with iciHHV-6 have one copy of HHV-6 in each cell, iciHHV-6 is ruled out if the ratio of HHV-6 to cellular genome equivalents (two RPP30/cell) falls outside a range of 1 ± 0.07 (<link linkend="ch0124s000000li0094">94</link>), with the exception of rare individuals with two or more copies of iciHHV-6, in whom the virus/genome ratio will still fall close to 2.0, 3.0, or higher integers. Some experts have suggested that testing for iciHHV-6 should be routine in the management of transplant patients (<link linkend="ch0124s000000li0125">125</link>).</para>
+      <anchor id="ch0124s000000a0042"/>
+      <beginpage pagenum="2046"/>
+      <para id="ch0124s000000p0042">Although iciHHV-6 can explain high viral loads in plasma, it is important to recognize that patients with iciHHV-6 can still have active HHV-6 replication with associated pathology. For patients with underlying iciHHV-6A, HHV-6B reactivation can be identified by a multiplexed type-specific digital PCR assay (<link linkend="ch0124s000000li0117">117</link>); presumably the converse, although rare, would be true as well. For patients with iciHHV-6B, active replication cannot be diagnosed by qPCR or digital PCR because of the background reactivity. In this case, the detection of viral RNA transcripts by reverse transcription real-time qPCR appears very promising for distinguishing latent from active infections, although such assays are not yet widely available.</para>
+      <para id="ch0124s000000p0043">Beyond PCR and its variants, other testing modalities for HHV-6 have extremely limited roles in clinical management. Culture has been considered the “gold standard” approach for direct detection, but it is labor-intensive, slow, and insensitive and thus is not suited for clinical use. Serologic testing is more valuable in population-based studies of viral acquisition and prevalence; the use of paired sera in primary infection is too slow to be clinically useful, and IgM testing is unable to reliably detect primary versus recurrent infection (<link linkend="ch0124s000000li0126">126</link>).</para>
+      <sect2 id="ch0124s0013s0001">
+        <title>HUMAN HERPESVIRUS 7</title>
+        <anchor id="ch0124s000013a0002"/>
+        <anchor id="ch0124s000000a0043"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0124s0014">
+      <title>Taxonomy and Description of the Agent</title>
+      <anchor id="ch0124s000014a0001"/>
+      <anchor id="ch0124s000000a0044"/>
+      <para id="ch0124s000000p0044">HHV-7 is one of three distinct viral species (along with HHV-6A and HHV-6B) that compose the<emphasis>Roseolovirus</emphasis> genus (<link linkend="ch0124s000000li0001">1</link>). Together with CMV, the roseoloviruses represent the four human viruses of the <emphasis>Betaherpesvirus</emphasis> subfamily. Roseoloviruses share many features of their genomic architecture and genetic content, the ability to replicate and establish latent infections in lymphocytes, associations with febrile rash in young children and with a variety of neurologic disorders, and the ability to act as opportunistic pathogens in immunocompromised patients. HHV-7 virions are approximately 170 nm in diameter and consist of four major components: a double-stranded DNA genome (145 kb) within the core of an icosahedral capsid surrounded by a proteinaceous tegument, all of which is surrounded by a lipid bilayer envelope that is studded with a variety of viral and cellular proteins. Fewer sequence data are available for HHV-7 compared to the other roseoloviruses, but HHV-7 genomes carry approximately 100 unique genes and share approximately 60% nucleotide identity in alignable regions with HHV-6A and HHV-6B.</para>
+    </sect1>
+    <sect1 id="ch0124s0015">
+      <title>Epidemiology and Transmission</title>
+      <anchor id="ch0124s000015a0001"/>
+      <anchor id="ch0124s000000a0045"/>
+      <sect2 id="ch0124s0015s0001">
+        <title>Epidemiology</title>
+        <anchor id="ch0124s000015a0002"/>
+        <anchor id="ch0124s000000a0046"/>
+        <para id="ch0124s000000p0045">Like HHV-6, HHV-7 infection is highly prevalent (<link linkend="ch0124s000000li0127">127</link>) and infects most individuals during childhood. The typical age for primary infection with HHV-7 may be somewhat older (median 26 months) than for HHV-6 (<link linkend="ch0124s000000li0128">128</link>).</para>
+      </sect2>
+      <sect2 id="ch0124s0015s0002">
+        <title>Tissue Distribution</title>
+        <anchor id="ch0124s000015a0003"/>
+        <anchor id="ch0124s000000a0047"/>
+        <para id="ch0124s000000p0046">HHV-7 mainly infects CD4<superscript>+</superscript> lymphocytes, although the virus can likely infect other cell types as well (<link linkend="ch0124s000000li0129">129</link>, <link linkend="ch0124s000000li0130">130</link>). The major cellular receptor is CD4, most likely in conjunction with cellular glycoproteins (<link linkend="ch0124s000000li0131">131</link>). HHV-7 antigens have been detected in salivary gland acini, lungs, skin, and mammary glands, and more sporadically in the liver, kidneys, and tonsils (<link linkend="ch0124s000000li0132">132</link>). HHV-7 DNA has been detected by PCR in PBMC, salivary glands, gastric mucosa, skin, cervical swabs, bronchoalveolar lavage samples, and brain (<link linkend="ch0124s000000li0133">133</link>), although in some cases DNA detection may reflect the presence of infected CD4<superscript>+</superscript> T cells. Infectious HHV-7 is easily isolated from the saliva of healthy adults. The ability to detect HHV-7 DNA in uncultured lymphocytes by PCR, along with the inability to detect infectious virus in the absence of T-cell activation, suggests that the virus establishes latency in CD4<superscript>+</superscript> cells. A recent report suggests that, like HHV-6, HHV-7 may occasionally integrate into the germ line, resulting in ciHHV-7 (<link linkend="ch0124s000000li0134">134</link>), though this has not been seen in genomic data (<link linkend="ch0124s000000li0037">37</link>).</para>
+      </sect2>
+      <sect2 id="ch0124s0015s0003">
+        <title>Transmission</title>
+        <anchor id="ch0124s000015a0004"/>
+        <anchor id="ch0124s000000a0048"/>
+        <para id="ch0124s000000p0047">HHV-7 is frequently detectable by PCR in saliva from healthy adults. It has been suggested that salivary levels of HHV-7 and/or HHV-6 may represent a biomarker for physiological as opposed to pathological fatigue (<link linkend="ch0124s000000li0084">84</link>). While the most plausible route of transmission is via saliva, HHV-7 has also been detected in breast milk, urine, and cervical secretions. In contrast to HHV-6, congenital transmission of HHV-7 appears to occur rarely if at all (<link linkend="ch0124s000000li0135">135</link>).</para>
+      </sect2>
+      <sect2 id="ch0124s0015s0004">
+        <title>Clinical Significance</title>
+        <anchor id="ch0124s000015a0005"/>
+        <anchor id="ch0124s000000a0049"/>
+      </sect2>
+      <sect2 id="ch0124s0015s0005">
+        <title>Primary Infection</title>
+        <anchor id="ch0124s000015a0006"/>
+        <anchor id="ch0124s000000a0050"/>
+        <para id="ch0124s000000p0048">Like HHV-6, HHV-7 can cause exanthema subitum (roseola), although it may cause this condition less frequently than does HHV-6. As noted above, the typical age for primary infection with HHV-7 may be somewhat older (median 26 months) than for HHV-6 (<link linkend="ch0124s000000li0128">128</link>). Among children with symptomatic primary disease there appears to be no difference between HHV-6 and HHV-7 in terms of degree of fever, rash, or gastrointestinal symptoms. However, children with primary HHV-7 infection may be at higher risk for seizures compared to those with primary HHV-6 infection (<link linkend="ch0124s000000li0041">41</link>, <link linkend="ch0124s000000li0128">128</link>).</para>
+      </sect2>
+      <sect2 id="ch0124s0015s0006">
+        <title>Immunocompromised Patients</title>
+        <anchor id="ch0124s000015a0007"/>
+        <anchor id="ch0124s000000a0051"/>
+        <para id="ch0124s000000p0049">Like all herpesviruses, HHV-7 establishes latency after primary infection, and thus reactivation can later occur, particularly in the setting of immunodeficiency. The frequency of recurrence after solid organ transplantation has been estimated to be 0 to 45%, with most cases occurring in the first 2 to 4 weeks posttransplant (<link linkend="ch0124s000000li0136">136</link>). In general, symptomatic disease associated with HHV-7 has not been well documented, although scattered case reports have been published. A randomized clinical trial of patients after liver transplant demonstrated no clinical benefit from routine monitoring for HHV-7 (<link linkend="ch0124s000000li0069">69</link>).</para>
+      </sect2>
+      <sect2 id="ch0124s0015s0007">
+        <title>Other</title>
+        <anchor id="ch0124s000015a0008"/>
+        <anchor id="ch0124s000000a0052"/>
+        <para id="ch0124s000000p0050">HHV-7 DNA has been detected more frequently and at higher loads in affected tissues from nonimmunocompromised patients with interstitial pneumonia (<link linkend="ch0124s000000li0137">137</link>, <link linkend="ch0124s000000li0138">138</link>). HHV-7 DNA has been found in 20 to 50% of bronchoalveolar lavage and transbronchial biopsy specimens from lung transplant patients (<link linkend="ch0124s000000li0139">139</link>), but assignment of a causative role is difficult because of the frequent codetection of CMV and the fact that common antivirals have activity against both viruses. An association between HHV-7 and pityriasis rosea has been suggested, but the data are inconclusive (<link linkend="ch0124s000000li0140">140</link>, <link linkend="ch0124s000000li0141">141</link>). HHV-7 DNA has been detected in various tissues in individual cases, with uncertain clinical significance.</para>
+        <anchor id="ch0124s000000a0053"/>
+        <beginpage pagenum="2047"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0124s0016">
+      <title>Therapy</title>
+      <anchor id="ch0124s000016a0001"/>
+      <anchor id="ch0124s000000a0054"/>
+      <para id="ch0124s000000p0051">In general, HHV-7 is inhibited by the same drugs used for HHV6 and CMV (ganciclovir, foscarnet, and cidofovir) (<link linkend="ch0124s000000li0142">142</link>), although the inhibitory concentrations may be higher for HHV-7 (<link linkend="ch0124s000000li0143">143</link>). Drug-resistant HHV-7 has not been reported clinically, but there would appear to be no biological reason that it could not emerge. Specific therapeutic regimens for HHV-7 have not been defined; given the tenuous clinical associations for HHV-7, frequent coinfection with other betaherpesviruses, and similar drug susceptibility profiles, this is likely to remain the case indefinitely.</para>
+    </sect1>
+    <sect1 id="ch0124s0017">
+      <title>Collection, Transport, and Storage of Specimens</title>
+      <anchor id="ch0124s000017a0001"/>
+      <anchor id="ch0124s000000a0055"/>
+      <para id="ch0124s000000p0052">Specimens for HHV-7 testing should be handled as described above for HHV-6.</para>
+    </sect1>
+    <sect1 id="ch0124s0018">
+      <title>Direct Examination</title>
+      <anchor id="ch0124s000018a0001"/>
+      <anchor id="ch0124s000000a0056"/>
+      <para id="ch0124s000000p0053">By electron microscopy, HHV-7 virions have appearances typical of herpesviruses. Monoclonal antibodies are available commercially, from some research laboratories (<link linkend="ch0124s000000li0144">144</link>), and from the NIH AIDS reagent program. Real-time PCR methods for HHV-7 have been described (<link linkend="ch0124s000000li0101">101</link>, <link linkend="ch0124s000000li0145">145</link>), including multiplex assays for detection of multiple herpesviruses (<link linkend="ch0124s000000li0100">100</link>, <link linkend="ch0124s000000li0101">101</link>). A reference laboratory performing HHV-7 testing is noted in <link linkend="ch0124s000000a0030">Table 1</link>. HHV-7 is currently not included in the BioFire FilmArray Meningitis/Encephalitis Panel.</para>
+    </sect1>
+    <sect1 id="ch0124s0019">
+      <title>Isolation Procedures</title>
+      <anchor id="ch0124s000019a0001"/>
+      <anchor id="ch0124s000000a0057"/>
+      <para id="ch0124s000000p0054">HHV-7 can be cultured using methods similar to those for HHV-6. HHV-7 isolates initially propagated in primary cell culture or previously adapted HHV-7 strains (e.g., strain SB) can be grown in SupT1 cells. Although culture of primary isolate HHV-7 is possible, it is not of practical utility for clinical diagnostics (<link linkend="ch0124s000000li0113">113</link>).</para>
+    </sect1>
+    <sect1 id="ch0124s0020">
+      <title>Identification</title>
+      <anchor id="ch0124s000020a0001"/>
+      <anchor id="ch0124s000000a0058"/>
+      <para id="ch0124s000000p0055">The PCR methods described above provide sensitive, specific, and rapid ways to unambiguously identify the virus. Monoclonal antibodies can be useful for immunohistochemistry on tissue specimens, but this does not have a role in clinical diagnosis.</para>
+    </sect1>
+    <sect1 id="ch0124s0021">
+      <title>Typing Systems</title>
+      <anchor id="ch0124s000021a0001"/>
+      <anchor id="ch0124s000000a0059"/>
+      <para id="ch0124s000000p0056">Biologically meaningful subtypes of HHV-7 have not been identified.</para>
+    </sect1>
+    <sect1 id="ch0124s0022">
+      <title>Serologic Tests</title>
+      <anchor id="ch0124s000022a0001"/>
+      <anchor id="ch0124s000000a0060"/>
+      <para id="ch0124s000000p0057">Serologic testing for HHV-7 does not have a substantial role in clinical management. No FDA-cleared reagents are available. Previously reported HHV-7 serologic assays include neutralization tests, immunoblotting, immunoprecipitation, immunofluorescence assay, and enzyme-linked immunosorbent assay (ELISA) (reviewed in reference<link linkend="ch0124s000000li0144">144</link>). In one comparison of immunofluorescence assay, immunoblots, and ELISA, the overall performances of the three assays were quite similar, with a small sensitivity advantage for the ELISA and a specificity advantage for the immunoblot assay (<link linkend="ch0124s000000li0146">146</link>). As described above for HHV-6, antibody avidity testing may distinguish primary from recurrent HHV-7 infections (<link linkend="ch0124s000000li0118">118</link>).</para>
+    </sect1>
+    <sect1 id="ch0124s0023">
+      <title>Antiviral Susceptibilities</title>
+      <anchor id="ch0124s000023a0001"/>
+      <anchor id="ch0124s000000a0061"/>
+      <para id="ch0124s000000p0058">Antiviral susceptibility testing does not have a role in clinical management of HHV-7 infection. As noted above, inhibition of HHV-7 may require higher concentrations of antivirals than other betaherpesviruses.</para>
+    </sect1>
+    <sect1 id="ch0124s0024">
+      <title>Evaluation, Interpretation, and Reporting of Results</title>
+      <anchor id="ch0124s000024a0001"/>
+      <anchor id="ch0124s000000a0062"/>
+      <para id="ch0124s000000p0059">Given the generally mild nature of HHV-7 infections and the tenuous associations with more severe clinical disease, specific testing for HHV-7 is rarely indicated. PCR and serologic testing for HHV-7 is available from certain large reference laboratories. HHV-7 is not included in most meningitis/encephalitis panels available from reference laboratories or in the BioFire FilmArray Meningitis/Encephalitis Panel. Given the frequent codetection of other pathogens in the context of HHV-7, it is important to recognize that the detection of HHV-7 does not rule out the presence of other viruses or nonviral infectious agents, many of which have clearer roles in disease pathogenesis.</para>
+    </sect1>
+    <sect1 id="ch0124s0025">
+      <title>FUTURE DIRECTIONS</title>
+      <anchor id="ch0124s000025a0001"/>
+      <anchor id="ch0124s000000a0063"/>
+      <para id="ch0124s000000p0060">HHV-6A, HHV6B, and HHV-7 can cause clinically relevant infections that require accurate clinical and laboratory diagnosis. However, the need for testing is generally limited to defined groups, especially the immunocompromised and pediatric populations. Future work should focus on clarifying the roles of these viruses in disease pathogenesis and on distinguishing normal carriage of these viruses from virally induced pathogenesis. With the growing availability of rapid multiplex PCR testing and the inclusion of HHV-6 in these licensed panels, we expect a significant rise in the number of new HHV-6 detections and increased interest and insight into clinical disease associations with the roseoloviruses.</para>
+      <sect2 id="ch0124s0025s0001">
+        <title>REFERENCES</title>
+        <anchor id="ch0124s000025a0002"/>
+        <anchor id="ch0124s000000a0064"/>
+        <itemizedlist mark="none" role="biblioEntryList">
+          <listitem id="ch0124s000000li0001" role="bibliographyEntry">
+            <para>1.<emphasis role="strong">Yamanishi K, Mori Y, Pellett P.</emphasis> 2013. Human herpesvirus 6 and 7, p. 2058–2079. <citetitle><emphasis>In</emphasis></citetitle> <citetitle><emphasis>Fields Virology</emphasis></citetitle>, 6th ed. Lippincott Williams &amp; Wilkins, Philadelphia, PA.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0002" role="bibliographyEntry">
+            <para>2.<emphasis role="strong">Ablashi D, Agut H, Alvarez-Lafuente R, Clark DA, Dewhurst S, DiLuca D, Flamand L, Frenkel N, Gallo R, Gompels UA, Höllsberg P, Jacobson S, Luppi M, Lusso P, Malnati M, Medveczky P, Mori Y, Pellett PE, Pritchett JC, Yamanishi K, Yoshikawa T.</emphasis> 2014. Classification of HHV-6A and HHV-6B as distinct viruses. <citetitle><emphasis>Arch Virol</emphasis></citetitle> <emphasis role="strong">159:</emphasis>863–870.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0003" role="bibliographyEntry">
+            <para>3.<emphasis role="strong">Greninger AL, Roychoudhury P, Makhsous N, Hanson D, Chase J, Krueger G, Xie H, Huang M-L, Saunders L, Ablashi D, Koelle DM, Cook L, Jerome KR.</emphasis> 2018. Copy number heterogeneity, large origin tandem repeats, and interspecies recombination in human herpesvirus 6A (HHV-6A) and HHV-6B reference strains. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">92:</emphasis>e00135–e18.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0004" role="bibliographyEntry">
+            <para>4.<emphasis role="strong">Greninger AL, Knudsen GM, Roychoudhury P, Hanson DJ, Sedlak RH, Xie H, Guan J, Nguyen T, Peddu V, Boeckh M, Huang M-L, Cook L, Depledge DP, Zerr DM, Koelle DM, Gantt S, Yoshikawa T, Caserta M, Hill JA, Jerome KR.</emphasis> 2018. Comparative genomic, transcriptomic, and proteomic reannotation of human herpesvirus 6. <citetitle><emphasis>BMC Genomics</emphasis></citetitle> <emphasis role="strong">19:</emphasis>204.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0005" role="bibliographyEntry">
+            <para>5.<emphasis role="strong">De Bolle L, Naesens L, De Clercq E.</emphasis> 2005. Update on human herpesvirus 6 biology, clinical features, and therapy. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">18:</emphasis>217–245.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0006" role="bibliographyEntry">
+            <para>6.<emphasis role="strong">Rhoads MP, Magaret AS, Zerr DM.</emphasis> 2007. Family saliva sharing behaviors and age of human herpesvirus-6B infection. <citetitle><emphasis>J Infect</emphasis></citetitle> <emphasis role="strong">54:</emphasis>623–626.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0007" role="bibliographyEntry">
+            <anchor id="ch0124s000000a0065"/>
+            <para>7.<emphasis role="strong">Zerr DM, Meier AS, Selke SS, Frenkel LM, Huang M-L, Wald A, Rhoads MP, Nguy L, Bornemann R, Morrow RA, Corey L.</emphasis> 2005. A population-based study of primary human herpesvirus 6 infection. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">352:</emphasis>768–776.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0008" role="bibliographyEntry">
+            <para>8.<emphasis role="strong">Bates M, Monze M, Bima H, Kapambwe M, Clark D, Kasolo FC, Gompels UA.</emphasis> 2009. Predominant human herpesvirus 6 variant A infant infections in an HIV-1 endemic region of Sub-Saharan Africa. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">81:</emphasis>779–789.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0009" role="bibliographyEntry">
+            <para>9.<emphasis role="strong">Gantt S, Orem J, Krantz EM, Morrow RA, Selke S, Huang M-L, Schiffer JT, Jerome KR, Nakaganda A, Wald A, Casper C, Corey L.</emphasis> 2016. Prospective characterization of the risk factors for transmission and symptoms of primary human herpesvirus infections among Ugandan infants. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">214:</emphasis>36–44.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0010" role="bibliographyEntry">
+            <para>10.<emphasis role="strong">Tang H, Serada S, Kawabata A, Ota M, Hayashi E, Naka T, Yamanishi K, Mori Y.</emphasis> 2013. CD134 is a cellular receptor specific for human herpesvirus-6B entry. <citetitle><emphasis>Proc Natl Acad Sci USA</emphasis></citetitle> <emphasis role="strong">110:</emphasis>9096–9099.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0011" role="bibliographyEntry">
+            <para>11.<emphasis role="strong">Lempinen M, Halme L, Arola J, Honkanen E, Salmela K, Lautenschlager I.</emphasis> 2012. HHV-6B is frequently found in the gastrointestinal tract in kidney transplantation patients. <citetitle><emphasis>Transpl Int</emphasis></citetitle> <emphasis role="strong">25:</emphasis>776–782.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0012" role="bibliographyEntry">
+            <para>12.<emphasis role="strong">Quintela A, et al, Lyon HEMINF Study Group.</emphasis> 2016. HHV-6 infection after allogeneic hematopoietic stem cell transplantation: from chromosomal integration to viral co-infections and T-cell reconstitution patterns. <citetitle><emphasis>J Infect</emphasis></citetitle> <emphasis role="strong">72:</emphasis>214–222.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0013" role="bibliographyEntry">
+            <para>13.<emphasis role="strong">Hall CB, Caserta MT, Schnabel KC, Long C, Epstein LG, Insel RA, Dewhurst S.</emphasis> 1998. Persistence of human herpesvirus 6 according to site and variant: possible greater neurotropism of variant A. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">26:</emphasis>132–137.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0014" role="bibliographyEntry">
+            <para>14.<emphasis role="strong">Collot S, Petit B, Bordessoule D, Alain S, Touati M, Denis F, Ranger-Rogez S.</emphasis> 2002. Real-time PCR for quantification of human herpesvirus 6 DNA from lymph nodes and saliva. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">40:</emphasis>2445–2451.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0015" role="bibliographyEntry">
+            <para>15.<emphasis role="strong">Matrajt L, Gantt S, Mayer BT, Krantz EM, Orem J, Wald A, Corey L, Schiffer JT, Casper C.</emphasis> 2017. Virus and host-specific differences in oral human herpesvirus shedding kinetics among Ugandan women and children. <citetitle><emphasis>Sci Rep</emphasis></citetitle> <emphasis role="strong">7:</emphasis>13105.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0016" role="bibliographyEntry">
+            <para>16.<emphasis role="strong">Cone RW, Huang ML, Hackman RC, Corey L.</emphasis> 1996. Coinfection with human herpesvirus 6 variants A and B in lung tissue. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">34:</emphasis>877–881.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0017" role="bibliographyEntry">
+            <para>17.<emphasis role="strong">Chan PK, Ng HK, Hui M, Cheng AF.</emphasis> 2001. Prevalence and distribution of human herpesvirus 6 variants A and B in adult human brain. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">64:</emphasis>42–46.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0018" role="bibliographyEntry">
+            <para>18.<emphasis role="strong">Nitsche A, Müller CW, Radonic A, Landt O, Ellerbrok H, Pauli G, Siegert W.</emphasis> 2001. Human herpesvirus 6A DNA is detected frequently in plasma but rarely in peripheral blood leukocytes of patients after bone marrow transplantation. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">183:</emphasis>130–133.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0019" role="bibliographyEntry">
+            <para>19.<emphasis role="strong">Secchiero P, Carrigan DR, Asano Y, Benedetti L, Crowley RW, Komaroff AL, Gallo RC, Lusso P.</emphasis> 1995. Detection of human herpesvirus 6 in plasma of children with primary infection and immunosuppressed patients by polymerase chain reaction. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">171:</emphasis>273–280.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0020" role="bibliographyEntry">
+            <para>20.<emphasis role="strong">Slenker AK, Royer TL, Villalobos T.</emphasis> 2019. Human herpesvirus 6 positivity on the FilmArray Meningitis/Encephalitis Panel needs clinical interpretation. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">69:</emphasis>192–194.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0021" role="bibliographyEntry">
+            <para>21.<emphasis role="strong">Green DA, Pereira M, Miko B, Radmard S, Whittier S, Thakur K.</emphasis> 2018. Clinical significance of human herpesvirus 6 positivity on the FilmArray Meningitis/Encephalitis Panel. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">67:</emphasis>1125–1128.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0022" role="bibliographyEntry">
+            <para>22.<emphasis role="strong">Dantuluri KL, Konvinse KC, Crook J, Thomsen IP, Banerjee R.</emphasis> 2020. Human herpesvirus 6 detection during the evaluation of sepsis in infants using the FilmArray Meningitis/Encephalitis Panel. <citetitle><emphasis>J Pediatr</emphasis></citetitle> <emphasis role="strong">223:</emphasis>204–206.e1.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0023" role="bibliographyEntry">
+            <para>23.<emphasis role="strong">Pandey U, Greninger AL, Levin GR, Jerome KR, Anand VC, Dien Bard J.</emphasis> 2020. Pathogen or bystander: clinical significance of detecting human herpesvirus 6 in pediatric cerebrospinal fluid. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">58:</emphasis>e00313–e00320.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0024" role="bibliographyEntry">
+            <para>24.<emphasis role="strong">Caserta MT, McDermott MP, Dewhurst S, Schnabel K, Carnahan JA, Gilbert L, Lathan G, Lofthus GK, Hall CB.</emphasis> 2004. Human herpesvirus 6 (HHV6) DNA persistence and reactivation in healthy children. <citetitle><emphasis>J Pediatr</emphasis></citetitle> <emphasis role="strong">145:</emphasis>478–484.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0025" role="bibliographyEntry">
+            <para>25.<emphasis role="strong">Luppi M, Barozzi P, Morris C, Maiorana A, Garber R, Bonacorsi G, Donelli A, Marasca R, Tabilio A, Torelli G.</emphasis> 1999. Human herpesvirus 6 latently infects early bone marrow progenitors in vivo. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">73:</emphasis>754–759.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0026" role="bibliographyEntry">
+            <para>26.<emphasis role="strong">Arbuckle JH, Medveczky MM, Luka J, Hadley SH, Luegmayr A, Ablashi D, Lund TC, Tolar J, De Meirleir K, Montoya JG, Komaroff AL, Ambros PF, Medveczky PG.</emphasis> 2010. The latent human herpesvirus-6A genome specifically integrates in telomeres of human chromosomes in vivo and in vitro. <citetitle><emphasis>Proc Natl Acad Sci USA</emphasis></citetitle> <emphasis role="strong">107:</emphasis>5563–5568.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0027" role="bibliographyEntry">
+            <para>27.<emphasis role="strong">Ahlqvist J, Fotheringham J, Akhyani N, Yao K, Fogdell-Hahn A, Jacobson S.</emphasis> 2005. Differential tropism of human herpesvirus 6 (HHV-6) variants and induction of latency by HHV-6A in oligodendrocytes. <citetitle><emphasis>J Neurovirol</emphasis></citetitle> <emphasis role="strong">11:</emphasis>384–394.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0028" role="bibliographyEntry">
+            <para>28.<emphasis role="strong">Sada E, Yasukawa M, Ito C, Takeda A, Shiosaka T, Tanioka H, Fujita S.</emphasis> 1996. Detection of human herpesvirus 6 and human herpesvirus 7 in the submandibular gland, parotid gland, and lip salivary gland by PCR. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">34:</emphasis>2320–2321.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0029" role="bibliographyEntry">
+            <para>29.<emphasis role="strong">Di Luca D, Mirandola P, Ravaioli T, Dolcetti R, Frigatti A, Bovenzi P, Sighinolfi L, Monini P, Cassai E.</emphasis> 1995. Human herpesviruses 6 and 7 in salivary glands and shedding in saliva of healthy and human immunodeficiency virus positive individuals. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">45:</emphasis>462–468.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0030" role="bibliographyEntry">
+            <para>30.<emphasis role="strong">Fujisaki H, Tanaka-Taya K, Tanabe H, Hara T, Miyoshi H, Okada S, Yamanishi K.</emphasis> 1998. Detection of human herpesvirus 7 (HHV-7) DNA in breast milk by polymerase chain reaction and prevalence of HHV-7 antibody in breast-fed and bottle-fed children. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">56:</emphasis>275–279.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0031" role="bibliographyEntry">
+            <para>31.<emphasis role="strong">Pellett PE, Ablashi DV, Ambros PF, Agut H, Caserta MT, Descamps V, Flamand L, Gautheret-Dejean A, Hall CB, Kamble RT, Kuehl U, Lassner D, Lautenschlager I, Loomis KS, Luppi M, Lusso P, Medveczky PG, Montoya JG, Mori Y, Ogata M, Pritchett JC, Rogez S, Seto E, Ward KN, Yoshikawa T, Razonable RR.</emphasis> 2012. Chromosomally integrated human herpesvirus 6: questions and answers. <citetitle><emphasis>Rev Med Virol</emphasis></citetitle> <emphasis role="strong">22:</emphasis>144–155.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0032" role="bibliographyEntry">
+            <para>32.<emphasis role="strong">Ward KN, Thiruchelvam AD, Couto-Parada X.</emphasis> 2005. Unexpected occasional persistence of high levels of HHV-6 DNA in sera: detection of variants A and B. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">76:</emphasis>563–570.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0033" role="bibliographyEntry">
+            <para>33.<emphasis role="strong">Pantry SN, Medveczky PG.</emphasis> 2017. Latency, integration, and reactivation of human herpesvirus-6. <citetitle><emphasis>Viruses</emphasis></citetitle> <emphasis role="strong">9:</emphasis>E194.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0034" role="bibliographyEntry">
+            <para>34.<emphasis role="strong">Hill JA, Sedlak RH, Zerr DM, Huang M-L, Yeung C, Myerson D, Jerome KR, Boeckh MJ.</emphasis> 2015. Prevalence of chromosomally integrated human herpesvirus 6 in patients with human herpesvirus 6-central nervous system dysfunction. <citetitle><emphasis>Biol Blood Marrow Transplant</emphasis></citetitle> <emphasis role="strong">21:</emphasis>371–373.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0035" role="bibliographyEntry">
+            <para>35.<emphasis role="strong">Leong HN, Tuke PW, Tedder RS, Khanom AB, Eglin RP, Atkinson CE, Ward KN, Griffiths PD, Clark DA.</emphasis> 2007. The prevalence of chromosomally integrated human herpesvirus 6 genomes in the blood of UK blood donors. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">79:</emphasis>45–51.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0036" role="bibliographyEntry">
+            <para>36.<emphasis role="strong">Hall CB, Caserta MT, Schnabel K, Shelley LM, Marino AS, Carnahan JA, Yoo C, Lofthus GK, McDermott MP.</emphasis> 2008. Chromosomal integration of human herpesvirus 6 is the major mode of congenital human herpesvirus 6 infection. <citetitle><emphasis>Pediatrics</emphasis></citetitle> <emphasis role="strong">122:</emphasis>513–520.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0037" role="bibliographyEntry">
+            <para>37.<emphasis role="strong">Peddu V, Dubuc I, Gravel A, Xie H, Huang M-L, Tenenbaum D, Jerome KR, Tardif J-C, Dubé M-P, Flamand L, Greninger AL.</emphasis> 2019. Inherited chromosomally integrated human herpesvirus 6 demonstrates tissue-specific RNA expression <citetitle><emphasis>in vivo</emphasis></citetitle> that correlates with an increased antibody immune response. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">94:</emphasis>e01418–e01419.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0038" role="bibliographyEntry">
+            <para>38.<emphasis role="strong">Zhang E, Bell AJ, Wilkie GS, Suárez NM, Batini C, Veal CD, Armendáriz-Castillo I, Neumann R, Cotton VE, Huang Y, Porteous DJ, Jarrett RF, Davison AJ, Royle NJ.</emphasis> 2017. Inherited chromosomally integrated human herpesvirus 6 genomes are ancient, intact, and potentially able to reactivate from telomeres. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">91:</emphasis>e01137–e17.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0039" role="bibliographyEntry">
+            <anchor id="ch0124s000000a0066"/>
+            <para>39.<emphasis role="strong">Aswad A, Aimola G, Wight D, Roychoudhury P, Zimmermann C, Hill J, Lassner D, Xie H, Huang M-L, Parrish NF, Schultheiss H-P, Venturini C, Lager S, Smith GCS, Charnock-Jones DS, Breuer J, Greninger AL, Kaufer BB.</emphasis> 2021. Evolutionary history of endogenous human herpesvirus 6 reflects human migration out of Africa. <citetitle><emphasis>Mol Biol Evol</emphasis></citetitle> <emphasis role="strong">38:</emphasis>96–107.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0040" role="bibliographyEntry">
+            <para>40.<emphasis role="strong">Hall CB, Long CE, Schnabel KC, Caserta MT, McIntyre KM, Costanzo MA, Knott A, Dewhurst S, Insel RA, Epstein LG.</emphasis> 1994. Human herpesvirus-6 infection in children. A prospective study of complications and reactivation. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">331:</emphasis>432–438.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0041" role="bibliographyEntry">
+            <para>41.<emphasis role="strong">Ward KN, Andrews NJ, Verity CM, Miller E, Ross EM.</emphasis> 2005. Human herpesviruses-6 and -7 each cause significant neurological morbidity in Britain and Ireland. <citetitle><emphasis>Arch Dis Child</emphasis></citetitle> <emphasis role="strong">90:</emphasis>619–623.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0042" role="bibliographyEntry">
+            <para>42.<emphasis role="strong">Epstein LG, Shinnar S, Hesdorffer DC, Nordli DR, Hamidullah A, Benn EKT, Pellock JM, Frank LM, Lewis DV, Moshe SL, Shinnar RC, Sun S, FEBSTAT Study Team.</emphasis> 2012. Human herpesvirus 6 and 7 in febrile status epilepticus: the FEBSTAT study. <citetitle><emphasis>Epilepsia</emphasis></citetitle> <emphasis role="strong">53:</emphasis>1481–1488.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0043" role="bibliographyEntry">
+            <para>43.<emphasis role="strong">Kawamura Y, Nakayama A, Kato T, Miura H, Ishihara N, Ihira M, Takahashi Y, Matsuda K, Yoshikawa T.</emphasis> 2015. Pathogenic role of human herpesvirus 6B infection in mesial temporal lobe epilepsy. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">212:</emphasis>1014–1021.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0044" role="bibliographyEntry">
+            <para>44.<emphasis role="strong">Leibovitch EC, Jacobson S.</emphasis> 2015. Human herpesvirus 6 as a viral trigger in mesial temporal lobe epilepsy. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">212:</emphasis>1011–1013.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0045" role="bibliographyEntry">
+            <para>45.<emphasis role="strong">Knox KK, Carrigan DR.</emphasis> 1994. Disseminated active HHV-6 infections in patients with AIDS. <citetitle><emphasis>Lancet</emphasis></citetitle> <emphasis role="strong">343:</emphasis>577–578.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0046" role="bibliographyEntry">
+            <para>46.<emphasis role="strong">Hill JA.</emphasis> 2019. Human herpesvirus 6 in transplant recipients: an update on diagnostic and treatment strategies. <citetitle><emphasis>Curr Opin Infect Dis</emphasis></citetitle> <emphasis role="strong">32:</emphasis>584–590.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0047" role="bibliographyEntry">
+            <para>47.<emphasis role="strong">Zerr DM, Boeckh M, Delaney C, Martin PJ, Xie H, Adler AL, Huang M-L, Corey L, Leisenring WM.</emphasis> 2012. HHV-6 reactivation and associated sequelae after hematopoietic cell transplantation. <citetitle><emphasis>Biol Blood Marrow Transplant</emphasis></citetitle> <emphasis role="strong">18:</emphasis>1700–1708.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0048" role="bibliographyEntry">
+            <para>48.<emphasis role="strong">Razonable RR.</emphasis> 2013. Human herpesviruses 6, 7 and 8 in solid organ transplant recipients. <citetitle><emphasis>Am J Transplant</emphasis></citetitle> <emphasis role="strong">13</emphasis>(Suppl 3)<emphasis role="strong">:</emphasis>67–77, quiz 77–78.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0049" role="bibliographyEntry">
+            <para>49.<emphasis role="strong">Scheurer ME, Pritchett JC, Amirian ES, Zemke NR, Lusso P, Ljungman P.</emphasis> 2013. HHV-6 encephalitis in umbilical cord blood transplantation: a systematic review and meta-analysis. <citetitle><emphasis>Bone Marrow Transplant</emphasis></citetitle> <emphasis role="strong">48:</emphasis>574–580.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0050" role="bibliographyEntry">
+            <para>50.<emphasis role="strong">Hanson DJ, Xie H, Zerr DM, Leisenring WM, Jerome KR, Huang M-L, Stevens-Ayers T, Boeckh M, Koelle DM, Hill JA.</emphasis> 2021. Donor-derived CD4+ T cells and human herpesvirus 6B detection after allogeneic hematopoietic cell transplantation. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">223:</emphasis>709–713.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0051" role="bibliographyEntry">
+            <para>51.<emphasis role="strong">Hanson DJ, Tsvetkova O, Rerolle GF, Greninger AL, Sette A, Jing L, Campbell VL, Koelle DM.</emphasis> 2019. Genome-wide approach to the CD4 T-cell response to human herpesvirus 6B. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">93:</emphasis>e00321–e19.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0052" role="bibliographyEntry">
+            <para>52.<emphasis role="strong">Vinnard C, Barton T, Jerud E, Blumberg E.</emphasis> 2009. A report of human herpesvirus 6-associated encephalitis in a solid organ transplant recipient and a review of previously published cases. <citetitle><emphasis>Liver Transpl</emphasis></citetitle> <emphasis role="strong">15:</emphasis>1242–1246.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0053" role="bibliographyEntry">
+            <para>53.<emphasis role="strong">Kawamura Y, Sugata K, Ihira M, Mihara T, Mutoh T, Asano Y, Yoshikawa T.</emphasis> 2011. Different characteristics of human herpesvirus 6 encephalitis between primary infection and viral reactivation. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">51:</emphasis>12–19.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0054" role="bibliographyEntry">
+            <para>54.<emphasis role="strong">Zerr DM, Fann JR, Breiger D, Boeckh M, Adler AL, Xie H, Delaney C, Huang M-L, Corey L, Leisenring WM.</emphasis> 2011. HHV-6 reactivation and its effect on delirium and cognitive functioning in hematopoietic cell transplantation recipients. <citetitle><emphasis>Blood</emphasis></citetitle> <emphasis role="strong">117:</emphasis>5243–5249.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0055" role="bibliographyEntry">
+            <para>55.<emphasis role="strong">Dulery R, Salleron J, Dewilde A, Rossignol J, Boyle EM, Gay J, de Berranger E, Coiteux V, Jouet J-P, Duhamel A, Yakoub-Agha I.</emphasis> 2012. Early human herpesvirus type 6 reactivation after allogeneic stem cell transplantation: a large-scale clinical study. <citetitle><emphasis>Biol Blood Marrow Transplant</emphasis></citetitle> <emphasis role="strong">18:</emphasis>1080–1089.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0056" role="bibliographyEntry">
+            <para>56.<emphasis role="strong">Zerr DM, Corey L, Kim HW, Huang M-L, Nguy L, Boeckh M.</emphasis> 2005. Clinical outcomes of human herpesvirus 6 reactivation after hematopoietic stem cell transplantation. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">40:</emphasis>932–940.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0057" role="bibliographyEntry">
+            <para>57.<emphasis role="strong">Hill JA, Koo S, Guzman Suarez BB, Ho VT, Cutler C, Koreth J, Armand P, Alyea EP III, Baden LR, Antin JH, Soiffer RJ, Marty FM.</emphasis> 2012. Cord-blood hematopoietic stem cell transplant confers an increased risk for human herpesvirus-6-associated acute limbic encephalitis: a cohort analysis. <citetitle><emphasis>Biol Blood Marrow Transplant</emphasis></citetitle> <emphasis role="strong">18:</emphasis>1638–1648.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0058" role="bibliographyEntry">
+            <para>58.<emphasis role="strong">Gotoh M, Yoshizawa S, Katagiri S, Suguro T, Asano M, Kitahara T, Akahane D, Okabe S, Tauchi T, Ito Y, Ohyashiki K.</emphasis> 2014. Human herpesvirus 6 reactivation on the 30th day after allogeneic hematopoietic stem cell transplantation can predict grade 2-4 acute graft-versus-host disease. <citetitle><emphasis>Transpl Infect Dis</emphasis></citetitle> <emphasis role="strong">16:</emphasis>440–449.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0059" role="bibliographyEntry">
+            <para>59.<emphasis role="strong">Pichereau C, Desseaux K, Janin A, Scieux C, Peffault de Latour R, Xhaard A, Robin M, Ribaud P, Agbalika F, Chevret S, Socié G.</emphasis> 2012. The complex relationship between human herpesvirus 6 and acute graft-versus-host disease. <citetitle><emphasis>Biol Blood Marrow Transplant</emphasis></citetitle> <emphasis role="strong">18:</emphasis>141–144.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0060" role="bibliographyEntry">
+            <para>60.<emphasis role="strong">Buyse S, Roque-Afonso A-M, Vaghefi P, Gigou M, Dussaix E, Duclos-Vallée J-C, Samuel D, Guettier C.</emphasis> 2013. Acute hepatitis with periportal confluent necrosis associated with human herpesvirus 6 infection in liver transplant patients. <citetitle><emphasis>Am J Clin Pathol</emphasis></citetitle> <emphasis role="strong">140:</emphasis>403–409.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0061" role="bibliographyEntry">
+            <para>61.<emphasis role="strong">Hill JA, Myerson D, Sedlak RH, Jerome KR, Zerr DM.</emphasis> 2014. Hepatitis due to human herpesvirus 6B after hematopoietic cell transplantation and a review of the literature. <citetitle><emphasis>Transpl Infect Dis</emphasis></citetitle> <emphasis role="strong">16:</emphasis>477–483.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0062" role="bibliographyEntry">
+            <para>62.<emphasis role="strong">Seo S, Renaud C, Kuypers JM, Chiu CY, Huang M-L, Samayoa E, Xie H, Yu G, Fisher CE, Gooley TA, Miller S, Hackman RC, Myerson D, Sedlak RH, Kim Y-J, Fukuda T, Fredricks DN, Madtes DK, Jerome KR, Boeckh M.</emphasis> 2015. Idiopathic pneumonia syndrome after hematopoietic cell transplantation: evidence of occult infectious etiologies. <citetitle><emphasis>Blood</emphasis></citetitle> <emphasis role="strong">125:</emphasis>3789–3797.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0063" role="bibliographyEntry">
+            <para>63.<emphasis role="strong">Hill JA, Vande Vusse LK, Xie H, Chung EL, Yeung CCS, Seo S, Stevens-Ayers T, Fisher CE, Huang M-L, Stewart FM, Jerome KR, Zerr DM, Corey L, Leisenring WM, Boeckh M.</emphasis> 2019. Human herpesvirus 6B and lower respiratory tract disease after hematopoietic cell transplantation. <citetitle><emphasis>J Clin Oncol</emphasis></citetitle> <emphasis role="strong">37:</emphasis>2670–2681.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0064" role="bibliographyEntry">
+            <para>64.<emphasis role="strong">Tormo N, Solano C, de la Cámara R, Garcia-Noblejas A, Cardeñoso L, Clari MA, Nieto J, López J, Hernández-Boluda JC, Remigia MJ, Benet I, Navarro D.</emphasis> 2010. An assessment of the effect of human herpesvirus-6 replication on active cytomegalovirus infection after allogeneic stem cell transplantation. <citetitle><emphasis>Biol Blood Marrow Transplant</emphasis></citetitle> <emphasis role="strong">16:</emphasis>653–661.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0065" role="bibliographyEntry">
+            <para>65.<emphasis role="strong">Razonable RR, Brown RA, Humar A, Covington E, Alecock E, Paya CV, PV16000 Study Group.</emphasis> 2005. Herpesvirus infections in solid organ transplant patients at high risk of primary cytomegalovirus disease. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">192:</emphasis>1331–1339.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0066" role="bibliographyEntry">
+            <para>66.<emphasis role="strong">Humar A, Malkan G, Moussa G, Greig P, Levy G, Mazzulli T.</emphasis> 2000. Human herpesvirus-6 is associated with cytomegalovirus reactivation in liver transplant recipients. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">181:</emphasis>1450–1453.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0067" role="bibliographyEntry">
+            <para>67.<emphasis role="strong">Lopez Roa P, Hill JA, Kirby KA, Leisenring WM, Huang M-L, Santo TK, Jerome KR, Boeckh M, Limaye AP.</emphasis> 2015. Coreactivation of human herpesvirus 6 and cytomegalovirus is associated with worse clinical outcome in critically ill adults. <citetitle><emphasis>Crit Care Med</emphasis></citetitle> <emphasis role="strong">43:</emphasis>1415–1422.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0068" role="bibliographyEntry">
+            <para>68.<emphasis role="strong">de Pagter PJA, Schuurman R, Visscher H, de Vos M, Bierings M, van Loon AM, Uiterwaal CSPM,</emphasis> van <emphasis role="strong">Baarle D, Sanders EAM, Boelens J.</emphasis> 2008. Human herpes virus 6 plasma DNA positivity after hematopoietic stem cell transplantation in children: an important risk factor for clinical outcome. <citetitle><emphasis>Biol Blood Marrow Transplant</emphasis></citetitle> <emphasis role="strong">14:</emphasis>831–839.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0069" role="bibliographyEntry">
+            <para>69.<emphasis role="strong">Fernández-Ruiz M, Kumar D, Husain S, Lilly L, Renner E, Mazzulli T, Moussa G, Humar A.</emphasis> 2015. Utility of a monitoring strategy for human herpesviruses 6 and 7 viremia after liver transplantation: a randomized clinical trial. <citetitle><emphasis>Transplantation</emphasis></citetitle> <emphasis role="strong">99:</emphasis>106–113.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0070" role="bibliographyEntry">
+            <para>70.<emphasis role="strong">Lee S-O, Brown RA, Razonable RR.</emphasis> 2012. Chromosomally integrated human herpesvirus-6 in transplant recipients. <citetitle><emphasis>Transpl Infect Dis</emphasis></citetitle> <emphasis role="strong">14:</emphasis>346–354.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0071" role="bibliographyEntry">
+            <anchor id="ch0124s000000a0067"/>
+            <para>71.<emphasis role="strong">Clark DA.</emphasis> 2016. Clinical and laboratory features of human herpesvirus 6 chromosomal integration. <citetitle><emphasis>Clin Microbiol Infect</emphasis></citetitle> <emphasis role="strong">22:</emphasis>333–339.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0072" role="bibliographyEntry">
+            <para>72.<emphasis role="strong">Hill JA, Magaret AS, Hall-Sedlak R, Mikhaylova A, Huang M-L, Sandmaier BM, Hansen JA, Jerome KR, Zerr DM, Boeckh M.</emphasis> 2017. Outcomes of hematopoietic cell transplantation using donors or recipients with inherited chromosomally integrated HHV-6. <citetitle><emphasis>Blood</emphasis></citetitle> <emphasis role="strong">130:</emphasis>1062–1069.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0073" role="bibliographyEntry">
+            <para>73.<emphasis role="strong">Descamps V, Ranger-Rogez S.</emphasis> 2014. DRESS syndrome. <citetitle><emphasis>Joint Bone Spine</emphasis></citetitle> <emphasis role="strong">81:</emphasis>15–21.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0074" role="bibliographyEntry">
+            <para>74.<emphasis role="strong">Ishida T, Kano Y, Mizukawa Y, Shiohara T.</emphasis> 2014. The dynamics of herpesvirus reactivations during and after severe drug eruptions: their relation to the clinical phenotype and therapeutic outcome. <citetitle><emphasis>Allergy</emphasis></citetitle> <emphasis role="strong">69:</emphasis>798–805.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0075" role="bibliographyEntry">
+            <para>75.<emphasis role="strong">Cho Y-T, Yang C-W, Chu C-Y.</emphasis> 2017. Drug reaction with eosinophilia and systemic symptoms (DRESS): an interplay among drugs, viruses, and immune system. <citetitle><emphasis>Int J Mol Sci</emphasis></citetitle> <emphasis role="strong">18:</emphasis>E1243.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0076" role="bibliographyEntry">
+            <para>76.<emphasis role="strong">Seyyedi N, Dehbidi GR, Karimi M, Asgari A, Esmaeili B, Zare F, Farhadi A, Dabbaghmanesh MH, Saki F, Behzad-Behbahani A.</emphasis> 2019. Human herpesvirus 6A active infection in patients with autoimmune Hashimoto’s thyroiditis. <citetitle><emphasis>Braz J Infect Dis</emphasis></citetitle> <emphasis role="strong">23:</emphasis>435–440.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0077" role="bibliographyEntry">
+            <para>77.<emphasis role="strong">Sultanova A, Cistjakovs M, Sokolovska L, Todorova K, Cunskis E, Murovska M.</emphasis> 2020. HHV-6 infection and chemokine RANTES signaling pathway disturbance in patients with autoimmune thyroiditis. <citetitle><emphasis>Viruses</emphasis></citetitle> <emphasis role="strong">12:</emphasis>E689.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0078" role="bibliographyEntry">
+            <para>78.<emphasis role="strong">Caselli E, Zatelli MC, Rizzo R, Benedetti S, Martorelli D, Trasforini G, Cassai E, degli Uberti EC, Di Luca D, Dolcetti R.</emphasis> 2012. Virologic and immunologic evidence supporting an association between HHV-6 and Hashimoto’s thyroiditis. <citetitle><emphasis>PLoS Pathog</emphasis></citetitle> <emphasis role="strong">8:</emphasis>e1002951.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0079" role="bibliographyEntry">
+            <para>79.<emphasis role="strong">Sultanova A, Cistjakovs M, Gravelsina S, Chapenko S, Roga S, Cunskis E, Nora-Krukle Z, Groma V, Ventina I, Murovska M.</emphasis> 2017. Association of active human herpesvirus-6 (HHV-6) infection with autoimmune thyroid gland diseases. <citetitle><emphasis>Clin Microbiol Infect</emphasis></citetitle> <emphasis role="strong">23:</emphasis>50.e1–50.e5.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0080" role="bibliographyEntry">
+            <para>80.<emphasis role="strong">Hakacova N, Klingel K, Kandolf R, Engdahl E, Fogdell-Hahn A, Higgins T.</emphasis> 2013. First therapeutic use of Artesunate in treatment of human herpesvirus 6B myocarditis in a child. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">57:</emphasis>157–160.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0081" role="bibliographyEntry">
+            <para>81.<emphasis role="strong">Bigalke B, Klingel K, May AE, Kandolf R, Gawaz MG.</emphasis> 2007. Human herpesvirus 6 subtype A-associated myocarditis with “apical ballooning.” <citetitle><emphasis>Can J Cardiol</emphasis></citetitle> <emphasis role="strong">23:</emphasis>393–395.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0082" role="bibliographyEntry">
+            <para>82.<emphasis role="strong">Czarnowska A, Kapica-Topczewska K, Zajkowska O, Świerzbińska R, Chorą˙zy M, Tarasiuk J, Zajkowska J, Kochanowicz J, Kułakowska A.</emphasis> 2018. Herpesviridae seropositivity in patients with multiple sclerosis: first Polish study. <citetitle><emphasis>Eur Neurol</emphasis></citetitle> <emphasis role="strong">80:</emphasis>229–235.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0083" role="bibliographyEntry">
+            <para>83.<emphasis role="strong">Engdahl E, Gustafsson R, Huang J, Biström M, Lima Bomfim I, Stridh P, Khademi M, Brenner N, Butt J, Michel A, Jons D, Hortlund M, Alonso-Magdalena L, Hedström AK, Flamand L, Ihira M, Yoshikawa T, Andersen O, Hillert J, Alfredsson L, Waterboer T, Sundström P, Olsson T, Kockum I, Fogdell-Hahn A.</emphasis> 2019. Increased serological response against human herpesvirus 6A is associated with risk for multiple sclerosis. <citetitle><emphasis>Front Immunol</emphasis></citetitle> <emphasis role="strong">10:</emphasis>2715.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0084" role="bibliographyEntry">
+            <para>84.<emphasis role="strong">Aoki R, Kobayashi N, Suzuki G, Kuratsune H, Shimada K, Oka N, Takahashi M, Yamadera W, Iwashita M, Tokuno S, Nibuya M, Tanichi M, Mukai Y, Mitani K, Kondo K, Ito H, Nakayama K.</emphasis> 2016. Human herpesvirus 6 and 7 are biomarkers for fatigue, which distinguish between physiological fatigue and pathological fatigue. <citetitle><emphasis>Biochem Biophys Res Commun</emphasis></citetitle> <emphasis role="strong">478:</emphasis>424–430.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0085" role="bibliographyEntry">
+            <para>85.<emphasis role="strong">Miura H, Kawamura Y, Ohye T, Hattori F, Kozawa K, Ihira M, Yatsuya H, Nishizawa H, Kurahashi H, Yoshikawa T.</emphasis> 2021. Inherited chromosomally integrated human herpesvirus 6 is a risk factor for spontaneous abortion. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">223:</emphasis>1717–1723.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0086" role="bibliographyEntry">
+            <para>86.<emphasis role="strong">Gaccioli F, Lager S, de Goffau MC, Sovio U, Dopierala J, Gong S, Cook E, Sharkey A, Moffett A, Lee WK, Delles C, Venturini C, Breuer J, Parkhill J, Peacock SJ, Charnock-Jones DS, Smith GCS.</emphasis> 2020. Fetal inheritance of chromosomally integrated human herpesvirus 6 predisposes the mother to pre-eclampsia. <citetitle><emphasis>Nat Microbiol</emphasis></citetitle> <emphasis role="strong">5:</emphasis>901–908.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0087" role="bibliographyEntry">
+            <para>87.<emphasis role="strong">Coulam CB, Bilal M, Salazar Garcia MD, Katukurundage D, Elazzamy H, Fernandez EF, Kwak-Kim J, Beaman K, Dambaeva SV.</emphasis> 2018. Prevalence of HHV-6 in endometrium from women with recurrent implantation failure. <citetitle><emphasis>Am J Reprod Immunol</emphasis></citetitle> <emphasis role="strong">80:</emphasis>e12862.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0088" role="bibliographyEntry">
+            <para>88.<emphasis role="strong">Leibovitch EC, Jacobson S.</emphasis> 2014. Evidence linking HHV-6 with multiple sclerosis: an update. <citetitle><emphasis>Curr Opin Virol</emphasis></citetitle> <emphasis role="strong">9:</emphasis>127–133.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0089" role="bibliographyEntry">
+            <para>89.<emphasis role="strong">Ogata M, Satou T, Inoue Y, Takano K, Ikebe T, Ando T, Ikewaki J, Kohno K, Nishida A, Saburi M, Miyazaki Y, Ohtsuka E, Saburi Y, Fukuda T, Kadota J.</emphasis> 2013. Foscarnet against human herpesvirus (HHV)-6 reactivation after allo-SCT: breakthrough HHV-6 encephalitis following antiviral prophylaxis. <citetitle><emphasis>Bone Marrow Transplant</emphasis></citetitle> <emphasis role="strong">48:</emphasis>257–264.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0090" role="bibliographyEntry">
+            <para>90.<emphasis role="strong">Ogata M, Satou T, Kawano R, Goto K, Ikewaki J, Kohno K, Ando T, Miyazaki Y, Ohtsuka E, Saburi Y, Saikawa T, Kadota J-I.</emphasis> 2008. Plasma HHV-6 viral load-guided preemptive therapy against HHV-6 encephalopathy after allogeneic stem cell transplantation: a prospective evaluation. <citetitle><emphasis>Bone Marrow Transplant</emphasis></citetitle> <emphasis role="strong">41:</emphasis>279–285.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0091" role="bibliographyEntry">
+            <para>91.<emphasis role="strong">Ishiyama K, Katagiri T, Hoshino T, Yoshida T, Yamaguchi M, Nakao S.</emphasis> 2011. Preemptive therapy of human herpesvirus-6 encephalitis with foscarnet sodium for high-risk patients after hematopoietic SCT. <citetitle><emphasis>Bone Marrow Transplant</emphasis></citetitle> <emphasis role="strong">46:</emphasis>863–869.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0092" role="bibliographyEntry">
+            <para>92.<emphasis role="strong">Zerr DM.</emphasis> 2012. Human herpesvirus 6 (HHV-6) disease in the setting of transplantation. <citetitle><emphasis>Curr Opin Infect Dis</emphasis></citetitle> <emphasis role="strong">25:</emphasis>438–444.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0093" role="bibliographyEntry">
+            <para>93.<emphasis role="strong">Zerr DM, Huang ML, Corey L, Erickson M, Parker HL, Frenkel LM.</emphasis> 2000. Sensitive method for detection of human herpesviruses 6 and 7 in saliva collected in field studies. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">38:</emphasis>1981–1983.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0094" role="bibliographyEntry">
+            <para>94.<emphasis role="strong">Sedlak RH, Cook L, Huang M-L, Magaret A, Zerr DM, Boeckh M, Jerome KR.</emphasis> 2014. Identification of chromosomally integrated human herpesvirus 6 by droplet digital PCR. <citetitle><emphasis>Clin Chem</emphasis></citetitle> <emphasis role="strong">60:</emphasis>765–772.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0095" role="bibliographyEntry">
+            <para>95.<emphasis role="strong">Lautenschlager I, Linnavuori K, Höckerstedt K.</emphasis> 2000. Human herpesvirus-6 antigenemia after liver transplantation. <citetitle><emphasis>Transplantation</emphasis></citetitle> <emphasis role="strong">69:</emphasis>2561–2566.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0096" role="bibliographyEntry">
+            <para>96.<emphasis role="strong">Nishimura N, Yoshikawa T, Ozaki T, Sun H, Goshima F, Nishiyama Y, Asano Y, Kurata T, Iwasaki T.</emphasis> 2005. in vitro and in vivo analysis of human herpesvirus-6 U90 protein expression. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">75:</emphasis>86–92.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0097" role="bibliographyEntry">
+            <para>97.<emphasis role="strong">Blumberg BM, Mock DJ, Powers JM, Ito M, Assouline JG, Baker JV, Chen B, Goodman AD.</emphasis> 2000. The HHV6 paradox: ubiquitous commensal or insidious pathogen? A two-step in situ PCR approach. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">16:</emphasis>159–178.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0098" role="bibliographyEntry">
+            <para>98.<emphasis role="strong">Opsahl ML, Kennedy PGE.</emphasis> 2005. Early and late HHV-6 gene transcripts in multiple sclerosis lesions and normal appearing white matter. <citetitle><emphasis>Brain</emphasis></citetitle> <emphasis role="strong">128:</emphasis>516–527.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0099" role="bibliographyEntry">
+            <para>99.<emphasis role="strong">Greninger AL, Naccache SN, Pannaraj P, Jerome KR, Dien Bard J, Ruderman JW.</emphasis> 2019. The Brief Case: Inherited chromosomally integrated human herpesvirus 6 (HHV-6) in the age of multiplex HHV-6 testing. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">57:</emphasis>e02016–e02018.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0100" role="bibliographyEntry">
+            <para>100.<emphasis role="strong">Deback C, Agbalika F, Scieux C, Marcelin AG, Gautheret-Dejean A, Cherot J, Hermet L, Roger O, Agut H.</emphasis> 2008. Detection of human herpesviruses HHV-6, HHV-7 and HHV-8 in whole blood by real-time PCR using the new CMV, HHV-6, 7, 8 R-gene kit. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">149:</emphasis>285–291.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0101" role="bibliographyEntry">
+            <para>101.<emphasis role="strong">Wada K, Mizoguchi S, Ito Y, Kawada J, Yamauchi Y, Morishima T, Nishiyama Y, Kimura H.</emphasis> 2009. Multiplex real-time PCR for the simultaneous detection of herpes simplex virus, human herpesvirus 6, and human herpesvirus 7. <citetitle><emphasis>Microbiol Immunol</emphasis></citetitle> <emphasis role="strong">53:</emphasis>22–29.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0102" role="bibliographyEntry">
+            <para>102.<emphasis role="strong">Caserta MT, Hall CB, Schnabel K, Lofthus G, Marino A, Shelley L, Yoo C, Carnahan J, Anderson L, Wang H.</emphasis> 2010. Diagnostic assays for active infection with human herpesvirus 6 (HHV-6). <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">48:</emphasis>55–57.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0103" role="bibliographyEntry">
+            <anchor id="ch0124s000000a0068"/>
+            <para>103.<emphasis role="strong">Boutolleau D, Fernandez C, André E, Imbert-Marcille B-M, Milpied N, Agut H, Gautheret-Dejean A.</emphasis> 2003. Human herpesvirus (HHV)-6 and HHV-7: two closely related viruses with different infection profiles in stem cell transplantation recipients. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">187:</emphasis>179–186.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0104" role="bibliographyEntry">
+            <para>104.<emphasis role="strong">Peddu V, Bradley BT, Casto AM, Shree R, Colbert BG, Xie H, Santo TK, Huang M-L, Cheng EY, Konnick E, Salipante SJ, Jerome KR, Lockwood CM, Greninger AL.</emphasis> 2020. High-resolution profiling of human cytomegalovirus cell-free DNA in human plasma highlights its exceptionally fragmented nature. <citetitle><emphasis>Sci Rep</emphasis></citetitle> <emphasis role="strong">10:</emphasis>3734.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0105" role="bibliographyEntry">
+            <para>105.<emphasis role="strong">Phung Q, Lin MJ, Xie H, Greninger AL.</emphasis> 2022. Fragment size-based enrichment of viral sequences in plasma cell-free DNA. <citetitle><emphasis>J Mol Diagn</emphasis></citetitle> <emphasis role="strong">24:</emphasis>476–484.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0106" role="bibliographyEntry">
+            <para>106.<emphasis role="strong">Martró E, Cannon MJ, Dollard SC, Spira TJ, Laney AS, Ou C-Y, Pellett PE.</emphasis> 2004. Evidence for both lytic replication and tightly regulated human herpesvirus 8 latency in circulating mononuclear cells, with virus loads frequently below common thresholds of detection. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">78:</emphasis>11707–11714.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0107" role="bibliographyEntry">
+            <para>107.<emphasis role="strong">Gautheret-Dejean A, Henquell C, Mousnier F, Boutolleau D, Bonnafous P, Dhédin N, Settegrana C, Agut H.</emphasis> 2009. Different expression of human herpesvirus-6 (HHV-6) load in whole blood may have a significant impact on the diagnosis of active infection. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">46:</emphasis>33–36.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0108" role="bibliographyEntry">
+            <para>108.<emphasis role="strong">Flamand L, Gravel A, Boutolleau D, Alvarez-Lafuente R, Jacobson S, Malnati MS, Kohn D, Tang Y-W, Yoshikawa T, Ablashi D.</emphasis> 2008. Multicenter comparison of PCR assays for detection of human herpesvirus 6 DNA in serum. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">46:</emphasis>2700–2706.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0109" role="bibliographyEntry">
+            <para>109.<emphasis role="strong">de Pagter PJ, Schuurman R, de Vos NM, Mackay W, van Loon AM.</emphasis> 2010. Multicenter external quality assessment of molecular methods for detection of human herpesvirus 6. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">48:</emphasis>2536–2540.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0110" role="bibliographyEntry">
+            <para>110.<emphasis role="strong">Greninger AL, Bateman AC, Atienza EE, Wendt S, Makhsous N, Jerome KR, Cook L.</emphasis> 2017. Copy number heterogeneity of JC virus standards. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">55:</emphasis>824–831.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0111" role="bibliographyEntry">
+            <para>111.<emphasis role="strong">Bateman AC, Greninger AL, Atienza EE, Limaye AP, Jerome KR, Cook L.</emphasis> 2017. Quantification of BK virus standards by quantitative real-time PCR and droplet digital PCR is confounded by multiple virus populations in the WHO BKV international standard. <citetitle><emphasis>Clin Chem</emphasis></citetitle> <emphasis role="strong">63:</emphasis>761–769.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0112" role="bibliographyEntry">
+            <para>112.<emphasis role="strong">Leber AL, Everhart K, Balada-Llasat J-M, Cullison J, Daly J, Holt S, Lephart P, Salimnia H, Schreckenberger PC, DesJarlais S, Reed SL, Chapin KC, LeBlanc L, Johnson JK, Soliven NL, Carroll KC, Miller J-A, Dien Bard J, Mestas J, Bankowski M, Enomoto T, Hemmert AC, Bourzac KM.</emphasis> 2016. Multicenter evaluation of BioFire FilmArray Meningitis/Encephalitis Panel for detection of bacteria, viruses, and yeast in cerebrospinal fluid specimens. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">54:</emphasis>2251–2261.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0113" role="bibliographyEntry">
+            <para>113.<emphasis role="strong">Black JB, Pellett PE.</emphasis> 2000. Antiviral screening assays for human herpesviruses 6 and 7. <citetitle><emphasis>Methods Mol Med</emphasis></citetitle> <emphasis role="strong">24:</emphasis>129–138.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0114" role="bibliographyEntry">
+            <para>114.<emphasis role="strong">De Bolle L, Van Loon J, De Clercq E, Naesens L.</emphasis> 2005. Quantitative analysis of human herpesvirus 6 cell tropism. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">75:</emphasis>76–85.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0115" role="bibliographyEntry">
+            <para>115.<emphasis role="strong">Osman HK, Wells C, Baboonian C, Kangro HO.</emphasis> 1993. Growth characteristics of human herpesvirus-6: comparison of antigen production in two cell lines. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">39:</emphasis>303–311.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0116" role="bibliographyEntry">
+            <para>116.<emphasis role="strong">Arsenault S, Gravel A, Gosselin J, Flamand L.</emphasis> 2003. Generation and characterization of a monoclonal antibody specific for human herpesvirus 6 variant A immediate-early 2 protein. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">28:</emphasis>284–290.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0117" role="bibliographyEntry">
+            <para>117.<emphasis role="strong">Sedlak RH, Hill JA, Nguyen T, Cho M, Levin G, Cook L, Huang M-L, Flamand L, Zerr DM, Boeckh M, Jerome KR.</emphasis> 2016. Detection of human herpesvirus 6B (HHV-6B) reactivation in hematopoietic cell transplant recipients with inherited chromosomally integrated HHV-6A by droplet digital PCR. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">54:</emphasis>1223–1227.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0118" role="bibliographyEntry">
+            <para>118.<emphasis role="strong">Ward KN.</emphasis> 2005. The natural history and laboratory diagnosis of human herpesviruses-6 and -7 infections in the immunocompetent. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">32:</emphasis>183–193.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0119" role="bibliographyEntry">
+            <para>119.<emphasis role="strong">Braun DK, Dominguez G, Pellett PE.</emphasis> 1997. Human herpesvirus 6. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">10:</emphasis>521–567.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0120" role="bibliographyEntry">
+            <para>120.<emphasis role="strong">Bonnafous P, Naesens L, Petrella S, Gautheret-Dejean A, Boutolleau D, Sougakoff W, Agut H.</emphasis> 2007. Different mutations in the HHV-6 DNA polymerase gene accounting for resistance to foscarnet. <citetitle><emphasis>Antivir Ther</emphasis></citetitle> <emphasis role="strong">12:</emphasis>877–888.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0121" role="bibliographyEntry">
+            <para>121.<emphasis role="strong">Bonnafous P, Boutolleau D, Naesens L, Deback C, Gautheret-Dejean A, Agut H.</emphasis> 2008. Characterization of a cidofovir-resistant HHV-6 mutant obtained by in vitro selection. <citetitle><emphasis>Antiviral Res</emphasis></citetitle> <emphasis role="strong">77:</emphasis>237–240.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0122" role="bibliographyEntry">
+            <para>122.<emphasis role="strong">Isegawa Y, Matsumoto C, Nishinaka K, Nakano K, Tanaka T, Sugimoto N, Ohshima A.</emphasis> 2010. PCR with quenching probes enables the rapid detection and identification of ganciclovir-resistance-causing U69 gene mutations in human herpesvirus 6. <citetitle><emphasis>Mol Cell Probes</emphasis></citetitle> <emphasis role="strong">24:</emphasis>167–177.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0123" role="bibliographyEntry">
+            <para>123.<emphasis role="strong">Bounaadja L, Piret J, Goyette N, Boivin G.</emphasis> 2013. Analysis of HHV-6 mutations in solid organ transplant recipients at the onset of cytomegalovirus disease and following treatment with intravenous ganciclovir or oral valganciclovir. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">58:</emphasis>279–282.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0124" role="bibliographyEntry">
+            <para>124.<emphasis role="strong">Hayden RT, Preiksaitis J, Tong Y, Pang X, Sun Y, Tang L, Cook L, Pounds S, Fryer J, Caliendo AM.</emphasis> 2015. Commutability of the first World Health Organization International Standard for human cytomegalovirus. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">53:</emphasis>3325–3333.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0125" role="bibliographyEntry">
+            <para>125.<emphasis role="strong">Kaufer BB, Flamand L.</emphasis> 2014. Chromosomally integrated HHV-6: impact on virus, cell and organismal biology. <citetitle><emphasis>Curr Opin Virol</emphasis></citetitle> <emphasis role="strong">9:</emphasis>111–118.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0126" role="bibliographyEntry">
+            <para>126.<emphasis role="strong">de Oliveira Vianna RA, Siqueira MM, Camacho LAB, Setúbal S, Knowles W, Brown DW, de Oliveira SA.</emphasis> 2008. The accuracy of anti-human herpesvirus 6 IgM detection in children with recent primary infection. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">153:</emphasis>273–275.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0127" role="bibliographyEntry">
+            <para>127.<emphasis role="strong">Clark DA, Freeland ML, Mackie LK, Jarrett RF, Onions DE.</emphasis> 1993. Prevalence of antibody to human herpesvirus 7 by age. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">168:</emphasis>251–252.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0128" role="bibliographyEntry">
+            <para>128.<emphasis role="strong">Caserta MT, Hall CB, Schnabel K, Long CE, D’Heron N.</emphasis> 1998. Primary human herpesvirus 7 infection: a comparison of human herpesvirus 7 and human herpesvirus 6 infections in children. <citetitle><emphasis>J Pediatr</emphasis></citetitle> <emphasis role="strong">133:</emphasis>386–389.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0129" role="bibliographyEntry">
+            <para>129.<emphasis role="strong">Katsafanas GC, Schirmer EC, Wyatt LS, Frenkel N.</emphasis> 1996. in vitro activation of human herpesviruses 6 and 7 from latency. <citetitle><emphasis>Proc Natl Acad Sci USA</emphasis></citetitle> <emphasis role="strong">93:</emphasis>9788–9792.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0130" role="bibliographyEntry">
+            <para>130.<emphasis role="strong">Berneman ZN, Ablashi DV, Li G, Eger-Fletcher M, Reitz MS Jr, Hung CL, Brus I, Komaroff AL, Gallo RC.</emphasis> 1992. Human herpesvirus 7 is a T-lymphotropic virus and is related to, but significantly different from, human herpesvirus 6 and human cytomegalovirus. <citetitle><emphasis>Proc Natl Acad Sci USA</emphasis></citetitle> <emphasis role="strong">89:</emphasis>10552–10556.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0131" role="bibliographyEntry">
+            <para>131.<emphasis role="strong">Secchiero P, Sun D, De Vico AL, Crowley RW, Reitz MS Jr, Zauli G, Lusso P, Gallo RC.</emphasis> 1997. Role of the extracellular domain of human herpesvirus 7 glycoprotein B in virus binding to cell surface heparan sulfate proteoglycans. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">71:</emphasis>4571–4580.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0132" role="bibliographyEntry">
+            <para>132.<emphasis role="strong">Kempf W, Adams V, Mirandola P, Menotti L, Di Luca D, Wey N, Müller B, Campadelli-Fiume G.</emphasis> 1998. Persistence of human herpesvirus 7 in normal tissues detected by expression of a structural antigen. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">178:</emphasis>841–845.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0133" role="bibliographyEntry">
+            <para>133.<emphasis role="strong">Chapenko S, Roga S, Skuja S, Rasa S, Cistjakovs M, Svirskis S, Zaserska Z, Groma V, Murovska M.</emphasis> 2016. Detection frequency of human herpesviruses-6A, -6B, and -7 genomic sequences in central nervous system DNA samples from post-mortem individuals with unspecified encephalopathy. <citetitle><emphasis>J Neurovirol</emphasis></citetitle> <emphasis role="strong">22:</emphasis>488–497.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0134" role="bibliographyEntry">
+            <para>134.<emphasis role="strong">Prusty BK, Gulve N, Rasa S, Murovska M, Hernandez PC, Ablashi DV.</emphasis> 2017. Possible chromosomal and germline integration of human herpesvirus 7. <citetitle><emphasis>J Gen Virol</emphasis></citetitle> <emphasis role="strong">98:</emphasis>266–274.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0135" role="bibliographyEntry">
+            <para>135.<emphasis role="strong">Hall CB, Caserta MT, Schnabel KC, Boettrich C, McDermott MP, Lofthus GK, Carnahan JA, Dewhurst S.</emphasis> 2004. Congenital infections with human herpesvirus 6 (HHV6) and human herpesvirus 7 (HHV7). <citetitle><emphasis>J Pediatr</emphasis></citetitle> <emphasis role="strong">145:</emphasis>472–477.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0136" role="bibliographyEntry">
+            <para>136.<emphasis role="strong">Razonable RR, Paya CV.</emphasis> 2002. The impact of human herpesvirus-6 and -7 infection on the outcome of liver transplantation. <citetitle><emphasis>Liver Transpl</emphasis></citetitle> <emphasis role="strong">8:</emphasis>651–658.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0137" role="bibliographyEntry">
+            <para>137.<emphasis role="strong">Yamamoto K, Yoshikawa T, Okamoto S, Yamaki K, Shimokata K, Nishiyama Y.</emphasis> 2005. HHV-6 and 7 DNA loads in lung tissues collected from patients with interstitial pneumonia. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">75:</emphasis>70–75.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0138" role="bibliographyEntry">
+            <anchor id="ch0124s000000a0069"/>
+            <para>138.<emphasis role="strong">Costa C, Bergallo M, Delsedime L, Solidoro P, Donadio P, Cavallo R.</emphasis> 2009. Acute respiratory distress syndrome associated with HHV-7 infection in an immunocompetent patient: a case report. <citetitle><emphasis>New Microbiol</emphasis></citetitle> <emphasis role="strong">32:</emphasis>315–316.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0139" role="bibliographyEntry">
+            <para>139.<emphasis role="strong">Costa C, Delsedime L, Solidoro P, Curtoni A, Bergallo M, Libertucci D, Baldi S, Rinaldi M, Cavallo R.</emphasis> 2010. Herpesviruses detection by quantitative real-time polymerase chain reaction in bronchoalveolar lavage and transbronchial biopsy in lung transplant: viral infections and histopathological correlation. <citetitle><emphasis>Transplant Proc</emphasis></citetitle> <emphasis role="strong">42:</emphasis>1270–1274.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0140" role="bibliographyEntry">
+            <para>140.<emphasis role="strong">Chuh AAT, Chan HHL, Zawar V.</emphasis> 2004. Is human herpesvirus 7 the causative agent of pityriasis rosea? A critical review. <citetitle><emphasis>Int J Dermatol</emphasis></citetitle> <emphasis role="strong">43:</emphasis>870–875.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0141" role="bibliographyEntry">
+            <para>141.<emphasis role="strong">Broccolo F, Drago F, Careddu AM, Foglieni C, Turbino L, Cocuzza CE, Gelmetti C, Lusso P, Rebora AE, Malnati MS.</emphasis> 2005. Additional evidence that pityriasis rosea is associated with reactivation of human herpesvirus-6 and -7. <citetitle><emphasis>J Invest Dermatol</emphasis></citetitle> <emphasis role="strong">124:</emphasis>1234–1240.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0142" role="bibliographyEntry">
+            <para>142.<emphasis role="strong">De Clercq E, Naesens L, De Bolle L, Schols D, Zhang Y, Neyts J.</emphasis> 2001. Antiviral agents active against human herpesviruses HHV-6, HHV-7 and HHV-8. <citetitle><emphasis>Rev Med Virol</emphasis></citetitle> <emphasis role="strong">11:</emphasis>381–395.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0143" role="bibliographyEntry">
+            <para>143.<emphasis role="strong">Yoshida M, Yamada M, Tsukazaki T, Chatterjee S, Lakeman FD, Nii S, Whitley RJ.</emphasis> 1998. Comparison of antiviral compounds against human herpesvirus 6 and 7. <citetitle><emphasis>Antiviral Res</emphasis></citetitle> <emphasis role="strong">40:</emphasis>73–84.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0144" role="bibliographyEntry">
+            <para>144.<emphasis role="strong">Black JB, Pellett PE.</emphasis> 1999. Human herpesvirus 7. <citetitle><emphasis>Rev Med Virol</emphasis></citetitle> <emphasis role="strong">9:</emphasis>245–262.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0145" role="bibliographyEntry">
+            <para>145.<emphasis role="strong">Bergallo M, Costa C, Terlizzi ME, Sidoti F, Margio S, Astegiano S, Ponti R, Cavallo R.</emphasis> 2009. Development of a LUX real-time PCR for the detection and quantification of human herpesvirus 7. <citetitle><emphasis>Can J Microbiol</emphasis></citetitle> <emphasis role="strong">55:</emphasis>319–325.</para>
+          </listitem>
+          <listitem id="ch0124s000000li0146" role="bibliographyEntry">
+            <para>146.<emphasis role="strong">Black JB, Schwarz TF, Patton JL, Kite-Powell K, Pellett PE, Wiersbitzky S, Bruns R, Müller C, Jäger G, Stewart JA.</emphasis> 1996. Evaluation of immunoassays for detection of antibodies to human herpesvirus 7. <citetitle><emphasis>Clin Diagn Lab Immunol</emphasis></citetitle> <emphasis role="strong">3:</emphasis>79–83.</para>
+          </listitem>
+        </itemizedlist>
+      </sect2>
+    </sect1>
+  </chapter>

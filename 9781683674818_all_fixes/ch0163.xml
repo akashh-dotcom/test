@@ -1,0 +1,1211 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0163">
+    <title>PARASITES</title>
+    <sect1 id="ch0163s0001">
+      <title>PARASITES</title>
+      <anchor id="ch0163s000000a0001"/>
+      <sect2 id="ch0163s0001s0001">
+        <title>140 Plasmodium and Babesia</title>
+        <anchor id="ch0163s010001a0001"/>
+        <para id="ch0163s000000p0001" role="chapterAuthor">BOBBI S. PRITT</para>
+        <para id="ch0163s000000p0002"><emphasis>Plasmodium</emphasis> and <emphasis>Babesia</emphasis> are intraerythrocytic protozoan parasites that cause malaria and babesiosis, respectively. Both are transmitted through the bite of an infected arthropod and cause significant human morbidity and mortality worldwide. Although they differ in their epidemiology and life cycle, there is overlap between both clinical and diagnostic features of these two parasites, and for these reasons, they are discussed together in this chapter.</para>
+        <sect3 id="ch0163s0001s0001s0001">
+          <title>TAXONOMY</title>
+          <anchor id="ch0163s010001a0002"/>
+          <anchor id="ch0163s000000a0002"/>
+          <para id="ch0163s000000p0003"><emphasis>Plasmodium</emphasis> and <emphasis>Babesia</emphasis> are apicomplexan parasites within the supergroup SAR, clade Alveolata (<link linkend="ch0163s000000li0001">1</link>). Within the Alveolata, these two genera belong to the clade Apicomplexa (formerly Sporozoa), a large complex group of eukaryotic single-celled parasites characterized by a specialized apical complex used for host cell penetration and an apicoplast (<link linkend="ch0163s000000li0002">2</link>). The apicoplast is a plastid organelle thought to have been acquired by an ancient secondary endosymbiosis of a red alga and its chloroplast. Unlike its chloroplast precursor, the apicoplast is not involved in photosynthesis and instead is thought to be involved in the synthesis of heme, lipids, and isoprenoids (<link linkend="ch0163s000000li0002">2</link>). Within the Apicomplexa, <emphasis>Plasmodium</emphasis> is located within the Haemosporida (SAR: Alveolata: Apicomplexa: Aconoidasida: Haemosporida: <emphasis>Plasmodium</emphasis>) and <emphasis>Babesia</emphasis> falls within the Piroplasmorida (SAR: Alveolata: Apicomplexa: Aconoidasida: Piroplasmorida: <emphasis>Babesia</emphasis>). See <ulink url="ch0159#ch0159s0001s0001">chapter 136</ulink> for further information about these taxonomic placements.</para>
+        </sect3>
+        <sect3 id="ch0163s0001s0001s0002">
+          <title>PLASMODIUM</title>
+          <anchor id="ch0163s010001a0003"/>
+          <anchor id="ch0163s000000a0003"/>
+        </sect3>
+      </sect2>
+      <sect2 id="ch0163s0001s0002">
+        <title>Description of the Agent</title>
+        <anchor id="ch0163s010002a0001"/>
+        <anchor id="ch0163s000000a0004"/>
+        <para id="ch0163s000000p0004">Members of the genus<emphasis>Plasmodium</emphasis> infect a wide range of birds, mammals, reptiles, and amphibians worldwide using blood-feeding dipteran vectors (<link linkend="ch0163s000000li0003">3</link>). Despite there being at least 200 named <emphasis>Plasmodium</emphasis> species, only four are considered major causes of human malaria: <emphasis>Plasmodium falciparum, P. vivax, P. malariae</emphasis>, and <emphasis>P. ovale</emphasis> (<link linkend="ch0163s000000li0004">4</link>). These species designations were originally based on morphologic characteristics, with <emphasis>P. ovale</emphasis> being one of the last to be described due to its morphologic similarities to <emphasis>P. vivax</emphasis> (<link linkend="ch0163s000000li0005">5</link>). Multilocus genetic analysis identified the presence of polymorphisms in <emphasis>P. ovale</emphasis>, leading to the description of classic and variant strains (<link linkend="ch0163s000000li0006">6</link>). It is now widely accepted that <emphasis>P. ovale</emphasis> comprises two closely related subspecies that coexist in the same geographic regions without interbreeding: <emphasis>Plasmodium ovale curtisi</emphasis> (classic strain) and <emphasis>P. ovale wallikeri</emphasis> (variant strain) (<link linkend="ch0163s000000li0007">7</link>). These two subspecies are morphologically indistinguishable but differ in their geographic distribution, as well as the duration of latency and influence on the total leukocyte count and platelet counts of infected individuals (<link linkend="ch0163s000000li0008">8</link>).</para>
+        <para id="ch0163s000000p0005">In addition to the human malaria species, humans may occasionally become infected with simian malaria species (<link linkend="ch0163s000000li0009">9</link>, <link linkend="ch0163s000000li0010">10</link>). <emphasis>Plasmodium knowlesi</emphasis> was recognized as a significant cause of human infections in 2004 (<link linkend="ch0163s000000li0011">11</link>), being responsible for 27.7% of cases in Malaysian Borneo hospitals in one report (<link linkend="ch0163s000000li0012">12</link>). While this species predominantly infects macaques (genus <emphasis>Macaca</emphasis>), is it now known to cause human cases throughout parts of Southeast Asia (<link linkend="ch0163s000000li0013">13</link>). Individual cases have also been reported from western travelers to Southeast Asia, including individuals from Finland, Sweden, Austria, Spain, Great Britain, and the United States (<link linkend="ch0163s000000li0014">14</link>). Another simian parasite, <emphasis>Plasmodium cynomolgi</emphasis>, has been reported as a rare cause of human malaria in Southeast Asia (<link linkend="ch0163s000000li0009">9</link>, <link linkend="ch0163s000000li0010">10</link>).</para>
+      </sect2>
+      <sect2 id="ch0163s0001s0003">
+        <title>Epidemiology and Transmission</title>
+        <anchor id="ch0163s010003a0001"/>
+        <anchor id="ch0163s000000a0005"/>
+        <para id="ch0163s000000p0006">Malaria is arguably one of the most important infectious diseases in the world. According to the World Health Organization (WHO), nearly half of the world’s population is at risk of acquiring this disease (<link linkend="ch0163s000000li0004">4</link>). Extensive global control efforts have reduced malaria incidence from 81 cases per 1,000 population in 2000 to 56 in 2019. Unfortunately, the incidence increased to 59/1,000 in 2020 due, in large part, to disruption in health care and preventive services during the coronavirus disease 2019 (COVID-19) pandemic (<link linkend="ch0163s000000li0004">4</link>, <link linkend="ch0163s000000li0015">15</link>). There were an estimated 241 million new cases and 627,000 deaths in 2020 (<link linkend="ch0163s000000li0004">4</link>). Approximately 96% of deaths occur in the WHO African region, where a close link between malaria mortality and poverty is observed. Eighty percent of deaths occur in children less than 5 years of age (<link linkend="ch0163s000000li0004">4</link>).</para>
+        <table id="ch0163s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0163s000000a0006"/><link linkend="ch0163s000000a0014">TABLE 1</link></phrase></emphasis> Characteristics of <emphasis>Plasmodium</emphasis> spp. infections<superscript><link linkend="ch0163s000000a0010">a</link></superscript><anchor id="ch0163s000000a0007"/>
+</title>
+          
+          <tgroup cols="6">
+            <tbody>
+              <row>
+                <entry><para id="ch0163s000000p0007">Diagnostic criterion</para>
+                </entry>
+                <entry><para id="ch0163s000000p0008"><emphasis>Plasmodium falciparum</emphasis>
+                  </para>
+                </entry>
+                <entry><para id="ch0163s000000p0009"><emphasis>Plasmodium malariae</emphasis>
+                  </para>
+                </entry>
+                <entry><para id="ch0163s000000p0010"><emphasis>Plasmodium vivax</emphasis>
+                  </para>
+                </entry>
+                <entry><para id="ch0163s000000p0011"><emphasis>Plasmodium ovale</emphasis>
+                  </para>
+                </entry>
+                <entry><para id="ch0163s000000p0012"><emphasis>Plasmodium knowlesi</emphasis>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry>Incubation period (days)</entry>
+                <entry>8–11</entry>
+                <entry>18–40</entry>
+                <entry>10–17</entry>
+                <entry>10–17</entry>
+                <entry>9–12<superscript><link linkend="ch0163s000000a0011">b</link></superscript><anchor id="ch0163s000000a0008"/></entry>
+              </row>
+              <row>
+                <entry>Fever cycle</entry>
+                <entry>36–48 h; malignant tertian or subtertian</entry>
+                <entry>72 h; benign quartan</entry>
+                <entry>44–48 h; benign tertian</entry>
+                <entry>48 h; tertian</entry>
+                <entry>24 h; quotidian</entry>
+              </row>
+              <row>
+                <entry>Stage of erythrocyte infected</entry>
+                <entry>All stages</entry>
+                <entry>Old cells</entry>
+                <entry>Young cells</entry>
+                <entry>Young cells</entry>
+                <entry>All stages</entry>
+              </row>
+              <row>
+                <entry>Degree of possible parasitemia (%)</entry>
+                <entry>High</entry>
+                <entry>Low (&lt;2)</entry>
+                <entry>Low (&lt;2)</entry>
+                <entry>Low (&lt;2)</entry>
+                <entry>High</entry>
+              </row>
+              <row>
+                <entry>Sequestration of infected erythrocytes</entry>
+                <entry>Yes</entry>
+                <entry>No</entry>
+                <entry>No</entry>
+                <entry>No</entry>
+                <entry>Possibly<superscript><link linkend="ch0163s000000a0011">b</link></superscript></entry>
+              </row>
+              <row>
+                <entry>Usual degree of disease severity</entry>
+                <entry>Moderate to severe, life threatening</entry>
+                <entry>Mild to moderate</entry>
+                <entry>Moderate to severe, occasionally life threatening</entry>
+                <entry>Mild</entry>
+                <entry>Moderate to severe, life threatening</entry>
+              </row>
+              <row>
+                <entry>Degree of anemia</entry>
+                <entry>Severe</entry>
+                <entry>Mild to moderate</entry>
+                <entry>Moderate to severe</entry>
+                <entry>Mild</entry>
+                <entry>Severe</entry>
+              </row>
+              <row>
+                <entry>Involvement of the central nervous system</entry>
+                <entry>Common</entry>
+                <entry>Rare</entry>
+                <entry>Occasional</entry>
+                <entry>Rare</entry>
+                <entry>Common</entry>
+              </row>
+              <row>
+                <entry>Nephrotic syndrome</entry>
+                <entry>Rare</entry>
+                <entry>Common</entry>
+                <entry>Occasional</entry>
+                <entry>Rare</entry>
+                <entry>Rare</entry>
+              </row>
+              <row>
+                <entry>Degree of host inflammatory response</entry>
+                <entry>High</entry>
+                <entry>Low</entry>
+                <entry>Very high</entry>
+                <entry>Low</entry>
+                <entry>High</entry>
+              </row>
+              <row>
+                <entry>Relapses</entry>
+                <entry>No</entry>
+                <entry>No, but recrudescences ≤50 yrs later</entry>
+                <entry>Yes</entry>
+                <entry>Yes</entry>
+                <entry>Not likely<superscript><link linkend="ch0163s000000a0011">b</link></superscript></entry>
+              </row>
+              <row>
+                <entry>Area of endemicity<superscript><link linkend="ch0163s000000a0012">c</link></superscript><anchor id="ch0163s000000a0009"/></entry>
+                <entry>Large range; tropics and subtropics, especially Africa and Asia</entry>
+                <entry>Narrow range; tropics</entry>
+                <entry>Large range; tropics, subtropics, and temperate regions; relatively absent from West Africa</entry>
+                <entry>Tropics; sub–Saharan Africa and Southeast Asia</entry>
+                <entry>Narrow range; Southeast Asia</entry>
+              </row>
+              <row>
+                <entry>Proportion (%) in area of endemicity<superscript><link linkend="ch0163s000000a0012">c</link></superscript></entry>
+                <entry>80–90</entry>
+                <entry>0.5–3</entry>
+                <entry>50–80</entry>
+                <entry>5–8</entry>
+                <entry>1–60</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><link linkend="ch0163s000000a0007">a</link></superscript><anchor id="ch0163s000000a0010"/>Adapted from references <link linkend="ch0163s000000li0014">14</link>, <link linkend="ch0163s000000li0040">40</link>, and <link linkend="ch0163s000000li0137">137</link>.</para>
+        <para role="table-footnote"><superscript><link linkend="ch0163s000000a0008">b</link></superscript><anchor id="ch0163s000000a0011"/>Information is lacking due to the limited number of reported human cases.</para>
+        <para role="table-footnote"><superscript><link linkend="ch0163s000000a0009">c</link></superscript><anchor id="ch0163s000000a0012"/>Refer to the CDC Yellow Book for country-specific information (<link linkend="ch0163s000000li0020">20</link>).</para>
+        <para id="ch0163s000000p0013">Malaria is found primarily in the tropics and subtropics today (<anchor id="ch0163s000000a0014"/><link linkend="ch0163s000000a0006">Table 1</link>). However, it was once widespread throughout many temperate regions, including Europe and North America (<link linkend="ch0163s000000li0016">16</link>, <link linkend="ch0163s000000li0017">17</link>). The Office of Malaria Control in War Areas was established in the United States in 1942 to control malaria and other vector-borne diseases in the country (<link linkend="ch0163s000000li0018">18</link>). This Office was the precursor to the U.S. Centers for Disease Control and Prevention (CDC), which was founded in 1946 with the primary mission of preventing malaria from spreading across the country (<link linkend="ch0163s000000li0018">18</link>). Malaria was eliminated as a significant public health problem in the United States and Europe by the mid-20th century (<link linkend="ch0163s000000li0017">17</link>, <link linkend="ch0163s000000li0018">18</link>). Competent anopheline vectors remain in both countries, but the risk for reintroduction is low due to rapid diagnosis and treatment of imported cases in conjunction with robust public health disease surveillance and vector control measures (<link linkend="ch0163s000000li0019">19</link>).</para>
+        <anchor id="ch0163s000000a0013"/>
+        <beginpage pagenum="2758"/>
+        <para id="ch0163s000000p0014">The<emphasis>Plasmodium</emphasis> parasite is transmitted primarily through the bite of an infected <emphasis>Anopheles</emphasis> mosquito (<anchor id="ch0163s000000a0015"/><link linkend="ch0163s000000a0016">Fig. 1</link>), and competent mosquito vectors are found throughout the world. A list of countries with endemic malaria is available through the CDC Yellow Book (<link linkend="ch0163s000000li0020">20</link>). Today, cases of malaria in the United States and Europe are almost exclusively imported by individuals traveling from countries with ongoing malaria transmission, although occasional autochthonous cases have been reported (<link linkend="ch0163s000000li0021">21</link>–<link linkend="ch0163s000000li0024">24</link>). In the United States, most imported malaria is detected in individuals who travel to countries of endemicity to visit friends and relatives (so-called VFRs) (<link linkend="ch0163s000000li0025">25</link>). These individuals often do not consider themselves to be at risk for malaria and do not commonly seek travel advice from their physician or take malaria prophylaxis (<link linkend="ch0163s000000li0026">26</link>). They also demonstrate behavioral and travel patterns which place them at heightened risk for infection, including travel to remote regions, extended stays, and failure to use insect repellent and insecticide-treated bed nets (<link linkend="ch0163s000000li0026">26</link>). The CDC reported 1,724 cases of malaria with symptom onset in 2014, with five fatalities (<link linkend="ch0163s000000li0025">25</link>). This is similar to the number of cases observed in 2013 (1,741) (<link linkend="ch0163s000000li0025">25</link>). In cases where the purpose of travel was known, VFRs accounted for the largest group of infected individuals (44.9%), followed by refugees/immigrants (8.5%), business representatives (6.6 %), missionaries and their dependents (6.0%), students/teachers (3.9%), and tourists (3.7%) (<link linkend="ch0163s000000li0025">25</link>). <emphasis>P. falciparum</emphasis> was responsible for most cases (66.1%), followed by <emphasis>P. vivax</emphasis> (13.3%), <emphasis>P. ovale</emphasis> (5.2%), and <emphasis>P. malariae</emphasis> (2.7%). The species was not determined in 202 (11.7%) cases, and less than 1% had infections due to two species (<link linkend="ch0163s000000li0025">25</link>).</para>
+        <para id="ch0163s000000p0015">Less common means of malaria transmission are blood transfusion and transplacental transmission. In 2014, the CDC detected no transfusion-related cases of malaria and one congenitally acquired case, making these extremely rare means of transmission in the United States (<link linkend="ch0163s000000li0025">25</link>). In most countries where malaria is not endemic, the blood supply is partially protected through use of screening questionnaires that defer individuals from donating blood if they have recent travel to countries where malaria is endemic or have had malaria recently. In the United States, the American Association of Blood Banks (AABB) previously recommended that individuals traveling to areas of endemicity be deferred from donating blood products for 1 year after their return, while previously infected patients and those living in regions of endemicity for 5 years or more be deferred for 3 years after successful treatment (<link linkend="ch0163s000000li0027">27</link>). In the light of significant blood shortages due to the COVID-19 pandemic, these guidelines were recently updated to shorten the deferral period from 1 year to 3 months after traveling to an area of malaria endemicity (<link linkend="ch0163s000000li0028">28</link>). Platelets and plasma can also be collected and processed using a Food and Drug Administration (FDA)-approved pathogen reduction device effective against <emphasis>P. falciparum.</emphasis> The guidelines for previously infected individuals and those living in regions where malaria is endemic remain unchanged (<link linkend="ch0163s000000li0028">28</link>). In some European countries and Australia, antigen detection methods are used to screen individuals with possible exposure to malaria, thus shortening the potential deferral time; in comparison, there are no assays that are approved or cleared by the FDA in the United States for donor blood malaria screening (<link linkend="ch0163s000000li0027">27</link>, <link linkend="ch0163s000000li0028">28</link>).</para>
+        <figure id="ch0163s000000f0001"><title><phrase role="figureLabel"><anchor id="ch0163s000000a0016"/><link linkend="ch0163s000000a0015"><emphasis role="strong">FIGURE 1</emphasis></link></phrase> The <emphasis>Plasmodium</emphasis> parasite is transmitted to humans when an infected female <emphasis>Anopheles</emphasis> mosquito takes a blood meal and inoculates sporozoites into the bloodstream (step 1). Sporozoites infect hepatocytes (step 2) and undergo asexual reproduction to form schizonts (step 3) in a process called exoerythrocytic schizogony (A). After 5 to 15 days, liver schizonts rupture to release hundreds of thousands of merozoites into the blood (step 4), which then infect erythrocytes (step 5). <emphasis>P. vivax</emphasis> and <emphasis>P. ovale</emphasis> have a dormant hypnozoite stage which may remain in the liver and cause relapsing disease weeks to months later, while other human <emphasis>Plasmodium</emphasis> species do not have this stage. In erythrocytes, merozoites undergo asexual reproduction to form trophozoites and then schizonts in a process called erythrocytic schizogony (B). Schizonts rupture to release merozoites, which then infect other erythrocytes (step 6). This process is repeated every 1 to 3 days, resulting in the production of thousands to millions of infected erythrocytes in several days. Some merozoite-infected erythrocytes do not undergo asexual reproduction but instead develop into male microgametocytes and female macrogametocytes (step 7). When ingested by a female <emphasis>Anopheles</emphasis> mosquito during a blood meal (<link linkend="ch0163s000000li0008">8</link>), microgametocytes exflagellate to release microgametes, which penetrate macrogametes and form zygotes (step 9) via sexual reproduction in the sporogonic cycle (C). Zygotes become motile and elongated to form ookinetes (step 10), which invade the mosquito’s midgut wall and develop into oocysts (step 11). Over a period of 8 to 15 days, oocysts grow, rupture, and release thousands of sporozoites (step 12), which travel to the mosquito’s salivary glands to be inoculated into a new human host during the mosquito’s next blood meal (step 1). Image courtesy of the CDC DPDx (<ulink url="http://www.cdc.gov/dpdx/">http://www.cdc.gov/dpdx/</ulink>).
+</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0163f13.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </sect2>
+      <sect2 id="ch0163s0001s0004">
+        <title>Clinical Significance</title>
+        <anchor id="ch0163s010004a0001"/>
+        <anchor id="ch0163s000000a0017"/>
+        <anchor id="ch0163s000000a0018"/>
+        <anchor id="ch0163s000000a0019"/>
+        <para id="ch0163s000000p0016">Patients are asymptomatic for the initial 7- to 30-day (or longer) incubation period, during which parasites replicate in the liver (<link linkend="ch0163s000000li0029">29</link>–<link linkend="ch0163s000000li0031">31</link>). It is only with the emergence of parasites from the liver and into the bloodstream that symptoms occur due to destruction of host erythrocytes, release of parasite antigens, and subsequent host cytokine production (<link linkend="ch0163s000000li0031">31</link>). The classic malarial fever paroxysm lasts 6 to 10 h and begins with rigors and chills, followed by an abrupt onset of fever (<link linkend="ch0163s000000li0031">31</link>). The paroxysm resolves with profuse sweating and a return to normal temperature. With time, infected cells may begin to rupture in synchrony, producing the classic (but infrequently observed) tertian or quartan fever cycles (<link linkend="ch0163s000000a0006">Table 1</link>). Fever is commonly preceded or accompanied by severe headache, malaise, and myalgias (<link linkend="ch0163s000000li0031">31</link>).</para>
+        <para id="ch0163s000000p0017">The signs and symptoms of malaria are nonspecific and may mimic those of many other febrile conditions. Therefore, malaria must always be in the differential diagnosis when patients with exposure to regions of malaria endemicity are evaluated, even when the primary presenting manifestations are respiratory or gastrointestinal in nature (<link linkend="ch0163s000000li0004">4</link>, <link linkend="ch0163s000000li0031">31</link>). Infection can range from mild or asymptomatic disease, usually in individuals with preexisting immunity, to severe, life-threatening disease. Severe malaria is associated with high mortality and is defined by the presence of one of more features, including impaired consciousness, multiple convulsions, respiratory distress, shock, abnormal bleeding, jaundice, hypoglycemia, acidosis, severe anemia, renal impairment, hyperlactatemia, and hyperparasitemia (more than 100,000 parasites/μl of blood) (<link linkend="ch0163s000000li0029">29</link>, <link linkend="ch0163s000000li0032">32</link>). Young children, nonimmune individuals, and pregnant women and their fetuses are at greatest risk of severe disease (<link linkend="ch0163s000000li0032">32</link>).</para>
+        <para id="ch0163s000000p0018"><emphasis>P. falciparum</emphasis> infection has the highest morbidity and mortality of the four human <emphasis>Plasmodium</emphasis> species, being responsible for nearly all cases of severe malaria and malaria deaths worldwide (<link linkend="ch0163s000000li0032">32</link>). <emphasis>P. knowlesi</emphasis> and, less commonly, <emphasis>P. vivax</emphasis> can also cause fatal infections (<link linkend="ch0163s000000li0032">32</link>). The high morbidity and mortality of <emphasis>P. falciparum</emphasis> infection are attributed in part to the parasite’s ability to infect and destroy all stages of erythrocytes, leading to high levels of parasitemia and resultant severe anemia, splenomegaly, and jaundice. In contrast, the other <emphasis>Plasmodium</emphasis> species preferentially infect older erythrocytes (<emphasis>P. malariae</emphasis>) or young erythrocytes (<emphasis>P. vivax</emphasis> and <emphasis>P. ovale</emphasis>) and cause a lesser degree of total erythrocyte destruction (<link linkend="ch0163s000000li0029">29</link>–<link linkend="ch0163s000000li0031">31</link>).</para>
+        <para id="ch0163s000000p0019"><emphasis>P. falciparum</emphasis> virulence is also attributed to a phenomenon called cytoadherence, accomplished through insertion of parasite-derived adhesion molecules from the <emphasis>P. falciparum</emphasis> erythrocyte membrane protein 1 (<emphasis>Pf</emphasis>EMP1) family onto the surface of infected erythrocytes during later stages of parasite development. The <emphasis>Pf</emphasis>EMP1 molecules allow clumping of uninfected erythrocytes around infected erythrocytes (rosetting) and receptor-mediated cytoadherence of infected erythrocytes to endothelial cells (sequestration) (<link linkend="ch0163s000000li0033">33</link>). Accumulation of infected erythrocytes within the microvasculature is associated with metabolic acidosis, hypoxia, and release of detrimental inflammatory cytokines, particularly in the lung, kidney, and brain. During pregnancy, a special form of cytoadhesion occurs between infected erythrocytes and syncytiotrophoblasts in the placenta (<link linkend="ch0163s000000li0033">33</link>). Symptoms resulting from the high <emphasis>P. falciparum</emphasis> parasitemia and sequestration in the microvasculature include acute renal failure, respiratory distress, abortion, intrauterine growth retardation, mental status changes, coma, and death. Other <emphasis>Plasmodium</emphasis> species do not sequester and generally cause less severe disease (<link linkend="ch0163s000000li0030">30</link>). Prior to the advent of highly effective artemisinin combination treatments (ACT), even uncomplicated falciparum malaria was associated with a case-specific mortality rate of 0.1%, and delays in treatment or drug resistance increased the mortality rate to approximately 1%. Today, the mortality rate associated with uncomplicated falciparum malaria is less than 1% when ACT is used (<link linkend="ch0163s000000li0034">34</link>). Rapid treatment is essential for patients with severe malaria, as the mortality approaches 100% without effective antimalarial treatment, particularly in patients with cerebral involvement. With prompt treatment, the mortality rate of patients with cerebral malaria is approximately 10 to 20% (<link linkend="ch0163s000000li0032">32</link>).</para>
+        <para id="ch0163s000000p0020">Additional species-associated manifestations include splenic rupture (<emphasis>P. vivax</emphasis>), nephrotic syndrome (<emphasis>P. malariae</emphasis> in children), hypoglycemia (<emphasis>P. falciparum</emphasis> in children), extensive erythrocyte destruction with hemoglobinuria and kidney failure (blackwater fever; <emphasis>P. falciparum</emphasis>), recrudescent disease (<emphasis>P. malariae</emphasis>), and relapses due to reactivation of hypnozoites in the liver (<emphasis>P. ovale</emphasis> and <emphasis>P. vivax</emphasis>) (<link linkend="ch0163s000000li0031">31</link>, <link linkend="ch0163s000000li0032">32</link>).</para>
+      </sect2>
+      <sect2 id="ch0163s0001s0005">
+        <title>Collection, Transport, and Storage of Specimens</title>
+        <anchor id="ch0163s010005a0001"/>
+        <anchor id="ch0163s000000a0020"/>
+        <para id="ch0163s000000p0021">Since<emphasis>P. falciparum</emphasis> infection can cause rapidly progressive, fatal disease, blood collection and testing for malaria should always be performed on a stat basis (<link linkend="ch0163s000000li0035">35</link>–<link linkend="ch0163s000000li0037">37</link>). Preparation of thick and thin blood films is considered the gold standard for diagnosis of malaria. If a laboratory does not have the expertise to perform examination of thin and thick blood films, then consideration should be given to use of rapid antigen tests for preliminary screening (see “Clinical and Laboratory Diagnosis,” below) or rapid transport to a neighboring laboratory that can receive and test the blood shortly after it is drawn. Testing options for malaria should be available 7 days a week on a 24-h basis (<link linkend="ch0163s000000li0036">36</link>–<link linkend="ch0163s000000li0038">38</link>).</para>
+        <para id="ch0163s000000p0022">Blood may be collected via finger prick with immediate (bedside) preparation of thick and thin smears. However, it is more common in settings where malaria is not endemic to collect blood by venipuncture for rapid transport to the laboratory (<link linkend="ch0163s000000li0036">36</link>). EDTA is the preferred anticoagulant, as the use of other anticoagulants such as heparin may cause significant parasite distortion (<link linkend="ch0163s000000li0036">36</link>). Prolonged storage in EDTA may also cause parasite distortion, parasite maturation into sexual life cycle stages, and loss of diagnostic features such as stippling; therefore, blood films should be prepared within 1 h of collection (<link linkend="ch0163s000000li0036">36</link>, <link linkend="ch0163s000000li0038">38</link>). A single set of blood films may be insufficient to detect <emphasis>Plasmodium</emphasis> parasites. The Clinical and Laboratory Standards Institute (CLSI) recommends preparation of two thin and two thick blood films upon initial evaluation of the patient, with preparation and examination of repeat films every 6 to 8 h if necessary for up to 3 days before excluding malaria from the clinical differential diagnosis (<link linkend="ch0163s000000li0036">36</link>). Similarly, the CDC recommends that repeat blood films be examined for nonimmune individuals every 12 to 24 h for a total of three evaluations before malaria is ruled out (<link linkend="ch0163s000000li0031">31</link>).</para>
+        <para id="ch0163s000000p0023">Additional EDTA whole blood may be refrigerated for supplemental testing such as PCR if necessary. Unfortunately, parasite morphology rapidly degrades in stored blood and may not be adequate for later identification or species determination by morphologic methods.<ulink url="ch0160#ch0160s0001">Chapter 137</ulink> of this <emphasis>Manual</emphasis> (<link linkend="ch0163s000000li0036">36</link>) and the <emphasis>Clinical Microbiology Procedures Handbook</emphasis> (<link linkend="ch0163s000000li0038">38</link>) provide detailed directions for collecting and preparing blood films. Requests for blood films should be accompanied by important patient information, such as clinical signs and symptoms, travel history, and receipt of malaria chemoprophylaxis or therapeutic antimalarial agents which might suppress parasitemia or alter parasite morphology.</para>
+        <anchor id="ch0163s000000a0021"/>
+        <beginpage pagenum="2761"/>
+      </sect2>
+      <sect2 id="ch0163s0001s0006">
+        <title>Clinical and Laboratory Diagnosis</title>
+        <anchor id="ch0163s010006a0001"/>
+        <anchor id="ch0163s000000a0022"/>
+        <para id="ch0163s000000p0024">Clinical features alone are not diagnostic for malaria, and thus, parasite-specific testing is recommended for definitive diagnosis (<link linkend="ch0163s000000li0032">32</link>). A number of different modalities may be used for laboratory diagnosis of malaria, of which microscopic examination of thick and thin blood films remains the gold standard (<link linkend="ch0163s000000li0032">32</link>, <link linkend="ch0163s000000li0037">37</link>). Rapid antigen detection tests are also widely available and form an integral part of the WHO’s strategy for combating malaria worldwide (<link linkend="ch0163s000000li0004">4</link>, <link linkend="ch0163s000000li0032">32</link>). When available, molecular amplification techniques may also be used for sensitive and specific detection of infection (<link linkend="ch0163s000000li0039">39</link>). Serology plays only a small role in diagnosis of acute infection but is used for blood donor screening and epidemiologic studies (<link linkend="ch0163s000000li0040">40</link>).</para>
+      </sect2>
+      <sect2 id="ch0163s0001s0007">
+        <title>Direct Examination</title>
+        <anchor id="ch0163s010007a0001"/>
+        <anchor id="ch0163s000000a0023"/>
+        <sect3 id="ch0163s0001s0007s0001">
+          <title>Microscopy</title>
+          <anchor id="ch0163s010007a0002"/>
+          <anchor id="ch0163s000000a0024"/>
+          <sect4 id="ch0163s0001s0007s0001s0001">
+            <title>Giemsa-Stained Blood Films</title>
+            <anchor id="ch0163s010007a0003"/>
+            <anchor id="ch0163s000000a0025"/>
+            <para id="ch0163s000000p0025">Microscopic examination of Giemsa-stained thick and thin blood films is the gold standard method for malaria diagnosis (<link linkend="ch0163s000000li0032">32</link>). Accurate interpretation of this time-honored method relies on the availability of trained and experienced microscopists, high-quality reagents, and well-maintained light microscopes. The thick film contains 1 or 2 drops of blood that have been lysed (laked) on the slide by placement into a hypotonic solution (<link linkend="ch0163s000000li0036">36</link>, <link linkend="ch0163s000000li0038">38</link>). This releases intracellular parasites and allows examination of 20 to 30 layers of blood. The thick blood film is approximately 10 to 20 times more sensitive than the thin film, with a reported detection threshold of 10 to 50 parasites/μl of blood, or approximately 0.0002 to 0.001% parasitemia, assuming a total erythrocyte count of 5 × 10<superscript>6</superscript>/μl of blood (<link linkend="ch0163s000000li0041">41</link>). Given this high sensitivity, the thick film is ideal for screening and parasite detection. Under field conditions, the estimated sensitivity may be somewhat lower (100 to 500 parasites/μl of blood) (<link linkend="ch0163s000000li0041">41</link>, <link linkend="ch0163s000000li0042">42</link>).</para>
+            <para id="ch0163s000000p0026">Given the greater sensitivity of the thick film than the thin film, efforts should be made to quickly prepare and examine a thick film so that it can be used as the primary screening method. A common mistake is to use too much blood on the slide, thus requiring longer times for the film to dry. A well-made thick film should be approximately 1.5 to 2.0 cm in diameter and of such a thickness that newsprint can barely be read through it (<link linkend="ch0163s000000li0036">36</link>). Drying of the thick film can be enhanced by placing the slides in a laminar flow hood or under the gentle breeze from a fan. Exposure to heat is not recommended, since it may cause fixation of the blood and interfere with the laking process (<link linkend="ch0163s000000li0036">36</link>). Gently scratching grooves into the carrier slide with the edge of another glass slide while spreading the blood to the appropriate diameter will facilitate adhesion to the slide and obviate extended drying times without negatively impacting the microscopic morphology (<link linkend="ch0163s000000li0038">38</link>, <link linkend="ch0163s000000li0043">43</link>); films may be safely stained as soon as the film is visibly dry (generally within 30 min).</para>
+            <para id="ch0163s000000p0027">Thin films are made in the same manner as hematology blood films. A single drop of blood is spread on the slide in such a manner as to produce a feathered edge. The films are then fixed in methanol prior to staining (<link linkend="ch0163s000000li0036">36</link>, <link linkend="ch0163s000000li0038">38</link>).</para>
+            <para id="ch0163s000000p0028">Staining of thick and thin films is best performed with Giemsa stain at a pH of 7.0 to 7.2 to highlight potential stippling and other features of the parasites (<link linkend="ch0163s000000li0036">36</link>) (see <ulink url="ch0161#ch0161s0001">chapter 138</ulink> for further information on malaria stains). Wright-Giemsa stain may also be used, but such staining is typically performed at a pH of 6.8, which will not adequately highlight Schüffner’s stippling and Maurer’s clefts. The Field stain is useful for rapid diagnosis but is not recommended for routine use in settings of nonendemicity (<link linkend="ch0163s000000li0038">38</link>, <link linkend="ch0163s000000li0040">40</link>). The CDC provides additional guidance for processing specimens when hemorrhagic fever viruses such as Ebola virus are suspected (<ulink url="https://www.cdc.gov/vhf/ebola/healthcare-us/laboratories/safe-specimen-management.html">https://www.cdc.gov/vhf/ebola/healthcare-us/laboratories/safe-specimen-management.html</ulink>). After staining, a well-prepared thick film should have a relatively clean background of lysed erythrocytes, leukocyte nuclei, and platelets, while thin films will demonstrate pale blue-gray to light pink erythrocytes and a well-formed feathered edge. Parasites will have pale to deep blue cytoplasm and pink-red chromatin (<link linkend="ch0163s000000li0036">36</link>).</para>
+            <para id="ch0163s000000p0029">Both thick and thin slides should first be screened at low power using the 10× objective for identification of microfilariae, followed by examination under oil immersion with the 100× objective (<link linkend="ch0163s000000li0036">36</link>). Examination of 200 to 300 microscopic fields on thick and thin films using the 100× objective should be performed before a specimen is reported as negative (<link linkend="ch0163s000000li0036">36</link>). Considerable practice is required to accurately differentiate parasites from platelets, stain debris, and leukocyte granules on the thick film (<anchor id="ch0163s000000a0026"/><link linkend="ch0163s000000a0031">Fig. 2</link>), but the additional training effort is rewarded by the increased sensitivity that this method provides. The species of the infecting organism can be determined using the thick film, but this is best accomplished using the thin film. Thin films provide ideal erythrocyte and parasite morphology for species determination, since they are fixed in methanol prior to staining, thus maintaining the structure of the erythrocytes and intraerythrocytic parasites (<link linkend="ch0163s000000li0036">36</link>). The area of the thin film that provides optimal parasite morphology is where the erythrocytes have minimal overlap and maintain their central pallor (<anchor id="ch0163s000000a0027"/><link linkend="ch0163s000000a0032">Fig. 3</link>); parasites outside this region may be considerably distorted. Species determination is made using a number of morphologic features, including the size and shape of the infected erythrocyte, presence of intracytoplasmic inclusions (e.g., stippling), stages of the parasite present in peripheral blood, and specific characteristics of each parasite stage (<anchor id="ch0163s000000a0028"/><link linkend="ch0163s000000a0037">Table 2</link>; <anchor id="ch0163s000000a0029"/><link linkend="ch0163s000000a0042">Fig. 4</link> to <anchor id="ch0163s000000a0030"/><link linkend="ch0163s000000a0050">8</link>). Atlases and other resources for differentiating the various <emphasis>Plasmodium</emphasis> species are widely available (<link linkend="ch0163s000000li0035">35</link>, <link linkend="ch0163s000000li0040">40</link>, <link linkend="ch0163s000000li0044">44</link>–<link linkend="ch0163s000000li0046">46</link>).</para>
+            <figure id="ch0163s000000f0002"><title><phrase role="figureLabel"><anchor id="ch0163s000000a0031"/><link linkend="ch0163s000000a0026"><emphasis role="strong">FIGURE 2</emphasis></link></phrase> <emphasis>Plasmodium</emphasis> morphology on thick blood films encompasses the entire spectrum of forms, including trophozoites, schizonts, and gametocytes. Shown are <emphasis>P. falciparum</emphasis> early trophozoites in a moderate (panel 1) and heavy (panel 2) infection, <emphasis>P. vivax</emphasis> early trophozoites (panel 3), <emphasis>P. malariae</emphasis> (panel 4) and <emphasis>P. vivax</emphasis> (panel 5) schizonts, and <emphasis>P. falciparum</emphasis> (panel 6), <emphasis>P. malariae</emphasis> (panel 7), and <emphasis>P. vivax</emphasis> (panel 8) gametocytes. Neutrophils are shown for size comparison in panels 4 and 7. (Giemsa stain; magnification, ×1,000.)
+</title>
+              
+              <mediaobject>
+                <imageobject>
+                  <imagedata fileref="Ch0163f02.jpg" width="100%" scalefit="1"/>
+                </imageobject>
+              </mediaobject>
+            </figure>
+            <figure id="ch0163s000000f0003"><title><phrase role="figureLabel"><anchor id="ch0163s000000a0032"/><link linkend="ch0163s000000a0027"><emphasis role="strong">FIGURE 3</emphasis></link></phrase> The ideal location for microscopic examination of a thin film is the region of the feathered edge where the erythrocytes have minimal overlap and maintain their central pallor (bottom, middle). In this location, the erythrocyte infected with <emphasis>P. ovale</emphasis> is clearly enlarged and ovoid. When examining similar cells in regions of the film that are too thin (bottom, left) or thick (bottom, right), the morphology is distorted and may be misleading.
+</title>
+              
+              <mediaobject>
+                <imageobject>
+                  <imagedata fileref="Ch0163f14.jpg" width="100%" scalefit="1"/>
+                </imageobject>
+              </mediaobject>
+            </figure>
+            <anchor id="ch0163s000000a0033"/>
+            <beginpage pagenum="2762"/>
+            <para id="ch0163s000000p0030">The size of the infected erythrocytes is a particularly important feature for determining the infecting<emphasis>Plasmodium</emphasis> species, since enlarged infected erythrocytes are characteristic of <emphasis>P. ovale</emphasis> and <emphasis>P. vivax</emphasis> infection, particularly in the later parasite stages, while small to normal-sized infected erythrocytes are characteristic of <emphasis>P. malariae</emphasis> and <emphasis>P. falciparum</emphasis> infection. Thus, the size of the infected cells can quickly allow the microscopist to halve the number of species in their differential. The presence of Schüffner’s stippling supports the diagnosis of <emphasis>P. ovale</emphasis> and <emphasis>P. vivax</emphasis> infection. Care must be taken, however, not to confuse the finer Schüffner’s dots with the larger, coarser Maurer’s clefts that may occur in <emphasis>P. falciparum</emphasis> infections. Stippling and Maurer’s clefts are most commonly seen when smears are made shortly after blood collection and the pH of the Giemsa stain is 7.0 to 7.2 (<link linkend="ch0163s000000li0036">36</link>–<link linkend="ch0163s000000li0038">38</link>).</para>
+            <para id="ch0163s000000p0031">The life cycle stages present are also very useful for species identification. Infection with<emphasis>P. falciparum</emphasis> usually consists solely of early trophozoites (rings) and, less commonly, gametocytes; intermediate stages (maturing trophozoites and schizonts) are only rarely seen, since they are sequestered in the microvascular beds. When intermediate stages of <emphasis>P. falciparum</emphasis> are present, they may indicate severe, overwhelming infection. In contrast to <emphasis>P. falciparum</emphasis>, a spectrum of forms including late stage trophozoites and schizonts are commonly seen with other species (<link linkend="ch0163s000000li0040">40</link>).</para>
+            <para id="ch0163s000000p0032">When peripheral blood films are examined, it is important to remember that mixed malaria infections are occasionally seen and that<emphasis>P. falciparum</emphasis> may be found in conjunction with less virulent species in the same patient. It is also important to remember that other microorganisms may be seen on peripheral blood films such as <emphasis>Babesia</emphasis> intraerythrocytic parasites (see the section on <emphasis>Babesia</emphasis> below) and extracellular microfilariae (<ulink url="ch0171#ch0171s0001">chapter 148</ulink>), trypanosomes (<ulink url="ch0164#ch0164s0001">chapter 141</ulink>), and <emphasis>Borrelia</emphasis> spirochetes (<ulink url="ch0079#ch0079s0001">chapter 62</ulink>). Intraleukocytic <emphasis>Ehrlichia</emphasis>/<emphasis>Anaplasma</emphasis> morulae may also be seen on the peripheral blood film, although PCR is the preferred method for detection of these bacteria (see <ulink url="ch0085#ch0085s0001">chapter 68</ulink>).</para>
+            <para id="ch0163s000000p0033">When<emphasis>Plasmodium</emphasis> species are identified, it is important to quantify the degree of parasitemia to help guide initial therapy, predict patient prognosis, and monitor response to treatment. This may be done using either the thin or thick film, and formulas for this purpose are widely available (<link linkend="ch0163s000000li0035">35</link>, <link linkend="ch0163s000000li0036">36</link>, <link linkend="ch0163s000000li0040">40</link>, <link linkend="ch0163s000000li0044">44</link>, <link linkend="ch0163s000000li0047">47</link>). When the thick film is used for quantification, it is common practice to express the number of parasites in relation to a standard number of leukocytes per microliter of blood (8,000/μl), although it is preferable to substitute the patient’s actual leukocyte count when known. Results are reported as the number of parasites per microliter of blood. When the thin film is used, results are reported as the percent infected erythrocytes in the fields examined (number of infected cells counted/total number of erythrocytes counted × 100). When calculating the degree of parasitemia with either the thick or thin film, it is important to not include parasite sexual stages (gametocytes) in the total count, since they are not infectious to humans and are not killed by most antimalarial drugs. With the thin film, it is also important to count consecutive fields, even if they do not include parasites, and to not count extracellular parasites. Erythrocytes containing more than one parasite are counted as only a single infected cell. Regardless of the method used for calculating the degree of parasitemia, it is important to use the same method for initial and posttreatment specimens (<link linkend="ch0163s000000li0037">37</link>, <link linkend="ch0163s000000li0042">42</link>). Given the possibility of interobserver variability, it may be prudent to limit the number of individuals performing the assessment on sequential specimens from the same patient.</para>
+          </sect4>
+          <sect4 id="ch0163s0001s0007s0001s0002">
+            <title>Other Methods</title>
+            <anchor id="ch0163s010007a0004"/>
+            <anchor id="ch0163s000000a0034"/>
+            <para id="ch0163s000000p0034">Other microscopic methods are less commonly used for the identification of malaria parasites in whole blood, including stains for nucleic acid and hemozoin (<anchor id="ch0163s000000a0035"/><link linkend="ch0163s000000a0052">Table 3</link>). Of these, the most commonly used is acridine orange (AO), a DNA-binding fluorescent dye that is excited at 490 nm, producing a yellow or apple green fluorescence (<link linkend="ch0163s000000li0042">42</link>). Use of this method requires a fluorescence microscope or light microscope with appropriate adaptor. Identification of infected cells is relatively straightforward, since mature erythrocytes lack DNA and do not produce a fluorescent signal, while parasites contain DNA and fluoresce brightly. However, leukocyte nuclei and Howell-Jolly bodies within erythrocytes will also fluoresce, occasionally making identification of low parasite levels challenging. A number of studies found AO staining to have a similar sensitivity and specificity to traditional Giemsa-stained thick films, with the ability to reliably detect &lt;100 parasites/μl, or 0.002% parasitemia (<link linkend="ch0163s000000li0042">42</link>). This method may also allow more rapid screening than traditional Giemsa-stained films (<link linkend="ch0163s000000li0041">41</link>, <link linkend="ch0163s000000li0042">42</link>, <link linkend="ch0163s000000li0048">48</link>). Another technique that uses AO staining is the centrifugal quantitative buffy coat (QBC) technique (Drucker Diagnostics, Philipsburg, PA). In this method, whole blood is stained with AO and spun in a microhematocrit tube that contains an internal float. The buffy coat and adjacent red blood cell layer in the microcentrifuge tube are then directly examined using a fluorescence microscope with a specialized long-focal-length objective (<link linkend="ch0163s000000li0042">42</link>). Clinical studies using the QBC show the best sensitivity and specificity for detecting <emphasis>P. falciparum</emphasis>, since the early trophozoites are easily identified within the red-cell layer (<link linkend="ch0163s000000li0042">42</link>). Lower sensitivities have been reported for other species, since mature trophozoites, schizonts, and gametocytes of these parasites may be hidden in the granulocyte layer. Also, the early trophozoites of all species may be indistinguishable, and thus, definitive species identification is not always possible. When any of the DNA-binding fluorescent dyes are used, it is important not to mistake positively staining nuclear debris and Howell-Jolly bodies for parasites (<link linkend="ch0163s000000li0042">42</link>).</para>
+            <anchor id="ch0163s000000a0036"/>
+            <beginpage pagenum="2763"/>
+            <table id="ch0163s000000t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0163s000000a0037"/><link linkend="ch0163s000000a0028">TABLE 2</link></phrase></emphasis> Comparative morphology of <emphasis>Plasmodium</emphasis> spp. in Giemsa-stained thin films<superscript><link linkend="ch0163s000000a0040">a</link></superscript><anchor id="ch0163s000000a0038"/>
+</title>
+              
+              <tgroup cols="6">
+                <tbody>
+                  <row>
+                    <entry>Diagnostic criteria</entry>
+                    <entry><emphasis>Plasmodium falciparum</emphasis>
+                    </entry>
+                    <entry><emphasis>Plasmodium malariae<superscript><link linkend="ch0163s000000a0041">b</link></superscript></emphasis>
+                      <anchor id="ch0163s000000a0039"/>
+                    </entry>
+                    <entry><emphasis>Plasmodium vivax</emphasis>
+                    </entry>
+                    <entry><emphasis>Plasmodium ovale</emphasis>
+                    </entry>
+                    <entry><emphasis>Plasmodium knowlesi</emphasis>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>Size and shape of infected erythrocytes</entry>
+                    <entry>Normal size and shape</entry>
+                    <entry>Normal or slightly smaller size, normal shape</entry>
+                    <entry>Normal or enlarged size, may appear molded against neighboring erythrocytes</entry>
+                    <entry>Normal or enlarged size, frequently oval, may be fimbriated</entry>
+                    <entry>Normal size and shape</entry>
+                  </row>
+                  <row>
+                    <entry>Cytoplasmic inclusions</entry>
+                    <entry>Occasional Maurer’s clefts; larger “comma shaped,” and less numerous than Schüffner’s dots</entry>
+                    <entry>Ziemann’s dots rarely seen; requires deliberate overstaining</entry>
+                    <entry>Schüffner’s dots/stippling; may not be present in early trophozoites</entry>
+                    <entry>Dark Schüffner’s/James’ dots/stippling; may not be present in early trophozoites</entry>
+                    <entry>Irregular stippling in late trophozoites and schizonts</entry>
+                  </row>
+                  <row>
+                    <entry>Parasite stages in peripheral blood</entry>
+                    <entry>Early trophozoites and gametocytes</entry>
+                    <entry>All stages</entry>
+                    <entry>All stages</entry>
+                    <entry>All stages</entry>
+                    <entry>All stages</entry>
+                  </row>
+                  <row>
+                    <entry>Multiply infected erythrocytes</entry>
+                    <entry>Common</entry>
+                    <entry>Rare</entry>
+                    <entry>Occasional</entry>
+                    <entry>Occasional</entry>
+                    <entry>Common</entry>
+                  </row>
+                  <row>
+                    <entry>Early trophozoite characteristics</entry>
+                    <entry>Delicate rings, &lt;1/3 diameter of the erythrocyte, frequently with double chromatin dots (“headphone” form); often at edge of erythrocyte (“appliqué/accolé” form)</entry>
+                    <entry>Rings ≤1/3 diameter of the erythrocyte; chromatin dot may appear unattached in center of ring (“bird’s eye” form)</entry>
+                    <entry>Rings ≥1/3 diameter of the erythrocyte; larger chromatin dot than<emphasis>P. falciparum</emphasis></entry>
+                    <entry>Rings ≥1/3 diameter of the erythrocyte; similar to<emphasis>P. vivax</emphasis></entry>
+                    <entry>Rings ≤1/3 diameter of the erythrocyte; double chromatin dots, rare appliqué forms; resembles<emphasis>P. falciparum</emphasis> early trophozoites</entry>
+                  </row>
+                  <row>
+                    <entry>Mature trophozoites</entry>
+                    <entry>Not typically seen in peripheral blood, compact thick rings</entry>
+                    <entry>Compact cytoplasm, round, oval, basket or band shaped, dark brown pigment</entry>
+                    <entry>Ameboid trophozoites, fine golden-brown pigment</entry>
+                    <entry>More compact and less ameboid than<emphasis>P. vivax</emphasis>, dark brown pigment</entry>
+                    <entry>Slightly ameboid; band forms common; scattered clumps of golden-brown pigment; resembles<emphasis>P. malariae</emphasis> mature trophozoites</entry>
+                  </row>
+                  <row>
+                    <entry>Schizont characteristics</entry>
+                    <entry>Not typically seen in peripheral blood; 8–24 merozoites</entry>
+                    <entry>6–12 merozoites, often radially arranged around central pigment (“rosette” or “daisy head” schizont)</entry>
+                    <entry>12–24 merozoites</entry>
+                    <entry>6–14 merozoites</entry>
+                    <entry>10–16 merozoites</entry>
+                  </row>
+                  <row>
+                    <entry>Gametocyte characteristics</entry>
+                    <entry>Crescent or banana shaped; distorting the shape of the erythrocyte</entry>
+                    <entry>Round to oval; filling most of the erythrocyte</entry>
+                    <entry>Round to oval; filling most of the erythrocyte</entry>
+                    <entry>Round to oval; filling most of the erythrocyte</entry>
+                    <entry>Round to oval; filling most of the erythrocyte</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <para role="table-footnote"><superscript><link linkend="ch0163s000000a0038">a</link></superscript><anchor id="ch0163s000000a0040"/>Adapted from references <link linkend="ch0163s000000li0014">14</link>, <link linkend="ch0163s000000li0040">40</link>, and <link linkend="ch0163s000000li0137">137</link>.</para>
+            <para role="table-footnote"><superscript><link linkend="ch0163s000000a0039">b</link></superscript><anchor id="ch0163s000000a0041"/>Identification of <emphasis>P. malariae</emphasis> in patients with recent travel to southeast Asia should raise the possibility of <emphasis>P. knowlesi</emphasis> infection, given the morphologic similarities of these two parasites. In this situation, severe clinical disease and a high parasite burden are consistent with <emphasis>P. knowlesi</emphasis> infection.</para>
+            <figure id="ch0163s000000f0004"><title><phrase role="figureLabel"><anchor id="ch0163s000000a0042"/><link linkend="ch0163s000000a0029"><emphasis role="strong">FIGURE 4</emphasis></link></phrase> Successive developmental <emphasis>P. falciparum</emphasis> stages in Giemsa-stained thin blood films, including early stage trophozoites/rings with a “headphone” form (panel 1), rings with Maurer’s clefts (panel 2), rings with appliqué forms and Maurer’s clefts (panel 3), maturing trophozoites (panel 4), early-stage schizont (panel 5), mature schizont (panel 6) (courtesy of the CDC DPDx), macrogametocyte (panel 7), and microgametocyte (panel 8). Rings (panels 1 to 3) and, less commonly, gametocytes (panels 7 and 8) are found in peripheral blood, while other stages (panels 4 to 6) are typically sequestered in the microvasculature.
+</title>
+              
+              <mediaobject>
+                <imageobject>
+                  <imagedata fileref="Ch0163f15.jpg" width="100%" scalefit="1"/>
+                </imageobject>
+              </mediaobject>
+            </figure>
+            <figure id="ch0163s000000f0005"><title><anchor id="ch0163s000000a0043"/><phrase role="figureLabel"><emphasis role="strong">FIGURE 5</emphasis></phrase> Successive developmental <emphasis>P. malariae</emphasis> stages in Giemsa-stained thin blood films, including early-stage trophozoite/ring form (panel 1), “bird’s eye” ring form (panel 2), mature trophozoites with “basket” form (panel 3), mature trophozoite with “band” form (panel 4), mature schizont (panel 5), mature schizont showing rosette form with central pigment (panel 6), macrogametocyte (panel 7), and microgametocyte (panel 8).
+</title>
+              
+              <mediaobject>
+                <imageobject>
+                  <imagedata fileref="Ch0163f16.jpg" width="100%" scalefit="1"/>
+                </imageobject>
+              </mediaobject>
+            </figure>
+            <para id="ch0163s000000p0035">Rarely, malaria pigment (hemozoin) is detected via dark-field microscopy or in histologic tissue sections. In tissue sections, the pigment is concentrated within infected sequestered erythrocytes and macrophages in the capillaries of infected organs, such as the lung, kidney, liver, brain, and placenta (<anchor id="ch0163s000000a0045"/><link linkend="ch0163s000000a0057">Fig. 9</link>).</para>
+            <anchor id="ch0163s000000a0044"/>
+            <beginpage pagenum="2764"/>
+          </sect4>
+        </sect3>
+        <sect3 id="ch0163s0001s0007s0002">
+          <title>Antigen Detection</title>
+          <anchor id="ch0163s010007a0005"/>
+          <anchor id="ch0163s000000a0046"/>
+          <para id="ch0163s000000p0036">Within the past decade, there has been a marked expansion of commercially available immunochromatographic tests for rapid detection of<emphasis>Plasmodium</emphasis> antigens (<link linkend="ch0163s000000li0049">49</link>). These tests, commonly referred to as rapid diagnostic tests (RDTs), are rapid and relatively easy to use, and many are stable under field conditions (<link linkend="ch0163s000000li0032">32</link>).</para>
+          <figure id="ch0163s000000f0006"><title><anchor id="ch0163s000000a0047"/><phrase role="figureLabel"><emphasis role="strong">FIGURE 6</emphasis></phrase> Successive developmental <emphasis>P. vivax</emphasis> stages in Giemsa-stained thin blood films, including early-stage trophozoite/ring (panel 1), maturing ring (panel 2), mature ameboid trophozoites (panels 3 and 4), mature schizonts (panels 5 and 6), macrogametocyte (panel 7), and microgametocyte (panel 8). Note the Schüffner’s dots (panels 2, 4, 6, and 8) and frequent molding of infected cells to neighboring erythrocytes. The infected erythrocytes are slightly larger than noninfected cells.
+</title>
+            
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Ch0163f17.jpg" width="100%" scalefit="1"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+          <figure id="ch0163s000000f0007"><title><anchor id="ch0163s000000a0048"/><phrase role="figureLabel"><emphasis role="strong">FIGURE 7</emphasis></phrase> Successive developmental <emphasis>P. ovale</emphasis> stages in Giemsa-stained thin blood films, including early-stage trophozoite/ring (panels 1 and 2), developing trophozoite (panel 3), mature trophozoite with “comet cell” morphology (panel 4), early-stage schizont (panel 5), mature schizont (panel 6), macrogametocyte (panel 7), and microgametocyte (panel 8). Note the Schüffner’s dots (panels 3, 4, and 8) and the oval/elongated shape of the infected cells (panels 4 and 6). The infected erythrocytes are slightly larger than noninfected cells.
+</title>
+            
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Ch0163f18.jpg" width="100%" scalefit="1"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+          <para id="ch0163s000000p0037">The antigens most commonly detected by the commercially available RDTs are pan- or species-specific<emphasis>Plasmodium</emphasis> lactate dehydrogenase (pLDH), <emphasis>Plasmodium falciparum</emphasis> histidine-rich protein 2 (<emphasis>Pf</emphasis>HRP2), and pan-specific <emphasis>Plasmodium</emphasis> aldolase (<link linkend="ch0163s000000li0050">50</link>). Some tests specifically detect <emphasis>P. falciparum</emphasis> and/or <emphasis>P. vivax</emphasis>, while others offer only pan-<emphasis>Plasmodium</emphasis> results. There are no specific tests for <emphasis>P. ovale, P. malariae</emphasis>, or <emphasis>P. knowlesi.</emphasis> At this time, the only FDA-approved RDT is the BinaxNow malaria test (Alere, Inc., Waltham, MA), which targets <emphasis>Pf</emphasis>HRP2 antigen and a pan-malarial antigen (aldolase). However, numerous tests are commercially available outside the United States, including several CE-marked tests (<link linkend="ch0163s000000li0050">50</link>).</para>
+          <figure id="ch0163s000000f0008"><title><anchor id="ch0163s000000a0049"/><phrase role="figureLabel"><anchor id="ch0163s000000a0050"/><link linkend="ch0163s000000a0030"><emphasis role="strong">FIGURE 8</emphasis></link></phrase> Successive developmental <emphasis>P. knowlesi</emphasis> stages in Giemsa-stained thin blood films, including early-stage trophozoites/rings (panels 1–4), developing trophozoite (panels 5–7), developing trophozoites with “band” form (panel 8), early-stage schizont (panels 9, 10), mature schizont (panels 11, 12), and mature gametocytes (panel 13–16). (Images reproduced from reference <link linkend="ch0163s000000li0045">45</link>, with permission, CC-BY 2.0, <ulink url="https://creativecommons.org/licenses/by/2.0">https://creativecommons.org/licenses/by/2.0</ulink>).
+</title>
+            
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Ch0163f19.jpg" width="100%" scalefit="1"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+          <para id="ch0163s000000p0038">In general, malaria RDTs perform almost as well as microscopy for detection of<emphasis>P. falciparum</emphasis> at moderate or high parasite levels but suffer from lower sensitivity for detection of non-<emphasis>P. falciparum</emphasis> infections and low levels of parasitemia for all species (<link linkend="ch0163s000000li0050">50</link>). While parasite levels of 100 parasites/μl (0.002% parasitemia) are commonly seen in the clinical setting, many RDTs cannot reliably detect parasites at this level, even when the infecting species is <emphasis>P. falciparum</emphasis> (<link linkend="ch0163s000000li0032">32</link>, <link linkend="ch0163s000000li0050">50</link>). The WHO, the Foundation for Innovative New Diagnostics (FIND), and the Special Programme for Research and Training in Tropical Diseases (TDR) launched a massive study in 2006, comparing commercial RDTs for their ability to detect <emphasis>P. falciparum</emphasis> and <emphasis>P. vivax</emphasis> at high (2,000 to 5,000 parasites/μl) and low (200 parasites/μl) concentrations. Their eight published rounds of product testing clearly demonstrated that RDT performance varies widely by kit, manufacturer, and even lot number (<link linkend="ch0163s000000li0050">50</link>). In one of the initial evaluations, the FDA-approved BinaxNow malaria test had 100% sensitivity for detection of <emphasis>P. falciparum</emphasis> at high levels but sensitivities of 91.1%, 85%, and 10% for detection of <emphasis>P. falciparum</emphasis> at low levels, <emphasis>P. vivax</emphasis> (high levels), and <emphasis>P. vivax</emphasis> (low levels), respectively (<link linkend="ch0163s000000li0051">51</link>). Some RDTs demonstrated sensitivity and specificity superior to those of the BinaxNow test, but they are not approved for <emphasis>in vitro</emphasis> diagnostic use in the United States (<link linkend="ch0163s000000li0050">50</link>, <link linkend="ch0163s000000li0051">51</link>).</para>
+          <anchor id="ch0163s000000a0051"/>
+          <beginpage pagenum="2765"/>
+          <para id="ch0163s000000p0039">Despite their advantages, some caveats of RDT use should be noted. As with many immunochromatographic assays, false-positive results may be observed in the presence of autoantibodies, such as rheumatoid factor. Also,<emphasis>Pf</emphasis>HRP2 antigen may be detected for 1 to 5 weeks after successful treatment, and therefore, RDTs targeting this antigen should not be used to monitor outcomes of treatment (<link linkend="ch0163s000000li0032">32</link>). In contrast, false-negative results have been reported with parasite deletions of <emphasis>Pfhrp2</emphasis> or <emphasis>Pfhrp3</emphasis> when RDTs detecting <emphasis>Pf</emphasis>HRP2 are used (<link linkend="ch0163s000000li0032">32</link>). Also, decreased sensitivity for <emphasis>P. falciparum</emphasis> has been reported for pregnant women, presumably due to sequestration of parasite antigens in the placenta (<link linkend="ch0163s000000li0052">52</link>).</para>
+          <table id="ch0163s000000t0003"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0163s000000a0052"/><link linkend="ch0163s000000a0035">TABLE 3</link></phrase></emphasis> Comparison of malaria diagnostic direct methods<superscript><link linkend="ch0163s000000a0054">a</link></superscript><anchor id="ch0163s000000a0053"/>
+</title>
+            
+            <tgroup cols="6">
+              <tbody>
+                <row>
+                  <entry><para id="ch0163s000000p0040">Method</para>
+                  </entry>
+                  <entry><para id="ch0163s000000p0041">Test</para>
+                  </entry>
+                  <entry><para id="ch0163s000000p0042">Advantages</para>
+                  </entry>
+                  <entry><para id="ch0163s000000p0043">Disadvantages</para>
+                  </entry>
+                  <entry><para id="ch0163s000000p0044">Comments</para>
+                  </entry>
+                  <entry><para id="ch0163s000000p0045">Reference(s)</para>
+                  </entry>
+                </row>
+                <row>
+                  <entry><para id="ch0163s000000p0046">Giemsa staining</para>
+                  </entry>
+                  <entry>Thick film</entry>
+                  <entry>Screens large volume of blood; high sensitivity</entry>
+                  <entry>Subjective; species differentiation is not easily accomplished</entry>
+                  <entry>Gold standard for detection; requires experienced and skilled microscopists</entry>
+                  <entry>37</entry>
+                </row>
+                <row>
+                  <entry>Thin film</entry>
+                  <entry>Preserves parasite morphology; good for species determination</entry>
+                  <entry>Subjective; less sensitive than the thick film for screening</entry>
+                  <entry>Gold standard for species determination; requires experienced and skilled microscopists</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry><para id="ch0163s000000p0047">Fluorescent DNA/RNA staining</para>
+                  </entry>
+                  <entry>AO- or BCP-stained films</entry>
+                  <entry>May decrease screening time</entry>
+                  <entry>Nonspecific stain; may be hard to interpret</entry>
+                  <entry>Requires fluorescence microscope</entry>
+                  <entry>48, 138</entry>
+                </row>
+                <row>
+                  <entry>QBC malaria (AO-stained blood in microhematocrit tube)</entry>
+                  <entry>Rapid, screens large volume of blood; best sensitivity and specificity for<emphasis>P. falciparum.</emphasis> Separation of blood components and parasites by centrifugation facilitates screening.</entry>
+                  <entry>Nonspecific stain; may be hard to interpret. Species determination and calculation of percent parasitemia are difficult; less sensitive for non-<emphasis>P. falciparum</emphasis> species, since stages other than early trophozoites may be obscured in the granulocyte layer</entry>
+                  <entry>Requires centrifuge and fluorescence microscope or fluorescent adaptor for light microscope</entry>
+                  <entry>42, 139–141</entry>
+                </row>
+                <row>
+                  <entry>Flow cytometry</entry>
+                  <entry>Automated</entry>
+                  <entry>Variable sensitivity</entry>
+                  <entry/>
+                  <entry>142</entry>
+                </row>
+                <row>
+                  <entry><para id="ch0163s000000p0048">Hemozoin detection</para>
+                  </entry>
+                  <entry>Dark-field microscopy</entry>
+                  <entry>No stain used. Abundant pigment in macrophages suggests poor prognosis.</entry>
+                  <entry>Poor sensitivity</entry>
+                  <entry/>
+                  <entry>42, 143, 144</entry>
+                </row>
+                <row>
+                  <entry>Histology/FFPE tissues</entry>
+                  <entry>Allows for correlation with morphologic features</entry>
+                  <entry>Requires tissue biopsy; hemozoin may be confused with formalin or anthracotic pigment</entry>
+                  <entry/>
+                  <entry>145</entry>
+                </row>
+                <row>
+                  <entry>Antigen detection</entry>
+                  <entry>Kits for detection of HRP-2, aldolase, and parasite LDH</entry>
+                  <entry>Rapid, ease of use and interpretation; some kits appropriate for field use</entry>
+                  <entry>Relatively expensive compared to blood films, variable sensitivity for low percent parasitemia and non-<emphasis>P. falciparum</emphasis> infections</entry>
+                  <entry>Performance characteristics vary widely by kit</entry>
+                  <entry>146</entry>
+                </row>
+                <row>
+                  <entry><para id="ch0163s000000p0049">Nucleic acid detection</para>
+                  </entry>
+                  <entry>DNA/RNA hybridization</entry>
+                  <entry>Nonamplification technique; does not require the same degree of contamination controls as PCR</entry>
+                  <entry>Poor sensitivity, expensive, requires sophisticated equipment and facilities for high-complexity testing</entry>
+                  <entry>First nucleic acid detection method; not widely used clinically</entry>
+                  <entry>147, 148</entry>
+                </row>
+                <row>
+                  <entry>PCR</entry>
+                  <entry>High sensitivity and specificity, equal to or exceeding that of thick film; some assay designs give excellent detection of mixed infections</entry>
+                  <entry>Expensive, requires sophisticated equipment and facilities for high-complexity testing; potential for amplicon contamination; not usually performed rapidly</entry>
+                  <entry>Multiple laboratory-developed methods; no FDA-cleared/approved tests; CE-marked assays available; clinical availability limited to reference and public health laboratories</entry>
+                  <entry>39, 149</entry>
+                </row>
+                <row>
+                  <entry>LAMP</entry>
+                  <entry>Sensitivity and specificity comparable to those of PCR, some tests suitable for field use</entry>
+                  <entry>Expensive (but less than PCR)</entry>
+                  <entry>Not widely used clinically; no FDA-cleared/approved tests, CE-marked assays available</entry>
+                  <entry>39, 150</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para role="table-footnote"><superscript><link linkend="ch0163s000000a0053">a</link></superscript><anchor id="ch0163s000000a0054"/>AO, acridine orange; BCP, benzothiocarboxypurine; FFPE, formalin-fixed, paraffin-embedded; HRP-2, histidine-rich protein 2; LAMP, loop-mediated isothermal amplification; LDH, lactate dehydrogenase; QBC, quantitative buffy coat.</para>
+          <para id="ch0163s000000p0050">Given the limitations of RDTs, it is widely recommended that all results be confirmed with standard thick and thin blood films whenever possible (<link linkend="ch0163s000000li0037">37</link>, <link linkend="ch0163s000000li0040">40</link>, <link linkend="ch0163s000000li0042">42</link>). In settings of nonendemicity, such as the United States and Europe, laboratories that may benefit from RDT use include those that lack the expertise to interpret traditional blood films or desire a more rapid diagnostic method for general or point-of-care testing (<link linkend="ch0163s000000li0053">53</link>–<link linkend="ch0163s000000li0055">55</link>). Rapid diagnostic tests may be particularly beneficial in stat laboratories and during the evening shift, when expertise for sensitive detection of blood parasites using thick films is lacking; in these settings, the ability to immediately detect cases with high <emphasis>P. falciparum</emphasis> parasitemia may be life-saving.</para>
+          <anchor id="ch0163s000000a0055"/>
+          <beginpage pagenum="2766"/>
+          <figure id="ch0163s000000f0009"><title><anchor id="ch0163s000000a0056"/><phrase role="figureLabel"><anchor id="ch0163s000000a0057"/><link linkend="ch0163s000000a0045"><emphasis role="strong">FIGURE 9</emphasis></link></phrase> Cerebral malaria due to <emphasis>P. falciparum</emphasis> on tissue section (hematoxylin and eosin stain; magnification, ×400). The capillary in the center of the image contains multiple infected erythrocytes, seen primarily by their brown-black hemozoin pigment.
+</title>
+            
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Ch0163f20.jpg" width="100%" scalefit="1"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+        </sect3>
+        <sect3 id="ch0163s0001s0007s0003">
+          <title>Nucleic Acid Detection</title>
+          <anchor id="ch0163s010007a0006"/>
+          <anchor id="ch0163s000000a0058"/>
+          <anchor id="ch0163s000000a0059"/>
+          <para id="ch0163s000000p0051">A variety of nucleic acid detection methods have been described, including DNA/RNA hybridization, PCR, nucleic acid sequence-based amplification (NASBA), and loop-mediated isothermal amplification (LAMP) (<link linkend="ch0163s000000li0039">39</link>). Of these, the most commonly used method is PCR, with the 18S small-subunit rRNA gene being the most common target (<link linkend="ch0163s000000li0039">39</link>). Numerous conventional (<link linkend="ch0163s000000li0056">56</link>–<link linkend="ch0163s000000li0058">58</link>) and real-time PCR formats, including digital droplet and reverse transcription PCR (<link linkend="ch0163s000000li0059">59</link>–<link linkend="ch0163s000000li0063">63</link>), have been described for <emphasis>Plasmodium</emphasis> detection, species/subspecies differentiation (including <emphasis>Plasmodium ovale curtisi</emphasis> and <emphasis>P. ovale wallikeri</emphasis>), and identification of parasite markers of resistance to antimalarial drugs (see “Treatment and Prevention” below). Most PCR assays are laboratory developed, although some CE-marked commercial test kits exist, including the artus malaria RG PCR kit (Qiagen, Helsinki, Finland), RealStar malaria PCR kits (altona Diagnostics, Hamburg, Germany), Geno-Sen’s malaria real-time PCR kit for <emphasis>P. vivax</emphasis> (Genome Diagnostics, New Delhi, India), and the malaria RealAMP kit (OSANG HealthCare, Anyang, Republic of Korea). The Loopamp malaria Pan/Pf detection kit (Eiken Chemical, Tokyo, Japan) and Illumigene malaria (Meridian Bioscience, London, United Kingdom) are also CE marked and use LAMP for detection of <emphasis>Plasmodium</emphasis> species to the genus level. The Loopamp kit also has primers for specific detection of <emphasis>P. falciparum</emphasis> and <emphasis>P. vivax.</emphasis> Unfortunately, no nucleic acid amplification tests (NAATs) have been approved or cleared by the FDA for <emphasis>in vitro</emphasis> diagnostic use.</para>
+          <para id="ch0163s000000p0052">Although there is tremendous variability between published assays, PCR-based tests are generally recognized as having improved sensitivity over the traditional thick film, with detection limits below 10 parasites/μl of blood. Some tests have also been validated for use with dried blood spots (<link linkend="ch0163s000000li0064">64</link>). Scientists at the National Institute for Medical Research in London, United Kingdom, have described a nested conventional PCR capable of detecting at least 6 parasites/μl (<link linkend="ch0163s000000li0065">65</link>), while a reverse transcriptase quantitative real-time PCR has a reported detection limit of 0.002 parasite/μl (<link linkend="ch0163s000000li0039">39</link>, <link linkend="ch0163s000000li0066">66</link>). A quantitated <emphasis>P. falciparum</emphasis> standard is available through the WHO (<link linkend="ch0163s000000li0067">67</link>) which can be used to determine the analytical sensitivity of new and existing molecular assays. Saliva and urine have also been investigated as a less invasive source for malaria detection by PCR but have generally shown lower sensitivity than PCR when whole blood is used (<link linkend="ch0163s000000li0068">68</link>).</para>
+          <para id="ch0163s000000p0053">PCR-based tests for detection of<emphasis>Plasmodium</emphasis> nucleic acid are primarily limited to specialized reference or public health laboratories and are not generally suited for rapid diagnosis in the clinical setting. However, they may be useful for detection of low parasitemia, confirmation of suspected infection, differentiation of <emphasis>Plasmodium</emphasis> from <emphasis>Babesia</emphasis> parasites, <emphasis>Plasmodium</emphasis> species determination (e.g., when morphologic expertise is lacking or low parasite burden precludes definitive species identification), and sensitive detection of mixed infections (<link linkend="ch0163s000000li0037">37</link>).</para>
+          <para id="ch0163s000000p0054">Despite the potential advantages of PCR assays, implementation in resource-limited settings where the disease is endemic poses many challenges due to the associated expense and need for highly specialized equipment and facilities. Isothermal amplification techniques such as NASBA and LAMP offer simpler and less expensive tests for detection of<emphasis>Plasmodium</emphasis> DNA and RNA, respectively, but these tests play only a small role in routine clinical care (<link linkend="ch0163s000000li0032">32</link>, <link linkend="ch0163s000000li0069">69</link>, <link linkend="ch0163s000000li0070">70</link>). One innovative electricity-free system utilizes a calcium oxide-based heat-generating reaction within an improvised thermos for malaria LAMP testing (<link linkend="ch0163s000000li0071">71</link>). Other methods of <emphasis>Plasmodium</emphasis> nucleic acid amplification that may be suitable for resource-limited settings include nucleic acid lateral flow immunoassay (NALFIA) (<link linkend="ch0163s000000li0072">72</link>) and PCR-based enzyme-linked immunosorbent assay (PCR-ELISA) (<link linkend="ch0163s000000li0073">73</link>). Further studies are needed to determine the performance characteristics of these alternate assay designs in a variety of clinical settings.</para>
+          <para id="ch0163s000000p0055">When positive results are obtained with malaria nucleic acid tests, thick or thin blood films should be examined so that the percent parasitemia can be determined. Quantitative PCR may one day replace the subjective manual parasite counts, which suffer from lack of interobserver reproducibility, but it is important to note that the results do not correlate well with the conventionally obtained percent parasitemia. This is because conventional counts do not include gametocytes and extracellular forms, and multiply infected cells are counted only once; in contrast, PCR detects nucleic acid from each parasite in the specimen.</para>
+        </sect3>
+      </sect2>
+      <sect2 id="ch0163s0001s0008">
+        <title>Serologic Tests</title>
+        <anchor id="ch0163s010008a0001"/>
+        <anchor id="ch0163s000000a0060"/>
+        <para id="ch0163s000000p0056">Serologic testing plays only a small role in diagnosis of acute malaria, given that antibodies are frequently absent at the time of patient presentation (<link linkend="ch0163s000000li0032">32</link>). Also, a positive test indicates previous exposure but does not differentiate between acute and past infection. For these reasons, serology has its greatest utility in epidemiologic studies, in blood donor screening (<link linkend="ch0163s000000li0074">74</link>), and occasionally for evaluating relapsing, recrudescent, or untreated malaria in nonimmune patients. Indirect fluorescent antibody tests using antigens prepared from the four human <emphasis>Plasmodium</emphasis> species have been described (<link linkend="ch0163s000000li0075">75</link>, <link linkend="ch0163s000000li0076">76</link>) and are available at specialized testing facilities. These tests are time-consuming and subjective but are highly sensitive and specific.</para>
+        <anchor id="ch0163s000000a0061"/>
+        <beginpage pagenum="2768"/>
+      </sect2>
+      <sect2 id="ch0163s0001s0009">
+        <title>Other Diagnostic Laboratory Methods</title>
+        <anchor id="ch0163s010009a0001"/>
+        <anchor id="ch0163s000000a0062"/>
+        <para id="ch0163s000000p0057">Other nonconventional techniques for laboratory diagnosis include laser desorption mass spectrometry (<link linkend="ch0163s000000li0077">77</link>) for detection of hemozoin in whole blood, detection of hemozoin-generated vapor nanobubbles across intact skin (<link linkend="ch0163s000000li0078">78</link>), and flow-cytometric methods (<link linkend="ch0163s000000li0079">79</link>, <link linkend="ch0163s000000li0080">80</link>). A variety of methods using artificial intelligence to identify malaria parasites in microscopic blood smear images have also been described, including those that use deep learning algorithms (<link linkend="ch0163s000000li0081">81</link>, <link linkend="ch0163s000000li0082">82</link>). These techniques hold promise for rapid and affordable malaria testing in the future.</para>
+      </sect2>
+      <sect2 id="ch0163s0001s0010">
+        <title>Treatment and Prevention</title>
+        <anchor id="ch0163s010010a0001"/>
+        <anchor id="ch0163s000000a0063"/>
+        <para id="ch0163s000000p0058">A number of drugs are used to prevent and treat malaria, including chloroquine, mefloquine, quinine, quinidine, atovaquone-proguanil (Malarone), and artemether-lumefantrine (Coartem) (<link linkend="ch0163s000000li0031">31</link>, <link linkend="ch0163s000000li0032">32</link>). Treatment decisions are based on several factors, including the clinical severity of disease, the region where the infection was acquired, drug resistance (when known), the species of the infecting parasite, patient age and pregnancy status, the ability of the patient to take oral medications, previous antimalarial use, and other drugs that the patient is receiving. When infection is with either <emphasis>P. ovale</emphasis> or <emphasis>P. vivax</emphasis>, primaquine or tafenoquine must be administered in addition to a standard antimalarial agent in order to eradicate the dormant liver hypnozoite forms of these parasites, thus underscoring the need for accurate species identification by the laboratory (<link linkend="ch0163s000000li0031">31</link>). The glucose 6 phosphate dehydrogenase (G6PD) status should be checked prior to administering primaquine or tafenoquine, due to the known hemolytic complications of treatment with these agents in G6PD-deficient individuals (<link linkend="ch0163s000000li0032">32</link>).</para>
+        <para id="ch0163s000000p0059">Partial or complete red cell exchange transfusion may also be used for patients with parasitemia of ≥10%. This approach is supported by the American Society for Apheresis but is no longer recommended by the CDC (<link linkend="ch0163s000000li0083">83</link>).</para>
+        <para id="ch0163s000000p0060">Unfortunately, parasite resistance to antimalarial medications is a serious problem worldwide (<link linkend="ch0163s000000li0032">32</link>, <link linkend="ch0163s000000li0084">84</link>). Chloroquine was a mainstay of treatment and prophylaxis for many years, but due to widespread <emphasis>P. falciparum</emphasis> resistance, ACTs are now the front-line therapy for <emphasis>P. falciparum</emphasis> malaria (<link linkend="ch0163s000000li0032">32</link>, <link linkend="ch0163s000000li0084">84</link>). A key driver of resistance is substandard therapies, including counterfeit drugs, poorly administered antimalarial drugs, and use of artemisinins without a complementary combination drug (<link linkend="ch0163s000000li0084">84</link>). Country-specific information on circulating <emphasis>Plasmodium</emphasis> species and associated drug resistance can be found in the CDC’s Yellow Book (<link linkend="ch0163s000000li0020">20</link>) and malaria web page (<link linkend="ch0163s000000li0031">31</link>). Chloroquine-susceptible <emphasis>P. falciparum</emphasis> is now found only in Mexico, the Caribbean, and parts of the Middle East and Central America (<link linkend="ch0163s000000li0084">84</link>, <link linkend="ch0163s000000li0085">85</link>). <emphasis>P. falciparum</emphasis> resistance to mefloquine and sulfadoxine-pyrimethamine as well as <emphasis>P. vivax</emphasis> tolerance to chloroquine and primaquine has also been detected in some regions of endemicity (<link linkend="ch0163s000000li0079">79</link>, <link linkend="ch0163s000000li0084">84</link>–<link linkend="ch0163s000000li0087">87</link>). Artemisinin compounds (e.g., artesunate and artemether) have been recognized as superior drugs for malaria treatment and are now recommended as first-line therapy for both uncomplicated and complicated disease by the WHO in combination with other antimalarial agents (ACTs) (<link linkend="ch0163s000000li0032">32</link>). Unfortunately, decreased <emphasis>in vivo</emphasis> susceptibility to artemisinin compounds was detected in <emphasis>P. falciparum</emphasis> strains more than a decade ago along the Thai-Cambodian border (greater Mekong subregion), a historic site for emerging resistance to antimalarial agents, and these strains are now prevalent across this region (<link linkend="ch0163s000000li0004">4</link>, <link linkend="ch0163s000000li0032">32</link>, <link linkend="ch0163s000000li0088">88</link>, <link linkend="ch0163s000000li0089">89</link>). Decreased susceptibility has been largely associated with mutations in the gene encoding a Kelch protein (<emphasis>Pfkelch13</emphasis>) and manifests as slow parasite clearance in individuals treated with ACT (<link linkend="ch0163s000000li0089">89</link>). Outside the greater Mekong subregion, significant levels of ACT failure are primarily due to resistance to the partner drug rather than the artemisinin component. Full (high-level) artemisinin resistance has not yet been documented (<link linkend="ch0163s000000li0004">4</link>, <link linkend="ch0163s000000li0032">32</link>, <link linkend="ch0163s000000li0084">84</link>). Containment interventions are urgently needed to prevent global spread of these partially resistant <emphasis>P. falciparum</emphasis> artemisinin-resistant strains.</para>
+        <para id="ch0163s000000p0061">Detection of antimalaria resistance may be performed using<emphasis>in vitro</emphasis> susceptibility testing (<link linkend="ch0163s000000li0090">90</link>), although this method is not widely available. A more practical approach is through molecular detection of single-nucleotide polymorphisms that have been associated with antimalarial resistance, such as <emphasis>dhps/dhft</emphasis> (sulfadoxine-pyrimethamine), <emphasis>Pfcrt</emphasis> (chloroquine), <emphasis>Pfmdr</emphasis> (chloroquine, mefloquine, and quinine), and <emphasis>PfATPase6/Pfmdr</emphasis> and <emphasis>Pfkelch13</emphasis> (artemisinin) (<link linkend="ch0163s000000li0086">86</link>) using PCR (<link linkend="ch0163s000000li0063">63</link>) and DNA microarray formats (<link linkend="ch0163s000000li0032">32</link>, <link linkend="ch0163s000000li0084">84</link>, <link linkend="ch0163s000000li0091">91</link>, <link linkend="ch0163s000000li0092">92</link>). A number of government laboratories perform molecular amplification and sequencing for detection of known mutations associated with antimalarial resistance for treatment and/or epidemiologic purposes, including those in the United States (CDC), Canada, United Kingdom, European Union, and China. See <ulink url="ch0179#ch0179s0001">chapter 155</ulink> for further discussion of susceptibility test methods of parasites.</para>
+      </sect2>
+      <sect2 id="ch0163s0001s0011">
+        <title>Evaluation, Interpretation, and Reporting of Results</title>
+        <anchor id="ch0163s010011a0001"/>
+        <anchor id="ch0163s000000a0064"/>
+        <para id="ch0163s000000p0062">Detection of malaria parasites by any diagnostic method is considered a critical result and must be reported to the clinical team immediately. The final report for blood smear evaluation should include the<emphasis>Plasmodium</emphasis> species and calculated degree of parasitemia. It is important to convey when a mixed infection or late-stage forms of <emphasis>P. falciparum</emphasis> are suspected, since these findings may have treatment implications. Similarly, parasite loads above 100,000 parasites/μl (approximately 2% parasitemia) in nonimmune individuals is indicative of severe disease requiring urgent therapy (<link linkend="ch0163s000000li0032">32</link>). Parasite levels above 10% may suggest a role for exchange transfusion, although this is no longer recommended by the CDC (<link linkend="ch0163s000000li0031">31</link>, <link linkend="ch0163s000000li0083">83</link>). It is important to relay to the clinical team that a single set of negative blood films does not exclude the diagnosis of malaria and that serial smears should be performed if clinically indicated (<link linkend="ch0163s000000li0036">36</link>).</para>
+        <para id="ch0163s000000p0063">Examination of serial blood films is recommended for patients with malaria in order to monitor the response to treatment. The frequency of repeat blood film examinations is typically based on the clinical severity of the patient’s illness, with at least daily monitoring recommended for patients with severe malaria (<link linkend="ch0163s000000li0031">31</link>, <link linkend="ch0163s000000li0032">32</link>). It is important to note that asexual forms of the parasites may be seen in repeat blood films for 2 to 3 days following appropriate treatment and that the degree of parasitemia may rise during the first 12 to 24 h of treatment. However, if the level of parasitemia does not fall by 75% in the first 36 to 48 h of treatment or parasites are still present after day 3, then parasite resistance or lack of patient compliance with treatment should be considered. Gametocytes may circulate for 2 weeks or more, since they are not killed by most antimalarial drugs, and therefore, they should be excluded from the parasite count or reported separately (<link linkend="ch0163s000000li0031">31</link>).</para>
+        <para id="ch0163s000000p0064">If expertise for<emphasis>Plasmodium</emphasis> species determination or differentiation between <emphasis>Plasmodium</emphasis> and <emphasis>Babesia</emphasis> parasites is not available in the primary laboratory, it is important to inform the clinician that <emphasis>Plasmodium</emphasis> or <emphasis>Babesia</emphasis> parasites are identified and that blood and/or films are being sent to a reference or public health laboratory for further analysis. It is important to mention that the potentially deadly <emphasis>P. falciparum</emphasis> cannot be excluded in the preliminary report. The CDC’s Division of Parasitic Diseases and Malaria provides a rapid telediagnostic service (<ulink url="http://www.cdc.gov/dpdx/contact.html">http://www.cdc.gov/dpdx/contact.html</ulink>) at no cost for both national and international patients (<link linkend="ch0163s000000li0031">31</link>).</para>
+        <anchor id="ch0163s000000a0065"/>
+        <beginpage pagenum="2769"/>
+        <sect3 id="ch0163s0001s0011s0001">
+          <title>BABESIA</title>
+          <anchor id="ch0163s010011a0002"/>
+          <anchor id="ch0163s000000a0066"/>
+        </sect3>
+      </sect2>
+      <sect2 id="ch0163s0001s0012">
+        <title>Description of the Agent</title>
+        <anchor id="ch0163s010012a0001"/>
+        <anchor id="ch0163s000000a0067"/>
+        <para id="ch0163s000000p0065">Members of the genus<emphasis>Babesia</emphasis> infect a wide range of wild and domestic animals worldwide using primarily ixodid tick vectors (<link linkend="ch0163s000000li0093">93</link>). Despite there being over 100 named <emphasis>Babesia</emphasis> species, only a few are known to regularly infect humans (<link linkend="ch0163s000000li0093">93</link>). <emphasis>Babesia microti</emphasis> is responsible for the vast majority of human cases in the United States. Infections with <emphasis>Babesia duncani</emphasis> and <emphasis>B. duncani</emphasis>-like organisms have also been reported in Washington State, Oregon, and California (<link linkend="ch0163s000000li0094">94</link>–<link linkend="ch0163s000000li0096">96</link>), and rare cases of <emphasis>Babesia divergens</emphasis>-like organisms (e.g., unnamed agent designated the MO-1 strain) have been detected in Kentucky, Missouri, and Washington State (<link linkend="ch0163s000000li0093">93</link>, <link linkend="ch0163s000000li0097">97</link>). <emphasis>B. divergens-</emphasis>like organisms have also been detected in cottontail rabbits on Nantucket Island (<link linkend="ch0163s000000li0098">98</link>). In Europe, <emphasis>B. divergens</emphasis> causes the majority of cases, with fewer cases attributable to <emphasis>Babesia venatorum</emphasis> and <emphasis>B. microti</emphasis> (<link linkend="ch0163s000000li0099">99</link>–<link linkend="ch0163s000000li0102">102</link>). Elsewhere, a number of different <emphasis>Babesia</emphasis> species have been detected in humans, including <emphasis>B. microti</emphasis>-like organisms in Taiwan (<link linkend="ch0163s000000li0103">103</link>) and Japan (<link linkend="ch0163s000000li0104">104</link>), <emphasis>B. venatorum</emphasis> in China (<link linkend="ch0163s000000li0105">105</link>), a novel <emphasis>Babesia</emphasis> sp., currently designated the KO-1/<emphasis>B. microti</emphasis>-like strain, in South Korea (<link linkend="ch0163s000000li0106">106</link>), and incompletely characterized species in Mexico, Brazil, Colombia, Egypt, Mozambique, South Africa, and India (<link linkend="ch0163s000000li0093">93</link>). Rare human cases have also been attributed to <emphasis>Babesia canis, Babesia bovis</emphasis>, and a <emphasis>Babesia crassa</emphasis>-like pathogen (<link linkend="ch0163s000000li0107">107</link>, <link linkend="ch0163s000000li0108">108</link>).</para>
+        <para id="ch0163s000000p0066">Traditionally,<emphasis>Babesia</emphasis> species were classified into small and large forms, with <emphasis>B. microti, B. duncani</emphasis>, and <emphasis>B. divergens</emphasis> grouped together as small-form species (trophozoites of &lt;2.5 μm) (<link linkend="ch0163s000000li0099">99</link>). Later, genetic analysis of the 18S rRNA gene was used to clarify <emphasis>Babesia</emphasis> phylogeny and divide the piroplasms into four or five clades, which better reflected their evolutionary relationships (<link linkend="ch0163s000000li0099">99</link>). The genome sequence of <emphasis>B. microti</emphasis> was first published in 2012, showing it to be the smallest genome of any Apicomplexan parasite sequenced to date (comprising approximately 3,500 genes) (<link linkend="ch0163s000000li0109">109</link>, <link linkend="ch0163s000000li0110">110</link>). These works also revealed that <emphasis>B. microti</emphasis> and the <emphasis>B. microti-</emphasis>like group are genetically distant from other <emphasis>Babesia</emphasis> species and may constitute a separate genus (<link linkend="ch0163s000000li0093">93</link>, <link linkend="ch0163s000000li0110">110</link>).</para>
+      </sect2>
+      <sect2 id="ch0163s0001s0013">
+        <title>Epidemiology and Transmission</title>
+        <anchor id="ch0163s010013a0001"/>
+        <anchor id="ch0163s000000a0068"/>
+        <para id="ch0163s000000p0067">In contrast to malaria, babesiosis is a disease of the temperate regions, including parts of North America and Europe. In the United States, classic “hot spots” for babesiosis due to<emphasis>B. microti</emphasis> include the northeast coast (e.g., Martha’s Vineyard, Nantucket, and Long Island), upper midwest states, and areas of the Atlantic and south-central states, while a small number of cases due to other <emphasis>Babesia</emphasis> species have been described in Missouri, Kentucky, Washington State, Oregon, and California (<link linkend="ch0163s000000li0093">93</link>, <link linkend="ch0163s000000li0111">111</link>). National U.S. surveillance was begun in 18 states where babesiosis is endemic and in New York City on 1 January 2011 (<link linkend="ch0163s000000li0112">112</link>), with 1,124 probable and confirmed cases reported in the first year. The majority of cases were reported by just seven states; in increasing order, these were Minnesota, Rhode Island, Connecticut, Wisconsin, New Jersey, Massachusetts, and New York. The majority of patients were ≥60 years of age (range, 1 to 98 years), and most did not recall a tick bite (<link linkend="ch0163s000000li0112">112</link>). Babesiosis is now a reportable disease in 40 states and the District of Columbia (<link linkend="ch0163s000000li0111">111</link>). The most recent (2019) U.S. CDC surveillance report for babesiosis in the United States described 2,418 cases, an 11% increase from 2018, with 88% occurring in residents of the seven states listed above (<link linkend="ch0163s000000li0111">111</link>). Given that most infections with <emphasis>Babesia</emphasis> are asymptomatic, the actual number of infections is probably much greater than reported.</para>
+        <para id="ch0163s000000p0068">Significantly fewer cases of babesiosis have been reported in Europe. To date, 30 or more cases of babesiosis due to<emphasis>B. divergens</emphasis> have been published, primarily in patients in France, Great Britain, and Ireland, while only sporadic cases of babesiosis due to <emphasis>B. venatorum</emphasis> and <emphasis>B. microti</emphasis> infection have been documented (<link linkend="ch0163s000000li0093">93</link>, <link linkend="ch0163s000000li0113">113</link>, <link linkend="ch0163s000000li0114">114</link>). <emphasis>B. divergens</emphasis> infection is primarily a bovine babesiosis that has a significant economic impact on the livestock industry (<link linkend="ch0163s000000li0115">115</link>).</para>
+        <para id="ch0163s000000p0069">Most cases of babesiosis are acquired through the bite of an infected ixodid tick (<anchor id="ch0163s000000a0069"/><link linkend="ch0163s000000a0071">Fig. 10</link>). In nature, disease is maintained between invertebrate and vertebrate hosts. Humans readily become infected but are considered dead-end hosts. <emphasis>Ixodes scapularis</emphasis> (the blacklegged or deer tick) and <emphasis>Ixodes ricinus</emphasis> (the castor bean tick or sheep tick) are the most common vectors in the United States and Europe, respectively (<link linkend="ch0163s000000li0093">93</link>, <link linkend="ch0163s000000li0114">114</link>). The primary vertebrate host in the life cycle of <emphasis>B. microti</emphasis> in the United States is the white-footed mouse, <emphasis>Peromyscus leucopus</emphasis>, and other rodents and shrews may serve as the host for <emphasis>B. microti</emphasis> cases in Europe (<link linkend="ch0163s000000li0093">93</link>). The primary hosts for <emphasis>B. divergens</emphasis> and <emphasis>B. venatorum</emphasis> in Europe are cattle and deer, respectively. Following a tick bite, <emphasis>Babesia</emphasis> sporozoites enter the blood and directly infect circulating erythrocytes to form trophozoites resembling malarial parasites. There is no liver stage as seen in malaria and thus no latent exoerythrocytic forms. Trophozoites divide asexually via budding, rather than schizogony as in malaria, to form similar-appearing merozoites and gametocytes (<link linkend="ch0163s000000li0107">107</link>). Lysis of infected erythrocytes releases merozoites into the blood, where they infect new erythrocytes. As with malaria, sexual reproduction with fertilization of the gametes occurs in the gut of the arthropod host. Fertilized gametes migrate across the intestinal wall and travel to the salivary glands to develop into sporoblasts. The final step in maturation occurs when the tick takes a blood meal; sporozoites develop from the sporoblasts and are injected into the host during the final hours of feeding. The seasonality of babesiosis corresponds with the activity of the tick vectors, with most cases occurring in the spring, summer, and fall (<link linkend="ch0163s000000li0093">93</link>).</para>
+        <para id="ch0163s000000p0070">Less commonly, human babesiosis is acquired through receipt of infected blood products (<link linkend="ch0163s000000li0116">116</link>, <link linkend="ch0163s000000li0117">117</link>) or by vertical transmission across the placenta (<link linkend="ch0163s000000li0118">118</link>). Blood transfusion is recognized as an increasingly important source of infection (<link linkend="ch0163s000000li0093">93</link>, <link linkend="ch0163s000000li0116">116</link>, <link linkend="ch0163s000000li0117">117</link>, <link linkend="ch0163s000000li0119">119</link>). The largest review of transfusion-related babesiosis in the United States identified 159 cases during 1979 to 2009, with 156 cases due to <emphasis>B. microti</emphasis> and 3 due to <emphasis>B. duncani</emphasis> (<link linkend="ch0163s000000li0119">119</link>). Of note, 122 of these cases were reported between 2000 and 2009 (<link linkend="ch0163s000000li0117">117</link>). A case of probable transfusion transmission of <emphasis>B. divergens-</emphasis>like organisms has also been reported (<link linkend="ch0163s000000li0120">120</link>). Significantly fewer cases of transfusion-transmitted babesiosis have been reported in Europe (<link linkend="ch0163s000000li0116">116</link>). As expected, most implicated blood donations were collected during times of the year when ticks are active; however, a number of cases occurred from blood donated in the winter. In the latter cases, the original infections were presumably acquired by donors during the tick biting season and remained dormant in the blood for months without causing symptoms. Most transfusion-transmitted cases have been associated with the receipt of whole blood, but cases associated with whole-blood-derived platelets have also been reported (<link linkend="ch0163s000000li0116">116</link>, <link linkend="ch0163s000000li0119">119</link>, <link linkend="ch0163s000000li0121">121</link>). There are now several FDA-licensed assays for use in blood donor screening. Screening is recommended by the FDA in 14 states in the United States plus the District of Columbia, unless the blood product has undergone pathogen inactivation.</para>
+        <figure id="ch0163s000000f0010"><title><anchor id="ch0163s000000a0070"/><phrase role="figureLabel"><anchor id="ch0163s000000a0071"/><link linkend="ch0163s000000a0069"><emphasis role="strong">FIGURE 10</emphasis></link></phrase> Life cycle of <emphasis>Ixodes scapularis</emphasis> and <emphasis>Babesia microti. I. scapularis</emphasis> has a four-stage life cycle that generally lasts 2 years and includes vertebrate hosts (including rodents, deer, and humans), where each mobile tick stage has a blood meal on a different individual host. During the first year, mated adult female ticks detach from the vertebrate host to overwinter (step 1) and lay eggs in the spring. Eggs hatch in spring (step 2), and larvae attach to their first vertebrate host, usually small rodents or birds (step 3). The six-legged larvae feed on the first host, generally in late summer, and may become infected with <emphasis>B. microti</emphasis> while taking a blood meal. Engorged larvae leave the host, overwinter, and molt into nymphs (step 4). In the spring of the second year, nymphs attach to a second vertebrate host (e.g., rodents, deer, and humans) (step 5) and in the fall leave the second host to molt into adults and attach to a third vertebrate host, such as deer and humans (step 6). <emphasis>B. microti</emphasis> has a two-host life cycle including <emphasis>I. scapularis</emphasis> as the definitive host and a vertebrate intermediate host. In the tick (step 7), gametes ingested while taking a blood meal undergo sexual reproduction, leading to the eventual formation of infectious sporozoites. In the mammalian host (e.g., rodents or humans) (step 8), sporozoites initiate the erythrocytic cycle, resulting in the formation of trophozoites that divide asexually by budding. Subsequently, trophozoites transform into merozoites and perpetuate the erythrocytic cycle or into gametes, which are ingested by ticks during a blood meal to initiate the sexual cycle. All mobile stages of <emphasis>I. scapularis</emphasis> may acquire <emphasis>B. microti</emphasis> parasites from infected first or second vertebrate hosts, but only nymphs and adults transmit parasites. (Figure reproduced from reference <link linkend="ch0163s000000li0136">136</link>, with permission.)
+</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0163f21.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </sect2>
+      <sect2 id="ch0163s0001s0014">
+        <title>Clinical Significance</title>
+        <anchor id="ch0163s010014a0001"/>
+        <anchor id="ch0163s000000a0072"/>
+        <anchor id="ch0163s000000a0073"/>
+        <para id="ch0163s000000p0071">Babesiosis due to<emphasis>B. microti</emphasis> and <emphasis>B. duncani</emphasis>/<emphasis>B. duncani</emphasis>-like parasites can manifest as asymptomatic or mild infection to life-threatening illness (<link linkend="ch0163s000000li0093">93</link>). In patients with a functioning spleen, <emphasis>B. microti</emphasis> infection is generally mild; when present, symptoms may include fever and a nonspecific influenza-like illness. Severe disease is most commonly seen in asplenic patients and may be associated with high fever, chills, night sweats, myalgia, hemolytic anemia, hematuria, hepatosplenomegaly, and jaundice. Life-threatening complications include disseminated intravascular coagulation, acute renal or respiratory failure, congestive heart failure, and coma. In addition to asplenia, immunosuppression and advanced age are risk factors for severe disease (<link linkend="ch0163s000000li0099">99</link>).</para>
+        <para id="ch0163s000000p0072">Patients infected with<emphasis>B. divergens</emphasis> in Europe are generally asplenic or immunocompromised and present with severe disease. Most infections with <emphasis>B. divergens-</emphasis>like agents in the United States have similar characteristics. At this point, only a small number of infections with <emphasis>B. venatorum</emphasis> have been reported, but preliminary evidence suggests that disease is relatively mild (<link linkend="ch0163s000000li0099">99</link>).</para>
+      </sect2>
+      <sect2 id="ch0163s0001s0015">
+        <title>Treatment and Prevention</title>
+        <anchor id="ch0163s010015a0001"/>
+        <anchor id="ch0163s000000a0074"/>
+        <para id="ch0163s000000p0073">Treatment is recommended only for cases of symptomatic babesiosis (<link linkend="ch0163s000000li0122">122</link>). Most asymptomatic cases do not require treatment (<link linkend="ch0163s000000li0111">111</link>). Oral azithromycin and atovaquone are recommended for mild to moderate disease, while intravenous clindamycin and oral quinine are used for severe babesiosis (<link linkend="ch0163s000000li0111">111</link>, <link linkend="ch0163s000000li0122">122</link>). Red cell exchange transfusion may also be used for patients with severe disease and/or parasitemia of ≥10% (<link linkend="ch0163s000000li0111">111</link>, <link linkend="ch0163s000000li0122">122</link>, <link linkend="ch0163s000000li0123">123</link>).</para>
+        <para id="ch0163s000000p0074">Disease is prevented primarily through measures to avoid tick bites in areas of endemicity, such as applying tick repellents containing<emphasis>N</emphasis>,<emphasis>N</emphasis>-diethyl-meta-toluamide (DEET) to exposed skin and permethrin to clothing, avoiding tick habitats such as deciduous forests and tall grasses, and performing frequent checks to locate and remove attached ticks (<link linkend="ch0163s000000li0113">113</link>). This is especially important for patients at risk for severe disease, such as immunocompromised hosts and asplenic individuals (<link linkend="ch0163s000000li0113">113</link>). Measures can also be taken to minimize tick habitat around dwellings, such as keeping grass mown short, removing leaf litter, and spraying vegetation with acaricides. Community education can be an important component of disease prevention strategies in areas of high endemicity (<link linkend="ch0163s000000li0113">113</link>, <link linkend="ch0163s000000li0121">121</link>).</para>
+        <para id="ch0163s000000p0075">There are now several FDA-approved nucleic acid amplification tests (Roche cobas<emphasis>Babesia</emphasis> test, Grifols Procleix <emphasis>Babesia</emphasis> assay, and Oxford Immunotec Imugen <emphasis>Babesia microti</emphasis> NAAT) for detecting <emphasis>Babesia</emphasis> species nucleic acid in whole-blood samples from individual human blood and tissue donors (<link linkend="ch0163s000000li0116">116</link>, <link linkend="ch0163s000000li0121">121</link>).</para>
+        <anchor id="ch0163s000000a0075"/>
+        <beginpage pagenum="2771"/>
+      </sect2>
+      <sect2 id="ch0163s0001s0016">
+        <title>Collection, Transport, and Storage of Specimens</title>
+        <anchor id="ch0163s010016a0001"/>
+        <anchor id="ch0163s000000a0076"/>
+        <para id="ch0163s000000p0076">Collection and transport of whole-blood specimens for babesiosis testing are performed in the same manner as for malaria. It is important to remember that<emphasis>I. scapularis</emphasis>, the main vector of <emphasis>B. microti</emphasis>, is also a vector for other tick-borne pathogens, such as <emphasis>Anaplasma phagocytophilum</emphasis> and <emphasis>Borrelia burgdorferi</emphasis>, the agents of anaplasmosis and Lyme disease, respectively, and consideration should be given to concurrent testing for these agents (<link linkend="ch0163s000000li0124">124</link>). Importantly, studies indicate that coinfection with <emphasis>B. microti</emphasis> and <emphasis>B. burgdorferi</emphasis> promotes transmission of <emphasis>B. microti</emphasis> from ticks to humans and results in greater disease severity (<link linkend="ch0163s000000li0124">124</link>).</para>
+        <para id="ch0163s000000p0077">Requests for blood films should be accompanied by important patient information, such as clinical signs and symptoms, state of residence, travel history, immune status, and presence or absence of a functioning spleen.</para>
+      </sect2>
+      <sect2 id="ch0163s0001s0017">
+        <title>Direct Examination</title>
+        <anchor id="ch0163s010017a0001"/>
+        <anchor id="ch0163s000000a0077"/>
+        <sect3 id="ch0163s0001s0017s0001">
+          <title>Microscopy</title>
+          <anchor id="ch0163s010017a0002"/>
+          <anchor id="ch0163s000000a0078"/>
+          <para id="ch0163s000000p0078">As with malaria, the traditional method for diagnosis of babesiosis is microscopic examination of Giemsa-stained thick and thin blood films (<link linkend="ch0163s000000li0093">93</link>, <link linkend="ch0163s000000li0111">111</link>, <link linkend="ch0163s000000li0123">123</link>). Further details regarding the preparation and use of blood films are provided above.</para>
+          <para id="ch0163s000000p0079"><emphasis>Babesia</emphasis> spp. parasites may present a diagnostic challenge on blood films due to the many morphologic similarities they share with <emphasis>Plasmodium</emphasis> species (specifically <emphasis>P. falciparum</emphasis>) on thick and thin films (<anchor id="ch0163s000000a0079"/><link linkend="ch0163s000000a0083">Fig. 11</link> and <anchor id="ch0163s000000a0080"/><link linkend="ch0163s000000a0085">12</link>). However, a number of diagnostic features can be used to differentiate between <emphasis>Babesia</emphasis> and <emphasis>Plasmodium</emphasis> in most instances (<anchor id="ch0163s000000a0081"/><link linkend="ch0163s000000a0087">Table 4</link>). In general, <emphasis>Babesia</emphasis> parasites demonstrate greater pleomorphism in size and shape than <emphasis>P. falciparum</emphasis> parasites, with ovoid, elliptical, pear, racket, and spindle shapes being commonly seen. Extracellular forms are also common. Rarely, classic tetrads (“Maltese crosses”) are seen. It is important to note that only ring-type forms are seen in babesiosis. The presence of stippling, hemozoin pigment, schizonts, or plasmodial-type gametocytes excludes the diagnosis of babesiosis. It is not possible to differentiate the various human <emphasis>Babesia</emphasis> species by morphology; this requires molecular methods.</para>
+          <para id="ch0163s000000p0080">When the morphology is insufficient for differentiation of<emphasis>Babesia</emphasis> and <emphasis>Plasmodium</emphasis> parasites, it is helpful to obtain a complete travel history, examine multiple blood samples for parasites, or perform an alternative detection method (e.g., PCR).</para>
+          <figure id="ch0163s000000f0011"><title><anchor id="ch0163s000000a0082"/><phrase role="figureLabel"><anchor id="ch0163s000000a0083"/><link linkend="ch0163s000000a0079"><emphasis role="strong">FIGURE 11</emphasis></link></phrase> <emphasis>Babesia</emphasis> morphology on thick blood film consists of ring forms resembling trophozoites of <emphasis>P. falciparum.</emphasis> Some pleomorphism is apparent.
+</title>
+            
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Ch0163f11.jpg" width="100%" scalefit="1"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+          <figure id="ch0163s000000f0012"><title><anchor id="ch0163s000000a0084"/><phrase role="figureLabel"><anchor id="ch0163s000000a0085"/><link linkend="ch0163s000000a0080"><emphasis role="strong">FIGURE 12</emphasis></link></phrase> <emphasis>Babesia</emphasis> morphology on thin blood film. Note the presence of small intraerythrocytic ring forms resembling early trophozoites of <emphasis>P. falciparum</emphasis>, as well as thicker and markedly pleomorphic ring forms. Characteristic extracellular forms (arrow) and a tetrad form (arrowhead) are also seen.
+</title>
+            
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Ch0163f12.jpg" width="100%" scalefit="1"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+          <para id="ch0163s000000p0081">Determining the degree of parasitemia may be useful for patient management. Parasitemia levels usually vary between 1 and 10% but may reach 80% (<link linkend="ch0163s000000li0093">93</link>, <link linkend="ch0163s000000li0099">99</link>). Monitoring the parasite load in conjunction with treatment may be especially important in immunocompromised and asplenic patients, who are at risk for prolonged or relapsing disease (<link linkend="ch0163s000000li0125">125</link>).</para>
+        </sect3>
+        <sect3 id="ch0163s0001s0017s0002">
+          <title>Nucleic Acid Detection</title>
+          <anchor id="ch0163s010017a0003"/>
+          <anchor id="ch0163s000000a0086"/>
+          <para id="ch0163s000000p0082">Nucleic acid amplification assays such as PCR offer increased sensitivity over blood film examination and may be useful in instances of low parasitemia and when parasite morphology is inconclusive. Assays have been described for<emphasis>B. microti</emphasis> (<link linkend="ch0163s000000li0039">39</link>, <link linkend="ch0163s000000li0126">126</link>–<link linkend="ch0163s000000li0129">129</link>) and <emphasis>B. divergens</emphasis> (<link linkend="ch0163s000000li0129">129</link>). A real-time PCR assay for detection of <emphasis>B. microti</emphasis> reports a detection limit of approximately 0.0001% parasitemia, which is superior to the detection limit of thick films (0.0002 to 0.001% parasitemia) (<link linkend="ch0163s000000li0039">39</link>). Sequencing of 18S ribosomal DNA has also been used for molecular characterization of <emphasis>Babesia</emphasis> species (<link linkend="ch0163s000000li0100">100</link>, <link linkend="ch0163s000000li0129">129</link>). There are no FDA-cleared/approved PCR assays for clinical diagnosis at this time, but CE-marked assays exist.</para>
+          <table id="ch0163s000000t0004"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0163s000000a0087"/><link linkend="ch0163s000000a0081">TABLE 4</link></phrase></emphasis> Comparative morphology of <emphasis>Babesia</emphasis> spp. and <emphasis>Plasmodium falciparum</emphasis><superscript><link linkend="ch0163s000000a0089">a</link></superscript><anchor id="ch0163s000000a0088"/>
+</title>
+            
+            <tgroup cols="3">
+              <tbody>
+                <row>
+                  <entry><para id="ch0163s000000p0083">Diagnostic feature</para>
+                  </entry>
+                  <entry><para id="ch0163s000000p0084"><emphasis>Plasmodium falciparum</emphasis>
+                    </para>
+                  </entry>
+                  <entry><para id="ch0163s000000p0085"><emphasis>Babesia</emphasis> spp.</para>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Size of infected RBC</entry>
+                  <entry>Normal</entry>
+                  <entry>Normal</entry>
+                </row>
+                <row>
+                  <entry>Parasite stages in peripheral blood</entry>
+                  <entry>Ring forms, less commonly crescent-shaped gametocytes; may see high parasitemia; other stages only rarely seen</entry>
+                  <entry>Ring forms only. Heavy infections common in asplenic patients.</entry>
+                </row>
+                <row>
+                  <entry>Parasite characteristics</entry>
+                  <entry>Delicate rings, &lt;1/3 diam. of the RBC; may have headphone and applique forms; multiply-infected RBCs common</entry>
+                  <entry>Delicate rings, 1/3–1/6 diam. of the RBC; pleomorphic with ovoid, spindled, and ameboid forms; multiply-infected RBCs common; single or multiple chromatin dots; rarely tetrad forms.</entry>
+                </row>
+                <row>
+                  <entry>RBC inclusions</entry>
+                  <entry>Occasionally Maurer’s clefts</entry>
+                  <entry>None</entry>
+                </row>
+                <row>
+                  <entry>Extracellular forms</entry>
+                  <entry>Rare</entry>
+                  <entry>Common</entry>
+                </row>
+                <row>
+                  <entry>Pigment</entry>
+                  <entry>Brown-black hemozoin</entry>
+                  <entry>None</entry>
+                </row>
+                <row>
+                  <entry>Fever cycle</entry>
+                  <entry>36–48 h</entry>
+                  <entry>No periodicity</entry>
+                </row>
+                <row>
+                  <entry>Area of endemicity</entry>
+                  <entry>Tropical and subtropical regions</entry>
+                  <entry>Temperate regions</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para role="table-footnote"><superscript><link linkend="ch0163s000000a0088">a</link></superscript><anchor id="ch0163s000000a0089"/>RBC, red blood cell (erythrocyte).</para>
+        </sect3>
+      </sect2>
+      <sect2 id="ch0163s0001s0018">
+        <title>Isolation Procedures</title>
+        <anchor id="ch0163s010018a0001"/>
+        <anchor id="ch0163s000000a0090"/>
+        <anchor id="ch0163s000000a0091"/>
+        <para id="ch0163s000000p0086">In rare instances, it may be necessary to inoculate the blood from a patient with suspected babesiosis into a laboratory animal, such as a golden hamster (<emphasis>B. microti</emphasis>) (<link linkend="ch0163s000000li0128">128</link>, <link linkend="ch0163s000000li0130">130</link>) or gerbil (<emphasis>B. divergens</emphasis>) (<link linkend="ch0163s000000li0100">100</link>, <link linkend="ch0163s000000li0115">115</link>), to confirm the presence of a low-level infection or determine the viability of an organism detected only by molecular testing. This is not generally available in the clinical laboratory but may be available following consultation at the CDC or at other specialized centers.</para>
+      </sect2>
+      <sect2 id="ch0163s0001s0019">
+        <title>Serologic Tests</title>
+        <anchor id="ch0163s010019a0001"/>
+        <anchor id="ch0163s000000a0092"/>
+        <para id="ch0163s000000p0087">Serologic testing plays only a small role in the diagnosis of acute babesiosis but may be useful for epidemiologic studies, for blood donor screening, and in cases of chronic disease. Antibodies to<emphasis>B. microti</emphasis> typically appear 2 weeks after the onset of illness and may be detectable for several years after infection (<link linkend="ch0163s000000li0093">93</link>). The indirect fluorescence immunoassay (IFA) (<link linkend="ch0163s000000li0131">131</link>, <link linkend="ch0163s000000li0132">132</link>) is the recommended method for detection of serum antibodies against <emphasis>B. microti</emphasis> and has a relatively high sensitivity (88 to 96%) and specificity (90 to 100%) (<link linkend="ch0163s000000li0131">131</link>). Premade slides for <emphasis>B. microti</emphasis> IFA testing are commercially available in the United States and Europe through various manufacturers, including Focus Diagnostics (part of DiaSorin Group, Cypress, CA) and Fuller Laboratories (Fullerton, CA). Interpretation of IFA results is subjective, and the cutoff titer for defining a positive result varies by laboratory; titers of 1:128 to 1:256 may be associated with a higher specificity (<link linkend="ch0163s000000li0133">133</link>). Low antibody titers or negative results may be seen when serum is obtained early in disease or when patients are immunosuppressed or asplenic, while false positives may occur in patients with connective tissue disorders (e.g., rheumatoid arthritis). <emphasis>B. microti</emphasis> IFA serology does not demonstrate significant cross-reactivity with antibodies to <emphasis>B. duncani, B. divergens</emphasis>, or <emphasis>B. venatorum</emphasis> (<link linkend="ch0163s000000li0131">131</link>), so specific assays must be used for these organisms (<link linkend="ch0163s000000li0134">134</link>, <link linkend="ch0163s000000li0135">135</link>).</para>
+      </sect2>
+      <sect2 id="ch0163s0001s0020">
+        <title>Evaluation, Interpretation, and Reporting of Results</title>
+        <anchor id="ch0163s010020a0001"/>
+        <anchor id="ch0163s000000a0093"/>
+        <para id="ch0163s000000p0088">Detection of<emphasis>Babesia</emphasis> parasites by any diagnostic method should be considered a clinically significant result and be promptly reported to the clinical team. The final blood film report should include the calculated degree of parasitemia. When the blood film examination is negative, the report may include a statement that a single set of negative blood films does not exclude the diagnosis of babesiosis and that serial smears should be performed if clinically indicated.</para>
+        <para id="ch0163s000000p0089">If expertise for differentiation of<emphasis>Babesia</emphasis> and <emphasis>Plasmodium</emphasis> parasites is not available in the primary laboratory, it is important to inform the clinician that <emphasis>Plasmodium</emphasis> or <emphasis>Babesia</emphasis> parasites are identified and that blood and/or films are being sent to a reference or public health laboratory for further analysis.</para>
+        <sect3 id="ch0163s0001s0020s0001">
+          <title>REFERENCES</title>
+          <anchor id="ch0163s010020a0002"/>
+          <anchor id="ch0163s000000a0094"/>
+          <itemizedlist mark="none" role="biblioEntryList">
+            <listitem id="ch0163s000000li0001" role="bibliographyEntry">
+              <para>1.<emphasis role="strong">Adl SM, Bass D, Lane CE, Lukeš J, Schoch CL, Smirnov A, Agatha S, Berney C, Brown MW, Burki F, Cárdenas P,</emphasis> Č<emphasis role="strong">epi</emphasis>č<emphasis role="strong">ka I, Chistyakova L, Del Campo J, Dunthorn M, Edvardsen B, Eglit Y, Guillou L, Hampl V, Heiss AA, Hoppenrath M, James TY, Karnkowska A, Karpov S, Kim E, Kolisko M, Kudryavtsev A, Lahr DJG, Lara E, Le Gall L, Lynn DH, Mann DG, Massana R, Mitchell EAD, Morrow C, Park JS, Pawlowski JW, Powell MJ, Richter DJ, Rueckert S, Shadwick L, Shimano S, Spiegel FW, Torruella G, Youssef N, Zlatogursky V, Zhang Q.</emphasis> 2019. Revisions to the classification, nomenclature, and diversity of eukaryotes. <citetitle><emphasis>J Eukaryot Microbiol</emphasis></citetitle> <emphasis role="strong">66:</emphasis>4–119.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0002" role="bibliographyEntry">
+              <para>2.<emphasis role="strong">McFadden GI, Yeh E.</emphasis> 2017. The apicoplast: now you see it, now you don’t. <citetitle><emphasis>Int J Parasitol</emphasis></citetitle> <emphasis role="strong">47:</emphasis>137–144.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0003" role="bibliographyEntry">
+              <para>3.<emphasis role="strong">Perkins SL.</emphasis> 2013. Malaria’s many mates: past, present and future of the systematics of the order Haemosporida. <citetitle><emphasis>J Parasitol</emphasis></citetitle> <emphasis role="strong">100:</emphasis>11–25.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0004" role="bibliographyEntry">
+              <para>4.<emphasis role="strong">World Health Organization.</emphasis> 2021. <citetitle><emphasis>World Malaria Report</emphasis></citetitle> 2021. <ulink url="https://www.who.int/publications/i/item/9789240040496">https://www.who.int/publications/i/item/9789240040496</ulink>.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0005" role="bibliographyEntry">
+              <para>5.<emphasis role="strong">Collins WE, Jeffery GM.</emphasis> 2005. <citetitle><emphasis>Plasmodium ovale</emphasis></citetitle>: parasite and disease. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">18:</emphasis>570–581.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0006" role="bibliographyEntry">
+              <para>6.<emphasis role="strong">Sutherland CJ, Tanomsing N, Nolder D, Oguike M, Jennison C, Pukrittayakamee S, Dolecek C, Hien TT, do Rosário VE, Arez AP, Pinto J, Michon P, Escalante AA, Nosten F, Burke M, Lee R, Blaze M, Otto TD, Barnwell JW, Pain A, Williams J, White NJ, Day NP, Snounou G, Lockhart PJ, Chiodini PL, Imwong M, Polley SD.</emphasis> 2010. Two nonrecombining sympatric forms of the human malaria parasite <citetitle><emphasis>Plasmodium ovale</emphasis></citetitle> occur globally. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">201:</emphasis>1544–1550.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0007" role="bibliographyEntry">
+              <para>7.<emphasis role="strong">Simner PJ.</emphasis> 2016. Medical parasitology taxonomy update: January 2012 to December 2015. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">55:</emphasis>43–47.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0008" role="bibliographyEntry">
+              <anchor id="ch0163s000000a0095"/>
+              <para>8.<emphasis role="strong">Mahittikorn A, Masangkay FR, Kotepui KU, Milanez GJ, Kotepui M.</emphasis> 2021. Comparison of <citetitle><emphasis>Plasmodium ovale curtisi</emphasis></citetitle> and <citetitle><emphasis>Plasmodium ovale wallikeri</emphasis></citetitle> infections by a meta-analysis approach. <citetitle><emphasis>Sci Rep</emphasis></citetitle> <emphasis role="strong">11:</emphasis>6409.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0009" role="bibliographyEntry">
+              <para>9.<emphasis role="strong">Coatney GR, Collins WE, Warren MW, Contacos PG.</emphasis> 1971. <citetitle><emphasis>The Primate Malarias</emphasis></citetitle>. National Institute of Allergy and Infectious Diseases, Bethesda, MD.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0010" role="bibliographyEntry">
+              <para>10.<emphasis role="strong">Yap NJ, Hossain H, Nada-Raja T, Ngui R, Muslim A, Hoh BP, Khaw LT, Kadir KA, Simon Divis PC, Vythilingam I, Singh B, Lim YA.</emphasis> 2021. Natural human infections with <citetitle><emphasis>Plasmodium cynomolgi</emphasis></citetitle>, <citetitle><emphasis>P. inui</emphasis></citetitle>, and 4 other simian malaria parasites, Malaysia. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">27:</emphasis>2187–2191.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0011" role="bibliographyEntry">
+              <para>11.<emphasis role="strong">Singh B, Kim Sung L, Matusop A, Radhakrishnan A, Shamsul SS, Cox-Singh J, Thomas A, Conway DJ.</emphasis> 2004. A large focus of naturally acquired <citetitle><emphasis>Plasmodium knowlesi</emphasis></citetitle> infections in human beings. <citetitle><emphasis>Lancet</emphasis></citetitle> <emphasis role="strong">363:</emphasis>1017–1024.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0012" role="bibliographyEntry">
+              <para>12.<emphasis role="strong">Cox-Singh J, Davis TM, Lee KS, Shamsul SS, Matusop A, Ratnam S, Rahman HA, Conway DJ, Singh B.</emphasis> 2008. <citetitle><emphasis>Plasmodium knowlesi</emphasis></citetitle> malaria in humans is widely distributed and potentially life threatening. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">46:</emphasis>165–171.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0013" role="bibliographyEntry">
+              <para>13.<emphasis role="strong">Singh B, Daneshvar C.</emphasis> 2013. Human infections and detection of <citetitle><emphasis>Plasmodium knowlesi. Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">26:</emphasis>165–184.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0014" role="bibliographyEntry">
+              <para>14.<emphasis role="strong">Kantele A, Jokiranta TS.</emphasis> 2011. Review of cases with the emerging fifth human malaria parasite, <citetitle><emphasis>Plasmodium knowlesi. Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">52:</emphasis>1356–1362.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0015" role="bibliographyEntry">
+              <para>15.<emphasis role="strong">World Health Organization.</emphasis> 2016. False-negative RDT results and implications of new reports of <citetitle><emphasis>P. falciparum</emphasis></citetitle> histidine-rich protein 2/3 gene deletions. <ulink url="https://www.who.int/publications/i/item/WHO-HTM-GMP-2017.18">https://www.who.int/publications/i/item/WHO-HTM-GMP-2017.18</ulink>.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0016" role="bibliographyEntry">
+              <para>16.<emphasis role="strong">Linscott AJ.</emphasis> 2011. Malaria in the United States—past and present. <citetitle><emphasis>Clin Microbiol Newsl</emphasis></citetitle> <emphasis role="strong">33:</emphasis>49–52.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0017" role="bibliographyEntry">
+              <para>17.<emphasis role="strong">Boualam MA, Pradines B, Drancourt M, Barbieri R.</emphasis> 2021. Malaria in Europe: a historical perspective. <citetitle><emphasis>Front Med (Lausanne)</emphasis></citetitle> <emphasis role="strong">8:</emphasis>691095.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0018" role="bibliographyEntry">
+              <para>18.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2018. The history of malaria, an ancient disease. <ulink url="https://www.cdc.gov/malaria/about/history/index.html">https://www.cdc.gov/malaria/about/history/index.html</ulink>. Accessed 28 November 2022.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0019" role="bibliographyEntry">
+              <para>19.<emphasis role="strong">Piperaki ET, Daikos GL.</emphasis> 2016. Malaria in Europe: emerging threat or minor nuisance? <citetitle><emphasis>Clin Microbiol Infect</emphasis></citetitle> <emphasis role="strong">22:</emphasis>487–493.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0020" role="bibliographyEntry">
+              <para>20.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2020. <citetitle><emphasis>CDC Yellow Book</emphasis></citetitle> 2020. <ulink url="https://wwwnc.cdc.gov/travel/page/yellowbook-home-2020">https://wwwnc.cdc.gov/travel/page/yellowbook-home-2020</ulink>.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0021" role="bibliographyEntry">
+              <para>21.<emphasis role="strong">Romi R, Boccolini D, Menegon M, Rezza G.</emphasis> 2012. Probable autochthonous introduced malaria cases in Italy in 2009-2011 and the risk of local vector-borne transmission. <citetitle><emphasis>Euro Surveill</emphasis></citetitle> <emphasis role="strong">17:</emphasis>20325.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0022" role="bibliographyEntry">
+              <para>22.<emphasis role="strong">Andriopoulos P, Economopoulou A, Spanakos G, Assimakopoulos G.</emphasis> 2013. A local outbreak of autochthonous <citetitle><emphasis>Plasmodium vivax</emphasis></citetitle> malaria in Laconia, Greece—a re-emerging infection in the southern borders of Europe? <citetitle><emphasis>Int J Infect Dis</emphasis></citetitle> <emphasis role="strong">17:</emphasis>e125–e128.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0023" role="bibliographyEntry">
+              <para>23.<emphasis role="strong">Shkurti K, Vyshka G, Velo E, Boçari A, Kokici M, Kraja D.</emphasis> 2013. Imported malaria in Albania and the risk factors that could allow its reappearance. <citetitle><emphasis>Malar J</emphasis></citetitle> <emphasis role="strong">12:</emphasis>197.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0024" role="bibliographyEntry">
+              <para>24.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2004. Multifocal autochthonous transmission of malaria—Florida, 2003. <citetitle><emphasis>MMWR Morb Mortal Wkly Rep</emphasis></citetitle> <emphasis role="strong">53:</emphasis>412–413.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0025" role="bibliographyEntry">
+              <para>25.<emphasis role="strong">Mace KE, Arguin PM.</emphasis> 2017. Malaria surveillance—United States, 2014. <citetitle><emphasis>MMWR Surveill Summ</emphasis></citetitle> <emphasis role="strong">66:</emphasis>1–24.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0026" role="bibliographyEntry">
+              <para>26.<emphasis role="strong">Pavli A, Maltezou HC.</emphasis> 2010. Malaria and travellers visiting friends and relatives. <citetitle><emphasis>Travel Med Infect Dis</emphasis></citetitle> <emphasis role="strong">8:</emphasis>161–168.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0027" role="bibliographyEntry">
+              <para>27.<emphasis role="strong">Stramer SL, Hollinger FB, Katz LM, Kleinman S, Metzel PS, Gregory KR, Dodd RY.</emphasis> 2009. Emerging infectious disease agents and their potential threat to transfusion safety. <citetitle><emphasis>Transfusion</emphasis></citetitle> <emphasis role="strong">49</emphasis>(Suppl 2)<emphasis role="strong">:</emphasis>1S–29S.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0028" role="bibliographyEntry">
+              <para>28.<emphasis role="strong">Food and Drug Administration.</emphasis> 2020. Revised recommendations to reduce the risk of transfusion-transmitted malaria. <ulink url="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/revised-recommendations-reduce-risk-transfusion-transmitted-malaria">https://www.fda.gov/regulatory-information/search-fda-guidance-documents/revised-recommendations-reduce-risk-transfusion-transmitted-malaria</ulink>. Accessed 28 November 2022.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0029" role="bibliographyEntry">
+              <para>29.<emphasis role="strong">Ashley EA, Pyae Phyo A, Woodrow CJ.</emphasis> 2018. Malaria. <citetitle><emphasis>Lancet</emphasis></citetitle> <emphasis role="strong">391:</emphasis>1608–1621.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0030" role="bibliographyEntry">
+              <para>30.<emphasis role="strong">Phillips MA, Burrows JN, Manyando C, van Huijsduijnen RH, Van Voorhis WC, Wells TNC.</emphasis> 2017. Malaria. <citetitle><emphasis>Nat Rev Dis Primers</emphasis></citetitle> <emphasis role="strong">3:</emphasis>17050.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0031" role="bibliographyEntry">
+              <para>31.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2022. Malaria. <ulink url="https://www.cdc.gov/parasites/malaria/index.html">https://www.cdc.gov/parasites/malaria/index.html</ulink>. Accessed 28 November 2022.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0032" role="bibliographyEntry">
+              <para>32.<emphasis role="strong">World Health Organization.</emphasis> 2022. Consolidated guidelines for malaria. World Health Organization, Geneva, Switzerland.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0033" role="bibliographyEntry">
+              <para>33.<emphasis role="strong">Rowe JA, Claessens A, Corrigan RA, Arman M.</emphasis> 2009. Adhesion of <citetitle><emphasis>Plasmodium falciparum</emphasis></citetitle>-infected erythrocytes to human cells: molecular mechanisms and therapeutic implications. <citetitle><emphasis>Expert Rev Mol Med</emphasis></citetitle> <emphasis role="strong">11:</emphasis>e16.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0034" role="bibliographyEntry">
+              <para>34.<emphasis role="strong">World Health Organization.</emphasis> 2014. Severe malaria. <citetitle><emphasis>Trop Med Int Health</emphasis></citetitle> <emphasis role="strong">19</emphasis>(Suppl 1)<emphasis role="strong">:</emphasis>7–131.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0035" role="bibliographyEntry">
+              <para>35.<emphasis role="strong">Garcia LS.</emphasis> 2009. <citetitle><emphasis>Practical Guide to Diagnostic Parasitology</emphasis></citetitle>, 2nd ed. ASM Press, Washington, DC.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0036" role="bibliographyEntry">
+              <para>36.<emphasis role="strong">Clinical and Laboratory Standards Institute.</emphasis> 2000. <citetitle><emphasis>M15. A Laboratory Diagnosis of Blood-Borne Parasitic Diseases. Approved Guideline</emphasis></citetitle>, vol 12. CLSI, Wayne, PA.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0037" role="bibliographyEntry">
+              <para>37.<emphasis role="strong">Mathison BA, Pritt BS.</emphasis> 2017. Update on malaria diagnostics and test utilization. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">55:</emphasis>2009–2017.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0038" role="bibliographyEntry">
+              <para>38.<emphasis role="strong">Garcia LS, Davis RE.</emphasis> 2022. Detection of blood parasites, 9.8. <citetitle><emphasis>In</emphasis></citetitle> Leber AJ (ed), <citetitle><emphasis>Clinical Microbiology Procedures Handbook</emphasis></citetitle>, 5th ed. ASM Press, Washington, DC.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0039" role="bibliographyEntry">
+              <para>39.<emphasis role="strong">Vasoo S, Pritt BS.</emphasis> 2013. Molecular diagnostics and parasitic disease. <citetitle><emphasis>Clin Lab Med</emphasis></citetitle> <emphasis role="strong">33:</emphasis>461–503.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0040" role="bibliographyEntry">
+              <para>40.<emphasis role="strong">Garcia LS.</emphasis> 2007. <citetitle><emphasis>Diagnostic Medical Parasitology</emphasis></citetitle>, 5th ed. ASM Press, Washington, DC.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0041" role="bibliographyEntry">
+              <para>41.<emphasis role="strong">Ochola LB, Vounatsou P, Smith T, Mabaso ML, Newton CR.</emphasis> 2006. The reliability of diagnostic techniques in the diagnosis and management of malaria in the absence of a gold standard. <citetitle><emphasis>Lancet Infect Dis</emphasis></citetitle> <emphasis role="strong">6:</emphasis>582–588.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0042" role="bibliographyEntry">
+              <para>42.<emphasis role="strong">Moody A.</emphasis> 2002. Rapid diagnostic tests for malaria parasites. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">15:</emphasis>66–78.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0043" role="bibliographyEntry">
+              <para>43.<emphasis role="strong">Norgan AP, Arguello HE, Sloan LM, Fernholz EC, Pritt BS.</emphasis> 2013. A method for reducing the sloughing of thick blood films for malaria diagnosis. <citetitle><emphasis>Malar J</emphasis></citetitle> <emphasis role="strong">12:</emphasis>231.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0044" role="bibliographyEntry">
+              <para>44.<emphasis role="strong">World Health Organization .</emphasis> 2000. <citetitle><emphasis>Bench Aids for the Diagnosis of Malaria Infections.</emphasis></citetitle> World Health Organization, Geneva, Switzerland.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0045" role="bibliographyEntry">
+              <para>45.<emphasis role="strong">Lee KS, Cox-Singh J, Singh B.</emphasis> 2009. Morphological features and differential counts of <citetitle><emphasis>Plasmodium knowlesi</emphasis></citetitle> parasites in naturally acquired human infections. <citetitle><emphasis>Malar J</emphasis></citetitle> <emphasis role="strong">8:</emphasis>73.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0046" role="bibliographyEntry">
+              <para>46.<emphasis role="strong">Ash LR, Orihel TC.</emphasis> 2020. <citetitle><emphasis>Human Parasitic Diseases: A Diagnostic Atlas.</emphasis></citetitle> ASCP Press, Chicago, IL.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0047" role="bibliographyEntry">
+              <para>47.<emphasis role="strong">Garcia LS, Isenberg HD (ed).</emphasis> 2007. <citetitle><emphasis>Clinical Microbiology Procedures Handbook</emphasis></citetitle>, 2nd ed. ASM Press, Washington, DC.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0048" role="bibliographyEntry">
+              <para>48.<emphasis role="strong">Keiser J, Utzinger J, Premji Z, Yamagata Y, Singer BH.</emphasis> 2002. Acridine orange for malaria diagnosis: its diagnostic performance, its promotion and implementation in Tanzania, and the implications for malaria control. <citetitle><emphasis>Ann Trop Med Parasitol</emphasis></citetitle> <emphasis role="strong">96:</emphasis>643–654.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0049" role="bibliographyEntry">
+              <para>49.<emphasis role="strong">Cunningham J, Jones S, Gatton ML, Barnwell JW, Cheng Q, Chiodini PL, Glenn J, Incardona S, Kosack C, Luchavez J, Menard D, Nhem S, Oyibo W, Rees-Channer RR, Gonzalez I, Bell D.</emphasis> 2019. A review of the WHO malaria rapid diagnostic test product testing programme (2008-2018): performance, procurement and policy. <citetitle><emphasis>Malar J</emphasis></citetitle> <emphasis role="strong">18:</emphasis>387.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0050" role="bibliographyEntry">
+              <para>50.<emphasis role="strong">World Health Organization.</emphasis> 2018. Malaria rapid diagnostic test performance. <citetitle><emphasis>Results of WHO product testing of malaria RDTs: round</emphasis></citetitle> 8 (2016-2018). <ulink url="https://www.who.int/publications/i/item/9789241514965">https://www.who.int/publications/i/item/9789241514965</ulink>.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0051" role="bibliographyEntry">
+              <para>51.<emphasis role="strong">World Health Organization.</emphasis> 2012. Malaria rapid diagnostic test performance. <citetitle><emphasis>Results of WHO product testing of malaria RDTs: round 4.</emphasis></citetitle> TDR/World Health Organization, Geneva, Switzerland.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0052" role="bibliographyEntry">
+              <para>52.<emphasis role="strong">Fried M, Muehlenbachs A, Duffy PE.</emphasis> 2012. Diagnosing malaria in pregnancy: an update. <citetitle><emphasis>Expert Rev Anti Infect Ther</emphasis></citetitle> <emphasis role="strong">10:</emphasis>1177–1187.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0053" role="bibliographyEntry">
+              <para>53.<emphasis role="strong">Dimaio MA, Pereira IT, George TI, Banaei N.</emphasis> 2012. Performance of BinaxNOW for diagnosis of malaria in a U.S. hospital. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">50:</emphasis>2877–2880.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0054" role="bibliographyEntry">
+              <para>54.<emphasis role="strong">Ota-Sullivan K, Blecker-Shelly DL.</emphasis> 2013. Use of the rapid BinaxNOW malaria test in a 24-hour laboratory associated with accurate detection and decreased malaria testing turnaround times in a pediatric setting where malaria is not endemic. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">51:</emphasis>1567–1569.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0055" role="bibliographyEntry">
+              <anchor id="ch0163s000000a0096"/>
+              <para>55.<emphasis role="strong">Bobenchik A, Shimizu-Cohen R, Humphries RM.</emphasis> 2013. Use of rapid diagnostic tests for diagnosis of malaria in the United States. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">51:</emphasis>379.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0056" role="bibliographyEntry">
+              <para>56.<emphasis role="strong">Mixson-Hayden T, Lucchi NW, Udhayakumar V.</emphasis> 2010. Evaluation of three PCR-based diagnostic assays for detecting mixed <citetitle><emphasis>Plasmodium</emphasis></citetitle> infection. <citetitle><emphasis>BMC Res Notes</emphasis></citetitle> <emphasis role="strong">3:</emphasis>88.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0057" role="bibliographyEntry">
+              <para>57.<emphasis role="strong">Luchavez J, Espino F, Curameng P, Espina R, Bell D, Chiodini P, Nolder D, Sutherland C, Lee KS, Singh B.</emphasis> 2008. Human infections with <citetitle><emphasis>Plasmodium knowlesi</emphasis></citetitle>, the Philippines. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">14:</emphasis>811–813.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0058" role="bibliographyEntry">
+              <para>58.<emphasis role="strong">Tanomsing N, Imwong M, Sutherland CJ, Dolecek C, Hien TT, Nosten F, Day NP, White NJ, Snounou G.</emphasis> 2013. Genetic marker suitable for identification and genotyping of <citetitle><emphasis>Plasmodium ovale curtisi</emphasis></citetitle> and <citetitle><emphasis>Plasmodium ovale wallikeri. J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">51:</emphasis>4213–4216.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0059" role="bibliographyEntry">
+              <para>59.<emphasis role="strong">Swan H, Sloan L, Muyombwe A, Chavalitshewinkoon-Petmitr P, Krudsood S, Leowattana W, Wilairatana P, Looareesuwan S, Rosenblatt J.</emphasis> 2005. Evaluation of a real-time polymerase chain reaction assay for the diagnosis of malaria in patients from Thailand. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">73:</emphasis>850–854.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0060" role="bibliographyEntry">
+              <para>60.<emphasis role="strong">Shokoples SE, Ndao M, Kowalewska-Grochowska K, Yanow SK.</emphasis> 2009. Multiplexed real-time PCR assay for discrimination of <citetitle><emphasis>Plasmodium</emphasis></citetitle> species with improved sensitivity for mixed infections. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">47:</emphasis>975–980.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0061" role="bibliographyEntry">
+              <para>61.<emphasis role="strong">Cnops L, Jacobs J, Van Esbroeck M.</emphasis> 2011. Validation of a four-primer real-time PCR as a diagnostic tool for single and mixed <citetitle><emphasis>Plasmodium</emphasis></citetitle> infections. <citetitle><emphasis>Clin Microbiol Infect</emphasis></citetitle> <emphasis role="strong">17:</emphasis>1101–1107.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0062" role="bibliographyEntry">
+              <para>62.<emphasis role="strong">Johnston SP, Pieniazek NJ, Xayavong MV, Slemenda SB, Wilkins PP, da Silva AJ.</emphasis> 2006. PCR as a confirmatory technique for laboratory diagnosis of malaria. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">44:</emphasis>1087–1089.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0063" role="bibliographyEntry">
+              <para>63.<emphasis role="strong">Farcas GA, Soeller R, Zhong K, Zahirieh A, Kain KC.</emphasis> 2006. Real-time polymerase chain reaction assay for the rapid detection and characterization of chloroquine-resistant <citetitle><emphasis>Plasmodium falciparum</emphasis></citetitle> malaria in returned travelers. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">42:</emphasis>622–627.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0064" role="bibliographyEntry">
+              <para>64.<emphasis role="strong">Mahittikorn A, Masangkay FR, Kotepui KU, De Jesus Milanez G, Kotepui M.</emphasis> 2021. Comparative performance of PCR using DNA extracted from dried blood spots and whole blood samples for malaria diagnosis: a meta-analysis. <citetitle><emphasis>Sci Rep</emphasis></citetitle> <emphasis role="strong">11:</emphasis>4845.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0065" role="bibliographyEntry">
+              <para>65.<emphasis role="strong">Snounou G, Viriyakosol S, Zhu XP, Jarra W, Pinheiro L, do Rosario VE, Thaithong S, Brown KN.</emphasis> 1993. High sensitivity of detection of human malaria parasites by the use of nested polymerase chain reaction. <citetitle><emphasis>Mol Biochem Parasitol</emphasis></citetitle> <emphasis role="strong">61:</emphasis>315–320.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0066" role="bibliographyEntry">
+              <para>66.<emphasis role="strong">Kamau E, Tolbert LS, Kortepeter L, Pratt M, Nyakoe N, Muringo L, Ogutu B, Waitumbi JN, Ockenhouse CF.</emphasis> 2011. Development of a highly sensitive genus-specific quantitative reverse transcriptase real-time PCR assay for detection and quantitation of <citetitle><emphasis>plasmodium</emphasis></citetitle> by amplifying RNA and DNA of the 18S rRNA genes. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">49:</emphasis>2946–2953.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0067" role="bibliographyEntry">
+              <para>67.<emphasis role="strong">Padley DJ, Heath AB, Sutherland C, Chiodini PL, Baylis SA, Collaborative Study Group.</emphasis> 2008. Establishment of the 1st World Health Organization International Standard for <citetitle><emphasis>Plasmodium falciparum</emphasis></citetitle> DNA for nucleic acid amplification technique (NAT)-based assays. <citetitle><emphasis>Malar J</emphasis></citetitle> <emphasis role="strong">7:</emphasis>139.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0068" role="bibliographyEntry">
+              <para>68.<emphasis role="strong">Danwang C, Noubiap JJ, Souopgui J, Gaudart J, Yombi JC, Robert A.</emphasis> 2021. Accuracy of malaria diagnostic tests performed on non-invasively collected samples: a systematic review and meta-analysis. <citetitle><emphasis>BMJ Glob Health</emphasis></citetitle> <emphasis role="strong">6:</emphasis>e005634.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0069" role="bibliographyEntry">
+              <para>69.<emphasis role="strong">Mens PF, Schoone GJ, Kager PA, Schallig HD.</emphasis> 2006. Detection and identification of human <citetitle><emphasis>Plasmodium</emphasis></citetitle> species with real-time quantitative nucleic acid sequence-based amplification. <citetitle><emphasis>Malar J</emphasis></citetitle> <emphasis role="strong">5:</emphasis>80.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0070" role="bibliographyEntry">
+              <para>70.<emphasis role="strong">Sirichaisinthop J, Buates S, Watanabe R, Han ET, Suktawonjaroenpon W, Krasaesub S, Takeo S, Tsuboi T, Sattabongkot J.</emphasis> 2011. Evaluation of loop-mediated isothermal amplification (LAMP) for malaria diagnosis in a field setting. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">85:</emphasis>594–596.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0071" role="bibliographyEntry">
+              <para>71.<emphasis role="strong">LaBarre P, Hawkins KR, Gerlach J, Wilmoth J, Beddoe A, Singleton J, Boyle D, Weigl B.</emphasis> 2011. A simple, inexpensive device for nucleic acid amplification without electricity-toward instrument-free molecular diagnostics in low-resource settings. <citetitle><emphasis>PLoS One</emphasis></citetitle> <emphasis role="strong">6:</emphasis>e19738.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0072" role="bibliographyEntry">
+              <para>72.<emphasis role="strong">Mens PF, van Amerongen A, Sawa P, Kager PA, Schallig HD.</emphasis> 2008. Molecular diagnosis of malaria in the field: development of a novel 1-step nucleic acid lateral flow immunoassay for the detection of all 4 human <citetitle><emphasis>Plasmodium</emphasis></citetitle> spp. and its evaluation in Mbita, Kenya. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">61:</emphasis>421–427.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0073" role="bibliographyEntry">
+              <para>73.<emphasis role="strong">Laoboonchai A, Kawamoto F, Thanoosingha N, Kojima S, Scott Miller RR, Kain KC, Wongsrichanalai C.</emphasis> 2001. PCR-based ELISA technique for malaria diagnosis of specimens from Thailand. <citetitle><emphasis>Trop Med Int Health</emphasis></citetitle> <emphasis role="strong">6:</emphasis>458–462.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0074" role="bibliographyEntry">
+              <para>74.<emphasis role="strong">Reesink HW.</emphasis> 2005. European strategies against the parasite transfusion risk. <citetitle><emphasis>Transfus Clin Biol</emphasis></citetitle> <emphasis role="strong">12:</emphasis>1–4.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0075" role="bibliographyEntry">
+              <para>75.<emphasis role="strong">Sulzer AJ, Wilson M.</emphasis> 1971. The indirect fluorescent antibody test for the detection of occult malaria in blood donors. <citetitle><emphasis>Bull World Health Organ</emphasis></citetitle> <emphasis role="strong">45:</emphasis>375–379.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0076" role="bibliographyEntry">
+              <para>76.<emphasis role="strong">She RC, Rawlins ML, Mohl R, Perkins SL, Hill HR, Litwin CM.</emphasis> 2007. Comparison of immunofluorescence antibody testing and two enzyme immunoassays in the serologic diagnosis of malaria. <citetitle><emphasis>J Travel Med</emphasis></citetitle> <emphasis role="strong">14:</emphasis>105–111.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0077" role="bibliographyEntry">
+              <para>77.<emphasis role="strong">Demirev PA, Feldman AB, Kongkasuriyachai D, Scholl P, Sullivan D Jr, Kumar N.</emphasis> 2002. Detection of malaria parasites in blood by laser desorption mass spectrometry. <citetitle><emphasis>Anal Chem</emphasis></citetitle> <emphasis role="strong">74:</emphasis>3262–3266.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0078" role="bibliographyEntry">
+              <para>78.<emphasis role="strong">Lukianova-Hleb EY, Campbell KM, Constantinou PE, Braam J, Olson JS, Ware RE, Sullivan DJ Jr, Lapotko DO.</emphasis> 2013. Hemozoin-generated vapor nanobubbles for transdermal reagent- and needle-free detection of malaria. <citetitle><emphasis>Proc Natl Acad Sci U S A</emphasis></citetitle> <emphasis role="strong">111:</emphasis>900–905.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0079" role="bibliographyEntry">
+              <para>79.<emphasis role="strong">Grimberg BT.</emphasis> 2011. Methodology and application of flow cytometry for investigation of human malaria parasites. <citetitle><emphasis>J Immunol Methods</emphasis></citetitle> <emphasis role="strong">367:</emphasis>1–16.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0080" role="bibliographyEntry">
+              <para>80.<emphasis role="strong">Tougan T, Suzuki Y, Itagaki S, Izuka M, Toya Y, Uchihashi K, Horii T.</emphasis> 2018. An automated haematology analyzer XN-30 distinguishes developmental stages of <citetitle><emphasis>falciparum</emphasis></citetitle> malaria parasite cultured in vitro. <citetitle><emphasis>Malar J</emphasis></citetitle> <emphasis role="strong">17:</emphasis>59.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0081" role="bibliographyEntry">
+              <para>81.<emphasis role="strong">Herman DS, Rhoads DD, Schulz WL, Durant TJS.</emphasis> 2021. Artificial intelligence and mapping a new direction in laboratory medicine: a review. <citetitle><emphasis>Clin Chem</emphasis></citetitle> <emphasis role="strong">67:</emphasis>1466–1482.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0082" role="bibliographyEntry">
+              <para>82.<emphasis role="strong">Fuhad KMF, Tuba JF, Sarker MRA, Momen S, Mohammed N, Rahman T.</emphasis> 2020. Deep learning based automatic malaria parasite detection from blood smear and its smartphone based application. <citetitle><emphasis>Diagnostics (Basel)</emphasis></citetitle> <emphasis role="strong">10:</emphasis>329.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0083" role="bibliographyEntry">
+              <para>83.<emphasis role="strong">Tan KR, Wiegand RE, Arguin PM.</emphasis> 2013. Exchange transfusion for severe malaria: evidence base and literature review. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">57:</emphasis>923–928.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0084" role="bibliographyEntry">
+              <para>84.<emphasis role="strong">Worldwide Antimalarial Resistance Network.</emphasis> 2020. Malaria drug resistance. <ulink url="https://www.wwarn.org/about-us/malaria-drug-resistance">https://www.wwarn.org/about-us/malaria-drug-resistance</ulink>. Accessed 28 November 2022.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0085" role="bibliographyEntry">
+              <para>85.<emphasis role="strong">Freedman DO.</emphasis> 2008. Clinical practice. Malaria prevention in short-term travelers. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">359:</emphasis>603–612.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0086" role="bibliographyEntry">
+              <para>86.<emphasis role="strong">Sá JM, Chong JL, Wellems TE.</emphasis> 2011. Malaria drug resistance: new observations and developments. <citetitle><emphasis>Essays Biochem</emphasis></citetitle> <emphasis role="strong">51:</emphasis>137–160.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0087" role="bibliographyEntry">
+              <para>87.<emphasis role="strong">Price RN, von Seidlein L, Valecha N, Nosten F, Baird JK, White NJ.</emphasis> 2014. Global extent of chloroquine-resistant <citetitle><emphasis>Plasmodium vivax</emphasis></citetitle>: a systematic review and meta-analysis. <citetitle><emphasis>Lancet Infect Dis</emphasis></citetitle> <emphasis role="strong">14:</emphasis>982–991.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0088" role="bibliographyEntry">
+              <para>88.<emphasis role="strong">Dondorp AM, Nosten F, Yi P, Das D, Phyo AP, Tarning J, Lwin KM, Ariey F, Hanpithakpong W, Lee SJ, Ringwald P, Silamut K, Imwong M, Chotivanich K, Lim P, Herdman T, An SS, Yeung S, Singhasivanon P, Day NP, Lindegardh N, Socheat D, White NJ.</emphasis> 2009. Artemisinin resistance in <citetitle><emphasis>Plasmodium falciparum</emphasis></citetitle> malaria. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">361:</emphasis>455–467.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0089" role="bibliographyEntry">
+              <para>89.<emphasis role="strong">Imwong M, Dhorda M, Myo Tun K, Thu AM, Phyo AP, Proux S, Suwannasin K, Kunasol C, Srisutham S, Duanguppama J, Vongpromek R, Promnarate C, Saejeng A, Khantikul N, Sugaram R, Thanapongpichat S, Sawangjaroen N, Sutawong K, Han KT, Htut Y, Linn K, Win AA, Hlaing TM, van der Pluijm RW, Mayxay M, Pongvongsa T, Phommasone K, Tripura R, Peto TJ, von Seidlein L, Nguon C, Lek D, Chan XHS, Rekol H, Leang R, Huch C, Kwiatkowski DP, Miotto O, Ashley EA, Kyaw MP, Pukrittayakamee S, Day NPJ, Dondorp AM, Smithuis FM, Nosten FH, White NJ.</emphasis> 2020. Molecular epidemiology of resistance to antimalarial drugs in the Greater Mekong subregion: an observational study. <citetitle><emphasis>Lancet Infect Dis</emphasis></citetitle> <emphasis role="strong">20:</emphasis>1470–1480.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0090" role="bibliographyEntry">
+              <para>90.<emphasis role="strong">Rieckmann KH, Campbell GH, Sax LJ, Mrema JE.</emphasis> 1978. Drug sensitivity of <citetitle><emphasis>Plasmodium falciparum</emphasis></citetitle>. An in-vitro microtechnique. <citetitle><emphasis>Lancet</emphasis></citetitle> <emphasis role="strong">i:</emphasis>22–23.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0091" role="bibliographyEntry">
+              <para>91.<emphasis role="strong">Steenkeste N, Dillies MA, Khim N, Sismeiro O, Chy S, Lim P, Crameri A, Bouchier C, Mercereau-Puijalon O, Beck HP, Imwong M, Dondorp AM, Socheat D, Rogier C, Coppée JY, Ariey F.</emphasis> 2009. FlexiChip package: an universal microarray with a dedicated analysis software for high-thoughput SNPs detection linked to anti-malarial drug resistance. <citetitle><emphasis>Malar J</emphasis></citetitle> <emphasis role="strong">8:</emphasis>229.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0092" role="bibliographyEntry">
+              <para>92.<emphasis role="strong">Björkman A, Phillips-Howard PA.</emphasis> 1990. The epidemiology of drug-resistant malaria. <citetitle><emphasis>Trans R Soc Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">84:</emphasis>177–180.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0093" role="bibliographyEntry">
+              <para>93.<emphasis role="strong">Vannier EG, Diuk-Wasser MA, Ben Mamoun C, Krause PJ.</emphasis> 2015. Babesiosis. <citetitle><emphasis>Infect Dis Clin North Am</emphasis></citetitle> <emphasis role="strong">29:</emphasis>357–370.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0094" role="bibliographyEntry">
+              <para>94.<emphasis role="strong">Herwaldt BL, de Bruyn G, Pieniazek NJ, Homer M, Lofy KH, Slemenda SB, Fritsche TR, Persing DH, Limaye AP.</emphasis> 2004. <citetitle><emphasis>Babesia divergens</emphasis></citetitle>-like infection, Washington State. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">10:</emphasis>622–629.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0095" role="bibliographyEntry">
+              <para>95.<emphasis role="strong">Persing DH, Herwaldt BL, Glaser C, Lane RS, Thomford JW, Mathiesen D, Krause PJ, Phillip DF, Conrad PA.</emphasis> 1995. Infection with a <citetitle><emphasis>Babesia</emphasis></citetitle>-like organism in northern California. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">332:</emphasis>298–303.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0096" role="bibliographyEntry">
+              <para>96.<emphasis role="strong">Conrad PA, Kjemtrup AM, Carreno RA, Thomford J, Wainwright K, Eberhard M, Quick R, Telford SR III, Herwaldt BL.</emphasis> 2006. Description of <citetitle><emphasis>Babesia duncani</emphasis></citetitle> n.sp. (Apicomplexa: Babesiidae) from humans and its differentiation from other piroplasms. <citetitle><emphasis>Int J Parasitol</emphasis></citetitle> <emphasis role="strong">36:</emphasis>779–789.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0097" role="bibliographyEntry">
+              <para>97.<emphasis role="strong">Herwaldt B, Persing DH, Précigout EA, Goff WL, Mathiesen DA, Taylor PW, Eberhard ML, Gorenflot AF.</emphasis> 1996. A fatal case of babesiosis in Missouri: identification of another piroplasm that infects humans. <citetitle><emphasis>Ann Intern Med</emphasis></citetitle> <emphasis role="strong">124:</emphasis>643–650.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0098" role="bibliographyEntry">
+              <para>98.<emphasis role="strong">Goethert HK, Telford SR III.</emphasis> 2003. Enzootic transmission of <citetitle><emphasis>Babesia divergens</emphasis></citetitle> among cottontail rabbits on Nantucket Island, Massachusetts. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">69:</emphasis>455–460.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0099" role="bibliographyEntry">
+              <para>99.<emphasis role="strong">Gray J, Zintl A, Hildebrandt A, Hunfeld KP, Weiss L.</emphasis> 2010. Zoonotic babesiosis: overview of the disease and novel aspects of pathogen identity. <citetitle><emphasis>Ticks Tick Borne Dis</emphasis></citetitle> <emphasis role="strong">1:</emphasis>3–10.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0100" role="bibliographyEntry">
+              <para>100.<emphasis role="strong">Herwaldt BL, Cacciò S, Gherlinzoni F, Aspöck H, Slemenda SB, Piccaluga P, Martinelli G, Edelhofer R, Hollenstein U, Poletti G, Pampiglione S, Löschenberger K, Tura S, Pieniazek NJ.</emphasis> 2003. Molecular characterization of a non-<citetitle><emphasis>Babesia divergens</emphasis></citetitle> organism causing zoonotic babesiosis in Europe. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">9:</emphasis>942–948.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0101" role="bibliographyEntry">
+              <para>101.<emphasis role="strong">Häselbarth K, Tenter AM, Brade V, Krieger G, Hunfeld KP.</emphasis> 2007. First case of human babesiosis in Germany—clinical presentation and molecular characterisation of the pathogen. <citetitle><emphasis>Int J Med Microbiol</emphasis></citetitle> <emphasis role="strong">297:</emphasis>197–204.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0102" role="bibliographyEntry">
+              <para>102.<emphasis role="strong">Hildebrandt A, Hunfeld KP, Baier M, Krumbholz A, Sachse S, Lorenzen T, Kiehntopf M, Fricke HJ, Straube E.</emphasis> 2007. First confirmed autochthonous case of human <citetitle><emphasis>Babesia microti</emphasis></citetitle> infection in Europe. <citetitle><emphasis>Eur J Clin Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">26:</emphasis>595–601.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0103" role="bibliographyEntry">
+              <para>103.<emphasis role="strong">Shih CM, Liu LP, Chung WC, Ong SJ, Wang CC.</emphasis> 1997. Human babesiosis in Taiwan: asymptomatic infection with a <citetitle><emphasis>Babesia microti</emphasis></citetitle>-like organism in a Taiwanese woman. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">35:</emphasis>450–454.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0104" role="bibliographyEntry">
+              <para>104.<emphasis role="strong">Wei Q, Tsuji M, Zamoto A, Kohsaki M, Matsui T, Shiota T, Telford SR III, Ishihara C.</emphasis> 2001. Human babesiosis in Japan: isolation of <citetitle><emphasis>Babesia microti</emphasis></citetitle>-like parasites from an asymptomatic transfusion donor and from a rodent from an area where babesiosis is endemic. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">39:</emphasis>2178–2183.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0105" role="bibliographyEntry">
+              <para>105.<emphasis role="strong">Jiang JF, Zheng YC, Jiang RR, Li H, Huo QB, Jiang BG, Sun Y, Jia N, Wang YW, Ma L, Liu HB, Chu YL, Ni XB, Liu K, Song YD, Yao NN, Wang H, Sun T, Cao WC.</emphasis> 2015. Epidemiological, clinical, and laboratory characteristics of 48 cases of “<citetitle><emphasis>Babesia venatorum</emphasis></citetitle>” infection in China: a descriptive study. <citetitle><emphasis>Lancet Infect Dis</emphasis></citetitle> <emphasis role="strong">15:</emphasis>196–203.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0106" role="bibliographyEntry">
+              <para>106.<emphasis role="strong">Kim JY, Cho SH, Joo HN, Tsuji M, Cho SR, Park IJ, Chung GT, Ju JW, Cheun HI, Lee HW, Lee YH, Kim TS.</emphasis> 2007. First case of human babesiosis in Korea: detection and characterization of a novel type of <citetitle><emphasis>Babesia</emphasis></citetitle> sp. (KO1) similar to ovine <citetitle><emphasis>Babesia. J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">45:</emphasis>2084–2087.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0107" role="bibliographyEntry">
+              <para>107.<emphasis role="strong">Hunfeld KP, Hildebrandt A, Gray JS.</emphasis> 2008. Babesiosis: recent insights into an ancient disease. <citetitle><emphasis>Int J Parasitol</emphasis></citetitle> <emphasis role="strong">38:</emphasis>1219–1237.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0108" role="bibliographyEntry">
+              <para>108.<emphasis role="strong">Jia N, Zheng YC, Jiang JF, Jiang RR, Jiang BG, Wei R, Liu HB, Huo QB, Sun Y, Chu YL, Fan H, Chang QC, Yao NN, Zhang WH, Wang H, Guo DH, Fu X, Wang YW, Krause PJ, Song JL, Cao WC.</emphasis> 2018. Human babesiosis caused by a <citetitle><emphasis>Babesia crassa</emphasis></citetitle>-like pathogen: a case series. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">67:</emphasis>1110–1119.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0109" role="bibliographyEntry">
+              <para>109.<emphasis role="strong">Cornillot E, Hadj-Kaddour K, Dassouli A, Noel B, Ranwez V, Vacherie B, Augagneur Y, Brès V, Duclos A, Randazzo S, Carcy B, Debierre-Grockiego F, Delbecq S, Moubri-Ménage K, Shams-Eldin H, Usmani-Brown S, Bringaud F, Wincker P, Vivarès CP, Schwarz RT, Schetters TP, Krause PJ, Gorenflot A, Berry V, Barbe V, Ben Mamoun C.</emphasis> 2012. Sequencing of the smallest Apicomplexan genome from the human pathogen <citetitle><emphasis>Babesia microti. Nucleic Acids Res</emphasis></citetitle> <emphasis role="strong">40:</emphasis>9102–9114.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0110" role="bibliographyEntry">
+              <para>110.<emphasis role="strong">Puri A, Bajpai S, Meredith S, Aravind L, Krause PJ, Kumar S.</emphasis> 2021. <citetitle><emphasis>Babesia microti</emphasis></citetitle>: pathogen genomics, genetic variability, immunodominant antigens, and pathogenesis. <citetitle><emphasis>Front Microbiol</emphasis></citetitle> <emphasis role="strong">12:</emphasis>697669.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0111" role="bibliographyEntry">
+              <para>111.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2020. Parasites—babesiosis. <ulink url="https://www.cdc.gov/parasites/babesiosis/gen_info/faqs.html">https://www.cdc.gov/parasites/babesiosis/gen_info/faqs.html</ulink>. Accessed 28 November 2022.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0112" role="bibliographyEntry">
+              <para>112.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2012. Babesiosis surveillance—18 states, 2011. <citetitle><emphasis>MMWR Morb Mortal Wkly Rep</emphasis></citetitle> <emphasis role="strong">61:</emphasis>505–509.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0113" role="bibliographyEntry">
+              <para>113.<emphasis role="strong">Vannier E, Krause PJ.</emphasis> 2012. Human babesiosis. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">366:</emphasis>2397–2407.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0114" role="bibliographyEntry">
+              <para>114.<emphasis role="strong">European Centre for Disease Prevention and Control.</emphasis> 2022. Babesiosis. <ulink url="https://www.ecdc.europa.eu/en/babesiosis">https://www.ecdc.europa.eu/en/babesiosis</ulink>. Accessed 28 November 2022.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0115" role="bibliographyEntry">
+              <para>115.<emphasis role="strong">Zintl A, Mulcahy G, Skerrett HE, Taylor SM, Gray JS.</emphasis> 2003. <citetitle><emphasis>Babesia divergens</emphasis></citetitle>, a bovine blood parasite of veterinary and zoonotic importance. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">16:</emphasis>622–636.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0116" role="bibliographyEntry">
+              <para>116.<emphasis role="strong">Leiby DA.</emphasis> 2011. Transfusion-transmitted <citetitle><emphasis>Babesia</emphasis></citetitle> spp.: bull’s-eye on <citetitle><emphasis>Babesia microti. Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">24:</emphasis>14–28.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0117" role="bibliographyEntry">
+              <para>117.<emphasis role="strong">Tonnetti L, Stramer S.</emphasis> 2020. The long road to <citetitle><emphasis>Babesia</emphasis></citetitle> blood donation screening. <citetitle><emphasis>Annals of Blood</emphasis></citetitle> <emphasis role="strong">5</emphasis>.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0118" role="bibliographyEntry">
+              <para>118.<emphasis role="strong">Joseph JT, Purtill K, Wong SJ, Munoz J, Teal A, Madison-Antenucci S, Horowitz HW, Aguero-Rosenfeld ME, Moore JM, Abramowsky C, Wormser GP.</emphasis> 2012. Vertical transmission of <citetitle><emphasis>Babesia microti</emphasis></citetitle>, United States. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">18:</emphasis>1318–1321.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0119" role="bibliographyEntry">
+              <para>119.<emphasis role="strong">Herwaldt BL, Linden JV, Bosserman E, Young C, Olkowska D, Wilson M.</emphasis> 2011. Transfusion-associated babesiosis in the United States: a description of cases. <citetitle><emphasis>Ann Intern Med</emphasis></citetitle> <emphasis role="strong">155:</emphasis>509–519.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0120" role="bibliographyEntry">
+              <para>120.<emphasis role="strong">Burgess MJ, Rosenbaum ER, Pritt BS, Haselow DT, Ferren KM, Alzghoul BN, Rico JC, Sloan LM, Ramanan P, Purushothaman R, Bradsher RW.</emphasis> 2017. Possible transfusion-transmitted <citetitle><emphasis>Babesia divergens</emphasis></citetitle>-like/MO-1 infection in an Arkansas patient. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">64:</emphasis>1622–1625.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0121" role="bibliographyEntry">
+              <para>121.<emphasis role="strong">Moritz ED, Winton CS, Tonnetti L, Townsend RL, Berardi VP, Hewins ME, Weeks KE, Dodd RY, Stramer SL.</emphasis> 2016. Screening for <citetitle><emphasis>Babesia microti</emphasis></citetitle> in the U.S. blood supply. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">375:</emphasis>2236–2245.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0122" role="bibliographyEntry">
+              <para>122.<emphasis role="strong">Wormser GP, Dattwyler RJ, Shapiro ED, Halperin JJ, Steere AC, Klempner MS, Krause PJ, Bakken JS, Strle F, Stanek G, Bockenstedt L, Fish D, Dumler JS, Nadelman RB.</emphasis> 2006. The clinical assessment, treatment, and prevention of Lyme disease, human granulocytic anaplasmosis, and babesiosis: clinical practice guidelines by the Infectious Diseases Society of America. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">43:</emphasis>1089–1134.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0123" role="bibliographyEntry">
+              <para>123.<emphasis role="strong">Sanchez E, Vannier E, Wormser GP, Hu LT.</emphasis> 2016. Diagnosis, treatment, and prevention of Lyme disease, human granulocytic anaplasmosis, and babesiosis: a review. <citetitle><emphasis>JAMA</emphasis></citetitle> <emphasis role="strong">315:</emphasis>1767–1777.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0124" role="bibliographyEntry">
+              <para>124.<emphasis role="strong">Diuk-Wasser MA, Vannier E, Krause PJ.</emphasis> 2016. Coinfection by <citetitle><emphasis>Ixodes</emphasis></citetitle> tick-borne pathogens: ecological, epidemiological, and clinical consequences. <citetitle><emphasis>Trends Parasitol</emphasis></citetitle> <emphasis role="strong">32:</emphasis>30–42.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0125" role="bibliographyEntry">
+              <anchor id="ch0163s000000a0098"/>
+              <para>125.<emphasis role="strong">Krause PJ, Gewurz BE, Hill D, Marty FM, Vannier E, Foppa IM, Furman RR, Neuhaus E, Skowron G, Gupta S, McCalla C, Pesanti EL, Young M, Heiman D, Hsue G, Gelfand JA, Wormser GP, Dickason J, Bia FJ, Hartman B, Telford SR III, Christianson D, Dardick K, Coleman M, Girotto JE, Spielman A.</emphasis> 2008. Persistent and relapsing babesiosis in immunocompromised patients. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">46:</emphasis>370–376.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0126" role="bibliographyEntry">
+              <para>126.<emphasis role="strong">Persing DH, Mathiesen D, Marshall WF, Telford SR, Spielman A, Thomford JW, Conrad PA.</emphasis> 1992. Detection of <citetitle><emphasis>Babesia microti</emphasis></citetitle> by polymerase chain reaction. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">30:</emphasis>2097–2103.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0127" role="bibliographyEntry">
+              <para>127.<emphasis role="strong">Krause PJ, Telford S III, Spielman A, Ryan R, Magera J, Rajan TV, Christianson D, Alberghini TV, Bow L, Persing D.</emphasis> 1996. Comparison of PCR with blood smear and inoculation of small animals for diagnosis of <citetitle><emphasis>Babesia microti</emphasis></citetitle> parasitemia. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">34:</emphasis>2791–2794.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0128" role="bibliographyEntry">
+              <para>128.<emphasis role="strong">Teal AE, Habura A, Ennis J, Keithly JS, Madison-Antenucci S.</emphasis> 2012. A new real-time PCR assay for improved detection of the parasite <citetitle><emphasis>Babesia microti. J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">50:</emphasis>903–908.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0129" role="bibliographyEntry">
+              <para>129.<emphasis role="strong">Liu D (ed).</emphasis> 2012. <citetitle><emphasis>Molecular Detection of Human Parasitic Pathogens.</emphasis></citetitle> CRC Press, Boca Raton, FL.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0130" role="bibliographyEntry">
+              <para>130.<emphasis role="strong">Brandt F, Healy GR, Welch M.</emphasis> 1977. Human babesiosis: the isolation of <citetitle><emphasis>Babesia microti</emphasis></citetitle> in golden hamsters. <citetitle><emphasis>J Parasitol</emphasis></citetitle> <emphasis role="strong">63:</emphasis>934–937.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0131" role="bibliographyEntry">
+              <para>131.<emphasis role="strong">Krause PJ, Telford SR III, Ryan R, Conrad PA, Wilson M, Thomford JW, Spielman A.</emphasis> 1994. Diagnosis of babesiosis: evaluation of a serologic test for the detection of <citetitle><emphasis>Babesia microti</emphasis></citetitle> antibody. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">169:</emphasis>923–926.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0132" role="bibliographyEntry">
+              <para>132.<emphasis role="strong">Chisholm ES, Ruebush TK II, Sulzer AJ, Healy GR.</emphasis> 1978. <citetitle><emphasis>Babesia microti</emphasis></citetitle> infection in man: evaluation of an indirect immunofluorescent antibody test. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">27:</emphasis>14–19.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0133" role="bibliographyEntry">
+              <para>133.<emphasis role="strong">Homer MJ, Aguilar-Delfin I, Telford SR III, Krause PJ, Persing DH.</emphasis> 2000. Babesiosis. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">13:</emphasis>451–469.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0134" role="bibliographyEntry">
+              <para>134.<emphasis role="strong">Duh D, Jelovsek M, Avsic-Zupanc T.</emphasis> 2007. Evaluation of an indirect fluorescence immunoassay for the detection of serum antibodies against <citetitle><emphasis>Babesia divergens</emphasis></citetitle> in humans. <citetitle><emphasis>Parasitology</emphasis></citetitle> <emphasis role="strong">134:</emphasis>179–185.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0135" role="bibliographyEntry">
+              <para>135.<emphasis role="strong">Quick RE, Herwaldt BL, Thomford JW, Garnett ME, Eberhard ML, Wilson M, Spach DH, Dickerson JW, Telford SR III, Steingart KR, Pollock R, Persing DH, Kobayashi JM, Juranek DD, Conrad PA.</emphasis> 1993. Babesiosis in Washington State: a new species of <citetitle><emphasis>Babesia? Ann Intern Med</emphasis></citetitle> <emphasis role="strong">119:</emphasis>284–290.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0136" role="bibliographyEntry">
+              <para>136.<emphasis role="strong">Westblade LF, Simon MS, Mathison BA, Kirkman LA.</emphasis> 2017. <citetitle><emphasis>Babesia microti</emphasis></citetitle>: from mice to ticks to an increasing number of highly susceptible humans. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">55:</emphasis>2903–2912.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0137" role="bibliographyEntry">
+              <para>137.<emphasis role="strong">John DT, Petri WA, Markell EKM.</emphasis> 2006. <citetitle><emphasis>Markell and Voge’s Medical Parasitology</emphasis></citetitle>, 9th ed, p 79–106. Saunders Elsevier, St. Louis, MO.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0138" role="bibliographyEntry">
+              <para>138.<emphasis role="strong">Gay F, Traoré B, Zanoni J, Danis M, Fribourg-Blanc A.</emphasis> 1996. Direct acridine orange fluorescence examination of blood slides compared to current techniques for malaria diagnosis. <citetitle><emphasis>Trans R Soc Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">90:</emphasis>516–518.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0139" role="bibliographyEntry">
+              <para>139.<emphasis role="strong">Long GW, Jones TR, Rickman LS, Trimmer R, Hoffman SL.</emphasis> 1991. Acridine orange detection of <citetitle><emphasis>Plasmodium falciparum</emphasis></citetitle> malaria: relationship between sensitivity and optical configuration. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">44:</emphasis>402–405.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0140" role="bibliographyEntry">
+              <para>140.<emphasis role="strong">Rickman LS, Long GW, Oberst R, Cabanban A, Sangalang R, Smith JI, Chulay JD, Hoffman SL.</emphasis> 1989. Rapid diagnosis of malaria by acridine orange staining of centrifuged parasites. <citetitle><emphasis>Lancet</emphasis></citetitle> <emphasis role="strong">i:</emphasis>68–71.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0141" role="bibliographyEntry">
+              <para>141.<emphasis role="strong">Spielman A, Perrone JB, Teklehaimanot A, Balcha F, Wardlaw SC, Levine RA.</emphasis> 1988. Malaria diagnosis by direct observation of centrifuged samples of blood. <citetitle><emphasis>Am J Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">39:</emphasis>337–342.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0142" role="bibliographyEntry">
+              <para>142.<emphasis role="strong">van Vianen PH, van Engen A, Thaithong S, van der Keur M, Tanke HJ, van der Kaay HJ, Mons B, Janse CJ.</emphasis> 1993. Flow cytometric screening of blood samples for malaria parasites. <citetitle><emphasis>Cytometry</emphasis></citetitle> <emphasis role="strong">14:</emphasis>276–280.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0143" role="bibliographyEntry">
+              <para>143.<emphasis role="strong">Jamjoom GA.</emphasis> 1983. Dark-field microscopy for detection of malaria in unstained blood films. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">17:</emphasis>717–721.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0144" role="bibliographyEntry">
+              <para>144.<emphasis role="strong">Jamjoom GA.</emphasis> 1991. Improvement in dark-field microscopy for the rapid detection of malaria parasites and its adaptation to field conditions. <citetitle><emphasis>Trans R Soc Trop Med Hyg</emphasis></citetitle> <emphasis role="strong">85:</emphasis>38–39.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0145" role="bibliographyEntry">
+              <para>145.<emphasis role="strong">Connor DH.</emphasis> 1997. <citetitle><emphasis>Pathology of Infectious Diseases.</emphasis></citetitle> Appleton &amp; Lange, Stamford, CT.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0146" role="bibliographyEntry">
+              <para>146.<emphasis role="strong">World Health Organization.</emphasis> 2017. WHO-FIND malaria RDT evaluation programme. <ulink url="https://www.who.int/news/item/29-11-2017-changes-to-the-who-find-malaria-rdt-lot-testing-programme">https://www.who.int/news/item/29-11-2017-changes-to-the-who-find-malaria-rdt-lot-testing-programme</ulink>.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0147" role="bibliographyEntry">
+              <para>147.<emphasis role="strong">Franzén L, Westin G, Shabo R, Aslund L, Perlmann H, Persson T, Wigzell H, Pettersson U.</emphasis> 1984. Analysis of clinical specimens by hybridisation with probe containing repetitive DNA from <citetitle><emphasis>Plasmodium falciparum</emphasis></citetitle>. A novel approach to malaria diagnosis. <citetitle><emphasis>Lancet</emphasis></citetitle> <emphasis role="strong">i:</emphasis>525–528.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0148" role="bibliographyEntry">
+              <para>148.<emphasis role="strong">Barker RH Jr, Suebsaeng L, Rooney W, Alecrim GC, Dourado HV, Wirth DF.</emphasis> 1986. Specific DNA probe for the diagnosis of <citetitle><emphasis>Plasmodium falciparum</emphasis></citetitle> malaria. <citetitle><emphasis>Science</emphasis></citetitle> <emphasis role="strong">231:</emphasis>1434–1436.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0149" role="bibliographyEntry">
+              <para>149.<emphasis role="strong">Roth JM, Korevaar DA, Leeflang MM, Mens PF.</emphasis> 2016. Molecular malaria diagnostics: a systematic review and meta-analysis. <citetitle><emphasis>Crit Rev Clin Lab Sci</emphasis></citetitle> <emphasis role="strong">53:</emphasis>87–105.</para>
+            </listitem>
+            <listitem id="ch0163s000000li0150" role="bibliographyEntry">
+              <para>150.<emphasis role="strong">Han ET, Watanabe R, Sattabongkot J, Khuntirat B, Sirichaisinthop J, Iriko H, Jin L, Takeo S, Tsuboi T.</emphasis> 2007. Detection of four <citetitle><emphasis>Plasmodium</emphasis></citetitle> species by genus- and species-specific loop-mediated isothermal amplification for clinical diagnosis. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">45:</emphasis>2521–2528.</para>
+            </listitem>
+          </itemizedlist>
+          <anchor id="ch0163s000000a0097"/>
+          <beginpage pagenum="2775"/>
+        </sect3>
+      </sect2>
+    </sect1>
+  </chapter>
