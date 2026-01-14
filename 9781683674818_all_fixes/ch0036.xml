@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <chapter id="ch0036">
     <title>GRAM-POSITIVE COCCI</title>
-    <sect1 id="ch0036s0001">
+    <sect1 id="ch0036s10000">
       <title>GRAM-POSITIVE COCCI</title>
-      <anchor id="ch0036s0001a0001"/>
-      <sect2 id="ch0036s0001s0001">
+      <anchor id="ch0036s0000a0001"/>
+      <sect2 id="ch0036s10001">
         <title>20 Approaches to the Identification of Aerobic Gram-Positive Cocci</title>
-        <anchor id="ch0036s0001s0001a0001"/>
+        <anchor id="ch0036s10001a0001"/>
         <para role="chapterAuthor"><phrase role="center">XIAOHUI CHEN NIELSEN AND JENS JØRGEN CHRISTENSEN</phrase>
         </para>
-        <para id="ch0036s0001s0001p0001">The majority of aerobic, or facultatively anaerobic, Gram-positive cocci isolated from clinical specimens are distributed among the genera<emphasis>Staphylococcus, Streptococcus</emphasis>, and <emphasis>Enterococcus</emphasis>. Molecular taxonomic studies of this group of bacteria have revealed additional genera and species that are phenotypically similar to the commonly encountered organisms but are infrequently isolated from clinical specimens. <anchor id="ch0036s0001s0001a0002"/><link linkend="ch0036s0001s0001a0006">Tables 1</link> and <anchor id="ch0036s0001s0001a0003"/><link linkend="ch0036s0001s0001a0023">2</link> and <ulink url="ch0037#ch0037s0001">chapters 21</ulink> to <ulink url="ch0040#ch0040s0001">24</ulink> of this <emphasis>Manual</emphasis> describe basic phenotypic tests that can be used to distinguish these infrequent isolates from staphylococci, streptococci, and enterococci. It should be noted that the reactions listed in <link linkend="ch0036s0001s0001a0006">Tables 1</link> and <link linkend="ch0036s0001s0001a0023">2</link> represent those of the majority of strains in each group; isolates with variant reactions may be encountered. Each of the tables contains organisms with similar cellular morphologies, either “streptococcal,” consisting of Gram-positive cocci or coccobacilli arranged primarily in pairs and/or chains, or “staphylococcal,” signifying that cells appear as cocci arranged in pairs, tetrads, clusters, and irregular groups. No taxonomic kinship is implied by division of these bacteria into two groups based on cellular morphology. The commonly isolated aerobic Gram-positive cocci (staphylococci, streptococci, and enterococci) can usually be accurately identified by determining a few basic phenotypic traits (cellular morphology, catalase reaction, production of pyrrolidonyl arylamidase [PYR], etc.) (<link linkend="ch0036s0001s0001s0001li0001">1</link>) (see <link linkend="ch0036s0001s0001a0006">Tables 1</link> and <link linkend="ch0036s0001s0001a0023">2</link> in this chapter, and <ulink url="ch0037#ch0037s0001">chapters 21</ulink> to <ulink url="ch0040#ch0040s0001">24</ulink>). Reliance on a single or only a few phenotypic tests can, however, lead to misidentification. For example, optochin-resistant <emphasis>Streptococcus pneumoniae</emphasis> strains (<link linkend="ch0036s0001s0001s0001li0002">2</link>) might be incorrectly identified as alpha-hemolytic (viridans group) streptococci (<ulink url="ch0038#ch0038s0001">chapter 22</ulink>). Clumping factor (slide coagulase)-positive <emphasis>Staphylococcus lugdunensis</emphasis>, a coagulase-negative species, could be misidentified as <emphasis>Staphylococcus aureus</emphasis> (<link linkend="ch0036s0001s0001s0001li0003">3</link>) (see <ulink url="ch0037#ch0037s0001">chapter 21</ulink>). PYR-positive <emphasis>Lactococcus</emphasis> isolates might be incorrectly identified as members of the genus <emphasis>Enterococcus</emphasis> (<link linkend="ch0036s0001s0001s0001li0004">4</link>) (see <ulink url="ch0039#ch0039s0001">chapter 23</ulink>).</para>
-        <para id="ch0036s0001s0001p0002">As new genera and species of aerobic Gram-positive cocci are described and characterized, it becomes increasingly difficult to identify some of the less frequently isolated organisms solely on the basis of phenotypic traits. A variety of automated and manual systems have proven to be fairly accurate for identification of commonly encountered staphylococcal, streptococcal, and enterococcal species (see the “Identification” sections in<ulink url="ch0037#ch0037s0001">chapters 21</ulink> to <ulink url="ch0040#ch0040s0001">24</ulink>) (<link linkend="ch0036s0001s0001s0001li0005">5</link>–<link linkend="ch0036s0001s0001s0001li0007">7</link>). These systems are less effective for identification of infrequently isolated aerobic Gram-positive cocci (see <ulink url="ch0040#ch0040s0001">chapter 24</ulink>). The less commonly isolated organisms may not be identified by these systems or may be misidentified as other genera or species. Basic phenotypic tests can usually suggest a possible identity for strains of infrequently encountered aerobic Gram-positive cocci, but evaluation with a larger battery of phenotypic tests, molecular identification methods, and matrix-assisted laser desorption ionization–time of flight mass spectrometry (MALDI-TOF MS) is often valuable, if not indispensable, for accurate identification. The constant improvement of MALDI-TOF MS methodology, including database updates for the commercially available systems, has made MS very attractive as a main routine identification method of Gram-positive cocci, supplemented with phenotypic methods and other molecular methods when needed. In <link linkend="ch0036s0001s0001a0006">Tables 1</link> and <link linkend="ch0036s0001s0001a0023">2</link>, a number of genera and species included in the most recently updated <emphasis>in vitro</emphasis> diagnostic (IVD) databases from Bruker and bioMérieux are given. Research-use-only (RUO) databases exist for both systems.</para>
-        <para id="ch0036s0001s0001p0003">Nucleic acid amplification methods for identification of some of the commonly isolated aerobic Gram-positive cocci are commercially available and designed for use in medium- to large-volume clinical microbiology laboratories. These methods may also be useful for ruling out enterococcal, streptococcal, or staphylococcal strains when phenotypically similar, infrequently isolated organisms are being identified. One of the most useful methods for molecular characterization of aerobic Gram-positive cocci of clinical interest is comparison of 16S rRNA gene sequences (<link linkend="ch0036s0001s0001s0001li0008">8</link>), although sequence comparison of other genes may also be helpful for identification. Genes that have been examined for this purpose include the <emphasis>rpoB, tuf</emphasis>, and <emphasis>sodA</emphasis> genes of staphylococci (<link linkend="ch0036s0001s0001s0001li0009">9</link>), the <emphasis>rpoB</emphasis> gene of streptococci (<link linkend="ch0036s0001s0001s0001li0010">10</link>), and the <emphasis>atpA</emphasis> gene of enterococci (<link linkend="ch0036s0001s0001s0001li0011">11</link>). Other identification methods, such as multilocus sequence analysis of enterococci (<emphasis>rpoA</emphasis> and <emphasis>pheS</emphasis> genes) (<link linkend="ch0036s0001s0001s0001li0012">12</link>) and melting-curve analysis of restriction fragments obtained from amplified regions of the <emphasis>sodA</emphasis> gene and the 16S-23S intergenic spacer region (enterococci and genera and species resembling nonhemolytic streptococci) (<link linkend="ch0036s0001s0001s0001li0013">13</link>, <link linkend="ch0036s0001s0001s0001li0014">14</link>), have also been reported.</para>
-        <anchor id="ch0036s0001s0001a0004"/>
+        <para id="ch0036s0000p0001">The majority of aerobic, or facultatively anaerobic, Gram-positive cocci isolated from clinical specimens are distributed among the genera<emphasis>Staphylococcus, Streptococcus</emphasis>, and <emphasis>Enterococcus</emphasis>. Molecular taxonomic studies of this group of bacteria have revealed additional genera and species that are phenotypically similar to the commonly encountered organisms but are infrequently isolated from clinical specimens. <anchor id="ch0036s0000a0002"/><link linkend="ch0036s0000a0006">Tables 1</link> and <anchor id="ch0036s0000a0003"/><link linkend="ch0036s0000a0023">2</link> and <ulink url="ch0037#ch0037s0001">chapters 21</ulink> to <ulink url="ch0040#ch0040s0001">24</ulink> of this <emphasis>Manual</emphasis> describe basic phenotypic tests that can be used to distinguish these infrequent isolates from staphylococci, streptococci, and enterococci. It should be noted that the reactions listed in <link linkend="ch0036s0000a0006">Tables 1</link> and <link linkend="ch0036s0000a0023">2</link> represent those of the majority of strains in each group; isolates with variant reactions may be encountered. Each of the tables contains organisms with similar cellular morphologies, either “streptococcal,” consisting of Gram-positive cocci or coccobacilli arranged primarily in pairs and/or chains, or “staphylococcal,” signifying that cells appear as cocci arranged in pairs, tetrads, clusters, and irregular groups. No taxonomic kinship is implied by division of these bacteria into two groups based on cellular morphology. The commonly isolated aerobic Gram-positive cocci (staphylococci, streptococci, and enterococci) can usually be accurately identified by determining a few basic phenotypic traits (cellular morphology, catalase reaction, production of pyrrolidonyl arylamidase [PYR], etc.) (<link linkend="ch0036s0000li0001">1</link>) (see <link linkend="ch0036s0000a0006">Tables 1</link> and <link linkend="ch0036s0000a0023">2</link> in this chapter, and <ulink url="ch0037#ch0037s0001">chapters 21</ulink> to <ulink url="ch0040#ch0040s0001">24</ulink>). Reliance on a single or only a few phenotypic tests can, however, lead to misidentification. For example, optochin-resistant <emphasis>Streptococcus pneumoniae</emphasis> strains (<link linkend="ch0036s0000li0002">2</link>) might be incorrectly identified as alpha-hemolytic (viridans group) streptococci (<ulink url="ch0038#ch0038s0001">chapter 22</ulink>). Clumping factor (slide coagulase)-positive <emphasis>Staphylococcus lugdunensis</emphasis>, a coagulase-negative species, could be misidentified as <emphasis>Staphylococcus aureus</emphasis> (<link linkend="ch0036s0000li0003">3</link>) (see <ulink url="ch0037#ch0037s0001">chapter 21</ulink>). PYR-positive <emphasis>Lactococcus</emphasis> isolates might be incorrectly identified as members of the genus <emphasis>Enterococcus</emphasis> (<link linkend="ch0036s0000li0004">4</link>) (see <ulink url="ch0039#ch0039s0001">chapter 23</ulink>).</para>
+        <para id="ch0036s0000p0002">As new genera and species of aerobic Gram-positive cocci are described and characterized, it becomes increasingly difficult to identify some of the less frequently isolated organisms solely on the basis of phenotypic traits. A variety of automated and manual systems have proven to be fairly accurate for identification of commonly encountered staphylococcal, streptococcal, and enterococcal species (see the “Identification” sections in<ulink url="ch0037#ch0037s0001">chapters 21</ulink> to <ulink url="ch0040#ch0040s0001">24</ulink>) (<link linkend="ch0036s0000li0005">5</link>–<link linkend="ch0036s0000li0007">7</link>). These systems are less effective for identification of infrequently isolated aerobic Gram-positive cocci (see <ulink url="ch0040#ch0040s0001">chapter 24</ulink>). The less commonly isolated organisms may not be identified by these systems or may be misidentified as other genera or species. Basic phenotypic tests can usually suggest a possible identity for strains of infrequently encountered aerobic Gram-positive cocci, but evaluation with a larger battery of phenotypic tests, molecular identification methods, and matrix-assisted laser desorption ionization–time of flight mass spectrometry (MALDI-TOF MS) is often valuable, if not indispensable, for accurate identification. The constant improvement of MALDI-TOF MS methodology, including database updates for the commercially available systems, has made MS very attractive as a main routine identification method of Gram-positive cocci, supplemented with phenotypic methods and other molecular methods when needed. In <link linkend="ch0036s0000a0006">Tables 1</link> and <link linkend="ch0036s0000a0023">2</link>, a number of genera and species included in the most recently updated <emphasis>in vitro</emphasis> diagnostic (IVD) databases from Bruker and bioMérieux are given. Research-use-only (RUO) databases exist for both systems.</para>
+        <para id="ch0036s0000p0003">Nucleic acid amplification methods for identification of some of the commonly isolated aerobic Gram-positive cocci are commercially available and designed for use in medium- to large-volume clinical microbiology laboratories. These methods may also be useful for ruling out enterococcal, streptococcal, or staphylococcal strains when phenotypically similar, infrequently isolated organisms are being identified. One of the most useful methods for molecular characterization of aerobic Gram-positive cocci of clinical interest is comparison of 16S rRNA gene sequences (<link linkend="ch0036s0000li0008">8</link>), although sequence comparison of other genes may also be helpful for identification. Genes that have been examined for this purpose include the <emphasis>rpoB, tuf</emphasis>, and <emphasis>sodA</emphasis> genes of staphylococci (<link linkend="ch0036s0000li0009">9</link>), the <emphasis>rpoB</emphasis> gene of streptococci (<link linkend="ch0036s0000li0010">10</link>), and the <emphasis>atpA</emphasis> gene of enterococci (<link linkend="ch0036s0000li0011">11</link>). Other identification methods, such as multilocus sequence analysis of enterococci (<emphasis>rpoA</emphasis> and <emphasis>pheS</emphasis> genes) (<link linkend="ch0036s0000li0012">12</link>) and melting-curve analysis of restriction fragments obtained from amplified regions of the <emphasis>sodA</emphasis> gene and the 16S-23S intergenic spacer region (enterococci and genera and species resembling nonhemolytic streptococci) (<link linkend="ch0036s0000li0013">13</link>, <link linkend="ch0036s0000li0014">14</link>), have also been reported.</para>
+        <anchor id="ch0036s0000a0004"/>
         <beginpage pagenum="388"/>
-        <anchor id="ch0036s0001s0001a0005"/>
+        <anchor id="ch0036s0000a0005"/>
         <beginpage pagenum="389"/>
-        <table id="ch0036s0001s0001t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0036s0001s0001a0006"/><link linkend="ch0036s0001s0001a0002">TABLE 1</link></phrase></emphasis> Characteristics and availability of taxons in two MALDI-TOF MS databases of catalase-negative Gram-positive cocci that grow aerobically and form cells arranged in pairs and chains<superscript><link linkend="ch0036s0001s0001a0015"><emphasis>a</emphasis></link></superscript><anchor id="ch0036s0001s0001a0007"/>
+        <table id="ch0036s0000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0036s0000a0006"/><link linkend="ch0036s0000a0002">TABLE 1</link></phrase></emphasis> Characteristics and availability of taxons in two MALDI-TOF MS databases of catalase-negative Gram-positive cocci that grow aerobically and form cells arranged in pairs and chains<superscript><link linkend="ch0036s0000a0015"><emphasis>a</emphasis></link></superscript><anchor id="ch0036s0000a0007"/>
 </title>
           
           <tgroup cols="13">
@@ -45,8 +45,8 @@
                 </entry>
                 <entry><phrase role="center">Organism (chapter)</phrase>
                 </entry>
-                <entry><phrase role="center">MALDI-TOF MS, Bruker/bioMérieux<superscript><link linkend="ch0036s0001s0001a0016"><emphasis>b</emphasis></link></superscript></phrase>
-                  <anchor id="ch0036s0001s0001a0008"/>
+                <entry><phrase role="center">MALDI-TOF MS, Bruker/bioMérieux<superscript><link linkend="ch0036s0000a0016"><emphasis>b</emphasis></link></superscript></phrase>
+                  <anchor id="ch0036s0000a0008"/>
                 </entry>
               </row>
               <row>
@@ -70,10 +70,10 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><phrase role="center">NA<superscript><link linkend="ch0036s0001s0001a0017"><emphasis>c</emphasis></link></superscript></phrase>
-                  <anchor id="ch0036s0001s0001a0009"/>
+                <entry><phrase role="center">NA<superscript><link linkend="ch0036s0000a0017"><emphasis>c</emphasis></link></superscript></phrase>
+                  <anchor id="ch0036s0000a0009"/>
                 </entry>
-                <entry><emphasis>Enterococcus</emphasis> (<link linkend="ch0036s0001s0001s0001li0023">23</link>)</entry>
+                <entry><emphasis>Enterococcus</emphasis> (<link linkend="ch0036s0000li0023">23</link>)</entry>
                 <entry><phrase role="center">34/13</phrase>
                 </entry>
               </row>
@@ -100,7 +100,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Vagococcus</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Vagococcus</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">3/1</phrase>
                 </entry>
               </row>
@@ -125,9 +125,9 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><phrase role="center">NA<superscript><link linkend="ch0036s0001s0001a0016"><emphasis>c</emphasis></link></superscript></phrase>
+                <entry><phrase role="center">NA<superscript><link linkend="ch0036s0000a0016"><emphasis>c</emphasis></link></superscript></phrase>
                 </entry>
-                <entry><emphasis>Enterococcus</emphasis> (<link linkend="ch0036s0001s0001s0001li0023">23</link>)</entry>
+                <entry><emphasis>Enterococcus</emphasis> (<link linkend="ch0036s0000li0023">23</link>)</entry>
                 <entry><phrase role="center">34/13</phrase>
                 </entry>
               </row>
@@ -154,7 +154,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Lactococcus</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Lactococcus</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">6/3</phrase>
                 </entry>
               </row>
@@ -181,7 +181,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Facklamia</emphasis> spp.<superscript><link linkend="ch0036s0001s0001a0018"><emphasis>d</emphasis></link></superscript><anchor id="ch0036s0001s0001a0010"/> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Facklamia</emphasis> spp.<superscript><link linkend="ch0036s0000a0018"><emphasis>d</emphasis></link></superscript><anchor id="ch0036s0000a0010"/> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">2/1</phrase>
                 </entry>
               </row>
@@ -208,7 +208,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Ignavigranum</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Ignavigranum</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/0</phrase>
                 </entry>
               </row>
@@ -235,7 +235,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Vagococcus</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Vagococcus</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">3/1</phrase>
                 </entry>
               </row>
@@ -262,7 +262,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Lactococcus</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Lactococcus</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">6/3</phrase>
                 </entry>
               </row>
@@ -289,7 +289,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Abiotrophia, Granulicatella</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Abiotrophia, Granulicatella</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/1, 3/2 </phrase>
                 </entry>
               </row>
@@ -316,7 +316,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Gemella</emphasis> spp.<superscript><link linkend="ch0036s0001s0001a0019"><emphasis>e</emphasis></link></superscript><anchor id="ch0036s0001s0001a0011"/> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Gemella</emphasis> spp.<superscript><link linkend="ch0036s0000a0019"><emphasis>e</emphasis></link></superscript><anchor id="ch0036s0000a0011"/> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">5/4</phrase>
                 </entry>
               </row>
@@ -343,7 +343,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Globicatella sanguinis</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Globicatella sanguinis</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/1</phrase>
                 </entry>
               </row>
@@ -370,7 +370,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Dolosicoccus</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Dolosicoccus</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">0/0</phrase>
                 </entry>
               </row>
@@ -397,7 +397,7 @@
                 </entry>
                 <entry><phrase role="center">−</phrase>
                 </entry>
-                <entry><emphasis>Gemella asaccharolytica</emphasis><superscript><emphasis><anchor id="ch0036s0001s0001a0012"/><link linkend="ch0036s0001s0001a0020">f</link></emphasis></superscript> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Gemella asaccharolytica</emphasis><superscript><emphasis><anchor id="ch0036s0000a0012"/><link linkend="ch0036s0000a0020">f</link></emphasis></superscript> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">0/0</phrase>
                 </entry>
               </row>
@@ -424,7 +424,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Lactococcus</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Lactococcus</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">6/3</phrase>
                 </entry>
               </row>
@@ -451,7 +451,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Streptococcus</emphasis><superscript><emphasis><anchor id="ch0036s0001s0001a0013"/><link linkend="ch0036s0001s0001a0021">g</link></emphasis></superscript> (<link linkend="ch0036s0001s0001s0001li0022">22</link>)</entry>
+                <entry><emphasis>Streptococcus</emphasis><superscript><emphasis><anchor id="ch0036s0000a0013"/><link linkend="ch0036s0000a0021">g</link></emphasis></superscript> (<link linkend="ch0036s0000li0022">22</link>)</entry>
                 <entry><phrase role="center">68/43</phrase>
                 </entry>
               </row>
@@ -478,7 +478,7 @@
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
-                <entry><emphasis>Leuconostoc</emphasis><superscript><emphasis><anchor id="ch0036s0001s0001a0014"/><link linkend="ch0036s0001s0001a0022">h</link></emphasis></superscript> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Leuconostoc</emphasis><superscript><emphasis><anchor id="ch0036s0000a0014"/><link linkend="ch0036s0000a0022">h</link></emphasis></superscript> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">12/6</phrase>
                 </entry>
               </row>
@@ -505,22 +505,22 @@
                 </entry>
                 <entry><phrase role="center">−</phrase>
                 </entry>
-                <entry><emphasis>Globicatella sulfidifaciens</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Globicatella sulfidifaciens</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/1</phrase>
                 </entry>
               </row>
             </tbody>
           </tgroup>
         </table>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0015"/><link linkend="ch0036s0001s0001a0007">a</link></emphasis></superscript>See <ulink url="ch0038#ch0038s0001">chapters 22</ulink> to <ulink url="ch0040#ch0040s0001">24</ulink> for methods for tests referred to in this table. Reactions shown are typical, but exceptions may occur. Abbreviations and symbols: PYR, production of pyrrolidonyl arylamidase; LAP, production of leucine aminopeptidase; 6.5% NaCl, growth in 6.5% NaCl; BE, hydrolysis of esculin in the presence of 40% bile; 45°C, growth at 45°C; Probe, reaction with a commercially available nucleic acid probe for the genus <emphasis>Enterococcus;</emphasis> HIP, hydrolysis of hippurate; Satellitism, satelliting growth behavior; 10°C, growth at 10°C; +, most strains are positive; –, most strains are negative; V, variable reactions are observed; NA, not applicable.</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0016"/><link linkend="ch0036s0001s0001a0008">b</link></emphasis></superscript>Numbers of genera and species included in IVD (<emphasis>in vitro</emphasis> diagnostic) databases from Bruker (MBT_IVD_Library_version 10_9468) and bioMérieux (VITEK_MS_Clinical_Use_-_V3.2 Knowledge_Base). RUO (research use only) databases exist for both systems.</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0017"/><link linkend="ch0036s0001s0001a0009">c</link></emphasis></superscript>The <emphasis>vanC</emphasis>-containing species <emphasis>Enterococcus gallinarum</emphasis> and <emphasis>E. casseliflavus</emphasis> are intrinsically resistant to vancomycin.</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0018"/><link linkend="ch0036s0001s0001a0010">d</link></emphasis></superscript>The reactions in this table are typical for <emphasis>Facklamia hominis, F. sourekii</emphasis>, and <emphasis>F. ignava</emphasis>. <emphasis>F. languida</emphasis> cells tend to be arranged in clusters, and isolates are hippurate hydrolysis negative (<link linkend="ch0036s0001s0001a0023">Table 2</link>).</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0019"/><link linkend="ch0036s0001s0001a0011">e</link></emphasis></superscript><emphasis>Gemella asaccharolytica, G. bergeri, G. morbillorum</emphasis>, and <emphasis>G. sanguinis</emphasis> cells tend to be arranged in pairs and chains, in contrast to the cells of <emphasis>G. haemolysans</emphasis>, which are arranged in pairs, tetrads, and clusters (<link linkend="ch0036s0001s0001a0023">Table 2</link>).</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0020"/><link linkend="ch0036s0001s0001a0012">f</link></emphasis></superscript><emphasis>G. asaccharolytica</emphasis> cells are Gram variable (see <ulink url="ch0040#ch0040s0001">chapter 24</ulink>).</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0021"/><link linkend="ch0036s0001s0001a0013">g</link></emphasis></superscript>Most streptococci are PYR negative, with the exception of <emphasis>Streptococcus pyogenes</emphasis> isolates and some strains of <emphasis>Streptococcus pneumoniae</emphasis>, which are PYR positive.</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0022"/><link linkend="ch0036s0001s0001a0014">h</link></emphasis></superscript><emphasis>Leuconostoc</emphasis> is distinguished from the other catalase-negative organisms here by its ability to produce gas as an end product of glucose metabolism and its intrinsic resistance to vancomycin. The phenotypically similar genus <emphasis>Weissella</emphasis> contains organisms formerly classified as leuconostocs and the species formerly named <emphasis>Lactobacillus confusus</emphasis> (see <ulink url="ch0040#ch0040s0001">chapter 24</ulink>).</para>
-        <table id="ch0036s0001s0001t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0036s0001s0001a0023"/><link linkend="ch0036s0001s0001a0003">TABLE 2</link></phrase></emphasis> Differentiating features and availability of taxons in two MALDI-TOF MS databases of Gram-positive cocci that grow aerobically and form cells arranged in clusters or irregular groups<superscript><link linkend="ch0036s0001s0001a0034"><emphasis>a</emphasis></link></superscript><anchor id="ch0036s0001s0001a0024"/>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0015"/><link linkend="ch0036s0000a0007">a</link></emphasis></superscript>See <ulink url="ch0038#ch0038s0001">chapters 22</ulink> to <ulink url="ch0040#ch0040s0001">24</ulink> for methods for tests referred to in this table. Reactions shown are typical, but exceptions may occur. Abbreviations and symbols: PYR, production of pyrrolidonyl arylamidase; LAP, production of leucine aminopeptidase; 6.5% NaCl, growth in 6.5% NaCl; BE, hydrolysis of esculin in the presence of 40% bile; 45°C, growth at 45°C; Probe, reaction with a commercially available nucleic acid probe for the genus <emphasis>Enterococcus;</emphasis> HIP, hydrolysis of hippurate; Satellitism, satelliting growth behavior; 10°C, growth at 10°C; +, most strains are positive; –, most strains are negative; V, variable reactions are observed; NA, not applicable.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0016"/><link linkend="ch0036s0000a0008">b</link></emphasis></superscript>Numbers of genera and species included in IVD (<emphasis>in vitro</emphasis> diagnostic) databases from Bruker (MBT_IVD_Library_version 10_9468) and bioMérieux (VITEK_MS_Clinical_Use_-_V3.2 Knowledge_Base). RUO (research use only) databases exist for both systems.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0017"/><link linkend="ch0036s0000a0009">c</link></emphasis></superscript>The <emphasis>vanC</emphasis>-containing species <emphasis>Enterococcus gallinarum</emphasis> and <emphasis>E. casseliflavus</emphasis> are intrinsically resistant to vancomycin.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0018"/><link linkend="ch0036s0000a0010">d</link></emphasis></superscript>The reactions in this table are typical for <emphasis>Facklamia hominis, F. sourekii</emphasis>, and <emphasis>F. ignava</emphasis>. <emphasis>F. languida</emphasis> cells tend to be arranged in clusters, and isolates are hippurate hydrolysis negative (<link linkend="ch0036s0000a0023">Table 2</link>).</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0019"/><link linkend="ch0036s0000a0011">e</link></emphasis></superscript><emphasis>Gemella asaccharolytica, G. bergeri, G. morbillorum</emphasis>, and <emphasis>G. sanguinis</emphasis> cells tend to be arranged in pairs and chains, in contrast to the cells of <emphasis>G. haemolysans</emphasis>, which are arranged in pairs, tetrads, and clusters (<link linkend="ch0036s0000a0023">Table 2</link>).</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0020"/><link linkend="ch0036s0000a0012">f</link></emphasis></superscript><emphasis>G. asaccharolytica</emphasis> cells are Gram variable (see <ulink url="ch0040#ch0040s0001">chapter 24</ulink>).</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0021"/><link linkend="ch0036s0000a0013">g</link></emphasis></superscript>Most streptococci are PYR negative, with the exception of <emphasis>Streptococcus pyogenes</emphasis> isolates and some strains of <emphasis>Streptococcus pneumoniae</emphasis>, which are PYR positive.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0022"/><link linkend="ch0036s0000a0014">h</link></emphasis></superscript><emphasis>Leuconostoc</emphasis> is distinguished from the other catalase-negative organisms here by its ability to produce gas as an end product of glucose metabolism and its intrinsic resistance to vancomycin. The phenotypically similar genus <emphasis>Weissella</emphasis> contains organisms formerly classified as leuconostocs and the species formerly named <emphasis>Lactobacillus confusus</emphasis> (see <ulink url="ch0040#ch0040s0001">chapter 24</ulink>).</para>
+        <table id="ch0036s0000t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0036s0000a0023"/><link linkend="ch0036s0000a0003">TABLE 2</link></phrase></emphasis> Differentiating features and availability of taxons in two MALDI-TOF MS databases of Gram-positive cocci that grow aerobically and form cells arranged in clusters or irregular groups<superscript><link linkend="ch0036s0000a0034"><emphasis>a</emphasis></link></superscript><anchor id="ch0036s0000a0024"/>
 </title>
           
           <tgroup cols="12">
@@ -547,8 +547,8 @@
                 </entry>
                 <entry><phrase role="center">Organism (chapter)</phrase>
                 </entry>
-                <entry><phrase role="center">MALDI-TOF MS, Bruker/bioMérieux<superscript><link linkend="ch0036s0001s0001a0035"><emphasis>b</emphasis></link></superscript></phrase>
-                  <anchor id="ch0036s0001s0001a0025"/>
+                <entry><phrase role="center">MALDI-TOF MS, Bruker/bioMérieux<superscript><link linkend="ch0036s0000a0035"><emphasis>b</emphasis></link></superscript></phrase>
+                  <anchor id="ch0036s0000a0025"/>
                 </entry>
               </row>
               <row>
@@ -562,8 +562,8 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><phrase role="center">+<superscript><link linkend="ch0036s0001s0001a0036"><emphasis>c</emphasis></link></superscript></phrase>
-                  <anchor id="ch0036s0001s0001a0026"/>
+                <entry><phrase role="center">+<superscript><link linkend="ch0036s0000a0036"><emphasis>c</emphasis></link></superscript></phrase>
+                  <anchor id="ch0036s0000a0026"/>
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
@@ -573,7 +573,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Micrococcus</emphasis><superscript><link linkend="ch0036s0001s0001a0037"><emphasis>d</emphasis></link></superscript><anchor id="ch0036s0001s0001a0027"/> (<link linkend="ch0036s0001s0001s0001li0021">21</link>)</entry>
+                <entry><emphasis>Micrococcus</emphasis><superscript><link linkend="ch0036s0000a0037"><emphasis>d</emphasis></link></superscript><anchor id="ch0036s0000a0027"/> (<link linkend="ch0036s0000li0021">21</link>)</entry>
                 <entry><phrase role="center">4/3</phrase>
                 </entry>
               </row>
@@ -588,8 +588,8 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><phrase role="center">+<superscript><link linkend="ch0036s0001s0001a0038"><emphasis>e</emphasis></link></superscript></phrase>
-                  <anchor id="ch0036s0001s0001a0028"/>
+                <entry><phrase role="center">+<superscript><link linkend="ch0036s0000a0038"><emphasis>e</emphasis></link></superscript></phrase>
+                  <anchor id="ch0036s0000a0028"/>
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
@@ -599,7 +599,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Alloiococcus</emphasis> (<link linkend="ch0036s0001s0001s0001li0021">21</link>)</entry>
+                <entry><emphasis>Alloiococcus</emphasis> (<link linkend="ch0036s0000li0021">21</link>)</entry>
                 <entry><phrase role="center">1/1</phrase>
                 </entry>
               </row>
@@ -614,7 +614,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><phrase role="center">+<superscript><link linkend="ch0036s0001s0001a0036"><emphasis>c</emphasis></link></superscript></phrase>
+                <entry><phrase role="center">+<superscript><link linkend="ch0036s0000a0036"><emphasis>c</emphasis></link></superscript></phrase>
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
@@ -624,7 +624,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Staphylococcus</emphasis> (<link linkend="ch0036s0001s0001s0001li0021">21</link>)</entry>
+                <entry><emphasis>Staphylococcus</emphasis> (<link linkend="ch0036s0000li0021">21</link>)</entry>
                 <entry><phrase role="center">43/36</phrase>
                 </entry>
               </row>
@@ -639,7 +639,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><phrase role="center">−<superscript><link linkend="ch0036s0001s0001a0036"><emphasis>c</emphasis></link></superscript></phrase>
+                <entry><phrase role="center">−<superscript><link linkend="ch0036s0000a0036"><emphasis>c</emphasis></link></superscript></phrase>
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
@@ -649,7 +649,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Rothia mucilaginosa</emphasis><superscript><link linkend="ch0036s0001s0001a0039"><emphasis>f</emphasis></link></superscript><anchor id="ch0036s0001s0001a0029"/> (28)</entry>
+                <entry><emphasis>Rothia mucilaginosa</emphasis><superscript><link linkend="ch0036s0000a0039"><emphasis>f</emphasis></link></superscript><anchor id="ch0036s0000a0029"/> (28)</entry>
                 <entry><phrase role="center">1/1</phrase>
                 </entry>
               </row>
@@ -664,7 +664,7 @@
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
-                <entry><phrase role="center">+<superscript><link linkend="ch0036s0001s0001a0038"><emphasis>e</emphasis></link></superscript></phrase>
+                <entry><phrase role="center">+<superscript><link linkend="ch0036s0000a0038"><emphasis>e</emphasis></link></superscript></phrase>
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
@@ -674,7 +674,7 @@
                 </entry>
                 <entry><phrase role="center">−</phrase>
                 </entry>
-                <entry><emphasis>Dolosigranulum</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Dolosigranulum</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/1</phrase>
                 </entry>
               </row>
@@ -689,7 +689,7 @@
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
-                <entry><phrase role="center">+<superscript><link linkend="ch0036s0001s0001a0038"><emphasis>e</emphasis></link></superscript></phrase>
+                <entry><phrase role="center">+<superscript><link linkend="ch0036s0000a0038"><emphasis>e</emphasis></link></superscript></phrase>
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
@@ -699,7 +699,7 @@
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
-                <entry><emphasis>Aerococcus sanguinicola</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Aerococcus sanguinicola</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/1</phrase>
                 </entry>
               </row>
@@ -714,7 +714,7 @@
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
-                <entry><phrase role="center">+<superscript><link linkend="ch0036s0001s0001a0038"><emphasis>e</emphasis></link></superscript></phrase>
+                <entry><phrase role="center">+<superscript><link linkend="ch0036s0000a0038"><emphasis>e</emphasis></link></superscript></phrase>
                 </entry>
                 <entry><phrase role="center">−</phrase>
                 </entry>
@@ -724,7 +724,7 @@
                 </entry>
                 <entry><phrase role="center">−</phrase>
                 </entry>
-                <entry><emphasis>Facklamia languida</emphasis><superscript><link linkend="ch0036s0001s0001a0040"><emphasis>g</emphasis></link></superscript><anchor id="ch0036s0001s0001a0030"/> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Facklamia languida</emphasis><superscript><link linkend="ch0036s0000a0040"><emphasis>g</emphasis></link></superscript><anchor id="ch0036s0000a0030"/> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/0</phrase>
                 </entry>
               </row>
@@ -739,7 +739,7 @@
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
-                <entry><phrase role="center">−<superscript><link linkend="ch0036s0001s0001a0038"><emphasis>e</emphasis></link></superscript></phrase>
+                <entry><phrase role="center">−<superscript><link linkend="ch0036s0000a0038"><emphasis>e</emphasis></link></superscript></phrase>
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
@@ -749,7 +749,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Rothia mucilaginosa</emphasis><superscript><link linkend="ch0036s0001s0001a0039"><emphasis>f</emphasis></link></superscript> (28)</entry>
+                <entry><emphasis>Rothia mucilaginosa</emphasis><superscript><link linkend="ch0036s0000a0039"><emphasis>f</emphasis></link></superscript> (28)</entry>
                 <entry><phrase role="center">1/1</phrase>
                 </entry>
               </row>
@@ -764,7 +764,7 @@
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
-                <entry><phrase role="center">−<superscript><link linkend="ch0036s0001s0001a0038"><emphasis>e</emphasis></link></superscript></phrase>
+                <entry><phrase role="center">−<superscript><link linkend="ch0036s0000a0038"><emphasis>e</emphasis></link></superscript></phrase>
                 </entry>
                 <entry><phrase role="center">−</phrase>
                 </entry>
@@ -774,7 +774,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Gemella haemolysans</emphasis><superscript><link linkend="ch0036s0001s0001a0041"><emphasis>h</emphasis></link></superscript><anchor id="ch0036s0001s0001a0031"/> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Gemella haemolysans</emphasis><superscript><link linkend="ch0036s0000a0041"><emphasis>h</emphasis></link></superscript><anchor id="ch0036s0000a0031"/> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/1</phrase>
                 </entry>
               </row>
@@ -799,7 +799,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Aerococcus viridans</emphasis><superscript><link linkend="ch0036s0001s0001a0042"><emphasis>i</emphasis></link></superscript><anchor id="ch0036s0001s0001a0032"/> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Aerococcus viridans</emphasis><superscript><link linkend="ch0036s0000a0042"><emphasis>i</emphasis></link></superscript><anchor id="ch0036s0000a0032"/> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/1</phrase>
                 </entry>
               </row>
@@ -824,7 +824,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Helcococcus kunzii</emphasis><superscript><link linkend="ch0036s0001s0001a0042"><emphasis>i</emphasis></link></superscript> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Helcococcus kunzii</emphasis><superscript><link linkend="ch0036s0000a0042"><emphasis>i</emphasis></link></superscript> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/1</phrase>
                 </entry>
               </row>
@@ -849,7 +849,7 @@
                 </entry>
                 <entry><phrase role="center">NA</phrase>
                 </entry>
-                <entry><emphasis>Pediococcus</emphasis><superscript><link linkend="ch0036s0001s0001a0043"><emphasis>j</emphasis></link></superscript><anchor id="ch0036s0001s0001a0033"/> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Pediococcus</emphasis><superscript><link linkend="ch0036s0000a0043"><emphasis>j</emphasis></link></superscript><anchor id="ch0036s0000a0033"/> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">8/5</phrase>
                 </entry>
               </row>
@@ -874,7 +874,7 @@
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
-                <entry><emphasis>Aerococcus urinae</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Aerococcus urinae</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/1</phrase>
                 </entry>
               </row>
@@ -899,7 +899,7 @@
                 </entry>
                 <entry><phrase role="center">+</phrase>
                 </entry>
-                <entry><emphasis>Aerococcus urinaehominis</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Aerococcus urinaehominis</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/0</phrase>
                 </entry>
               </row>
@@ -924,112 +924,112 @@
                 </entry>
                 <entry><phrase role="center">−</phrase>
                 </entry>
-                <entry><emphasis>Aerococcus christensenii</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>)</entry>
+                <entry><emphasis>Aerococcus christensenii</emphasis> (<link linkend="ch0036s0000li0024">24</link>)</entry>
                 <entry><phrase role="center">1/0</phrase>
                 </entry>
               </row>
             </tbody>
           </tgroup>
         </table>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0034"/><link linkend="ch0036s0001s0001a0024">a</link></emphasis></superscript>See <ulink url="ch0037#ch0037s0001">chapters 21</ulink>, <ulink url="ch0040#ch0040s0001">24</ulink>, and <ulink url="ch0044#ch0044s0001">28</ulink> for methods for performing the phenotypic tests referred to in this table. Reactions shown are typical; exceptions may occur. Abbreviations: PYR, production of pyrrolidonyl arylamidase; LAP, production of leucine aminopeptidase; NaCl, growth in the presence of either 5% or 6.5% NaCl (see footnotes <emphasis>c</emphasis> and <emphasis>e</emphasis>); ESC, esculin hydrolysis; BGUR, production of β-glucuronidase; +, most strains are positive; −, most strains are negative; V, variable reactions are observed; NA, not applicable; α, alpha-hemolysis on sheep blood agar; γ, nonhemolytic reaction on sheep blood agar; S, susceptible; R, resistant.</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0035"/><link linkend="ch0036s0001s0001a0025">b</link></emphasis></superscript>Numbers of genera and species included in IVD (<emphasis>in vitro</emphasis> diagnostic) databases from Bruker (MBT_IVD_Library_version 10_9468) and bioMérieux (VITEK_MS_Clinical_Use_-_V3.2_Knowledge_Base). RUO databases exist for both systems.</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0036"/><link linkend="ch0036s0001s0001a0026">c</link></emphasis></superscript>Growth in the presence of 5% sodium chloride.</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0037"/><link linkend="ch0036s0001s0001a0027">d</link></emphasis></superscript><emphasis>Kocuria</emphasis>, a related genus infrequently isolated from clinical specimens, is distinguished from <emphasis>Micrococcus</emphasis> by its ability to produce acid aerobically from <phrase role="small">D</phrase>-glucose and glycerol (see <ulink url="ch0037#ch0037s0001">chapter 21</ulink>).</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0038"/><link linkend="ch0036s0001s0001a0028">e</link></emphasis></superscript>Growth in the presence of 6.5% sodium chloride.</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0039"/><link linkend="ch0036s0001s0001a0029">f</link></emphasis></superscript><emphasis>Rothia mucilaginosa</emphasis> isolates are usually catalase negative or weakly positive but may be strongly catalase positive. <emphasis>Rothia aeria</emphasis> and <emphasis>Rothia dentocariosa</emphasis> are usually catalase positive.</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0040"/><link linkend="ch0036s0001s0001a0030">g</link></emphasis></superscript><emphasis>Ignavigranum ruoffiae</emphasis> (<link linkend="ch0036s0001s0001a0006">Table 1</link>) exhibits reactions identical to those of <emphasis>F. languida</emphasis> in the PYR, ESC, and NaCl tests. However, <emphasis>I. ruoffiae</emphasis> cells are arranged primarily in chains, while <emphasis>F. languida</emphasis> cells usually form clusters. Other <emphasis>Facklamia</emphasis> species form cells arranged in pairs and chains (<link linkend="ch0036s0001s0001a0006">Table 1</link>).</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0041"/><link linkend="ch0036s0001s0001a0031">h</link></emphasis></superscript><emphasis>G. haemolysans</emphasis> cells tend to be arranged in pairs, tetrads, and groups, in contrast to the cells of other <emphasis>Gemella</emphasis> species, which usually occur in pairs and short chains (<link linkend="ch0036s0001s0001a0006">Table 1</link>). Two additional <emphasis>Gemella</emphasis> species, <emphasis>Gemella parahaemolysans</emphasis> and <emphasis>Gemella taiwanensis</emphasis>, are described as resembling <emphasis>G. haemolysans</emphasis>. See <ulink url="ch0040#ch0040s0001">chapter 24</ulink> for details.</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0042"/><link linkend="ch0036s0001s0001a0032">i</link></emphasis></superscript><emphasis>H. kunzii</emphasis> strains form tiny pinpoint nonhemolytic colonies on blood agar after 24 h of aerobic incubation at 35°C, while <emphasis>A. viridans</emphasis> isolates form larger alpha-hemolytic colonies under similar incubation conditions. In contrast to <emphasis>H. kunzii, A. viridans</emphasis> prefers aerobic incubation atmospheres. Two additional species of <emphasis>Helcococcus</emphasis> isolated from human sources have been described, each based on a single isolate. In contrast to <emphasis>H. kunzii</emphasis>, the new species <emphasis>Helcococcus sueciensis</emphasis> and the proposed species “<emphasis>Helcococcus pyogenes</emphasis>” are PYR negative (see <ulink url="ch0040#ch0040s0001">chapter 24</ulink>).</para>
-        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0001s0001a0043"/><link linkend="ch0036s0001s0001a0033">j</link></emphasis></superscript>The genera <emphasis>Pediococcus</emphasis> and <emphasis>Tetragenococcus</emphasis> have similar phenotypic characteristics, except that tetragenococci are vancomycin susceptible. The bile esculin test can differentiate between tetragenococci (positive) and <emphasis>Aerococcus urinae</emphasis> (negative) (see <ulink url="ch0040#ch0040s0001">chapter 24</ulink>).</para>
-        <para id="ch0036s0001s0001p0004">MALDI-TOF MS is increasingly used for routine identification of bacterial species, and its usefulness is steadily expanding due to new developments and improvements (<link linkend="ch0036s0001s0001s0001li0015">15</link>). The commercially available MS instruments and software packages have many strengths in common. However, the packages do have different strengths and weaknesses, and improvements are steadily being introduced. Comparisons of MALDI-TOF MS results to those obtained with other methods, phenotypic as well as genotypic, have been very encouraging. In general, quite reliable identifications have been obtained for strains from the genera <emphasis>Enterococcus, Streptococcus</emphasis>, and <emphasis>Staphylococcus</emphasis> and the taxa of catalase-negative, Gram-positive cocci not belonging to the streptococci or enterococci, though some species may be difficult to distinguish with the currently available MALDI-TOF MS database and software options (<link linkend="ch0036s0001s0001s0001li0016">16</link>–<link linkend="ch0036s0001s0001s0001li0023">23</link>).</para>
-        <anchor id="ch0036s0001s0001a0044"/>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0034"/><link linkend="ch0036s0000a0024">a</link></emphasis></superscript>See <ulink url="ch0037#ch0037s0001">chapters 21</ulink>, <ulink url="ch0040#ch0040s0001">24</ulink>, and <ulink url="ch0044#ch0044s0001">28</ulink> for methods for performing the phenotypic tests referred to in this table. Reactions shown are typical; exceptions may occur. Abbreviations: PYR, production of pyrrolidonyl arylamidase; LAP, production of leucine aminopeptidase; NaCl, growth in the presence of either 5% or 6.5% NaCl (see footnotes <emphasis>c</emphasis> and <emphasis>e</emphasis>); ESC, esculin hydrolysis; BGUR, production of β-glucuronidase; +, most strains are positive; −, most strains are negative; V, variable reactions are observed; NA, not applicable; α, alpha-hemolysis on sheep blood agar; γ, nonhemolytic reaction on sheep blood agar; S, susceptible; R, resistant.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0035"/><link linkend="ch0036s0000a0025">b</link></emphasis></superscript>Numbers of genera and species included in IVD (<emphasis>in vitro</emphasis> diagnostic) databases from Bruker (MBT_IVD_Library_version 10_9468) and bioMérieux (VITEK_MS_Clinical_Use_-_V3.2_Knowledge_Base). RUO databases exist for both systems.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0036"/><link linkend="ch0036s0000a0026">c</link></emphasis></superscript>Growth in the presence of 5% sodium chloride.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0037"/><link linkend="ch0036s0000a0027">d</link></emphasis></superscript><emphasis>Kocuria</emphasis>, a related genus infrequently isolated from clinical specimens, is distinguished from <emphasis>Micrococcus</emphasis> by its ability to produce acid aerobically from <phrase role="small">D</phrase>-glucose and glycerol (see <ulink url="ch0037#ch0037s0001">chapter 21</ulink>).</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0038"/><link linkend="ch0036s0000a0028">e</link></emphasis></superscript>Growth in the presence of 6.5% sodium chloride.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0039"/><link linkend="ch0036s0000a0029">f</link></emphasis></superscript><emphasis>Rothia mucilaginosa</emphasis> isolates are usually catalase negative or weakly positive but may be strongly catalase positive. <emphasis>Rothia aeria</emphasis> and <emphasis>Rothia dentocariosa</emphasis> are usually catalase positive.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0040"/><link linkend="ch0036s0000a0030">g</link></emphasis></superscript><emphasis>Ignavigranum ruoffiae</emphasis> (<link linkend="ch0036s0000a0006">Table 1</link>) exhibits reactions identical to those of <emphasis>F. languida</emphasis> in the PYR, ESC, and NaCl tests. However, <emphasis>I. ruoffiae</emphasis> cells are arranged primarily in chains, while <emphasis>F. languida</emphasis> cells usually form clusters. Other <emphasis>Facklamia</emphasis> species form cells arranged in pairs and chains (<link linkend="ch0036s0000a0006">Table 1</link>).</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0041"/><link linkend="ch0036s0000a0031">h</link></emphasis></superscript><emphasis>G. haemolysans</emphasis> cells tend to be arranged in pairs, tetrads, and groups, in contrast to the cells of other <emphasis>Gemella</emphasis> species, which usually occur in pairs and short chains (<link linkend="ch0036s0000a0006">Table 1</link>). Two additional <emphasis>Gemella</emphasis> species, <emphasis>Gemella parahaemolysans</emphasis> and <emphasis>Gemella taiwanensis</emphasis>, are described as resembling <emphasis>G. haemolysans</emphasis>. See <ulink url="ch0040#ch0040s0001">chapter 24</ulink> for details.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0042"/><link linkend="ch0036s0000a0032">i</link></emphasis></superscript><emphasis>H. kunzii</emphasis> strains form tiny pinpoint nonhemolytic colonies on blood agar after 24 h of aerobic incubation at 35°C, while <emphasis>A. viridans</emphasis> isolates form larger alpha-hemolytic colonies under similar incubation conditions. In contrast to <emphasis>H. kunzii, A. viridans</emphasis> prefers aerobic incubation atmospheres. Two additional species of <emphasis>Helcococcus</emphasis> isolated from human sources have been described, each based on a single isolate. In contrast to <emphasis>H. kunzii</emphasis>, the new species <emphasis>Helcococcus sueciensis</emphasis> and the proposed species “<emphasis>Helcococcus pyogenes</emphasis>” are PYR negative (see <ulink url="ch0040#ch0040s0001">chapter 24</ulink>).</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0036s0000a0043"/><link linkend="ch0036s0000a0033">j</link></emphasis></superscript>The genera <emphasis>Pediococcus</emphasis> and <emphasis>Tetragenococcus</emphasis> have similar phenotypic characteristics, except that tetragenococci are vancomycin susceptible. The bile esculin test can differentiate between tetragenococci (positive) and <emphasis>Aerococcus urinae</emphasis> (negative) (see <ulink url="ch0040#ch0040s0001">chapter 24</ulink>).</para>
+        <para id="ch0036s0000p0004">MALDI-TOF MS is increasingly used for routine identification of bacterial species, and its usefulness is steadily expanding due to new developments and improvements (<link linkend="ch0036s0000li0015">15</link>). The commercially available MS instruments and software packages have many strengths in common. However, the packages do have different strengths and weaknesses, and improvements are steadily being introduced. Comparisons of MALDI-TOF MS results to those obtained with other methods, phenotypic as well as genotypic, have been very encouraging. In general, quite reliable identifications have been obtained for strains from the genera <emphasis>Enterococcus, Streptococcus</emphasis>, and <emphasis>Staphylococcus</emphasis> and the taxa of catalase-negative, Gram-positive cocci not belonging to the streptococci or enterococci, though some species may be difficult to distinguish with the currently available MALDI-TOF MS database and software options (<link linkend="ch0036s0000li0016">16</link>–<link linkend="ch0036s0000li0023">23</link>).</para>
+        <anchor id="ch0036s0000a0044"/>
         <beginpage pagenum="390"/>
-        <para id="ch0036s0001s0001p0005">The number of whole-genome-sequenced strains from different species has exploded in recent years as the result of the growing availability of next-generation sequencing (NGS). NGS-based identification methods have especially shown strength in differentiating strains belonging to closely related species, like<emphasis>S. pneumoniae</emphasis> and <emphasis>S. pseudopneumoniae</emphasis> (<link linkend="ch0036s0001s0001s0001li0024">24</link>). Typing methods based on NGS have also gained ground, especially in the area of resistant strains like methicillin-resistant <emphasis>S. aureus</emphasis> and vancomycin-resistant <emphasis>Enterococcus</emphasis> (VRE) (<link linkend="ch0036s0001s0001s0001li0025">25</link>, <link linkend="ch0036s0001s0001s0001li0026">26</link>).</para>
-        <para id="ch0036s0001s0001p0006">More information on the use of molecular methods for identification and typing of this group of organisms can be found in<ulink url="ch0037#ch0037s0001">chapters 21</ulink> to <ulink url="ch0040#ch0040s0001">24</ulink> of this <emphasis>Manual</emphasis>.</para>
-        <para id="ch0036s0001s0001p0007">Each microbiology laboratory needs to establish criteria for the extent of identification of routinely isolated aerobic Gram-positive cocci. Efforts should be made to recognize and report organisms described as pathogens in various clinical scenarios or organisms with well-known susceptibility patterns, since identification should, in these cases, play an important role in guiding patient treatment. For example, in one scenario, all staphylococcal isolates could be fully identified to the species level with an automated system; alternatively, in a different setting, staphylococci might be examined initially with the coagulase test to identify<emphasis>S. aureus</emphasis>. Coagulase-negative strains could then be subjected to a few simple screening tests and be identified simply as coagulase-negative staphylococci, presumptively as <emphasis>Staphylococcus saprophyticus</emphasis>, or presumptively as <emphasis>S. lugdunensis</emphasis>. An identification of “viridans group <emphasis>Streptococcus</emphasis>” might be sufficient when these organisms are isolated in mixed culture, but species identification of important isolates can offer clinically relevant information (e.g., “<emphasis>Streptococcus equinus</emphasis> group” [previously known as <emphasis>Streptococcus bovis</emphasis> group] in endocarditis cases or “<emphasis>Streptococcus anginosus</emphasis> group” in cases of brain or hepatic abscess). Procedures for identification should reflect laboratory resources, workflow, the composition of patient populations served by the laboratory, and the clinical utility of results for the laboratory’s users.</para>
-        <para id="ch0036s0001s0001p0008"><emphasis>The authors gratefully acknowledge the contribution of Kathryn L. Ruoff to <ulink url="ch0037#ch0037s0001">chapter 21</ulink> in the 12th edition of this</emphasis> Manual.</para>
-        <sect3 id="ch0036s0001s0001s0001">
+        <para id="ch0036s0000p0005">The number of whole-genome-sequenced strains from different species has exploded in recent years as the result of the growing availability of next-generation sequencing (NGS). NGS-based identification methods have especially shown strength in differentiating strains belonging to closely related species, like<emphasis>S. pneumoniae</emphasis> and <emphasis>S. pseudopneumoniae</emphasis> (<link linkend="ch0036s0000li0024">24</link>). Typing methods based on NGS have also gained ground, especially in the area of resistant strains like methicillin-resistant <emphasis>S. aureus</emphasis> and vancomycin-resistant <emphasis>Enterococcus</emphasis> (VRE) (<link linkend="ch0036s0000li0025">25</link>, <link linkend="ch0036s0000li0026">26</link>).</para>
+        <para id="ch0036s0000p0006">More information on the use of molecular methods for identification and typing of this group of organisms can be found in<ulink url="ch0037#ch0037s0001">chapters 21</ulink> to <ulink url="ch0040#ch0040s0001">24</ulink> of this <emphasis>Manual</emphasis>.</para>
+        <para id="ch0036s0000p0007">Each microbiology laboratory needs to establish criteria for the extent of identification of routinely isolated aerobic Gram-positive cocci. Efforts should be made to recognize and report organisms described as pathogens in various clinical scenarios or organisms with well-known susceptibility patterns, since identification should, in these cases, play an important role in guiding patient treatment. For example, in one scenario, all staphylococcal isolates could be fully identified to the species level with an automated system; alternatively, in a different setting, staphylococci might be examined initially with the coagulase test to identify<emphasis>S. aureus</emphasis>. Coagulase-negative strains could then be subjected to a few simple screening tests and be identified simply as coagulase-negative staphylococci, presumptively as <emphasis>Staphylococcus saprophyticus</emphasis>, or presumptively as <emphasis>S. lugdunensis</emphasis>. An identification of “viridans group <emphasis>Streptococcus</emphasis>” might be sufficient when these organisms are isolated in mixed culture, but species identification of important isolates can offer clinically relevant information (e.g., “<emphasis>Streptococcus equinus</emphasis> group” [previously known as <emphasis>Streptococcus bovis</emphasis> group] in endocarditis cases or “<emphasis>Streptococcus anginosus</emphasis> group” in cases of brain or hepatic abscess). Procedures for identification should reflect laboratory resources, workflow, the composition of patient populations served by the laboratory, and the clinical utility of results for the laboratory’s users.</para>
+        <para id="ch0036s0000p0008"><emphasis>The authors gratefully acknowledge the contribution of Kathryn L. Ruoff to <ulink url="ch0037#ch0037s0001">chapter 21</ulink> in the 12th edition of this</emphasis> Manual.</para>
+        <sect3 id="ch0036s10001s0001">
           <title>REFERENCES</title>
-          <anchor id="ch0036s0001s0001s0001a0001"/>
-          <anchor id="ch0036s0001s0001s0001a0002"/>
+          <anchor id="ch0036s10001a0002"/>
+          <anchor id="ch0036s0000a0045"/>
           <itemizedlist mark="none" role="biblioEntryList">
-            <listitem id="ch0036s0001s0001s0001li0001" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0001" role="bibliographyEntry">
               <para>1.<emphasis role="strong">Clinical and Laboratory Standards Institute.</emphasis> 2008. Abbreviated identification of bacteria and yeast, 2nd ed. Approved guideline M35-A2. Clinical and Laboratory Standards Institute, Wayne, PA.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0002" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0002" role="bibliographyEntry">
               <para>2.<emphasis role="strong">Pinto TCA, Souza ARV, de Pina SECM, Costa NS, Borges Neto AA, Neves FPG, Merquior VLC, Dias CAG, Peralta JM, Teixeira LM.</emphasis> 2013. Phenotypic and molecular characterization of optochin-resistant <emphasis><citetitle>Streptococcus pneumoniae</citetitle></emphasis> isolates from Brazil, with description of five novel mutations in the ATPC gene. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">51:</emphasis>3242–3249.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0003" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0003" role="bibliographyEntry">
               <para>3.<emphasis role="strong">Frank KL, Del Pozo JL, Patel R.</emphasis> 2008. From clinical microbiology to infection pathogenesis: how daring to be different works for <emphasis><citetitle>Staphylococcus lugdunensis</citetitle></emphasis>. <emphasis><citetitle>Clin Microbiol Rev</citetitle></emphasis> <emphasis role="strong">21:</emphasis>111–133.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0004" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0004" role="bibliographyEntry">
               <para>4.<emphasis role="strong">Fihman V, Raskine L, Barrou Z, Kiffel C, Riahi J, Berçot B, Sanson-Le Pors MJ.</emphasis> 2006. <emphasis><citetitle>Lactococcus garvieae</citetitle></emphasis> endocarditis: identification by 16S rRNA and sodA sequence analysis. <emphasis><citetitle>J Infect</citetitle></emphasis> <emphasis role="strong">52:</emphasis>e3–e6.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0005" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0005" role="bibliographyEntry">
               <para>5.<emphasis role="strong">Chatzigeorgiou KS, Sergentanis TN, Tsiodras S, Hamodrakas SJ, Bagos PG.</emphasis> 2011. Phoenix 100 versus Vitek 2 in the identification of gram-positive and gram-negative bacteria: a comprehensive meta-analysis. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">49:</emphasis>3284–3291.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0006" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0006" role="bibliographyEntry">
               <para>6.<emphasis role="strong">Kim M, Heo SR, Choi SH, Kwon H, Park JS, Seong M-W, Lee D-H, Park KU, Song J, Kim E-C.</emphasis> 2008. Comparison of the MicroScan, VITEK 2, and Crystal GP with 16S rRNA sequencing and MicroSeq 500 v2.0 analysis for coagulase-negative staphylococci. <emphasis><citetitle>BMC Microbiol</citetitle></emphasis> <emphasis role="strong">8:</emphasis>233.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0007" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0007" role="bibliographyEntry">
               <para>7.<emphasis role="strong">Layer F, Ghebremedhin B, Moder KA, König W, König B.</emphasis> 2006. Comparative study using various methods for identification of <emphasis><citetitle>Staphylococcus</citetitle></emphasis> species in clinical specimens. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">44:</emphasis>2824–2830.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0008" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0008" role="bibliographyEntry">
               <para>8.<emphasis role="strong">Srinivasan R, Karaoz U, Volegova M, MacKichan J, Kato-Maeda M, Miller S, Nadarajan R, Brodie EL, Lynch SV.</emphasis> 2015. Use of 16S rRNA gene for identification of a broad range of clinically relevant bacterial pathogens. <emphasis><citetitle>PLoS One</citetitle></emphasis> <emphasis role="strong">10:</emphasis>e0117617.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0009" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0009" role="bibliographyEntry">
               <para>9.<emphasis role="strong">Ghebremedhin B, Layer F, König W, König B.</emphasis> 2008. Genetic classification and distinguishing of <emphasis><citetitle>Staphylococcus</citetitle></emphasis> species based on different partial gap, 16S rRNA, <emphasis><citetitle>hsp60</citetitle>, <citetitle>rpoB</citetitle>, <citetitle>sodA</citetitle></emphasis>, and <emphasis><citetitle>tuf</citetitle></emphasis> gene sequences. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">46:</emphasis>1019–1025.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0010" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0010" role="bibliographyEntry">
               <para>10.<emphasis role="strong">Drancourt M, Roux V, Fournier PE, Raoult D.</emphasis> 2004. <emphasis><citetitle>rpoB</citetitle></emphasis> gene sequence-based identification of aerobic Gram-positive cocci of the genera <emphasis><citetitle>Streptococcus</citetitle>, <citetitle>Enterococcus</citetitle>, <citetitle>Gemella</citetitle>, <citetitle>Abiotrophia</citetitle></emphasis>, and <emphasis><citetitle>Granulicatella</citetitle></emphasis>. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">42:</emphasis>497–504.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0011" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0011" role="bibliographyEntry">
               <para>11.<emphasis role="strong">Naser S, Thompson FL, Hoste B, Gevers D, Vandemeulebroecke K, Cleenwerck I, Thompson CC, Vancanneyt M, Swings J.</emphasis> 2005. Phylogeny and identification of enterococci by <emphasis><citetitle>atpA</citetitle></emphasis> gene sequence analysis. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">43:</emphasis>2224–2230.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0012" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0012" role="bibliographyEntry">
               <para>12.<emphasis role="strong">Naser SM, Thompson FL, Hoste B, Gevers D, Dawyndt P, Vancanneyt M, Swings J.</emphasis> 2005. Application of multilocus sequence analysis (MLSA) for rapid identification of <emphasis><citetitle>Enterococcus species</citetitle></emphasis> based on rpoA and pheS genes. <emphasis><citetitle>Microbiol Read</citetitle></emphasis> <emphasis role="strong">151:</emphasis>2141–2150.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0013" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0013" role="bibliographyEntry">
               <para>13.<emphasis role="strong">Martín B, Garriga M, Aymerich T.</emphasis> 2008. Identification of <emphasis><citetitle>Enterococcus</citetitle></emphasis> species by melting curve analysis of restriction fragments. <emphasis><citetitle>J Microbiol Methods</citetitle></emphasis> <emphasis role="strong">75:</emphasis>145–147.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0014" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0014" role="bibliographyEntry">
               <para>14.<emphasis role="strong">Nielsen XC, Carkaci D, Dargis R, Hannecke L, Justesen US, Kemp M, Hammer M, Christensen JJ.</emphasis> 2013. 16S-23S intergenic spacer (ITS) region sequence analysis: applicability and usefulness in identifying genera and species resembling non-hemolytic streptococci. <emphasis><citetitle>Clin Microbiol</citetitle></emphasis> <emphasis role="strong">2:</emphasis>130.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0015" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0015" role="bibliographyEntry">
               <para>15.<emphasis role="strong">Emonet S, Shah HN, Cherkaoui A, Schrenzel J.</emphasis> 2010. Application and use of various mass spectrometry methods in clinical microbiology. <emphasis><citetitle>Clin Microbiol Infect</citetitle></emphasis> <emphasis role="strong">16:</emphasis>1604–1613.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0016" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0016" role="bibliographyEntry">
               <para>16.<emphasis role="strong">Benagli C, Rossi V, Dolina M, Tonolla M, Petrini O.</emphasis> 2011. Matrix-assisted laser desorption ionization-time of flight mass spectrometry for the identification of clinically relevant bacteria. <emphasis><citetitle>PLoS One</citetitle></emphasis> <emphasis role="strong">6:</emphasis>e16424.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0017" role="bibliographyEntry">
-              <anchor id="ch0036s0001s0001s0001a0003"/>
+            <listitem id="ch0036s0000li0017" role="bibliographyEntry">
+              <anchor id="ch0036s0000a0046"/>
               <para>17.<emphasis role="strong">Loonen AJM, Jansz AR, Bergland JNB, Valkenburg M, Wolffs PFG, van den Brule AJC.</emphasis> 2012. Comparative study using phenotypic, genotypic, and proteomics methods for identification of coagulase-negative staphylococci. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">50:</emphasis>1437–1439.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0018" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0018" role="bibliographyEntry">
               <para>18.<emphasis role="strong">Szabados F, Woloszyn J, Richter C, Kaase M, Gatermann S.</emphasis> 2010. Identification of molecularly defined <emphasis><citetitle>Staphylococcus aureus</citetitle></emphasis> strains using matrix-assisted laser desorption/ionization time of flight mass spectrometry and the BioTyper 2.0 database. <emphasis><citetitle>J Med Microbiol</citetitle></emphasis> <emphasis role="strong">59:</emphasis>787–790.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0019" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0019" role="bibliographyEntry">
               <para>19.<emphasis role="strong">Christensen JJ, Dargis R, Hammer M, Justesen US, Nielsen XC, Kemp M, Danish MALDI-TOF MS Study Group.</emphasis> 2012. Matrix-assisted laser desorption ionization–time of flight mass spectrometry analysis of Gram-positive, catalase-negative cocci not belonging to the <emphasis><citetitle>Streptococcus</citetitle></emphasis> or <emphasis><citetitle>Enterococcus</citetitle></emphasis> genus and benefits of database extension. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">50:</emphasis>1787–1791.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0020" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0020" role="bibliographyEntry">
               <para>20.<emphasis role="strong">Friedrichs C, Rodloff AC, Chhatwal GS, Schellenberger W, Eschrich K.</emphasis> 2007. Rapid identification of viridans streptococci by mass spectrometric discrimination. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">45:</emphasis>2392–2397.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0021" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0021" role="bibliographyEntry">
               <para>21.<emphasis role="strong">Branda JA, Rychert J, Burnham C-AD, Bythrow M, Garner OB, Ginocchio CC, Jennemann R, Lewinski MA, Manji R, Mochon AB, Procop GW, Richter SS, Sercia LF, Westblade LF, Ferraro MJ.</emphasis> 2014. Multicenter validation of the VITEK MS v2.0 MALDI-TOF mass spectrometry system for the identification of fastidious gram-negative bacteria. <emphasis><citetitle>Diagn Microbiol Infect Dis</citetitle></emphasis> <emphasis role="strong">78:</emphasis>129–131.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0022" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0022" role="bibliographyEntry">
               <para>22.<emphasis role="strong">Rychert J, Burnham CA, Bythrow M, Garner OBG, Ginocchio CC, Jennemann R, Lewinski MA, Manji R, Mochon AB, Procop GW, Richter SS, Sercia L, Westblade LF, Ferraro MJ, Branda JA.</emphasis> 2013. Multicenter evaluation of the Vitek MS matrix-assisted laser desorption ionization-time of flight mass spectrometry system for identification of Gram-positive aerobic bacteria. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">51:</emphasis>2225–2231.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0023" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0023" role="bibliographyEntry">
               <para>23.<emphasis role="strong">Lee M, Chung HS, Moon HW, Lee SH, Lee K.</emphasis> 2015. Comparative evaluation of two matrix-assisted laser desorption ionization time-of-flight mass spectrometry (MALDI-TOF MS) systems, Vitek MS and Microflex LT, for the identification of Gram-positive cocci routinely isolated in clinical microbiology laboratories. <emphasis><citetitle>J Microbiol Methods</citetitle></emphasis> <emphasis role="strong">113:</emphasis>13–15.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0024" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0024" role="bibliographyEntry">
               <para>24.<emphasis role="strong">Jensen CS, Iversen KH, Dargis R, Shewmaker P, Rasmussen S, Christensen JJ, Nielsen XC.</emphasis> 2021. <emphasis><citetitle>Streptococcus pseudopneumoniae</citetitle></emphasis>: use of whole-genome sequences to validate methods used for identification. <emphasis><citetitle>J Clin Microbiol</citetitle></emphasis> <emphasis role="strong">59:</emphasis>2503–2520.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0025" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0025" role="bibliographyEntry">
               <para>25.<emphasis role="strong">Lytsy B, Engstrand L, Gustafsson Å, Kaden R.</emphasis> 2017. Time to review the gold standard for genotyping vancomycin-resistant enterococci in epidemiology: comparing whole-genome sequencing with PFGE and MLST in three suspected outbreaks in Sweden during 2013–2015. <emphasis><citetitle>Infect Genet Evol</citetitle></emphasis> <emphasis role="strong">54:</emphasis>74–80.</para>
             </listitem>
-            <listitem id="ch0036s0001s0001s0001li0026" role="bibliographyEntry">
+            <listitem id="ch0036s0000li0026" role="bibliographyEntry">
               <para>26.<emphasis role="strong">Lakhundi S, Zhang K.</emphasis> 2018. Methicillin-resistant <emphasis><citetitle>Staphylococcus aureus</citetitle></emphasis>: molecular characterization, evolution, and epidemiology. <emphasis><citetitle>Clin Microbiol Rev</citetitle></emphasis> <emphasis role="strong">31:</emphasis>e20–e18.</para>
             </listitem>
           </itemizedlist>

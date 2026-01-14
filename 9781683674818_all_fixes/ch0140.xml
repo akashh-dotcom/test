@@ -4,303 +4,303 @@
     <sect1 id="ch0140s0001">
       <title>119 Reagents, Stains, and Media: Mycology</title>
       <anchor id="ch0140s0001a0001"/>
-      <anchor id="ch0140s0001a0002"/>
-      <para id="ch0140s0001p0001" role="chapterAuthor">MARK D. LINDSLEY</para>
-      <para id="ch0140s0001p0002">A variety of stains, media, and reagents are available to the mycology laboratory for the detection, isolation, characterization, and identification of yeasts and moulds. Familiarity with the composition and characteristics of these materials is critical to the diagnostic approach when processing specimens from patients with suspected mycotic diseases.</para>
-      <para id="ch0140s0001p0003">The direct microscopic examination of properly stained clinical material is rapid and cost-effective and may provide a presumptive identification of the etiologic agent, guiding the laboratory in the selection of media that best support fungal growth and sporulation<emphasis>in vitro</emphasis> (<link linkend="ch0140s0065s0001li0001">1</link>–<link linkend="ch0140s0065s0001li0003">3</link>). Stained preparations made from fungal cultures are essential for definitive identification. It is important to note that when processing patient specimens, universal precautions should be observed and work should be performed in a biosafety hood under biosafety level 2 (BSL-2) conditions, particularly when working with blood and other body fluids that may also contain the blood-borne pathogens human immunodeficiency virus, hepatitis B virus, and hepatitis C virus (<link linkend="ch0140s0065s0001li0004">4</link>–<link linkend="ch0140s0065s0001li0006">6</link>). Manipulation and identification of mould isolates under BSL-2 conditions is desirable to reduce cross-contamination of cultures, to protect the laboratory environment, and to prevent exposure to potentially harmful agents. However, different biohazard requirements may apply in different countries.</para>
-      <para id="ch0140s0001p0004">Environmental samples, such as soil, suspected of containing the infectious mould forms of<emphasis>Histoplasma</emphasis> spp., <emphasis>Blastomyces</emphasis> spp., or <emphasis>Coccidioides</emphasis> spp. should be cultured and manipulated under BSL-3 conditions (<link linkend="ch0140s0065s0001li0004">4</link>, <link linkend="ch0140s0065s0001li0006">6</link>). Likewise, BSL-3 conditions should be used to handle mould isolates known to be <emphasis>Histoplasma</emphasis> spp., <emphasis>Blastomyces</emphasis> spp., or <emphasis>Coccidioides</emphasis> spp. from any source (patient or environmental).</para>
-      <para id="ch0140s0001p0005">Many media are available for the primary inoculation and cultivation of fungi from clinical specimens. No one specific medium or combination of media is adequate for all specimens. Media should be carefully selected based on specimen type and suspected fungal agents (<link linkend="ch0140s0065s0001li0003">3</link>, <link linkend="ch0140s0065s0001li0007">7</link>–<link linkend="ch0140s0065s0001li0011">11</link>). If the specimen is from a nonsterile site, it is important to include a medium that contains inhibitory substances such as chloramphenicol, gentamicin, and/or cycloheximide. Chloramphenicol or gentamicin inhibits most bacterial contaminants, while cycloheximide inhibits most saprobic moulds. Remember that cycloheximide may also inhibit some important opportunistic fungi such as <emphasis>Fusarium, Scopulariopsis, Pseudallescheria, Trichosporon</emphasis>, some <emphasis>Aspergillus</emphasis> spp., <emphasis>Talaromyces</emphasis> (formerly <emphasis>Penicillium</emphasis>) <emphasis>marneffei</emphasis>, mucoraceous fungi, some dematiaceous fungi, and yeasts such as <emphasis>Cryptococcus</emphasis> species and some <emphasis>Candida</emphasis> species. Therefore, it is necessary to use a selection of media both with and without inhibitory agents for the primary inoculation of the specimen. The Clinical and Laboratory Standards Institute (CLSI) Standard M54-ED2 (<link linkend="ch0140s0065s0001li0012">12</link>) is an excellent source for determining the selection and use of fungal medium.</para>
-      <para id="ch0140s0001p0006">Benomyl is a fungicide that selectively inhibits many genera of ascomycetes but not the growth of basidiomycetes, mucormycetes, and others (<link linkend="ch0140s0065s0001li0013">13</link>). When added to fungal medium (10 μg/ml) such as Sabouraud dextrose agar or potato dextrose agar, evaluating the resistance to benomyl is of particular use in differentiating moulds, particularly those that are not producing identifiable sporulating structures. Benomyl may also be added to a medium to inhibit the growth of unwanted moulds in environmental specimens. In particular, benomyl has been added to birdseed agar medium for the isolation of <emphasis>Cryptococcus gattii</emphasis> from environmental soil samples (<link linkend="ch0140s0065s0001li0014">14</link>).</para>
-      <para id="ch0140s0001p0007">Media can be dispensed into containers such as 25-by-150-mm screw-cap tubes or 100-mm-diameter petri dishes. Tubed media (slants and deeps) offer maximum safety and resistance to dehydration and contamination but have a small surface area for inoculation. Because of the enhanced safety aspects of tubed media, this is the required format for transporting fungal isolates to reference laboratories for further identification, when necessary. Petri plates, unlike tubed agar, offer the advantage of a large surface area for isolation and dilution of inhibitory substances in the specimens, but they must be poured thick, with at least 25 ml of medium, to resist dehydration during extended incubation periods. Because plates are vented, they are more likely to become contaminated during incubation. Plates may be placed in gas-permeable bags or sealed with gas-permeable tape (Shrink Seals; Scientific Device Laboratory, Des Plaines, IL) to offset this disadvantage. The gas-permeable tape also secures the lid of plated media, preventing the accidental removal of the lid outside the biosafety cabinet. Another format, in which medium is poured into a flat-bottom flask (Bactiflask, Remel, ThermoScientific, Waltham, MA; Mycoflask, BD Diagnostics BBL, Sparks, MD), provides the combination of an increase in surface area of the plated medium with the safety of tubed medium. Flasked media may be particularly useful when culturing dimorphic pathogens. Because of their propensity to crack and break, petri dishes or plastic flasks should never be used to transport fungal isolates to reference laboratories.</para>
-      <anchor id="ch0140s0001a0003"/>
+      <anchor id="ch0140s0000a0001"/>
+      <para id="ch0140s0000p0001" role="chapterAuthor">MARK D. LINDSLEY</para>
+      <para id="ch0140s0000p0002">A variety of stains, media, and reagents are available to the mycology laboratory for the detection, isolation, characterization, and identification of yeasts and moulds. Familiarity with the composition and characteristics of these materials is critical to the diagnostic approach when processing specimens from patients with suspected mycotic diseases.</para>
+      <para id="ch0140s0000p0003">The direct microscopic examination of properly stained clinical material is rapid and cost-effective and may provide a presumptive identification of the etiologic agent, guiding the laboratory in the selection of media that best support fungal growth and sporulation<emphasis>in vitro</emphasis> (<link linkend="ch0140s0000li0009">1</link>–<link linkend="ch0140s0000li0011">3</link>). Stained preparations made from fungal cultures are essential for definitive identification. It is important to note that when processing patient specimens, universal precautions should be observed and work should be performed in a biosafety hood under biosafety level 2 (BSL-2) conditions, particularly when working with blood and other body fluids that may also contain the blood-borne pathogens human immunodeficiency virus, hepatitis B virus, and hepatitis C virus (<link linkend="ch0140s0000li0012">4</link>–<link linkend="ch0140s0000li0014">6</link>). Manipulation and identification of mould isolates under BSL-2 conditions is desirable to reduce cross-contamination of cultures, to protect the laboratory environment, and to prevent exposure to potentially harmful agents. However, different biohazard requirements may apply in different countries.</para>
+      <para id="ch0140s0000p0004">Environmental samples, such as soil, suspected of containing the infectious mould forms of<emphasis>Histoplasma</emphasis> spp., <emphasis>Blastomyces</emphasis> spp., or <emphasis>Coccidioides</emphasis> spp. should be cultured and manipulated under BSL-3 conditions (<link linkend="ch0140s0000li0012">4</link>, <link linkend="ch0140s0000li0014">6</link>). Likewise, BSL-3 conditions should be used to handle mould isolates known to be <emphasis>Histoplasma</emphasis> spp., <emphasis>Blastomyces</emphasis> spp., or <emphasis>Coccidioides</emphasis> spp. from any source (patient or environmental).</para>
+      <para id="ch0140s0000p0005">Many media are available for the primary inoculation and cultivation of fungi from clinical specimens. No one specific medium or combination of media is adequate for all specimens. Media should be carefully selected based on specimen type and suspected fungal agents (<link linkend="ch0140s0000li0011">3</link>, <link linkend="ch0140s0000li0015">7</link>–<link linkend="ch0140s0000li0019">11</link>). If the specimen is from a nonsterile site, it is important to include a medium that contains inhibitory substances such as chloramphenicol, gentamicin, and/or cycloheximide. Chloramphenicol or gentamicin inhibits most bacterial contaminants, while cycloheximide inhibits most saprobic moulds. Remember that cycloheximide may also inhibit some important opportunistic fungi such as <emphasis>Fusarium, Scopulariopsis, Pseudallescheria, Trichosporon</emphasis>, some <emphasis>Aspergillus</emphasis> spp., <emphasis>Talaromyces</emphasis> (formerly <emphasis>Penicillium</emphasis>) <emphasis>marneffei</emphasis>, mucoraceous fungi, some dematiaceous fungi, and yeasts such as <emphasis>Cryptococcus</emphasis> species and some <emphasis>Candida</emphasis> species. Therefore, it is necessary to use a selection of media both with and without inhibitory agents for the primary inoculation of the specimen. The Clinical and Laboratory Standards Institute (CLSI) Standard M54-ED2 (<link linkend="ch0140s0000li0020">12</link>) is an excellent source for determining the selection and use of fungal medium.</para>
+      <para id="ch0140s0000p0006">Benomyl is a fungicide that selectively inhibits many genera of ascomycetes but not the growth of basidiomycetes, mucormycetes, and others (<link linkend="ch0140s0000li0021">13</link>). When added to fungal medium (10 μg/ml) such as Sabouraud dextrose agar or potato dextrose agar, evaluating the resistance to benomyl is of particular use in differentiating moulds, particularly those that are not producing identifiable sporulating structures. Benomyl may also be added to a medium to inhibit the growth of unwanted moulds in environmental specimens. In particular, benomyl has been added to birdseed agar medium for the isolation of <emphasis>Cryptococcus gattii</emphasis> from environmental soil samples (<link linkend="ch0140s0000li0022">14</link>).</para>
+      <para id="ch0140s0000p0007">Media can be dispensed into containers such as 25-by-150-mm screw-cap tubes or 100-mm-diameter petri dishes. Tubed media (slants and deeps) offer maximum safety and resistance to dehydration and contamination but have a small surface area for inoculation. Because of the enhanced safety aspects of tubed media, this is the required format for transporting fungal isolates to reference laboratories for further identification, when necessary. Petri plates, unlike tubed agar, offer the advantage of a large surface area for isolation and dilution of inhibitory substances in the specimens, but they must be poured thick, with at least 25 ml of medium, to resist dehydration during extended incubation periods. Because plates are vented, they are more likely to become contaminated during incubation. Plates may be placed in gas-permeable bags or sealed with gas-permeable tape (Shrink Seals; Scientific Device Laboratory, Des Plaines, IL) to offset this disadvantage. The gas-permeable tape also secures the lid of plated media, preventing the accidental removal of the lid outside the biosafety cabinet. Another format, in which medium is poured into a flat-bottom flask (Bactiflask, Remel, ThermoScientific, Waltham, MA; Mycoflask, BD Diagnostics BBL, Sparks, MD), provides the combination of an increase in surface area of the plated medium with the safety of tubed medium. Flasked media may be particularly useful when culturing dimorphic pathogens. Because of their propensity to crack and break, petri dishes or plastic flasks should never be used to transport fungal isolates to reference laboratories.</para>
+      <anchor id="ch0140s0000a0002"/>
       <beginpage pagenum="2298"/>
-      <para id="ch0140s0001p0008">Once inoculated, cultures are incubated at 25 to 30°C. When specimens are derived from deep-site locations such as tissue biopsy, bronchoalveolar lavage (BAL), cerebrospinal fluid, etc., duplicate cultures may be prepared and incubated at 35 to 37°C to encourage faster growth of pathogenic fungi. Fungal cultures should be incubated for 4 to 6 weeks before being regarded as negative; however, many cultures can be read as early as 24 h after inoculation. For example, most yeasts are detected within 5 or fewer days, and dermatophytes are detected within 1 week. However, dematiaceous and dimorphic fungi may require 2 to 4 weeks. Therefore, to account for differences in growth rates, fungal cultures should be examined at regular intervals (e.g., daily during the first week, three times the second week, twice at 3 weeks, and once at 4 weeks) rather than being evaluated once at the end of 4 weeks. While growth may be observed within the first few weeks of incubation, incubation should be continued for the original plate, after subculture, to allow for the emergence of slower-growing pathogenic organisms. Manipulation of cultures must be performed inside a certified biological safety cabinet to prevent contamination of the plate and exposure of personnel to potentially hazardous fungi.</para>
-      <para id="ch0140s0001p0009">Each new lot of medium, whether purchased or prepared in-house, must be subjected to a quality control protocol that verifies appearance, pH, and performance (<link linkend="ch0140s0065s0001li0012">12</link>, <link linkend="ch0140s0065s0001li0015">15</link>). Both positive and negative control strains need to be included in quality assurance testing protocols (<link linkend="ch0140s0065s0001li0012">12</link>, <link linkend="ch0140s0065s0001li0015">15</link>). Media for primary isolation should be tested for optimal growth of several fungal pathogens. Selective media should be tested with strains known to be susceptible and resistant to the inhibitory agent in the medium, while differential media should be evaluated with fungi that produce both positive and negative reactions. Many media are also commercially available as prepared plates or tubes. Although manufacturers perform quality control testing, clinical laboratories still need to ensure that media meet performance standards. Some widely used commercially prepared media may be exempt from routine quality assurance testing, when proof of quality assurance testing is provided by the media manufacturer. Nonexempt media still require specific quality assurance testing. A list of media in these categories can be found in CLSI documents M22-A3 and M54-ED2 (<link linkend="ch0140s0065s0001li0012">12</link>, <link linkend="ch0140s0065s0001li0015">15</link>). These requirements apply to those working in the United States; regulations may differ in other countries. Accrediting agencies in the United States, such as Centers for Medicare and Medicaid Services through the Clinical Laboratory Improvement Act or College of American Pathologists, no longer recognize the exempt status of certain media from quality assurance testing. Therefore, clinical laboratories that undergo inspection by accrediting agencies must perform quality assurance testing on all lots of media used in the laboratory.</para>
-      <para id="ch0140s0001p0010">Unless stated otherwise, the reagents and media listed in this chapter should be prepared by dissolving the components in the stated liquid with a magnetic stirring bar. The standard sterilization technique of autoclaving at 121°C at 15 lb/in<superscript>2</superscript> for 15 min should be used when needed. However, certain solutions, such as those containing antibiotics or carbohydrates, cannot be autoclaved because they will be denatured. These solutions are sterilized by filtration through a 0.22-μm-pore-size filter and added to the post-sterilized medium after being cooled sufficiently; <emphasis>Candida</emphasis> chromogenic agars can be heated in a microwave.</para>
-      <para id="ch0140s0001p0011">Storage of prepared reagents in sterile, airtight, screw-cap containers is recommended. Some reagents require storage in dark containers, and some need to be stored refrigerated (2 to 8°C) instead of at room temperature. Special storage instructions are given when appropriate. Standard safety precautions should be taken when preparing the reagents. Follow the safety guidelines for the chemicals being used, in addition to the laboratory safety protocols.</para>
-      <para id="ch0140s0001p0012">The stains, media, and reagents listed in this chapter include those commonly used and a few specialized items. While outside the focus of this chapter, it is important to mention the usefulness of histopathology in the diagnosis of fungal infections (<link linkend="ch0140s0065s0001li0016">16</link>). Several of the stains listed below—Fontana-Masson stain, methenamine silver stain, mucicarmine stain, and periodic acid-Schiff stain—are also used in the histopathological diagnosis of fungal infections (<link linkend="ch0140s0065s0001li0017">17</link>).</para>
+      <para id="ch0140s0000p0008">Once inoculated, cultures are incubated at 25 to 30°C. When specimens are derived from deep-site locations such as tissue biopsy, bronchoalveolar lavage (BAL), cerebrospinal fluid, etc., duplicate cultures may be prepared and incubated at 35 to 37°C to encourage faster growth of pathogenic fungi. Fungal cultures should be incubated for 4 to 6 weeks before being regarded as negative; however, many cultures can be read as early as 24 h after inoculation. For example, most yeasts are detected within 5 or fewer days, and dermatophytes are detected within 1 week. However, dematiaceous and dimorphic fungi may require 2 to 4 weeks. Therefore, to account for differences in growth rates, fungal cultures should be examined at regular intervals (e.g., daily during the first week, three times the second week, twice at 3 weeks, and once at 4 weeks) rather than being evaluated once at the end of 4 weeks. While growth may be observed within the first few weeks of incubation, incubation should be continued for the original plate, after subculture, to allow for the emergence of slower-growing pathogenic organisms. Manipulation of cultures must be performed inside a certified biological safety cabinet to prevent contamination of the plate and exposure of personnel to potentially hazardous fungi.</para>
+      <para id="ch0140s0000p0009">Each new lot of medium, whether purchased or prepared in-house, must be subjected to a quality control protocol that verifies appearance, pH, and performance (<link linkend="ch0140s0000li0020">12</link>, <link linkend="ch0140s0000li0023">15</link>). Both positive and negative control strains need to be included in quality assurance testing protocols (<link linkend="ch0140s0000li0020">12</link>, <link linkend="ch0140s0000li0023">15</link>). Media for primary isolation should be tested for optimal growth of several fungal pathogens. Selective media should be tested with strains known to be susceptible and resistant to the inhibitory agent in the medium, while differential media should be evaluated with fungi that produce both positive and negative reactions. Many media are also commercially available as prepared plates or tubes. Although manufacturers perform quality control testing, clinical laboratories still need to ensure that media meet performance standards. Some widely used commercially prepared media may be exempt from routine quality assurance testing, when proof of quality assurance testing is provided by the media manufacturer. Nonexempt media still require specific quality assurance testing. A list of media in these categories can be found in CLSI documents M22-A3 and M54-ED2 (<link linkend="ch0140s0000li0020">12</link>, <link linkend="ch0140s0000li0023">15</link>). These requirements apply to those working in the United States; regulations may differ in other countries. Accrediting agencies in the United States, such as Centers for Medicare and Medicaid Services through the Clinical Laboratory Improvement Act or College of American Pathologists, no longer recognize the exempt status of certain media from quality assurance testing. Therefore, clinical laboratories that undergo inspection by accrediting agencies must perform quality assurance testing on all lots of media used in the laboratory.</para>
+      <para id="ch0140s0000p0010">Unless stated otherwise, the reagents and media listed in this chapter should be prepared by dissolving the components in the stated liquid with a magnetic stirring bar. The standard sterilization technique of autoclaving at 121°C at 15 lb/in<superscript>2</superscript> for 15 min should be used when needed. However, certain solutions, such as those containing antibiotics or carbohydrates, cannot be autoclaved because they will be denatured. These solutions are sterilized by filtration through a 0.22-μm-pore-size filter and added to the post-sterilized medium after being cooled sufficiently; <emphasis>Candida</emphasis> chromogenic agars can be heated in a microwave.</para>
+      <para id="ch0140s0000p0011">Storage of prepared reagents in sterile, airtight, screw-cap containers is recommended. Some reagents require storage in dark containers, and some need to be stored refrigerated (2 to 8°C) instead of at room temperature. Special storage instructions are given when appropriate. Standard safety precautions should be taken when preparing the reagents. Follow the safety guidelines for the chemicals being used, in addition to the laboratory safety protocols.</para>
+      <para id="ch0140s0000p0012">The stains, media, and reagents listed in this chapter include those commonly used and a few specialized items. While outside the focus of this chapter, it is important to mention the usefulness of histopathology in the diagnosis of fungal infections (<link linkend="ch0140s0000li0024">16</link>). Several of the stains listed below—Fontana-Masson stain, methenamine silver stain, mucicarmine stain, and periodic acid-Schiff stain—are also used in the histopathological diagnosis of fungal infections (<link linkend="ch0140s0000li0025">17</link>).</para>
       <sect2 id="ch0140s0001s0001">
         <title>REAGENTS</title>
-        <anchor id="ch0140s0001s0001a0001"/>
-        <anchor id="ch0140s0001s0001a0002"/>
+        <anchor id="ch0140s0001a0002"/>
+        <anchor id="ch0140s0000a0003"/>
       </sect2>
     </sect1>
     <sect1 id="ch0140s0002">
       <title>■ N-Acetyl-L-cysteine (NALC) (0.5%)</title>
       <anchor id="ch0140s0002a0001"/>
-      <anchor id="ch0140s0002a0002"/>
-      <para id="ch0140s0002p0001">NALC (Alpha-Tec Systems, Inc.) is a mucolytic agent used for digestion of sputum specimens submitted for detection of<emphasis>Pneumocystis jirovecii</emphasis> cysts and/or trophozoites by microscopic examination. This compound can also be used for preparing samples for microscopic examination for a wide range of fungi. Formulations containing sodium hydroxide (NaOH) should be avoided because of adverse effects on fungal organisms.</para>
+      <anchor id="ch0140s0000a0004"/>
+      <para id="ch0140s0000p0013">NALC (Alpha-Tec Systems, Inc.) is a mucolytic agent used for digestion of sputum specimens submitted for detection of<emphasis>Pneumocystis jirovecii</emphasis> cysts and/or trophozoites by microscopic examination. This compound can also be used for preparing samples for microscopic examination for a wide range of fungi. Formulations containing sodium hydroxide (NaOH) should be avoided because of adverse effects on fungal organisms.</para>
     </sect1>
     <sect1 id="ch0140s0003">
       <title>■ Dithiothreitol (Sputolysin), 0.0065 M</title>
       <anchor id="ch0140s0003a0001"/>
-      <anchor id="ch0140s0003a0002"/>
-      <para id="ch0140s0003p0001">Dithiothreitol is a mucolytic agent that can be purchased commercially and has been used to prepare sputum specimens for detection of<emphasis>P. jirovecii.</emphasis> Equal volumes of sputum and dithiothreitol are mixed and incubated at 35°C. The mixture is periodically mixed vigorously until nearly liquefied (complete liquefaction disperses the cells of <emphasis>P. jirovecii</emphasis>, making microscopic detection difficult). As with NALC, dithiothreitol can be useful for preparing samples for microscopic examination of a wide range of fungi. Formulations containing NaOH should be avoided because of adverse effects on fungal organisms.</para>
+      <anchor id="ch0140s0000a0005"/>
+      <para id="ch0140s0000p0014">Dithiothreitol is a mucolytic agent that can be purchased commercially and has been used to prepare sputum specimens for detection of<emphasis>P. jirovecii.</emphasis> Equal volumes of sputum and dithiothreitol are mixed and incubated at 35°C. The mixture is periodically mixed vigorously until nearly liquefied (complete liquefaction disperses the cells of <emphasis>P. jirovecii</emphasis>, making microscopic detection difficult). As with NALC, dithiothreitol can be useful for preparing samples for microscopic examination of a wide range of fungi. Formulations containing NaOH should be avoided because of adverse effects on fungal organisms.</para>
     </sect1>
     <sect1 id="ch0140s0004">
       <title>■ Potassium hydroxide (KOH)</title>
       <anchor id="ch0140s0004a0001"/>
-      <anchor id="ch0140s0004a0002"/>
-      <para id="ch0140s0004p0001">Wet mounts prepared in 10% KOH are used to distinguish fungi in thick mucoid specimens or in specimens that contain keratinous material such as skin, hair, and nails. Nails may require stronger alkaline treatment (up to 25%) to digest the nail prior to microscopic examination (see<ulink url="ch0148#ch0148s0001">chapter 127</ulink> of this <emphasis>Manual</emphasis> for more details). While the proteinaceous components of the host cells are partially digested, the fungal cell wall is left intact and more apparent. An aliquot of specimen is added to a drop of 10% or 20% KOH, which can be preserved with 0.1% thimerosal. The slide is held at room temperature for 5 to 30 min after the addition of KOH, depending on the specimen type, to allow digestion to occur. Digestive capabilities can be enhanced with gentle heating or the addition of 40% dimethyl sulfoxide (<link linkend="ch0140s0065s0001li0018">18</link>). Solutions of NaOH (10% or 25% with added glycerin) may be used as alternatives to potassium hydroxide for the direct microscopic examination of hair, skin, and nails for dermatophyte-mediated infections. Visualization of fungal elements may be enhanced by the addition of lactophenol cotton blue, chlorazol black, or glucan-binding fluorescent brighteners such as calcofluor white, which bind to chitin, a major component of the fungal cell wall.</para>
-      <anchor id="ch0140s0004a0003"/>
+      <anchor id="ch0140s0000a0006"/>
+      <para id="ch0140s0000p0015">Wet mounts prepared in 10% KOH are used to distinguish fungi in thick mucoid specimens or in specimens that contain keratinous material such as skin, hair, and nails. Nails may require stronger alkaline treatment (up to 25%) to digest the nail prior to microscopic examination (see<ulink url="ch0148#ch0148s0001">chapter 127</ulink> of this <emphasis>Manual</emphasis> for more details). While the proteinaceous components of the host cells are partially digested, the fungal cell wall is left intact and more apparent. An aliquot of specimen is added to a drop of 10% or 20% KOH, which can be preserved with 0.1% thimerosal. The slide is held at room temperature for 5 to 30 min after the addition of KOH, depending on the specimen type, to allow digestion to occur. Digestive capabilities can be enhanced with gentle heating or the addition of 40% dimethyl sulfoxide (<link linkend="ch0140s0000li0026">18</link>). Solutions of NaOH (10% or 25% with added glycerin) may be used as alternatives to potassium hydroxide for the direct microscopic examination of hair, skin, and nails for dermatophyte-mediated infections. Visualization of fungal elements may be enhanced by the addition of lactophenol cotton blue, chlorazol black, or glucan-binding fluorescent brighteners such as calcofluor white, which bind to chitin, a major component of the fungal cell wall.</para>
+      <anchor id="ch0140s0000a0007"/>
       <beginpage pagenum="2299"/>
       <sect2 id="ch0140s0004s0001">
         <title>STAINS</title>
-        <anchor id="ch0140s0004s0001a0001"/>
-        <anchor id="ch0140s0004s0001a0002"/>
+        <anchor id="ch0140s0004a0002"/>
+        <anchor id="ch0140s0000a0008"/>
       </sect2>
     </sect1>
     <sect1 id="ch0140s0005">
       <title>■ Alcian blue stain</title>
       <anchor id="ch0140s0005a0001"/>
-      <anchor id="ch0140s0005a0002"/>
-      <para id="ch0140s0005p0001">Alcian blue is a mucopolysaccharide stain useful for visualizing the polysaccharide capsule produced by<emphasis>Cryptococcus</emphasis> species in histological sections of tissue. Compare with the more commonly used mucicarmine stain, described below.</para>
+      <anchor id="ch0140s0000a0009"/>
+      <para id="ch0140s0000p0016">Alcian blue is a mucopolysaccharide stain useful for visualizing the polysaccharide capsule produced by<emphasis>Cryptococcus</emphasis> species in histological sections of tissue. Compare with the more commonly used mucicarmine stain, described below.</para>
     </sect1>
     <sect1 id="ch0140s0006">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0006a0001"/>
-      <anchor id="ch0140s0006a0002"/>
-      <para id="ch0140s0006p0001">Deparaffinized sections are stained in Alcian blue (1 g in 100 ml of acetic acid, 3% solution) for 30 min, washed in running tap water, and then rinsed in distilled water. The sections are counterstained in nuclear fast red (0.1 g in 100 ml of aluminum sulfate, 5% solution). After dehydration through 95% and absolute alcohol, the sections are cleared with xylene and mounted in Permount (Fisher Scientific). Capsular polysaccharides stain blue against a pink background. Commercially prepared stain is also available through several vendors.</para>
+      <anchor id="ch0140s0000a0010"/>
+      <para id="ch0140s0000p0017">Deparaffinized sections are stained in Alcian blue (1 g in 100 ml of acetic acid, 3% solution) for 30 min, washed in running tap water, and then rinsed in distilled water. The sections are counterstained in nuclear fast red (0.1 g in 100 ml of aluminum sulfate, 5% solution). After dehydration through 95% and absolute alcohol, the sections are cleared with xylene and mounted in Permount (Fisher Scientific). Capsular polysaccharides stain blue against a pink background. Commercially prepared stain is also available through several vendors.</para>
     </sect1>
     <sect1 id="ch0140s0007">
       <title>■ Ascospore stain</title>
       <anchor id="ch0140s0007a0001"/>
-      <anchor id="ch0140s0007a0002"/>
-      <para id="ch0140s0007p0001">Ascomycetous fungi may produce ascospores when grown on media that promote their formation. Visualization of ascospores can be accomplished with a differential staining procedure consisting of malachite green and safranin. Ascospores stain green, and the vegetative portion of the fungus stains red. The Kinyoun acid-fast stain (see<ulink url="ch0046#ch0046s0001">chapter 30</ulink>) may also be used for visualizing ascospores, as these structures tend to be acid fast.</para>
+      <anchor id="ch0140s0000a0011"/>
+      <para id="ch0140s0000p0018">Ascomycetous fungi may produce ascospores when grown on media that promote their formation. Visualization of ascospores can be accomplished with a differential staining procedure consisting of malachite green and safranin. Ascospores stain green, and the vegetative portion of the fungus stains red. The Kinyoun acid-fast stain (see<ulink url="ch0046#ch0046s0001">chapter 30</ulink>) may also be used for visualizing ascospores, as these structures tend to be acid fast.</para>
     </sect1>
     <sect1 id="ch0140s0008">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0008a0001"/>
-      <anchor id="ch0140s0008a0002"/>
-      <para id="ch0140s0008p0001">A thin smear of growth is applied to a glass slide and heat fixed. The slide is flooded with malachite green (5 g in 100 ml of distilled water) for 3 min, washed with tap water, decolorized with 95% ethyl alcohol for 30 s, and counterstained with aqueous safranin (5%) for 30 s. The slide is washed with tap water, allowed to air dry, and examined at ×400 to ×1,000 magnification.</para>
+      <anchor id="ch0140s0000a0012"/>
+      <para id="ch0140s0000p0019">A thin smear of growth is applied to a glass slide and heat fixed. The slide is flooded with malachite green (5 g in 100 ml of distilled water) for 3 min, washed with tap water, decolorized with 95% ethyl alcohol for 30 s, and counterstained with aqueous safranin (5%) for 30 s. The slide is washed with tap water, allowed to air dry, and examined at ×400 to ×1,000 magnification.</para>
     </sect1>
     <sect1 id="ch0140s0009">
       <title>■ Calcofluor white</title>
       <anchor id="ch0140s0009a0001"/>
-      <anchor id="ch0140s0009a0002"/>
-      <para id="ch0140s0009p0001">Calcofluor white and related compounds such as Uvitex 2B and Blankophor are nonspecific, nonimmunological fluorochromes that bind to β-1,3 and β-1,4 polysaccharides, specifically cellulose and chitin of fungal cell walls. Like the auramine-rhodamine stain, calcofluor white has become commonplace in microbiology laboratories because of the rapidity with which specimens can be observed. The fluorochrome can be mixed with KOH to clear specimens for easier observation of fungal elements. Fungal elements appear bluish white against a dark background when excited with UV or blue-violet radiation. Optimal fluorescence occurs with UV excitation. A barrier filter such as 510, 520, or 530 should be used for eye protection. Organisms impart a blue-white to green fluorescence (<link linkend="ch0140s0065s0001li0001">1</link>) depending on the combination of excitation and barrier filters used. Typical <emphasis>P. jirovecii</emphasis> cysts are 5 to 8 μm in diameter, round, and uniform in size, and they exhibit a characteristic peripheral cyst wall staining with an intense “double parenthesis-like” structure (<link linkend="ch0140s0065s0001li0019">19</link>–<link linkend="ch0140s0065s0001li0021">21</link>). Yeast cells are differentiated from <emphasis>P. jirovecii</emphasis> by budding and intense staining. Care must be used in interpreting the calcofluor white staining results because nonspecific reactions may be observed. Cotton fibers fluoresce strongly and must be differentiated from fungal hyphae. Additionally, tissues such as brain biopsy specimens from patients with tumors or other tissues containing elastin fibers may fluoresce and resemble hyphae suggestive of <emphasis>Aspergillus</emphasis> or other moulds with branching hyphae.</para>
+      <anchor id="ch0140s0000a0013"/>
+      <para id="ch0140s0000p0020">Calcofluor white and related compounds such as Uvitex 2B and Blankophor are nonspecific, nonimmunological fluorochromes that bind to β-1,3 and β-1,4 polysaccharides, specifically cellulose and chitin of fungal cell walls. Like the auramine-rhodamine stain, calcofluor white has become commonplace in microbiology laboratories because of the rapidity with which specimens can be observed. The fluorochrome can be mixed with KOH to clear specimens for easier observation of fungal elements. Fungal elements appear bluish white against a dark background when excited with UV or blue-violet radiation. Optimal fluorescence occurs with UV excitation. A barrier filter such as 510, 520, or 530 should be used for eye protection. Organisms impart a blue-white to green fluorescence (<link linkend="ch0140s0000li0009">1</link>) depending on the combination of excitation and barrier filters used. Typical <emphasis>P. jirovecii</emphasis> cysts are 5 to 8 μm in diameter, round, and uniform in size, and they exhibit a characteristic peripheral cyst wall staining with an intense “double parenthesis-like” structure (<link linkend="ch0140s0000li0027">19</link>–<link linkend="ch0140s0000li0029">21</link>). Yeast cells are differentiated from <emphasis>P. jirovecii</emphasis> by budding and intense staining. Care must be used in interpreting the calcofluor white staining results because nonspecific reactions may be observed. Cotton fibers fluoresce strongly and must be differentiated from fungal hyphae. Additionally, tissues such as brain biopsy specimens from patients with tumors or other tissues containing elastin fibers may fluoresce and resemble hyphae suggestive of <emphasis>Aspergillus</emphasis> or other moulds with branching hyphae.</para>
     </sect1>
     <sect1 id="ch0140s0010">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0010a0001"/>
-      <anchor id="ch0140s0010a0002"/>
-      <para id="ch0140s0010p0001">Calcofluor white may be purchased from multiple mycological media and chemical suppliers, either premixed in convenient dropper bottles or powdered form (see list of suppliers at the end of this chapter), following instructions provided by the manufacturer. KOH (10%) is mixed in equal proportion with calcofluor white solution (0.1 g of CFW M2R and 0.05 g of Evans blue in 100 ml of water). Greater concentrations of KOH may be required, depending on the specimen type (see “Potassium Hydroxide (KOH)” above). The specimen is covered with this mixture and a coverslip is applied. Allow the slide to sit for 5 to 10 minutes prior to viewing the slide to permit the tissue to clear and the stain to interact with the fungal elements. Some nail and tissue preparations may require a longer incubation time (up to 30 minutes) for clearing to occur. Alternatively, the slides may be gently warmed on a slide warmer to speed up the clearing process. Once clearing of the tissue has been achieved, apply gentle pressure to the coverslip to disperse the tissue under the coverslip. For optimal results the slide should be viewed as soon as the tissue has cleared. The preparation is examined with a fluorescence microscope containing appropriate excitation and barrier filters at ×100 to ×400 magnification. Darkly pigmented fungi may stain poorly with calcofluor white because of the pigmentation, which may mask the fluorescence. In this instance, if a dematiaceous mold is suspected, slides should additionally be viewed under light microscopy.</para>
+      <anchor id="ch0140s0000a0014"/>
+      <para id="ch0140s0000p0021">Calcofluor white may be purchased from multiple mycological media and chemical suppliers, either premixed in convenient dropper bottles or powdered form (see list of suppliers at the end of this chapter), following instructions provided by the manufacturer. KOH (10%) is mixed in equal proportion with calcofluor white solution (0.1 g of CFW M2R and 0.05 g of Evans blue in 100 ml of water). Greater concentrations of KOH may be required, depending on the specimen type (see “Potassium Hydroxide (KOH)” above). The specimen is covered with this mixture and a coverslip is applied. Allow the slide to sit for 5 to 10 minutes prior to viewing the slide to permit the tissue to clear and the stain to interact with the fungal elements. Some nail and tissue preparations may require a longer incubation time (up to 30 minutes) for clearing to occur. Alternatively, the slides may be gently warmed on a slide warmer to speed up the clearing process. Once clearing of the tissue has been achieved, apply gentle pressure to the coverslip to disperse the tissue under the coverslip. For optimal results the slide should be viewed as soon as the tissue has cleared. The preparation is examined with a fluorescence microscope containing appropriate excitation and barrier filters at ×100 to ×400 magnification. Darkly pigmented fungi may stain poorly with calcofluor white because of the pigmentation, which may mask the fluorescence. In this instance, if a dematiaceous mold is suspected, slides should additionally be viewed under light microscopy.</para>
     </sect1>
     <sect1 id="ch0140s0011">
       <title>■ Chlorazol black</title>
       <anchor id="ch0140s0011a0001"/>
-      <anchor id="ch0140s0011a0002"/>
-      <para id="ch0140s0011p0001">Chlorazol black is a chitinophilic dye that stains fungal structures green to black. The stain can be mixed with KOH to dissolve specimen debris and keratin, allowing better visualization of fungal structures. Results of chlorazol black staining are similar to using calcofluor white but do not require a fluorescence microscope (<link linkend="ch0140s0065s0001li0021">21</link>, <link linkend="ch0140s0065s0001li0022">22</link>).</para>
+      <anchor id="ch0140s0000a0015"/>
+      <para id="ch0140s0000p0022">Chlorazol black is a chitinophilic dye that stains fungal structures green to black. The stain can be mixed with KOH to dissolve specimen debris and keratin, allowing better visualization of fungal structures. Results of chlorazol black staining are similar to using calcofluor white but do not require a fluorescence microscope (<link linkend="ch0140s0000li0029">21</link>, <link linkend="ch0140s0000li0030">22</link>).</para>
     </sect1>
     <sect1 id="ch0140s0012">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0012a0001"/>
-      <anchor id="ch0140s0012a0002"/>
-      <para id="ch0140s0012p0001">Although this stain is available commercially, several formulations may be made in the laboratory (<link linkend="ch0140s0065s0001li0021">21</link>–<link linkend="ch0140s0065s0001li0023">23</link>) including the following (<link linkend="ch0140s0065s0001li0023">23</link>): in 80 ml of distilled water, add 10 g of KOH, 10 ml of glycerol, and 10 ml of Chlorazol Black E (0.1%). Add a drop of this mixture to a portion of the specimen. After placing a coverslip over this mixture, allow to sit at room temperature for 5 to 30 minutes to let the KOH dissolve tissue and keratin before viewing. [See “Potassium hydroxide (KOH)” above.]</para>
+      <anchor id="ch0140s0000a0016"/>
+      <para id="ch0140s0000p0023">Although this stain is available commercially, several formulations may be made in the laboratory (<link linkend="ch0140s0000li0029">21</link>–<link linkend="ch0140s0000li0031">23</link>) including the following (<link linkend="ch0140s0000li0031">23</link>): in 80 ml of distilled water, add 10 g of KOH, 10 ml of glycerol, and 10 ml of Chlorazol Black E (0.1%). Add a drop of this mixture to a portion of the specimen. After placing a coverslip over this mixture, allow to sit at room temperature for 5 to 30 minutes to let the KOH dissolve tissue and keratin before viewing. [See “Potassium hydroxide (KOH)” above.]</para>
     </sect1>
     <sect1 id="ch0140s0013">
       <title>■ Colloidal carbon wet mounts (India ink, nigrosin)</title>
       <anchor id="ch0140s0013a0001"/>
-      <anchor id="ch0140s0013a0002"/>
-      <anchor id="ch0140s0013a0003"/>
-      <para id="ch0140s0013p0001">Colloidal carbon wet mounts are used for visualization of encapsulated microorganisms, especially<emphasis>Cryptococcus</emphasis> species. The polysaccharide capsule of organisms is refractory to the particles of ink, and capsules appear as clear halos around the organisms. Artifacts such as erythrocytes, leukocytes, and talc particles from gloves or bubbles may displace the colloidal suspension and mimic yeast (false positive). These artifacts make it necessary to perform a careful examination of the wet mount for properties consistent with the organisms (e.g., rounded forms with buds of various sizes and double-contoured cell walls). Interpretation can also be hindered if the emulsion with the colloid suspension is too thick, blocking transmission of light.</para>
+      <anchor id="ch0140s0000a0017"/>
+      <anchor id="ch0140s0000a0018"/>
+      <para id="ch0140s0000p0024">Colloidal carbon wet mounts are used for visualization of encapsulated microorganisms, especially<emphasis>Cryptococcus</emphasis> species. The polysaccharide capsule of organisms is refractory to the particles of ink, and capsules appear as clear halos around the organisms. Artifacts such as erythrocytes, leukocytes, and talc particles from gloves or bubbles may displace the colloidal suspension and mimic yeast (false positive). These artifacts make it necessary to perform a careful examination of the wet mount for properties consistent with the organisms (e.g., rounded forms with buds of various sizes and double-contoured cell walls). Interpretation can also be hindered if the emulsion with the colloid suspension is too thick, blocking transmission of light.</para>
     </sect1>
     <sect1 id="ch0140s0014">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0014a0001"/>
-      <anchor id="ch0140s0014a0002"/>
-      <para id="ch0140s0014p0001">Mix equal parts of the patient’s cerebrospinal fluid with either commercial art India ink or nigrosin on a slide. Add a coverslip and examine at ×100 to ×1,000 magnification. Care must be taken not to contaminate India ink supplied in larger volumes. Limited-volume or individual-use dispensers can be purchased through many of the media and reagent distributors.</para>
+      <anchor id="ch0140s0000a0019"/>
+      <para id="ch0140s0000p0025">Mix equal parts of the patient’s cerebrospinal fluid with either commercial art India ink or nigrosin on a slide. Add a coverslip and examine at ×100 to ×1,000 magnification. Care must be taken not to contaminate India ink supplied in larger volumes. Limited-volume or individual-use dispensers can be purchased through many of the media and reagent distributors.</para>
     </sect1>
     <sect1 id="ch0140s0015">
       <title>■ Fontana-Masson stain</title>
       <anchor id="ch0140s0015a0001"/>
-      <anchor id="ch0140s0015a0002"/>
-      <para id="ch0140s0015p0001">The Fontana-Masson stain was originally developed for demonstrating melanin granules in mammalian tissue. It has a mycological application in detecting dematiaceous (melanin-containing) fungi and, to a lesser extent,<emphasis>Cryptococcus neoformans/gattii</emphasis> in histological sections. Fungal elements appear brown to brownish black against a reddish background.</para>
+      <anchor id="ch0140s0000a0020"/>
+      <para id="ch0140s0000p0026">The Fontana-Masson stain was originally developed for demonstrating melanin granules in mammalian tissue. It has a mycological application in detecting dematiaceous (melanin-containing) fungi and, to a lesser extent,<emphasis>Cryptococcus neoformans/gattii</emphasis> in histological sections. Fungal elements appear brown to brownish black against a reddish background.</para>
     </sect1>
     <sect1 id="ch0140s0016">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0016a0001"/>
-      <anchor id="ch0140s0016a0002"/>
-      <para id="ch0140s0016p0001">A silver solution is prepared by adding concentrated ammonium hydroxide to 10% silver nitrate until the precipitated form disappears. Deparaffinized sections of tissue are hydrated and placed in heated silver solution for 30 to 60 min. The slides are then rinsed in distilled water and toned in gold chloride (0.2 g in 100 ml of distilled water) for 10 min, followed by fixation in 5% sodium thiosulfate for 5 min. The sections are dehydrated through increasing concentrations of alcohol, cleared in xylene, and mounted with a coverslip.</para>
+      <anchor id="ch0140s0000a0021"/>
+      <para id="ch0140s0000p0027">A silver solution is prepared by adding concentrated ammonium hydroxide to 10% silver nitrate until the precipitated form disappears. Deparaffinized sections of tissue are hydrated and placed in heated silver solution for 30 to 60 min. The slides are then rinsed in distilled water and toned in gold chloride (0.2 g in 100 ml of distilled water) for 10 min, followed by fixation in 5% sodium thiosulfate for 5 min. The sections are dehydrated through increasing concentrations of alcohol, cleared in xylene, and mounted with a coverslip.</para>
     </sect1>
     <sect1 id="ch0140s0017">
       <title>■ Giemsa stain</title>
       <anchor id="ch0140s0017a0001"/>
-      <anchor id="ch0140s0017a0002"/>
-      <para id="ch0140s0017p0001">The Giemsa stain is used for the detection of intracellular yeast forms of<emphasis>Histoplasma capsulatum</emphasis> in bone marrow and buffy coat specimens. The fungus is usually seen as small oval yeast cells, often contained within macrophages, and stains blue; a hyaline halo represents poorly staining cell wall. The stain can also be used to visualize the trophozoite of <emphasis>P. jirovecii</emphasis>.</para>
+      <anchor id="ch0140s0000a0022"/>
+      <para id="ch0140s0000p0028">The Giemsa stain is used for the detection of intracellular yeast forms of<emphasis>Histoplasma capsulatum</emphasis> in bone marrow and buffy coat specimens. The fungus is usually seen as small oval yeast cells, often contained within macrophages, and stains blue; a hyaline halo represents poorly staining cell wall. The stain can also be used to visualize the trophozoite of <emphasis>P. jirovecii</emphasis>.</para>
     </sect1>
     <sect1 id="ch0140s0018">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0018a0001"/>
-      <anchor id="ch0140s0018a0002"/>
-      <para id="ch0140s0018p0001">A thin smear is prepared on a glass slide and placed in 100% methanol for 1 min. The slide is drained and then flooded with freshly prepared Giemsa stain (stock Giemsa stain diluted 1:10 with phosphate-buffered water). After 5 min, the slide is rinsed with distilled water and air dried. Examine at ×100 to ×400 magnification.</para>
+      <anchor id="ch0140s0000a0023"/>
+      <para id="ch0140s0000p0029">A thin smear is prepared on a glass slide and placed in 100% methanol for 1 min. The slide is drained and then flooded with freshly prepared Giemsa stain (stock Giemsa stain diluted 1:10 with phosphate-buffered water). After 5 min, the slide is rinsed with distilled water and air dried. Examine at ×100 to ×400 magnification.</para>
     </sect1>
     <sect1 id="ch0140s0019">
       <title>■ Lacto-fuchsin</title>
       <anchor id="ch0140s0019a0001"/>
-      <anchor id="ch0140s0019a0002"/>
-      <para id="ch0140s0019p0001">Lacto-fuchsin is a mounting fluid that can be used as an alternative to the widely used lactophenol cotton blue (below). It stains fungal structures more quickly, and the refractive index of the lacto-fuchsin mounting medium is such that fungal structures may be more visible (<link linkend="ch0140s0065s0001li0024">24</link>). Fungal structures stain pink to red. Lacto-fuchsin stain has a prolonged drying time; to prevent movement that could disrupt the microscopic structures of the mould, the coverslip should be ringed with nail polish. This is also useful for more prolonged preservation or for viewing slides of BSL-3 pathogens on removal from the biosafety cabinet.</para>
+      <anchor id="ch0140s0000a0024"/>
+      <para id="ch0140s0000p0030">Lacto-fuchsin is a mounting fluid that can be used as an alternative to the widely used lactophenol cotton blue (below). It stains fungal structures more quickly, and the refractive index of the lacto-fuchsin mounting medium is such that fungal structures may be more visible (<link linkend="ch0140s0000li0032">24</link>). Fungal structures stain pink to red. Lacto-fuchsin stain has a prolonged drying time; to prevent movement that could disrupt the microscopic structures of the mould, the coverslip should be ringed with nail polish. This is also useful for more prolonged preservation or for viewing slides of BSL-3 pathogens on removal from the biosafety cabinet.</para>
     </sect1>
     <sect1 id="ch0140s0020">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0020a0001"/>
-      <anchor id="ch0140s0020a0002"/>
-      <para id="ch0140s0020p0001">Lacto-fuchsin is made by dissolving 0.1 g of acid fuchsin in 100 ml of lactic acid (85%). For a more permanent mount, polyvinyl alcohol may be added to the solution. Commercial preparations can be obtained from companies listed at the end of this chapter.</para>
+      <anchor id="ch0140s0000a0025"/>
+      <para id="ch0140s0000p0031">Lacto-fuchsin is made by dissolving 0.1 g of acid fuchsin in 100 ml of lactic acid (85%). For a more permanent mount, polyvinyl alcohol may be added to the solution. Commercial preparations can be obtained from companies listed at the end of this chapter.</para>
     </sect1>
     <sect1 id="ch0140s0021">
       <title>■ Lactophenol cotton blue</title>
       <anchor id="ch0140s0021a0001"/>
-      <anchor id="ch0140s0021a0002"/>
-      <para id="ch0140s0021p0001">Lactophenol cotton blue (LPCB) is a basic mounting medium for fungi consisting of phenol, lactic acid, glycerol, and aniline (cotton) blue dye. The solution may be filtered to remove precipitated dye and stored at room temperature. It is commonly used for the microscopic examination of fungal cultures by tease or tape preparation. LPCB with 10% polyvinyl alcohol (LPCB-PVA) makes an excellent permanent stain or fixative for mounting slide culture preparations (<link linkend="ch0140s0065s0001li0001">1</link>).</para>
+      <anchor id="ch0140s0000a0026"/>
+      <para id="ch0140s0000p0032">Lactophenol cotton blue (LPCB) is a basic mounting medium for fungi consisting of phenol, lactic acid, glycerol, and aniline (cotton) blue dye. The solution may be filtered to remove precipitated dye and stored at room temperature. It is commonly used for the microscopic examination of fungal cultures by tease or tape preparation. LPCB with 10% polyvinyl alcohol (LPCB-PVA) makes an excellent permanent stain or fixative for mounting slide culture preparations (<link linkend="ch0140s0000li0009">1</link>).</para>
     </sect1>
     <sect1 id="ch0140s0022">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0022a0001"/>
-      <anchor id="ch0140s0022a0002"/>
-      <para id="ch0140s0022p0001">Concentrated phenol (20% [vol/vol]) is added to a mixture of glycerol (40%), lactic acid (20%), and water (20%), followed by the addition of aniline blue (0.05 g). The solution may be filter sterilized to remove precipitated dye. A drop is added to a glass slide, and a tease or tape mount is prepared. Add a coverslip and examine at ×100 to ×400 magnification.</para>
+      <anchor id="ch0140s0000a0027"/>
+      <para id="ch0140s0000p0033">Concentrated phenol (20% [vol/vol]) is added to a mixture of glycerol (40%), lactic acid (20%), and water (20%), followed by the addition of aniline blue (0.05 g). The solution may be filter sterilized to remove precipitated dye. A drop is added to a glass slide, and a tease or tape mount is prepared. Add a coverslip and examine at ×100 to ×400 magnification.</para>
     </sect1>
     <sect1 id="ch0140s0023">
       <title>■ Lactophenol cotton blue and potassium hydroxide (10%)</title>
       <anchor id="ch0140s0023a0001"/>
-      <anchor id="ch0140s0023a0002"/>
-      <para id="ch0140s0023p0001">The addition of KOH to the wet mount with LPCB is used for the same purpose as the KOH preparation (see above). However, LPCB enhances the visibility of fungi in the KOH solution because aniline blue stains the outer cell wall of fungi and lactic acid serves as an additional clearing agent. The phenol component in LPCB acts as a fungicide.</para>
+      <anchor id="ch0140s0000a0028"/>
+      <para id="ch0140s0000p0034">The addition of KOH to the wet mount with LPCB is used for the same purpose as the KOH preparation (see above). However, LPCB enhances the visibility of fungi in the KOH solution because aniline blue stains the outer cell wall of fungi and lactic acid serves as an additional clearing agent. The phenol component in LPCB acts as a fungicide.</para>
     </sect1>
     <sect1 id="ch0140s0024">
       <title>■ Methenamine silver stain</title>
       <anchor id="ch0140s0024a0001"/>
-      <anchor id="ch0140s0024a0002"/>
-      <para id="ch0140s0024p0001">Methenamine silver stains are perhaps the most useful stains for visualizing fungi in tissue. Fungal elements are sharply delineated in black against a pale green or yellow background. They are specialized stains that are more often performed in the histology laboratory than in the microbiology laboratory. Grocott’s modification of the Gomori methenamine silver stain is commonly used for the histopathological examination of deparaffinized tissues for fungi. A variation that can be used by counterstaining with the hematoxylin and eosin stain displays the silver-stained fungal structures within a host tissue reaction. Methenamine silver stain is not a fungal-specific stain; other non-fungal organisms may react with this stain (<link linkend="ch0140s0065s0001li0025">25</link>). Generally, the non-fungal organisms do not display characteristic fungal morphology; however, care should be taken when interpreting the stained tissue.</para>
+      <anchor id="ch0140s0000a0029"/>
+      <para id="ch0140s0000p0035">Methenamine silver stains are perhaps the most useful stains for visualizing fungi in tissue. Fungal elements are sharply delineated in black against a pale green or yellow background. They are specialized stains that are more often performed in the histology laboratory than in the microbiology laboratory. Grocott’s modification of the Gomori methenamine silver stain is commonly used for the histopathological examination of deparaffinized tissues for fungi. A variation that can be used by counterstaining with the hematoxylin and eosin stain displays the silver-stained fungal structures within a host tissue reaction. Methenamine silver stain is not a fungal-specific stain; other non-fungal organisms may react with this stain (<link linkend="ch0140s0000li0033">25</link>). Generally, the non-fungal organisms do not display characteristic fungal morphology; however, care should be taken when interpreting the stained tissue.</para>
     </sect1>
     <sect1 id="ch0140s0025">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0025a0001"/>
-      <anchor id="ch0140s0025a0002"/>
-      <para id="ch0140s0025p0001">Stock methenamine silver nitrate solution is prepared by adding 3% methenamine (3 g in 100 ml of distilled water) to 5% silver nitrate (5 g in 100 ml of distilled water) until a white precipitate forms that clears upon shaking. This solution is then diluted 1:2 with distilled water, to which 5 ml of 5% photographic-grade borax is added. Commercially prepared stain is also available. Prepared slides are oxidized in a solution of chromic acid (5 g in 100 ml of distilled water), neutralized in sodium bisulfite (1 g in 100 ml of distilled water), placed in the diluted methenamine silver nitrate solution, and heated in an oven at 58 to 60°C until the material turns yellowish brown. After being rinsed vigorously in distilled water, the slides are toned in gold chloride (0.1 g in 100 ml of distilled water). Unreduced silver is removed by placing the slides in a sodium thiosulfate solution (2 g in 100 ml of distilled water) and counterstained in 0.03% light green. Rinse, blot dry, and examine at ×100 to ×400 magnification.</para>
-      <anchor id="ch0140s0025a0003"/>
+      <anchor id="ch0140s0000a0030"/>
+      <para id="ch0140s0000p0036">Stock methenamine silver nitrate solution is prepared by adding 3% methenamine (3 g in 100 ml of distilled water) to 5% silver nitrate (5 g in 100 ml of distilled water) until a white precipitate forms that clears upon shaking. This solution is then diluted 1:2 with distilled water, to which 5 ml of 5% photographic-grade borax is added. Commercially prepared stain is also available. Prepared slides are oxidized in a solution of chromic acid (5 g in 100 ml of distilled water), neutralized in sodium bisulfite (1 g in 100 ml of distilled water), placed in the diluted methenamine silver nitrate solution, and heated in an oven at 58 to 60°C until the material turns yellowish brown. After being rinsed vigorously in distilled water, the slides are toned in gold chloride (0.1 g in 100 ml of distilled water). Unreduced silver is removed by placing the slides in a sodium thiosulfate solution (2 g in 100 ml of distilled water) and counterstained in 0.03% light green. Rinse, blot dry, and examine at ×100 to ×400 magnification.</para>
+      <anchor id="ch0140s0000a0031"/>
       <beginpage pagenum="2301"/>
     </sect1>
     <sect1 id="ch0140s0026">
       <title>■ Mucicarmine stain</title>
       <anchor id="ch0140s0026a0001"/>
-      <anchor id="ch0140s0026a0002"/>
-      <para id="ch0140s0026p0001">The mucicarmine stain is useful for differentiating<emphasis>C. neoformans</emphasis> and <emphasis>C. gattii</emphasis> from other fungi of similar size and shape when found in samples of tissue. The mucopolysaccharide in the capsular material of the fungus stains deep rose to red, whereas the other tissue elements stain yellow. <emphasis>Blastomyces dermatitidis</emphasis> and <emphasis>Rhinosporidium seeberi</emphasis> may also react positively with this stain but are differentiated by the size of the yeast and the intensity of the staining reaction of the mucopolysaccharide capsule of <emphasis>Cryptococcus</emphasis>.</para>
+      <anchor id="ch0140s0000a0032"/>
+      <para id="ch0140s0000p0037">The mucicarmine stain is useful for differentiating<emphasis>C. neoformans</emphasis> and <emphasis>C. gattii</emphasis> from other fungi of similar size and shape when found in samples of tissue. The mucopolysaccharide in the capsular material of the fungus stains deep rose to red, whereas the other tissue elements stain yellow. <emphasis>Blastomyces dermatitidis</emphasis> and <emphasis>Rhinosporidium seeberi</emphasis> may also react positively with this stain but are differentiated by the size of the yeast and the intensity of the staining reaction of the mucopolysaccharide capsule of <emphasis>Cryptococcus</emphasis>.</para>
     </sect1>
     <sect1 id="ch0140s0027">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0027a0001"/>
-      <anchor id="ch0140s0027a0002"/>
-      <para id="ch0140s0027p0001">Fixed tissue sections on glass slides are stained first with Weigert’s iron hematoxylin and then placed in a solution of mucicarmine (1 g of carmine combined with 0.5 g of anhydrous aluminum chloride in 2 ml of distilled water and then diluted in 100 ml of 50% ethanol) for 30 to 60 min. The slides are rinsed in distilled water and then counterstained in metanil yellow (0.25 g in 100 ml of distilled water). Rinse, blot dry, and examine at ×100 to ×400 magnification.</para>
+      <anchor id="ch0140s0000a0033"/>
+      <para id="ch0140s0000p0038">Fixed tissue sections on glass slides are stained first with Weigert’s iron hematoxylin and then placed in a solution of mucicarmine (1 g of carmine combined with 0.5 g of anhydrous aluminum chloride in 2 ml of distilled water and then diluted in 100 ml of 50% ethanol) for 30 to 60 min. The slides are rinsed in distilled water and then counterstained in metanil yellow (0.25 g in 100 ml of distilled water). Rinse, blot dry, and examine at ×100 to ×400 magnification.</para>
     </sect1>
     <sect1 id="ch0140s0028">
       <title>■ Periodic acid-Schiff (PAS) stain</title>
       <anchor id="ch0140s0028a0001"/>
-      <anchor id="ch0140s0028a0002"/>
-      <para id="ch0140s0028p0001">The PAS stain is used to detect fungi in clinical specimens, especially yeast cells and hyphae in tissues. Fungi stain a bright pink-magenta or purple against an orange background if picric acid is used as the counterstain, or against a green background if light green is used. The procedure is a multistep method combining hydrolysis and staining. The periodic acid step hydrolyzes the cell wall aldehydes, which are then able to combine with the modified Schiff reagent, coloring the cell wall carbohydrates a bright pink-magenta. The PAS stain is an excellent general stain because most fungi in clinical material take up the stain. However, the PAS staining procedure is rather involved, requiring several different reagents and time-consuming steps, and has been replaced in many laboratories by the calcofluor white staining procedure. The PAS stain cannot be used with undigested respiratory secretions, as mucin also stains bright pink-magenta. Also, in tissues that may have large amounts of glycogen (e.g., liver), PAS stain may be hard to interpret without prior amylase treatment to reduce background staining.</para>
+      <anchor id="ch0140s0000a0034"/>
+      <para id="ch0140s0000p0039">The PAS stain is used to detect fungi in clinical specimens, especially yeast cells and hyphae in tissues. Fungi stain a bright pink-magenta or purple against an orange background if picric acid is used as the counterstain, or against a green background if light green is used. The procedure is a multistep method combining hydrolysis and staining. The periodic acid step hydrolyzes the cell wall aldehydes, which are then able to combine with the modified Schiff reagent, coloring the cell wall carbohydrates a bright pink-magenta. The PAS stain is an excellent general stain because most fungi in clinical material take up the stain. However, the PAS staining procedure is rather involved, requiring several different reagents and time-consuming steps, and has been replaced in many laboratories by the calcofluor white staining procedure. The PAS stain cannot be used with undigested respiratory secretions, as mucin also stains bright pink-magenta. Also, in tissues that may have large amounts of glycogen (e.g., liver), PAS stain may be hard to interpret without prior amylase treatment to reduce background staining.</para>
     </sect1>
     <sect1 id="ch0140s0029">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0029a0001"/>
-      <anchor id="ch0140s0029a0002"/>
-      <para id="ch0140s0029p0001">The prepared slide is fixed in formalin ethanol for 1 min and then air dried. The slide is then immersed in 5% periodic acid for 5 min, followed by 2 min in basic fuchsin (0.1 g of dye in 5 ml of 95% alcohol and 95 ml of H<subscript>2</subscript>O). The slide is rinsed in water and immersed in zinc or sodium hydrosulfite solution for 10 min (1 g of zinc or sodium hydrosulfite in 0.5 g of tartaric acid and 100 ml of H<subscript>2</subscript>O). Rinse in water and counterstain with saturated aqueous picric acid for 2 min or with light green stain (1 g of dye in 0.25 ml of acetic acid and 100 ml of 80% alcohol) for 5 s. Rinse, blot dry, and examine at ×100 to ×400 magnification.</para>
+      <anchor id="ch0140s0000a0035"/>
+      <para id="ch0140s0000p0040">The prepared slide is fixed in formalin ethanol for 1 min and then air dried. The slide is then immersed in 5% periodic acid for 5 min, followed by 2 min in basic fuchsin (0.1 g of dye in 5 ml of 95% alcohol and 95 ml of H<subscript>2</subscript>O). The slide is rinsed in water and immersed in zinc or sodium hydrosulfite solution for 10 min (1 g of zinc or sodium hydrosulfite in 0.5 g of tartaric acid and 100 ml of H<subscript>2</subscript>O). Rinse in water and counterstain with saturated aqueous picric acid for 2 min or with light green stain (1 g of dye in 0.25 ml of acetic acid and 100 ml of 80% alcohol) for 5 s. Rinse, blot dry, and examine at ×100 to ×400 magnification.</para>
     </sect1>
     <sect1 id="ch0140s0030">
       <title>■ Toluidine blue O</title>
       <anchor id="ch0140s0030a0001"/>
-      <anchor id="ch0140s0030a0002"/>
-      <para id="ch0140s0030p0001">Toluidine blue O is used primarily for the rapid detection of<emphasis>P. jirovecii</emphasis> from lung biopsy specimen imprints and BAL specimens (<link linkend="ch0140s0065s0001li0026">26</link>). Toluidine blue O stains the cysts of <emphasis>P. jirovecii</emphasis> reddish blue or dark purple against a light blue background. The cysts are often clumped and may be punched in, appearing crescent shaped. Trophozoites are not discernible. Although the silver stain, monoclonal antibody, and calcofluor white stains are also used, the toluidine blue O stain is easy and rapid and yields reliable results with appropriate specimens (e.g., BAL specimens).</para>
+      <anchor id="ch0140s0000a0036"/>
+      <para id="ch0140s0000p0041">Toluidine blue O is used primarily for the rapid detection of<emphasis>P. jirovecii</emphasis> from lung biopsy specimen imprints and BAL specimens (<link linkend="ch0140s0000li0034">26</link>). Toluidine blue O stains the cysts of <emphasis>P. jirovecii</emphasis> reddish blue or dark purple against a light blue background. The cysts are often clumped and may be punched in, appearing crescent shaped. Trophozoites are not discernible. Although the silver stain, monoclonal antibody, and calcofluor white stains are also used, the toluidine blue O stain is easy and rapid and yields reliable results with appropriate specimens (e.g., BAL specimens).</para>
     </sect1>
     <sect1 id="ch0140s0031">
       <title>Basic Procedure</title>
       <anchor id="ch0140s0031a0001"/>
-      <anchor id="ch0140s0031a0002"/>
-      <para id="ch0140s0031p0001">After the slide is air dried, place it in the sulfation reagent (45 ml of glacial acetic acid mixed with 15 ml of concentrated sulfuric acid) for 10 min. Rinse in cold water for 5 min, drain, and place in toluidine blue O (0.3 g of dye in 60 ml of H<subscript>2</subscript>O) for 3 min. Rinse in 95% ethanol, followed by absolute ethanol and then xylene. Examine at ×100 to ×1,000 magnification.</para>
+      <anchor id="ch0140s0000a0037"/>
+      <para id="ch0140s0000p0042">After the slide is air dried, place it in the sulfation reagent (45 ml of glacial acetic acid mixed with 15 ml of concentrated sulfuric acid) for 10 min. Rinse in cold water for 5 min, drain, and place in toluidine blue O (0.3 g of dye in 60 ml of H<subscript>2</subscript>O) for 3 min. Rinse in 95% ethanol, followed by absolute ethanol and then xylene. Examine at ×100 to ×1,000 magnification.</para>
       <sect2 id="ch0140s0031s0001">
         <title>MEDIA</title>
-        <anchor id="ch0140s0031s0001a0001"/>
-        <anchor id="ch0140s0031s0001a0002"/>
+        <anchor id="ch0140s0031a0002"/>
+        <anchor id="ch0140s0000a0038"/>
       </sect2>
     </sect1>
     <sect1 id="ch0140s0032">
       <title>■ Agar slide culture plate</title>
       <anchor id="ch0140s0032a0001"/>
-      <anchor id="ch0140s0032a0002"/>
-      <para id="ch0140s0032p0001">Microscopic morphology of a fungal isolate is best observed using the slide culture method, in which an approximately 15-by-15-mm square block of medium is placed on a sterile microscope slide. The desired fungal organism is inoculated on each of the block’s edges, covered with a sterile 22-by-22-mm coverslip, and incubated in an individual humidified chamber. When sufficient sporulation is present, the coverslip is removed and placed growth side down on a microscope slide containing a drop of lactophenol cotton blue or other appropriate mounting fluid. After removal of the agar block, a second drop of mounting fluid can be placed on the growth on the glass slide and covered with a coverslip to provide a second mount. Sealing the edges of the coverslip with nail polish or a commercially available sealing compound can allow for long-term preservation as teaching or reference aids. Fungal morphology is visualized microscopically at ×200 and ×400 magnification. Commercial sources of agar plates are available with preformed slide culture setups. Agar and incubation temperature used should be selected on the basis of the optimum conditions to induce sporulation for the fungal organism used. This agar can be found commercially through Remel (Slide Culture Plate) and Hardy Diagnostics (Mycovue) as listed at the end of this chapter.</para>
+      <anchor id="ch0140s0000a0039"/>
+      <para id="ch0140s0000p0043">Microscopic morphology of a fungal isolate is best observed using the slide culture method, in which an approximately 15-by-15-mm square block of medium is placed on a sterile microscope slide. The desired fungal organism is inoculated on each of the block’s edges, covered with a sterile 22-by-22-mm coverslip, and incubated in an individual humidified chamber. When sufficient sporulation is present, the coverslip is removed and placed growth side down on a microscope slide containing a drop of lactophenol cotton blue or other appropriate mounting fluid. After removal of the agar block, a second drop of mounting fluid can be placed on the growth on the glass slide and covered with a coverslip to provide a second mount. Sealing the edges of the coverslip with nail polish or a commercially available sealing compound can allow for long-term preservation as teaching or reference aids. Fungal morphology is visualized microscopically at ×200 and ×400 magnification. Commercial sources of agar plates are available with preformed slide culture setups. Agar and incubation temperature used should be selected on the basis of the optimum conditions to induce sporulation for the fungal organism used. This agar can be found commercially through Remel (Slide Culture Plate) and Hardy Diagnostics (Mycovue) as listed at the end of this chapter.</para>
     </sect1>
     <sect1 id="ch0140s0033">
       <title>■ Acetate ascospore agar</title>
       <anchor id="ch0140s0033a0001"/>
-      <anchor id="ch0140s0033a0002"/>
-      <para id="ch0140s0033p0001">Acetate ascospore agar is used for the cultivation of ascosporogenous yeasts such as<emphasis>Saccharomyces cerevisiae.</emphasis> A potassium acetate formulation has been shown to be a better sporulation medium than the previously used formulation with sodium acetate. Ascospores produced on this medium are visible microscopically after staining with Kinyoun carbol-fuchsin acid-fast stain.</para>
+      <anchor id="ch0140s0000a0040"/>
+      <para id="ch0140s0000p0044">Acetate ascospore agar is used for the cultivation of ascosporogenous yeasts such as<emphasis>Saccharomyces cerevisiae.</emphasis> A potassium acetate formulation has been shown to be a better sporulation medium than the previously used formulation with sodium acetate. Ascospores produced on this medium are visible microscopically after staining with Kinyoun carbol-fuchsin acid-fast stain.</para>
     </sect1>
     <sect1 id="ch0140s0034">
       <title>■ Antifungal susceptibility testing media</title>
       <anchor id="ch0140s0034a0001"/>
-      <anchor id="ch0140s0034a0002"/>
-      <anchor id="ch0140s0034a0003"/>
-      <para id="ch0140s0034p0001">Recent advances in methods for antifungal susceptibility testing have resulted in several media that are now used for this type of testing. See<ulink url="ch0157#ch0157s0001">chapter 135</ulink> of this <emphasis>Manual</emphasis> for a comprehensive review of this topic.</para>
+      <anchor id="ch0140s0000a0041"/>
+      <anchor id="ch0140s0000a0042"/>
+      <para id="ch0140s0000p0045">Recent advances in methods for antifungal susceptibility testing have resulted in several media that are now used for this type of testing. See<ulink url="ch0157#ch0157s0001">chapter 135</ulink> of this <emphasis>Manual</emphasis> for a comprehensive review of this topic.</para>
     </sect1>
     <sect1 id="ch0140s0035">
       <title>■ Birdseed agar</title>
       <anchor id="ch0140s0035a0001"/>
-      <anchor id="ch0140s0035a0002"/>
-      <para id="ch0140s0035p0001">Birdseed agar is a selective and differential medium used for the isolation of<emphasis>Cryptococcus</emphasis> species, especially <emphasis>C. neoformans</emphasis> and <emphasis>C. gattii,</emphasis> which are unique in that they produce the enzyme phenol oxidase. The breakdown of the substrate (<emphasis>Guizotia abyssinica</emphasis> seeds or niger seed) produces melanin, which is absorbed into the yeast wall and imparts a tan to brown pigmentation of the colonies. Colonies of other yeasts are beige or cream in color. Chloramphenicol is the selective agent that inhibits bacteria and some fungi. Creatinine enhances melanization of some strains of <emphasis>C. neoformans</emphasis>.</para>
+      <anchor id="ch0140s0000a0043"/>
+      <para id="ch0140s0000p0046">Birdseed agar is a selective and differential medium used for the isolation of<emphasis>Cryptococcus</emphasis> species, especially <emphasis>C. neoformans</emphasis> and <emphasis>C. gattii,</emphasis> which are unique in that they produce the enzyme phenol oxidase. The breakdown of the substrate (<emphasis>Guizotia abyssinica</emphasis> seeds or niger seed) produces melanin, which is absorbed into the yeast wall and imparts a tan to brown pigmentation of the colonies. Colonies of other yeasts are beige or cream in color. Chloramphenicol is the selective agent that inhibits bacteria and some fungi. Creatinine enhances melanization of some strains of <emphasis>C. neoformans</emphasis>.</para>
     </sect1>
     <sect1 id="ch0140s0036">
       <title>■ Bismuth sulfite-glucose-glycine yeast (BiGGY) agar</title>
       <anchor id="ch0140s0036a0001"/>
-      <anchor id="ch0140s0036a0002"/>
-      <para id="ch0140s0036p0001">BiGGY agar is a selective and differential medium used for the isolation and differentiation of<emphasis>Candida</emphasis> spp. Peptone, glucose, and yeast extract are the nutritive bases. <emphasis>Candida</emphasis> species reduce the bismuth sulfite to bismuth sulfide, which results in pigmentation of the yeast colony and, with some species, the surrounding medium. <emphasis>Candida albicans</emphasis> appears as brown to black colonies with no pigment diffusion and no sheen, whereas <emphasis>Candida tropicalis</emphasis> appears as dark brown colonies with black centers, black pigment diffusion, and sheen. Specific colonial morphologies and growth patterns of the different <emphasis>Candida</emphasis> species are also detected. The bismuth sulfite also acts as an inhibitor of bacterial growth, making the medium selective.</para>
+      <anchor id="ch0140s0000a0044"/>
+      <para id="ch0140s0000p0047">BiGGY agar is a selective and differential medium used for the isolation and differentiation of<emphasis>Candida</emphasis> spp. Peptone, glucose, and yeast extract are the nutritive bases. <emphasis>Candida</emphasis> species reduce the bismuth sulfite to bismuth sulfide, which results in pigmentation of the yeast colony and, with some species, the surrounding medium. <emphasis>Candida albicans</emphasis> appears as brown to black colonies with no pigment diffusion and no sheen, whereas <emphasis>Candida tropicalis</emphasis> appears as dark brown colonies with black centers, black pigment diffusion, and sheen. Specific colonial morphologies and growth patterns of the different <emphasis>Candida</emphasis> species are also detected. The bismuth sulfite also acts as an inhibitor of bacterial growth, making the medium selective.</para>
     </sect1>
     <sect1 id="ch0140s0037">
       <title>■ Blood-glucose-cysteine agar</title>
       <anchor id="ch0140s0037a0001"/>
-      <anchor id="ch0140s0037a0002"/>
-      <para id="ch0140s0037p0001">A fungal isolate believed to be a thermally dimorphic pathogen can be identified by converting the mould phase to the yeast phase at 37°C. Blood-glucose-cysteine agar medium is used to promote the mould-to-yeast conversion of dimorphic molds including<emphasis>Histoplasma capsulatum, Blastomyces dermatitidis, Paracoccidioides brasiliensis,</emphasis> and <emphasis>Sporothrix schenckii.</emphasis> The medium contains tryptose blood agar base, <emphasis role="smallcaps">L</emphasis>-cysteine, and defibrinated sheep blood. Penicillin is added to inhibit bacterial contamination.</para>
+      <anchor id="ch0140s0000a0045"/>
+      <para id="ch0140s0000p0048">A fungal isolate believed to be a thermally dimorphic pathogen can be identified by converting the mould phase to the yeast phase at 37°C. Blood-glucose-cysteine agar medium is used to promote the mould-to-yeast conversion of dimorphic molds including<emphasis>Histoplasma capsulatum, Blastomyces dermatitidis, Paracoccidioides brasiliensis,</emphasis> and <emphasis>Sporothrix schenckii.</emphasis> The medium contains tryptose blood agar base, <emphasis role="smallcaps">L</emphasis>-cysteine, and defibrinated sheep blood. Penicillin is added to inhibit bacterial contamination.</para>
     </sect1>
     <sect1 id="ch0140s0038">
       <title>■ Brain heart infusion agar (fungal formulation)</title>
       <anchor id="ch0140s0038a0001"/>
-      <anchor id="ch0140s0038a0002"/>
-      <para id="ch0140s0038p0001">Brain heart infusion (BHI) agar with sheep blood is a medium used for the cultivation and isolation of all fungi including fastidious dimorphic fungi. The nutritive base is BHI agar with 10% sheep blood for added enrichment. The antibiotics chloramphenicol and gentamicin are added to make the medium selective by inhibiting bacteria. This medium does not inhibit saprophytic fungi. When attempting to isolate more fastidious moulds, a medium containing cycloheximide should be included to inhibit overgrowth by the saprophytic fungi.</para>
+      <anchor id="ch0140s0000a0046"/>
+      <para id="ch0140s0000p0049">Brain heart infusion (BHI) agar with sheep blood is a medium used for the cultivation and isolation of all fungi including fastidious dimorphic fungi. The nutritive base is BHI agar with 10% sheep blood for added enrichment. The antibiotics chloramphenicol and gentamicin are added to make the medium selective by inhibiting bacteria. This medium does not inhibit saprophytic fungi. When attempting to isolate more fastidious moulds, a medium containing cycloheximide should be included to inhibit overgrowth by the saprophytic fungi.</para>
     </sect1>
     <sect1 id="ch0140s0039">
       <title>■ Bromcresol purple milk solids glucose medium</title>
       <anchor id="ch0140s0039a0001"/>
-      <anchor id="ch0140s0039a0002"/>
-      <para id="ch0140s0039p0001">Bromcresol purple milk solids glucose (Dermatophyte Milk Agar; Hardy Diagnostics) is a differential medium used for the identification of<emphasis>Trichophyton</emphasis> species. The medium’s differential capacity is based on the type of growth (profuse versus restricted as compared to growth on standard nutrient media) and change in the pH indicator due to the production of alkaline by-products.</para>
+      <anchor id="ch0140s0000a0047"/>
+      <para id="ch0140s0000p0050">Bromcresol purple milk solids glucose (Dermatophyte Milk Agar; Hardy Diagnostics) is a differential medium used for the identification of<emphasis>Trichophyton</emphasis> species. The medium’s differential capacity is based on the type of growth (profuse versus restricted as compared to growth on standard nutrient media) and change in the pH indicator due to the production of alkaline by-products.</para>
     </sect1>
     <sect1 id="ch0140s0040">
       <title>■ Caffeic agar</title>
       <anchor id="ch0140s0040a0001"/>
-      <anchor id="ch0140s0040a0002"/>
-      <para id="ch0140s0040p0001">Caffeic agar is an adaptation of the birdseed agar, as discussed previously. Caffeic acid is the biologically active chemical in niger seed that causes the yeast colony of<emphasis>C. neoformans</emphasis> to turn brown (<link linkend="ch0140s0065s0001li0027">27</link>).</para>
+      <anchor id="ch0140s0000a0048"/>
+      <para id="ch0140s0000p0051">Caffeic agar is an adaptation of the birdseed agar, as discussed previously. Caffeic acid is the biologically active chemical in niger seed that causes the yeast colony of<emphasis>C. neoformans</emphasis> to turn brown (<link linkend="ch0140s0000li0035">27</link>).</para>
     </sect1>
     <sect1 id="ch0140s0041">
       <title>■ Canavanine-glycine-bromthymol blue agar</title>
       <anchor id="ch0140s0041a0001"/>
-      <anchor id="ch0140s0041a0002"/>
-      <para id="ch0140s0041p0001">Canavanine-glycine-bromthymol blue agar is a differential medium for distinguishing<emphasis>C. neoformans</emphasis> from <emphasis>C. gattii.</emphasis> The medium contains glycine, thiamine, <emphasis role="smallcaps">L</emphasis>-canavanine sulfate, and bromthymol blue. A colony of <emphasis>Cryptococcus</emphasis> is streaked onto the surface of the agar and incubated at 30°C for 1 to 5 days. (<emphasis>C. gattii</emphasis> species complex) turns the medium cobalt blue, whereas <emphasis>C. neoformans</emphasis> species complex leave the medium greenish yellow.</para>
+      <anchor id="ch0140s0000a0049"/>
+      <para id="ch0140s0000p0052">Canavanine-glycine-bromthymol blue agar is a differential medium for distinguishing<emphasis>C. neoformans</emphasis> from <emphasis>C. gattii.</emphasis> The medium contains glycine, thiamine, <emphasis role="smallcaps">L</emphasis>-canavanine sulfate, and bromthymol blue. A colony of <emphasis>Cryptococcus</emphasis> is streaked onto the surface of the agar and incubated at 30°C for 1 to 5 days. (<emphasis>C. gattii</emphasis> species complex) turns the medium cobalt blue, whereas <emphasis>C. neoformans</emphasis> species complex leave the medium greenish yellow.</para>
     </sect1>
     <sect1 id="ch0140s0042">
       <title>■ Candida chromogenic media</title>
       <anchor id="ch0140s0042a0001"/>
-      <anchor id="ch0140s0042a0002"/>
-      <para id="ch0140s0042p0001">The introduction of chromogenic media has facilitated the direct and rapid identification of yeasts; they are particularly useful for detecting and separating mixed cultures. These media contain chromogenic substrates that are hydrolyzed by species-specific enzymes, e.g., β<emphasis>-N</emphasis>-acetylhexosaminidase and, depending on the medium, a second enzyme, β-glucosidase or phosphatase, resulting in identification of yeasts to the species level based on colonial features and color development (<link linkend="ch0140s0065s0001li0028">28</link>–<link linkend="ch0140s0065s0001li0031">31</link>). Most of the commercially available chromogenic agars provide good identification of the major <emphasis>Candida</emphasis> species: <emphasis>C. albicans, C. tropicalis</emphasis>, and <emphasis>C. krusei</emphasis>.</para>
-      <para id="ch0140s0042p0002">The recent introduction of CHROMagar Candida Plus (CHROMagar, France) allows for presumptive identification of<emphasis>C. auris</emphasis> using chromogenic media (<link linkend="ch0140s0065s0001li0031">31</link>–<link linkend="ch0140s0065s0001li0033">33</link>). <emphasis>C. auris</emphasis> identification is important, as this species can cause invasive infections, demonstrates high rates of antifungal resistance, and can spread rapidly in a health care facility. While this medium differentiates <emphasis>C. auris</emphasis> from the major <emphasis>Candida</emphasis> spp., less common species like <emphasis>C. vulturna</emphasis> and <emphasis>C. pseudohaemulonii</emphasis> react similarly to <emphasis>C. auris</emphasis>, requiring further confirmation by sequencing or matrix-assisted laser desorption ionization–time of flight mass spectrometry (MALDI-TOF MS). Furthermore, <emphasis>C. auris</emphasis> has been shown to undergo phenotypic switching (<link linkend="ch0140s0065s0001li0034">34</link>), making identification using chromogenic agar more challenging and necessitating confirmatory testing for final identification.</para>
-      <para id="ch0140s0042p0003">Commercially available chromogenic media are summarized in<anchor id="ch0140s0042a0003"/><link linkend="ch0140s0044a0003">Table 1</link>.</para>
+      <anchor id="ch0140s0000a0050"/>
+      <para id="ch0140s0000p0053">The introduction of chromogenic media has facilitated the direct and rapid identification of yeasts; they are particularly useful for detecting and separating mixed cultures. These media contain chromogenic substrates that are hydrolyzed by species-specific enzymes, e.g., β<emphasis>-N</emphasis>-acetylhexosaminidase and, depending on the medium, a second enzyme, β-glucosidase or phosphatase, resulting in identification of yeasts to the species level based on colonial features and color development (<link linkend="ch0140s0000li0036">28</link>–<link linkend="ch0140s0000li0039">31</link>). Most of the commercially available chromogenic agars provide good identification of the major <emphasis>Candida</emphasis> species: <emphasis>C. albicans, C. tropicalis</emphasis>, and <emphasis>C. krusei</emphasis>.</para>
+      <para id="ch0140s0000p0054">The recent introduction of CHROMagar Candida Plus (CHROMagar, France) allows for presumptive identification of<emphasis>C. auris</emphasis> using chromogenic media (<link linkend="ch0140s0000li0039">31</link>–<link linkend="ch0140s0000li0041">33</link>). <emphasis>C. auris</emphasis> identification is important, as this species can cause invasive infections, demonstrates high rates of antifungal resistance, and can spread rapidly in a health care facility. While this medium differentiates <emphasis>C. auris</emphasis> from the major <emphasis>Candida</emphasis> spp., less common species like <emphasis>C. vulturna</emphasis> and <emphasis>C. pseudohaemulonii</emphasis> react similarly to <emphasis>C. auris</emphasis>, requiring further confirmation by sequencing or matrix-assisted laser desorption ionization–time of flight mass spectrometry (MALDI-TOF MS). Furthermore, <emphasis>C. auris</emphasis> has been shown to undergo phenotypic switching (<link linkend="ch0140s0000li0042">34</link>), making identification using chromogenic agar more challenging and necessitating confirmatory testing for final identification.</para>
+      <para id="ch0140s0000p0055">Commercially available chromogenic media are summarized in<anchor id="ch0140s0000a0051"/><link linkend="ch0140s0000a0054">Table 1</link>.</para>
     </sect1>
     <sect1 id="ch0140s0043">
       <title>■ Christensen’s urea agar</title>
       <anchor id="ch0140s0043a0001"/>
-      <anchor id="ch0140s0043a0002"/>
-      <para id="ch0140s0043p0001">The ability to hydrolyze urea is an important phenotypic characteristic for the presumptive identification of<emphasis>Cryptococcus, Trichosporon,</emphasis> and <emphasis>Rhodotorula</emphasis> spp. Urea hydrolysis also facilitates separation of certain dermatophytes, in particular <emphasis>Trichophyton mentagrophytes</emphasis> and <emphasis>Trichophyton rubrum.</emphasis> The medium contains 2% urea, with phenol red serving as the indicator.</para>
+      <anchor id="ch0140s0000a0052"/>
+      <para id="ch0140s0000p0056">The ability to hydrolyze urea is an important phenotypic characteristic for the presumptive identification of<emphasis>Cryptococcus, Trichosporon,</emphasis> and <emphasis>Rhodotorula</emphasis> spp. Urea hydrolysis also facilitates separation of certain dermatophytes, in particular <emphasis>Trichophyton mentagrophytes</emphasis> and <emphasis>Trichophyton rubrum.</emphasis> The medium contains 2% urea, with phenol red serving as the indicator.</para>
     </sect1>
     <sect1 id="ch0140s0044">
       <title>■ Cornmeal agar with 1% dextrose</title>
       <anchor id="ch0140s0044a0001"/>
-      <anchor id="ch0140s0044a0002"/>
-      <para id="ch0140s0044p0001">Cornmeal agar with 1% dextrose is used for the cultivation of fungi and the differentiation of<emphasis>T. mentagrophytes</emphasis> from <emphasis>T. rubrum</emphasis> on the basis of pigment production. The replacement of Tween 80 (polysorbate 80) with dextrose promotes the growth and production of a red pigment by <emphasis>T. rubrum</emphasis>.</para>
-      <table id="ch0140s0044t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0140s0044a0003"/><link linkend="ch0140s0042a0003">TABLE 1</link></phrase></emphasis> Commercial sources of yeast chromogenic agar media
+      <anchor id="ch0140s0000a0053"/>
+      <para id="ch0140s0000p0057">Cornmeal agar with 1% dextrose is used for the cultivation of fungi and the differentiation of<emphasis>T. mentagrophytes</emphasis> from <emphasis>T. rubrum</emphasis> on the basis of pigment production. The replacement of Tween 80 (polysorbate 80) with dextrose promotes the growth and production of a red pigment by <emphasis>T. rubrum</emphasis>.</para>
+      <table id="ch0140s0000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0140s0000a0054"/><link linkend="ch0140s0000a0051">TABLE 1</link></phrase></emphasis> Commercial sources of yeast chromogenic agar media
 </title>
         
         <tgroup cols="3">
@@ -310,8 +310,8 @@
               </entry>
               <entry><phrase role="center">Manufacturer</phrase>
               </entry>
-              <entry><phrase role="center">Candida species identified<superscript><link linkend="ch0140s0044a0005">a</link></superscript></phrase>
-                <anchor id="ch0140s0044a0004"/>
+              <entry><phrase role="center">Candida species identified<superscript><link linkend="ch0140s0000a0056">a</link></superscript></phrase>
+                <anchor id="ch0140s0000a0055"/>
               </entry>
             </row>
             <row>
@@ -327,9 +327,9 @@
             <row>
               <entry>Candi<emphasis>Select</emphasis> 4</entry>
               <entry>Bio-Rad Laboratories</entry>
-              <entry><para id="ch0140s0044p0002"><emphasis>C. albicans</emphasis>
+              <entry><para id="ch0140s0000p0058"><emphasis>C. albicans</emphasis>
                 </para>
-                <para id="ch0140s0044p0003">Presumptive identification:<emphasis>C. glabrata, C. tropicalis</emphasis>, and <emphasis>C. krusei</emphasis></para>
+                <para id="ch0140s0000p0059">Presumptive identification:<emphasis>C. glabrata, C. tropicalis</emphasis>, and <emphasis>C. krusei</emphasis></para>
               </entry>
             </row>
             <row>
@@ -340,9 +340,9 @@
             <row>
               <entry>CHROMagar Candida Plus</entry>
               <entry>CHROMagar</entry>
-              <entry><para id="ch0140s0044p0004"><emphasis>C. albicans, C. tropicalis, C. krusei, C. glabrata</emphasis>
+              <entry><para id="ch0140s0000p0060"><emphasis>C. albicans, C. tropicalis, C. krusei, C. glabrata</emphasis>
                 </para>
-                <para id="ch0140s0044p0005">Presumptive identification:<emphasis>C. auris</emphasis></para>
+                <para id="ch0140s0000p0061">Presumptive identification:<emphasis>C. auris</emphasis></para>
               </entry>
             </row>
             <row>
@@ -353,16 +353,16 @@
             <row>
               <entry>CHROMID Candida Agar</entry>
               <entry>bioMérieux, Inc.</entry>
-              <entry><para id="ch0140s0044p0006"><emphasis>C. albicans</emphasis>
+              <entry><para id="ch0140s0000p0062"><emphasis>C. albicans</emphasis>
                 </para>
-                <para id="ch0140s0044p0007">Presumptive identification:<emphasis>C. tropicalis, C. lusitaniae</emphasis>, and <emphasis>C. kefyr</emphasis></para>
+                <para id="ch0140s0000p0063">Presumptive identification:<emphasis>C. tropicalis, C. lusitaniae</emphasis>, and <emphasis>C. kefyr</emphasis></para>
               </entry>
             </row>
             <row>
               <entry>HardyCHROM Candida</entry>
               <entry>Hardy Diagnostics</entry>
-              <entry><para id="ch0140s0044p0008"><emphasis>C. albicans, C. tropicalis</emphasis>, and <emphasis>C. krusei</emphasis></para>
-                <para id="ch0140s0044p0009">Presumptive identification:<emphasis>C. glabrata</emphasis></para>
+              <entry><para id="ch0140s0000p0064"><emphasis>C. albicans, C. tropicalis</emphasis>, and <emphasis>C. krusei</emphasis></para>
+                <para id="ch0140s0000p0065">Presumptive identification:<emphasis>C. glabrata</emphasis></para>
               </entry>
             </row>
             <row>
@@ -373,132 +373,132 @@
             <row>
               <entry>Oxoid Brilliance Candida Agar</entry>
               <entry>Oxoid Microbiology Products</entry>
-              <entry><para id="ch0140s0044p0010"><emphasis>C. albicans/C. dubliniensis, C. krusei</emphasis>, and <emphasis>C. tropicalis</emphasis></para>
-                <para id="ch0140s0044p0011">Presumptive identification:<emphasis>C. glabrata, C. kefyr, C. parapsilosis, and C. lusitaniae</emphasis></para>
+              <entry><para id="ch0140s0000p0066"><emphasis>C. albicans/C. dubliniensis, C. krusei</emphasis>, and <emphasis>C. tropicalis</emphasis></para>
+                <para id="ch0140s0000p0067">Presumptive identification:<emphasis>C. glabrata, C. kefyr, C. parapsilosis, and C. lusitaniae</emphasis></para>
               </entry>
             </row>
           </tbody>
         </tgroup>
       </table>
-      <para role="table-footnote"><superscript><link linkend="ch0140s0044a0004">a</link></superscript><anchor id="ch0140s0044a0005"/><emphasis>Candida</emphasis> species identified as provided by the manufacturer. Species that are presumptively identified require further testing for final identification.</para>
+      <para role="table-footnote"><superscript><link linkend="ch0140s0000a0055">a</link></superscript><anchor id="ch0140s0000a0056"/><emphasis>Candida</emphasis> species identified as provided by the manufacturer. Species that are presumptively identified require further testing for final identification.</para>
     </sect1>
     <sect1 id="ch0140s0045">
       <title>■ Cornmeal agar with Tween 80</title>
       <anchor id="ch0140s0045a0001"/>
-      <anchor id="ch0140s0045a0002"/>
-      <anchor id="ch0140s0045a0003"/>
-      <para id="ch0140s0045p0001">Cornmeal agar with Tween (polysorbate) 80 is used for the cultivation and differentiation of<emphasis>Candida</emphasis> species on the basis of morphological characteristics. Tween 80, a surfactant, is specifically incorporated in lieu of dextrose for the demonstration of pseudohyphal, chlamydospore, and arthrospore formation. Chlamydospore production is best obtained by subsurface inoculation, or by placing a coverslip over the yeast inoculum, creating a microaerobic environment. The basic nutrients for yeast growth are provided by cornmeal infusion.</para>
+      <anchor id="ch0140s0000a0057"/>
+      <anchor id="ch0140s0000a0058"/>
+      <para id="ch0140s0000p0068">Cornmeal agar with Tween (polysorbate) 80 is used for the cultivation and differentiation of<emphasis>Candida</emphasis> species on the basis of morphological characteristics. Tween 80, a surfactant, is specifically incorporated in lieu of dextrose for the demonstration of pseudohyphal, chlamydospore, and arthrospore formation. Chlamydospore production is best obtained by subsurface inoculation, or by placing a coverslip over the yeast inoculum, creating a microaerobic environment. The basic nutrients for yeast growth are provided by cornmeal infusion.</para>
     </sect1>
     <sect1 id="ch0140s0046">
       <title>■ Czapek-Dox agar</title>
       <anchor id="ch0140s0046a0001"/>
-      <anchor id="ch0140s0046a0002"/>
-      <para id="ch0140s0046p0001">Czapek-Dox agar is a medium used for the differentiation of<emphasis>Aspergillus</emphasis> spp. (<link linkend="ch0140s0065s0001li0001">1</link>, <link linkend="ch0140s0065s0001li0003">3</link>, <link linkend="ch0140s0065s0001li0023">23</link>). Sucrose is the sole carbon source, with sodium nitrate serving as the sole nitrogen source. Any bacteria or fungi that can use sodium nitrate as a nitrogen source can grow on this medium.</para>
+      <anchor id="ch0140s0000a0059"/>
+      <para id="ch0140s0000p0069">Czapek-Dox agar is a medium used for the differentiation of<emphasis>Aspergillus</emphasis> spp. (<link linkend="ch0140s0000li0009">1</link>, <link linkend="ch0140s0000li0011">3</link>, <link linkend="ch0140s0000li0031">23</link>). Sucrose is the sole carbon source, with sodium nitrate serving as the sole nitrogen source. Any bacteria or fungi that can use sodium nitrate as a nitrogen source can grow on this medium.</para>
     </sect1>
     <sect1 id="ch0140s0047">
       <title>■ Dermatophyte test medium (DTM)</title>
       <anchor id="ch0140s0047a0001"/>
-      <anchor id="ch0140s0047a0002"/>
-      <para id="ch0140s0047p0001">Dermatophyte test medium is used as a screening medium for the recovery, selection, and differentiation of dermatophytes (e.g.,<emphasis>Microsporum, Trichophyton, Epidermophyton,</emphasis> and <emphasis>Nannizza</emphasis> species) from keratinous specimens (hair, skin, and nails). Nitrogenous and carbonaceous compounds are provided by soy peptone. Cycloheximide inhibits saprophytic moulds, chloramphenicol inhibits many Gram-positive bacteria, and gentamicin inhibits Gram-negative bacteria. The morphology and microscopic characteristics are easily identified with this medium. Pigmentation cannot be discerned because of the presence of phenol red indicator. The medium is yellow and turns red with growth of dermatophytes. Because <emphasis>Aspergillus</emphasis> species and other saprophytic fungi can grow and produce pigment on this medium, it is recommended as a screening medium only.</para>
+      <anchor id="ch0140s0000a0060"/>
+      <para id="ch0140s0000p0070">Dermatophyte test medium is used as a screening medium for the recovery, selection, and differentiation of dermatophytes (e.g.,<emphasis>Microsporum, Trichophyton, Epidermophyton,</emphasis> and <emphasis>Nannizza</emphasis> species) from keratinous specimens (hair, skin, and nails). Nitrogenous and carbonaceous compounds are provided by soy peptone. Cycloheximide inhibits saprophytic moulds, chloramphenicol inhibits many Gram-positive bacteria, and gentamicin inhibits Gram-negative bacteria. The morphology and microscopic characteristics are easily identified with this medium. Pigmentation cannot be discerned because of the presence of phenol red indicator. The medium is yellow and turns red with growth of dermatophytes. Because <emphasis>Aspergillus</emphasis> species and other saprophytic fungi can grow and produce pigment on this medium, it is recommended as a screening medium only.</para>
     </sect1>
     <sect1 id="ch0140s0048">
       <title>■ Inhibitory mould agar</title>
       <anchor id="ch0140s0048a0001"/>
-      <anchor id="ch0140s0048a0002"/>
-      <para id="ch0140s0048p0001">Inhibitory mould agar is a selective and enriched medium that is used for the general cultivation of cycloheximide-susceptible fungi (e.g.,<emphasis>Cryptococcus</emphasis> species, mucoraceous fungi, and <emphasis>H. capsulatum</emphasis>) from contaminated specimens. Casein and animal tissue provide growth nutrients. Yeast extract serves as a source of vitamins. Chloramphenicol inhibits many Gram-positive and Gram-negative bacteria. Gentamicin is another additive that inhibits some Gram-negative bacteria. This is an excellent medium for use in the primary cultivation of fungi and has been demonstrated to be more sensitive than the standard Sabouraud dextrose agar (<link linkend="ch0140s0065s0001li0035">35</link>).</para>
+      <anchor id="ch0140s0000a0061"/>
+      <para id="ch0140s0000p0071">Inhibitory mould agar is a selective and enriched medium that is used for the general cultivation of cycloheximide-susceptible fungi (e.g.,<emphasis>Cryptococcus</emphasis> species, mucoraceous fungi, and <emphasis>H. capsulatum</emphasis>) from contaminated specimens. Casein and animal tissue provide growth nutrients. Yeast extract serves as a source of vitamins. Chloramphenicol inhibits many Gram-positive and Gram-negative bacteria. Gentamicin is another additive that inhibits some Gram-negative bacteria. This is an excellent medium for use in the primary cultivation of fungi and has been demonstrated to be more sensitive than the standard Sabouraud dextrose agar (<link linkend="ch0140s0000li0043">35</link>).</para>
     </sect1>
     <sect1 id="ch0140s0049">
       <title>■ Lactritmel agar (Borelli’s medium)</title>
       <anchor id="ch0140s0049a0001"/>
-      <anchor id="ch0140s0049a0002"/>
-      <para id="ch0140s0049p0001">Lactritmel agar (Borelli’s medium) is composed of whole wheat flour, skim milk, and honey, which favors the sporulation of most dermatophytes and the pigment production of<emphasis>Trichophyton</emphasis> species. The medium may also be used for the morphological examination of dematiaceous fungi.</para>
+      <anchor id="ch0140s0000a0062"/>
+      <para id="ch0140s0000p0072">Lactritmel agar (Borelli’s medium) is composed of whole wheat flour, skim milk, and honey, which favors the sporulation of most dermatophytes and the pigment production of<emphasis>Trichophyton</emphasis> species. The medium may also be used for the morphological examination of dematiaceous fungi.</para>
     </sect1>
     <sect1 id="ch0140s0050">
       <title>■ Leeming and Notman medium</title>
       <anchor id="ch0140s0050a0001"/>
-      <anchor id="ch0140s0050a0002"/>
-      <para id="ch0140s0050p0001">Leeming and Notman medium is used for the isolation and growth of lipodependent<emphasis>Malassezia</emphasis> species. The key components of the medium include ox bile, glycerol monostearate, glycerol, Tween 80, and cow’s milk (whole fat) (<link linkend="ch0140s0065s0001li0036">36</link>). The medium may serve as an alternative to Sabouraud glucose agar because not all species can grow on this medium, e.g., <emphasis>Malassezia globosa, M. restricta</emphasis>, and <emphasis>M. obtusa</emphasis>, which require more complex media for their isolation.</para>
+      <anchor id="ch0140s0000a0063"/>
+      <para id="ch0140s0000p0073">Leeming and Notman medium is used for the isolation and growth of lipodependent<emphasis>Malassezia</emphasis> species. The key components of the medium include ox bile, glycerol monostearate, glycerol, Tween 80, and cow’s milk (whole fat) (<link linkend="ch0140s0000li0044">36</link>). The medium may serve as an alternative to Sabouraud glucose agar because not all species can grow on this medium, e.g., <emphasis>Malassezia globosa, M. restricta</emphasis>, and <emphasis>M. obtusa</emphasis>, which require more complex media for their isolation.</para>
     </sect1>
     <sect1 id="ch0140s0051">
       <title>■ Littman oxgall agar</title>
       <anchor id="ch0140s0051a0001"/>
-      <anchor id="ch0140s0051a0002"/>
-      <para id="ch0140s0051p0001">Littman oxgall agar is a selective general-purpose medium used for the isolation of fungi from contaminated specimens. Crystal violet and streptomycin are the selective agents and inhibit bacteria. Oxgall restricts the spreading of fungal colonies. The isolation characteristics of this medium are similar to those of Sabouraud dextrose agar with chloramphenicol and inhibitory mould agar in that it allows the growth of fungi that are susceptible to cycloheximide.</para>
+      <anchor id="ch0140s0000a0064"/>
+      <para id="ch0140s0000p0074">Littman oxgall agar is a selective general-purpose medium used for the isolation of fungi from contaminated specimens. Crystal violet and streptomycin are the selective agents and inhibit bacteria. Oxgall restricts the spreading of fungal colonies. The isolation characteristics of this medium are similar to those of Sabouraud dextrose agar with chloramphenicol and inhibitory mould agar in that it allows the growth of fungi that are susceptible to cycloheximide.</para>
     </sect1>
     <sect1 id="ch0140s0052">
       <title>■ Malt extract (2%) agar</title>
       <anchor id="ch0140s0052a0001"/>
-      <anchor id="ch0140s0052a0002"/>
-      <para id="ch0140s0052p0001">This medium is used for the cultivation of yeasts and moulds. A variety of formulations have been described but typically include malt extract with agar; they are supplemented with peptone, glucose, maltose, and dextrin and/or glycerol. Malt agar is particularly useful for stimulating the production of macroconidia in<emphasis>Microsporum canis</emphasis>.</para>
+      <anchor id="ch0140s0000a0065"/>
+      <para id="ch0140s0000p0075">This medium is used for the cultivation of yeasts and moulds. A variety of formulations have been described but typically include malt extract with agar; they are supplemented with peptone, glucose, maltose, and dextrin and/or glycerol. Malt agar is particularly useful for stimulating the production of macroconidia in<emphasis>Microsporum canis</emphasis>.</para>
     </sect1>
     <sect1 id="ch0140s0053">
       <title>■ Mycobiotic or Mycosel agar</title>
       <anchor id="ch0140s0053a0001"/>
-      <anchor id="ch0140s0053a0002"/>
-      <anchor id="ch0140s0053a0003"/>
-      <para id="ch0140s0053p0001">Mycobiotic (Remel) and Mycosel (BD Diagnostic Systems) are trade names for a selective medium principally formulated for the isolation of dermatophytes but also used for the isolation of other pathogenic fungi from specimens contaminated with saprophytic fungi and bacteria. The medium consists primarily of peptones from a pancreatic digest of soybean meal and dextrose. The selective agents are cycloheximide and chloramphenicol. Cycloheximide inhibits the faster-growing saprophytic fungi but is also inhibitory to some clinically relevant species. These inhibited fungi include some<emphasis>Candida</emphasis> and <emphasis>Aspergillus</emphasis> species, mucoraceous fungi, and <emphasis>C. neoformans.</emphasis> Chloramphenicol inhibits Gram-negative and Gram-positive organisms.</para>
+      <anchor id="ch0140s0000a0066"/>
+      <anchor id="ch0140s0000a0067"/>
+      <para id="ch0140s0000p0076">Mycobiotic (Remel) and Mycosel (BD Diagnostic Systems) are trade names for a selective medium principally formulated for the isolation of dermatophytes but also used for the isolation of other pathogenic fungi from specimens contaminated with saprophytic fungi and bacteria. The medium consists primarily of peptones from a pancreatic digest of soybean meal and dextrose. The selective agents are cycloheximide and chloramphenicol. Cycloheximide inhibits the faster-growing saprophytic fungi but is also inhibitory to some clinically relevant species. These inhibited fungi include some<emphasis>Candida</emphasis> and <emphasis>Aspergillus</emphasis> species, mucoraceous fungi, and <emphasis>C. neoformans.</emphasis> Chloramphenicol inhibits Gram-negative and Gram-positive organisms.</para>
     </sect1>
     <sect1 id="ch0140s0054">
       <title>■ Niger seed agar</title>
       <anchor id="ch0140s0054a0001"/>
-      <anchor id="ch0140s0054a0002"/>
-      <para id="ch0140s0054p0001">See Birdseed agar.</para>
+      <anchor id="ch0140s0000a0068"/>
+      <para id="ch0140s0000p0077">See Birdseed agar.</para>
     </sect1>
     <sect1 id="ch0140s0055">
       <title>■ Potato dextrose agar</title>
       <anchor id="ch0140s0055a0001"/>
-      <anchor id="ch0140s0055a0002"/>
-      <para id="ch0140s0055p0001">Potato dextrose agar is a medium used to stimulate conidium production by fungi. The medium also stimulates pigment production in some dermatophytes. This medium is most commonly used with the slide culture technique to view morphological characteristics. Infusions from potatoes and dextrose provide nutrient factors for excellent growth. The incorporation of tartaric acid in the medium lowers the pH, thereby inhibiting bacterial growth. The medium may be made selective by the addition of cycloheximide and chloramphenicol.</para>
+      <anchor id="ch0140s0000a0069"/>
+      <para id="ch0140s0000p0078">Potato dextrose agar is a medium used to stimulate conidium production by fungi. The medium also stimulates pigment production in some dermatophytes. This medium is most commonly used with the slide culture technique to view morphological characteristics. Infusions from potatoes and dextrose provide nutrient factors for excellent growth. The incorporation of tartaric acid in the medium lowers the pH, thereby inhibiting bacterial growth. The medium may be made selective by the addition of cycloheximide and chloramphenicol.</para>
     </sect1>
     <sect1 id="ch0140s0056">
       <title>■ Potato flake agar</title>
       <anchor id="ch0140s0056a0001"/>
-      <anchor id="ch0140s0056a0002"/>
-      <para id="ch0140s0056p0001">Potato flake agar is a medium useful in the stimulation of conidia by fungi. Its advantages over potato dextrose agar may be preparation and stability. Potato flakes and dextrose provide the nutrient factors that allow excellent growth. The pH is adjusted to 5.6 to enhance growth of fungi and to inhibit bacterial growth. The medium may be made selective by the addition of cycloheximide and chloramphenicol.</para>
+      <anchor id="ch0140s0000a0070"/>
+      <para id="ch0140s0000p0079">Potato flake agar is a medium useful in the stimulation of conidia by fungi. Its advantages over potato dextrose agar may be preparation and stability. Potato flakes and dextrose provide the nutrient factors that allow excellent growth. The pH is adjusted to 5.6 to enhance growth of fungi and to inhibit bacterial growth. The medium may be made selective by the addition of cycloheximide and chloramphenicol.</para>
     </sect1>
     <sect1 id="ch0140s0057">
       <title>■ Sabouraud brain heart infusion (SABHI)</title>
       <anchor id="ch0140s0057a0001"/>
-      <anchor id="ch0140s0057a0002"/>
-      <para id="ch0140s0057p0001">SABHI agar is a general-purpose medium used for the isolation and cultivation of all fungi. The medium is a combination of brain heart infusion agar and Sabouraud dextrose agar. The combined formulation allows for the recovery of most fungi, including the yeast phase of dimorphic fungi. The inclusion of sheep blood provides essential growth factors for the more fastidious fungi and enhances the growth of<emphasis>H. capsulatum.</emphasis> Selectivity is attained by the addition of chloramphenicol, cycloheximide, penicillin, and/or streptomycin.</para>
+      <anchor id="ch0140s0000a0071"/>
+      <para id="ch0140s0000p0080">SABHI agar is a general-purpose medium used for the isolation and cultivation of all fungi. The medium is a combination of brain heart infusion agar and Sabouraud dextrose agar. The combined formulation allows for the recovery of most fungi, including the yeast phase of dimorphic fungi. The inclusion of sheep blood provides essential growth factors for the more fastidious fungi and enhances the growth of<emphasis>H. capsulatum.</emphasis> Selectivity is attained by the addition of chloramphenicol, cycloheximide, penicillin, and/or streptomycin.</para>
     </sect1>
     <sect1 id="ch0140s0058">
       <title>■ Sabouraud dextrose agar</title>
       <anchor id="ch0140s0058a0001"/>
-      <anchor id="ch0140s0058a0002"/>
-      <para id="ch0140s0058p0001">Sabouraud dextrose agar was formulated by Sabouraud for cultivating dermatophytes. The medium consists of pancreatic digest of casein, peptic digest of animal tissue, and dextrose at 4% concentration, buffered to a pH of 5.6. Emmons modified the original formulation by reducing the dextrose concentration to 2% and adjusting the pH nearer to neutrality at 6.9 to 7.0. Antibiotic additives in various combinations include cycloheximide, chloramphenicol, gentamicin, ciprofloxacin, penicillin, and/or streptomycin, which inhibit some fungi and Gram-positive and Gram-negative bacteria to achieve selectivity for this medium. This medium is also available as a broth.</para>
+      <anchor id="ch0140s0000a0072"/>
+      <para id="ch0140s0000p0081">Sabouraud dextrose agar was formulated by Sabouraud for cultivating dermatophytes. The medium consists of pancreatic digest of casein, peptic digest of animal tissue, and dextrose at 4% concentration, buffered to a pH of 5.6. Emmons modified the original formulation by reducing the dextrose concentration to 2% and adjusting the pH nearer to neutrality at 6.9 to 7.0. Antibiotic additives in various combinations include cycloheximide, chloramphenicol, gentamicin, ciprofloxacin, penicillin, and/or streptomycin, which inhibit some fungi and Gram-positive and Gram-negative bacteria to achieve selectivity for this medium. This medium is also available as a broth.</para>
     </sect1>
     <sect1 id="ch0140s0059">
       <title>■ Soil extract agar</title>
       <anchor id="ch0140s0059a0001"/>
-      <anchor id="ch0140s0059a0002"/>
-      <para id="ch0140s0059p0001">Soil extract agar is a medium composed of garden soil, yeast extract, and glucose. The primary use of this medium is to promote sporulation of some saprobic fungi and for mating strains of<emphasis>B. dermatitidis</emphasis> (<link linkend="ch0140s0065s0001li0001">1</link>).</para>
+      <anchor id="ch0140s0000a0073"/>
+      <para id="ch0140s0000p0082">Soil extract agar is a medium composed of garden soil, yeast extract, and glucose. The primary use of this medium is to promote sporulation of some saprobic fungi and for mating strains of<emphasis>B. dermatitidis</emphasis> (<link linkend="ch0140s0000li0009">1</link>).</para>
     </sect1>
     <sect1 id="ch0140s0060">
       <title>■ Trichophyton agars 1 to 7</title>
       <anchor id="ch0140s0060a0001"/>
-      <anchor id="ch0140s0060a0002"/>
-      <para id="ch0140s0060p0001">Trichophyton agars are a set of seven media that facilitate the identification of<emphasis>Trichophyton</emphasis> species based on their growth factor requirements. The basic ingredients in the medium are listed below. Growth in all seven media is then scored on a scale of 1 to 4, and an identification is assigned.</para>
+      <anchor id="ch0140s0000a0074"/>
+      <para id="ch0140s0000p0083">Trichophyton agars are a set of seven media that facilitate the identification of<emphasis>Trichophyton</emphasis> species based on their growth factor requirements. The basic ingredients in the medium are listed below. Growth in all seven media is then scored on a scale of 1 to 4, and an identification is assigned.</para>
       <orderedlist>
-        <listitem id="ch0140s0060li0001">
+        <listitem id="ch0140s0000li0001">
           <para>Casamino Acids; vitamin-free</para>
         </listitem>
-        <listitem id="ch0140s0060li0002">
+        <listitem id="ch0140s0000li0002">
           <para>Casamino Acids plus inositol</para>
         </listitem>
-        <listitem id="ch0140s0060li0003">
+        <listitem id="ch0140s0000li0003">
           <para>Casamino Acids plus inositol and thiamine</para>
         </listitem>
-        <listitem id="ch0140s0060li0004">
+        <listitem id="ch0140s0000li0004">
           <para>Casamino Acids plus thiamine</para>
         </listitem>
-        <listitem id="ch0140s0060li0005">
+        <listitem id="ch0140s0000li0005">
           <para>Casamino Acids plus niacin</para>
         </listitem>
-        <listitem id="ch0140s0060li0006">
+        <listitem id="ch0140s0000li0006">
           <para>Ammonium nitrate</para>
         </listitem>
-        <listitem id="ch0140s0060li0007">
+        <listitem id="ch0140s0000li0007">
           <para>Ammonium nitrate plus histidine</para>
         </listitem>
       </orderedlist>
@@ -506,41 +506,41 @@
     <sect1 id="ch0140s0061">
       <title>■ V8 agar</title>
       <anchor id="ch0140s0061a0001"/>
-      <anchor id="ch0140s0061a0002"/>
-      <para id="ch0140s0061p0001">V8 agar is a medium consisting of dehydrated potato flakes and V-8 juice (Campbell Soup Co., Camden, NJ) that induces early sporulation of some environmental fungi. The naturally low pH makes the medium inhibitory to most bacteria.</para>
+      <anchor id="ch0140s0000a0075"/>
+      <para id="ch0140s0000p0084">V8 agar is a medium consisting of dehydrated potato flakes and V-8 juice (Campbell Soup Co., Camden, NJ) that induces early sporulation of some environmental fungi. The naturally low pH makes the medium inhibitory to most bacteria.</para>
     </sect1>
     <sect1 id="ch0140s0062">
       <title>■ Water (tap) agar</title>
       <anchor id="ch0140s0062a0001"/>
-      <anchor id="ch0140s0062a0002"/>
-      <para id="ch0140s0062p0001">This medium is nutritionally deficient (1% water-agar: 1 g of agar, 100 ml of sterile tap water) and promotes the sporulation of dematiaceous fungi,<emphasis>Apophysomyces elegans,</emphasis> and <emphasis>Saksenaea vasiformis</emphasis> (<link linkend="ch0140s0065s0001li0037">37</link>). The medium can be supplemented with sterilized carnation leaves for the identification of <emphasis>Fusarium</emphasis> species (<link linkend="ch0140s0065s0001li0009">9</link>).</para>
+      <anchor id="ch0140s0000a0076"/>
+      <para id="ch0140s0000p0085">This medium is nutritionally deficient (1% water-agar: 1 g of agar, 100 ml of sterile tap water) and promotes the sporulation of dematiaceous fungi,<emphasis>Apophysomyces elegans,</emphasis> and <emphasis>Saksenaea vasiformis</emphasis> (<link linkend="ch0140s0000li0045">37</link>). The medium can be supplemented with sterilized carnation leaves for the identification of <emphasis>Fusarium</emphasis> species (<link linkend="ch0140s0000li0017">9</link>).</para>
     </sect1>
     <sect1 id="ch0140s0063">
       <title>■ Yeast carbon agar</title>
       <anchor id="ch0140s0063a0001"/>
-      <anchor id="ch0140s0063a0002"/>
-      <para id="ch0140s0063p0001">Yeast carbon agar is a solid medium recommended for use in qualitative procedures for the classification of yeasts according to their ability to assimilate nitrogenous compounds. The yeast’s carbon base provides amino acids, vitamins, trace elements, and salts that are necessary to support growth. The ability to assimilate nitrogen is tested by the addition of various nitrogen sources such as potassium nitrate. While this traditional method of yeast identification may still be used, newer and simpler commercial methods or molecular methods are available for identification.</para>
+      <anchor id="ch0140s0000a0077"/>
+      <para id="ch0140s0000p0086">Yeast carbon agar is a solid medium recommended for use in qualitative procedures for the classification of yeasts according to their ability to assimilate nitrogenous compounds. The yeast’s carbon base provides amino acids, vitamins, trace elements, and salts that are necessary to support growth. The ability to assimilate nitrogen is tested by the addition of various nitrogen sources such as potassium nitrate. While this traditional method of yeast identification may still be used, newer and simpler commercial methods or molecular methods are available for identification.</para>
     </sect1>
     <sect1 id="ch0140s0064">
       <title>■ Yeast extract phosphate agar with ammonia (Smith’s medium)</title>
       <anchor id="ch0140s0064a0001"/>
-      <anchor id="ch0140s0064a0002"/>
-      <para id="ch0140s0064p0001">Yeast extract phosphate agar with ammonia (Smith’s medium) is used for the isolation and sporulation of<emphasis>H. capsulatum</emphasis> and <emphasis>B. dermatitidis</emphasis> from contaminated specimens. This consists of phosphate buffer (Na<subscript>2</subscript>HPO<subscript>4</subscript>, KH<subscript>2</subscript>PO<subscript>4</subscript>, and distilled water). It should be mixed well with the pH adjusted to 6.0 with 1 N HCl or 1 N NaOH and yeast extract agar solution. Before inoculation of specimens, 1 drop of ammonium hydroxide is applied to the agar surface and allowed to diffuse into the medium. The combination of ammonium hydroxide and chloramphenicol suppresses bacteria and many moulds and yeasts, thus permitting detection of the slowly growing dimorphic fungi.</para>
-      <para id="ch0140s0064p0002"><emphasis>The findings and conclusions in this report are those of the author(s) and do not necessarily represent the official position of the Centers for Disease Control and Prevention. Use of trade names and commercial sources is for identification only and does not imply endorsement by the Centers for Disease Control and Prevention</emphasis>.</para>
-      <anchor id="ch0140s0064a0003"/>
+      <anchor id="ch0140s0000a0078"/>
+      <para id="ch0140s0000p0087">Yeast extract phosphate agar with ammonia (Smith’s medium) is used for the isolation and sporulation of<emphasis>H. capsulatum</emphasis> and <emphasis>B. dermatitidis</emphasis> from contaminated specimens. This consists of phosphate buffer (Na<subscript>2</subscript>HPO<subscript>4</subscript>, KH<subscript>2</subscript>PO<subscript>4</subscript>, and distilled water). It should be mixed well with the pH adjusted to 6.0 with 1 N HCl or 1 N NaOH and yeast extract agar solution. Before inoculation of specimens, 1 drop of ammonium hydroxide is applied to the agar surface and allowed to diffuse into the medium. The combination of ammonium hydroxide and chloramphenicol suppresses bacteria and many moulds and yeasts, thus permitting detection of the slowly growing dimorphic fungi.</para>
+      <para id="ch0140s0000p0088"><emphasis>The findings and conclusions in this report are those of the author(s) and do not necessarily represent the official position of the Centers for Disease Control and Prevention. Use of trade names and commercial sources is for identification only and does not imply endorsement by the Centers for Disease Control and Prevention</emphasis>.</para>
+      <anchor id="ch0140s0000a0079"/>
       <beginpage pagenum="2305"/>
       <sect2 id="ch0140s0064s0001">
         <title>APPENDIX</title>
-        <anchor id="ch0140s0064s0001a0001"/>
-        <anchor id="ch0140s0064s0001a0002"/>
+        <anchor id="ch0140s0064a0002"/>
+        <anchor id="ch0140s0000a0080"/>
       </sect2>
     </sect1>
     <sect1 id="ch0140s0065">
       <title>Commercial Manufacturers and Supplies of Fungal Media, Stains, and Reagents</title>
       <anchor id="ch0140s0065a0001"/>
-      <anchor id="ch0140s0065a0002"/>
+      <anchor id="ch0140s0000a0081"/>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0140s0065li0001">
+        <listitem id="ch0140s0000li0008">
           <para>Alpha-Tec Systems, Inc.</para>
         </listitem>
         <listitem>
@@ -888,119 +888,119 @@
       </itemizedlist>
       <sect2 id="ch0140s0065s0001">
         <title>REFERENCES</title>
-        <anchor id="ch0140s0065s0001a0001"/>
-        <anchor id="ch0140s0065s0001a0002"/>
+        <anchor id="ch0140s0065a0002"/>
+        <anchor id="ch0140s0000a0082"/>
         <itemizedlist mark="none" role="biblioEntryList">
-          <listitem id="ch0140s0065s0001li0001" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0009" role="bibliographyEntry">
             <para>1.<emphasis role="strong">Dismukes WE, Pappas PG, Sobel JD.</emphasis> 2003. <citetitle><emphasis>Clinical Mycology.</emphasis></citetitle> Oxford University Press, Inc, New York, NY.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0002" role="bibliographyEntry">
-            <anchor id="ch0140s0065s0001a0003"/>
+          <listitem id="ch0140s0000li0010" role="bibliographyEntry">
+            <anchor id="ch0140s0000a0083"/>
             <para>2.<emphasis role="strong">Larone DH.</emphasis> 2011. <citetitle><emphasis>Medically Important Fungi</emphasis></citetitle>, 5th ed. ASM Press, Washington, DC.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0003" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0011" role="bibliographyEntry">
             <para>3.<emphasis role="strong">McGinnis M.</emphasis> 1980. <citetitle><emphasis>Laboratory Handbook of Medical Mycology.</emphasis></citetitle> Academic Press, New York, NY.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0004" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0012" role="bibliographyEntry">
             <para>4.<emphasis role="strong">Meechan PJ, Potts J.</emphasis> 2020. <citetitle><emphasis>Biosafety in Microbiological and Biomedical Laboratories</emphasis></citetitle>, 6th ed. U.S. Department of Health and Human Services, Washington, DC.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0005" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0013" role="bibliographyEntry">
             <para>5.<emphasis role="strong">Best M, Graham ML, Leitner R, Ouellette M, Ugwu K.</emphasis> 2004. <citetitle><emphasis>Laboratory Biosafety Guidelines</emphasis></citetitle>, 3rd ed. Minister of Population and Public Health Branch Centre for Emergency Preparedness and Response, Ottawa, Canada.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0006" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0014" role="bibliographyEntry">
             <para>6.<emphasis role="strong">World Health Organization.</emphasis> 2004. <citetitle><emphasis>Laboratory Biosafety Manual</emphasis></citetitle>, 3rd ed. World Health Organization, Geneva, Switzerland.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0007" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0015" role="bibliographyEntry">
             <para>7.<emphasis role="strong">Atlas RM, Snyder JW.</emphasis> 2006. <citetitle><emphasis>Handbook of Media for Clinical Microbiology</emphasis></citetitle>, 2nd ed. Taylor &amp; Francis, Boca Raton, FL.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0008" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0016" role="bibliographyEntry">
             <para>8.<emphasis role="strong">Kidd SE, Halliday CL, Alexou H, Ellis DH.</emphasis> 2017. <citetitle><emphasis>Descriptions of Medical Fungi</emphasis></citetitle>, 3rd ed. Adelaide Medical Centre for Women and Children, Adelaide, Australia.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0009" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0017" role="bibliographyEntry">
             <para>9.<emphasis role="strong">Leslie J, Summerell B (ed).</emphasis> 2006. <citetitle><emphasis>The Fusarium Laboratory Manual.</emphasis></citetitle> Blackwell Publishing, Ames, IA.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0010" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0018" role="bibliographyEntry">
             <para>10.<emphasis role="strong">St-Germain G, Summerbell RC.</emphasis> 2011. <citetitle><emphasis>Identifying Fungi: A Clinical Laboratory Handbook</emphasis></citetitle>, 2nd ed. Star Publishing Company, Belmont, CA.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0011" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0019" role="bibliographyEntry">
             <para>11.<emphasis role="strong">Campbell CK, Johnson EM, Warnock DW.</emphasis> 2013. <citetitle><emphasis>Identification of Pathogenic Fungi</emphasis></citetitle>, 2nd ed. Wiley-Blackwell, West Sussex, UK.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0012" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0020" role="bibliographyEntry">
             <para>12.<emphasis role="strong">Clinical and Laboratory Standards Institute.</emphasis> 2021. Principles and procedures for detection of fungi in clinical specimens: direct examination and culture. Standard M54. <citetitle><emphasis>2nd ed.</emphasis></citetitle> Clinical And Laboratory Standards Institute, Wayne, PA.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0013" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0021" role="bibliographyEntry">
             <para>13.<emphasis role="strong">Summerbell RC.</emphasis> 1993. The benomyl test as a fundamental diagnostic method for medical mycology. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">31:</emphasis>572–577.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0014" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0022" role="bibliographyEntry">
             <para>14.<emphasis role="strong">Pham CD, Ahn S, Turner LA, Wohrle R, Lockhart SR.</emphasis> 2014. Development and validation of benomyl birdseed agar for the isolation of <citetitle><emphasis>Cryptococcus neoformans</emphasis></citetitle> and <citetitle><emphasis>Cryptococcus gattii</emphasis></citetitle> from environmental samples. <citetitle><emphasis>Med Mycol</emphasis></citetitle> <emphasis role="strong">52:</emphasis>417–421.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0015" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0023" role="bibliographyEntry">
             <para>15.<emphasis role="strong">Clinical and Laboratory Standards Institute.</emphasis> 2004. Quality control for commercially prepared microbiological culture media. Standard M22-A3. Clinical and Laboratory Standards Institute, Wayne, PA.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0016" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0024" role="bibliographyEntry">
             <para>16.<emphasis role="strong">Guarner J, Brandt ME.</emphasis> 2011. Histopathologic diagnosis of fungal infections in the 21st century. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">24:</emphasis>247–280.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0017" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0025" role="bibliographyEntry">
             <para>17.<emphasis role="strong">Chandler FW, Kaplan W, Ajello L.</emphasis> 1980. <citetitle><emphasis>Color Atlas and Text of the Histopathology of Mycotic Diseases.</emphasis></citetitle> Year Book, Chicago, IL.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0018" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0026" role="bibliographyEntry">
             <para>18.<emphasis role="strong">Dasgupta T, Sahu J.</emphasis> 2012. Origins of the KOH technique. <citetitle><emphasis>Clin Dermatol</emphasis></citetitle> <emphasis role="strong">30:</emphasis>238–241.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0019" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0027" role="bibliographyEntry">
             <para>19.<emphasis role="strong">Hageage GJ Jr, Harrington BJ.</emphasis> 1984. Use of calcofluor white in clinical mycology. <citetitle><emphasis>Lab Med</emphasis></citetitle> <emphasis role="strong">15:</emphasis>109–112.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0020" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0028" role="bibliographyEntry">
             <para>20.<emphasis role="strong">Kim YK, Parulekar S, Yu PK, Pisani RJ, Smith TF, Anhalt JP.</emphasis> 1990. Evaluation of calcofluor white stain for detection of <citetitle><emphasis>Pneumocystis carinii. Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">13:</emphasis>307–310.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0021" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0029" role="bibliographyEntry">
             <para>21.<emphasis role="strong">Burke WA, Jones BE.</emphasis> 1984. A simple stain for rapid office diagnosis of fungus infections of the skin. <citetitle><emphasis>Arch Dermatol</emphasis></citetitle> <emphasis role="strong">120:</emphasis>1519–1520.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0022" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0030" role="bibliographyEntry">
             <para>22.<emphasis role="strong">Panasiti V, Borroni RG, Devirgiliis V, Rossi M, Fabbrizio L, Masciangelo R, Bottoni U, Calvieri S.</emphasis> 2006. Comparison of diagnostic methods in the diagnosis of dermatomycoses and onychomycoses. <citetitle><emphasis>Mycoses</emphasis></citetitle> <emphasis role="strong">49:</emphasis>26–29.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0023" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0031" role="bibliographyEntry">
             <para>23.<emphasis role="strong">Ellis D, Davis S, Alexiou H, Handke R, Bartley R.</emphasis> 2007. <citetitle><emphasis>Descriptions of Medical Fungi</emphasis></citetitle>, 2nd ed. Adelaide, Australia.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0024" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0032" role="bibliographyEntry">
             <para>24.<emphasis role="strong">Carmichael JW.</emphasis> 1955. Lacto-fuchsin: a new medium for mounting fungi. <citetitle><emphasis>Mycologia</emphasis></citetitle> <emphasis role="strong">47:</emphasis>611.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0025" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0033" role="bibliographyEntry">
             <para>25.<emphasis role="strong">Wright AM, Mody DR, Anton RC, Schwartz MR.</emphasis> 2017. Aberrant staining with Grocott’s methenamine silver: utility beyond fungal organisms. <citetitle><emphasis>J Am Soc Cytopathol</emphasis></citetitle> <emphasis role="strong">6:</emphasis>223–227.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0026" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0034" role="bibliographyEntry">
             <para>26.<emphasis role="strong">Paradis IL, Ross C, Dekker A, Dauber J.</emphasis> 1990. A comparison of modified methenamine silver and toluidine blue stains for the detection of <citetitle><emphasis>Pneumocystis carinii</emphasis></citetitle> in bronchoalveolar lavage specimens from immunosuppressed patients. <citetitle><emphasis>Acta Cytol</emphasis></citetitle> <emphasis role="strong">34:</emphasis>511–516.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0027" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0035" role="bibliographyEntry">
             <para>27.<emphasis role="strong">Vidotto V, Aoki S, Pontón J, Quindós G, Koga-Ito CY, Pugliese A.</emphasis> 2004. A new caffeic acid minimal synthetic medium for the rapid identification of <citetitle><emphasis>Cryptococcus neoformans</emphasis></citetitle> isolates. <citetitle><emphasis>Rev Iberoam Micol</emphasis></citetitle> <emphasis role="strong">21:</emphasis>87–89.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0028" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0036" role="bibliographyEntry">
             <para>28.<emphasis role="strong">Pincus DH, Orenga S, Chatellier S.</emphasis> 2007. Yeast identification—past, present, and future methods. <citetitle><emphasis>Med Mycol</emphasis></citetitle> <emphasis role="strong">45:</emphasis>97–121.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0029" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0037" role="bibliographyEntry">
             <para>29.<emphasis role="strong">Odds FC, Bernaerts R.</emphasis> 1994. CHROMagar Candida, a new differential isolation medium for presumptive identification of clinically important <citetitle><emphasis>Candida</emphasis></citetitle> species. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">32:</emphasis>1923–1929.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0030" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0038" role="bibliographyEntry">
             <para>30.<emphasis role="strong">Murray MP, Zinchuk R, Larone DH.</emphasis> 2005. CHROMagar Candida as the sole primary medium for isolation of yeasts and as a source medium for the rapid-assimilation-of-trehalose test. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">43:</emphasis>1210–1212.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0031" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0039" role="bibliographyEntry">
             <para>31.<emphasis role="strong">de Jong AW, Dieleman C, Carbia M, Mohd Tap R, Hagen F.</emphasis> 2021. Performance of two novel chromogenic media for the identification of multidrug-resistant <citetitle><emphasis>Candida auris</emphasis></citetitle> compared with other commercially available formulations. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">59:</emphasis> e03220–20.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0032" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0040" role="bibliographyEntry">
             <para>32.<emphasis role="strong">Lockhart SR, Lyman MM, Sexton DJ, Humphries RM.</emphasis> 2022. Tools for detecting a “superbug”: updates on <citetitle><emphasis>Candida auris</emphasis></citetitle> testing. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">60:</emphasis>e0080821.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0033" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0041" role="bibliographyEntry">
             <para>33.<emphasis role="strong">Tamura T, Alshahni MM, Makimura K.</emphasis> 2022. Evaluation of CHROMagar™ Candida Plus chromogenic agar for the presumptive identification of <citetitle><emphasis>Candida auris. Microbiol Immunol</emphasis></citetitle> <emphasis role="strong">66:</emphasis>292–298.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0034" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0042" role="bibliographyEntry">
             <para>34.<emphasis role="strong">Bentz ML, Sexton DJ, Welsh RM, Litvintseva AP.</emphasis> 2018. Phenotypic switching in newly emerged multidrug-resistant pathogen <citetitle><emphasis>Candida auris. Med Mycol</emphasis></citetitle> <emphasis role="strong">57:</emphasis>636–638.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0035" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0043" role="bibliographyEntry">
             <para>35.<emphasis role="strong">Scognamiglio T, Zinchuk R, Gumpeni P, Larone DH.</emphasis> 2010. Comparison of inhibitory mold agar to Sabouraud dextrose agar as a primary medium for isolation of fungi. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">48:</emphasis>1924–1925.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0036" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0044" role="bibliographyEntry">
             <para>36.<emphasis role="strong">Leeming JP, Notman FH.</emphasis> 1987. Improved methods for isolation and enumeration of <citetitle><emphasis>Malassezia furfur</emphasis></citetitle> from human skin. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">25:</emphasis>2017–2019.</para>
           </listitem>
-          <listitem id="ch0140s0065s0001li0037" role="bibliographyEntry">
+          <listitem id="ch0140s0000li0045" role="bibliographyEntry">
             <para>37.<emphasis role="strong">Padhye AA, Ajello L.</emphasis> 1988. Simple method of inducing sporulation by <citetitle><emphasis>Apophysomyces elegans</emphasis></citetitle> and <citetitle><emphasis>Saksenaea vasiformis. J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">26:</emphasis>1861–1863.</para>
           </listitem>
         </itemizedlist>

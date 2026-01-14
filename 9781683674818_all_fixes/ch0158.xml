@@ -1,83 +1,83 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <chapter id="ch0158">
     <title>section VIII Parasitology</title>
-    <sect1 id="ch0158s0001">
+    <sect1 id="ch0158s0100">
       <title>section VIII Parasitology</title>
-      <anchor id="ch0158s0001a0001"/>
-      <para id="ch0158s0001p0001" role="chapterAuthor"><emphasis role="strong">VOLUME EDITOR:</emphasis> BOBBI S. PRITT</para>
-      <para id="ch0158s0001p0002" role="chapterAuthor"><emphasis role="strong">SECTION EDITORS:</emphasis> MARC R. COUTURIER AND GARY W. PROCOP</para>
-      <para id="ch0158s0001p0003">G<phrase role="small">ENERAL</phrase></para>
+      <anchor id="ch0158s0100a0001"/>
+      <para id="ch0158s0000p0001" role="chapterAuthor"><emphasis role="strong">VOLUME EDITOR:</emphasis> BOBBI S. PRITT</para>
+      <para id="ch0158s0000p0002" role="chapterAuthor"><emphasis role="strong">SECTION EDITORS:</emphasis> MARC R. COUTURIER AND GARY W. PROCOP</para>
+      <para id="ch0158s0000p0003">G<phrase role="small">ENERAL</phrase></para>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0158s0001li0001">
-          <para><ulink url="ch0159#ch0159s0001s0001">136 Taxonomy and Classification of Human Eukaryotic Parasites</ulink></para>
-          <para id="ch0158s0001p0004">SINA M. ADL AND BLAINE A. MATHISON</para>
+        <listitem id="ch0158s0000li0001">
+          <para><ulink url="ch0159#ch0159s10001">136 Taxonomy and Classification of Human Eukaryotic Parasites</ulink></para>
+          <para id="ch0158s0000p0004">SINA M. ADL AND BLAINE A. MATHISON</para>
         </listitem>
-        <listitem id="ch0158s0001li0002">
+        <listitem id="ch0158s0000li0002">
           <para><ulink url="ch0160#ch0160s0001">136 Specimen Collection, Transport, and Processing: Parasitology</ulink></para>
-          <para id="ch0158s0001p0005">LYNNE S. GARCIA AND ROBYN Y. SHIMIZU</para>
+          <para id="ch0158s0000p0005">LYNNE S. GARCIA AND ROBYN Y. SHIMIZU</para>
         </listitem>
-        <listitem id="ch0158s0001li0003">
+        <listitem id="ch0158s0000li0003">
           <para><ulink url="ch0161#ch0161s0001">136 Reagents, Stains, and Media: Parasitology</ulink></para>
-          <para id="ch0158s0001p0006">IDZI POTTERS AND ANDREA J. LINSCOTT</para>
+          <para id="ch0158s0000p0006">IDZI POTTERS AND ANDREA J. LINSCOTT</para>
         </listitem>
-        <listitem id="ch0158s0001li0004">
+        <listitem id="ch0158s0000li0004">
           <para><ulink url="ch0162#ch0162s0001">136 General Approaches for Detection and Identification of Parasites</ulink></para>
-          <para id="ch0158s0001p0007">LYNNE S. GARCIA, GRAEME P. PALTRIDGE, AND ROBYN Y. SHIMIZU</para>
+          <para id="ch0158s0000p0007">LYNNE S. GARCIA, GRAEME P. PALTRIDGE, AND ROBYN Y. SHIMIZU</para>
         </listitem>
       </itemizedlist>
-      <para id="ch0158s0001p0008">P<phrase role="small">ARASITES</phrase></para>
+      <para id="ch0158s0000p0008">P<phrase role="small">ARASITES</phrase></para>
       <itemizedlist mark="none" role="none">
-        <listitem id="ch0158s0001li0005">
-          <para><ulink url="ch0163#ch0163s0001s0001">140 Plasmodium and Babesia</ulink></para>
-          <para id="ch0158s0001p0009">BOBBI S. PRITT</para>
+        <listitem id="ch0158s0000li0005">
+          <para><ulink url="ch0163#ch0163s10001">140 Plasmodium and Babesia</ulink></para>
+          <para id="ch0158s0000p0009">BOBBI S. PRITT</para>
         </listitem>
-        <listitem id="ch0158s0001li0006">
+        <listitem id="ch0158s0000li0006">
           <para><ulink url="ch0164#ch0164s0001">141 Leishmania and Trypanosoma</ulink></para>
-          <para id="ch0158s0001p0010">ALEXANDRE J. DA SILVA and MOMAR NDAO</para>
+          <para id="ch0158s0000p0010">ALEXANDRE J. DA SILVA and MOMAR NDAO</para>
         </listitem>
-        <listitem id="ch0158s0001li0007">
+        <listitem id="ch0158s0000li0007">
           <para><ulink url="ch0165#ch0165s0001">142 Toxoplasma</ulink></para>
-          <para id="ch0158s0001p0011">FLORENCE ROBERT-GANGNEUX</para>
+          <para id="ch0158s0000p0011">FLORENCE ROBERT-GANGNEUX</para>
         </listitem>
-        <listitem id="ch0158s0001li0008">
+        <listitem id="ch0158s0000li0008">
           <para><ulink url="ch0166#ch0166s0001">143 Pathogenic and Opportunistic Free-Living Amebae</ulink></para>
-          <para id="ch0158s0001p0012">JENNIFER R. COPE, IBNE KARIM M. ALI, AND GOVINDA S. VISVESVARA</para>
+          <para id="ch0158s0000p0012">JENNIFER R. COPE, IBNE KARIM M. ALI, AND GOVINDA S. VISVESVARA</para>
         </listitem>
-        <listitem id="ch0158s0001li0009">
+        <listitem id="ch0158s0000li0009">
           <para><ulink url="ch0167#ch0167s0001">144 Intestinal and Urogenital Amebae, Flagellates, and Ciliates</ulink></para>
-          <para id="ch0158s0001p0013">BLAINE A. MATHISON and MARC R. COUTURIER</para>
+          <para id="ch0158s0000p0013">BLAINE A. MATHISON and MARC R. COUTURIER</para>
         </listitem>
-        <listitem id="ch0158s0001li0010">
+        <listitem id="ch0158s0000li0010">
           <para><ulink url="ch0168#ch0168s0001">145 Cystoisospora, Cyclospora, and Sarcocystis</ulink></para>
-          <para id="ch0158s0001p0014">YVONNE QVARNSTROM and MICHAEL J. ARROWOOD</para>
+          <para id="ch0158s0000p0014">YVONNE QVARNSTROM and MICHAEL J. ARROWOOD</para>
         </listitem>
-        <listitem id="ch0158s0001li0011">
+        <listitem id="ch0158s0000li0011">
           <para><ulink url="ch0169#ch0169s0001">146 Cryptosporidium</ulink></para>
-          <para id="ch0158s0001p0015">LIHUA XIAO AND YAOYU FENG</para>
+          <para id="ch0158s0000p0015">LIHUA XIAO AND YAOYU FENG</para>
         </listitem>
-        <listitem id="ch0158s0001li0012">
+        <listitem id="ch0158s0000li0012">
           <para><ulink url="ch0170#ch0170s0001">147 Nematodes</ulink></para>
-          <para id="ch0158s0001p0016">Harsha Sheorey, Beverley-Ann Biggs, and Richard S. Bradbury</para>
+          <para id="ch0158s0000p0016">Harsha Sheorey, Beverley-Ann Biggs, and Richard S. Bradbury</para>
         </listitem>
-        <listitem id="ch0158s0001li0013">
+        <listitem id="ch0158s0000li0013">
           <para><ulink url="ch0171#ch0171s0001">148 Filarial Nematodes</ulink></para>
-          <para id="ch0158s0001p0017">ADRIENNE J. SHOWLER AND THOMAS B. NUTMAN</para>
+          <para id="ch0158s0000p0017">ADRIENNE J. SHOWLER AND THOMAS B. NUTMAN</para>
         </listitem>
-        <listitem id="ch0158s0001li0014">
+        <listitem id="ch0158s0000li0014">
           <para><ulink url="ch0172#ch0172s0001">149 Cestodes</ulink></para>
-          <para id="ch0158s0001p0018">MIGUEL M. CABADA, JUAN JIMENEZ, AND HECTOR H. GARCIA</para>
+          <para id="ch0158s0000p0018">MIGUEL M. CABADA, JUAN JIMENEZ, AND HECTOR H. GARCIA</para>
         </listitem>
-        <listitem id="ch0158s0001li0015">
+        <listitem id="ch0158s0000li0015">
           <para><ulink url="ch0173#ch0173s0001">150 Trematodes</ulink></para>
-          <para id="ch0158s0001p0019">MALCOLM K. JONES, CATHERINE A. GORDON, and DONALD P. McMANUS</para>
+          <para id="ch0158s0000p0019">MALCOLM K. JONES, CATHERINE A. GORDON, and DONALD P. McMANUS</para>
         </listitem>
-        <listitem id="ch0158s0001li0016">
+        <listitem id="ch0158s0000li0016">
           <para><ulink url="ch0174#ch0174s0001">151 Less Common Helminths</ulink></para>
-          <para id="ch0158s0001p0020">GARY W. PROCOP</para>
+          <para id="ch0158s0000p0020">GARY W. PROCOP</para>
         </listitem>
-        <listitem id="ch0158s0001li0017">
+        <listitem id="ch0158s0000li0017">
           <para><ulink url="ch0175#ch0175s0001">152 Arthropods of Medical Importance</ulink></para>
-          <para id="ch0158s0001p0021">BLAINE A. MATHISON</para>
+          <para id="ch0158s0000p0021">BLAINE A. MATHISON</para>
         </listitem>
       </itemizedlist>
     </sect1>
