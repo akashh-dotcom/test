@@ -1,0 +1,817 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0075">
+    <title>CURVED AND SPIRAL-SHAPED GRAM-NEGATIVE RODS</title>
+    <sect1 id="ch0075s0001">
+      <title>CURVED AND SPIRAL-SHAPED GRAM-NEGATIVE RODS</title>
+      <sect2 id="ch0075s0001s0001">
+        <title>58 Algorithms for Identification of Curved and Spiral-Shaped Gram-Negative Rods</title>
+        <anchor id="ch0075s010001a0001"/>
+        <anchor id="ch0075s000000a0001"/>
+        <para role="chapterAuthor"><phrase role="center">IRVING NACHAMKIN</phrase>
+        </para>
+        <para id="ch0075s000000p0001">Curved and spiral-shaped bacteria have a common microscopic morphology but represent diverse bacterial pathogens. These organisms are curved, helical, or spiral-shaped Gram-negative rods. Specific detection of these organisms may require a combination of tests, including microscopy, histologic staining of tissue, biochemical tests, antigen tests, serologic tests, bacteriologic culture, and molecular diagnostics.</para>
+        <para id="ch0075s000000p0002">Most bacteria in this group of organisms are isolated from patients with gastrointestinal tract-related infections, but may be isolated from blood cultures, wound cultures, or other less common specimen types (<anchor id="ch0075s000000a0002"/><link linkend="ch0075s000000a0007">Table 1</link>). <emphasis>Campylobacter jejuni</emphasis> subsp. <emphasis>jejuni</emphasis> is the most frequently isolated curved Gram-negative rod associated with diarrheal illness, but with proper culture conditions, other <emphasis>Campylobacter, Helicobacter, Arcobacter</emphasis>, and <emphasis>Vibrio</emphasis> species may be detected in routine stool cultures. <emphasis>Helicobacter cinaedi</emphasis> and <emphasis>Helicobacter fennelliae</emphasis> are two important <emphasis>Helicobacter</emphasis> species isolated from fecal specimens (see <ulink url="ch0077#ch0077s0001">chapter 60</ulink>, “<emphasis>Helicobacter</emphasis>,” in this <emphasis>Manual</emphasis>). <emphasis>Helicobacter pylori</emphasis> is the most common curved Gram-negative rod isolated from gastric tissue, but other <emphasis>Helicobacter</emphasis> species have also been reported at this site. Increased hydrogen levels in the microaerobic environment are important for isolation of some <emphasis>Campylobacter</emphasis> and <emphasis>Helicobacter</emphasis> species. Of note, <emphasis>Campylobacter</emphasis> and <emphasis>Vibrio</emphasis> species are more frequently detected directly from fecal samples by using nucleic acid amplification test (NAAT) systems without the need for routine culture methods (see <ulink url="ch0061#ch0061s0001">chapters 44</ulink> and <ulink url="ch0076#ch0076s0001">59</ulink> of this <emphasis>Manual</emphasis>).</para>
+        <para id="ch0075s000000p0003">Other less commonly isolated curved Gram-negative rods include the anaerobes<emphasis>Desulfovibrio</emphasis> spp., <emphasis>Sutterella wadsworthensis, Wolinella succinogenes</emphasis>, and <emphasis>Anaerobiospirillum</emphasis> spp., which may be isolated from fecal, blood, abscess material, or other clinical samples (<link linkend="ch0075s000000a0007">Table 1</link>). Several oxidase-positive nonfermenters, including <emphasis>Herbaspirillum</emphasis> species (see <ulink url="ch0063#ch0063s0001">chapter 46</ulink>), may also have a curved appearance.</para>
+        <para id="ch0075s000000p0004">The spirochetes<emphasis>Borrelia</emphasis> spp. (see <ulink url="ch0079#ch0079s0001">chapter 62</ulink>) and <emphasis>Leptospira</emphasis> spp. (see <ulink url="ch0078#ch0078s0001">chapter 61</ulink>) cause systemic infections and are infrequently isolated in clinical microbiology laboratories, usually only with specialized media. These bacteria are strictly aerobic, and their optimal growth temperatures are from 28 to 30°C (<emphasis>Leptospira</emphasis> spp.) and 30 to 33°C (<emphasis>Borrelia</emphasis> spp.). <emphasis>Treponema</emphasis> spp. (see <ulink url="ch0080#ch0080s0001">chapter 63</ulink>) of clinical importance are diagnosed based on clinical and epidemiologic findings, as well as microscopic, serologic, and molecular test procedures.</para>
+        <para id="ch0075s000000p0005">Many clinical laboratories, if not most, now use rapid identification systems such as matrix-assisted laser desorption/ionization–time of flight mass spectrometry (MALDI-TOF) for quick identification of bacterial agents isolated in primary culture, or use multiplex molecular amplification systems for direct detection of common enteric pathogens in fecal samples. Given this, few laboratories perform conventional biochemical identification of the organisms described in this chapter. However, a simple flowchart for identification from fecal cultures is shown in<anchor id="ch0075s000000a0003"/><link linkend="ch0075s000000a0014">Fig. 1</link>.</para>
+        <anchor id="ch0075s000000a0004"/>
+        <beginpage pagenum="1132"/>
+        <anchor id="ch0075s000000a0005"/>
+        <beginpage pagenum="1133"/>
+        <anchor id="ch0075s000000a0006"/>
+        <beginpage pagenum="1134"/>
+        <table id="ch0075s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0075s000000a0007"/><link linkend="ch0075s000000a0002">TABLE 1</link></phrase></emphasis> Curved Gram-negative bacilli that may be encountered in clinical specimens<superscript><emphasis><anchor id="ch0075s000000a0008"/><link linkend="ch0075s000000a0011">a</link></emphasis></superscript>
+</title>
+          
+          <tgroup cols="7">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Clinical entity</phrase>
+                </entry>
+                <entry><phrase role="center">Specimen type(s)</phrase>
+                </entry>
+                <entry><phrase role="center">Curved Gram-negative organism(s) encountered</phrase>
+                </entry>
+                <entry><phrase role="center">Species<superscript><emphasis><anchor id="ch0075s000000a0009"/><link linkend="ch0075s000000a0012">b</link></emphasis></superscript></phrase>
+                </entry>
+                <entry><phrase role="center">Microscopic appearance in specimens</phrase>
+                </entry>
+                <entry><phrase role="center">Culture conditions and media</phrase>
+                </entry>
+                <entry><phrase role="center">Chapter in this <emphasis>Manual</emphasis></phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Gastroenteritis</phrase>
+                </entry>
+                <entry><phrase role="left">Stool, intestinal biopsy</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>Arcobacter</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>A. butzleri</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Slightly curved, curved, S-shaped, or helical</phrase>
+                </entry>
+                <entry><phrase role="left">Microaerophilic; may grow aerobically or anaerobically; nonhemolytic; grows on nonselective blood agar (with filtration method); may grow on Campy-CVA</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0076#ch0076s0001">59</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. cryaerophilus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. skirrowii</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Brachyspira</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>B. aalborgi</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Spirochete</phrase>
+                </entry>
+                <entry><phrase role="left">Anaerobic; prolonged incubation (1–2 wk) on anaerobic media; selective media may be required</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0080#ch0080s0001">63</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>B. pilosicoli</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Campylobacter</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>C. jejuni</emphasis> subsp. <emphasis>jejuni</emphasis></phrase>
+                </entry>
+                <entry><phrase role="left">Curved, spiral, gull-wing-shaped, S-shaped GNR</phrase>
+                </entry>
+                <entry><phrase role="left">Microaerophilic; grows at 37°C or 42°C; increased H<subscript>2</subscript> required for some non-<emphasis>C. jejuni/C. coli</emphasis> species; requires selective media, such as Campy-CVA or CCDA; filtration method used for less common species and H<subscript>2</subscript>-requiring species. <emphasis>C. jejuni/coli</emphasis> most commonly detected in routine NAAT assays.</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0076#ch0076s0001">59</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>C. jejuni</emphasis> subsp. <emphasis>doylei</emphasis></phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. coli</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. upsaliensis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>C. fetus</emphasis> subsp. <emphasis>fetus</emphasis></phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>C. lari</emphasis> subsp. <emphasis>lari/concheus</emphasis></phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. curvus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. concisus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. insulaenigrae</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. rectus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. hominis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. lanienae</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. hyointestinalis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. peloridis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. sputorum</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Helicobacter</emphasis>
+                  </phrase>
+                </entry>
+                <entry/>
+                <entry><phrase role="left">Curved, spiral, gull-wing-shaped, S-shaped GNR</phrase>
+                </entry>
+                <entry><phrase role="left">Microaerophilic; grows optimally at 37°C; increased H<subscript>2</subscript> required for intestinal species; nonselective blood agar needed for <emphasis>H. pylori</emphasis>; selective supplements (Skirrow’s, Dent’s) may be needed for contaminated gastric samples.</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0077#ch0077s0001">60</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"> Gastric</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>H. pylori</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>H. bizzozeronii</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>H. suis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>H. heilmannii</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"> Intestinal</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>H. bilis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>H. canis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>H. canadensis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>H. cinaedi</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>H. fennelliae</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>H. pullorum</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Vibrio</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>V. cholerae</emphasis>
+                  </phrase>
+                </entry>
+                <entry><para id="ch0075s000000p0006"><phrase role="left">Comma-shaped or straight rods, larger than <emphasis>Campylobacter</emphasis> spp.</phrase>
+                  </para>
+                  <para id="ch0075s000000p0007"><phrase role="left">Curved, spiral, gull-wing shape similar to <emphasis>Campylobacter</emphasis></phrase>
+                  </para>
+                </entry>
+                <entry><para id="ch0075s000000p0008"><phrase role="left">Aerobic conditions; grows optimally at 37°C; grows on routine laboratory media, blood agar, MacConkey agar; use selective medium for primary isolation from stool samples, such as TCBS. <emphasis>Vibrio</emphasis> sp. may be detected in many NAAT assays.</phrase>
+                  </para>
+                  <para id="ch0075s000000p0009"><phrase role="left">Anaerobic</phrase>
+                  </para>
+                </entry>
+                <entry><para id="ch0075s000000p0010"><phrase role="center">
+                      <ulink url="ch0061#ch0061s0001">44</ulink>
+                    </phrase>
+                  </para>
+                  <para id="ch0075s000000p0011"><phrase role="center">
+                      <ulink url="ch0074#ch0074s0001">57</ulink>
+                    </phrase>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">
+                    <emphasis>V. parahaemolyticus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">
+                    <emphasis>V. fluvialis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">
+                    <emphasis>V. alginolyticus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">
+                    <emphasis>V. cincinnatiensis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">
+                    <emphasis>V. furnissii</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">
+                    <emphasis>V. metschnikovii</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left">
+                    <emphasis>V. mimicus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry><phrase role="left"><emphasis>Grimontia hollisae</emphasis> (formerly <emphasis>V. hollisae</emphasis>)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Anaerobiospirillum</emphasis>
+                  </phrase>
+                </entry>
+                <entry><para id="ch0075s000000p0012"><phrase role="left"><emphasis>Photobacterium damselae</emphasis> (formerly <emphasis>V. damselae</emphasis>)</phrase>
+                  </para>
+                  <para id="ch0075s000000p0013"><phrase role="left">
+                      <emphasis>A. thomasii</emphasis>
+                    </phrase>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Bacteremia</phrase>
+                </entry>
+                <entry><phrase role="left">Blood</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>Anaerobiospirillum</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>A. succiniciproducens</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Curved, spiral, gull-wing shape similar to <emphasis>Campylobacter</emphasis></phrase>
+                </entry>
+                <entry><phrase role="left">Anaerobic</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0074#ch0074s0001">57</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry><phrase role="left">
+                    <emphasis>Arcobacter</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>A. butzleri, A. cryaerophilus</emphasis>
+                  </phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry><phrase role="center">
+                    <ulink url="ch0076#ch0076s0001">59</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry><phrase role="left">
+                    <emphasis>Borrelia</emphasis>
+                  </phrase>
+                </entry>
+                <entry><para id="ch0075s000000p0014"><phrase role="left">Lyme group</phrase>
+                  </para>
+                  <para id="ch0075s000000p0015"><phrase role="left">
+                      <emphasis>B. afzelii</emphasis>
+                    </phrase>
+                  </para>
+                  <para id="ch0075s000000p0016"><phrase role="left">
+                      <emphasis>B. burgdorferi</emphasis>
+                    </phrase>
+                  </para>
+                  <para id="ch0075s000000p0017"><phrase role="left">
+                      <emphasis>B. garinii</emphasis>
+                    </phrase>
+                  </para>
+                  <para id="ch0075s000000p0018"><phrase role="left">Relapsing fever group</phrase>
+                  </para>
+                  <para id="ch0075s000000p0019"><phrase role="left">
+                      <emphasis>B. recurrentis</emphasis>
+                    </phrase>
+                  </para>
+                  <para id="ch0075s000000p0020"><phrase role="left"><emphasis>B. hermsii</emphasis>,</phrase>
+                  </para>
+                  <para id="ch0075s000000p0021"><phrase role="left">
+                      <emphasis>B. turicatae</emphasis>
+                    </phrase>
+                  </para>
+                </entry>
+                <entry><phrase role="left">Not seen in routine BC bottles</phrase>
+                </entry>
+                <entry><phrase role="left">Difficult to isolate; special media required for isolation, such as BSK, MKP</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0079#ch0079s0001">62</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry><phrase role="left">
+                    <emphasis>Campylobacter</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>C. jejuni</emphasis> subsp. <emphasis>jejuni</emphasis></phrase>
+                </entry>
+                <entry><phrase role="left">Curved, spiral, gull-wing-shaped, S-shaped GNR</phrase>
+                </entry>
+                <entry><phrase role="left">Microaerophilic; incubate subcultures at 37°C; increased H<subscript>2</subscript> required for some non-<emphasis>C. jejuni/C. coli</emphasis> strains</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0073#ch0073s0001">56</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>C. fetus</emphasis> subsp. <emphasis>fetus</emphasis></phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. upsaliensis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>C. lari</emphasis> subsp. <emphasis>lari/concheus</emphasis></phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. concisus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Herbaspirillum</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>Herbaspirillum huttiense/aquaticum</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Curved or helical GNR</phrase>
+                </entry>
+                <entry><phrase role="left">GN nonfermentative</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0061#ch0061s0001">44</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Helicobacter</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>H. cinaedi</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Curved, spiral, gull-wing-shaped, S-shaped GNR</phrase>
+                </entry>
+                <entry><phrase role="left">Microaerophilic; incubate subcultures at 37°C; increased H<subscript>2</subscript> required</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0077#ch0077s0001">60</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>H. fennelliae</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Leptospira</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>L. biflexa</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Not seen in routine BC bottles</phrase>
+                </entry>
+                <entry><phrase role="left">Aerobic growth at 28–30°C; specialized media required for isolation, such as EMJH, PLM-5</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0078#ch0078s0001">61</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>L. interrogans</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Vibrio</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>V. vulnificus</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Comma-shaped or straight rods</phrase>
+                </entry>
+                <entry><phrase role="left">Aerobic growth at 37°C; grows on routine blood agar, MacConkey agar</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0061#ch0061s0001">44</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>V. metschnikovii</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>V. cincinnatiensis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>Photobacterium damselae</emphasis> (formerly <emphasis>V. damselae</emphasis>)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Tissue infection, oral</phrase>
+                </entry>
+                <entry><phrase role="left">Tissue biopsy, abscess fluid</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>Campylobacter</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>C. concisus</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Curved, spiral, gull-wing-shaped, S-shaped GNR</phrase>
+                </entry>
+                <entry><phrase role="left">Microaerophilic; incubate cultures at 37°C; increased H<subscript>2</subscript> required for oral species; use nonselective blood agar or CCDA with filtration method</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0076#ch0076s0001">59</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. curvus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. rectus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. gracilis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. showae</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>C. ureolyticus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Tissue infection, skin, wound, other</phrase>
+                </entry>
+                <entry><phrase role="left">Skin biopsy, lesion fluid</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>Borrelia</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Lyme group</phrase>
+                </entry>
+                <entry><phrase role="left">Histologic stains required</phrase>
+                </entry>
+                <entry><phrase role="left">Difficult to isolate; special media required for isolation, such as BSK, MKP</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0079#ch0079s0001">62</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Treponema</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>T. pallidum</emphasis> (syphilis)</phrase>
+                </entry>
+                <entry><phrase role="left">Spirochetes (silver staining, dark-field microscopy, DFA)</phrase>
+                </entry>
+                <entry><phrase role="left">Cannot be grown in conventional culture</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0080#ch0080s0001">63</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">“<emphasis>T. carateum</emphasis>”<superscript><emphasis><anchor id="ch0075s000000a0010"/><link linkend="ch0075s000000a0013">c</link></emphasis></superscript> (pinta)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">“<emphasis>T. pallidum</emphasis> subsp. <emphasis>pertenue</emphasis>”<superscript><emphasis><link linkend="ch0075s000000a0013">c</link></emphasis></superscript> (yaws)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">“<emphasis>T. pallidum</emphasis> subsp. <emphasis>endemicum</emphasis>”<superscript><emphasis><link linkend="ch0075s000000a0013">c</link></emphasis></superscript> (endemic)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Vibrio</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>V. vulnificus</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Comma-shaped or straight rods, larger than <emphasis>Campylobacter</emphasis> spp.</phrase>
+                </entry>
+                <entry><phrase role="left">Aerobic; grows on routine laboratory media, blood agar, MacConkey agar</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0061#ch0061s0001">44</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>V. alginolyticus</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><para id="ch0075s000000p0022"><phrase role="left">
+                      <emphasis>V. harveyi</emphasis>
+                    </phrase>
+                  </para>
+                  <para id="ch0075s000000p0023"><phrase role="left"><emphasis>Photobacterium damselae</emphasis> (formerly <emphasis>V. damselae</emphasis>)</phrase>
+                  </para>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Anaerobes</phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Desulfovibrio</emphasis> spp.</phrase>
+                </entry>
+                <entry><phrase role="left">Curved rods</phrase>
+                </entry>
+                <entry><phrase role="left">Grows under anaerobic conditions; use anaerobe media</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0074#ch0074s0001">57</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Sutterella wadsworthensis</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Wolinella succinogenes</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Anaerobiospirillum succiniciproducens</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>Herbaspirillum</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left"><emphasis>Herbaspirillum</emphasis> species</phrase>
+                </entry>
+                <entry><phrase role="left">Curved or helical GNR</phrase>
+                </entry>
+                <entry><phrase role="left">GN nonfermentatve</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0061#ch0061s0001">44</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Organisms in urine</phrase>
+                </entry>
+                <entry><phrase role="left">Urine</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>Leptospira</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis>L. biflexa</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Spirochete with curved ends (observed by dark-field microscopy)</phrase>
+                </entry>
+                <entry><phrase role="left">Aerobic growth at 28–30°C; specialized media required for isolation, such as EMJH, PLM-5</phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <ulink url="ch0078#ch0078s0001">61</ulink>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>L. interrogans</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0075s000000a0011"/><link linkend="ch0075s000000a0008">a</link></emphasis></superscript>BC, blood culture; GNR, Gram-negative rod; DFA, direct fluorescent-antibody assay; Campy-CVA, Campy with cefoperazone, vancomycin, amphotericin; CCDA, charcoal-cefoperazone-deoxycholate agar; TCBS, thiosulfate-citrate-bile salts-sucrose agar; BSK, Barbour-Stoenner-Kelly medium; MKP, modified Kelley’s medium; EMJH, Ellinghausen-McCullough-Johnson-Harris medium; NAAT, nucleic acid amplification test; PLM-5, prepared leptospira medium.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0075s000000a0012"/><link linkend="ch0075s000000a0009">b</link></emphasis></superscript>Not all species listed in this category have been shown to cause human diseases; they are listed if they have been isolated from human clinical specimens.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0075s000000a0013"/><link linkend="ch0075s000000a0010">c</link></emphasis></superscript>Not a validly published name.</para>
+        <figure id="ch0075s000000f0001"><title><phrase role="figureLabel"><anchor id="ch0075s000000a0014"/><link linkend="ch0075s000000a0003">FIGURE 1</link></phrase> Algorithm for initial identification of common curved Gram-negative bacilli from fecal samples using conventional microbiological methods. Abbreviations: BAP, sheep blood agar plate, TCBS, thiosulfate-citrate-bile salts-sucrose.</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0075f01.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </sect2>
+    </sect1>
+  </chapter>

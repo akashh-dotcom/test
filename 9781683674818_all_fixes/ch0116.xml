@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0116">
+    <title>97 Rabies Lyssavirus</title>
+    <sect1 id="ch0116s0001">
+      <title>97 Rabies Lyssavirus</title>
+      <anchor id="ch0116s000001a0001"/>
+      <anchor id="ch0116s000000a0001"/>
+      <para id="ch0116s000000p0001" role="chapterAuthor">LILLIAN A. ORCIARI, PAMELA A. YAGER, AND P. S. SATHESHKUMAR</para>
+      <sect2 id="ch0116s0001s0001">
+        <title>TAXONOMY</title>
+        <anchor id="ch0116s000001a0002"/>
+        <anchor id="ch0116s000000a0002"/>
+        <para id="ch0116s000000p0002">There are numerous etiologic agents in the genus<emphasis>Lyssavirus</emphasis> that result in an acute, fatal viral encephalomyelitis known as rabies in both humans and animals. These agents are single-stranded, bullet-shaped RNA viruses of the order <emphasis>Mononegavirales</emphasis> and family <emphasis>Rhabdoviridae.</emphasis> The genus includes 17 species: the prototype <emphasis>Lyssavirus rabies</emphasis> (rabies virus [RABV]) and the less commonly known species of rabies-related lyssaviruses, <emphasis>Lyssavirus aravan</emphasis> (Aravan virus [ARAV]), <emphasis>Lyssavirus australis</emphasis> (Australian bat lyssavirus [ABLV]), <emphasis>Lyssavirus bokeloh</emphasis> (Bokeloh bat lyssavirus [BBLV])<emphasis>, Lyssavirus caucasicus</emphasis> (West Caucasian bat virus [WCBV]), <emphasis>Lyssavirus duvenhage</emphasis> (Duvenhage lyssavirus [DUVV]), <emphasis>Lyssavirus formosa</emphasis> (Taiwan bat lyssavirus [TWBLV]), <emphasis>Lyssavirus gannoruwa</emphasis> (Gannoruwa bat lyssavirus [GBLV]), <emphasis>Lyssavirus hamburg</emphasis> (European bat lyssavirus 1 [EBLV-1]), <emphasis>Lyssavirus helsinki</emphasis> (European bat lyssavirus 2 [EBLV-2]), <emphasis>Lyssavirus ikoma</emphasis> (Ikoma lyssavirus [IKOV])<emphasis>, Lyssavirus irkut</emphasis> (Irkut virus [IRKV]), <emphasis>Lyssavirus khujand</emphasis> (Khujand virus [KHUV]), <emphasis>Lyssavirus lagos</emphasis> (Lagos bat lyssavirus [LBV]), <emphasis>Lyssavirus lleida</emphasis> (Lleida bat lyssavirus [LLEBV]), <emphasis>Lyssavirus mokola</emphasis> (Mokola virus [MOKV]), and <emphasis>Lyssavirus shimoni</emphasis> (Shimoni bat virus [SHIBV]) (<anchor id="ch0116s000000a0003"/><link linkend="ch0116s000000a0008">Fig. 1</link>) (<link linkend="ch0116s000000li0001">1</link>–<link linkend="ch0116s000000li0004">4</link>). In addition to the classified lyssaviruses, a related unclassified novel (proposed) lyssavirus was detected in the brain tissues of a <emphasis>Myotis brandtii</emphasis> (Brandt’s bat) found in the village of Kotalahti in Eastern Finland (<link linkend="ch0116s000000li0005">5</link>).</para>
+        <para id="ch0116s000000p0003">The lyssaviruses were first characterized by serologic neutralization, which was useful in classifying them into related or more distant groups (<link linkend="ch0116s000000li0006">6</link>). More recently, differences have been defined by nucleotide sequence analysis, and lyssaviruses are grouped as different genotypes or species. Current commercial human and animal vaccines are based on the prototype species, RABV, and provide adequate cross protection against lyssaviruses in phylogroup 1 (Aravan virus<emphasis>,</emphasis> Australian bat lyssavirus<emphasis>,</emphasis> Bokeloh bat lyssavirus<emphasis>,</emphasis> Duvenhage lyssavirus<emphasis>,</emphasis> European bat lyssavirus 1<emphasis>,</emphasis> European bat lyssavirus 2<emphasis>,</emphasis> Irkut virus<emphasis>,</emphasis> Khujand virus, Gannoruwa bat lyssavirus, and Taiwan bat lyssavirus); however, they are less effective against the highly divergent lyssaviruses found in phylogroup 2 (Lagos bat virus, Mokola virus, and Shimoni bat virus) and phylogroup 3 (West Caucasian bat virus, Ikoma lyssavirus, and Lleida bat virus). Due to the rarity of phylogroup 2 and 3 lyssavirus cases in animals and the lack of cases in humans, the decreased efficacy of current biologics has been recognized in the <emphasis>in vivo</emphasis> and <emphasis>in vitro</emphasis> experiments used to characterize these viruses. Hopefully, vaccines will be developed to target these rare lyssaviruses (<link linkend="ch0116s000000li0007">7</link>).</para>
+      </sect2>
+      <sect2 id="ch0116s0001s0002">
+        <title>DESCRIPTION OF THE AGENT</title>
+        <anchor id="ch0116s000001a0003"/>
+        <anchor id="ch0116s000000a0004"/>
+        <para id="ch0116s000000p0004">Lyssavirus virions are bullet-shaped, measure approximately 180 by 75 nm, and consist of five structural proteins: the glycoprotein (G), matrix protein (M), nucleoprotein (N), phosphoprotein (P), and large polymerase protein (L) (<anchor id="ch0116s000000a0005"/><link linkend="ch0116s000000a0012">Fig. 2</link>). The virus is contained in an envelope bilayer derived from the host cell cytoplasmic membrane during viral budding. Peplomers, G protein trimeric spike inserts of approximately 10 nm, are found within the surface of the virus envelope. The rabies virus G protein binds with host cell surface receptors (adsorption), initiating a cascade in the infectious cycle and replication. Virus-neutralizing antibodies to the G protein produced after vaccination or natural infection may inhibit this process. The inner surface lining of the envelope is formed by the M protein, which binds with the G protein envelope and the viral ribonucleoprotein (RNP) core.</para>
+        <para id="ch0116s000000p0005">The RNP is composed of tightly wound viral RNA, encapsulated by the phosphorylated N protein and associated with the P and L proteins. All lyssaviruses contain nonsegmented genomes (RNA) of approximately 12 kb. The RNA-nucleoprotein complex is responsible for transcription of genomic RNA into five polyadenylated mRNAs, which are translated into the structural proteins, and for viral replication by providing a template to synthesize complementary full-length (negative-sense) genomic RNA. During assembly, the coiling RNP-M protein binds with the G protein as the completed virus buds from the plasma membrane (<link linkend="ch0116s000000li0008">8</link>, <link linkend="ch0116s000000li0009">9</link>). From a diagnostic viewpoint, the N and G proteins and viral RNA have been the focus of most laboratory research evaluations. Rabies diagnosis in postmortem brain tissues is based on the detection of intracellular viral inclusions, which are collections of RNP. Because the RABV G protein and host cell receptor interactions initiate the infection cycle, the G protein is directly involved in pathogenesis and virulence, induction of immune responses, and binding of neutralizing antibodies. Vaccines prepared from whole virions, purified RABV G proteins, and recombinant viral vaccines encoding RABV G proteins have been used to successfully immunize and protect animals from RABV infections (<link linkend="ch0116s000000li0010">10</link>–<link linkend="ch0116s000000li0012">12</link>). In addition, detection of antibody to the G protein has been used as a method to evaluate vaccine potency (<link linkend="ch0116s000000li0012">12</link>). More detailed reviews of virus replication and virus pathogenesis have been published (<link linkend="ch0116s000000li0013">13</link>–<link linkend="ch0116s000000li0015">15</link>). Descriptions of the RABV epidemiology, transmission, clinical signs, and diagnosis are generalizable to the other lyssaviruses.</para>
+        <anchor id="ch0116s000000a0006"/>
+        <beginpage pagenum="1884"/>
+        <figure id="ch0116s000000f0001"><title><anchor id="ch0116s000000a0007"/><phrase role="figureLabel"><anchor id="ch0116s000000a0008"/><link linkend="ch0116s000000a0003">FIGURE 1</link></phrase> Lyssavirus diversity was demonstrated by genome sequence analysis performed using neighbor-joining, maximum-likelihood, and minimum-evolution methods and bootstrap analysis of 500 trees. The consensus tree constructed by the minimum-evolution methods demonstrates topology and lineages consistent with previously published research (<link linkend="ch0116s000000li0001">1</link>–<link linkend="ch0116s000000li0004">4</link>). Representative sequences were available for all 17 lyssaviruses and 1 proposed lyssavirus in GenBank. Phylogroup 1 (blue) is composed of RABV and closely related lyssaviruses against which the currently available rabies biologics are effective. These biologics are, however, not effective with the divergent lyssaviruses in phylogroups 2 (yellow) and 3 (pink).
+</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0116f04.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </sect2>
+      <sect2 id="ch0116s0001s0003">
+        <title>EPIDEMIOLOGY AND TRANSMISSION</title>
+        <anchor id="ch0116s000001a0004"/>
+        <anchor id="ch0116s000000a0009"/>
+        <para id="ch0116s000000p0006">Rabies is a zoonotic disease (primarily an animal disease that may be transmitted to humans). All mammals are susceptible. Although RABV is endemic on five of the seven continents, the geographic distributions of the other lyssaviruses are more localized:<emphasis>Lagos bat virus, Shimoni bat virus, Mokola virus, Duvenhage virus</emphasis>, and <emphasis>Ikoma virus</emphasis> have been detected only in Africa; <emphasis>European bat lyssaviruses, Bokeloh bat lyssavirus</emphasis>, and <emphasis>Lleida bat virus</emphasis> have been detected only in Europe; <emphasis>Australian bat lyssavirus</emphasis> is found exclusively in Australia; and <emphasis>Aravan bat virus, Khujand bat virus, Irkut bat virus</emphasis>, and <emphasis>West Caucasian bat virus</emphasis> are restricted to Eurasia. At present, <emphasis>Gannoruwa bat lyssavirus</emphasis> has been found only on the island of Sri Lanka. The only lyssavirus detected in the Americas has been RABV. In the United States, more than 6,000 rabies cases are diagnosed annually in animals. The predominant terrestrial reservoir species are raccoons in the Eastern states, skunks in California and the north central and south central states, gray foxes in Arizona, Arctic and red foxes in Alaska, and mongooses in Puerto Rico. In addition, there are more than 16 distinct RABVs associated with unique species of insectivorous bats throughout their ranges in North America. Although dogs represent a major reservoir species in most developing nations, enzootic canine rabies virus variants were eradicated in the United States and other developed countries, primarily due to mandatory dog vaccination and stray animal control (<link linkend="ch0116s000000li0016">16</link>, <link linkend="ch0116s000000li0017">17</link>).</para>
+        <anchor id="ch0116s000000a0010"/>
+        <beginpage pagenum="1885"/>
+        <figure id="ch0116s000000f0002"><title><anchor id="ch0116s000000a0011"/><phrase role="figureLabel"><anchor id="ch0116s000000a0012"/><link linkend="ch0116s000000a0005">FIGURE 2</link></phrase> Diagram of lyssavirus morphology and structural proteins.
+</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0116f05.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+        <para id="ch0116s000000p0007">Human rabies cases are rare in developed countries where canine rabies is controlled and access to prophylactic biologics is ideal. Fewer than four cases are reported annually in the United States. Despite the relative ease of disease prevention in an exposed human, it is estimated that more than 60,000 preventable human deaths worldwide occur annually. Beyond avoiding contact with wild animals and unvaccinated animals, stray animals, or domestic animals with unknown immunization histories, access to appropriate human rabies postexposure prophylaxis remains an urgent global public health need to avert this preventable human mortality.</para>
+        <para id="ch0116s000000p0008">The main route of transmission is introduction of saliva containing RABV into a wound via the bite of a rabid animal. Virus may be shed via saliva in high quantities. Human rabies cases due to nonbite exposures are extremely rare. Nonbite exposures include scratches, open wounds, and mucous membranes contaminated with a source of RABV, such as infected saliva or central nervous system (CNS) tissues from a rabid animal. Nosocomial infection (inhalation of accidentally aerosolized RABV) and subsequent mucous membrane contact is a potential source of nonbite exposure. Infection by this route, though rare, has been documented (<link linkend="ch0116s000000li0018">18</link>, <link linkend="ch0116s000000li0019">19</link>). No human rabies cases have been associated with fomite (surface contamination) exposures, most likely because the virus is readily inactivated by drying and by agents such as detergents. In the event of an exposure, immediate wound cleansing with soap and water is essential, followed by appropriate urgent medical care; delays in initiation of human rabies postexposure prophylaxis may result in death.</para>
+        <para id="ch0116s000000p0009">Lyssaviruses are susceptible to a number of common laboratory disinfectants, such as 1:256 quaternary ammonium compound, 0.5% sodium hypochlorite (10% bleach), iodophors, 70% isopropanol, and 70% ethanol. Chemical disinfectants are less effective when used on items contaminated with brain tissues, heavy suspensions of brain tissue, or even virus suspensions in cell culture media with protein supplements. Decontamination of instruments, laboratory glassware, and disposable waste is best achieved by autoclaving at a minimum of 121°C at 15 lb/in<superscript>2</superscript> for 60 min (<link linkend="ch0116s000000li0020">20</link>, <link linkend="ch0116s000000li0021">21</link>).</para>
+      </sect2>
+      <sect2 id="ch0116s0001s0004">
+        <title>CLINICAL SIGNIFICANCE</title>
+        <anchor id="ch0116s000001a0005"/>
+        <anchor id="ch0116s000000a0013"/>
+        <para id="ch0116s000000p0010">The initial clinical presentation of rabies in humans and animals may be rather unremarkable and nonspecific. The majority of incubation periods range from several weeks to several months after exposure. Following the prodromal period, an acute neurological phase develops. The majority of rabies cases manifest as an encephalitic form, and less than 20% are observed as a paralytic presentation. Among patients exhibiting classical encephalitic symptoms, generalized arousal or hyperexcitability, including periods of confusion, hallucinations, agitation, or aggressive behavior, may occur, with intermittent lucid periods. Clinical progression may be characterized by difficulty swallowing, hypersalivation, lacrimation, sweating, dilated pupils, and autonomic dysfunction. Cranial nerve dysfunction may include anisocoria and facial or tongue paralysis. Hydrophobic and aerophobic spasms can be severe. In the end stage, multiple systems may be unstable, leading often to coma and invariably to death. Rabies continues to have one of the highest case fatality rates of all known illnesses caused by infectious agents.</para>
+        <para id="ch0116s000000p0011">The paralytic form of presentation includes flaccid muscle weakness, frequently spreading in an ascending pattern to the extremities. In some cases, laryngeal and facial muscle weakness or bilateral deafness occur. These cases may resemble Guillain-Barré syndrome. Other symptoms include urinary incontinence and priapism. Hydrophobia is less common with the paralytic form, but mild inspiratory spasms may be present. Cardiopulmonary complications and instability usually result in cardiac arrest and death (<link linkend="ch0116s000000li0022">22</link>).</para>
+        <para id="ch0116s000000p0012">There is no definitive treatment for rabies after clinical signs are apparent. Management of a patient with rabies is supportive, requiring respiratory protection through sedation and intubation, as well as other complex medical management attempts to stabilize cardiopulmonary and other major organ system functions as the disease rapidly progresses. Despite the successful outcome of intensive medical management of a high school student from Wisconsin in 2004, specific rabies antiviral treatment does not exist, and the prognosis remains inexorably grim in most cases. The latest information on experimental management of rabies cases may be found on the Medical College of Wisconsin website:<ulink url="http://www.mcw.edu/Pediatrics/InfectiousDiseases/PatientCare/rabies.html">http://www.mcw.edu/Pediatrics/InfectiousDiseases/PatientCare/rabies.html</ulink>.</para>
+        <para id="ch0116s000000p0013">The administration of rabies vaccine and/or human rabies immune globulin (HRIG) to patients after onset of signs/symptoms of rabies has demonstrated no increase in survival rate and may hasten patient demise. Increased morbidity and “early death” were also demonstrated in animals clinically ill with rabies (<link linkend="ch0116s000000li0023">23</link>).</para>
+        <para id="ch0116s000000p0014">All potential RABV exposures need to be evaluated on a case-by-case basis. True human exposures (bite or mucous membrane) to suspect animals or animals proven rabid should receive prompt medical intervention and postexposure prophylaxis (PEP) as outlined in the recent Advisory Committee on Immunization Practices (ACIP) guidelines (<link linkend="ch0116s000000li0024">24</link>), as follows.</para>
+        <para id="ch0116s000000p0015">Unvaccinated individuals exposed to a rabid animal should receive HRIG at a dose of 20 IU/kg of body weight. The HRIG should be infiltrated around the wound, and any remaining volume should be given at a site distant from where the vaccine was administered. In addition, four doses of a human RABV vaccine licensed for use in the United States should be administered intramuscularly in the deltoid area (for children, the anterolateral aspect of the thigh is acceptable but not the gluteal region) on days 0, 3, 7, and 14, and if indicated, a fifth dose should be given at day 28 following exposure. Individuals who previously received immunization against rabies require only two doses of vaccine on days 0 and 3, regardless of the current rabies virus-neutralizing antibody (VNA) titer (<link linkend="ch0116s000000li0025">25</link>).</para>
+        <anchor id="ch0116s000000a0014"/>
+        <beginpage pagenum="1886"/>
+        <para id="ch0116s000000p0016">Individuals at high risk for RABV exposure (laboratorians, field biologists, and veterinarians) are recommended to receive pre-exposure rabies prophylaxis (PrEP). According to the current ACIP guidelines for prevention of rabies in humans, a pre-exposure series of two doses of modern cell culture RABV (licensed for use in the United States) should be administered intramuscularly in the deltoid on days 0 and 7. For all individuals receiving PrEP, a risk assessment for rabies exposure should be performed and risk classified at levels 1 to 5 (1 representing the highest-risk group and 5 the lowest-risk group). The ACIP post-PrEP follow-up recommendations are determined by the risk group (see the table in reference<link linkend="ch0116s000000li0024">24</link>). Individuals working under conditions with the highest risk for rabies exposure, such as in vaccine production, research, or diagnostic laboratories, typically have their VNA levels monitored more frequently, such as every 6 months. Pre-exposure vaccination and monitoring of detectable neutralizing antibodies at acceptable level (≥0.5 IU/mL) does not ensure protection from a particular exposure. Upon exposure, previously vaccinated individuals require cleansing of the wound and postexposure rabies vaccine doses on days 0 and 3 to prevent clinical disease.</para>
+      </sect2>
+      <sect2 id="ch0116s0001s0005">
+        <title>COLLECTION, TRANSPORT, AND STORAGE OF SPECIMENS</title>
+        <anchor id="ch0116s000001a0006"/>
+        <anchor id="ch0116s000000a0015"/>
+        <para id="ch0116s000000p0017">A summary of tests, required samples, and shipping and storage conditions is presented in<anchor id="ch0116s000000a0016"/><link linkend="ch0116s000000a0019">Table 1</link>. Rabies specimen submission guidelines and forms may be found at the Centers for Disease Control and Prevention (CDC) website <ulink url="https://www.cdc.gov/rabies/resources/specimen-submission-guidelines.html">https://www.cdc.gov/rabies/resources/specimen-submission-guidelines.html</ulink>. Diagnosis of rabies in animals requires postmortem examination of the brain. An adequate sample consists of a full cross section of the brain stem (pons, medulla, or midbrain areas) and cerebellum (vermis and right and left lateral lobes inclusive). Removal of CNS tissues should be performed by trained, vaccinated personnel wearing personal protective equipment (at a minimum, a closed-front gown or a lab coat with sleeves, double latex and nitrile or heavy rubber gloves, an N95 respirator, a face shield, safety glasses, and shoe covers). Information on sample collection for postmortem rabies diagnosis in animals may be found at <ulink url="https://www.cdc.gov/rabies/pdf/RabiesDFASPv2.pdf">https://www.cdc.gov/rabies/pdf/RabiesDFASPv2.pdf</ulink>.</para>
+        <para id="ch0116s000000p0018">Information regarding samples for diagnosis of rabies in humans is available at<ulink url="https://www.cdc.gov/rabies/specific_groups/doctors/ante_mortem.html">https://www.cdc.gov/rabies/specific_groups/doctors/ante_mortem.html</ulink>. The antemortem diagnosis of rabies in humans requires the collection of fresh saliva (no preservatives or transport media), a 5- to 6-mm-diameter full-thickness skin biopsy specimen (nuchal) from the nape of the neck at the hairline, including a minimum of 10 hair follicles (placed in a sterile container with no preservatives or transport media), and serum and cerebrospinal fluid (CSF). The saliva is tested by real-time reverse transcription-PCR (RT-PCR). The skin sample is also tested by real-time RT-PCR, and cryostat sections are tested for RABV antigen by a direct fluorescent-antibody (DFA) test. The serum and CSF samples are analyzed by several methods, including rabies virus neutralization using the rapid fluorescent focus inhibition test (RFFIT), and for rabies virus-specific IgG and IgM antibodies that bind to rabies antigens (proteins) in rabies-infected cells by indirect fluorescent antibody (IFA) test. Other samples, such as brain biopsy specimens for RABV antigen detection by the DFA test and real-time RT-PCR and cornea impressions, may be useful in diagnosis of rabies, but these samples are not routinely recommended because of the invasiveness of the collection methods and potential harmful sequelae. For the optimal sensitivity and specificity of antemortem diagnosis, all four samples (serum, CSF, saliva, and skin biopsy samples) should be tested. In some cases, repeated sequential sets of samples may be required to rule out or confirm a diagnosis. Patient specimen and information submission forms may be obtained at <ulink url="https://www.cdc.gov/laboratory/specimen-submission/form.html">https://www.cdc.gov/laboratory/specimen-submission/form.html</ulink> and <ulink url="https://www.cdc.gov/rabies/pdf/rorform.pdf">https://www.cdc.gov/rabies/pdf/rorform.pdf</ulink>. The CDC Rabies Laboratory should be consulted before sample collection and submission (phone, 404-639-1050).</para>
+        <para id="ch0116s000000p0019">For postmortem diagnosis of rabies in humans, brain samples consisting of a cross section of brain stem and cerebellum, vermis, and right and left lobes are necessary. These samples are tested for RABV antigen, and if it is present, further antigenic and genetic characterization is performed. Formalin-fixed tissues can be analyzed for histopathology and antigen detection. However, these samples are not recommended for primary diagnosis of rabies unless fresh brain tissues are unavailable. Formalin-fixed samples require lengthy preparation for processing, embedding in paraffin, and sectioning prior to high-complexity experimental diagnostic techniques, which can delay a diagnosis. Postmortem or retained antemortem serum and CSF may be quite useful in confirming a postmortem diagnosis.</para>
+        <para id="ch0116s000000p0020">The shipment of samples to a testing laboratory for rabies diagnosis should follow the U.S. Department of Transportation’s guide to safe transport of infectious substances (<ulink url="https://www.phmsa.dot.gov/transporting-infectious-substances/transporting-infectious-substances-safely">https://www.phmsa.dot.gov/transporting-infectious-substances/transporting-infectious-substances-safely</ulink>). Packaging of clinical samples for rabies diagnosis should fulfill International Air Transport Association (IATA) regulations for shipment of biological substances, category B, UN 3373. Cell culture isolates and stock virus suspensions carry a higher infection risk, and their packaging should fulfill the IATA regulations for category A, UN 2814 (infectious substance affecting humans) and UN 2900 (affecting animals). Fresh-frozen samples for rabies testing should be sent with sufficient dry ice to maintain a storage temperature of ≤20°C (or with multiple ice packs to keep storage temperature in the range of 2 to 8°C for same-day delivery) to the diagnostic laboratory by the most expedient transport or courier method. Paraffin-embedded tissues and tissue sections (slides) should be shipped at ambient temperatures and never frozen.</para>
+        <para id="ch0116s000000p0021">The validity of laboratory diagnostic tests depends on optimal collection and storage of the samples. The ideal storage temperature for fresh brain tissues for RABV antigen detection, virus isolation, and real-time RT-PCR is −80°C. Storage for short intervals, such as 48 h or less at 4°C or 4 weeks or less at ≤−20°C, may be adequate for samples that are to be analyzed for RABV antigen. Tissues placed in 10% buffered formalin should remain in the fixative a minimum of 24 to 48 h at ambient temperature. Formalin-fixed brain tissues should be stored in 70% ethanol at room temperature for long-term storage and never frozen. Paraffin-embedded tissues and tissue sections (slides) should be stored at ambient temperatures and never frozen.</para>
+        <anchor id="ch0116s000000a0017"/>
+        <beginpage pagenum="1887"/>
+        <anchor id="ch0116s000000a0018"/>
+        <beginpage pagenum="1888"/>
+        <table id="ch0116s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0116s000000a0019"/><link linkend="ch0116s000000a0016">TABLE 1</link></phrase></emphasis> Routine tests for rabies diagnosis<superscript><link linkend="ch0116s000000a0023"><emphasis>a</emphasis></link></superscript><anchor id="ch0116s000000a0020"/>
+</title>
+          
+          <tgroup cols="8">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Analysis</phrase>
+                </entry>
+                <entry><phrase role="center">Test method</phrase>
+                </entry>
+                <entry><phrase role="center">Detection</phrase>
+                </entry>
+                <entry><phrase role="center">Sample</phrase>
+                </entry>
+                <entry><phrase role="center">Source</phrase>
+                </entry>
+                <entry><phrase role="center">Requirements</phrase>
+                </entry>
+                <entry><phrase role="center">Provider</phrase>
+                </entry>
+                <entry><phrase role="center">Results</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry>Microscopic examination</entry>
+                <entry>Specialized stains (e.g., H&amp;E and Sellers)</entry>
+                <entry>Eosinophilic intracytoplasmic inclusions</entry>
+                <entry>Postmortem CNS specimen</entry>
+                <entry>Human or animal</entry>
+                <entry>Brain stem, cerebellum, hippocampus</entry>
+                <entry>Pathology laboratories (hospital, veterinary)</entry>
+                <entry>Detects eosinophilic intracytoplasmic inclusions; low sensitivity (60–80%)</entry>
+              </row>
+              <row>
+                <entry>Antigen detection by immunofluorescence</entry>
+                <entry>DFA</entry>
+                <entry>Rabies virus antigen</entry>
+                <entry>Postmortem CNS specimen</entry>
+                <entry>Human or animal</entry>
+                <entry>Full cross section of brain stem and cerebellum</entry>
+                <entry>State public health, veterinary laboratories, CDC</entry>
+                <entry>Detects rabies virus specific antigen; very high sensitivity (100%)</entry>
+              </row>
+              <row>
+                <entry>Antigen detection by immunofluorescence (cryostat)</entry>
+                <entry>DFA</entry>
+                <entry>Rabies virus antigen</entry>
+                <entry>Antemortem nuchal biopsy specimen</entry>
+                <entry>Human</entry>
+                <entry>Full thickness of skin; 5- to 6-mm cryosections</entry>
+                <entry>CDC (some regional or national labs)</entry>
+                <entry>Detects rabies<superscript><link linkend="ch0116s000000a0025"><emphasis>c</emphasis></link></superscript><anchor id="ch0116s000000a0021"/> virus specific antigen</entry>
+              </row>
+              <row>
+                <entry>Antigen detection by immunofluorescence</entry>
+                <entry>FF DFA</entry>
+                <entry>Rabies virus antigen</entry>
+                <entry>FF postmortem CNS specimen</entry>
+                <entry>Human or animal</entry>
+                <entry>Full cross section of brain stem and cerebellum</entry>
+                <entry>CDC (some regional or national labs)</entry>
+                <entry>Detects rabies virus specific antigen; very high sensitivity (~100%)</entry>
+              </row>
+              <row>
+                <entry>Antigen detection by</entry>
+                <entry>IHC</entry>
+                <entry>Rabies virus antigen</entry>
+                <entry>FF postmortem CNS specimen</entry>
+                <entry>Human or animal</entry>
+                <entry>Full cross section of brain stem and cerebellum</entry>
+                <entry>CDC (some regional or national labs)</entry>
+                <entry>Detects rabies virus specific antigen; very high sensitivity (~100%)</entry>
+              </row>
+              <row>
+                <entry>Antigen detection by IHC</entry>
+                <entry>DRIT</entry>
+                <entry>Rabies virus antigen</entry>
+                <entry>Postmortem CNS specimen</entry>
+                <entry>Human or animal</entry>
+                <entry>Full cross section of brain stem and cerebellum</entry>
+                <entry>CDC, U.S. Department of Agriculture (some regional or national labs)</entry>
+                <entry>Detects rabies virus specific antigen; very high sensitivity (~100%)</entry>
+              </row>
+              <row>
+                <entry>Nucleic acid</entry>
+                <entry>Real-time RT-PCR</entry>
+                <entry>Rabies virus RNA</entry>
+                <entry>Postmortem CNS specimen</entry>
+                <entry>Human or animal</entry>
+                <entry>50 mg of brain stem and cerebellum</entry>
+                <entry>CDC (some regional or national labs)</entry>
+                <entry>Produces specific RT-PCR amplicons; very sensitive (detects &lt;1 IU) but related to primer specificity</entry>
+              </row>
+              <row>
+                <entry>Nucleic acid</entry>
+                <entry>Real-time RT-PCR</entry>
+                <entry>Rabies virus RNA</entry>
+                <entry>Antemortem saliva, throat, skin, other specimen</entry>
+                <entry>Human</entry>
+                <entry>100 μl of fluid samples or ≤50 mg of tissue</entry>
+                <entry>CDC (some regional or national labs)</entry>
+                <entry>Produces specific RT-PCR amplicons; very sensitive (detects &lt;1 IU)</entry>
+              </row>
+              <row>
+                <entry>Virus isolation<superscript><link linkend="ch0116s000000a0024"><emphasis>b</emphasis></link></superscript><anchor id="ch0116s000000a0022"/></entry>
+                <entry>Cell culture (e.g., MNA) and animal inoculation (e.g., MI)</entry>
+                <entry>Infectious rabies virus</entry>
+                <entry>Postmortem CNS specimen</entry>
+                <entry>Human or animal</entry>
+                <entry>20% brain homogenate (brain stem and cerebellum)</entry>
+                <entry>State public health, veterinary laboratories, CDC</entry>
+                <entry>Detects infectious rabies virus (detects 1IU)</entry>
+              </row>
+              <row>
+                <entry>Serology (virus neutralization)</entry>
+                <entry>RFFIT, FAVN, MNT</entry>
+                <entry>Rabies virus-neutralizing antibodies</entry>
+                <entry>Antemortem or postmortem serum or CSF</entry>
+                <entry>Human or animal</entry>
+                <entry>Serum or CSF</entry>
+                <entry>CDC (some commercial, regional, or national labs)</entry>
+                <entry>Detects neutralizing antibodies. NT are useful in determining immunization status.</entry>
+              </row>
+              <row>
+                <entry>Serology by indirect IFA test</entry>
+                <entry>IFA</entry>
+                <entry>Rabies virus IgG or IgM antibodies</entry>
+                <entry>Antemortem or postmortem specimen</entry>
+                <entry>Human or animal</entry>
+                <entry>Serum or CSF</entry>
+                <entry>CDC (some regional or national labs)</entry>
+                <entry>Detects specific rabies virus IgM and IgG antibodies from serum or CSF; very sensitive as a diagnostic technique</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0116s000000p0022" role="table-footnote"><superscript><link linkend="ch0116s000000a0020"><emphasis>a</emphasis></link></superscript><anchor id="ch0116s000000a0023"/>H&amp;E, hematoxylin and eosin; CNS, central nervous system; CSF, cerebral spinal fluid; DFA, direct fluorescent antibody; DRIT, direct rapid immunohistochemistry test; FAVN, fluorescent-antibody virus neutralization; FF, formalin fixed; IFA, indirect fluorescent antibody; IHC, immunohistochemistry; IU, infectious unit; NT, neutralization tests; MI, mouse inoculation test; MNA, mouse neuroblastoma cells; MNT, mouse neutralization test; RFFIT, rapid fluorescent focus inhibition test; RT-PCR, reverse transcription-PCR</para>
+        <para id="ch0116s000000p0023" role="table-footnote"><superscript><link linkend="ch0116s000000a0022"><emphasis>b</emphasis></link></superscript><anchor id="ch0116s000000a0024"/>Since there is a high potential for generation of aerosol or droplet production, virus isolation of phylogroup 1 lyssaviruses should be performed at minimum of BSL-2 with additional precautions, such as inclusion of BSL-3 practices and procedures. However, virus isolation of phylogroup 2 and 3 lyssaviruses must be performed at full BSL-3 (<link linkend="ch0116s000000li0020">20</link>).</para>
+        <para id="ch0116s000000p0024" role="table-footnote"><superscript><link linkend="ch0116s000000a0021"><emphasis>c</emphasis></link></superscript><anchor id="ch0116s000000a0025"/>The presence of rabies virus antigen and RNA in nuchal biopsy samples and RNA in saliva will decline as the patient’s level of neutralizing antibodies rise and rabies virus clearance initiates. This is not related to the sensitivity of target detection (rabies virus antigen and rabies virus RNA) but rather, the levels or lack of the test targets which may be informative in evaluating the patient’s clinical course or treatment.</para>
+        <para id="ch0116s000000p0025">The ideal storage (−80°C) and shipping temperatures for saliva samples for real-time RT-PCR and virus isolation are −20°C or below. Skin biopsy samples for real-time RT-PCR and antigen detection should also be stored at −80°C and shipped at −20°C or below. Samples for antigen detection may be stored for short intervals at −20°C before testing. Serum and CSF samples for rabies serologic testing should be stored at −20°C or below but may be stored for short intervals prior to testing at 4°C. Whole-blood samples should be centrifuged, and only the serum portion should be submitted for testing. Whole blood should never be shipped in the same container with samples on dry ice, because there is a risk of freezing and hemolysis regardless of packing insulation. Serum samples that demonstrate visible signs of hemolysis or appear chylous are unsatisfactory for testing. Other biological fluids (e.g., vitreous fluids, tracheal washings, and tears) for real-time RT-PCR or virus isolation require storage at −80°C or below and require shipping at −20°C or below.</para>
+      </sect2>
+      <sect2 id="ch0116s0001s0006">
+        <title>DIRECT DETECTION METHODS</title>
+        <anchor id="ch0116s000001a0007"/>
+        <anchor id="ch0116s000000a0026"/>
+        <para id="ch0116s000000p0026">Direct methods may be used to detect histopathological changes and viral antigen (inclusions) and to observe virion morphology. These methods provide rapid diagnosis within minutes to hours without the need for amplification of virus by isolation, such as in cell culture, or amplification of the viral genome in RT-PCR.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0116s0002">
+      <title>Microscopy</title>
+      <anchor id="ch0116s000002a0001"/>
+      <anchor id="ch0116s000000a0027"/>
+      <para id="ch0116s000000p0027">Microscopic examination methods may utilize routine stains (e.g., hematoxylin and eosin) to examine abnormal histopathology consistent with encephalomyelitis, or more specialized stains (e.g., Sellers, Mann’s, and Giemsa stains) to observe typical viral eosinophilic intracytoplasmic inclusions, such as classical Negri bodies within neurons (<link linkend="ch0116s000000li0026">26</link>). Historically, Sellers stain (2:1 methylene blue and basic fuchsin) was most often used for Negri body detection. In contrast with more advanced, sensitive antigen detection methods, this staining procedure is most successfully performed on brain tissues (hippocampi, cerebral cortex pyramidal cells, and the cerebellum Purkinje cells) during the later stages of disease, when inclusions are most abundant and more easily detected. Brain impression slides are stained for 2 to 10 min in Sellers stain (the time needed varies depending on the thickness of the impression) and then rinsed with tap water. Typically, intracytoplasmic magenta inclusions that are oval or round with dark blue basophilic granules appear within rabies virus-infected cells of the CNS. Although of historical importance, this method has limitations in specificity and sensitivity. For example, when properly performed, the Sellers staining technique may identify Negri bodies in 50 to 80% of rabid animals.</para>
+      <para id="ch0116s000000p0028">Observation of virions by electron microscopy allows the examination of their ultrastructure, shape, and size. The technique provides supportive evidence of a rhabdovirus infection but requires careful examination by expertly trained personnel of numerous observational fields of the sample. As such, it is impractical and too costly for routine diagnosis (<link linkend="ch0116s000000li0027">27</link>).</para>
+    </sect1>
+    <sect1 id="ch0116s0003">
+      <title>Antigen Detection</title>
+      <anchor id="ch0116s000003a0001"/>
+      <anchor id="ch0116s000000a0028"/>
+      <sect2 id="ch0116s0003s0001">
+        <title>DFA Test</title>
+        <anchor id="ch0116s000003a0002"/>
+        <anchor id="ch0116s000000a0029"/>
+        <para id="ch0116s000000p0029">The standard test for RABV antigen detection in CNS tissues is the DFA test. This test is relatively easy to perform by highly trained personnel with specialized equipment, is highly specific, approximates 100% sensitivity, and can be completed in 3 or 4 h. The CDC’s protocol for postmortem diagnosis of rabies in animals by DFA testing may be obtained at<ulink url="https://www.cdc.gov/rabies/pdf/RabiesDFASPv2.pdf">https://www.cdc.gov/rabies/pdf/RabiesDFASPv2.pdf</ulink>. In contrast to the nonspecific staining of viral inclusions observed with histologic stains, the RABV diagnostic conjugates consist of antibodies to the whole virion or the RNP, labeled with fluorescein isothiocyanate (FITC). Within infected brain cells, there are abundant collections of RABV proteins (antigen), especially RNP. The conjugates may be hyperimmune, polyclonal, or monoclonal antibodies directed against highly conserved RABV epitopes.</para>
+        <para id="ch0116s000000p0030">Impression slides are prepared from a cross section of brain stem and cerebellum (right, left, and vermis) or hippocampi (right and left) if the cerebellum is not available and are fixed in acetone for a minimum of 1 h at −20°C. The brain impression slides are tested with two different anti-rabies virus conjugates to ensure antigen detection of the diverse RABV variants. When the conjugates are added to impressions of RABV-infected brain tissue and incubated for 30 min at 37°C, the labeled antibodies bind with the RABV proteins (antigens) and form specific antigen-antibody-FITC complexes. After the impression slides are washed in phosphate-buffered saline (PBS) twice for 3 to 5 min, specific antigen-antibody complexes remain. These complexes fluoresce an intense sparkling apple-green color when observed with a fluorescence microscope equipped with an FITC filter combination. Morphologically, RABV antigen may appear as fluorescing large or small, oval or round inclusions, dust-like particles, or strands (<anchor id="ch0116s000000a0030"/><link linkend="ch0116s000000a0034">Fig. 3</link>).</para>
+      </sect2>
+      <sect2 id="ch0116s0003s0002">
+        <title>DRIT</title>
+        <anchor id="ch0116s000003a0003"/>
+        <anchor id="ch0116s000000a0031"/>
+        <para id="ch0116s000000p0031">The direct rapid immunohistochemistry test (DRIT) is an alternative procedure for RABV antigen detection (<link linkend="ch0116s000000li0028">28</link>). The DRIT uses a cocktail of purified biotinylated anti-rabies virus nucleocapsid monoclonal antibodies (MAbs) to detect RABV antigen. To date, the test has demonstrated sensitivity and specificity equal to that of the DFA test in detecting RABV antigen. The anticipated use for this test method includes confirmation for DFA testing and rapid rabies field tests as well as augmentation of passive public health surveillance, since, in contrast with fluorescence microscopy, light microscopy is adaptable to field use. In the United States, the test is currently applied to enhance rabies surveillance in samples from animals that have not exposed humans to the virus. The DRIT has been accepted by the World Health Organization and World Organization for Animal Health as an alternate test for rabies antigen detection when a fluorescence microscope is not available. Advantages of the procedure include rapidity of the procedure (1 h to completion), the inactivation of RABV in test brain impressions by fixation in formalin (in contrast to acetone fixation in the DFA test, which does not completely inactivate RABV), and the minimal equipment requirements (only a standard light microscope). The sample requirements for DRIT are the same as those for the DFA test and other antigen detection methods (see “Collection, Transport, and Storage of Specimens” above for detailed information). The DRIT is performed on brain touch impressions prepared as for the DFA test. Slides are fixed in 10% buffered formalin for 10 min, rinsed in PBS with 1% Tween 80 (TPBS), and then pretreated with hydrogen peroxide for 10 min before primary antibodies are applied. The test is a multistep process involving biotinylated primary antibodies, streptavidin-peroxidase, and 3-amino-9-ethylcarbazole (AEC). First, there is an incubation with biotinylated anti-rabies virus MAbs for 10 min, followed by rinsing in TPBS; next is incubation with streptavidin-peroxidase for 10 min, followed by rinsing with TPBS; last is incubation with peroxidase substrate (AEC) for 10 min to initiate (red) color development, followed by rinsing with distilled water. Slides are counterstained with Gill’s hematoxylin for 2 min, rinsed with water (and a cover glass is added with water-soluble mounting medium), and observed with a standard light microscope. RABV antigen appears as bright red, large or small, oval or round inclusions, dust-like particles, or strands against a contrasting blue background (<link linkend="ch0116s000000a0034">Fig. 3</link>).</para>
+        <anchor id="ch0116s000000a0032"/>
+        <beginpage pagenum="1889"/>
+        <figure id="ch0116s000000f0003"><title><anchor id="ch0116s000000a0033"/><phrase role="figureLabel"><emphasis role="strong"><anchor id="ch0116s000000a0034"/><link linkend="ch0116s000000a0030">FIGURE 3</link></emphasis></phrase> Antigen detection by DFA test/fluorescent-antibody test (FAT) and DRIT methods.
+</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0116f03.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+      </sect2>
+      <sect2 id="ch0116s0003s0003">
+        <title>Formalin-Fixed Tissues</title>
+        <anchor id="ch0116s000003a0004"/>
+        <anchor id="ch0116s000000a0035"/>
+        <para id="ch0116s000000p0032">Formalin-fixed CNS tissue samples cannot be tested by the standard DFA test. The fixation process causes chemical cross-linking of proteins. Formalin-fixed tissue samples that have been processed, embedded in paraffin, and sectioned may be tested by a modification of the DFA test for formalin-fixed samples. RABV antigen detection, whether by standard DFA test, DRIT, or modified DFA test on formalin-fixed samples, requires the same tissue sampling of a complete cross section of brain stem and cerebellum. Modifications of the standard DFA test for formalin-fixed samples include heating the slides to 55 to 60°C to melt the paraffin, deparaffinization in xylene, and rehydration of tissue sections in graded alcohols. In addition, a proteinase K digestion for 30 min at 37°C is needed for detection of RABV epitopes. Incubation with anti-rabies virus FITC conjugate is longer than the standard DFA test incubation (i.e., 1 h instead of 30 min), and the wash times in PBS (twice at 15 min) are longer to clear unbound conjugate from tissue sections (<link linkend="ch0116s000000li0029">29</link>). The reliability of this method depends on the availability of a high-affinity, highly concentrated polyclonal anti-rabies virus conjugate, because the modified standard DFA test for formalin-fixed tissues may require a working dilution of RABV conjugate as much as 5 to 10 times more concentrated for sensitive and specific detection of RABV antigen in these tissue samples.</para>
+        <para id="ch0116s000000p0033">An immunohistochemistry (IHC) test for rabies virus antigen detection is an alternative method for formalin-fixed tissue samples that have been processed, embedded in paraffin, and sectioned (<link linkend="ch0116s000000li0030">30</link>). The IHC protocol also requires heating the slides to 55 to 60°C to melt the paraffin, deparaffinization of tissue sections in xylene, rehydration of tissue sections in graded alcohols, and enzyme digestion but with pronase instead of proteinase K. The remaining IHC test steps are similar to the multistep DRIT: 3% hydrogen peroxide is added for 10 min, and the mixture is incubated for 10 min to remove endogenous peroxidase activity. Then, normal goat serum is added, and slides are incubated for 15 min to block nonspecific binding of the primary antibody. The primary anti-rabies virus monoclonal or polyclonal antibodies are added and incubated for 60 min. The secondary antispecies biotinylated antibody is added and incubated for 15 min, followed by a rinse in TPBS and incubation with streptavidin-peroxidase for 15 min. After rinsing with TPBS, slides are incubated with peroxidase substrate, AEC, for 5 to 10 min to initiate (red) color development, followed by rinsing with distilled water. Finally, slides are counterstained with Gill’s hematoxylin for 2 min and rinsed with water, and coverslips are added with water-soluble mounting medium. Slides are observed with a standard light microscope. RABV antigen appears as bright red, large or small, oval or round inclusions or dust-like particles within the cytoplasm of infected neurons against a light blue background of the hematoxylin-stained tissue. Advantages of the IHC test over the standard DFA test modified for formalin-fixed samples include the ability to test for RABV antigen and other etiologies simultaneously by including antibodies to the other agents, the ability to examine the histopathology of tissues, and the ability to observe slides with a standard light microscope rather than a fluorescence microscope. Disadvantages are the time required for the procedure (approximately 6 h) and the high complexity of the method, requiring optimization of multiple antibodies and reagents.</para>
+        <anchor id="ch0116s000000a0036"/>
+        <beginpage pagenum="1890"/>
+      </sect2>
+      <sect2 id="ch0116s0003s0004">
+        <title>DFA Test of Nuchal (Neck) Biopsy Specimens</title>
+        <anchor id="ch0116s000003a0005"/>
+        <anchor id="ch0116s000000a0037"/>
+        <para id="ch0116s000000p0034">Antemortem DFA tests for RABV antigen are performed on serial 5- to 8-μm tissue cryosections of skin biopsy samples (from the hairline at the nape of the neck) and provide a rapid method for viral antigen detection in nerves at the base of hair follicles. The DFA test on tissue sections is performed exactly as the standard DFA test on CNS tissues. In its antemortem application, the method has optimized sensitivity but may be negative in early stages of the clinical disease or in later clinical stages if virus-neutralizing antibodies are present. On rare occasions, real-time or nested RT-PCR on a negative DFA test has confirmed a rabies diagnosis when antigen was not present in sufficient quantity to visualize by the DFA test on skin sections.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0116s0004">
+      <title>Nucleic Acid Detection</title>
+      <anchor id="ch0116s000004a0001"/>
+      <anchor id="ch0116s000000a0038"/>
+      <para id="ch0116s000000p0035">RT-PCR methods are the most sensitive tests for RABV diagnosis. The sensitivity of RT-PCR depends in part on the sample (type and condition), the integrity of sample handling and storage to preclude contamination and degradation, the method of RNA extraction and RT-PCR, the primers selected for amplification, the quality of reagents, individual technical expertise, interpretation of the results, and confirmation methods. The usefulness of traditional RT-PCR as a routine diagnostic test on postmortem (fresh and fixed) CNS tissues is limited. Highly sensitive, broadly reactive, less expensive, and less time-consuming procedures for antigen detection by DFA testing and real-time RT-PCR are more efficient routine tests for rabies diagnosis and confirmatory testing. RT-PCR methods have been essential tools for molecular analysis for decades, but their greatest utility has been the detection of nucleic acid in non-CNS samples (e.g., antemortem saliva, skin, cornea impressions, tears, eye swabs, throat swabs, and postmortem vitreous fluid) when fresh CNS tissues may be unavailable. When all conditions are optimal, traditional RT-PCR can detect as little as 1 infectious unit of RABV. However, real-time or nested RT-PCR increases the sensitivity (10- to 100-fold) to below 1 infectious unit of virus (<link linkend="ch0116s000000li0031">31</link>, <link linkend="ch0116s000000li0032">32</link>). RNA may be limited or degraded in non-CNS samples, and real-time RT-PCR is routinely used on these samples. Until recently, the diversity among lyssaviruses and the lack of specific nondegenerate universal primers have discouraged the use of real-time PCR for detection of rabies virus RNA in non-CNS samples when the rabies virus variant or lyssavirus species is unknown. Recently, broadly reactive rapid real-time RT-PCR assays have been developed for the detection of all lyssaviruses. A newly developed real-time RT-PCR assay named LN34, which uses a combination of degenerate primers and probes, has been developed and validated at the CDC for antemortem human and confirmatory postmortem animal testing covered under CLIA (<link linkend="ch0116s000000li0033">33</link>, <link linkend="ch0116s000000li0034">34</link>). The testing has demonstrated sensitivity and specificity equal to that of the DFA test in evaluations to date. The primers and probes of the LN34 assay target the highly conserved noncoding leader region and part of the nucleoprotein coding sequence of the lyssavirus genome and have broad reactivity with all known lyssaviruses.</para>
+      <sect2 id="ch0116s0004s0001">
+        <title>ISOLATION PROCEDURES</title>
+        <anchor id="ch0116s000004a0002"/>
+        <anchor id="ch0116s000000a0039"/>
+        <para id="ch0116s000000p0036">Isolation methods are useful in detecting infectious virus in samples and are sometimes used as confirmatory test alternatives to the standard DFA test. Since there is a high potential for generation of aerosol or droplet production, virus isolation of phylogroup 1 lyssaviruses should be performed at the minimum recommended biosafety level, BSL-2 “with additional precautions, such inclusion of BSL-3 practices and procedures” (<link linkend="ch0116s000000li0020">20</link>). However, virus isolation of phylogroup 2 and 3 lyssaviruses must be performed at full BSL-3. Classical isolation methods include <emphasis>in vivo</emphasis> isolation in animals (usually intracerebral inoculation of suckling mice) and <emphasis>in vitro</emphasis> virus isolation in cell cultures. For most routine diagnostic needs, the inoculation of cell cultures such as mouse neuroblastoma (MNA; Lonza Inc., Walkersville, MD) or a similar alternative cell culture line, Neuro-2a (CCL 131; ATCC, Rockville, MD), provides the same sensitivity as animal inoculation but with quicker results and without the maintenance required for the use of laboratory animals. For these purposes, 0.4 ml of supernatant from a 20% brain suspension prepared in tissue culture medium with 10% fetal calf serum (MEM10) is inoculated into a suspension of 4 × 10<superscript>6</superscript> MNA cells/2 ml and incubated for 1 h at 37°C. To maximize infection of the cells, gentle mixing of the suspension is performed every 15 min. The cell suspension is diluted to a volume of 10 ml with MEM10, 6 ml is transferred to one 25-ml cell culture flask, and the remaining suspension (4 ml) is transferred to 12 Teflon-coated 6-mm slides (or other cell culture slides). At least one slide should be acetone fixed daily and examined by DFA testing for RABV antigen. At least one additional passage of the cell culture (performed in 3 to 5 days) is required to rule out rabies. Ideally, <emphasis>in vivo</emphasis> testing use should be reserved for efficacy and safety studies for biologics or virulence and pathogenesis studies. Cell cultures may be useful in the propagation, amplification, and quantification of virus and antibodies, the production of vaccines, determination of the safety of vaccine lots, and the study of rabies virus pathogenesis in particular cells (<link linkend="ch0116s000000li0035">35</link>, <link linkend="ch0116s000000li0036">36</link>).</para>
+      </sect2>
+      <sect2 id="ch0116s0004s0002">
+        <title>IDENTIFICATION</title>
+        <anchor id="ch0116s000004a0003"/>
+        <anchor id="ch0116s000000a0040"/>
+        <para id="ch0116s000000p0037">As described above in detail, identification of a<emphasis>Lyssavirus</emphasis> infection is made typically by direct examination of brain impressions and demonstration of specific viral inclusions (antigen) by DFA testing. Isolates are also identified in brains of inoculated mice and cell cultures by DFA testing. Electron microscopy may be used for the morphologic identification of lyssaviruses by examination of the virion ultrastructure in cell cultures or CNS tissues.</para>
+        <anchor id="ch0116s000000a0041"/>
+        <beginpage pagenum="1891"/>
+        <para id="ch0116s000000p0038">Further secondary characterization of<emphasis>Lyssavirus</emphasis> infection may be made by antigenic typing with MAbs, genetic typing with sequence analysis, or investigating patterns of cross-neutralization.</para>
+      </sect2>
+      <sect2 id="ch0116s0004s0003">
+        <title>TYPING SYSTEMS</title>
+        <anchor id="ch0116s000004a0004"/>
+        <anchor id="ch0116s000000a0042"/>
+        <para id="ch0116s000000p0039">Rabies viruses may be easily identified by antigenic and molecular methods as belonging to the broad groups of carnivore and bat variants. Through antigenic analysis, at least five major reservoirs are detectable among carnivores in the United States. Genetic typing adds resolution and identifies seven distinct virus lineages among the current variants. Antigenic typing is less useful in certain cases involving rabid bats. Nucleotide sequence analysis adds resolution when these bat variant samples and others are being studied. Typing methods are useful under a variety of circumstances, such as determining the RABV variants in human cases with unclear or unknown exposure histories, discovering the emergence of new viruses, monitoring the epidemiologic spread or reemergence of virus in defined geographical areas, detecting spillover or host switching of variants from the predominant host species to another species, and monitoring the success of rabies vaccination programs through characterization of positive samples.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0116s0005">
+      <title>Antigenic Typing</title>
+      <anchor id="ch0116s000005a0001"/>
+      <anchor id="ch0116s000000a0043"/>
+      <para id="ch0116s000000p0040">Antigenic typing with anti-rabies virus N protein MAbs can be performed by an IFA test on acetone-fixed brain impression slides or RABV-infected cell culture grown on slides or by the indirect rapid immunohistochemistry test on formalin-fixed brain impression slides or cell culture slides (<link linkend="ch0116s000000li0037">37</link>, <link linkend="ch0116s000000li0038">38</link>). If direct brain impressions are used, the best results are obtained when 75 to 100% of the microscope fields contain rabies virus antigen. If insufficient antigen is present, it is necessary to amplify the virus by inoculating cell cultures. A panel of seven commercially available murine anti-rabies virus N MAbs may be used to distinguish RABV variants by the different reaction patterns. Antigenic typing methods are less expensive, rapid, and easily performed to determine RABV variants in a few hours. Limitations include the necessity for amplification when antigen amounts are inadequate and a lack of resolution for certain terrestrial and bat rabies virus variants. If antigenic typing results are inconclusive, additional testing can be performed at reference laboratories such as the CDC, which has a more extensive panel of MAbs and resources for sequence analysis (<link linkend="ch0116s000000li0039">39</link>).</para>
+    </sect1>
+    <sect1 id="ch0116s0006">
+      <title>Nucleotide Sequence Analysis</title>
+      <anchor id="ch0116s000006a0001"/>
+      <anchor id="ch0116s000000a0044"/>
+      <para id="ch0116s000000p0041">Genetic typing methods for molecular epidemiologic studies have become more routine. The N gene has been the one most frequently used in molecular epidemiology studies. Historically, studies have focused the analyses on short sequences of less than 400 nucleotides; however, current technologies have expanded the focus from partial gene sequences to whole viral genomes (<link linkend="ch0116s000000li0001">1</link>–<link linkend="ch0116s000000li0004">4</link>). Currently, there are thousands of N gene sequences (complete and partial) in GenBank for comparison. Lyssavirus researchers typically focus on whole-genome analysis by second-generation sequencing methods and rarely use Sanger sequencing except for resolution of small or difficult regions (<link linkend="ch0116s000000li0005">5</link>). These data may assist in understanding evolutionary relationships between lyssaviruses (<link linkend="ch0116s000000a0008">Fig. 1</link>), understanding specific gene functions in host species, and predicting viral pathogenesis, replication, and virion formation.</para>
+      <sect2 id="ch0116s0006s0001">
+        <title>SEROLOGIC TESTS</title>
+        <anchor id="ch0116s000006a0002"/>
+        <anchor id="ch0116s000000a0045"/>
+        <para id="ch0116s000000p0042">The serologic tests for RABV antibody include rabies virus neutralization assays and antibody-binding assay methods. Each varies in sensitivity, specificity, type of antibody detected, and the viral antigen (protein) recognized. These methods are most robust when applied in parallel on sequential samples used to diagnose or monitor rabies in humans (<link linkend="ch0116s000000li0040">40</link>).</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0116s0007">
+      <title>Neutralization Tests</title>
+      <anchor id="ch0116s000007a0001"/>
+      <anchor id="ch0116s000000a0046"/>
+      <para id="ch0116s000000p0043">Neutralization tests are essential tools for the prediction of an adequate antibody response to immunization against rabies virus and for the specific diagnosis of rabies during the later stages of clinical rabies. Neutralization of RABV relies on the presence of antibodies directed to the outer glycoprotein rabies virus antigens; these are functional assays measuring performance, prevention of a known challenge dose of rabies virus to infect cells in culture. Historically, the test was performed in mice, but since the 1970s, it has been replaced by the RFFIT and a modification of it, the fluorescent-antibody virus neutralization test (FAVN) (performed in 96-well microtiter plates). Both of these test methods measure the ability of RABV antibodies in serum or CSF samples to neutralize a known standard challenge virus dose. The RFFIT and FAVN are most frequently used to determine the immunization status of vaccinated humans and animals, respectively. When performed in qualified laboratories by qualified personnel, both test methods demonstrate acceptable and similar sensitivity and specificity in determining RABV-neutralizing antibodies. These test results are best compared when converted to international units per milliliter on the basis of<emphasis>a priori</emphasis> criteria specifying acceptable performance of an international reference standard in each particular run of an assay method (<link linkend="ch0116s000000li0040">40</link>–<link linkend="ch0116s000000li0043">43</link>).</para>
+    </sect1>
+    <sect1 id="ch0116s0008">
+      <title>IFA Tests</title>
+      <anchor id="ch0116s000008a0001"/>
+      <anchor id="ch0116s000000a0047"/>
+      <para id="ch0116s000000p0044">IFA tests are sensitive methods for detection of IgM and IgG antibodies that have bound to rabies virus antigen within infected cells. Binding activity may be present in human serum and CSF and is thus a useful component of the battery of tests applied for antemortem diagnosis (<link linkend="ch0116s000000li0030">30</link>, <link linkend="ch0116s000000li0039">39</link>). It appears that the IFA test may measure antibodies against internal RABV proteins such as RNP rather than rabies G surface protein. Serum or CSF samples are titrated and added to acetone-fixed cell culture slides infected with a RABV challenge virus strain (CVS-11). The endpoint antibody titer is the last dilution demonstrating specific fluorescence. IFA titers are not comparable with levels of <emphasis>in vivo</emphasis> virus-neutralizing antibody to the rabies virus G surface proteins.</para>
+      <sect2 id="ch0116s0008s0001">
+        <title>ANTIVIRAL SUSCEPTIBILITIES</title>
+        <anchor id="ch0116s000008a0002"/>
+        <anchor id="ch0116s000000a0048"/>
+        <para id="ch0116s000000p0045">As described above, no specific rabies antiviral biologics are currently licensed, and the prognosis remains inexorably grim. Once clinical signs are present, rabies remains fatal in more than 99% of cases. For the most current information on experimental recommendations and approaches, consult the rabies registry at the Medical College of Wisconsin website:<ulink url="https://www.mcw.edu/Pediatrics/Infectious-Diseases/Patient-Care/Rabies.htm">https://www.mcw.edu/Pediatrics/Infectious-Diseases/Patient-Care/Rabies.htm</ulink>.</para>
+      </sect2>
+      <sect2 id="ch0116s0008s0002">
+        <title>EVALUATION, INTERPRETATION, AND REPORTING OF RESULTS</title>
+        <anchor id="ch0116s000008a0003"/>
+        <anchor id="ch0116s000000a0049"/>
+        <anchor id="ch0116s000000a0050"/>
+        <para id="ch0116s000000p0046">Written protocols, which include quality assurance and quality control measures, are essential for all diagnostic tests. All reagents for antigen detection should be optimized before use with known positive samples from two or more RABV variants endemic to the geographic region and known negative control samples. The accuracy and limitations of each diagnostic test should be understood before interpretation of the test results (<link linkend="ch0116s000000a0019">Table 1</link>). The national standard protocol in the United States for rabies diagnosis in postmortem brain tissues is the DFA test. Procedural requirements of the standard DFA test, DRIT, real-time RT-PCR, and isolation methods maximize sensitivity by testing the CNS tissues most likely to be positive in rabid animals (brain stem and cerebellum). The problem of cross-contamination in direct detection and amplification methods can be avoided by processing necropsy samples separately, using separate containers for acetone fixation and rinse steps of DFA tests, and using different dedicated laboratory areas for processing RNA and cDNA samples for RT-PCR. Multiple readers are required to evaluate each of the diagnostic tests and provide quality assurance. Confirmatory DFA testing is required for all rabies diagnostic tests with weak reactions or unusual results (atypical morphology, atypical reactions patterns, and epidemiologic inconsistencies). Samples with nonspecific reactions and inconclusive results should be sent to a reference laboratory for confirmation and alternative testing methods. The incorporation of the CLIA-validated LN34 real-time RT-PCR assay as an additional confirmatory test increases confidence in resolution of indeterminate DFA tests. The timeliness of reporting results directly affects medical intervention in humans and management of exposed animals. Ideally, a primary rabies diagnosis from CNS tissues of suspect animals (or humans) should be made in 24 to 48 h so that potentially exposed humans and animals may be appropriately managed for the optimal prevention of human and animal rabies.</para>
+        <para id="ch0116s000000p0047"><emphasis>We thank Michael Niezgoda for providing photomicrographs and Lauren Hovis for assisting in file management. We also acknowledge the contributions of other members of the CDC Poxvirus and Rabies Branch</emphasis>.</para>
+        <para id="ch0116s000000p0048"><emphasis>Use of trade names and commercial sources is for identification only and does not imply endorsement by the U.S. Department of Health and Human Services. The findings and conclusions in this report are those of the authors and do not necessarily represent the views of the funding agency</emphasis>.</para>
+      </sect2>
+      <sect2 id="ch0116s0008s0003">
+        <title>REFERENCES</title>
+        <anchor id="ch0116s000008a0004"/>
+        <anchor id="ch0116s000000a0051"/>
+        <itemizedlist mark="none" role="biblioEntryList">
+          <listitem id="ch0116s000000li0001" role="bibliographyEntry">
+            <para>1.<emphasis role="strong">Walker PJ, Freitas-Astua J, Bejerman N, Blasdell KR, Breyta R, Dietzgen RG, Fooks AR, Kondo H, Kurath G, Kuzmin IV, Ramos-Gonzalez PL, Shi M, Stone DM, Tesh RB, Tordo N, Vasilakis N, Whitfield AE, ICTV Report Consortium.</emphasis> 2018. ICTV virus taxonomy profile: Rhabdoviridae 2022. <citetitle><emphasis>J Gen Virol</emphasis></citetitle> <emphasis role="strong">103:</emphasis>1689.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0002" role="bibliographyEntry">
+            <para>2.<emphasis role="strong">ICTV.</emphasis> 2021. Virus taxonomy: 2021 release EC, online July 2021, email ratification March 2022 (MSL#37). <ulink url="https://ictv.global/report/chapter/rhabdoviridae/rhabdoviridae/lyssavirus">https://ictv.global/report/chapter/rhabdoviridae/rhabdoviridae/lyssavirus</ulink>.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0003" role="bibliographyEntry">
+            <para>3.<emphasis role="strong">Marston DA, Ellis RJ, Wise EL, Aréchiga-Ceballos N, Freuling CM, Banyard AC, McElhinney LM, de Lamballerie X, Müller T, Fooks AR, Echevarría JE.</emphasis> 2017. Complete genome sequence of Lleida bat lyssavirus. <citetitle><emphasis>Genome Announc</emphasis></citetitle> <emphasis role="strong">5:</emphasis>e01427-16.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0004" role="bibliographyEntry">
+            <para>4.<emphasis role="strong">Leopardi S, Barneschi E, Manna G, Zecchin B, Priori P, Drzewnioková P, Festa F, Lombardo A, Parca F, Scaravelli D, Maroni Ponti A, De Benedictis P.</emphasis> 2021. Spillover of West Caucasian bat lyssavirus (WCBV) in a domestic cat and westward expansion in the Palearctic region. <citetitle><emphasis>Viruses</emphasis></citetitle> <emphasis role="strong">13:</emphasis>2064.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0005" role="bibliographyEntry">
+            <para>5.<emphasis role="strong">Calvelage S, Tammiranta N, Nokireki T, Gadd T, Eggerbauer E, Zaeck LM, Potratz M, Wylezich C, Höper D, Müller T, Finke S, Freuling CM.</emphasis> 2021. Genetic and antigenetic characterization of the novel Kotalahti bat lyssavirus (KBLV). <citetitle><emphasis>Viruses</emphasis></citetitle> <emphasis role="strong">13:</emphasis>69.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0006" role="bibliographyEntry">
+            <para>6.<emphasis role="strong">Wiktor TJ, Flamand A, Koprowski H.</emphasis> 1980. Use of monoclonal antibodies in diagnosis of rabies virus infection and differentiation of rabies and rabies-related viruses. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">1:</emphasis>33–46.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0007" role="bibliographyEntry">
+            <para>7.<emphasis role="strong">Evans JS, Wu G, Selden D, Buczkowski H, Thorne L, Fooks AR, Banyard AC.</emphasis> 2018. Utilisation of chimeric lyssaviruses to assess vaccine protection against highly divergent lyssaviruses. <citetitle><emphasis>Viruses</emphasis></citetitle> <emphasis role="strong">10:</emphasis>130.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0008" role="bibliographyEntry">
+            <para>8.<emphasis role="strong">Wunner WH.</emphasis> 2007. Rabies virus, p 23–68. <citetitle><emphasis>In</emphasis></citetitle> Jackson AC, Wunner WH (ed), <citetitle><emphasis>Rabies</emphasis></citetitle>, 2nd ed. Academic Press, San Diego, CA.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0009" role="bibliographyEntry">
+            <para>9.<emphasis role="strong">Mebatsion T, Weiland F, Conzelmann K-K.</emphasis> 1999. Matrix protein of rabies virus is responsible for the assembly and budding of bullet-shaped particles and interacts with the transmembrane spike glycoprotein G. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">73:</emphasis>242–250.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0010" role="bibliographyEntry">
+            <para>10.<emphasis role="strong">Brown CM, Slavinski S, Ettestad P, Sidwa TJ, Sorhage FE, National Association of State Public Health Veterinarians, Compendium of Animal Rabies Prevention and Control Committee.</emphasis> 2016. Compendium of animal rabies prevention and control, 2016. <citetitle><emphasis>J Am Vet Med Assoc</emphasis></citetitle> <emphasis role="strong">248:</emphasis>505–517.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0011" role="bibliographyEntry">
+            <para>11.<emphasis role="strong">Maki J, Guiot A-L, Aubert M, Brochier B, Cliquet F, Hanlon CA, King R, Oertli EH, Rupprecht CE, Schumacher C, Slate D, Yakobson B, Wohlers A, Lankau EW.</emphasis> 2017. Oral vaccination of wildlife using a vaccinia-rabies-glycoprotein recombinant virus vaccine (RABORAL V-RG<superscript>®</superscript>): a global review. <citetitle><emphasis>Vet Res (Faisalabad)</emphasis></citetitle> <emphasis role="strong">48:</emphasis>57.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0012" role="bibliographyEntry">
+            <para>12.<emphasis role="strong">Gilbert A, Johnson S, Walker N, Wickham C, Beath A, VerCauteren K.</emphasis> 2018. Efficacy of Ontario rabies vaccine baits (ONRAB) against rabies infection in raccoons. <citetitle><emphasis>Vaccine</emphasis></citetitle> <emphasis role="strong">36</emphasis>(32 Pt B):4919–4926.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0013" role="bibliographyEntry">
+            <para>13.<emphasis role="strong">Albertini AA, Baquero E, Ferlin A, Gaudin Y.</emphasis> 2012. Molecular and cellular aspects of rhabdovirus entry. <citetitle><emphasis>Viruses</emphasis></citetitle> <emphasis role="strong">4:</emphasis>117–139.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0014" role="bibliographyEntry">
+            <para>14.<emphasis role="strong">Dietzschold B, Li J, Faber M, Schnell M.</emphasis> 2008. Concepts in the pathogenesis of rabies. <citetitle><emphasis>Future Virol</emphasis></citetitle> <emphasis role="strong">3:</emphasis>481–490.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0015" role="bibliographyEntry">
+            <para>15.<emphasis role="strong">Hooper DC, Roy A, Kean RB, Phares TW, Barkhouse DA.</emphasis> 2011. Therapeutic immune clearance of rabies virus from the CNS. <citetitle><emphasis>Future Virol</emphasis></citetitle> <emphasis role="strong">6:</emphasis>387–397.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0016" role="bibliographyEntry">
+            <para>16.<emphasis role="strong">Ma X, Bonaparte S, Toro M, Orciari LA, Gigante CM, Kirby JD, Chipman RB, Fehlner-Gardiner C, Cedillo VG, Aréchiga-Ceballos N, Rao AK, Petersen BW, Wallace RM.</emphasis> 2022. Rabies surveillance in the United States during 2020. <citetitle><emphasis>J Am Vet Med Assoc</emphasis></citetitle> <emphasis role="strong">260:</emphasis>1157–1165.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0017" role="bibliographyEntry">
+            <para>17.<emphasis role="strong">World Health Organization.</emphasis> 2018. World Health Organization Expert Consultation on Rabies, third report. <citetitle><emphasis>WHO Tech Rep Ser</emphasis></citetitle> <emphasis role="strong">2018:</emphasis>1–183.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0018" role="bibliographyEntry">
+            <para>18.<emphasis role="strong">Center for Disease Control.</emphasis> 1977. Follow-up on rabies—New York. <citetitle><emphasis>MMWR Morb Mortal Wkly Rep</emphasis></citetitle> <emphasis role="strong">26:</emphasis>249–250.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0019" role="bibliographyEntry">
+            <para>19.<emphasis role="strong">Winkler WG, Fashinell TR, Leffingwell L, Howard P, Conomy P.</emphasis> 1973. Airborne rabies transmission in a laboratory worker. <citetitle><emphasis>JAMA</emphasis></citetitle> <emphasis role="strong">226:</emphasis>1219–1221.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0020" role="bibliographyEntry">
+            <para>20.<emphasis role="strong">Meechan PJ, Potts J (ed).</emphasis> 2020. <citetitle><emphasis>Biosafety in Microbiological and Biomedical Laboratories</emphasis></citetitle>, 6th ed. U.S. Department of Health and Human Services publication no. (CDC) 300859. U.S. Department of Health and Human Services, Washington, DC. <ulink url="https://www.cdc.gov/labs/pdf/SF__19_308133-A_BMBL6_00-BOOK-WEB-final-3.pdf">https://www.cdc.gov/labs/pdf/SF__19_308133-A_BMBL6_00-BOOK-WEB-final-3.pdf</ulink>.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0021" role="bibliographyEntry">
+            <para>21.<emphasis role="strong">Aiello R, Zecchin B, Tiozzo Caenazzo S, Cattoli G, De Benedictis P.</emphasis> 2016. Disinfection protocols for necropsy equipment in rabies laboratories: safety of personnel and diagnostic outcome. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">234:</emphasis>75–79.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0022" role="bibliographyEntry">
+            <para>22.<emphasis role="strong">Jackson AC.</emphasis> 2007. Human disease, p 309–340. <citetitle><emphasis>In</emphasis></citetitle> Jackson AC, Wunner WH (ed), <citetitle><emphasis>Rabies</emphasis></citetitle>, 2nd ed. Academic Press, San Diego, CA.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0023" role="bibliographyEntry">
+            <para>23.<emphasis role="strong">Willoughby RE Jr.</emphasis> 2009. “Early death” and the contraindication of vaccine during treatment of rabies. <citetitle><emphasis>Vaccine</emphasis></citetitle> <emphasis role="strong">27:</emphasis>7173–7177.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0024" role="bibliographyEntry">
+            <para>24.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2010. Use of (4-dose) reduced vaccine schedule for post-exposure prophylaxis to prevent human rabies, recommendations of the Advisory Committee on Immunization Practices. <citetitle><emphasis>MMWR Recomm Rep</emphasis></citetitle> <emphasis role="strong">59</emphasis>(RR-2)<emphasis role="strong">:</emphasis>1–9.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0025" role="bibliographyEntry">
+            <para>25.<emphasis role="strong">Rao AK, Briggs D, Moore SM, Whitehill F, Campos-Outcalt D, Morgan RL, Wallace RM, Romero JR, Bahta L, Frey SE, Blanton JD, Centers for Disease Control and Prevention. 2022.</emphasis> Use of a modified preexposure prophylaxis vaccination schedule to prevent human rabies: recommendations of the Advisory Committee on Immunization Practices - United States, 2022. <citetitle><emphasis>MMWR Morb Mortal Wkly Rep</emphasis></citetitle> <emphasis role="strong">71:</emphasis>619–627.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0026" role="bibliographyEntry">
+            <para>26.<emphasis role="strong">Tierkel ES, Atanasiu P.</emphasis> 1996. Rapid microscopic examination for Negri bodies and preparation of specimens for biological tests, p 55–65. <citetitle><emphasis>In</emphasis></citetitle> Meslin FX, Kaplan MM, Koprowski H (ed), <citetitle><emphasis>Laboratory Techniques in Rabies</emphasis></citetitle>, 4th ed. World Health Organization, Geneva, Switzerland.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0027" role="bibliographyEntry">
+            <para>27.<emphasis role="strong">World Health Organization.</emphasis> 2018. Transmission electron microscopy in rabies diagnosis, ultrastructural studies and research, p 96–107. <citetitle><emphasis>In</emphasis></citetitle> Rupprecht CE, Fooks AR, Abela-Ridder B (ed), <citetitle><emphasis>Laboratory Techniques in Rabies</emphasis></citetitle>, 5th ed. World Health Organization, Geneva, Switzerland.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0028" role="bibliographyEntry">
+            <para>28.<emphasis role="strong">Lembo T, Niezgoda M, Velasco-Villa A, Cleaveland S, Ernest E, Rupprecht CE.</emphasis> 2006. Evaluation of a direct, rapid immunohistochemical test for rabies diagnosis. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">12:</emphasis>310–313.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0029" role="bibliographyEntry">
+            <para>29.<emphasis role="strong">Whitfield SG</emphasis>, <emphasis role="strong">Fekadu M</emphasis>, <emphasis role="strong">Shaddock JH</emphasis>, <emphasis role="strong">Niezgoda M</emphasis>, <emphasis role="strong">Warner CK</emphasis>, <emphasis role="strong">Messenger SL</emphasis>, <emphasis role="strong">Rabies Working Group.</emphasis> 2001. A comparative study of the fluorescent antibody test for rabies diagnosis in fresh and formalin-fixed brain tissue specimens. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">95:</emphasis>145–151.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0030" role="bibliographyEntry">
+            <para>30.<emphasis role="strong">Hamir AN, Moser G, Fu ZF, Dietzschold B, Rupprecht CE.</emphasis> 1995. Immunohistochemical test for rabies: identification of a diagnostically superior monoclonal antibody. <citetitle><emphasis>Vet Rec</emphasis></citetitle> <emphasis role="strong">136:</emphasis>295–296.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0031" role="bibliographyEntry">
+            <para>31.<emphasis role="strong">Noah DL, Drenzek CL, Smith JS, Krebs JW, Orciari L, Shaddock J, Sanderlin D, Whitfield S, Fekadu M, Olson JG, Rupprecht CE, Childs JE.</emphasis> 1998. Epidemiology of human rabies in the United States, 1980 to 1996. <citetitle><emphasis>Ann Intern Med</emphasis></citetitle> <emphasis role="strong">128:</emphasis>922–930.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0032" role="bibliographyEntry">
+            <para>32.<emphasis role="strong">Orciari LA, Niezgoda M, Hanlon CA, Shaddock JH, Sanderlin DW, Yager PA, Rupprecht CE.</emphasis> 2001. Rapid clearance of SAG-2 rabies virus from dogs after oral vaccination. <citetitle><emphasis>Vaccine</emphasis></citetitle> <emphasis role="strong">19:</emphasis>4511–4518.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0033" role="bibliographyEntry">
+            <para>33.<emphasis role="strong">Wadhwa A, Wilkins K, Gao J, Condori RE, Gigante CM, Zhao H, Ma X, Ellison JA, Greenberg L, Velasco-Villa A, Orciari L, Li Y.</emphasis> 2017. A pan-lyssavirus Taqman real-time RT-PCR assay for the detection of highly variable rabies virus and other lyssaviruses. <citetitle><emphasis>PLoS Negl Trop Dis</emphasis></citetitle> <emphasis role="strong">11:</emphasis>e0005258.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0034" role="bibliographyEntry">
+            <para>34.<emphasis role="strong">Gigante CM, Dettinger L, Powell JW, Seiders M, Condori REC, Griesser R, Okogi K, Carlos M, Pesko K, Breckenridge M, Simon EMM, Chu MYJV, Davis AD, Brunt SJ, Orciari L, Yager P, Carson WC, Hartloge C, Saliki JT, Sanchez S, Deldari M, Hsieh K, Wadhwa A, Wilkins K, Peredo VY, Rabideau P, Gruhn N, Cadet R, Isloor S, Nath SS, Joseph T, Gao J, Wallace R, Reynolds M, Olson VA, Li Y.</emphasis> 2018. Multi-site evaluation of the LN34 pan-lyssavirus real-time RT-PCR assay for post-mortem rabies diagnostics. <citetitle><emphasis>PLoS One</emphasis></citetitle> <emphasis role="strong">13:</emphasis>e0197074.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0035" role="bibliographyEntry">
+            <para>35.<emphasis role="strong">Webster LT, Dawson JR.</emphasis> 1935. Early diagnosis of rabies by mouse inoculation. Measurement of humoral immunity to rabies by mouse protection test. <citetitle><emphasis>Proc Soc Exp Biol Med</emphasis></citetitle> <emphasis role="strong">32:</emphasis>570–573.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0036" role="bibliographyEntry">
+            <para>36.<emphasis role="strong">Webster WA, Casey GA.</emphasis> 1996. Virus isolation in neuroblastoma cell culture, p 96–104. <citetitle><emphasis>In</emphasis></citetitle> Meslin FX, Kaplan MM, Koprowski H (ed), <citetitle><emphasis>Laboratory Techniques in Rabies</emphasis></citetitle>, 4th ed. World Health Organization, Geneva, Switzerland.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0037" role="bibliographyEntry">
+            <para>37.<emphasis role="strong">Dyer JL, Niezgoda M, Orciari LA, Yager PA, Ellison JA, Rupprecht CE.</emphasis> 2013. Evaluation of an indirect rapid immunohistochemistry test for the differentiation of rabies virus variants. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">190:</emphasis>29–33.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0038" role="bibliographyEntry">
+            <para>38.<emphasis role="strong">Smith JS.</emphasis> 1989. Rabies virus epitopic variation: use in ecologic studies. <citetitle><emphasis>Adv Virus Res</emphasis></citetitle> <emphasis role="strong">36:</emphasis>215–253.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0039" role="bibliographyEntry">
+            <para>39.<emphasis role="strong">Velasco-Villa A, Messenger SL, Orciari LA, Niezgoda M, Blanton JD, Fukagawa C, Rupprecht CE.</emphasis> 2008. New rabies virus variant in Mexican immigrant. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">14:</emphasis>1906–1908.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0040" role="bibliographyEntry">
+            <para>40.<emphasis role="strong">Smith JS, Yager PA, Baer GM.</emphasis> 1996. A rapid fluorescent focus inhibition test (RFFIT) for determining rabies virus neutralizing antibody, p 181–192. <citetitle><emphasis>In</emphasis></citetitle> Meslin FX, Kaplan MM, Koprowski H (ed), <citetitle><emphasis>Laboratory Techniques in Rabies</emphasis></citetitle>, 4th ed. World Health Organization, Geneva, Switzerland.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0041" role="bibliographyEntry">
+            <para>41.<emphasis role="strong">Vora NM, Basavaraju SV, Feldman KA, Paddock CD, Orciari L, Gitterman S, Griese S, Wallace RM, Said M, Blau DM, Selvaggi G, Velasco-Villa A, Ritter J, Yager P, Kresch A, Niezgoda M, Blanton J, Stosor V, Falta EM, Lyon GM III, Zembower T, Kuzmina N, Rohatgi PK, Recuenco S, Zaki S, Damon I, Franka R, Kuehnert MJ, Transplant-Associated Rabies Virus Transmission Investigation Team.</emphasis> 2013. Raccoon rabies virus variant transmission through solid organ transplantation. <citetitle><emphasis>JAMA</emphasis></citetitle> <emphasis role="strong">310:</emphasis>398–407.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0042" role="bibliographyEntry">
+            <para>42.<emphasis role="strong">Briggs DJ, Smith JS, Mueller FL, Schwenke J, Davis RD, Gordon CR, Schweitzer K, Orciari LA, Yager PA, Rupprecht CE.</emphasis> 1998. A comparison of two serological methods for detecting the immune response after rabies vaccination in dogs and cats being exported to rabies-free areas. <citetitle><emphasis>Biologicals</emphasis></citetitle> <emphasis role="strong">26:</emphasis>347–355.</para>
+          </listitem>
+          <listitem id="ch0116s000000li0043" role="bibliographyEntry">
+            <para>43.<emphasis role="strong">Cliquet F, Aubert M, Sagné L.</emphasis> 1998. Development of a fluorescent antibody virus neutralisation test (FAVN test) for the quantitation of rabies-neutralising antibody. <citetitle><emphasis>J Immunol Methods</emphasis></citetitle> <emphasis role="strong">212:</emphasis>79–87.</para>
+          </listitem>
+        </itemizedlist>
+        <anchor id="ch0116s000000a0052"/>
+        <beginpage pagenum="1893"/>
+      </sect2>
+    </sect1>
+  </chapter>

@@ -1,0 +1,1196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0139">
+    <title>118 Specimen Collection, Transport, and Processing: Mycology</title>
+    <sect1 id="ch0139s0001">
+      <title>118 Specimen Collection, Transport, and Processing: Mycology</title>
+      <anchor id="ch0139s000001a0001"/>
+      <anchor id="ch0139s000000a0001"/>
+      <para id="ch0139s000000p0001" role="chapterAuthor">ELIZABETH L. BERKOW AND D. JOSEPH SEXTON</para>
+      <sect2 id="ch0139s0001s0001">
+        <title>SPECIMEN COLLECTION AND TRANSPORT</title>
+        <anchor id="ch0139s000001a0002"/>
+        <anchor id="ch0139s000000a0002"/>
+        <para id="ch0139s000000p0002">As in bacteriology, the goals of a good mycology laboratory are to accurately isolate and identify fungi suspected of causing infection. It is the laboratory’s responsibility to ensure that specimens are appropriate for the requested test and to provide submitters with the guidelines for proper specimen selection, collection, and transport to the laboratory. This section provides general information related to fungal culture from various specimens and is based on historical practice that has been successful. Ultimately, however, each laboratory should establish the acceptable length of time between specimen collection and specimen testing, as well as the conditions under which specimens should be transported to the laboratory.</para>
+        <para id="ch0139s000000p0003"><anchor id="ch0139s000000a0003"/><link linkend="ch0139s000000a0007">Table 1</link> is a listing of the types of specimens most commonly submitted for fungal culture (<link linkend="ch0139s000000li0001">1</link>–<link linkend="ch0139s000000li0003">3</link>) (<anchor id="ch0139s000000a0004"/><link linkend="ch0139s000000a0011">Fig. 1</link>). Once collected properly, all specimens should be transported in leakproof sterile containers and processed as soon as possible. Anaerobic transport media and anaerobic containers should never be used for fungi. Fungi are quite resilient, but because some fungi can be affected by temperatures above 37°C and below 10°C, transport at room temperature is recommended. Dermatophytes are particularly sensitive to cold temperatures. With the exception of skin, hair, and nails, specimens that contain normal bacterial biota should be transported as rapidly as possible, because bacterial overgrowth can inhibit slower-growing fungi as well as reducing fungal viability. If such specimens cannot be transported to the laboratory within 2 h, they should be stored at 4°C.</para>
+        <para id="ch0139s000000p0004">As with other infectious diseases, the best specimen for determining the causative agent comes from the site of active infection (e.g., cerebrospinal fluid [CSF] for meningitis). For a number of fungal diseases, however, peripheral specimens as well as specimens from the active site may also be useful.<anchor id="ch0139s000000a0005"/><link linkend="ch0139s000000a0019">Table 2</link> is a listing of the clinical sites associated with recovery of different pathogenic fungi. Laboratories should not hesitate to suggest that peripheral specimens be taken when specific fungal diseases are suspected. Prostate fluid, for example, is an excellent high-yield specimen when endemic mycoses are suspected, but it is a specimen not often submitted to clinical laboratories (<link linkend="ch0139s000000li0004">4</link>–<link linkend="ch0139s000000li0008">8</link>).</para>
+        <para id="ch0139s000000p0005">Fortunately, many of the specimen collection and transport guidelines for mycology are similar to those used in bacteriology. In instances where they differ, it is critical to convey that information to physicians and nurses. One such difference is in specimen volume. The volume of material required for fungal cultures usually exceeds that used in bacteriology, because several types of specimens (body fluids, respiratory secretions, etc.) need to be concentrated or pretreated prior to plating to maximize recovery of fungi. In general, except for a few specific sites noted in<link linkend="ch0139s000000a0007">Table 1</link>, specimens submitted on swabs are not optimal for recovering fungi, and this practice should be discouraged.</para>
+        <para id="ch0139s000000p0006">Mycology laboratories should be encouraged to offer physicians different types of fungal cultures. The choice of medium used for primary isolation as well as the length and temperature of incubation can vary with the culture request. For example, fungal culture choices can include a dermatophyte culture for hair, skin, and nail specimens; a rule-out<emphasis>Candida</emphasis> culture for vaginal, urine, skin, and throat specimens; and fungal blood culture (lysis-centrifugation culture). By choosing the culture type, physicians can signal the laboratory when they suspect a specific pathogen, which can often reduce the time that cultures need to be kept in the laboratory.</para>
+      </sect2>
+      <sect2 id="ch0139s0001s0002">
+        <title>SPECIMEN HANDLING, PRETREATMENT, AND SAFETY</title>
+        <anchor id="ch0139s000001a0003"/>
+        <anchor id="ch0139s000000a0006"/>
+        <para id="ch0139s000000p0007">If specimens that are unacceptable for any reason are received in the laboratory, they should be rejected and the appropriate physicians should be notified. Poor-quality specimens can result in incorrect information, including false-negative results. As required by the Joint Commission (an independent organization which accredits and certifies health care programs in the United States, formerly called JCAHO), a requisition must accompany each specimen and must include the following: patient name, age, sex, and location or address, physician name, specific culture site, date and time of specimen collection, name of the person who collected the specimen, clinical diagnosis, and any special culture request. In addition, each specimen must have a firmly attached label indicating the patient name, location, physician, and date and time of collection (<link linkend="ch0139s000000li0009">9</link>).</para>
+        <table id="ch0139s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0139s000000a0007"/><link linkend="ch0139s000000a0003">TABLE 1</link></phrase></emphasis> Specimen collection and transport guidelines<superscript><emphasis><anchor id="ch0139s000000a0008"/><link linkend="ch0139s000000a0009">a</link></emphasis></superscript>
+</title>
+          
+          <tgroup cols="5">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Specimen type</phrase></entry>
+                <entry><phrase role="center">Collection procedure</phrase></entry>
+                <entry><phrase role="center">Processing procedure</phrase></entry>
+                <entry><phrase role="center">Transport time and temp</phrase></entry>
+                <entry><phrase role="center">Comments</phrase></entry>
+              </row>
+              <row>
+                <entry>Abscess (drainage, exudate, pus, wound)</entry>
+                <entry>Clean surface with 70% alcohol. Collect from active peripheral edge with sterile needle and syringe. If open, use swab system or aspirate.</entry>
+                <entry>If thick, pretreat similar to sputum specimen.</entry>
+                <entry>If ≤2 h, RT</entry>
+                <entry>Examine for grains or granules and note color if present.</entry>
+              </row>
+              <row>
+                <entry>Blood</entry>
+                <entry>Disinfect skin with iodine tincture or chlorhexidine prior to obtaining (<link linkend="ch0139s000000li0002">2</link>). Use maximum volume of blood recommended for the system used.</entry>
+                <entry>Manual</entry>
+                <entry>If ≤2 h, RT; if longer, RT</entry>
+                <entry>All systems for bacteria will recover all yeasts except for<emphasis>Malassezia spp. but will not recover molds.</emphasis></entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Biphasic (Septi-Chek)</entry>
+                <entry>If ≤2 h, RT; if longer, RT</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Automated (Bactec [BD Diagnostics, Sparks, MD], BacT/ALERT [bioMérieux, Durham, NC], VersaTREK [TREK Diagnostic Systems, Cleveland, OH])</entry>
+                <entry>If ≤2 h, RT; if longer, RT</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Lysis-centrifugation (manual or Isolator)</entry>
+                <entry>If ≤2 h, RT; if longer, RT but process in ≤16 h</entry>
+                <entry>Lysis-centrifugation systems are good for recovery of molds, especially those causing endemic mycoses. They give high contamination and false-positive rates.</entry>
+              </row>
+              <row>
+                <entry>Bone marrow</entry>
+                <entry>Collect aseptically in a heparinized syringe or lysis-centrifugation tube.</entry>
+                <entry>Clotted bone marrow is an unacceptable specimen.</entry>
+                <entry>If ≤15 min, RT; if longer, RT</entry>
+                <entry>Pediatric Isolator tubes are best.</entry>
+              </row>
+              <row>
+                <entry>Catheter tip (intravascular)</entry>
+                <entry>Remove distal 3–5 cm of line tip and place in sterile container.</entry>
+                <entry>Method of Maki et al. (<link linkend="ch0139s000000li0042">42</link>); used for catheter tips but not validated for fungi.</entry>
+                <entry>If ≤15 min, RT; if longer, 4°C</entry>
+                <entry>Avoid media containing cycloheximide.</entry>
+              </row>
+              <row>
+                <entry>Cutaneous (hair, skin nails)</entry>
+                <entry><para id="ch0139s000000p0008">Disinfect all types with 70% alcohol.</para>
+                  <para id="ch0139s000000p0009">Hair: hair root is most important, so plucking is best; submit 10–12 hairs in sterile dry container or envelope.</para>
+                  <para id="ch0139s000000p0010">Skin: scrape with dull edge of a scalpel or glass slide, or vigorously brush in a circular motion with a soft-bristle toothbrush.</para>
+                  <para id="ch0139s000000p0011">Nails: clip or scrape with a scalpel. Material under nail should also be scraped. Submit in sterile container or clean, dry paper envelope.</para>
+                </entry>
+                <entry><para id="ch0139s000000p0012">Only the leading edge of a lesion should be sampled, as centers are often nonviable.</para>
+                  <para id="ch0139s000000p0013">All specimens should be pressed gently into the agar with a sterile swab; do not streak agar plates. If used, toothbrushes should be pressed gently into agar as well.</para>
+                </entry>
+                <entry><para id="ch0139s000000p0014">If ≤72 h, RT (very stable)</para>
+                  <para id="ch0139s000000p0015">Never refrigerate, as dermatophytes are sensitive to cold.</para>
+                </entry>
+                <entry><para id="ch0139s000000p0016">Select hairs which fluoresce under a Wood’s light.</para>
+                  <para id="ch0139s000000p0017">Hair and skin can be collected with soft-bristle toothbrush.</para>
+                  <para id="ch0139s000000p0018">For pityriasis versicolor (<emphasis>M. furfur</emphasis>), olive oil or a paper disc saturated with olive oil should be placed on the first quadrant of agar plate.</para>
+                </entry>
+              </row>
+              <row>
+                <entry>Eye (corneal scraping, vitreous humor)</entry>
+                <entry><para id="ch0139s000000p0019">Corneal scraping: taken by physicians and media/slides inoculated directly.</para>
+                  <para id="ch0139s000000p0020">Vitreous humor: needle aspiration.</para>
+                </entry>
+                <entry><para id="ch0139s000000p0021">Corneal scraping: inoculate noninhibitory media in X- or C-shape motion.</para>
+                  <para id="ch0139s000000p0022">Vitreous humor: concentrate by centrifugation, use sediment for media and smears.</para>
+                </entry>
+                <entry><para id="ch0139s000000p0023">Corneal scraping: if ≤15 min, RT; if longer, RT</para>
+                  <para id="ch0139s000000p0024">Vitreous humor: if ≤15 min, RT; if longer, RT</para>
+                </entry>
+                <entry>Very little material usually available. Avoid media with cycloheximide.</entry>
+              </row>
+              <row>
+                <entry>Medical devices</entry>
+                <entry>Collected surgically. Transport in sterile container.</entry>
+                <entry>Use sterile scalpel to collect (by scraping) biofilm or vegetative growth.</entry>
+                <entry>If ≤15 min, RT; if longer, 4°C</entry>
+                <entry><para id="ch0139s000000p0025">Avoid media containing cycloheximide.</para>
+                  <para id="ch0139s000000p0026">Device material recovered best by using liquid medium.</para>
+                </entry>
+              </row>
+              <row>
+                <entry>Prostate fluid</entry>
+                <entry>Have patient empty bladder and then massage prostate gland to yield fluid.</entry>
+                <entry>Inoculate media directly or transport in sterile wide-mouth container.</entry>
+                <entry>If ≤15 min, RT; if longer, RT</entry>
+                <entry>Fluid should always be examined microscopically. The first urine following massage has a high yield. This fluid is excellent for detection of endemic mycoses.</entry>
+              </row>
+              <row>
+                <entry>Respiratory tract, lower (sputum, bronchial aspirate, BAL fluid)</entry>
+                <entry>Use first morning sputum collected after brushing teeth. Collect bronchial brushings and BAL fluid surgically. Place all samples in sterile containers. Inoculate media containing antimicrobial agents with and without cycloheximide.</entry>
+                <entry>Viscous lower respiratory specimens should be pretreated and centrifuged to concentrate their contents.</entry>
+                <entry>If ≤2 h, RT; if longer, 4°C</entry>
+                <entry>Saliva and 24-h sputum are unacceptable specimens. Methods for mycobacterial decontamination are not acceptable.</entry>
+              </row>
+              <row>
+                <entry>Respiratory, upper (oral, oropharyngeal, and sinus samples)</entry>
+                <entry>Swab oral lesions, avoiding tongue. Use thin wire or flexible swab for oropharynx. Collect sinus contents surgically.</entry>
+                <entry>Use swab transport system for oral and oropharyngeal samples. Place sinus contents in sterile container.</entry>
+                <entry><para id="ch0139s000000p0027">Oral: if ≤2 h, RT; if longer, RT</para>
+                  <para id="ch0139s000000p0028">Sinus: if ≤15 min, RT; if longer, RT</para>
+                </entry>
+                <entry>Selective and chromogenic media are best for recovery of<emphasis>Candida.</emphasis></entry>
+              </row>
+              <row>
+                <entry>Sterile body fluids (CSF and pericardial, peritoneal, and synovial fluids)</entry>
+                <entry>Collect as for bacteriology. Concentrate by centrifugation, and use sediment for inoculation. Clots should be ground.</entry>
+                <entry>Except CSF, put sterile body fluids in sterile Vacutainer tubes with heparin or lysis-centrifugation tube to prevent blood clotting. Except for CSF, blood culture bottles can be used for recovery of yeast.</entry>
+                <entry>If ≤15 min, RT; if longer, RT; never refrigerate.</entry>
+                <entry>Sterile fluid sediment should always be examined microscopically. With specimen volume of ≤2 ml, fluid should be plated directly using as much fluid on each plate as possible.</entry>
+              </row>
+              <row>
+                <entry>Stool</entry>
+                <entry>Specimen use should be discouraged.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Tissue</entry>
+                <entry>Collected surgically. A larger volume is needed than for bacteriology.</entry>
+                <entry>Use a sterile container, keep moist (saline drops) to prevent drying. Except with<emphasis>H. capsulatum</emphasis>, mincing (not grinding) is critical. Tissue pieces should be pressed into the agar so they are partially embedded. Grind tissue for recovery of <emphasis>H. capsulatum.</emphasis></entry>
+                <entry>If ≤15 min, RT; if longer, RT</entry>
+                <entry>Tissue biopsy recommended for invasive disease. Examine subcutaneous tissue for granules (see information for abscesses).</entry>
+              </row>
+              <row>
+                <entry>Urine</entry>
+                <entry>First morning clean catch, suprapubic, or catheterized specimens; 24-h specimens are unacceptable.</entry>
+                <entry>Use a sterile container or urine transport system. Concentrate specimens by centrifugation, and use sediment for inoculation.</entry>
+                <entry>If ≤2 h, RT; if longer, 4°C; urine transport systems can stay at RT for up to 72 h.</entry>
+                <entry>Chromogenic media best for<emphasis>Candida.</emphasis> Use sediment for microscopic examination.</entry>
+              </row>
+              <row>
+                <entry>Vaginal samples</entry>
+                <entry>Collect as for bacteriology.</entry>
+                <entry>Swab transport system or sterile container for washings.</entry>
+                <entry>If ≤2 h, RT; if longer, RT</entry>
+                <entry>Antibacterial media or chromogenic agars are best for recovery of<emphasis>Candida.</emphasis></entry>
+              </row>
+              <row>
+                <entry>Skin and anterior nares colonization screening samples for<emphasis>Candida auris</emphasis></entry>
+                <entry>Remove swab and firmly rub flocked tip back and forth across indicated site 5 times</entry>
+                <entry>Flocked sterile swab with liquid transport medium</entry>
+                <entry>If ≤96 h, RT; if longer, 2–8°C or −20°C</entry>
+                <entry>Used for detection of<emphasis>C. auris</emphasis> skin colonization, including axilla, groin, anterior nares, hands, toe webs, and other sites as validated by individual laboratories</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="tableFootnote"><superscript><emphasis><anchor id="ch0139s000000a0009"/><link linkend="ch0139s000000a0008">a</link></emphasis></superscript>Abbreviations: BAL, bronchoalveolar lavage; RT, room temperature.</para>
+        <figure id="ch0139s000000f0001"><title><anchor id="ch0139s000000a0010"/><phrase role="figureLabel"><anchor id="ch0139s000000a0011"/><link linkend="ch0139s000000a0004"><emphasis role="strong">FIGURE 1</emphasis></link></phrase> Growth of a dermatophyte (<emphasis>Trichophyton soudanense</emphasis>) after 4 days of aerobic incubation at 30°C following toothbrush inoculation of Mycosel agar. (Courtesy of Marilyn A. Leet, Children’s Hospital of Philadelphia, Philadelphia, PA.)
+</title>
+          
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Ch0139f03.jpg" width="100%" scalefit="1"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+        <para id="ch0139s000000p0029">Pretreatment of several specimen types is necessary to maximize the recovery of fungi (<link linkend="ch0139s000000li0002">2</link>, <link linkend="ch0139s000000li0003">3</link>). While this takes additional time and effort, it allows the laboratory to make the most of every specimen submitted, particularly for those that are difficult to obtain from patients. Pretreatment procedures are listed in <anchor id="ch0139s000000a0015"/><link linkend="ch0139s000000a0024">Table 3</link> and include centrifugation of urine and sterile body fluids, mincing of nail and tissue specimens, lysis and centrifugation of blood or bone marrow received in Isolator tubes (Wampole Laboratories, Alere, Inc., Orlando, FL), and lysis by mucolytic agents, followed by centrifugation, for respiratory secretions. Such procedures release fungi enclosed within cells, concentrate fungal material in the specimen, and help to reduce or eliminate bacteria present in contaminated specimens because of the action of mucolytic agents, such as <emphasis>N</emphasis>-acetyl-<emphasis role="smallcaps">L</emphasis>-cysteine, 5% oxalic acid, and dithiothreitol (Sputolysin; Millipore Sigma, Burlington, MA).</para>
+        <anchor id="ch0139s000000a0012"/>
+        <beginpage pagenum="2288"/>
+        <anchor id="ch0139s000000a0013"/>
+        <beginpage pagenum="2289"/>
+        <anchor id="ch0139s000000a0014"/>
+        <beginpage pagenum="2290"/>
+        <para id="ch0139s000000p0030">All work in mycology should be carried out in a certified type 2 laminar-airflow biosafety cabinet whenever possible. Biosafety level 2 procedures are recommended for personnel working with clinical specimens that may contain dimorphic fungi as well as other potential pathogenic fungi. Gloves should be worn for processing specimens and cultures. Additional caution should be exercised when working with<emphasis>Candida auris</emphasis>, which can persist in the environment and requires a higher level of disinfection than other fungi (<link linkend="ch0139s000000li0010">10</link>). A number of techniques are available for examining clinical specimens microscopically, and these are discussed in a later chapter of this <emphasis>Manual.</emphasis> There are different biosafety regulations in Europe and other countries, and for this reason, practices may differ.</para>
+      </sect2>
+      <sect2 id="ch0139s0001s0003">
+        <title>SPECIMEN PROCESSING AND CULTURE GUIDELINES</title>
+        <anchor id="ch0139s000001a0004"/>
+        <anchor id="ch0139s000000a0016"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0139s0002">
+      <title>Abscess (Drainage, Exudate, Pus, and Wound Material)</title>
+      <anchor id="ch0139s000002a0001"/>
+      <anchor id="ch0139s000000a0017"/>
+      <para id="ch0139s000000p0031">Abscess specimens should be collected from the active peripheral edge of open abscesses or aspirated from closed abscesses by use of a syringe. Abscess, pus, or drainage material should be examined for grains or granules by use of a dissecting microscope. The presence of grains or granules is indicative of a mycetoma, which is discussed at greater length in<ulink url="ch0150#ch0150s0001">chapter 129</ulink> of this <emphasis>Manual.</emphasis> If none are present, the material can be inoculated directly onto medium. If the specimen is thick, it should be pretreated similarly to a sputum specimen. If present, grains and granules should be teased out of the specimen and washed in sterile distilled water, sterile saline, or either solution plus antibiotics. The color of the granules should be noted and recorded. A portion should be crushed between two glass slides and examined microscopically for the presence of hyphae. Both true fungal hyphae and bacteria (branching Gram-positive rods) can be observed with grains. If branching Gram-positive rods are seen, a modified acid-fast stain should be performed to look for <emphasis>Nocardia.</emphasis> Another portion of the grains and granules should be crushed by using a sterile technique (with a sterile glass rod or mortar and pestle) and then inoculated directly onto medium (<link linkend="ch0139s000000li0011">11</link>).</para>
+      <anchor id="ch0139s000000a0018"/>
+      <beginpage pagenum="2291"/>
+      <table id="ch0139s000000t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0139s000000a0019"/><link linkend="ch0139s000000a0005">TABLE 2</link></phrase></emphasis> Common clinical sites for laboratory recovery of pathogenic fungi
+</title>
+        
+        <tgroup cols="16">
+          <tbody>
+            <row>
+              <entry><phrase role="center">Recovery from specimen<superscript><link linkend="ch0139s000000a0022">a</link></superscript></phrase><anchor id="ch0139s000000a0020"/></entry>
+            </row>
+            <row>
+              <entry><phrase role="center">Disease</phrase></entry>
+              <entry><phrase role="center">Blood</phrase></entry>
+              <entry><phrase role="center">Bone</phrase></entry>
+              <entry><phrase role="center">Bone marrow</phrase></entry>
+              <entry><phrase role="center">Brain</phrase></entry>
+              <entry><phrase role="center">CSF</phrase></entry>
+              <entry><phrase role="center">Eye</phrase></entry>
+              <entry><phrase role="center">Hair</phrase></entry>
+              <entry><phrase role="center">Nails</phrase></entry>
+              <entry><phrase role="center">Joint fluid</phrase></entry>
+              <entry><phrase role="center">Prostate fluid</phrase></entry>
+              <entry><phrase role="center">Lower respiratory tract</phrase></entry>
+              <entry><phrase role="center">Sinus/nasal cavity</phrase></entry>
+              <entry><phrase role="center">Skin<superscript><link linkend="ch0139s000000a0023">b</link></superscript></phrase><anchor id="ch0139s000000a0021"/></entry>
+              <entry><phrase role="center">Tissue</phrase></entry>
+              <entry><phrase role="center">Urine</phrase></entry>
+            </row>
+            <row>
+              <entry><emphasis>Acremonium</emphasis> infection</entry>
+              <entry><para id="ch0139s000000p0032"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0033"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0034"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0035"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0036"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0037"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Aspergillosis</entry>
+              <entry><para id="ch0139s000000p0038"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0039"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0040"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0041"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0042"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0043"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0044"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0045"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0046"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0047"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>Blastomycosis</entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0048"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0049"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0050"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0051"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0052"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0053"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0054"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0055"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0056"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0057"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>Candidiasis</entry>
+              <entry><para id="ch0139s000000p0058"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0059"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0060"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0061"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0062"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0063"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0064"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0065"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0066"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0067"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0068"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0069"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0070"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0071"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>Chromoblastomycosis</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0072"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0073"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0074"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0075"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Coccidioidomycosis</entry>
+              <entry><para id="ch0139s000000p0076"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0077"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0078"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0079"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0080"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0081"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0082"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0083"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0084"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0085"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0086"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0087"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>Cryptococcosis</entry>
+              <entry><para id="ch0139s000000p0088"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0089"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0090"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0091"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0092"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0093"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0094"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0095"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0096"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0097"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>Fusariosis (hyalohyphomycosis)</entry>
+              <entry><para id="ch0139s000000p0098"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0099"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0100"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0101"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0102"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0103"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0104"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0105"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0106"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0107"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Histoplasmosis</entry>
+              <entry><para id="ch0139s000000p0108"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0109"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0110"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0111"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0112"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0113"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0114"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0115"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0116"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0117"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>Mucormycosis/entomophthoromycosis</entry>
+              <entry><para id="ch0139s000000p0118"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0119"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0120"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0121"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0122"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0123"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0124"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0125"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Paracoccidioidomycosis</entry>
+              <entry><para id="ch0139s000000p0126"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0127"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0128"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0129"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0130"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0131"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0132"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0133"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0134"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Penicilliosis/<emphasis>Talaromyces marneffei</emphasis> infection</entry>
+              <entry><para id="ch0139s000000p0135"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0136"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0137"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0138"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0139"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0140"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0141"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0142"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>Pneumocystosis</entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0143"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0144"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0145"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0146"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Pseudoallescheriosis/scedosporiosis</entry>
+              <entry><para id="ch0139s000000p0147"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0148"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0149"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0150"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0151"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry><para id="ch0139s000000p0152"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0153"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Sporotrichosis</entry>
+              <entry><para id="ch0139s000000p0154"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0155"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0156"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0157"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0158"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0159"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0160"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Trichosporonosis</entry>
+              <entry><para id="ch0139s000000p0161"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0162"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0163"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0164"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0165"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0166"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry/>
+              <entry/>
+              <entry><para id="ch0139s000000p0167"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0168"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0169"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0170"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0171"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0172"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+              <entry><para id="ch0139s000000p0173"><phrase role="center">X</phrase>
+                </para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para role="table-footnote"><superscript><link linkend="ch0139s000000a0020">a</link></superscript><anchor id="ch0139s000000a0022"/>X, recovery of fungus from indicated specimen.</para>
+      <para role="table-footnote"><superscript><link linkend="ch0139s000000a0021">b</link></superscript><anchor id="ch0139s000000a0023"/>Includes skin and mucous membranes.</para>
+      <table id="ch0139s000000t0003"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0139s000000a0024"/><link linkend="ch0139s000000a0015">TABLE 3</link></phrase></emphasis> Pretreatment of clinical specimens prior to plating
+</title>
+        
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry><phrase role="center">Specimen</phrase>
+              </entry>
+              <entry><phrase role="center">Pretreatment</phrase>
+              </entry>
+              <entry><phrase role="center">Comments</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry>Abscess, drainage, pus, granules</entry>
+              <entry>Granules should be washed and crushed; other materials should be centrifuged at 2,000 ×<emphasis>g</emphasis> for 10 min.</entry>
+              <entry>Essential for best recovery</entry>
+            </row>
+            <row>
+              <entry>Blood, bone marrow</entry>
+              <entry>Lysis in Isolator tubes and then centrifugation for 30 min at 3,000 ×<emphasis>g</emphasis>, using a 35° fixed-angle rotor or swinging bucket</entry>
+              <entry>Critical for detection of<emphasis>H. capsulatum</emphasis> and other dimorphic fungi</entry>
+            </row>
+            <row>
+              <entry>Body fluids</entry>
+              <entry>Centrifugation at 2,000 ×<emphasis>g</emphasis> for 10 min or membrane filtration</entry>
+              <entry>Essential for best recovery with vol of ≥1 ml; blood clots should be teased apart</entry>
+            </row>
+            <row>
+              <entry>Nails</entry>
+              <entry>Mince; gently push pieces down into agar</entry>
+              <entry>Essential for maximum recovery of dermatophytes</entry>
+            </row>
+            <row>
+              <entry>Respiratory secretions (bronchoalveolar lavage fluid, sputum)</entry>
+              <entry>Lysis with mucolytic agents,<superscript><link linkend="ch0139s000000a0026">a</link></superscript><anchor id="ch0139s000000a0025"/> followed by centrifugation at 2,000 × <emphasis>g</emphasis> for 10 min</entry>
+              <entry>Can improve recovery for some mycoses</entry>
+            </row>
+            <row>
+              <entry>Tissue</entry>
+              <entry>Mince or grind in a mortar; push pieces down into agar</entry>
+              <entry>Essential for best recovery; for mucormycetes and other molds, mincing is best; for<emphasis>H. capsulatum</emphasis>, grinding is best.</entry>
+            </row>
+            <row>
+              <entry>Urine</entry>
+              <entry>Centrifugation at 2,000 ×<emphasis>g</emphasis> for 10 min</entry>
+              <entry>Essential for best recovery, particularly with deep mycoses</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para role="table-footnote"><superscript><link linkend="ch0139s000000a0025">a</link></superscript><anchor id="ch0139s000000a0026"/><emphasis>N</emphasis>-Acetyl-<phrase role="CharOverride-7">l</phrase>-cysteine, 5% oxalic acid, or dithiothreitol (Sputolysin; Millipore Sigma, Burlington, MA).</para>
+    </sect1>
+    <sect1 id="ch0139s0003">
+      <title>Blood</title>
+      <anchor id="ch0139s000003a0001"/>
+      <anchor id="ch0139s000000a0027"/>
+      <para id="ch0139s000000p0174">Fungemia is a major cause of morbidity and mortality in hospitalized patients, with<emphasis>Candida</emphasis> species being the major cause (<link linkend="ch0139s000000li0012">12</link>–<link linkend="ch0139s000000li0014">14</link>). Early detection of organisms in the bloodstream is incredibly important because it is an indicator of disseminated disease. As in bacteriology, the volume of blood, the blood-to-broth ratio, and the number of blood samples are all critical factors, with the volume of blood being the most important variable. For adults, 20 to 30 ml per culture, divided between two bottles, is recommended for the highest recovery rate and the shortest time to detection (<link linkend="ch0139s000000li0015">15</link>–<link linkend="ch0139s000000li0018">18</link>). Studies recommend a 5- to 10-fold dilution of blood in broth, and dilutions of &lt;1:5 may result in reduced recovery of organisms (<link linkend="ch0139s000000li0012">12</link>, <link linkend="ch0139s000000li0019">19</link>). For infants and children, total blood volumes based on the weight of the patient are currently recommended (<link linkend="ch0139s000000li0019">19</link>–<link linkend="ch0139s000000li0021">21</link>). Fungemia is almost always continuous, so the timing of obtaining a blood specimen for fungal culture is not critical (<link linkend="ch0139s000000li0016">16</link>, <link linkend="ch0139s000000li0022">22</link>). Both iodine tincture and chlorhexidine are effective for skin decontamination prior to obtaining the blood specimen (<link linkend="ch0139s000000li0023">23</link>).</para>
+      <para id="ch0139s000000p0175">There are presently a wide variety of manual, biphasic, automated, and continuously monitoring systems for blood cultures, but no single commercial system or culture medium can detect all potential blood pathogens. If manual blood cultures are used, a biphasic system is best for fungi (Septi-Chek; Becton Dickinson Diagnostic Systems, Sparks, MD), and the agar slant should be rewashed with the broth-blood mixture each time the bottles are examined. Many automated and continuously monitoring systems are available, and several have medium modifications to enhance fungal growth. These include the Bactec (BD Diagnostics, Sparks, MD), BacT/ALERT 3D (bioMérieux, Durham, NC), and VersaTREK (Thermo Scientific, Oakwood Village, OH) blood culture systems. Use of these mycosis bottles ensures the highest sensitivity for detecting fungemia (<link linkend="ch0139s000000li0024">24</link>). Studies evaluating all of these systems have shown that they can recover all pathogenic yeast species except non-<emphasis>pachydermatis Malassezia</emphasis> spp. (<link linkend="ch0139s000000li0025">25</link>). Even without specific fungal media, automated and continuously monitoring systems are able to recover <emphasis>Candida, Cryptococcus, Rhodotorula,</emphasis> and <emphasis>Trichosporon</emphasis> spp., with sensitivities equal to or higher than those of manual or lysis-centrifugation methods (<link linkend="ch0139s000000li0015">15</link>, <link linkend="ch0139s000000li0016">16</link>, <link linkend="ch0139s000000li0026">26</link>–<link linkend="ch0139s000000li0033">33</link>). Automated systems with routine bacteriology media are not, however, satisfactory for molds and <emphasis>Nocardia</emphasis> spp. (<link linkend="ch0139s000000li0033">33</link>).</para>
+      <para id="ch0139s000000p0176">Lysis-centrifugation performed either manually or by using the commercially available Isolator collection system is a more sensitive method for recovery of molds and dimorphic fungi such as<emphasis>Histoplasma capsulatum</emphasis> (<link linkend="ch0139s000000li0016">16</link>, <link linkend="ch0139s000000li0033">33</link>, <link linkend="ch0139s000000li0034">34</link>). Several studies, however, have argued against the routine use of lysis-centrifugation for all fungal blood cultures because of high contamination rates, high false-positivity rates, and times to detection of yeasts equivalent to or shorter than those of automated systems (<link linkend="ch0139s000000li0027">27</link>, <link linkend="ch0139s000000li0028">28</link>, <link linkend="ch0139s000000li0035">35</link>). If molds are suspected, either a special fungal medium for an automated system, such as Bactec MYCO/F lytic medium or BacT/ALERT MB, or a lysis-centrifugation system should be considered (<link linkend="ch0139s000000li0036">36</link>). Blood placed in either adult or pediatric Isolator tubes should be kept at room temperature until it is processed, ideally within 16 h of collection. Sediment from lysis-centrifugation should be streaked onto a variety of enriched media not containing cycloheximide and onto a chocolate agar plate (<link linkend="ch0139s000000li0037">37</link>). The only yeast species requiring special processing are the lipophilic <emphasis>Malassezia</emphasis> species, such as <emphasis>Malassezia furfur</emphasis>, which require lipids for growth (<link linkend="ch0139s000000li0025">25</link>). This can be achieved by overlaying solid medium with a thin layer of olive oil or adding a paper disk saturated with olive oil to a subculture plate or plates containing sediment from a lysis-centrifugation tube (<link linkend="ch0139s000000li0011">11</link>, <link linkend="ch0139s000000li0019">19</link>, <link linkend="ch0139s000000li0038">38</link>). Specialized media such as modified Dixon’s, Leeming’s, and Ushijima’s media can also be used to isolate <emphasis>Malassezia</emphasis> species, if available.</para>
+      <anchor id="ch0139s000000a0028"/>
+      <beginpage pagenum="2292"/>
+    </sect1>
+    <sect1 id="ch0139s0004">
+      <title>Bone Marrow</title>
+      <anchor id="ch0139s000004a0001"/>
+      <anchor id="ch0139s000000a0029"/>
+      <para id="ch0139s000000p0177">Bone marrow is most useful for the diagnosis of disseminated candidiasis, cryptococcosis, and histoplasmosis. Approximately 0.5 ml (pediatrics) to 3 ml (adults) should be collected aseptically in a heparinized syringe or pediatric Isolator tube. Because lysis-centrifugation enhances the recovery of<emphasis>H. capsulatum</emphasis> and other molds, the use of Isolator tubes is the method of choice for these organisms. Clotted bone marrow is an unacceptable specimen. With the exception of <emphasis>H. capsulatum</emphasis>, fungi are rarely seen in bone marrow aspirates from immunocompetent hosts. For immunocompromised patients, however, bone marrow is an excellent specimen, and <emphasis>Aspergillus</emphasis> spp., <emphasis>Candida</emphasis> spp., <emphasis>Cryptococcus</emphasis> spp., <emphasis>H. capsulatum,</emphasis> and <emphasis>Talaromyces marneffei</emphasis> can all be observed (<link linkend="ch0139s000000li0039">39</link>). While it is quite clear that microscopic examination of Giemsa-stained bone marrow can be diagnostic, recent data show that compared with other, less-invasive methods, such as blood cultures, bone marrow aspirate cultures are of limited value and should be performed only selectively (<link linkend="ch0139s000000li0040">40</link>). Bone marrow should not be placed in blood culture bottles, because with many continuously monitoring systems, the specimen will quickly register a false-positive result due to CO<subscript>2</subscript> from massive numbers of white blood cells.</para>
+    </sect1>
+    <sect1 id="ch0139s0005">
+      <title>Catheter Tips (Intravascular)</title>
+      <anchor id="ch0139s000005a0001"/>
+      <anchor id="ch0139s000000a0030"/>
+      <para id="ch0139s000000p0178">If performed simultaneously with blood cultures, quantitative bacterial and fungal cultures have been advocated to demonstrate catheter tip colonization. Acceptable specimens are intravenous or intra-arterial catheter tips, with the distal 3 to 5 cm of the line tip being submitted to the laboratory for culture. Specimens should be placed in a sterile container and transported and stored at room temperature (<link linkend="ch0139s000000li0041">41</link>). The semiquantitative method of Maki et al. is the most common method used in clinical laboratories, where the catheter tip is rolled across the surface of an agar plate four times and cultures yielding ≥15 CFU are considered positive, although quantitative culture techniques (sonication) may also be used (<link linkend="ch0139s000000li0042">42</link>). The semiquantitative method distinguishes infection (≥15 colonies) from contamination and is considered a more specific method to diagnose catheter-related septicemia than culturing the catheter tip in broth.</para>
+    </sect1>
+    <sect1 id="ch0139s0006">
+      <title>Cutaneous Specimens (Hair, Skin, and Nails)</title>
+      <anchor id="ch0139s000006a0001"/>
+      <anchor id="ch0139s000000a0031"/>
+      <sect2 id="ch0139s0006s0001">
+        <title>Hair</title>
+        <anchor id="ch0139s000006a0002"/>
+        <anchor id="ch0139s000000a0032"/>
+        <para id="ch0139s000000p0179">The hair root is the most important part to culture for detection of fungi, so plucking or pulling rather than cutting hair is recommended. The area should be cleaned with 70% alcohol and allowed to dry. Infected hairs can appear dull, broken, and faded. Hairs which fluoresce under Wood’s light should also be selected for culture. Hair should be submitted in a sterile container or clean, dry paper envelope. Hair can also be collected by using a soft-bristle toothbrush and rubbing in a circular motion over margins or patches of alopecia (hair loss) (<link linkend="ch0139s000000li0043">43</link>).</para>
+      </sect2>
+      <sect2 id="ch0139s0006s0002">
+        <title>Skin (for Purposes Other than Swabbing for C. auris Colonization)</title>
+        <anchor id="ch0139s000006a0003"/>
+        <anchor id="ch0139s000000a0033"/>
+        <para id="ch0139s000000p0180">The area should be cleaned with 70% alcohol and allowed to dry. The skin should then be scraped with the dull edge of a scalpel or glass slide or vigorously brushed in a circular motion with a soft-bristle toothbrush (<link linkend="ch0139s000000li0043">43</link>). Only the leading edge of a skin lesion should be sampled, because the centers of lesions are frequently nonviable. Skin can be submitted in a sterile container or clean, dry paper envelope or on a toothbrush.</para>
+      </sect2>
+      <sect2 id="ch0139s0006s0003">
+        <title>Nails</title>
+        <anchor id="ch0139s000006a0004"/>
+        <anchor id="ch0139s000000a0034"/>
+        <para id="ch0139s000000p0181">Nails should be cleaned with 70% alcohol and then clipped or scraped with a scalpel. If material is present under the leading edge of the nail, it should also be scraped and submitted in a sterile container or paper envelope designed specifically for this purpose. Prior to being plated, nail pieces should be pulverized or minced by use of a scalpel.</para>
+        <para id="ch0139s000000p0182">All cutaneous specimens should be inoculated into the agar medium by gently pressing them onto the agar with a sterile swab or scalpel. The pieces should be distributed evenly over the agar surface; the plate should not be streaked with a sterile loop. If a toothbrush is used to collect skin and/or hair specimens, the brush should be pressed gently onto the surface of the agar in four or five places on the plate, leaving an imprint. If organisms are present, growth will occur within the bristle imprint. By nature, cutaneous specimens are usually contaminated with bacteria. For this reason, a plate of inhibitory medium with chloramphenicol and cycloheximide, such as Mycosel, should be used for dermatophytes. As<emphasis>Trichosporon</emphasis> spp., the cause of white piedra, <emphasis>Piedraia hortae</emphasis>, the cause of black piedra, <emphasis>Hortaea werneckii</emphasis>, the cause of tinea nigra, and <emphasis>Neoscytalidium dimidiatum</emphasis>, a cause of both nail and skin infections, are sensitive to both chloramphenicol and cycloheximide, samples of hair and skin from patients suspected of having these infections should also be inoculated onto a noninhibitory medium such as Sabouraud dextrose agar. More common nondermatophyte causes of nail infection, such as <emphasis>Scopulariopsis</emphasis> and <emphasis>Fusarium</emphasis> species, are also sensitive to cycloheximide, so all nail samples should be cultured on both inhibitory and noninhibitory media. For patients suspected of having pityriasis versicolor, caused by <emphasis>Malassezia furfur</emphasis>, direct microscopy is normally diagnostic, but a noninhibitory medium such as Sabouraud dextrose agar can be inoculated, and then olive oil or a paper disk saturated with olive oil should be placed on the first quadrant of the plate. <emphasis>M. furfur</emphasis> grows best at ≥35°C but can grow at 30°C. Cutaneous specimens should never be refrigerated, because dermatophytes are sensitive to low temperatures.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0139s0007">
+      <title>Eye Specimens (Corneal Scrapings and Vitreous Humor)</title>
+      <anchor id="ch0139s000007a0001"/>
+      <anchor id="ch0139s000000a0035"/>
+      <para id="ch0139s000000p0183">Several types of eye infections require that corneal scrapings and/or vitreous humor be obtained by an ophthalmologist. These include mycotic or fungal keratitis, fungal endophthalmitis, and extension oculomycosis. Mycotic or fungal keratitis is an infection of the cornea. The most common causes are<emphasis>Acremonium</emphasis> spp., <emphasis>Aspergillus</emphasis> spp., <emphasis>Candida albicans, Candida parapsilosis, Candida tropicalis, Curvularia</emphasis> spp., and <emphasis>Fusarium</emphasis> spp. (<link linkend="ch0139s000000li0044">44</link>, <link linkend="ch0139s000000li0045">45</link>). Fungal endophthalmitis is usually a late-stage result of hematogenous dissemination of a systemic fungal infection. It can involve many areas of the eye and surrounding tissues. The most common causes are <emphasis>Aspergillus</emphasis> spp., <emphasis>Blastomyces dermatitidis, Candida</emphasis> spp., <emphasis>Cryptococcus neoformans, Coccidioides</emphasis> spp., <emphasis>H. capsulatum, Paracoccidioides brasiliensis,</emphasis> and <emphasis>Sporothrix schenckii</emphasis> (<link linkend="ch0139s000000li0044">44</link>, <link linkend="ch0139s000000li0045">45</link>). Extension oculomycosis is a result of rhinocerebral mucormycosis, and like fungal endophthalmitis, it may involve many areas of the eye and surrounding tissues. The diagnosis of these infections requires attempting to demonstrate the organism on a microscopic examination plus positive culture. Corneal scrapings are taken by physicians, and media are inoculated directly by use of a heat-sterilized platinum spatula (<link linkend="ch0139s000000li0046">46</link>). Very little material is usually obtained because of the risks of corneal thinning or perforation. Physicians should be instructed to first inoculate the specimen directly onto a noninhibitory medium, such as Sabouraud dextrose agar, and then to place some material on a sterile glass slide (in the center) for staining. The scraping should be placed in two or three places on the plate, using an X- or C-shaped motion (<link linkend="ch0139s000000li0003">3</link>). The inoculated plate should be kept at room temperature and transported immediately to the laboratory. Vitreous, or vitreous humor, is the clear, gelatinous material that fills the space between the lens of the eye and the retina. When taken by physicians, vitreous is often diluted with irrigation fluid. For this reason, it should be concentrated by centrifugation, and the sediment should be used to inoculate media and to make smears. Specimens should be placed onto Sabouraud dextrose agar, inhibitory mold agar, and/or brain heart infusion (BHI) agar with 10% sheep blood and incubated at 30°C. Media containing cycloheximide should be avoided (<link linkend="ch0139s000000li0044">44</link>, <link linkend="ch0139s000000li0045">45</link>, <link linkend="ch0139s000000li0047">47</link>).</para>
+      <anchor id="ch0139s000000a0036"/>
+      <beginpage pagenum="2293"/>
+    </sect1>
+    <sect1 id="ch0139s0008">
+      <title>Medical Devices</title>
+      <anchor id="ch0139s000008a0001"/>
+      <anchor id="ch0139s000000a0037"/>
+      <para id="ch0139s000000p0184">A wide variety of medical devices (contact lenses, stents, wound-healing dressings, contraceptives, surgical implants, replacement joints, etc.) may be submitted for fungal culture. Most are collected surgically and should be submitted in a sterile container and transported and stored at room temperature. Each should be examined for vegetative growth and biofilms, and if these are present, they should be scraped from the device by use of a sterile scalpel for direct inoculation of agar media and broth (<link linkend="ch0139s000000li0003">3</link>). Specimens should be placed onto Sabouraud dextrose agar, inhibitory mold agar, and/or BHI agar with 10% sheep blood and incubated at 30°C. Media containing cycloheximide should be avoided. If biofilm or vegetative growth areas are not obvious, portions of the device should be placed in a broth medium such as BHI broth and incubated at 30°C. Quantitative (sonication) broth culture may also be performed.</para>
+    </sect1>
+    <sect1 id="ch0139s0009">
+      <title>Prostate Fluid</title>
+      <anchor id="ch0139s000009a0001"/>
+      <anchor id="ch0139s000000a0038"/>
+      <para id="ch0139s000000p0185">Prostate fluid consists of secretions of the testes, seminal vesicles, prostate, and bulbourethral glands. After the bladder is emptied, the prostate gland is massaged to yield pure prostatic fluid. The prostate is frequently seeded when organisms are present in the bloodstream. A key clinical sign in males with endemic mycoses is the complaint of a history of chronic urinary tract infections but negative urine cultures. Prostatic fluid from such patients is frequently positive when cultured for fungi. The secretions should also be examined microscopically. After the prostate fluid is obtained, the next urine specimen should also be obtained and submitted for culture, because this urine has a high yield (<link linkend="ch0139s000000li0004">4</link>–<link linkend="ch0139s000000li0008">8</link>).</para>
+    </sect1>
+    <sect1 id="ch0139s0010">
+      <title>Lower Respiratory Tract Specimens (Sputum, Bronchial Aspirate, and Bronchoalveolar Lavage Fluid)</title>
+      <anchor id="ch0139s000010a0001"/>
+      <anchor id="ch0139s000000a0039"/>
+      <para id="ch0139s000000p0186">After a patient’s teeth have been brushed, sputum should be collected as a first morning specimen. Neither saliva nor 24-h sputum specimens are acceptable for fungal culture. Viscous lower respiratory tract specimens should be pretreated before being processed. Lysis with mucolytic agents, such as<emphasis>N</emphasis>-acetyl-<emphasis role="smallcaps">L</emphasis>-cysteine, 5% oxalic acid, or dithiothreitol (Sputolysin, Millipore Sigma, Burlington, MA), followed by centrifugation at 2,000 × <emphasis>g</emphasis> for 10 min and then plating of the sediment, greatly increases the yield and improves the recovery of many fungi. Sodium hydroxide, which is used to concentrate specimens for detection of mycobacteria, should not be used because it inhibits the growth of many fungi (e.g., <emphasis>Aspergillus</emphasis> spp.). Unfortunately, centrifugation also increases the number of bacteria in the sediment, and for this reason, media containing antimicrobial agents, with and without cycloheximide, should be used. As in bacteriology, lower respiratory tract specimens should be examined for the presence of blood, pus, or necrotic portions, since these have the highest yields (<link linkend="ch0139s000000li0048">48</link>, <link linkend="ch0139s000000li0049">49</link>). Because <emphasis>Candida</emphasis> spp. are the most common yeasts isolated from respiratory specimens of patients with cystic fibrosis, use of a chromogenic medium that is selective and differential for <emphasis>Candida</emphasis> is recommended (<link linkend="ch0139s000000li0050">50</link>). <emphasis>Scedosporium</emphasis> is now the second most common mold associated with cystic fibrosis, and use of a <emphasis>Scedosporium</emphasis>-selective medium containing the antifungal agents dichloran and benomyl has been proposed to improve isolation of this mold in this patient population (<link linkend="ch0139s000000li0051">51</link>).</para>
+    </sect1>
+    <sect1 id="ch0139s0011">
+      <title>Upper Respiratory Tract Specimens (Oral and Oropharyngeal Specimens)</title>
+      <anchor id="ch0139s000011a0001"/>
+      <anchor id="ch0139s000000a0040"/>
+      <para id="ch0139s000000p0187">The mucosal surfaces of gums, oral lesions, and oropharyngeal specimens submitted for fungal culture are usually screened for candidiasis. When thrush is suspected, lesions should be scraped gently with moist swabs and submitted for microscopy and a rule-out yeast culture. Antibacterial media or chromogenic agars for<emphasis>Candida</emphasis> spp. should be inoculated. While culture is not required to make the diagnosis of candidiasis, it can be useful if microscopy is not available in an outpatient setting or if species other than <emphasis>C. albicans</emphasis> are suspected. On rare occasions, oral lesions can be seen with histoplasmosis or paracoccidioidomycosis, but they do not resemble those seen with <emphasis>Candida</emphasis> spp. If these are suspected, a full fungal culture and smears for microscopy should be performed. The use of nasal swabs should be discouraged because contamination with environmental spores in the nasal cavity makes interpretation of culture results difficult. Nasal tissue and sinus washings are better specimens and should be plated on a variety of media containing antibiotics, but not cycloheximide, since significant pathogens recovered from these sites (<emphasis>Aspergillus</emphasis> spp.) are sensitive to cycloheximide (<link linkend="ch0139s000000li0052">52</link>).</para>
+    </sect1>
+    <sect1 id="ch0139s0012">
+      <title>Sterile Body Fluids (CSF and Pericardial, Peritoneal, and Synovial Fluids)</title>
+      <anchor id="ch0139s000012a0001"/>
+      <anchor id="ch0139s000000a0041"/>
+      <para id="ch0139s000000p0188">With the exception of CSF, sterile body fluids are often placed in sterile Vacutainer tubes with heparin to prevent blood clotting. Lysis-centrifugation Isolator tubes can also be used for this purpose. With specimen volumes of ≥2 ml, these tubes plus CSF lumbar puncture tubes should be centrifuged at 2,000 ×<emphasis>g</emphasis> for 10 min, and the sediment should be used to inoculate media. The supernatant fluid can be used for serologic tests (<link linkend="ch0139s000000li0047">47</link>). With specimen volumes of ≤2 ml, the specimen should be plated directly, using as much fluid on each plate as possible. Use of a Cytospin centrifuge to prepare a smear for microscopy is recommended (<link linkend="ch0139s000000li0053">53</link>, <link linkend="ch0139s000000li0054">54</link>). Because sterile fluids are rarely culture positive for fungi, many laboratories inoculate medium slants with screw-cap lids rather than plates to avoid questions concerning possible contamination. In some countries, a purity plate is placed in the biosafety cabinet when sterile body fluids or tissues are being processed. Growth on the purity plate signals a contamination event during processing.</para>
+      <anchor id="ch0139s000000a0042"/>
+      <beginpage pagenum="2294"/>
+    </sect1>
+    <sect1 id="ch0139s0013">
+      <title>Stool</title>
+      <anchor id="ch0139s000013a0001"/>
+      <anchor id="ch0139s000000a0043"/>
+      <para id="ch0139s000000p0189">Submission of stool specimens for routine fungal culture should be discouraged. Many<emphasis>Candida</emphasis> spp. are part of the normal stool biota, and anything that disrupts the normal gastrointestinal tract biota, such as diet or use of antibiotics, can yield a predominance of yeast when stool is cultured. Neither colonization with yeast nor a predominance of yeast indicates invasive disease with <emphasis>Candida.</emphasis> If invasive disease of the gastrointestinal tract is suspected, a colonoscopy and tissue biopsy should be performed (<link linkend="ch0139s000000li0055">55</link>, <link linkend="ch0139s000000li0056">56</link>).</para>
+    </sect1>
+    <sect1 id="ch0139s0014">
+      <title>Tissue</title>
+      <anchor id="ch0139s000014a0001"/>
+      <anchor id="ch0139s000000a0044"/>
+      <para id="ch0139s000000p0190">With one exception (<emphasis>H. capsulatum</emphasis>), fungi present in tissue are best recovered when the tissue is minced, not ground. For the mucoraceous molds, in particular, mincing is critical for the recovery of organisms. Tissues should be minced by use of a scalpel, and the pieces of tissue should be pressed into the agar so that they are partially embedded (<link linkend="ch0139s000000li0057">57</link>) (<anchor id="ch0139s000000a0045"/><link linkend="ch0139s000000a0046">Fig. 2</link>). Two to four pieces should be placed onto each culture plate being inoculated. Further streaking of the plate with sterile loops should not be done. When the medium is inoculated this way, fungi grow out directly from the piece of tissue. Laboratories often question if growth on agar plates represents contamination. When growth comes directly from the tissue piece, it is unquestionably significant growth. A portion of the specimen can be ground for microscopic examination and/or smears.</para>
+      <para id="ch0139s000000p0191">When<emphasis>H. capsulatum</emphasis> is suspected, the tissue should be ground or homogenized. Because this pathogen is intracellular, organisms need to be released from the cells to be available to grow on media. If needed, a small amount of sterile broth or distilled water can be added to smooth the process of grinding. Subcutaneous tissue should be examined for the presence of granules (as described above, for abscesses). Homogenate or tissue pieces should be inoculated onto enriched media containing antibacterial agents, and for systemic mycoses, enriched media containing both blood and antibacterial agents are best.</para>
+      <figure id="ch0139s000000f0002"><title><phrase role="figureLabel"><anchor id="ch0139s000000a0046"/><link linkend="ch0139s000000a0045"><emphasis role="strong">FIGURE 2</emphasis></link></phrase> Early growth of <emphasis>Talaromyces marneffei</emphasis> from a tissue piece embedded in Sabouraud dextrose agar with gentamicin incubated aerobically at 30°C. (Courtesy of Marilyn A. Leet, Children’s Hospital of Philadelphia, Philadelphia, PA.)
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0139f02.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+    </sect1>
+    <sect1 id="ch0139s0015">
+      <title>Urine</title>
+      <anchor id="ch0139s000015a0001"/>
+      <anchor id="ch0139s000000a0047"/>
+      <para id="ch0139s000000p0192">Clean-catch, suprapubic, or catheterized urine specimens should all be obtained as first morning specimens. Large volumes (10 to 50 ml) give the best results and should be centrifuged for maximum recovery, particularly for agents of deep mycoses. Urine should be centrifuged at 2,000 ×<emphasis>g</emphasis> for 10 min. The sediment should be used to prepare smears for microscopy and inoculation of media. Quantification of organisms, as performed in bacteriology, is not useful (<link linkend="ch0139s000000li0038">38</link>). Twenty-four-hour urine specimens are not acceptable.</para>
+    </sect1>
+    <sect1 id="ch0139s0016">
+      <title>Vaginal Specimens</title>
+      <anchor id="ch0139s000016a0001"/>
+      <anchor id="ch0139s000000a0048"/>
+      <para id="ch0139s000000p0193">Vaginal specimens submitted for fungal culture are frequently screened just for vaginal candidiasis. For this reason, having a rule-out<emphasis>Candida</emphasis> culture as a culture choice is helpful for clinicians and laboratorians. <emphasis>Candida</emphasis> spp. are part of the normal vaginal biota, and their presence alone is not significant. Appropriate clinical symptoms plus a positive microscopic examination or culture are sufficient to diagnose vaginal candidiasis. Culture is not required to confirm vaginal candidiasis, but microscopic examinations are not available in all settings, while culture is available. Antibacterial media or chromogenic agars for <emphasis>Candida</emphasis> spp. should be inoculated. On rare occasions, vaginal lesions can be seen with histoplasmosis or paracoccidioidomycosis. These lesions do not resemble those seen with <emphasis>Candida</emphasis> spp. If these are suspected, a full fungal culture and smears for microscopy should be performed.</para>
+    </sect1>
+    <sect1 id="ch0139s0017">
+      <title>Skin and Anterior Naris Colonization Screening Samples for C. auris</title>
+      <anchor id="ch0139s000017a0001"/>
+      <anchor id="ch0139s000000a0049"/>
+      <para id="ch0139s000000p0194"><emphasis>C. auris</emphasis> is an emerging, often antifungal-drug-resistant fungal pathogen of public health concern. <emphasis>C. auris</emphasis> can asymptomatically colonize patients’ skin and anterior nares, which increases risk of invasive infection and contributes to transmission through shedding of viable cells into the health care environment (<link linkend="ch0139s000000li0010">10</link>). Colonization screening of body sites, including the axilla, groin, anterior nares, hands, and toe webs, may be indicated for specific high-risk populations identified by epidemiological context (<link linkend="ch0139s000000li0058">58</link>). Specimens collected using flocked swabs with a compatible transport medium are suitable for subsequent processing with both culture-based and molecular methods (<link linkend="ch0139s000000li0059">59</link>). At the time of writing, there are no FDA-approved tests to identify <emphasis>C. auris</emphasis> directly from primary skin or anterior naris colonization screening specimens. For this reason, molecular methods should be validated against a culture-based reference method that is confirmed with sequencing or matrix-assisted laser desorption ionization–time of flight (MALDI-TOF). For culture-based approaches, elevated temperatures and salt concentrations can help suppress other yeasts that may be present (<link linkend="ch0139s000000li0060">60</link>). Chromogenic agar can be helpful in ruling out non-<emphasis>C. auris</emphasis> yeasts that break through the higher salt concentrations and temperatures (<link linkend="ch0139s000000li0014">14</link>).</para>
+      <sect2 id="ch0139s0017s0001">
+        <title>REFERENCES</title>
+        <anchor id="ch0139s000017a0002"/>
+        <anchor id="ch0139s000000a0050"/>
+        <itemizedlist mark="none" role="biblioEntryList">
+          <listitem id="ch0139s000000li0001" role="bibliographyEntry">
+            <para>1.<emphasis role="strong">Hazen KC.</emphasis> 1998. Mycology and aerobic actinomycetes, p 255–283. <citetitle><emphasis>In</emphasis></citetitle> Isenberg HD (ed), <citetitle><emphasis>Essential Procedures for Clinical Microbiology.</emphasis></citetitle> American Society for Microbiology, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0002" role="bibliographyEntry">
+            <para>2.<emphasis role="strong">Merz WG, Roberts GD.</emphasis> 1999. Detection and recovery of fungi from clinical specimens, p 709–722. <citetitle><emphasis>In</emphasis></citetitle> Murray PR (ed), <citetitle><emphasis>Manual of Clinical Microbiology</emphasis></citetitle>, 7th ed. American Society for Microbiology, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0003" role="bibliographyEntry">
+            <anchor id="ch0139s000000a0051"/>
+            <para>3.<emphasis role="strong">Sutton DA.</emphasis> 2007. Specimen collection, transport, and processing: mycology, p 1728–1736. <citetitle><emphasis>In</emphasis></citetitle> Murray PR, Baron EJ, Jorgensen JH, Landry ML, Pfaller MA (ed), <citetitle><emphasis>Manual of Clinical Microbiology</emphasis></citetitle>, 9th ed. ASM Press, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0004" role="bibliographyEntry">
+            <para>4.<emphasis role="strong">Mawhorter SD, Curley GV, Kursh ED, Farver CE.</emphasis> 2000. Prostatic and central nervous system histoplasmosis in an immunocompetent host: case report and review of the prostatic histoplasmosis literature. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">30:</emphasis>595–598.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0005" role="bibliographyEntry">
+            <para>5.<emphasis role="strong">Neal PM, Nikolai A.</emphasis> 2008. Systemic blastomycosis diagnosed by prostate needle biopsy. <citetitle><emphasis>Clin Med Res</emphasis></citetitle> <emphasis role="strong">6:</emphasis>24–28.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0006" role="bibliographyEntry">
+            <para>6.<emphasis role="strong">Sohail MR, Andrews PE, Blair JE.</emphasis> 2005. Coccidioidomycosis of the male genital tract. <citetitle><emphasis>J Urol</emphasis></citetitle> <emphasis role="strong">173:</emphasis>1978–1982.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0007" role="bibliographyEntry">
+            <para>7.<emphasis role="strong">Watts B, Argekar P, Saint S, Kauffman CA.</emphasis> 2007. Building a diagnosis from the ground up. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">356:</emphasis>1456–1462.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0008" role="bibliographyEntry">
+            <para>8.<emphasis role="strong">Yurkanin JP, Ahmann F, Dalkin BL.</emphasis> 2006. Coccidioidomycosis of the prostate: a determination of incidence, report of 4 cases, and treatment recommendations. <citetitle><emphasis>J Infect</emphasis></citetitle> <emphasis role="strong">52:</emphasis>e19–e25.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0009" role="bibliographyEntry">
+            <para>9.<emphasis role="strong">Joint Commission on Accreditation of Healthcare Organizations.</emphasis> 2009. <citetitle><emphasis>IM.6.240. Clinical Laboratory Improvement Act Subpart K.</emphasis></citetitle> Joint Commission on Accreditation of Healthcare Organizations, Oakbrook Terrace, IL.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0010" role="bibliographyEntry">
+            <para>10.<emphasis role="strong">Sexton DJ, Welsh RM, Bentz ML, Forsberg K, Jackson B, Berkow EL, Litvintseva AP.</emphasis> 2020. Evaluation of nine surface disinfectants against <citetitle><emphasis>Candida auris</emphasis></citetitle> using a quantitative disk carrier method: EPA SOP-MB-35. <citetitle><emphasis>Infect Control Hosp Epidemiol</emphasis></citetitle> <emphasis role="strong">41:</emphasis>1219–1221.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0011" role="bibliographyEntry">
+            <para>11.<emphasis role="strong">Larone DH.</emphasis> 2011. <citetitle><emphasis>Medically Important Fungi: A Guide to Identification</emphasis></citetitle>, 5th ed. ASM Press, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0012" role="bibliographyEntry">
+            <para>12.<emphasis role="strong">Reimer LG, Wilson ML, Weinstein MP.</emphasis> 1997. Update on detection of bacteremia and fungemia. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">10:</emphasis>444–465.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0013" role="bibliographyEntry">
+            <para>13.<emphasis role="strong">Richardson M, Lass-Flörl C.</emphasis> 2008. Changing epidemiology of systemic fungal infections. <citetitle><emphasis>Clin Microbiol Infect</emphasis></citetitle> <emphasis role="strong">14</emphasis>(Suppl 4)<emphasis role="strong">:</emphasis>5–24.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0014" role="bibliographyEntry">
+            <para>14.<emphasis role="strong">Zhang SX, Babady NE, Hanson KE, Harrington AT, Larkin PMK, Leal SM Jr, Luethy PM, Martin IW, Pancholi P, Procop GW, Riedel S, Seyedmousavi S, Sullivan KV, Walsh TJ, Lockhart SR, Fungal Diagnostics Laboratories Consortium (FDLC).</emphasis> 2021. Recognition of diagnostic gaps for laboratory diagnosis of fungal diseases: expert opinion from the Fungal Diagnostics Laboratories Consortium (FDLC). <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">59:</emphasis>e01784-20.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0015" role="bibliographyEntry">
+            <para>15.<emphasis role="strong">Chiarini A, Palmeri A, Amato T, Immordino R, Distefano S, Giammanco A.</emphasis> 2008. Detection of bacterial and yeast species with the Bactec 9120 automated system with routine use of aerobic, anaerobic, and fungal media. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">46:</emphasis>4029–4033.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0016" role="bibliographyEntry">
+            <para>16.<emphasis role="strong">Cockerill FR III, Wilson JW, Vetter EA, Goodman KM, Torgerson CA, Harmsen WS, Schleck CD, Ilstrup DM, Washington JA II, Wilson WR.</emphasis> 2004. Optimal testing parameters for blood cultures. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">38:</emphasis>1724–1730.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0017" role="bibliographyEntry">
+            <para>17.<emphasis role="strong">Lee A, Mirrett S, Reller LB, Weinstein MP.</emphasis> 2007. Detection of bloodstream infections in adults: how many blood cultures are needed? <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">45:</emphasis>3546–3548.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0018" role="bibliographyEntry">
+            <para>18.<emphasis role="strong">Washington JA II, Ilstrup DM.</emphasis> 1986. Blood cultures: issues and controversies. <citetitle><emphasis>Rev Infect Dis</emphasis></citetitle> <emphasis role="strong">8:</emphasis>792–802.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0019" role="bibliographyEntry">
+            <para>19.<emphasis role="strong">Baron EJ, Weinstein MP, Dunne WM, Yagupsky P, Welch DF, Wilson DM.</emphasis> 2005. <citetitle><emphasis>Cumitech 1C: Blood Cultures IV.</emphasis></citetitle> Coordinating ed, Baron EJ. ASM Press, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0020" role="bibliographyEntry">
+            <para>20.<emphasis role="strong">Kellogg JA, Manzella JP, Bankert DA.</emphasis> 2000. Frequency of low-level bacteremia in children from birth to fifteen years of age. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">38:</emphasis>2181–2185.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0021" role="bibliographyEntry">
+            <para>21.<emphasis role="strong">Szymczak EG, Barr JT, Durbin WA, Goldmann DA.</emphasis> 1979. Evaluation of blood culture procedures in a pediatric hospital. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">9:</emphasis>88–92.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0022" role="bibliographyEntry">
+            <para>22.<emphasis role="strong">Lamy B, Dargère S, Arendrup MC, Parienti JJ, Tattevin P.</emphasis> 2016. How to optimize the use of blood cultures for the diagnosis of bloodstream infections? A state-of-the art. <citetitle><emphasis>Front Microbiol</emphasis></citetitle> <emphasis role="strong">7:</emphasis>697.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0023" role="bibliographyEntry">
+            <para>23.<emphasis role="strong">Barenfanger J, Drake C, Lawhorn J, Verhulst SJ.</emphasis> 2004. Comparison of chlorhexidine and tincture of iodine for skin antisepsis in preparation for blood sample collection. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">42:</emphasis>2216–2217.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0024" role="bibliographyEntry">
+            <para>24.<emphasis role="strong">Arendrup MC, Sulim S, Holm A, Nielsen L, Nielsen SD, Knudsen JD, Drenck NE, Christensen JJ, Johansen HK.</emphasis> 2011. Diagnostic issues, clinical characteristics, and outcomes for patients with fungemia. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">49:</emphasis>3300–3308.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0025" role="bibliographyEntry">
+            <para>25.<emphasis role="strong">Gaitanis G, Magiatis P, Hantschke M, Bassukas ID, Velegraki A.</emphasis> 2012. The <citetitle><emphasis>Malassezia</emphasis></citetitle> genus in skin and systemic diseases. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">25:</emphasis>106–141.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0026" role="bibliographyEntry">
+            <para>26.<emphasis role="strong">Gokbolat E, Oz Y, Metintas S.</emphasis> 2017. Evaluation of three different bottles in BACTEC 9240 automated blood culture system and direct identification of <citetitle><emphasis>Candida</emphasis></citetitle> species to shorten the turnaround time of blood culture. <citetitle><emphasis>J Med Microbiol</emphasis></citetitle> <emphasis role="strong">66:</emphasis>470–476.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0027" role="bibliographyEntry">
+            <para>27.<emphasis role="strong">Kosmin AR, Fekete T.</emphasis> 2008. Use of fungal blood cultures in an academic medical center. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">46:</emphasis>3800–3801.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0028" role="bibliographyEntry">
+            <para>28.<emphasis role="strong">Mess T, Daar ES.</emphasis> 1997. Utility of fungal blood cultures for patients with AIDS. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">25:</emphasis>1350–1353.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0029" role="bibliographyEntry">
+            <para>29.<emphasis role="strong">Mirrett S, Reller LB, Petti CA, Woods CW, Vazirani B, Sivadas R, Weinstein MP.</emphasis> 2003. Controlled clinical comparison of BacT/ALERT standard aerobic medium with BACTEC standard aerobic medium for culturing blood. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">41:</emphasis>2391–2394.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0030" role="bibliographyEntry">
+            <para>30.<emphasis role="strong">Mirrett S, Hanson KE, Reller LB.</emphasis> 2007. Controlled clinical comparison of VersaTREK and BacT/ALERT blood culture systems. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">45:</emphasis>299–302.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0031" role="bibliographyEntry">
+            <para>31.<emphasis role="strong">Morello JA, Matushek SM, Dunne WM, Hinds DB.</emphasis> 1991. Performance of a BACTEC nonradiometric medium for pediatric blood cultures. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">29:</emphasis>359–362.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0032" role="bibliographyEntry">
+            <para>32.<emphasis role="strong">Petti CA, Zaidi AK, Mirrett S, Reller LB.</emphasis> 1996. Comparison of Isolator 1.5 and BACTEC NR660 aerobic 6A blood culture systems for detection of fungemia in children. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">34:</emphasis>1877–1879.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0033" role="bibliographyEntry">
+            <para>33.<emphasis role="strong">Witebsky FG, Gill VJ.</emphasis> 1995. Fungal blood culture systems: which ones and when to use them. <citetitle><emphasis>Clin Microbiol Newsl</emphasis></citetitle> <emphasis role="strong">17:</emphasis>161–164.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0034" role="bibliographyEntry">
+            <para>34.<emphasis role="strong">Hellinger WC, Cawley JJ, Alvarez S, Hogan SF, Harmsen WS, Ilstrup DM, Cockerill FR III.</emphasis> 1995. Clinical comparison of the isolator and BacT/Alert aerobic blood culture systems. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">33:</emphasis>1787–1790.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0035" role="bibliographyEntry">
+            <para>35.<emphasis role="strong">Creger RJ, Weeman KE, Jacobs MR, Morrissey A, Parker P, Fox RM, Lazarus HM.</emphasis> 1998. Lack of utility of the lysis-centrifugation blood culture method for detection of fungemia in immunocompromised cancer patients. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">36:</emphasis>290–293.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0036" role="bibliographyEntry">
+            <para>36.<emphasis role="strong">Cockerill FR III, Torgerson CA, Reed GS, Vetter EA, Weaver AL, Dale JC, Roberts GD, Henry NK, Ilstrup DM, Rosenblatt JE.</emphasis> 1996. Clinical comparison of difco ESP, Wampole isolator, and Becton Dickinson Septi-Chek aerobic blood culturing systems. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">34:</emphasis>20–24.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0037" role="bibliographyEntry">
+            <para>37.<emphasis role="strong">Procop GW, Cockerill FR III, Vetter EA, Harmsen WS, Hughes JG, Roberts GD.</emphasis> 2000. Performance of five agar media for recovery of fungi from isolator blood cultures. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">38:</emphasis>3827–3829.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0038" role="bibliographyEntry">
+            <para>38.<emphasis role="strong">Fisher JF, Newman CL, Sobel JD.</emphasis> 1995. Yeast in the urine: solutions for a budding problem. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">20:</emphasis>183–189.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0039" role="bibliographyEntry">
+            <para>39.<emphasis role="strong">Bain BJ, Clark DM, Lampert IA, Wilkins BS.</emphasis> 2001. <citetitle><emphasis>Bone Marrow Pathology</emphasis></citetitle>, 3rd ed. Wiley-Blackwell, New York, NY.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0040" role="bibliographyEntry">
+            <para>40.<emphasis role="strong">Duong S, Dezube BJ, Desai G, Eichelberger K, Qian Q, Kirby JE.</emphasis> 2009. Limited utility of bone marrow culture: a ten-year retrospective analysis. <citetitle><emphasis>Lab Med</emphasis></citetitle> <emphasis role="strong">40:</emphasis>37–38.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0041" role="bibliographyEntry">
+            <para>41.<emphasis role="strong">Mermel LA, Allon M, Bouza E, Craven DE, Flynn P, O’Grady NP, Raad II, Rijnders BJ, Sherertz RJ, Warren DK.</emphasis> 2009. Clinical practice guidelines for the diagnosis and management of intravascular catheter-related infection: 2009 update by the Infectious Diseases Society of America. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">49:</emphasis>1–45.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0042" role="bibliographyEntry">
+            <para>42.<emphasis role="strong">Maki DG, Weise CE, Sarafin HW.</emphasis> 1977. A semiquantitative culture method for identifying intravenous-catheter-related infection. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">296:</emphasis>1305–1309.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0043" role="bibliographyEntry">
+            <para>43.<emphasis role="strong">Hubbard TW, de Triquet JM.</emphasis> 1992. Brush-culture method for diagnosing tinea capitis. <citetitle><emphasis>Pediatrics</emphasis></citetitle> <emphasis role="strong">90:</emphasis>416–418.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0044" role="bibliographyEntry">
+            <anchor id="ch0139s000000a0052"/>
+            <para>44.<emphasis role="strong">Chern KC, Meisler DM, Wilhelmus KR, Jones DB, Stern GA, Lowder CY.</emphasis> 1996. Corneal anesthetic abuse and <citetitle><emphasis>Candida</emphasis></citetitle> keratitis. <citetitle><emphasis>Ophthalmology</emphasis></citetitle> <emphasis role="strong">103:</emphasis>37–40.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0045" role="bibliographyEntry">
+            <para>45.<emphasis role="strong">Tanure MA, Cohen EJ, Sudesh S, Rapuano CJ, Laibson PR.</emphasis> 2000. Spectrum of fungal keratitis at Wills Eye Hospital, Philadelphia, Pennsylvania. <citetitle><emphasis>Cornea</emphasis></citetitle> <emphasis role="strong">19:</emphasis>307–312.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0046" role="bibliographyEntry">
+            <para>46.<emphasis role="strong">Sonntag HG.</emphasis> 2002. Sampling and transport of specimens for microbial diagnosis of ocular infections. <citetitle><emphasis>Dev Ophthalmol</emphasis></citetitle> <emphasis role="strong">33:</emphasis>362–367.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0047" role="bibliographyEntry">
+            <para>47.<emphasis role="strong">Kwon-Chung KJ, Bennett J.</emphasis> 1992. <citetitle><emphasis>Medical Mycology.</emphasis></citetitle> Lea &amp; Febiger, Philadelphia, PA.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0048" role="bibliographyEntry">
+            <para>48.<emphasis role="strong">Reimer LG, Carroll KC.</emphasis> 1998. Role of the microbiology laboratory in the diagnosis of lower respiratory tract infections. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">26:</emphasis>742–748.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0049" role="bibliographyEntry">
+            <para>49.<emphasis role="strong">Wolf J, Daley AJ.</emphasis> 2007. Microbiological aspects of bacterial lower respiratory tract illness in children: typical pathogens. <citetitle><emphasis>Paediatr Respir Rev</emphasis></citetitle> <emphasis role="strong">8:</emphasis>204–210, quiz 210–211.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0050" role="bibliographyEntry">
+            <para>50.<emphasis role="strong">Müller FM, Seidler M.</emphasis> 2010. Characteristics of pathogenic fungi and antifungal therapy in cystic fibrosis. <citetitle><emphasis>Expert Rev Anti Infect Ther</emphasis></citetitle> <emphasis role="strong">8:</emphasis>957–964.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0051" role="bibliographyEntry">
+            <para>51.<emphasis role="strong">Blyth CC, Harun A, Middleton PG, Sleiman S, Lee O, Sorrell TC, Meyer W, Chen SC.</emphasis> 2010. Detection of occult <citetitle><emphasis>Scedosporium</emphasis></citetitle> species in respiratory tract specimens from patients with cystic fibrosis by use of selective media. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">48:</emphasis>314–316.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0052" role="bibliographyEntry">
+            <para>52.<emphasis role="strong">Carroll K, Reimer L.</emphasis> 1996. Microbiology and laboratory diagnosis of upper respiratory tract infections. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">23:</emphasis>442–448.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0053" role="bibliographyEntry">
+            <para>53.<emphasis role="strong">Chapin-Robertson K, Dahlberg SE, Edberg SC.</emphasis> 1992. Clinical and laboratory analyses of Cytospin-prepared Gram stains for recovery and diagnosis of bacteria from sterile body fluids. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">30:</emphasis>377–380.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0054" role="bibliographyEntry">
+            <para>54.<emphasis role="strong">Shanholtzer CJ, Schaper PJ, Peterson LR.</emphasis> 1982. Concentrated gram stain smears prepared with a Cytospin centrifuge. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">16:</emphasis>1052–1056.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0055" role="bibliographyEntry">
+            <para>55.<emphasis role="strong">Cimbaluk D, Scudiere J, Butsch J, Jakate S.</emphasis> 2005. Invasive candidal enterocolitis followed shortly by fatal cerebral hemorrhage in immunocompromised patients. <citetitle><emphasis>J Clin Gastroenterol</emphasis></citetitle> <emphasis role="strong">39:</emphasis>795–797.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0056" role="bibliographyEntry">
+            <para>56.<emphasis role="strong">Kouklakis G, Dokas S, Molyvas E, Vakianis P, Efthymiou A.</emphasis> 2001. <citetitle><emphasis>Candida</emphasis></citetitle> colitis in a middle-aged male receiving permanent haemodialysis. <citetitle><emphasis>Eur J Gastroenterol Hepatol</emphasis></citetitle> <emphasis role="strong">13:</emphasis>735–736.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0057" role="bibliographyEntry">
+            <para>57.<emphasis role="strong">Forbes BA, Sahm DF, Weissfeld AS.</emphasis> 2007. <citetitle><emphasis>Bailey &amp; Scott’s Diagnostic Microbiology</emphasis></citetitle>, 12th ed. Mosby Elsevier, St. Louis, MO.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0058" role="bibliographyEntry">
+            <para>58.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2019. <citetitle><emphasis>Antibiotic Resistance Threats in the United States, 2019.</emphasis></citetitle> U.S. Department of Health and Human Services, CDC, Atlanta, GA.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0059" role="bibliographyEntry">
+            <para>59.<emphasis role="strong">Leach L, Zhu Y, Chaturvedi S.</emphasis> 2018. Development and validation of a real-time PCR assay for rapid detection of <citetitle><emphasis>Candida auris</emphasis></citetitle> from surveillance samples. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">56:</emphasis>e01223-17.</para>
+          </listitem>
+          <listitem id="ch0139s000000li0060" role="bibliographyEntry">
+            <para>60.<emphasis role="strong">Welsh RM, Bentz ML, Shams A, Houston H, Lyons A, Rose LJ, Litvintseva AP.</emphasis> 2017. Survival, persistence, and isolation of the emerging multidrug-resistant pathogenic yeast <citetitle><emphasis>Candida auris</emphasis></citetitle> on a plastic health care surface. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">55:</emphasis>2996–3005.</para>
+          </listitem>
+        </itemizedlist>
+      </sect2>
+    </sect1>
+  </chapter>

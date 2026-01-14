@@ -1,0 +1,1190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0138">
+    <title>GENERAL</title>
+    <sect1 id="ch0138s0001">
+      <title>GENERAL</title>
+      <anchor id="ch0138s000000a0001"/>
+      <sect2 id="ch0138s0001s0001">
+        <title>117 Taxonomy, Classification, and Nomenclature of Fungi</title>
+        <anchor id="ch0138s010001a0001"/>
+        <para id="ch0138s000000p0001" role="chapterAuthor">CONNIE F. CAÑETE‐GIBAS AND NATHAN P. WIEDERHOLD</para>
+        <para id="ch0138s000000p0002">Although there are greater than 135,000 named species of fungi, the number of undescribed species has been estimated to be more than 12 million, and between 1,000 to &gt;2,500 new species are described annually (<link linkend="ch0138s000000li0002">1</link>–<link linkend="ch0138s000000li0004">3</link>). Of the known fungal species, greater than 700 have commonly been associated with disease in humans and animals, and &gt;100 are true pathogens, capable of causing cutaneous or subcutaneous infections, such as the dermatophytes, or invasive disease in otherwise healthy individuals, such as endemic dimorphic species (e.g., <emphasis>Blastomyces</emphasis> spp., <emphasis>Histoplasma</emphasis> spp., <emphasis>Coccidioides</emphasis> spp., and <emphasis>Paracoccidioides</emphasis> spp.) as well as <emphasis>Rhinocladiella mackenziei</emphasis> and <emphasis>Cladophialophora bantiana</emphasis> (<link linkend="ch0138s000000li0005">4</link>). However, an increasing number of ubiquitous fungi, primarily environmental molds found in soil or on plants, wood, compost heaps, or decomposing food, are being implicated as opportunistic pathogens capable of producing serious disease in immunocompromised hosts and those with multiple comorbidities. These molds, which are familiar to plant pathologists, food microbiologists, and mycologists, are unfamiliar to clinical microbiologists with little to no formal training in fungal identification. Identification of fungi solely by phenotypic characteristics requires familiarity with a range of different structures and terminology. However, the advent of rapid molecular and proteomic assays have transformed this process, facilitating the accurate identification of clinical isolates. In addition, these new methods of analysis are having a substantial impact on the taxonomy and nomenclature of fungi, including many medically important species.</para>
+        <sect3 id="ch0138s0001s0001s0001">
+          <title>MORPHOLOGICAL CHARACTERISTICS OF THE FUNGI</title>
+          <anchor id="ch0138s010001a0002"/>
+          <anchor id="ch0138s000000a0002"/>
+          <para id="ch0138s000000p0003">Fungi form a clade of eukaryotic organisms that differ from other groups in several aspects. Fungal cells are encased within a rigid cell wall, mostly composed of chitin, glucan, chitosan, mannan, and glycoproteins, with the compositions different between different groups of fungi. In contrast, animal cells have no cell walls, and plant cell walls have cellulose as the major component. As in other eukaryotic organisms, fungal cells have a true nucleus with a surrounding membrane, and cell division is accompanied by meiosis or mitosis.</para>
+          <para id="ch0138s000000p0004">Fungi lack chlorophyll (i.e., they are heterotrophic, meaning that they obtain energy through the intake and digestion of organic substances). Thus, they require preformed organic carbon compounds for their nutrition and live embedded in a food source or medium in order to obtain nourishment by secreting enzymes into the external substrate and then absorbing nutrients through their cell wall. Fungi are ubiquitous in nature and perform an essential service by returning nutrients removed by plants to the soil.</para>
+          <para id="ch0138s000000p0005">Fungi can be either multicellular or unicellular. The basic structural unit of multicellular fungi is a chain of multinucleate, tubular, filament‐like cells (termed a hypha, plural hyphae). The vegetative stage of most multicellular fungi consists of a mass of branching hyphae, termed a mycelium or thallus. Each individual hypha has a rigid cell wall and increases in length as a result of apical growth with mitotic cell division. In some fungi, the hyphae remain aseptate (without cross‐walls). In other groups, the hyphae are divided into compartments or cells by the development of more or less frequent cross‐walls, termed septa, and such hyphae are referred to as septate. Fungi that exist in the form of microscopic multicellular mycelium are commonly called molds.</para>
+          <para id="ch0138s000000p0006">Many fungi can exist in the form of independent single cells and propagate by budding out similar cells from their surface. The bud may remain attached to the parent cell and produce another bud, or it may become detached from the parent cell. When buds remain attached and produce other buds, a chain of cells may be produced. Fungi that do not produce hyphae, but instead consist of a loose arrangement of budding cells, are called yeasts. Under certain conditions, continued elongation of the parent cell before budding results in a chain of elongated cells, termed pseudohyphae. Unlike a true hypha, the connection between adjacent pseudohyphal cells shows a marked constriction. Yeasts are a growth form observed in a wide range of unrelated fungi and are neither a natural nor a formal taxonomic group.</para>
+          <para id="ch0138s000000p0007">Many medically important fungi change their growth form as part of the process of tissue invasion. These dimorphic pathogens usually change from a multicellular mold form in the environment to a budding, single‐celled yeast form in tissue under the influence of temperature (known as thermal dimorphism). Well‐known examples include<emphasis>Histoplasma</emphasis> spp., <emphasis>Blastomyces</emphasis> spp., <emphasis>Paracoccidioides</emphasis> spp., and <emphasis>Sporothrix</emphasis> spp. (see <ulink url="ch0147#ch0147s0001">chapter 126</ulink> of this <emphasis>Manual</emphasis>). Many other fungal pathogens, although not thermally dimorphic, demonstrate subtle morphological differences between forms found in tissue and in culture (e.g., <emphasis>Candida</emphasis> spp. exhibiting yeast, pseudohyphae, or hyphae in tissue, which is species specific) (see <ulink url="ch0142#ch0142s0001s0001">chapter 121</ulink>).</para>
+          <anchor id="ch0138s000000a0003"/>
+          <beginpage pagenum="2276"/>
+          <para id="ch0138s000000p0008">Some fungi reproduce by means of microscopic propagules called spores or conidia. The term “conidium” (plural, conidia) is used to describe propagules that result from asexual reproduction (involving mitosis only). Asexual conidia are identical to the parent, with the exception of the occasional mutation. These are generally short‐lived propagules that are produced in enormous numbers to ensure dispersion to new habitats. Many fungi are also capable of sexual reproduction (involving meiosis, preceded by fusion of the nuclei of two cells). Some species are self‐fertile (homothallic) and able to form sexual structures between different cells within an individual thallus. Most, however, are heterothallic and do not form sexual structures unless two compatible isolates come into contact. Once two compatible haploid nuclei fuse, meiosis can occur, and this results in the production of the sexual spores. In some species the haploid sexual spores are borne singly on specialized generative cells, and the whole structure is microscopic in size. In other cases, however, the spores are produced in millions in macroscopic “fruiting bodies” such as mushrooms. The structures observed with sexual reproduction form one scheme for the classification of the fungi.</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0001s0002">
+          <title>NOMENCLATURE OF FUNGI</title>
+          <anchor id="ch0138s010001a0003"/>
+          <anchor id="ch0138s000000a0004"/>
+          <para id="ch0138s000000p0009">The scientific names of fungi are subject to the International Code of Nomenclature for algae, fungi, and plants (ICN) that was adopted in 2011 (<ulink url="http://www.iapt-taxon.org/nomen/main.php">http://www.iapt‐taxon.org/nomen/main.php</ulink>). The ICN rules must be followed when proposing the name for a new fungal species, or the name being proposed can be rejected as invalid (<link linkend="ch0138s000000li0006">5</link>). The main requirements for valid publication of a new name include: (i) the name must be in Latin binomial form; (ii) the proposal must be accompanied by an English or Latin description; (iii) a living culture of the specimen on which the author based the description of the species must be deposited in a recognized culture collection; and (iv) the name must be registered with the online taxonomy database MycoBank (<ulink url="http://www.mycobank.org/">http://www.mycobank.org/</ulink>) and assigned a MycoBank registration number.</para>
+          <para id="ch0138s000000p0010">Names of fungi change for various reasons. Many common and widely distributed species have been described as new several times and thus have come to have more than one name. In general, the correct name for any species is the earliest name published in line with the requirements of the code of nomenclature. Later names are termed synonyms. However, the ICN permits certain exceptions, the most significant of which is when an earlier generic name has been overlooked, a later name has then come into common use, and a reversion to the earlier name would cause problems (<link linkend="ch0138s000000li0006">5</link>).</para>
+          <para id="ch0138s000000p0011">Another reason for changing the name of a fungus is when new research determines that the transfer of a species from one genus to another is necessary or establishes it as the type of a new genus. Such changes are quite in order, but with the provision that the specific epithet should remain unchanged, except for inflection according to the rules of Latin grammar. However often a species is transferred to a new genus, the correct species epithet is always the first one that was applied to that particular organism. As an example, when<emphasis>Phialophora parasitica</emphasis> was moved to a new genus, it became <emphasis>Phaeoacremonium parasiticum</emphasis> (<link linkend="ch0138s000000li0007">6</link>).</para>
+          <para id="ch0138s000000p0012">Many fungi appear to bear more than one name, and this is often confusing to microbiologists, as this is an apparent departure from the basic principle of biological classification, in which an organism can only have one correct name. As previously noted, many fungi have an asexual stage (or anamorph), characterized by the production of asexual conidia, and a sexual stage (or teleomorph) characterized by sexual spores (e.g., ascospores, basidiospores). Many fungi propagate asexually and the teleomorph is unknown or only rarely encountered. Because of this, separate names have been assigned to the anamorphs and teleomorphs, which may have occurred at different times without the connection between them being recognized. With the widespread application of molecular methods, it is now possible to confirm that these separate forms constitute a single species. There are numerous instances where different names applied to the asexual and sexual forms of the same species are now redundant (<link linkend="ch0138s000000li0008">7</link>).</para>
+          <para id="ch0138s000000p0013">These developments are reflected in the most recent code of nomenclature. As of 1 January 2013, the system of permitting separate anamorph and teleomorph names ended; the dual‐naming system is no longer permitted, and mycologists have begun the process of choosing one name from existing names for many fungal species. All legitimate names proposed for a species, whether for the sexual or asexual form, can in the future serve as the correct name for that species. Working groups and committees have been established under the auspices of the International Commission on the Taxonomy of Fungi (ICTF) (<ulink url="http://www.fungaltaxonomy.org/subcommissions">http://www.fungaltaxonomy.org/subcommissions</ulink>), and these will propose lists of accepted and rejected names for ratification.</para>
+          <para id="ch0138s000000p0014">Name changes for fungi are not new, but these have accelerated as a consequence of the availability of new molecular data. Species recognition based on phylogenies has led to more accurate delineation of taxonomic boundaries that resulted in the ongoing revisions to classification of pathogens (<link linkend="ch0138s000000li0009">8</link>). An example of a fungus that has undergone multiple name changes is <emphasis>Scedosporium boydii.</emphasis> This species was first described in 1922 as <emphasis>Allescheria boydii</emphasis> under the genus <emphasis>Monascus</emphasis> (<link linkend="ch0138s000000li0010">9</link>). In 1970, Malloch, while studying members of the Microascaceae, observed that the ascomata and ascospores produced by <emphasis>Allescheria boydii</emphasis> did not fit with those of the accepted species in <emphasis>Monascus</emphasis> or any of the existing genera of cleistothecial ascomycetes. Malloch proposed a new genus, <emphasis>Petriellidium</emphasis>, for <emphasis>A. boydii</emphasis> and placed the new genus in the Microascaceae (<link linkend="ch0138s000000li0011">10</link>). In 1943 and 1944, Negroni and Fisher described a new genus and species <emphasis>Pseudallescheria shearii</emphasis> for an ascomycete that was isolated from a human case of mycetoma, and McGinnis et al. (1982) found that <emphasis>Petriellidium</emphasis> and <emphasis>Pseudallescheria</emphasis> were congeneric (<link linkend="ch0138s000000li0012">11</link>). Thus, <emphasis>Pseudallescheria</emphasis> was adopted as the proper name for this genus. Although <emphasis>Petriellidium</emphasis> was described earlier than <emphasis>Pseudallescheria</emphasis>, the decision to use <emphasis>Pseudallescheria</emphasis> as the proper name and place <emphasis>Petriellidium</emphasis> into synonymy was a consideration to the medical community regarding the difficulty brought about by name changes of medically important fungi. Moreover, McGinnis et al. also found evidence that <emphasis>P. shearii</emphasis> and <emphasis>P. boydii</emphasis> were conspecific. Because <emphasis>P. boydii</emphasis> was described in 1922, <emphasis>P. shearii</emphasis> must be treated as a later synonym of <emphasis>P. boydii</emphasis> (<link linkend="ch0138s000000li0012">11</link>). <emphasis>Pseudallescheria</emphasis> species have <emphasis>Scedosporium</emphasis> anamorphs. In accordance with the new International Code of Nomenclature, <emphasis>Scedosporium</emphasis> has priority over <emphasis>Pseudallescheria</emphasis>, and thus <emphasis>Scedosporium boydii</emphasis> is adopted as the current name (<link linkend="ch0138s000000li0013">12</link>). Other examples of fungal nomenclature changes are shown in <anchor id="ch0138s000000a0006"/><link linkend="ch0138s000000a0007">Table 1</link>.</para>
+          <anchor id="ch0138s000000a0005"/>
+          <beginpage pagenum="2277"/>
+          <table id="ch0138s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0138s000000a0007"/><link linkend="ch0138s000000a0006">TABLE 1</link></phrase></emphasis> Examples of changes in nomenclature of clinically relevant fungi<superscript><emphasis><anchor id="ch0138s000000a0008"/><link linkend="ch0138s000000a0009">a</link></emphasis></superscript>
+</title>
+            
+            <tgroup cols="4">
+              <tbody>
+                <row>
+                  <entry><phrase role="center">Previous name</phrase>
+                  </entry>
+                  <entry><phrase role="center">Revised name</phrase>
+                  </entry>
+                  <entry><phrase role="center">Previous name</phrase>
+                  </entry>
+                  <entry><phrase role="center">Revised name</phrase>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis role="strong">Dermatophytes</emphasis>
+                  </entry>
+                  <entry><emphasis role="strong">Yeasts</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Microsporum cookei</emphasis>
+                  </entry>
+                  <entry><emphasis>Paraphyton cookei</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida bracarensis</emphasis>
+                  </entry>
+                  <entry><emphasis>Nakaseomyces bracarensia</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Microsporum gallinae</emphasis>
+                  </entry>
+                  <entry><emphasis>Lophophyton gallinae</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida catenulata</emphasis>
+                  </entry>
+                  <entry><emphasis>Diutina catenulata</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Microsporum gypseum</emphasis>
+                  </entry>
+                  <entry><emphasis>Nannizzia gypsea</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida fabianii</emphasis>
+                  </entry>
+                  <entry><emphasis>Cyberlinderna fabianii</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Microsporum nanum</emphasis>
+                  </entry>
+                  <entry><emphasis>Nannizzia nana</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida famata</emphasis>
+                  </entry>
+                  <entry><emphasis>Debaryomyces hansenii</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Microsporum persicolor</emphasis>
+                  </entry>
+                  <entry><emphasis>Nannizzia persicolor</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida fermentati</emphasis>
+                  </entry>
+                  <entry><emphasis>Meyerozyma caribbica</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis role="strong">Dimorphic fungi</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida glabrata</emphasis>
+                  </entry>
+                  <entry><emphasis>Nakaseomyces glabrata</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Emmonsia crescens</emphasis>
+                  </entry>
+                  <entry><emphasis>Emergomyces crescens</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida kefyr</emphasis>
+                  </entry>
+                  <entry><emphasis>Kluyveromyces marxianus</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Emmonsia helica</emphasis>
+                  </entry>
+                  <entry><emphasis>Blastomyces helicus</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida krusei</emphasis>
+                  </entry>
+                  <entry><emphasis>Pichia kudriavzevii</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Emmonsia parva</emphasis>
+                  </entry>
+                  <entry><emphasis>Blastomyces parvus</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida guilliermondii</emphasis>
+                  </entry>
+                  <entry><emphasis>Meyerozyma guilliermondii</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Emmonsia pasteuriana</emphasis>
+                  </entry>
+                  <entry><emphasis>Emergomyces pasteurianus</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida lipolytica</emphasis>
+                  </entry>
+                  <entry><emphasis>Yarrowia lipolytica</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Emmonsia soli</emphasis>
+                  </entry>
+                  <entry><emphasis>Emergomyces soli</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida lusitaniae</emphasis>
+                  </entry>
+                  <entry><emphasis>Clavispora lusitaniae</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis role="strong">Molds</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida nivariensis</emphasis>
+                  </entry>
+                  <entry><emphasis>Nakaseomyces nivariensis</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Absidia corymbifera</emphasis>
+                  </entry>
+                  <entry><emphasis>Lichtheimia corymbifera</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida norvegensis</emphasis>
+                  </entry>
+                  <entry><emphasis>Pichia norvegensis</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Bipolaris australiensis</emphasis>
+                  </entry>
+                  <entry><emphasis>Curvularia australiensis</emphasis>
+                  </entry>
+                  <entry><emphasis>Candida rugosa</emphasis>
+                  </entry>
+                  <entry><emphasis>Diutina rugosa</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Bipolaris hawaiiensis</emphasis>
+                  </entry>
+                  <entry><emphasis>Curvularia hawaiiensis</emphasis>
+                  </entry>
+                  <entry><emphasis>Cryptococcus albidus</emphasis>
+                  </entry>
+                  <entry><emphasis>Naganishia albida</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Bipolaris spicifera</emphasis>
+                  </entry>
+                  <entry><emphasis>Curvularia spicifera</emphasis>
+                  </entry>
+                  <entry><emphasis>Cryptococcus diffluens</emphasis>
+                  </entry>
+                  <entry><emphasis>Naganishia diffluens</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Geosmithia argillacea</emphasis>
+                  </entry>
+                  <entry><emphasis>Rasamsonia argillacea</emphasis>
+                  </entry>
+                  <entry><emphasis>Cryptococcus laurentii</emphasis>
+                  </entry>
+                  <entry><emphasis>Papiliotrema laurentii</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Neosartorya pseudofischeri</emphasis>
+                  </entry>
+                  <entry><emphasis>Aspergillus thermomutatus</emphasis>
+                  </entry>
+                  <entry><para>Geotrichum capitatum/</para>
+                    <para id="ch0138s000000p0015"><emphasis>Blastoschizomyces capitatus</emphasis>
+                    </para>
+                  </entry>
+                  <entry><emphasis>Magnusiomyces capitatus</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Neosartorya udagawae</emphasis>
+                  </entry>
+                  <entry><emphasis>Aspergillus udagawae</emphasis>
+                  </entry>
+                  <entry><para>Geotrichum clavatum/</para>
+                    <para id="ch0138s000000p0016"><emphasis>Saprochaeta clavata</emphasis>
+                    </para>
+                  </entry>
+                  <entry><emphasis>Magnusiomyces clavatus</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Ochroconis gallopava</emphasis>
+                  </entry>
+                  <entry><emphasis>Verruconis gallopava</emphasis>
+                  </entry>
+                  <entry><emphasis>Rhodotorula minuta</emphasis>
+                  </entry>
+                  <entry><emphasis>Cystobasidium minutum</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Paecilomyces lilacinus</emphasis>
+                  </entry>
+                  <entry><emphasis>Purpureocillium lilacinum</emphasis>
+                  </entry>
+                  <entry><emphasis>Trichosporon cutaneum</emphasis>
+                  </entry>
+                  <entry><emphasis>Cutaneotrichospron cutaneum</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Penicillium marneffei</emphasis>
+                  </entry>
+                  <entry><emphasis>Talaromyces marneffei</emphasis>
+                  </entry>
+                  <entry><emphasis>Trichosporon loubieri</emphasis>
+                  </entry>
+                  <entry><emphasis>Apiotrichum loubieri</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Pseudallescheria boydii</emphasis>
+                  </entry>
+                  <entry><emphasis>Scedosporium boydii</emphasis>
+                  </entry>
+                  <entry><emphasis>Trichosporon mucoides</emphasis>
+                  </entry>
+                  <entry><emphasis>Cutaneotrichosporon mucoides</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><emphasis>Scedosporium prolificans</emphasis>
+                  </entry>
+                  <entry><emphasis>Lomentospora prolificans</emphasis>
+                  </entry>
+                  <entry><emphasis>Trichosporon mycotoxinovorans</emphasis>
+                  </entry>
+                  <entry><emphasis>Apiotrichum mycotoxinovorans</emphasis>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para role="table-footnote"><superscript><emphasis><anchor id="ch0138s000000a0009"/><link linkend="ch0138s000000a0008">a</link></emphasis></superscript>From references <link linkend="ch0138s000000li0009">8</link>, <link linkend="ch0138s000000li0015">14</link>, and <link linkend="ch0138s000000li0049">48</link>.</para>
+          <para role="table-footnote">Note: not all names have been officially accepted.</para>
+          <para id="ch0138s000000p0017">Changes in nomenclature as a consequence of taxonomic revisions have been met with trepidation among the medical community and have raised concerns (<link linkend="ch0138s000000li0014">13</link>). These changes may have clinical repercussions in that there may be disconnects between the mycological and medical literature, potentially leading to issues in patient management. Steps can be taken to mitigate these effects. For example, reporting laboratories can support the transition by reporting both the more familiar species name and the new name, e.g., “<emphasis>Candida krusei</emphasis> (now known as <emphasis>Pichia kudriavsevii</emphasis>),” “<emphasis>Bipolaris spicifera</emphasis> (now known as <emphasis>Curvularia spicifera</emphasis>),” “<emphasis>Madurella grisea</emphasis> (now known as <emphasis>Trematosphaeria grisea</emphasis>),” or “<emphasis>Candida lusitaniae</emphasis> (now known as <emphasis>Clavispora lusitaniae</emphasis>)” (<link linkend="ch0138s000000li0014">13</link>, <link linkend="ch0138s000000li0015">14</link>). In addition, the NCBI databases for journal articles and molecular data are strongly supported by a standardized taxonomy database, which ensures that searches for a particular organism retrieve all relevant material, regardless of the species names that were originally submitted (<link linkend="ch0138s000000li0014">13</link>). Another example where confusion resulting from newly created names may be prevented is with the use of the term “species complex” (<link linkend="ch0138s000000li0008">7</link>, <link linkend="ch0138s000000li0015">14</link>, <link linkend="ch0138s000000li0016">15</link>), which has been recommended for <emphasis>Cryptococcus neoformans</emphasis> species complex and <emphasis>Cryptococcus gattii</emphasis> species complex (<link linkend="ch0138s000000li0017">16</link>, <link linkend="ch0138s000000li0018">17</link>). This term has been proposed to be used in the medical literature for a group of highly similar organisms when evidence of the clinical relevance between them is lacking (<link linkend="ch0138s000000li0008">7</link>). Borman and Johnson suggested that with clear guidance and continued communication between clinicians and laboratories, taxonomic progress and changes in fungal nomenclature can move forward while minimizing risk to patients (<link linkend="ch0138s000000li0014">13</link>, <link linkend="ch0138s000000li0019">18</link>). The timing of the implementation of name changes remains a challenge for different groups. This includes professional societies that develop and publish guidelines related to fungal infections, as well as diagnostic device manufacturers that may require regulatory review and approval of changes that are made to their libraries approved for clinical use. Clinical microbiology laboratories also have to determine how frequently updates need to be made to their laboratory information systems for reporting results and how to handle changes when there is still debate regarding the accepted taxonomy of certain groups (e.g., <emphasis>Fusarium solani</emphasis> versus <emphasis>Neocosmospora solani</emphasis>) (<link linkend="ch0138s000000li0020">19</link>, <link linkend="ch0138s000000li0021">20</link>), or when formal registration of revised names is lacking within recognized registries, such as Mycobank.</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0001s0003">
+          <title>TAXONOMY AND CLASSIFICATION OF THE FUNGI</title>
+          <anchor id="ch0138s010001a0004"/>
+          <anchor id="ch0138s000000a0010"/>
+          <para id="ch0138s000000p0018">The sexual spores and their mode of production have historically formed the main basis for the classification of fungi into the Zygomycota, Ascomycota, and Basidiomycota. In some fungi, however, the asexual stage, or anamorph, has proved so successful as a means of rapid dispersal to new habitats that the sexual stage, or teleomorph, either has disappeared or has not yet been discovered. Even in the absence of the teleomorph, it is now often possible to assign these fungi to the Ascomycota or Basidiomycota on the basis of DNA sequences of the anamorphs (<link linkend="ch0138s000000li0022">21</link>). In the past, these asexual fungi were classified in an artificial group, the “Fungi Imperfecti” (also termed the “form‐division Deuteromycota”) and were divided into artificial form‐classes according to the morphological characteristics of their asexual reproductive structures (i.e., Blastomycetes, Coelomycetes, and Hyphomycetes). There is no longer any separate formal grouping for those fungi that appear to be strictly anamorphic, or for which no teleomorph has been discovered. Nonetheless, mycologists continue to employ the asexual reproductive characteristics of molds, at least for routine identification purposes (see below).</para>
+          <anchor id="ch0138s000000a0011"/>
+          <beginpage pagenum="2278"/>
+          <para id="ch0138s000000p0019">The advent of molecular phylogenetics has led to a revolution in microbial taxonomy. Previously for fungi, this was largely based on their morphological characteristics, rather than on the physiological and biochemical differences that were of such importance in bacterial classification. Recently, comparative DNA sequence analysis has led to a radical and ongoing revision of fungal taxonomy based on a phylogenetic approach (<link linkend="ch0138s000000li0023">22</link>, <link linkend="ch0138s000000li0024">23</link>). With this approach, a species is defined as a group of organisms that share concordance of multiple molecular genealogies (DNA sequences at different loci), rather than organisms that share a common morphology or organisms that can mate with one another. Concordant branches among the phylogenetic trees are used to connect species. Many different DNA loci, genes, and gene fragments have been explored, but the most widely used remain the conserved regions of the rRNA genes, in particular the two internal transcribed spacer regions of ribosomal DNA.</para>
+          <para id="ch0138s000000p0020">Advances in phylogenetic analysis have led to major revisions in the classification of eukaryotic organisms. Under one proposal (<link linkend="ch0138s000000li0025">24</link>), eukaryotes are divided into five monophyletic lineages or supergroups: (i) the SAR (derived from the acronym of three groups united in this clade: Stramenopiles, Alveolata, and Rhizaria); (ii) Archaeplastida; (iii) Excavata; (iv) Amoebozoa; and (v) Opisthokonta (see <ulink url="ch0159#ch0159s0001s0001">chapter 136</ulink>). In this classification, these supergroups replace the previous kingdoms that encompassed the eukaryotes, and the true fungi make up a monophyletic clade within the supergroup Opisthokonta. This also includes the single‐celled animals and several protist clades (<link linkend="ch0138s000000li0025">24</link>). Based on molecular analysis, a number of organisms have been reassigned to the fungi, most notably <emphasis>Pneumocystis jirovecii</emphasis>, now placed in the phylum Ascomycota, and the microsporidia (see <ulink url="ch0143#ch0143s0001">chapters 122</ulink> and <ulink url="ch0153#ch0153s0001">132</ulink>).</para>
+          <para id="ch0138s000000p0021">There are also a number of human and animal pathogens, including<emphasis>Pythium insidiosum</emphasis> and <emphasis>Rhinosporidium seeberi</emphasis> (see <ulink url="ch0152#ch0152s0001">chapter 131</ulink>), that, while not fungi <emphasis>sensu stricto</emphasis>, are “parafungi” or “pseudofungi,” protists sharing morphological features with the true fungi. <emphasis>Lagenidium</emphasis> spp. and <emphasis>Pythium</emphasis> spp. are slime‐fungus‐like organsims that were formerly classified in the kingdom Stramenopila, phylum Oomycota. They develop sparsely septate mycelioid structures similar to those seen in filamentous fungi. These genera are closely related to some algal groups and are now placed in the SAR supergroup (<link linkend="ch0138s000000li0025">24</link>). <emphasis>Rhinosporidium seeberi</emphasis> is a nonculturable organism that produces large spherical sporangia filled with endospores in tissue. This species is now in the supergroup Opisthokonta, Ichthyosporea (Mesomycetozoea), clade Holozoa (<link linkend="ch0138s000000li0025">24</link>).</para>
+          <para id="ch0138s000000p0022">One of the consequences of the widespread employment of molecular analysis for fungal identification and classification has been the discovery of genetically distinct populations that deserve species status. These newly recognized cryptic species, which can only be distinguished by molecular or proteomic means, and not by morphologic characteristics, are found within many medically important species. For example, cryptic species in<emphasis>Histoplasma capsulatum</emphasis> var. <emphasis>capsulatum</emphasis>—i.e., <emphasis>Histoplasma capsulatum</emphasis> var. <emphasis>capsulatum</emphasis> North American class 1, <emphasis>Histoplasma capsulatum</emphasis> var. <emphasis>capsulatum</emphasis> North American class 2, and <emphasis>Histoplasma capsulatum</emphasis> var. <emphasis>capsulatum</emphasis> Latin American group A—have been proposed to species status as <emphasis>Histoplasma mississippiense, Histoplasma ohiense</emphasis>, and <emphasis>Histoplasma suramericanum</emphasis>, respectively (<link linkend="ch0138s000000li0026">25</link>). <emphasis>Coccidioides posadasii</emphasis> has been separated from <emphasis>Coccidioides immitis</emphasis> (<link linkend="ch0138s000000li0027">26</link>), while <emphasis>Blastomyces gilchristii</emphasis> and <emphasis>Paracoccidioides lutzii</emphasis> are genetically distinct from <emphasis>B. dermatitidis</emphasis> and <emphasis>P. brasiliensis</emphasis> (<link linkend="ch0138s000000li0028">27</link>, <link linkend="ch0138s000000li0029">28</link>). It is unclear at present whether the detection of these particular cryptic species contributes to patient management. However, this may change, and there are examples where cryptic species have been found to possess distinct phenotypic characteristics of potential clinical relevance. For instance, <emphasis>Aspergillus lentulus,</emphasis> a cryptic species in <emphasis>Aspergillus</emphasis> section <emphasis>Fumigati</emphasis>, is less susceptible to antifungal agents (see <ulink url="ch0144#ch0144s0001">chapter 123</ulink>) (<link linkend="ch0138s000000li0030">29</link>).</para>
+        </sect3>
+      </sect2>
+      <sect2 id="ch0138s0001s0002">
+        <title>Kingdom Fungi</title>
+        <anchor id="ch0138s010002a0001"/>
+        <anchor id="ch0138s000000a0012"/>
+        <para id="ch0138s000000p0023">Traditionally, the kingdom Fungi has been organized in a hierarchical manner, each rank being named with, and recognizable by, a particular ending: phylum, ‐mycota; subphylum, ‐mycotina; class, ‐mycetes; order, ‐ales; family: ‐aceae (<link linkend="ch0138s000000li0031">30</link>). Each family is composed of a number of genera, and these are divided into species. With the advent of molecular methods and phylogenetic analysis, there has been particular instability in the use of higher taxonomic ranks because of the comparative nature of the data and also because no “gold standard” exists to define boundaries between different groups at any level (<link linkend="ch0138s000000li0008">7</link>). In their comprehensive phylogenetic classification of the kingdom Fungi, Hibbett et al. (<link linkend="ch0138s000000li0015">14</link>) accepted 7 phyla, 10 subphyla, 35 classes, 12 subclasses, and 129 orders. However, these familiar grouping names are no longer used in the latest revision to eukaryote classification (<link linkend="ch0138s000000li0002">1</link>, <link linkend="ch0138s000000li0025">24</link>). Tedersoo et al. (<link linkend="ch0138s000000li0002">1</link>) introduced several changes at the phylum (plural phyla) and class levels and created subkingdoms to enable clarity in the relationships of phyla. The nine subkingdoms that constitute the true fungi are Dikarya (Basidiomycota, Ascomycota, and Entorrhizomycota), Mucoromyceta (Calcarisporiellomycota, Glomeromycota, Mortierellomycota, and Mucoromycota), Zoopagomyceta (Entomophthoromycota, Kickxellomycota, and Zoopagomycota), and Chytridiomyceta (Chytridiomycota, Monoblepharomycota, and Neocallimastigomycota), which comprise multiple phyla, whereas Aphelidiomyceta, Basidiobolomyceta, Blastocladiomyceta, Olpidiomyceta, and Rozellomyceta each cover a single phylum. The phylum Zygomycota is no longer accepted due to its polyphyletic nature (<link linkend="ch0138s000000li0032">31</link>). Eight taxa were raised from lower taxonomic levels to phylum rank—i.e., Basidiobolomycota, Calcarisporiellomycota, Glomeromycota, Entomophthoromycota, Kickxellomycota, Monoblepharomycota, Mortierellomycota, and Olpidiomycota—to follow the criteria of monophyly and comparable divergence time.</para>
+        <para id="ch0138s000000p0024">Two subkingdoms, Dikarya and Mucoromyceta, include most major groups of medically important species as discussed below. A simplified taxonomic scheme illustrating the major groups of medically important fungi is presented in<anchor id="ch0138s000000a0013"/><link linkend="ch0138s000000a0018">Table 2</link>. Groups that include medically important species are described in the following sections. A simplified key to their identification is provided in <anchor id="ch0138s000000a0014"/><link linkend="ch0138s000000a0023">Table 3</link>.</para>
+        <sect3 id="ch0138s0001s0002s0001">
+          <title>Phylum Ascomycota (Subkingdom Dikarya)</title>
+          <anchor id="ch0138s010002a0002"/>
+          <anchor id="ch0138s000000a0015"/>
+          <para id="ch0138s000000p0025">This large phylum contains almost 50% of all named fungal species and accounts for around 80% of fungi of medical importance (<link linkend="ch0138s000000li0033">32</link>). Three subphyla (Pezizomycotina, Saccharomycotina, and Taphrinomycotina) are recognized (<link linkend="ch0138s000000li0032">31</link>). Sexual reproduction leads to the development of haploid spores, termed ascospores, which are produced in a sac‐like structure termed an ascus. The Ascomycota show a gradual transition from primitive forms that produce single asci to species that produce large structures, termed ascocarps or ascomata, containing numerous asci. Variations in ascus structure are of major importance in the classification of these fungi. Asexual reproduction consists of the production of conidia from a generative or conidiogenous cell. In some species the conidiogenous cell cannot be distinguished from the rest of the mycelium. In others, a special structure is produced which bears one or more conidiogenous cells. Many genetically unrelated species among the Ascomycota have very similar conidial structures, while other genetically similar species differ vastly in their morphological characteristics.</para>
+          <anchor id="ch0138s000000a0016"/>
+          <beginpage pagenum="2279"/>
+          <anchor id="ch0138s000000a0017"/>
+          <beginpage pagenum="2280"/>
+          <table id="ch0138s000000t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0138s000000a0018"/><link linkend="ch0138s000000a0013">TABLE 2</link></phrase></emphasis> Simplified taxonomic scheme illustrating major groups of the kingdom Fungi in which fungi are classified<superscript><emphasis><anchor id="ch0138s000000a0019"/><link linkend="ch0138s000000a0021">a</link></emphasis></superscript>
+</title>
+            
+            <tgroup cols="5">
+              <tbody>
+                <row>
+                  <entry><phrase role="center">Subkingdom</phrase></entry>
+                  <entry><phrase role="center">Phylum</phrase></entry>
+                  <entry><phrase role="center">Class</phrase></entry>
+                  <entry><phrase role="center">Representative order</phrase></entry>
+                  <entry><phrase role="center">Representative genera</phrase></entry>
+                </row>
+                <row>
+                  <entry>Aphelidiomyceta<anchor id="ch0138s000000a0020"/><link linkend="ch0138s000000a0022">*</link></entry>
+                  <entry>Aphelidiomycota<link linkend="ch0138s000000a0022">*</link></entry>
+                  <entry>Aphelidiomycetes</entry>
+                  <entry>Aphelidiales</entry>
+                  <entry><emphasis>Aphelidium</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Basidiobolomyceta</entry>
+                  <entry>Basidiobolomycota</entry>
+                  <entry>Basidiobolomycetes</entry>
+                  <entry>Basidiobolales</entry>
+                  <entry><emphasis>Basidiobolus</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Blastocladiomyceta<link linkend="ch0138s000000a0022">*</link></entry>
+                  <entry>Blastocladiomycota<link linkend="ch0138s000000a0022">*</link></entry>
+                  <entry>Blastocladiomycetes</entry>
+                  <entry>Blastocladiales</entry>
+                  <entry><emphasis>Blastocladiella</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Chytridiomyceta</entry>
+                  <entry>Chytridiomycota</entry>
+                  <entry>Rhizophydiomycetes</entry>
+                  <entry>Rhyzophidiales</entry>
+                  <entry><emphasis>Batrachochytrium</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><para id="ch0138s000000p0026">Dikarya</para>
+                  </entry>
+                  <entry><para id="ch0138s000000p0027">Basidiomycota</para>
+                  </entry>
+                  <entry>Tremellomycetes</entry>
+                  <entry>Tremellales</entry>
+                  <entry><emphasis>Cryptococcus, Trichosporon</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Malasseziomycetes</entry>
+                  <entry>Malasseziales</entry>
+                  <entry><emphasis>Malassezia</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Ustilaginomycetes</entry>
+                  <entry>Ustilaginales</entry>
+                  <entry><emphasis>Moesziomyces</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><para id="ch0138s000000p0028">Agaricomycetes</para>
+                  </entry>
+                  <entry>Agaricales</entry>
+                  <entry><emphasis>Schizophyllum</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Polyporales</entry>
+                  <entry><emphasis>Phanerochaete</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><para id="ch0138s000000p0029">Ascomycota</para>
+                  </entry>
+                  <entry><para id="ch0138s000000p0030">Eurotiomycetes</para>
+                  </entry>
+                  <entry>Arachnomycetales</entry>
+                  <entry><emphasis>Arachnomyces</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Chaetothyriales</entry>
+                  <entry><emphasis>Cladophialophora, Exophiala</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Eurotiales</entry>
+                  <entry><emphasis>Aspergillus, Penicillium, Talaromyces</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Onygenales</entry>
+                  <entry><emphasis>Trichophyton, Microsporum, Histoplasma, Blastomyces, Emergomyces, Coccidioides</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Pneumocystidomycetes</entry>
+                  <entry>Pneumocystidales</entry>
+                  <entry><emphasis>Pneumocystis</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Saccharomycetes</entry>
+                  <entry>Saccharomycetales</entry>
+                  <entry><emphasis>Saccharomyces, Pichia, Candida</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry><para id="ch0138s000000p0031">Sordariomycetes</para>
+                  </entry>
+                  <entry>Sordariales</entry>
+                  <entry><emphasis>Chaetomium, Madurella</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Hypocreales</entry>
+                  <entry><emphasis>Fusarium</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Microascales</entry>
+                  <entry><emphasis>Scedosporium, Lomentospora, Microascus, Scopulariopsis</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Mucoromyceta</entry>
+                  <entry>Mucoromycota</entry>
+                  <entry>Mucoromycetes</entry>
+                  <entry>Mucorales</entry>
+                  <entry><emphasis>Apophysomyces, Lichtheimia, Mucor, Rhizopus, Rhizomucor</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Olpidiomyceta<link linkend="ch0138s000000a0022">*</link></entry>
+                  <entry>Olpidiomycota<link linkend="ch0138s000000a0022">*</link></entry>
+                  <entry>Olpidiomycetes</entry>
+                  <entry>Olpidiales</entry>
+                  <entry><emphasis>Olpidium</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Rozellomyceta<link linkend="ch0138s000000a0022">*</link></entry>
+                  <entry>Rozellomycota<link linkend="ch0138s000000a0022">*</link></entry>
+                  <entry>Microsporidea</entry>
+                  <entry>NA</entry>
+                  <entry><emphasis>Rozella</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Zoopagomyceta</entry>
+                  <entry>Entomophthoromycota</entry>
+                  <entry>Entomophthoromycetes</entry>
+                  <entry>Entomophthorales</entry>
+                  <entry><emphasis>Conidiobolus</emphasis>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para role="table-footnote"><superscript><emphasis><anchor id="ch0138s000000a0021"/><link linkend="ch0138s000000a0019">a</link></emphasis></superscript>Modified from reference <link linkend="ch0138s000000li0002">1</link>.</para>
+          <para role="table-footnote"><superscript><emphasis><anchor id="ch0138s000000a0022"/><link linkend="ch0138s000000a0020">*</link></emphasis></superscript>These subkingdoms and phyla have no known human opportunistic pathogens.</para>
+          <table id="ch0138s000000t0003"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0138s000000a0023"/><link linkend="ch0138s000000a0014">TABLE 3</link></phrase></emphasis> Simplified key to the main groups of medically important fungi
+</title>
+            
+            <tgroup cols="3">
+              <tbody>
+                <row>
+                  <entry>1a</entry>
+                  <entry>Fungus not culturable on routine media, occurs as cyst‐like cells in tissue . . . . . .</entry>
+                  <entry>Pneumocystidomycetes</entry>
+                </row>
+                <row>
+                  <entry>1b</entry>
+                  <entry>Fungus cultivable . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>2</entry>
+                </row>
+                <row>
+                  <entry>2a</entry>
+                  <entry>Colonies consist of budding cells at 30°C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>3</entry>
+                </row>
+                <row>
+                  <entry>2b</entry>
+                  <entry>Colonies consist of hyphae at 30°C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>5</entry>
+                </row>
+                <row>
+                  <entry>3a</entry>
+                  <entry>Colonies black . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>Black yeast</entry>
+                </row>
+                <row>
+                  <entry>3b</entry>
+                  <entry>Colonies white, cream, pink, or red . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>4</entry>
+                </row>
+                <row>
+                  <entry>4a</entry>
+                  <entry>Urease test positive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>Basidiomycetous yeasts</entry>
+                </row>
+                <row>
+                  <entry>4b</entry>
+                  <entry>Urease test negative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>Ascomycetous yeasts</entry>
+                </row>
+                <row>
+                  <entry>5a</entry>
+                  <entry>Hyphae septate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>6</entry>
+                </row>
+                <row>
+                  <entry>5b</entry>
+                  <entry>Hyphae nearly aseptate (pauciseptate) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>9</entry>
+                </row>
+                <row>
+                  <entry>6a</entry>
+                  <entry>Clamp connections present . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>Filamentous basidiomycetes</entry>
+                </row>
+                <row>
+                  <entry>6b</entry>
+                  <entry>Clamp connections absent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>7</entry>
+                </row>
+                <row>
+                  <entry>7a</entry>
+                  <entry>Fruiting bodies absent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>Hyphomycetes</entry>
+                </row>
+                <row>
+                  <entry>7b</entry>
+                  <entry>Fruiting bodies present . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>8</entry>
+                </row>
+                <row>
+                  <entry>8a</entry>
+                  <entry>Fruiting bodies containing ascospores in asci . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>Eurotiomycetes</entry>
+                </row>
+                <row>
+                  <entry>8b</entry>
+                  <entry>Fruiting bodies containing conidia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>Coelomycetes</entry>
+                </row>
+                <row>
+                  <entry>9a</entry>
+                  <entry>Sporulation abundant . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>Mucoromycetes, Entomophthoromycetes</entry>
+                </row>
+                <row>
+                  <entry>9b</entry>
+                  <entry>Sporulation absent; zoospores formed in water cultures . . . . . . . . . . . . . . . . . . . . .</entry>
+                  <entry>Oomycota</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="ch0138s000000p0032">The subphylum Taphrinomycotina contains only one medically important genus,<emphasis>Pneumocystis</emphasis>, formerly classified as a member of the kingdom Protozoa, but now reassigned to the class Pneumocystidomycetes on the basis of small‐subunit rDNA and other genetic sequence comparisons (<link linkend="ch0138s000000li0034">33</link>). The subphylum Saccharomycotina contains a single class of medical importance, the Saccharomycetes, to which most opportunistic pathogenic ascomycetous yeasts belong. The subphylum Pezizomycotina contains 14 classes, two of which are of medical importance: the Eurotiomycetes and the Sordariomycetes, which encompass the filamentous ascomycetes (<link linkend="ch0138s000000li0002">1</link>).</para>
+          <para id="ch0138s000000p0033">The order Saccharomycetales, in the class Saccharomycetes, is characterized by vegetative yeast cells which proliferate by budding or fission. These fungi do not produce ascomata, the ascus being formed by direct transformation of a budding vegetative cell, by “mother‐bud” conjugation, or by conjugation between two independent single cells. Many members of this order have an anamorphic stage belonging to the genus<emphasis>Candida.</emphasis> This genus, which consists of around 200 anamorphic species, has teleomorphs in more than 10 different genera, including <emphasis>Clavispora, Debaryomyces, Issatchenkia, Kluyveromyces</emphasis>, and <emphasis>Pichia</emphasis> (see <ulink url="ch0142#ch0142s0001s0001">chapter 121</ulink>) (<link linkend="ch0138s000000li0035">34</link>). Many of these have been renamed as the “one fungus one name” concept is applied.</para>
+          <para id="ch0138s000000p0034">In the class Eurotiomycetes, sexual reproduction leads to the formation of ascomata containing asci with ascospores. This class has seven orders that include species pathogenic to humans. Among the more important are the Onygenales, which contain the teleomorphs of the dermatophytes and a number of dimorphic systemic pathogens (including<emphasis>Histoplasma</emphasis> and <emphasis>Blastomyces</emphasis> species), and the Eurotiales, which include the teleomorphs of the anamorphic genera <emphasis>Aspergillus</emphasis> and <emphasis>Penicillium</emphasis> (see <ulink url="ch0144#ch0144s0001">chapters 123</ulink> and <ulink url="ch0147#ch0147s0001">126</ulink>). In the class Sordariomycetes, the order Hypocreales contains many of the teleomorphs of the anamorphic genus <emphasis>Fusarium.</emphasis> In addition, the teleomorphs of numerous melanized fungi of medical importance belong to a number of orders in the classes Eurotiomycetes or Sordariomycetes. These include the Capnodiales, Chaetothyriales, Microascales, Pleosporales, Hypocreales, and Ophiostomatales.</para>
+          <para id="ch0138s000000p0035">Although most of the septate molds that are isolated in clinical laboratories belong to one of the classes described above, it is unusual to encounter their sexual reproductive structures in routine cultures. The few species which do produce ascomata in relative abundance include<emphasis>Pseudallescheria boydii</emphasis> (anamorph: <emphasis>Scedosporium boydii</emphasis>) (see <ulink url="ch0149#ch0149s0001">chapter 128</ulink>) and <emphasis>Emericella nidulans</emphasis> (anamorph: <emphasis>Aspergillus nidulans</emphasis>). For the most part, however, routine identification of these molds is based on the form and arrangement of the asexual spore‐bearing structures and the manner in which the spores are produced (see below).</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0002s0002">
+          <title>Phylum Basidiomycota (Subkingdom Dikarya)</title>
+          <anchor id="ch0138s010002a0003"/>
+          <anchor id="ch0138s000000a0024"/>
+          <para id="ch0138s000000p0036">Most members of this group of higher fungi have a septate, filamentous thallus, but some are typical yeasts. Sexual reproduction leads to the formation of haploid basidiospores on the outside of a generative cell, termed a basidium. Four subphyla (Agaricomycotina, Pucciniomycotina, Ustilagomycotina, and Wallemiomycotina) and 19 classes are recognized (<link linkend="ch0138s000000li0002">1</link>, <link linkend="ch0138s000000li0032">31</link>, <link linkend="ch0138s000000li0036">35</link>), but only a few members of this large phylum are of medical importance. The most prominent are the basidiomycetous yeasts with anamorphic stages belonging to the genera <emphasis>Cryptococcus, Malassezia, Rhodotorula</emphasis>, and <emphasis>Trichosporon</emphasis> (see <ulink url="ch0142#ch0142s0001s0001">chapter 121</ulink>). The genus <emphasis>Cryptococcus</emphasis> belongs to the subphylum Agaricomycotina. Within this subphylum, molecular analysis has demonstrated that <emphasis>Cryptococcus</emphasis> is polyphyletic, with species distributed among five major lineages within the class Tremellomycetes. Most cluster in the orders Tremellales and Filobasidiales (<link linkend="ch0138s000000li0037">36</link>).</para>
+          <para id="ch0138s000000p0037">In culture, filamentous basidiomycetes often produce fast‐growing, nonsporulating (sterile) white colonies with clamp connections. These are hyphal outgrowths which, at cell division, make a connection between the two cells, forming a bypass around the septum to allow the migration of a nucleus. The basidia are often produced in macroscopic structures, termed basidiomata or basidiocarps, and the basidiospores are often forcibly discharged. Asexual reproduction is variable, with some species producing spores like those of the Ascomycota (see below), but many others are not known to produce spores at all. Most filamentous basidiomycetes are wood‐rotting fungi or obligate plant pathogens. Historically, the most frequently reported clinically important filamentous basidiomycete has been<emphasis>Schizophyllum commune</emphasis> (<link linkend="ch0138s000000li0038">37</link>, <link linkend="ch0138s000000li0039">38</link>). With the advent of DNA sequencing, many of these sterile or nonculturable fungi, including <emphasis>Ceriporia lacerata</emphasis> (now known as <emphasis>Emmia lacerata</emphasis>) (<link linkend="ch0138s000000li0004">3</link>) and <emphasis>Hormographiella aspergillata</emphasis> (<link linkend="ch0138s000000li0038">37</link>, <link linkend="ch0138s000000li0039">38</link>), can now be identified in clinical laboratories.</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0002s0003">
+          <title>Subkingdom Mucoromyceta (Formerly Part of Phylum Zygomycota)</title>
+          <anchor id="ch0138s010002a0004"/>
+          <anchor id="ch0138s000000a0025"/>
+          <para id="ch0138s000000p0038">The traditional Zygomycota have been divided among the phyla Calcarisporiellomycota, Glomeromycota, Mortierellomycota, and Mucoromycota (<link linkend="ch0138s000000li0002">1</link>). In these groups of lower fungi, the thallus is pauciseptate (sparsely septate) and consists of wide, hyaline (colorless) branched hyphal elements. The asexual spores (termed sporangiospores) are nonmotile and are often produced inside a closed sac, termed a sporangium, the wall of which ruptures to release them, although in some genera the spores are formed around a vesicle at the tip of the sporangiophore. Sexual reproduction leads to the formation of a single large zygospore with a thickened wall. Most of the medically important species are heterothallic and do not form their sexual structures unless two compatible isolates come into contact.</para>
+          <para id="ch0138s000000p0039">The phylum Mucoromycota contains the order Mucorales, which is the most clinically important and includes the genera<emphasis>Actinomucor, Apophysomyces, Cokeromyces, Cunninghamella, Lichtheimia</emphasis> (formerly <emphasis>Absidia pro parte</emphasis>), <emphasis>Mucor, Rhizomucor, Rhizopus, Saksenaea</emphasis>, and <emphasis>Syncephalastrum</emphasis> (see <ulink url="ch0146#ch0146s0001">chapter 125</ulink>). The phylum Entomophthoromycota contains one order of medical importance, the Entomophthorales. The Entomophthorales group includes the genus <emphasis>Conidiobolus</emphasis>, an agent of subcutaneous infections. The genus <emphasis>Basidiobolus</emphasis>, formerly classified in the phylum Entomophthoromycota, has been raised to subkingdom Basidiobolomyceta, comprising the phylum Basidiobolomycota and the genera <emphasis>Basidiobolus</emphasis> and <emphasis>Schizangiella</emphasis> (<link linkend="ch0138s000000li0002">1</link>, <link linkend="ch0138s000000li0040">39</link>).</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0002s0004">
+          <title>Subkingdom Rozellomyceta (Formerly Phylum Microsporidia), Phylum Rozellomycota, Subphylum Rozellomycotina, Class Microsporidea (1)</title>
+          <anchor id="ch0138s010002a0005"/>
+          <anchor id="ch0138s000000a0026"/>
+          <anchor id="ch0138s000000a0027"/>
+          <para id="ch0138s000000p0040">Microsporidians, some of which are obligate parasites of humans, have long been classified with the protozoa (see<ulink url="ch0153#ch0153s0001">chapter 132</ulink>). However, molecular phylogenetic analysis has indicated that these organisms belong among the fungi (<link linkend="ch0138s000000li0041">40</link>), and the subkingdom Rozellomyceta within the kingdom Fungi has been created to accommodate them (<link linkend="ch0138s000000li0002">1</link>, <link linkend="ch0138s000000li0032">31</link>) (see <ulink url="ch0153#ch0153s0001">chapter 132</ulink>).</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0002s0005">
+          <title>IDENTIFICATION OF YEASTS</title>
+          <anchor id="ch0138s010002a0006"/>
+          <anchor id="ch0138s000000a0028"/>
+          <para id="ch0138s000000p0041">Yeasts are neither a natural nor a formal taxonomic group but are a growth form found in a wide range of unrelated ascomycetous and basidiomycetous fungi. Their identification relies on a combination of morphological, physiological, and biochemical characteristics. Useful morphological characteristics include: (i) the color of the colonies, (ii) the size and shape of the cells, (iii) the presence of a capsule around the cells, (iv) the production of hyphae, pseudohyphae, or arthroconidia, and (v) the production of chlamydospores. Useful biochemical tests include the assimilation and fermentation of sugars and the assimilation of nitrate. Many yeasts of medical importance can be identified using one of the commercial test systems that are based on sugar assimilation of isolates. However, it is important to remember that microscopic examination of cultures on cornmeal agar is essential to avoid confusion between organisms with identical biochemical profiles (see<ulink url="ch0140#ch0140s0001">chapter 119</ulink>). In many laboratories, biochemical methods have been supplanted with molecular (i.e., DNA sequencing) or proteomic (i.e., matrix‐assisted laser desorption ionization–time of flight mass spectrometry [MALDI‐TOF]) assays (<link linkend="ch0138s000000li0042">41</link>, <link linkend="ch0138s000000li0043">42</link>). These molecular and proteomic approaches have shortened the turnaround time for identification and have obviated the need for additional biochemical confirmatory testing.</para>
+          <para id="ch0138s000000p0042">The so‐called black yeasts are not a formal taxonomic group, but the description is applied to a wide range of unrelated ascomycetous and basidiomycetous fungi that are able to produce melanized budding cells at some stage in their life cycle (<link linkend="ch0138s000000li0005">4</link>). Because most of these fungi are also able to produce true mycelium, their routine identification has traditionally been based on the morphological characteristics of the asexual spore‐bearing structures and the manner in which the spores are produced. Molecular methods and MALDI‐TOF are also now being used to identify these organisms in clinical microbiology laboratories (<link linkend="ch0138s000000li0044">43</link>).</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0002s0006">
+          <title>CLASSIFICATION AND IDENTIFICATION OF ANAMORPHIC MOLDS</title>
+          <anchor id="ch0138s010002a0007"/>
+          <anchor id="ch0138s000000a0029"/>
+          <para id="ch0138s000000p0043">Most of the septate molds that are isolated in clinical laboratories do not produce their sexual reproductive structures in routine cultures. While many of these organisms can now be identified by molecular or proteomic assays and their correct positions in the fungal kingdom can be determined, their classification and identification were previously based on the manner in which the asexual spores are produced. Two artificial form‐classes of anamorphic or “mitosporic” molds were informally recognized, based on the mode of conidium formation. The Hyphomycetes produce their conidia directly on the hyphae or on specialized conidiophores, while the Coelomycetes have more elaborate reproductive structures, termed conidiomata. Although these form‐classes are no longer formally recognized, they continue to offer a useful framework for identification based on morphology.</para>
+        </sect3>
+      </sect2>
+      <sect2 id="ch0138s0001s0003">
+        <title>Form‐Class Coelomycetes</title>
+        <anchor id="ch0138s010003a0001"/>
+        <anchor id="ch0138s000000a0030"/>
+        <para id="ch0138s000000p0044">Three artificial orders are recognized: the Sphaeropsidales, Melanconiales, and Pycnothyriales. In the Sphaeropsidales, the conidia are produced in conidiomata that are either spherical with an apical opening and with conidiogenous cells lining the inner cavity wall (termed pycnidia) or are open and cup‐shaped, in which case the conidiogenous cells cover the conidiomatal surface (termed acervuli). A few members of this form‐class are common pathogens of humans. One of the more frequently encountered species is<emphasis>Neoscytalidium dimidiatum</emphasis>, a plant pathogen which can also cause infections of the skin and nails. Until recently, this species was known by the synanamorph name <emphasis>Scytalidium dimidiatum</emphasis> (<link linkend="ch0138s000000li0045">44</link>).</para>
+      </sect2>
+      <sect2 id="ch0138s0001s0004">
+        <title>Form‐Class Hyphomycetes</title>
+        <anchor id="ch0138s010004a0001"/>
+        <anchor id="ch0138s000000a0031"/>
+        <para id="ch0138s000000p0045">The Hyphomycetes contains a large number of septate anamorphic molds of medical importance including, but not limited to, the genera<emphasis>Aspergillus, Blastomyces, Cladophialophora, Coccidioides, Fusarium, Histoplasma, Microsporum, Penicillium, Phialophora, Scedosporium</emphasis>, and <emphasis>Trichophyton.</emphasis> Numerous Hyphomycetes have been reported as opportunistic pathogens of humans. For this reason, it is important for clinical microbiologists to be able to recognize and correctly identify this group of fungi.</para>
+        <para id="ch0138s000000p0046">As mentioned earlier, the process of conidiogenesis is of major importance in the identification of these molds. Two basic methods of conidiogenesis can be distinguished: thallic conidiogenesis, in which an existing hyphal cell is converted into one or more conidia, and blastic conidiogenesis, in which conidia are produced as a result of some form of budding process (for a detailed discussion of this topic, see<link linkend="ch0138s000000li0005">reference 4</link>).</para>
+        <sect3 id="ch0138s0001s0004s0001">
+          <title>Thallic Conidiogenesis</title>
+          <anchor id="ch0138s010004a0002"/>
+          <anchor id="ch0138s000000a0032"/>
+          <para id="ch0138s000000p0047">In this form of conidiogenesis, the conidia are produced from an existing hyphal cell. Arthroconidia, which are derived from the fragmentation of an existing hypha, represent the simplest form of thallic conidiogenesis and have evolved in many different groups of fungi. The first step in the examination of cultures of these molds should be to ascertain whether another spore form is present. If so, identification should be based on that form. The few molds of medical importance which produce arthroconidia as their sole means of conidiogenesis include<emphasis>Coccidioides</emphasis> species.</para>
+          <para id="ch0138s000000p0048">Aleurioconidia are formed from the side or tip of an existing hypha, and during the initial stage these can resemble short hyphal branches before a septum is laid down. This form of thallic conidiogenesis is characteristic of the dermatophytes (<emphasis>Arthroderma</emphasis> spp., <emphasis>Epidermophyton, Lophophyton</emphasis> spp., <emphasis>Microsporum</emphasis> spp., <emphasis>Nannizzia</emphasis> spp., <emphasis>Paraphyton</emphasis> spp., and <emphasis>Trichophyton</emphasis> spp.) (see <ulink url="ch0148#ch0148s0001">chapter 127</ulink>), as well as a number of dimorphic systemic pathogens, including <emphasis>B. dermatitidis, H. capsulatum</emphasis>, and <emphasis>P. brasiliensis</emphasis> (see <ulink url="ch0147#ch0147s0001">chapter 126</ulink>) (<link linkend="ch0138s000000li0046">45</link>).</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0004s0002">
+          <title>Blastic Conidiogenesis</title>
+          <anchor id="ch0138s010004a0003"/>
+          <anchor id="ch0138s000000a0033"/>
+          <para id="ch0138s000000p0049">Many fungi have evolved some form of repeated budding that allows them to produce large numbers of asexual spores from a single conidiogenous cell. There are two basic forms of blastic conidiogenesis: holoblastic development, in which all layers of the wall of the conidiogenous cell swell out to form the conidium, and enteroblastic development, in which the conidium is produced from within the conidiogenous cell, the outer layers of the cell wall breaking open and an inner layer extending through the opening to become the new spore wall. These two forms of blastic conidiogenesis can be further subdivided according to the details of spore development.</para>
+          <anchor id="ch0138s000000a0034"/>
+          <beginpage pagenum="2282"/>
+          <para id="ch0138s000000p0050">Almost all the molds that produce holoblastic conidia have melanized cell walls and thus are similar in colonial appearance. The morphological characteristics of their conidia and the manner in which the spores are produced serve as the main distinguishing features. Holoblastic conidia range in size from minute unicellular to large thick‐walled multicelled conidia. In some species, the first‐formed conidium buds to produce a second, and the second produces a third, and so on until a chain of conidia is produced, with the youngest at its tip (acropetal). Because each spore can produce more than one bud, a branching chain becomes possible (e.g.,<emphasis>Cladophialophora</emphasis> species). In another group, the conidiogenous cell that produced the first spore then grows past it to produce a second. If this process is repeated, it will result in an elongated conidiogenous cell with numerous lateral single spores along its sides. This is termed sympodial development and is typical of species of <emphasis>Bipolaris, Curvularia</emphasis>, and <emphasis>Exserohilum</emphasis>.</para>
+          <para id="ch0138s000000p0051">In molds that produce enteroblastic conidia, the wall of the conidium is derived from the inner layer of the wall of the conidiogenous cell. This permits a succession of conidia to be produced from the same point. There are two main forms of enteroblastic conidiogenesis: phialidic, in which the specialized conidiogenous cell from which the conidia are produced is termed a phialide, and annellidic, in which the conidiogenous cell is termed an annellide.</para>
+          <para id="ch0138s000000p0052">In phialidic conidiogenesis, the first blown‐out cell breaks open at its tip and remains as a collarette, from the inside of which conidia are produced in succession. In some species, the collarette is distinct (e.g.,<emphasis>Phialophora</emphasis> species), but in others it is almost invisible at the tip of the phialide. In some phialidic molds, such as species of <emphasis>Fusarium</emphasis> and <emphasis>Acremonium</emphasis> (see <ulink url="ch0145#ch0145s0001">chapter 124</ulink>), the conidia are not firmly attached to each other and often move aside to accumulate in a wet mass around the phialide, which makes them suited for water dispersal. In other phialidic molds, such as species of <emphasis>Aspergillus</emphasis> and <emphasis>Penicillium</emphasis>, continuous replenishment of the inner wall of the tip of the phialide results in the formation of an unbranched chain of connected conidia, with the youngest at the base (basipetal). These conidia are easily dissociated by air currents, which aid in their dispersal.</para>
+          <para id="ch0138s000000p0053">Annellides, like phialides, are conidiogenous cells which produce conidia at their tips in unbranched chains (e.g.,<emphasis>Scopulariopsis</emphasis> species) or in wet masses (e.g., <emphasis>Scedosporium</emphasis> species). In annellidic conidiogenesis the first blown‐out cell becomes a conidium, and subsequent conidia are formed by blowing out through the scar of the previous one. Unlike phialides, annellides increase in length each time a new spore is produced. An old annellide that has produced many conidia will have a number of apical scars or annellations at its tip.</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0004s0003">
+          <title>IDENTIFICATION OF MOLDS</title>
+          <anchor id="ch0138s010004a0004"/>
+          <anchor id="ch0138s000000a0035"/>
+          <para id="ch0138s000000p0054">Most molds can be identified after growth in culture, but the criteria for recognition often differ from the fundamental characteristics that are used as a basis for classification. Macroscopic characteristics, such as colonial form, surface color, pigmentation, and growth rate, are often helpful in mold identification. Although the culture medium, incubation temperature, age of the culture, and amount of inoculum can influence colonial appearance and growth rate, these characteristics remain sufficiently constant to be useful in the process of identification. Molds that fail to sporulate in culture may be impossible to identify to the species level using morphology, and it is therefore important to select culture conditions which favor sporulation. Although molds often grow best on rich media, such as Sabouraud’s dextrose agar, overproduction of mycelium often results in loss of sporulation. In such cases subculture to a low‐nutrient medium may help to stimulate sporulation.</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0004s0004">
+          <title>POLYPHASIC IDENTIFICATION</title>
+          <anchor id="ch0138s010004a0005"/>
+          <anchor id="ch0138s000000a0036"/>
+          <para id="ch0138s000000p0055">A frequent problem with the traditional morphological approach to fungal identification is that nonsporulating organisms cannot be identified or given a taxonomic placement. With comparative DNA sequence analysis, most such isolates can now be identified and classified by applying phylogenetic species recognition concepts. Interpretive criteria for the identification of fungi using DNA sequencing have been published (<link linkend="ch0138s000000li0047">46</link>).</para>
+          <para id="ch0138s000000p0056">Many clinical laboratories today employ DNA sequencing and/or MALDI‐TOF as part of their routine protocol for fungal identification. In circumstances where morphology‐based identification is not helpful, an isolate may be a candidate for these methods of identification. This approach may be useful when an isolate displays atypical morphology, fails to sporulate, or requires lengthy incubation or incubation on specialized media to sporulate, or if the phenotypic results are nonspecific or confusing. Precise identification of particular isolates may also be necessary as part of outbreak investigations or during other studies of the epidemiologic significance of particular groups of organisms. In these cases, DNA sequencing and even whole‐genome sequencing (WGS) may be required in some cases to fully establish species and strain relatedness. A polyphasic approach to fungal identification that combines both morphologic and genotypic approaches may be the most useful, practical, and cost‐effective way forward for fungal identification at this time (<link linkend="ch0138s000000li0048">47</link>).</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0004s0005">
+          <title>COMMON MYCOLOGICAL TERMS</title>
+          <anchor id="ch0138s010004a0006"/>
+          <anchor id="ch0138s000000a0037"/>
+          <itemizedlist mark="none" role="none">
+            <listitem id="ch0138s000000li0001">
+              <para>Acervulus (plural, acervuli): an open or cup‐shaped structure on which conidia are formed.</para>
+            </listitem>
+            <listitem>
+              <para>Acropetal: describes a chain of conidia in which new spores are formed at the tip of the chain.</para>
+            </listitem>
+            <listitem>
+              <para>Aleurioconidium (plural, aleurioconidia): a thallic conidium that is formed from the end of an undifferentiated hypha or from a short side‐branch.</para>
+            </listitem>
+            <listitem>
+              <para>Aleuriospore:<emphasis>see</emphasis> Aleurioconidium.</para>
+            </listitem>
+            <listitem>
+              <para>Anamorph: the asexual form of a fungus.</para>
+            </listitem>
+            <listitem>
+              <para>Annellide: a specialized conidiogenous cell from which a succession of spores is produced and which has a column of apical scars at its tip.</para>
+            </listitem>
+            <listitem>
+              <para>Annelloconidium (plural, annelloconidia): a blastic conidium that is formed from an annellide.</para>
+            </listitem>
+            <listitem>
+              <para>Annellospore:<emphasis>see</emphasis> Annelloconidium.</para>
+            </listitem>
+            <listitem>
+              <para>Apophysis: the enlargement of a sporangium just below the columella.</para>
+            </listitem>
+            <listitem>
+              <para>Appressorium (plural, appressoria): a swelling on a germ tube or hypha, typical of<emphasis>Colletotrichum</emphasis> spp.</para>
+            </listitem>
+            <listitem>
+              <para>Arthroconidium (plural, arthroconidia): a thallic conidium produced as the result of fragmentation of an existing hypha into separate cells.</para>
+            </listitem>
+            <listitem>
+              <para>Arthrospore:<emphasis>see</emphasis> Arthroconidium.</para>
+            </listitem>
+            <listitem>
+              <anchor id="ch0138s000000a0038"/>
+              <para>Ascocarp: a structure that contains asci.</para>
+            </listitem>
+            <listitem>
+              <para>Ascoma (plural, ascomata):<emphasis>see</emphasis> Ascocarp.</para>
+            </listitem>
+            <listitem>
+              <para>Ascospore: a haploid spore produced within an ascus following meiosis.</para>
+            </listitem>
+            <listitem>
+              <para>Ascus (plural, asci): a thin‐walled sac containing ascospores, characteristic of the Ascomycota.</para>
+            </listitem>
+            <listitem>
+              <para>Aseptate: without cross‐walls or septa.</para>
+            </listitem>
+            <listitem>
+              <para>Ballistoconidium: a conidium that is forcibly discharged.</para>
+            </listitem>
+            <listitem>
+              <para>Ballistospore:<emphasis>see</emphasis> Ballistoconidium.</para>
+            </listitem>
+            <listitem>
+              <para>Basidiocarp: a structure that produces basidia.</para>
+            </listitem>
+            <listitem>
+              <para>Basidioma (plural, basidiomata):<emphasis>see</emphasis> Basidiocarp.</para>
+            </listitem>
+            <listitem>
+              <para>Basidiospore: a haploid spore produced on a basidium following meiosis.</para>
+            </listitem>
+            <listitem>
+              <para>Basidium: a cell upon which basidiospores are produced, characteristic of the Basidiomycota.</para>
+            </listitem>
+            <listitem>
+              <para>Basipetal: describes a chain of conidia in which new spores are formed at the base of the chain.</para>
+            </listitem>
+            <listitem>
+              <para>Blastic: one of the two basic forms of conidiogenesis, in which enlargement of the conidial initial occurs before a delimiting septum is laid down.</para>
+            </listitem>
+            <listitem>
+              <para>Blastoconidium (plural, blastoconidia): a blastic conidium produced by the enlargement of a part of a conidiogenous cell before a septum is laid down.</para>
+            </listitem>
+            <listitem>
+              <para>Blastospore:<emphasis>see</emphasis> Blastoconidium.</para>
+            </listitem>
+            <listitem>
+              <para>Catenate: in chains.</para>
+            </listitem>
+            <listitem>
+              <para>Cerebriform: term used to describe colonies with a convoluted surface.</para>
+            </listitem>
+            <listitem>
+              <para>Chlamydospore: a resting conidium, formed as a result of the enlargement of an existing hyphal cell.</para>
+            </listitem>
+            <listitem>
+              <para>Clade: a phylogenetic group consisting of an ancestral species and all its descendants. Clades (and subclades) can be recognized at any given taxonomic level.</para>
+            </listitem>
+            <listitem>
+              <para>Clavate: club‐like in shape, narrowing toward the base.</para>
+            </listitem>
+            <listitem>
+              <para>Cleistothecium (plural, cleistothecia): a form of closed ascocarp with no predefined opening, which splits open to release the ascospores.</para>
+            </listitem>
+            <listitem>
+              <para>Coelomycete: an artificial taxonomic grouping referring to anamorphic molds that form conidia within a specialized multihyphal structure, such as an acervulus or pycnidium.</para>
+            </listitem>
+            <listitem>
+              <para>Collarette: a cup‐shaped structure at the tip of a conidiogenous cell.</para>
+            </listitem>
+            <listitem>
+              <para>Columella (plural, columellae): the swollen tip of the sporangiophore projecting into the sporangium in some Mucorales.</para>
+            </listitem>
+            <listitem>
+              <para>Conidiogenesis: the process of conidium formation.</para>
+            </listitem>
+            <listitem>
+              <para>Conidiogenous cell: any cell that produces or becomes a conidium.</para>
+            </listitem>
+            <listitem>
+              <para>Conidioma (plural, conidiomata): a specialized conidia‐bearing structure.</para>
+            </listitem>
+            <listitem>
+              <para>Conidiophore: a specialized hypha or cell on which, or as part of which, conidia are produced.</para>
+            </listitem>
+            <listitem>
+              <para>Conidium (plural, conidia): an asexual spore.</para>
+            </listitem>
+            <listitem>
+              <para>Cruciate: term used to describe spores with septa in the form of a cross.</para>
+            </listitem>
+            <listitem>
+              <para>Cryptic species: a species recognized by nucleic acid variation that had not been recognized as distinct on the basis of its morphological characteristics.</para>
+            </listitem>
+            <listitem>
+              <para>Cuneiform: term used to describe spores that are thinner at one end than the other.</para>
+            </listitem>
+            <listitem>
+              <para>Dematiaceous: darkly pigmented.</para>
+            </listitem>
+            <listitem>
+              <para>Denticle: a small tooth‐like projection on which a spore is borne.</para>
+            </listitem>
+            <listitem>
+              <para>Distoseptate: term used to describe spores in which the individual cells are each surrounded by a sac‐like wall distinct from the outer wall.</para>
+            </listitem>
+            <listitem>
+              <para>Echinulate: term used to describe spores with small pointed spines.</para>
+            </listitem>
+            <listitem>
+              <para>Endoconidium (plural, endoconidia): a conidium formed inside a hypha.</para>
+            </listitem>
+            <listitem>
+              <para>Enteroblastic: a form of conidiogenesis in which conidia are produced from within a conidiogenous cell.</para>
+            </listitem>
+            <listitem>
+              <para>Euseptate: term used to describe spores in which the outer and inner wall of the septum are continuous.</para>
+            </listitem>
+            <listitem>
+              <para>Floccose: term used to describe colonies with a cotton‐like texture.</para>
+            </listitem>
+            <listitem>
+              <para>Fusiform: term used to describe spores with a spindle‐like shape.</para>
+            </listitem>
+            <listitem>
+              <para>Geniculate: an irregular conidiogenous cell formed by some holoblastic molds.</para>
+            </listitem>
+            <listitem>
+              <para>Glabrous: term used to describe colonies with a wax‐like texture.</para>
+            </listitem>
+            <listitem>
+              <para>Gymnothecium (plural, gymnothecia): an ascocarp in which the asci are distributed within a loose network of hyphae.</para>
+            </listitem>
+            <listitem>
+              <para>Heterotrophic: obtaining nutrition from through the intake and digestion of organic substances from other sources.</para>
+            </listitem>
+            <listitem>
+              <para>Heterothallic: a self‐sterile fungus; sexual reproduction cannot take place unless two compatible mating strains are present.</para>
+            </listitem>
+            <listitem>
+              <para>Hilum: a slightly prominent scar at the base of a conidium.</para>
+            </listitem>
+            <listitem>
+              <para>Holoblastic: a form of conidiogenesis in which both the inner and outer walls of the conidiogenous cell swell out to form the conidium.</para>
+            </listitem>
+            <listitem>
+              <para>Homothallic: a self‐compatible fungus; sexual reproduc‐tion can take place within an individual strain.</para>
+            </listitem>
+            <listitem>
+              <para>Hülle cell: a large, thick‐walled, sterile cell found in some<emphasis>Aspergillus</emphasis> spp.</para>
+            </listitem>
+            <listitem>
+              <para>Hyaline: colorless, transparent, translucent.</para>
+            </listitem>
+            <listitem>
+              <para>Hypha (plural, hyphae): one of the individual filaments that make up the mycelium of a fungus.</para>
+            </listitem>
+            <listitem>
+              <para>Hyphomycete: an artificial taxonomic grouping referring to anamorphic molds that form conidia directly on the hyphae or on specialized conidiophores.</para>
+            </listitem>
+            <listitem>
+              <para>Macroconidium (plural, macroconidia): the larger of two different sizes of conidia produced by a fungus in the same manner.</para>
+            </listitem>
+            <listitem>
+              <para>Merosporangium (plural, merosporangia): a cylindrical outgrowth from the end of a sporangiophore in which a chain‐like series of sporangiospores is produced, characteristic of<emphasis>Syncephalastrum</emphasis> spp.</para>
+            </listitem>
+            <listitem>
+              <para>Meristematic: perpetual increase in biomass in all directions with concordant septum formation.</para>
+            </listitem>
+            <listitem>
+              <para>Metula (plural, metulae): a conidiophore branch that bears phialides, characteristic of<emphasis>Aspergillus</emphasis> and <emphasis>Penicillium</emphasis> spp.</para>
+            </listitem>
+            <listitem>
+              <para>Microconidium (plural, microconidia): the smaller of two different sizes of conidia produced by a fungus in the same manner.</para>
+            </listitem>
+            <listitem>
+              <para>Mitosporic: term used to describe an anamorphic fungus.</para>
+            </listitem>
+            <listitem>
+              <para>Mold: a filamentous fungus.</para>
+            </listitem>
+            <listitem>
+              <anchor id="ch0138s000000a0039"/>
+              <para>Moniliaceous: hyaline or lightly colored.</para>
+            </listitem>
+            <listitem>
+              <para>Muriform cell: a thick‐walled, darkly pigmented cell found in tissues affected by chromoblastomycosis.</para>
+            </listitem>
+            <listitem>
+              <para>Mycelium: a mass of branching filaments which make up the vegetative growth of a fungus.</para>
+            </listitem>
+            <listitem>
+              <para>Oligokaryotic cell: a cell with several nuclei.</para>
+            </listitem>
+            <listitem>
+              <para>Oospore: a sexual spore produced in the Oomycota.</para>
+            </listitem>
+            <listitem>
+              <para>Ostiole: the opening through which spores are released from an ascocarp or pycnidium.</para>
+            </listitem>
+            <listitem>
+              <para>Pauciseptate: having few septa.</para>
+            </listitem>
+            <listitem>
+              <para>Perithecium (plural, perithecia): a flask‐shaped ascocarp with an apical opening (ostiole) through which the ascospores are released.</para>
+            </listitem>
+            <listitem>
+              <para>Phialide: a specialized conidiogenous cell from which a succession of spores is produced.</para>
+            </listitem>
+            <listitem>
+              <para>Pleoanamorphism: term used to describe a fungus that has more than one anamorph.</para>
+            </listitem>
+            <listitem>
+              <para>Pleomorphic: term used to describe a nonsporing strain of a fungus.</para>
+            </listitem>
+            <listitem>
+              <para>Pseudohypha (plural, pseudohyphae): a chain of yeast cells which have arisen as a result of budding and have elongated without becoming detached from each other, forming a hypha‐like filament.</para>
+            </listitem>
+            <listitem>
+              <para>Punctate: term used to describe colonies marked with small spots.</para>
+            </listitem>
+            <listitem>
+              <para>Pycnidiospore: a conidium formed within a pycnidium.</para>
+            </listitem>
+            <listitem>
+              <para>Pycnidium (plural, pycnidia): a flask‐shaped structure with an apical opening (ostiole) inside of which conidia are produced.</para>
+            </listitem>
+            <listitem>
+              <para>Pyriform: pear‐like in shape.</para>
+            </listitem>
+            <listitem>
+              <para>Rhizoid: a short branching hypha that resembles a root.</para>
+            </listitem>
+            <listitem>
+              <para>Sclerotic body:<emphasis>see</emphasis> Muriform cell.</para>
+            </listitem>
+            <listitem>
+              <para>Sclerotium (plural, sclerotia): a firm mass of hyphae, normally having no spores in or on it.</para>
+            </listitem>
+            <listitem>
+              <para>Septate: having cross‐walls or septa.</para>
+            </listitem>
+            <listitem>
+              <para>Septum (plural, septa): a cross‐wall in a fungal hypha or spore.</para>
+            </listitem>
+            <listitem>
+              <para>Sessile: not having a stem.</para>
+            </listitem>
+            <listitem>
+              <para>Sibling species: species that share the same, most recent common ancestor.</para>
+            </listitem>
+            <listitem>
+              <para>Species complex: a monophyletic clade of species with equivalent clinical relevance.</para>
+            </listitem>
+            <listitem>
+              <para>Sporangiole:<emphasis>see</emphasis> Sporangiolum.</para>
+            </listitem>
+            <listitem>
+              <para>Sporangiolum (plural, sporangiola): a small sporangium containing a small number of asexual spores, characteristic of the Mucorales.</para>
+            </listitem>
+            <listitem>
+              <para>Sporangiophore: a specialized hypha upon which a sporangium develops.</para>
+            </listitem>
+            <listitem>
+              <para>Sporangiospore: asexual spore produced in a sporangium, characteristic of the Glomeromycota.</para>
+            </listitem>
+            <listitem>
+              <para>Sporangium (plural, sporangia): a closed sac‐like structure containing asexual spores, characteristic of the Glomeromycota. This term has also been used in the members of kingdom Straminipila to denominate the segmented hyphal structures (and not to the vesicles containing zoospores) that give origin to a germ tube developing terminal vesicles in which biflagellate zoospores are cleaved.</para>
+            </listitem>
+            <listitem>
+              <para>Sporodochium (plural, sporodochia): a specialized structure in which conidia are borne on a compact mass of short conidiophores.</para>
+            </listitem>
+            <listitem>
+              <para>Stroma (plural, stromata): a solid mass of hyphae, sometimes bearing spores on short conidiophores or having ascocarps or pycnidia embedded in it.</para>
+            </listitem>
+            <listitem>
+              <para>Sympodial: term used to describe the development of a single conidium at successive sites along a lengthening conidiogenous cell.</para>
+            </listitem>
+            <listitem>
+              <para>Synanamorph: term applied to any one of two or more anamorphs which have the same teleomorph.</para>
+            </listitem>
+            <listitem>
+              <para>Synnema (plural, synnemata): a compact group of erect and sometimes fused conidiophores bearing conidia at the tip, along the upper portion of the sides, or both.</para>
+            </listitem>
+            <listitem>
+              <para>Teleomorph: the sexual form of a fungus.</para>
+            </listitem>
+            <listitem>
+              <para>Thallic: one of the two basic forms of conidiogenesis in which enlargement of the conidial initial occurs after a delimiting septum has been laid down.</para>
+            </listitem>
+            <listitem>
+              <para>Thallus: the vegetative growth of a fungus.</para>
+            </listitem>
+            <listitem>
+              <para>Vesicle: the swollen tip of the conidiophore in<emphasis>Aspergillus</emphasis> spp. or the swollen part of a sporogenous cell in other fungi.</para>
+            </listitem>
+            <listitem>
+              <para>Villose: term used to describe spores covered with long hairs.</para>
+            </listitem>
+            <listitem>
+              <para>Yeast: a unicellular, budding fungus.</para>
+            </listitem>
+            <listitem>
+              <para>Zoospore: a motile asexual spore.</para>
+            </listitem>
+            <listitem>
+              <para>Zygospore: a thick‐walled, sexual spore, produced in the Glomeromycota.</para>
+            </listitem>
+          </itemizedlist>
+          <para id="ch0138s000000p0057"><emphasis>We would like to acknowledge the previous authors of this chapter, Mary E. Brandt and David W. Warnock, for their contributions to this material</emphasis>.</para>
+        </sect3>
+        <sect3 id="ch0138s0001s0004s0006">
+          <title>REFERENCES</title>
+          <anchor id="ch0138s010004a0007"/>
+          <anchor id="ch0138s000000a0040"/>
+          <itemizedlist mark="none" role="biblioEntryList">
+            <listitem id="ch0138s000000li0002" role="bibliographyEntry">
+              <para>1.<emphasis role="strong">Tedersoo L, Sanchez‐Ramirez S, Koljalg U, Bahram M, Doring M, Schigel D, May T, Ryberg M, Abarenkov K.</emphasis> 2018. High‐level classification of the Fungi and a tool for evolutionary ecological analyses. <citetitle><emphasis>Fungal Divers</emphasis></citetitle> <emphasis role="strong">90:</emphasis>135–159.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0003" role="bibliographyEntry">
+              <para>2.<emphasis role="strong">Willis KJ.</emphasis> 2018. <citetitle><emphasis>State of the World’s Fungi: Report.</emphasis></citetitle> Royal Botanic Gardens, Kew, Richmond, United Kingdom.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0004" role="bibliographyEntry">
+              <para>3.<emphasis role="strong">Wu B, Hussain M, Zhang W, Stadler M, Liu X, Xiang M.</emphasis> 2019. Current insights into fungal species diversity and perspective on naming the environmental DNA sequences of fungi. <citetitle><emphasis>Mycology</emphasis></citetitle> <emphasis role="strong">10:</emphasis>127–140.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0005" role="bibliographyEntry">
+              <para>4.<emphasis role="strong">de Hoog GS, Guarro J, Ahmed S, Al‐Hatmi AMS, Gene J, Figueras MJ, Vitale RG.</emphasis> 2020. <citetitle><emphasis>Atlas of Clinical Fungi.</emphasis></citetitle> Foundation Atlas of Clinical Fungi, Hilversum, The Netherlands.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0006" role="bibliographyEntry">
+              <para>5.<emphasis role="strong">Hawksworth DL.</emphasis> 2011. A new dawn for the naming of fungi: impacts of decisions made in Melbourne in July 2011 on the future publication and regulation of fungal names. <citetitle><emphasis>IMA Fungus</emphasis></citetitle> <emphasis role="strong">2:</emphasis>155–162.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0007" role="bibliographyEntry">
+              <para>6.<emphasis role="strong">Crous PW, Gams W, Wingfield MJ, van Wyk PS.</emphasis> 1996. <citetitle><emphasis>Phaeoacremonium</emphasis></citetitle> gen. nov. associated with wilt and decline diseases of woody hosts and human infections. <citetitle><emphasis>Mycologia</emphasis></citetitle> <emphasis role="strong">88:</emphasis>789–796.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0008" role="bibliographyEntry">
+              <para>7.<emphasis role="strong">de Hoog GS, Chaturvedi V, Denning DW, Dyer PS, Frisvad JC, Geiser D, Gräser Y, Guarro J, Haase G, Kwon‐Chung KJ, Meis JF, Meyer W, Pitt JI, Samson RA, Taylor JW, Tintelnot K, Vitale RG, Walsh TJ, Lackner M, ISHAM Working Group on Nomenclature of Medical Fungi.</emphasis> 2015. Name changes in medically important fungi and their implications for clinical practice. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">53:</emphasis>1056–1062.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0009" role="bibliographyEntry">
+              <anchor id="ch0138s000000a0041"/>
+              <para>8.<emphasis role="strong">Warnock DW.</emphasis> 2019. Name changes for fungi of medical importance, 2016–2017. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">57:</emphasis>e01183–e18.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0010" role="bibliographyEntry">
+              <para>9.<emphasis role="strong">Shear CL.</emphasis> 1922. Life history of an undescribed ascomycete isolated from a granular mycetoma of man. <citetitle><emphasis>Mycologia</emphasis></citetitle> <emphasis role="strong">14:</emphasis>239–243.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0011" role="bibliographyEntry">
+              <para>10.<emphasis role="strong">Malloch D.</emphasis> 1970. New concepts in the Microascaceae illustrated by two new species. <citetitle><emphasis>Mycologia</emphasis></citetitle> <emphasis role="strong">62:</emphasis>727–740.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0012" role="bibliographyEntry">
+              <para>11.<emphasis role="strong">McGinnis MR, Padhye AA, Ajello L.</emphasis> 1983. Pseudallescheria Negroni et Fischer, 1943 and its later synonym Petriellidium Malloch, 1970. <citetitle><emphasis>Mycotaxon</emphasis></citetitle> <emphasis role="strong">14:</emphasis>102. (Fungi.)</para>
+            </listitem>
+            <listitem id="ch0138s000000li0013" role="bibliographyEntry">
+              <para>12.<emphasis role="strong">Lackner M, et al.</emphasis> 2014. Proposed nomenclature for Pseudallescheria, Scedosporium and related genera. <citetitle><emphasis>Fungal Divers</emphasis></citetitle> <emphasis role="strong">67:</emphasis>1–10.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0014" role="bibliographyEntry">
+              <para>13.<emphasis role="strong">Kidd SE, Halliday CL, McMullan B, Chen SC, Elvy J.</emphasis> 2021. New names for fungi of medical importance: can we have our cake and eat it too? <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">59:</emphasis>e02730–e20.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0015" role="bibliographyEntry">
+              <para>14.<emphasis role="strong">Wiederhold NP, Gibas CFC.</emphasis> 2018. From the clinical mycology laboratory: new species and changes in fungal taxonomy and nomenclature. <citetitle><emphasis>J Fungi (Basel)</emphasis></citetitle> <emphasis role="strong">4:</emphasis>E138.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0016" role="bibliographyEntry">
+              <para>15.<emphasis role="strong">Chen M, Zeng J, De Hoog GS, Stielow B, Gerrits Van Den Ende AH, Liao W, Lackner M.</emphasis> 2016. The ‘species complex’ issue in clinically relevant fungi: a case study in Scedosporium apiospermum. <citetitle><emphasis>Fungal Biol</emphasis></citetitle> <emphasis role="strong">120:</emphasis>137–146.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0017" role="bibliographyEntry">
+              <para>16.<emphasis role="strong">Hagen F, Khayhan K, Theelen B, Kolecka A, Polacheck I, Sionov E, Falk R, Parnmen S, Lumbsch HT, Boekhout T.</emphasis> 2015. Recognition of seven species in the <citetitle><emphasis>Cryptococcus gattii/Cryptococcus neoformans</emphasis></citetitle> species complex. <citetitle><emphasis>Fungal Genet Biol</emphasis></citetitle> <emphasis role="strong">78:</emphasis>16–48.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0018" role="bibliographyEntry">
+              <para>17.<emphasis role="strong">Kwon‐Chung KJ, Bennett JE, Wickes BL, Meyer W, Cuomo CA, Wollenburg KR, Bicanic TA, Castañeda E, Chang YC, Chen J, Cogliati M, Dromer F, Ellis D, Filler SG, Fisher MC, Harrison TS, Holland SM, Kohno S, Kronstad JW, Lazera M, Levitz SM, Lionakis MS, May RC, Ngamskulrongroj P, Pappas PG, Perfect JR, Rickerts V, Sorrell TC, Walsh TJ, Williamson PR, Xu J, Zelazny AM, Casadevall A.</emphasis> 2017. The case for adopting the “species complex” nomenclature for the etiologic agents of cryptococcosis. <citetitle><emphasis>MSphere</emphasis></citetitle> <emphasis role="strong">2:</emphasis>e00357–e16.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0019" role="bibliographyEntry">
+              <para>18.<emphasis role="strong">Borman AM, Johnson EM.</emphasis> 2021. Reply to Kidd et al., “New Names for Fungi of Medical Importance: Can We Have Our Cake and Eat It Too?” <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">59:</emphasis>e02896–e20.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0020" role="bibliographyEntry">
+              <para>19.<emphasis role="strong">O’Donnell K, Al‐Hatmi AMS, Aoki T, Brankovics B, Cano‐Lira JF, Coleman JJ, de Hoog GS, Di Pietro A, Frandsen RJN, Geiser DM, Gibas CFC, Guarro J, Kim HS, Kistler HC, Laraba I, Leslie JF, López‐Berges MS, Lysøe E, Meis JF, Monod M, Proctor RH, Rep M, Ruiz‐Roldán C, Šišić A, Stajich JE, Steenkamp ET, Summerell BA, van der Lee TAJ, van Diepeningen AD, Verweij PE, Waalwijk C, Ward TJ, Wickes BL, Wiederhold NP, Wingfield MJ, Zhang N, Zhang SX.</emphasis> 2020. No to <citetitle><emphasis>Neocosmospora</emphasis></citetitle>: phylogenomic and practical reasons for continued inclusion of the <citetitle><emphasis>Fusarium solani</emphasis></citetitle> species complex in the genus <citetitle><emphasis>Fusarium. MSphere</emphasis></citetitle> <emphasis role="strong">5:</emphasis>e00810–e20.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0021" role="bibliographyEntry">
+              <para>20.<emphasis role="strong">Crous PW, et al.</emphasis> 2021. <citetitle><emphasis>Fusarium</emphasis></citetitle>: more than a node or a foot‐shaped basal cell. <citetitle><emphasis>Stud Mycol</emphasis></citetitle> <emphasis role="strong">98:</emphasis>100116.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0022" role="bibliographyEntry">
+              <para>21.<emphasis role="strong">Blackwell M.</emphasis> 1993. Phlogenetic systematics and ascomycetes, p 93–103. <citetitle><emphasis>In</emphasis></citetitle> Reynolds DR, Taylor JW (ed), <citetitle><emphasis>The Fungal Holomorph: Mitotic, Meiotic and Pleomorphic Speciation in Fungal Systematics.</emphasis></citetitle> CABI Publishing, Wallingford, United Kingdom.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0023" role="bibliographyEntry">
+              <para>22.<emphasis role="strong">Taylor JW, Jacobson DJ, Kroken S, Kasuga T, Geiser DM, Hibbett DS, Fisher MC.</emphasis> 2000. Phylogenetic species recognition and species concepts in fungi. <citetitle><emphasis>Fungal Genet Biol</emphasis></citetitle> <emphasis role="strong">31:</emphasis>21–32.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0024" role="bibliographyEntry">
+              <para>23.<emphasis role="strong">Hawksworth DL.</emphasis> 2006. Pandora’s mycological box: molecular sequences vs. morphology in understanding fungal relationships and biodiversity. <citetitle><emphasis>Rev Iberoam Micol</emphasis></citetitle> <emphasis role="strong">23:</emphasis>127–133.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0025" role="bibliographyEntry">
+              <para>24.<emphasis role="strong">Adl SM, Simpson AG, Lane CE, Lukeš J, Bass D, Bowser SS, Brown MW, Burki F, Dunthorn M, Hampl V, Heiss A, Hoppenrath M, Lara E, Le Gall L, Lynn DH, McManus H, Mitchell EA, Mozley‐Stanridge SE, Parfrey LW, Pawlowski J, Rueckert S, Shadwick L, Schoch CL, Smirnov A, Spiegel FW.</emphasis> 2012. The revised classification of eukaryotes. <citetitle><emphasis>J Eukaryot Microbiol</emphasis></citetitle> <emphasis role="strong">59:</emphasis>429–493.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0026" role="bibliographyEntry">
+              <para>25.<emphasis role="strong">Sepúlveda VE, Márquez R, Turissini DA, Goldman WE, Matute DR.</emphasis> 2017. Genome sequences reveal cryptic speciation in the human pathogen <citetitle><emphasis>Histoplasma capsulatum. MBio</emphasis></citetitle> <emphasis role="strong">8:</emphasis>e01339e17.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0027" role="bibliographyEntry">
+              <para>26.<emphasis role="strong">Fisher MC, Koenig GL, White TJ, Taylor JW.</emphasis> 2002. Molecular and phenotypic description of <citetitle><emphasis>Coccidioides posadasii</emphasis></citetitle> sp. nov., previously recognized as the non‐California population of <citetitle><emphasis>Coccidioides immitis. Mycologia</emphasis></citetitle> <emphasis role="strong">94:</emphasis>73–84.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0028" role="bibliographyEntry">
+              <para>27.<emphasis role="strong">Brown EM, McTaggart LR, Zhang SX, Low DE, Stevens DA, Richardson SE.</emphasis> 2013. Phylogenetic analysis reveals a cryptic species <citetitle><emphasis>Blastomyces gilchristii</emphasis></citetitle>, sp. nov., within the human pathogenic fungus Blastomyces dermatitidis. <citetitle><emphasis>PLoS One</emphasis></citetitle> <emphasis role="strong">8:</emphasis>e59237.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0029" role="bibliographyEntry">
+              <para>28.<emphasis role="strong">Teixeira MM, Theodoro RC, Oliveira FF, Machado GC, Hahn RC, Bagagli E, San‐Blas G, Soares Felipe MS.</emphasis> 2014. <citetitle><emphasis>Paracoccidioides lutzii</emphasis></citetitle> sp. nov.: biological and clinical implications. <citetitle><emphasis>Med Mycol</emphasis></citetitle> <emphasis role="strong">52:</emphasis>19–28.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0030" role="bibliographyEntry">
+              <para>29.<emphasis role="strong">Balajee SA, Gribskov JL, Hanley E, Nickle D, Marr KA.</emphasis> 2005. <citetitle><emphasis>Aspergillus lentulus</emphasis></citetitle> sp. nov., a new sibling species of <citetitle><emphasis>A. fumigatus. Eukaryot Cell</emphasis></citetitle> <emphasis role="strong">4:</emphasis>625–632.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0031" role="bibliographyEntry">
+              <para>30.<emphasis role="strong">Kirk PM, Cannon PF, Minter DW, Stalpers JA.</emphasis> 2008. <citetitle><emphasis>Dictionary of the Fungi.</emphasis></citetitle> CABI Publishing, Wallingford, United Kingdom.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0032" role="bibliographyEntry">
+              <para>31.<emphasis role="strong">Hibbett DS, et al.</emphasis> 2007. A higher‐level phylogenetic classification of the Fungi. <citetitle><emphasis>Mycol Res</emphasis></citetitle> <emphasis role="strong">111:</emphasis>509–547.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0033" role="bibliographyEntry">
+              <para>32.<emphasis role="strong">Guarro J, Gené J, Stchigel AM.</emphasis> 1999. Developments in fungal taxonomy. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">12:</emphasis>454–500.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0034" role="bibliographyEntry">
+              <para>33.<emphasis role="strong">Naranjo‐Ortiz MA, Gabaldón T.</emphasis> 2019. Fungal evolution: diversity, taxonomy and phylogeny of the Fungi. <citetitle><emphasis>Biol Rev Camb Philos Soc</emphasis></citetitle> <emphasis role="strong">94:</emphasis>2101–2137.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0035" role="bibliographyEntry">
+              <para>34.<emphasis role="strong">Kurtzman CP, Fell JW, Boekhout T.</emphasis> 1998. <citetitle><emphasis>The Yeasts, a Taxonomic Study.</emphasis></citetitle> Elsevier, Amsterdam, The Netherlands.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0036" role="bibliographyEntry">
+              <para>35.<emphasis role="strong">Zalar P, Sybren de Hoog G, Schroers HJ, Frank JM, Gunde‐Cimerman N.</emphasis> 2005. Taxonomy and phylogeny of the xerophilic genus Wallemia (Wallemiomycetes and Wallemiales, cl. et ord. nov.). <citetitle><emphasis>Antonie van Leeuwenhoek</emphasis></citetitle> <emphasis role="strong">87:</emphasis>311–328.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0037" role="bibliographyEntry">
+              <para>36.<emphasis role="strong">Kwon‐Chung KJ, Boekhout T, Wickes BL, Fell JW.</emphasis> 2011. Systematics of the genus <citetitle><emphasis>Cryptococcus</emphasis></citetitle> and its type species <citetitle><emphasis>C. neoformans</emphasis></citetitle>, p 3–16. <citetitle><emphasis>In</emphasis></citetitle> Heitman J, Koze TR, Kwon‐Chung KJ, Perfect JR (ed), <citetitle><emphasis>Cryptococcus: From Human Pathogen to Model Yeast.</emphasis></citetitle> ASM Press, Washington, DC.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0038" role="bibliographyEntry">
+              <para>37.<emphasis role="strong">Brandt ME.</emphasis> 2013. Filamentous Basidiomycetes in the clinical laboratory. <citetitle><emphasis>Curr Fungal Infect Rep</emphasis></citetitle> <emphasis role="strong">7:</emphasis>219–223.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0039" role="bibliographyEntry">
+              <para>38.<emphasis role="strong">Chowdhary A, Kathuria S, Agarwal K, Meis JF.</emphasis> 2014. Recognizing filamentous basidiomycetes as agents of human disease: a review. <citetitle><emphasis>Med Mycol</emphasis></citetitle> <emphasis role="strong">52:</emphasis>782–797.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0040" role="bibliographyEntry">
+              <para>39.<emphasis role="strong">Sun HY, Singh N.</emphasis> 2011. Mucormycosis: its contemporary face and management strategies. <citetitle><emphasis>Lancet Infect Dis</emphasis></citetitle> <emphasis role="strong">11:</emphasis>301–311.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0041" role="bibliographyEntry">
+              <para>40.<emphasis role="strong">Thomarat F, Vivarès CP, Gouy M.</emphasis> 2004. Phylogenetic analysis of the complete genome sequence of Encephalitozoon cuniculi supports the fungal origin of microsporidia and reveals a high frequency of fast‐evolving genes. <citetitle><emphasis>J Mol Evol</emphasis></citetitle> <emphasis role="strong">59:</emphasis>780–791.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0042" role="bibliographyEntry">
+              <para>41.<emphasis role="strong">Cassagne C, Normand AC, L’Ollivier C, Ranque S, Piarroux R.</emphasis> 2016. Performance of MALDI‐TOF MS platforms for fungal identification. <citetitle><emphasis>Mycoses</emphasis></citetitle> <emphasis role="strong">59:</emphasis>678–690.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0043" role="bibliographyEntry">
+              <para>42.<emphasis role="strong">Rychert J, Slechta ES, Barker AP, Miranda E, Babady NE, Tang YW, Gibas C, Wiederhold N, Sutton D, Hanson KE.</emphasis> 2018. Multicenter evaluation of the Vitek MS v3.0 system for the identification of filamentous fungi. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">56:</emphasis>e01353–e17.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0044" role="bibliographyEntry">
+              <para>43.<emphasis role="strong">Singh A, Singh PK, Kumar A, Chander J, Khanna G, Roy P, Meis JF, Chowdhary A.</emphasis> 2017. Molecular and matrix‐assisted laser desorption ionization‐time of flight mass spectrometry‐based characterization of clinically significant melanized fungi in India. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">55:</emphasis>1090–1103.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0045" role="bibliographyEntry">
+              <anchor id="ch0138s000000a0042"/>
+              <para>44.<emphasis role="strong">Huang SK, Tangthirasunun N, Phillips AJ, Dai DQ, Wanasinghe DN, Wen TC, Bahkali AH, Hyde KD, Kang JC.</emphasis> 2016. Morphology and phylogeny of <citetitle><emphasis>Neoscytalidium orchidacearum</emphasis></citetitle> sp. nov. (<citetitle><emphasis>Botryosphaeriaceae</emphasis></citetitle>). <citetitle><emphasis>Mycobiology</emphasis></citetitle> <emphasis role="strong">44:</emphasis>79–84.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0046" role="bibliographyEntry">
+              <para>45.<emphasis role="strong">de Hoog GS, Dukik K, Monod M, Packeu A, Stubbe D, Hendrickx M, Kupsch C, Stielow JB, Freeke J, Göker M, Rezaei‐Matehkolaei A, Mirhendi H, Gräser Y.</emphasis> 2017. Toward a novel multilocus phylogenetic taxonomy for the Dermatophytes. <citetitle><emphasis>Mycopathologia</emphasis></citetitle> <emphasis role="strong">182:</emphasis>5–31.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0047" role="bibliographyEntry">
+              <para>46.<emphasis role="strong">CLSI.</emphasis> 2018. Interpretive criteria for identification of bacteria and fungi by targeted DNA sequencing. 2nd ed. CLSI guideline MM18. Clinical and Laboratory Standards Institute, Wayne, PA.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0048" role="bibliographyEntry">
+              <para>47.<emphasis role="strong">Balajee SA, Sigler L, Brandt ME.</emphasis> 2007. DNA and the classical way: identification of medically important molds in the 21st century. <citetitle><emphasis>Med Mycol</emphasis></citetitle> <emphasis role="strong">45:</emphasis>475–490.</para>
+            </listitem>
+            <listitem id="ch0138s000000li0049" role="bibliographyEntry">
+              <para>48.<emphasis role="strong">Borman AM, Johnson EM.</emphasis> 2021. Name changes for fungi of medical importance, 2018 to 2019. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">59:</emphasis>e01811–e20.</para>
+            </listitem>
+          </itemizedlist>
+        </sect3>
+      </sect2>
+    </sect1>
+  </chapter>

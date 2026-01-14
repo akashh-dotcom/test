@@ -1,0 +1,1296 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0108">
+    <title>89 Respiratory Syncytial Virus and Human Metapneumovirus</title>
+    <sect1 id="ch0108s0001">
+      <title>89 Respiratory Syncytial Virus and Human Metapneumovirus</title>
+      <anchor id="ch0108s000001a0001"/>
+      <anchor id="ch0108s000000a0001"/>
+      <para id="ch0108s000000p0001" role="chapterAuthor">GREGORY J. BERRY AND N. ESTHER BABADY</para>
+      <sect2 id="ch0108s0001s0001">
+        <title>RESPIRATORY SYNCYTIAL VIRUS</title>
+        <anchor id="ch0108s000001a0002"/>
+        <anchor id="ch0108s000000a0002"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0108s0002">
+      <title>Taxonomy</title>
+      <anchor id="ch0108s000002a0001"/>
+      <anchor id="ch0108s000000a0003"/>
+      <para id="ch0108s000000p0002">Human respiratory syncytial virus (RSV) is a member of the genus<emphasis>Orthopneumovirus</emphasis>, family <emphasis>Pneumoviridae</emphasis>, order <emphasis>Mononegavirales</emphasis> (<link linkend="ch0108s000000li0001">1</link>, <link linkend="ch0108s000000li0002">2</link>). Other members of the genus include morphologically and biologically similar animal viruses, including the pneumonia virus of mice, bovine RSV, ovine RSV, and caprine RSV. RSV and other pneumoviruses differ from <emphasis>Paramyxoviridae</emphasis> viruses in their number and order of genes and the lack of hemagglutinin and neuraminidase activity. RSV was first recovered from humans with pulmonary disease in 1957 by cell culture (<link linkend="ch0108s000000li0003">3</link>). The virus derives its name from the characteristic formation of multinucleated giant cells (syncytia) in monolayer cell cultures of nonpolarized epithelial cells (<link linkend="ch0108s000000li0004">4</link>, <link linkend="ch0108s000000li0005">5</link>). Only one serotype of RSV has been identified and further subdivided into two major antigenic types, designated RSV A and RSV B, and several genotypes (<link linkend="ch0108s000000li0001">1</link>, <link linkend="ch0108s000000li0006">6</link>, <link linkend="ch0108s000000li0007">7</link>). These two types are based on variability in the G protein, with only one of six epitopes shared between the two types (<link linkend="ch0108s000000li0006">6</link>). Some studies have suggested that RSV A is more virulent than RSV B and causes greater disease severity among hospitalized infants (<link linkend="ch0108s000000li0008">8</link>, <link linkend="ch0108s000000li0009">9</link>). The overall higher prevalence of RSV A has also been associated with high number of RSV cases seen in preterm children (<link linkend="ch0108s000000li0010">10</link>).</para>
+    </sect1>
+    <sect1 id="ch0108s0003">
+      <title>Description of the Agent</title>
+      <anchor id="ch0108s000003a0001"/>
+      <anchor id="ch0108s000000a0004"/>
+      <para id="ch0108s000000p0003">The enveloped RSV virion consists of a single-stranded, negative-sense, nonsegmented RNA genome with 10 genes that are transcribed into 11 monocistronic polyadenylated messenger RNAs, each of which encodes a major polypeptide chain (<anchor id="ch0108s000000a0005"/><link linkend="ch0108s000000a0009">Fig. 1</link>) (<link linkend="ch0108s000000li0002">2</link>). The virus lipid envelope is derived from the host plasma membrane and contains three structural proteins: the F (fusion) protein, the G (glycosylated) protein, and the SH (short hydrophobic) protein. The F protein initiates viral penetration by fusing viral and cellular membranes and promotes viral spread by fusing the infected cells to adjacent uninfected cells. The G protein mediates attachment of the virus to the host cells, and the SH protein accumulates within lipid raft structures of the Golgi complex during RSV infection. The six other structural proteins include the nucleoprotein (N), the phosphoprotein (P), the polymerase or large protein (L), a matrix protein (M), and two other proteins, M2-1 and M2-2. The N protein serves as the major structural protein for the nucleocapsid, while the P and the L proteins are involved in transcription and replication. The M protein is present in detergent-solubilized cores and inhibits viral replication in preparation for budding. The M2-1 protein is a transcription regulator that promotes the association of the M and N proteins, and the function of the M2-2 protein is unclear (<link linkend="ch0108s000000li0002">2</link>). Two nonstructural proteins, NS1 and NS2, are unique to <emphasis>Pneumovirus</emphasis>.</para>
+      <para id="ch0108s000000p0004">There has recently been significant progress in the understanding of RSV entry, replication, and egress, particularly with regard to the role of the F protein (<link linkend="ch0108s000000li0011">11</link>, <link linkend="ch0108s000000li0012">12</link>). The RSV F protein mediates the fusion reaction that causes mixing of the virus and host cell envelopes, leading to delivery of the virus capsid core contents into the cell. The conformation of the RSV F protein prior to fusion is termed prefusion F, and it exists as a trimer on the surface of the RSV virion (<link linkend="ch0108s000000li0012">12</link>). RSV F has been found to be the predominant surface glycoprotein that interacts with insulin-like growth factor 1 receptor (IGF1R). RSV gains entry to the cell through binding of the prefusion RSV F glycoprotein to the IGF1R on the cellular surface. This binding triggers the activation of protein kinase C zeta (PKCζ) and subsequent recruitment of the RSV entry coreceptor nucleolin from the cell nuclei to the plasma membrane to also bind RSV F (<anchor id="ch0108s000000a0006"/><link linkend="ch0108s000000a0013">Fig. 2</link>) (<link linkend="ch0108s000000li0011">11</link>). On the other hand, the host factor chemokine (C-X-C motif) ligand 4 (CXCL4) has been identified as an RSV restriction factor that can block viral attachment by binding to the RSV receptor heparan sulfate (<link linkend="ch0108s000000li0013">13</link>). Thus, RSV cell entry might be modulated by multiple factors including specific host factors.</para>
+      <para id="ch0108s000000p0005">RSV is highly vulnerable to environmental changes. Only 10% of RSV remained infectious after exposure to 55°C for 5 min. At room temperature, 10% infectivity was present after 48 hours, and at 4°C, 1% of the infectivity remained after 7 days. The RSV infectivity titer fell by approximately 90% after each freeze-thaw cycle (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0015">15</link>). The virus is inactivated quickly by ether, chloroform, and a variety of detergents, such as 0.1% sodium deoxycholate, sodium dodecyl sulfate, and Triton X-100. The survival of RSV in the environment depends in part on drying time as well as humidity, with longer survival on nonporous surfaces (e.g., countertops) than on porous surfaces (e.g., cloth) (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0015">15</link>). Long-term storage of RSV can be enhanced by flash freezing in an alcohol-and-dry-ice bath and by adding stabilizing agents, such as glycerin or sucrose.</para>
+      <anchor id="ch0108s000000a0007"/>
+      <beginpage pagenum="1724"/>
+      <figure id="ch0108s000000f0001"><title><anchor id="ch0108s000000a0008"/><phrase role="figureLabel"><anchor id="ch0108s000000a0009"/><link linkend="ch0108s000000a0005">FIGURE 1</link></phrase> Genome organization of representative members of the family <emphasis>Pneumoviridae.</emphasis> Maps of genomic RNAs in sense (coding) orientation (3′ to 5′) in which each box, drawn approximately to scale, represents a gene encoding a separate mRNA. The M2 mRNA of members of the family <emphasis>Pneumoviridae</emphasis> has two overlapping open reading frames, M2-1 and M2-2 (not shown). In the genus <emphasis>Orthopneumovirus</emphasis>, human RSV has a gene overlap at M2 and L (staggered boxes). The intergenic sequences are variable (1 to 190 nt long). Reprinted with permission from the International Committee on Taxonomy of Viruses (ICTV) (<ulink url="https://ictv.global/report/chapter/pneumoviridae/pneumoviridae">https://ictv.global/report/chapter/pneumoviridae/pneumoviridae</ulink>).
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0108f04.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+    </sect1>
+    <sect1 id="ch0108s0004">
+      <title>Epidemiology and Transmission</title>
+      <anchor id="ch0108s000004a0001"/>
+      <anchor id="ch0108s000000a0010"/>
+      <para id="ch0108s000000p0006">Transmission of RSV occurs via droplets and direct or indirect contact with infected patients and/or contaminated surfaces (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0015">15</link>). RSV infections occur year-round worldwide. In the temperate Northern Hemisphere, RSV infections occur in the winter, with a peak between December and February. In the temperate Southern Hemisphere, RSV infections peak between May and July, and in a few tropical locations, including Taiwan, Hong Kong, Singapore, Malaysia, and Colombia, semiannual RSV peaks have been identified (<link linkend="ch0108s000000li0016">16</link>). Epidemiology data have established that both RSV A and RSV B can circulate in the same region concurrently during respiratory season, with one subtype, commonly RSV A, dominating. The pattern of dominance, however, can shift between seasons, with RSV genotype strains evolving and new strains emerging (<link linkend="ch0108s000000li0017">17</link>, <link linkend="ch0108s000000li0018">18</link>). The coronavirus disease 2019 (COVID-19) pandemic has had a major impact on the seasonality of RSV, with especially low rates of RSV infection seen during the 2020-2021 respiratory season (<link linkend="ch0108s000000li0019">19</link>, <link linkend="ch0108s000000li0020">20</link>). Some models also predict a possibility of more intense RSV outbreaks in coming seasons (<link linkend="ch0108s000000li0021">21</link>).</para>
+      <para id="ch0108s000000p0007">In the United States, it is estimated that 177,000 hospitalizations and 14,000 deaths are associated with RSV infection annually, with over 57,000 hospitalizations, 500,000 emergency department visits, and 1.5 million outpatient clinic visits in children less than 5 years of age alone (<link linkend="ch0108s000000li0022">22</link>). Globally, RSV is a common cause of childhood acute lower respiratory infection and a major cause of hospital admissions in young children, resulting in a substantial burden on health care services (<link linkend="ch0108s000000li0023">23</link>). The overall increased prevalence of RSV type A over B viruses may be due to a more transient nature of type A-specific immune protection (<link linkend="ch0108s000000li0024">24</link>). Virtually all children are infected by the time they reach 3 years of age, and repeated infections with RSV are common throughout life. No age group appears to be completely protected against reinfection due to prior exposure (<link linkend="ch0108s000000li0014">14</link>).</para>
+      <para id="ch0108s000000p0008">RSV is known to cause nosocomial infections and produces outbreaks and widespread infections each year in both children and adults, including medical personnel, who may present with mild illness (<link linkend="ch0108s000000li0025">25</link>, <link linkend="ch0108s000000li0026">26</link>). In a classic experiment, volunteers in close physical contact with RSV-infected infants were more readily infected than those who remained 6 feet away, suggesting that small-particle aerosol is less important in the spread of RSV than direct contact with infectious secretions via fomites or large-particle aerosols (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0015">15</link>). A targeted infection control intervention has been demonstrated to be cost-effective in reducing the rate of RSV health care-related infections (<link linkend="ch0108s000000li0027">27</link>, <link linkend="ch0108s000000li0028">28</link>). Contact isolation procedures are recommended for RSV-infected patients when they are hospitalized (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0028">28</link>).</para>
+      <anchor id="ch0108s000000a0011"/>
+      <beginpage pagenum="1725"/>
+      <figure id="ch0108s000000f0002"><title><anchor id="ch0108s000000a0012"/><phrase role="figureLabel"><anchor id="ch0108s000000a0013"/><link linkend="ch0108s000000a0006">FIGURE 2</link></phrase> Schematic showing the binding of RSV to its receptor, and subsequent recruitment of the coreceptor. RSV-F on the surface of the virion binds to IGF1R on the cell surface. This activates the PKCζ signaling pathway, recruiting nucleolin from the nucleus through the cytoplasm to the cell membrane, where it facilitates fusion of the viral and the host membranes, thus enabling RSV replication to proceed. Reprinted from reference <link linkend="ch0108s000000li0011">11</link> with permission.
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0108f05.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <sect2 id="ch0108s0004s0001">
+        <title>CLINICAL SIGNIFICANCE</title>
+        <anchor id="ch0108s000004a0002"/>
+        <anchor id="ch0108s000000a0014"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0108s0005">
+      <title>Children</title>
+      <anchor id="ch0108s000005a0001"/>
+      <anchor id="ch0108s000000a0015"/>
+      <para id="ch0108s000000p0009">RSV is recognized as the most serious cause of severe acute lower respiratory tract illnesses in young children and infants (<link linkend="ch0108s000000li0023">23</link>). The incubation period ranges from 2 to 8 days, with a median of 4.4 days, based on a systematic review (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0015">15</link>). Common lower respiratory tract infections include bronchiolitis, tracheobronchitis, and pneumonia (<link linkend="ch0108s000000li0023">23</link>). Most children with RSV infection are previously healthy children with no underlying conditions and experience recovery from illness after 8 to 15 days (<link linkend="ch0108s000000li0023">23</link>), with some infants and immunosuppressed individuals showing the ability to spread the virus for as long as 4 weeks after symptom resolution. Caserta et al. reported the development of a global respiratory severity score based on nine clinical variables as an endpoint for investigation of disease pathogenesis and as an outcome measure for therapeutic interventions (<link linkend="ch0108s000000li0029">29</link>). Risk factors for acquiring RSV include being under 2 years of age and residential crowding (<link linkend="ch0108s000000li0023">23</link>). Premature infants and infants with chronic lung disease, major congenital heart diseases, or severe immunodeficiencies are at highest risk of hospital admission for RSV. Based on a meta-analysis of the incidence and mortality of severe RSV in children globally, a substantial proportion of RSV-associated morbidity occurs in the first year of life, especially in children born prematurely. These data affirm the importance of RSV disease as a cause of hospitalization and as a significant contributor to pediatric mortality and further demonstrate gestational age as a critical determinant of disease severity. However, an important limitation of case fatality ratios is the absence of individual patient characteristics of nonsurviving patients. Moreover, case fatality ratios cannot be translated to population-based mortality (<link linkend="ch0108s000000li0021">21</link>).</para>
+    </sect1>
+    <sect1 id="ch0108s0006">
+      <title>Adults</title>
+      <anchor id="ch0108s000006a0001"/>
+      <anchor id="ch0108s000000a0016"/>
+      <para id="ch0108s000000p0010">Immunity to RSV is incomplete, making reinfection possible throughout life (<link linkend="ch0108s000000li0024">24</link>, <link linkend="ch0108s000000li0030">30</link>). Adult populations at increased risk for severe RSV infections include residents of nursing homes and long-term care facilities, adults with underlying heart and lung diseases such as chronic obstructive pulmonary diseases and chronic cardiac diseases, asthmatic patients, and immunocompromised patients, including cancer and transplant patients (<link linkend="ch0108s000000li0030">30</link>). The burden of RSV in adults has been determined in a combination of population-based prospective surveillance studies, analysis of acute illness in patients presenting for medical care, and modeling of large medical databases. One systematic literature review of published studies worldwide estimated that there were approximately 1.5 million (95% confidence interval [CI], 0.3 to 6.9 million) episodes of RSV in adults 65 years of age and older in 2015 in industrialized countries, with 214,000 (~14.5%; CI, 100,000 to 459,000) of these cases requiring hospital admission (<link linkend="ch0108s000000li0031">31</link>). In prospective surveillance studies in healthy elderly adults and high-risk adults with underlying cardiopulmonary disease, the annual wintertime RSV attack rate ranged from 3 to 7% and 2 to 10%, respectively (<link linkend="ch0108s000000li0024">24</link>, <link linkend="ch0108s000000li0030">30</link>).</para>
+      <para id="ch0108s000000p0011">Immunocompromised adults have the highest morbidity and mortality from RSV. The incidence of RSV infection following hematopoietic stem cell transplantation (HSCT) and solid organ transplantation ranges from 1 to 12%, with 18 to 55% progressing to lower respiratory tract infection (LRTI) and death due to RSV in 7 to 33% (<link linkend="ch0108s000000li0032">32</link>, <link linkend="ch0108s000000li0033">33</link>). Upper respiratory tract symptoms give way to lower respiratory tract involvement in 30 to 40% of infected people around day 7 of illness. High-dose total body irradiation and total lymphocyte count less than 100/mm<superscript>3</superscript> but not serum-neutralizing antibody levels or corticosteroid use were associated with progression from upper-tract to lower-tract disease (<link linkend="ch0108s000000li0033">33</link>, <link linkend="ch0108s000000li0034">34</link>). Data on RSV disease in solid organ transplant recipients are limited. The incidence and risk of RSV infections in solid organ transplant recipients are lower than in the HSCT recipient group, with most common symptoms of RSV infections being fever, cough, and dyspnea (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0033">33</link>).</para>
+    </sect1>
+    <sect1 id="ch0108s0007">
+      <title>Treatment and Prevention</title>
+      <anchor id="ch0108s000007a0001"/>
+      <anchor id="ch0108s000000a0017"/>
+      <para id="ch0108s000000p0012">Treatment of RSV infections can be challenging. Current options include ribavirin and palivizumab (Synagis) for RSV treatment and prophylaxis, respectively (<link linkend="ch0108s000000li0035">35</link>). Palivizumab is a humanized monoclonal antibody directed at a neutralizing epitope on the postfusion F protein that functions by preventing RSV entry into host cells. It is administered as a monthly injection (five-dose program) in high-risk children during the respiratory-illness season for RSV prophylaxis (<link linkend="ch0108s000000li0035">35</link>, <link linkend="ch0108s000000li0036">36</link>). Palivizumab administration is controversial because of its high cost. Several abbreviated dosing regimens of palivizumab are confirmed to match the protection for outcomes of RSV infection achieved by the regular five-dose program (<link linkend="ch0108s000000li0037">37</link>). Ribavirin is a broad-spectrum nucleoside analogue that targets RNA viruses and can be administered orally, intravenously, or in aerosolized form (<link linkend="ch0108s000000li0038">38</link>, <link linkend="ch0108s000000li0039">39</link>). Data from a large retrospective study of allo-HSCT recipients including both children and adults supported the early initiation of ribavirin therapy for RSV upper respiratory tract infections to prevent progression to LRTI and subsequent mortality from RSV lower respiratory tract infections (<link linkend="ch0108s000000li0040">40</link>). Over the past 10 years, new antiviral drugs including monoclonal antibodies and nucleoside analogues have shown clinical promise against RSV (<link linkend="ch0108s000000li0038">38</link>, <link linkend="ch0108s000000li0039">39</link>, <link linkend="ch0108s000000li0041">41</link>). In 2023, application for licensing of Nirsevimab was submitted for approval by the U.S. FDA. Nirsevimab is a single-dose long-acting antibody developed to protect infants and children up to 24 months of age against severe, lower RSV respiratory tract disease (<link linkend="ch0108s000000li0042">42</link>). Although there is a worldwide need for a preventative vaccine in the pediatric population, an effective and safe RSV vaccine is not yet licensed.</para>
+      <para id="ch0108s000000p0013">While RSV vaccine versions designed to elicit an immune response against the F protein have not been effective, more recent RSV vaccine candidates designed to incorporate stabilized versions of the prefusion F glycoprotein have been rapidly advancing and show great promise (<link linkend="ch0108s000000li0043">43</link>, <link linkend="ch0108s000000li0044">44</link>). Initial work showed this form eliciting a potent neutralizing antibody response against RSV 10- to 100-fold more potent than palivizumab (<link linkend="ch0108s000000li0030">30</link>, <link linkend="ch0108s000000li0045">45</link>). In addition, immunogenicity for prefusion F was 80-fold higher than for postfusion F in nonhuman primate models, with humans immunized with the stabilized prefusion F conformation DS-Cav1 (<link linkend="ch0108s000000li0045">45</link>) experimental vaccine candidate showing a 12- to 15-fold increase in neutralizing activity above baseline (<link linkend="ch0108s000000li0046">46</link>).</para>
+      <para id="ch0108s000000p0014">There has also been significant progress in nonhuman primate models in understanding the upper and lower respiratory tract-specific immune responses that lead to protection from RSV infection. This insight should assist in designing future vaccines (<link linkend="ch0108s000000li0047">47</link>).</para>
+      <sect2 id="ch0108s0007s0001">
+        <title>COLLECTION, TRANSPORT, AND STORAGE OF SPECIMENS</title>
+        <anchor id="ch0108s000007a0002"/>
+        <anchor id="ch0108s000000a0018"/>
+        <anchor id="ch0108s000000a0019"/>
+        <para id="ch0108s000000p0015">Most general viral specimen collection principles also apply to specimen collection for RSV detection and culture, such as collecting specimens during the acute phase of illness, maintaining recovered cells in intact form, delivering specimens promptly to the diagnostic laboratory, refrigerating specimens if stored temporarily, and sealing them well in O-ring-sealed cryovials if stored on dry ice (<link linkend="ch0108s000000li0015">15</link>). Heating or freezing the specimen will result in a decreased number of infectious virions in the sample. If a delay of more than 2 hours between collection and receipt of the sample is expected, specimen containers should be kept at 4°C, including during transport to the laboratory, for optimal detection of RSV. Differences in the recovery of RSV from various specimen types due to transport or storage temperatures are less pronounced with the use of nucleic acid amplification tests (NAATs) (<link linkend="ch0108s000000li0015">15</link>), which are more sensitive than viral culture. If culture is being considered, a sample should ideally be transported to the laboratory and processed for culture within 4 hours of collection, because RSV is labile and viral titers can significantly decrease with prolonged storage at 4°C. Alternatively, specimens may be snap frozen to prevent viral degradation (<link linkend="ch0108s000000li0048">48</link>).</para>
+        <para id="ch0108s000000p0016">Appropriate respiratory specimens for RSV detection should reflect the site of infection. RSV infects respiratory epithelial cells and can spread to the lower respiratory tract following 1 to 3 days of incubation (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0015">15</link>). For upper respiratory tract infections, the ideal specimens include nasopharyngeal specimens collected with a flocked swab and nasal or nasopharyngeal washes or aspirates (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0015">15</link>). While some studies have demonstrated that nasopharyngeal aspirates are more sensitive than specimens collected with flocked swabs, other studies have demonstrated similar diagnostic performance (<link linkend="ch0108s000000li0049">49</link>–<link linkend="ch0108s000000li0051">51</link>). Similarly, for rapid antigen testing, nasopharyngeal aspirates or washes had slightly higher sensitivity than nasopharyngeal swabs and nasal aspirates or washes, but no statistical differences were revealed by a systematic review and meta-analysis (<link linkend="ch0108s000000li0052">52</link>).</para>
+        <para id="ch0108s000000p0017">Nasopharyngeal specimens collected by nylon flocked swabs have more epithelial cells, are easy to elute with the least discomfort, and have been widely used in both rapid antigen and NAATs (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0053">53</link>). Throat swab and saliva specimens are inferior but might be acceptable when it is impractical to obtain nasal or nasopharyngeal specimens. For lower respiratory tract infections, bronchoalveolar lavage fluids, bronchial washings, sputa, and endotracheal aspirates can be used, with bronchoalveolar lavage fluid having the best recovery compared to nasal washes and nose and throat swabs (<link linkend="ch0108s000000li0015">15</link>, <link linkend="ch0108s000000li0048">48</link>). Endotracheal tube aspirate or bronchoalveolar lavage fluid collection is preferred in immunocompromised adults who are being mechanically ventilated (<link linkend="ch0108s000000li0048">48</link>).</para>
+        <para id="ch0108s000000p0018">The likelihood of identifying RSV as the etiology of a patient’s infection is greatest when a specimen is obtained within the first several days of illness. Viral cultures or antigen tests usually become negative 1 week after onset of illness in about 50% of patients. However, shedding of live virus in immunocompromised infants has been documented up to 3 weeks after onset of illness (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0024">24</link>). The quantity of virus in the upper respiratory tract (nasal aspirates) is nearly equivalent to that found in the lower respiratory tract when tested by quantitative culture or real-time PCR methods, particularly in pediatric patients (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0015">15</link>, <link linkend="ch0108s000000li0054">54</link>). In healthy adult volunteers experimentally inoculated with RSV, the mean duration of RSV shedding was 7.4 (±2.5) days, while naturally infected older adults shed the virus on average for 10 to 13 days but for as long as ≥20 days (<link linkend="ch0108s000000li0052">52</link>, <link linkend="ch0108s000000li0055">55</link>, <link linkend="ch0108s000000li0056">56</link>). Long-term RSV shedding longer than 30 days has also been documented in subsets of patients with hematological malignancies (<link linkend="ch0108s000000li0057">57</link>).</para>
+      </sect2>
+      <sect2 id="ch0108s0007s0002">
+        <title>DIRECT EXAMINATION</title>
+        <anchor id="ch0108s000007a0003"/>
+        <anchor id="ch0108s000000a0020"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0108s0008">
+      <title>Microscopy</title>
+      <anchor id="ch0108s000008a0001"/>
+      <anchor id="ch0108s000000a0021"/>
+      <para id="ch0108s000000p0019">Although RSV can be visualized by electron microscopy, its application has been limited to research laboratories. However, characteristic syncytial cytopathic effects (CPEs) in lung biopsies can facilitate the diagnosis.</para>
+    </sect1>
+    <sect1 id="ch0108s0009">
+      <title>Antigen Detection</title>
+      <anchor id="ch0108s000009a0001"/>
+      <anchor id="ch0108s000000a0022"/>
+      <sect2 id="ch0108s0009s0001">
+        <title>Rapid Antigen Detection Tests</title>
+        <anchor id="ch0108s000009a0002"/>
+        <anchor id="ch0108s000000a0023"/>
+        <para id="ch0108s000000p0020">RSV rapid antigen detection tests (RADTs) can be performed in less than 30 minutes and do not require experienced technologists to perform and interpret test results (<link linkend="ch0108s000000li0052">52</link>, <link linkend="ch0108s000000li0058">58</link>). Results are visualized as a color change or the appearance of a line or sign on a solid membrane as a result of antigen-antibody complex binding. Depending on the assay design, the result either is read visually by the individual performing the assay or is interpreted and reported by an automated reading device. Most RADTs have waived status and can be performed as point-of-care tests with minimal or no equipment needed (<link linkend="ch0108s000000li0052">52</link>, <link linkend="ch0108s000000li0058">58</link>, <link linkend="ch0108s000000li0059">59</link>). They are generally also inexpensive and simple to perform, making them a valuable tool at the point of care. However, the sensitivity of these assays is relatively low and highly dependent on the prevalence of RSV in the community (<link linkend="ch0108s000000li0052">52</link>). Hence, false-positive and false-negative results are a concern depending on the time of the year, and the performance of these tests is considerably reduced during the RSV off-season (<link linkend="ch0108s000000li0060">60</link>, <link linkend="ch0108s000000li0061">61</link>). RSV RADT performance also varies with the patient population tested. In adult patients, these assays generally lack sensitivity, making their utility in this population limited, especially among the elderly and the immunocompromised (<link linkend="ch0108s000000li0052">52</link>). In infants and very young children, RADT performance is higher than that found in adults, which is due to the higher viral load seen in this age group, making them more useful for testing in this population (<link linkend="ch0108s000000li0052">52</link>, <link linkend="ch0108s000000li0058">58</link>, <link linkend="ch0108s000000li0062">62</link>, <link linkend="ch0108s000000li0063">63</link>). One systematic review and meta-analysis indicated a low RSV RADT sensitivity of 29% in adults in comparison to an overall pooled sensitivity of 81% in children (<link linkend="ch0108s000000li0052">52</link>). It is therefore recommended that negative RADT results be followed up with NAATs for confirmation (<link linkend="ch0108s000000li0064">64</link>, <link linkend="ch0108s000000li0065">65</link>).</para>
+        <para id="ch0108s000000p0021">RSV RADTs are commercially available in a variety of platforms and test formats (<anchor id="ch0108s000000a0024"/><link linkend="ch0108s000000a0029">Table 1</link>). Key factors that influence choice include test accuracy, turnaround time, acceptable specimen types, compatible transport media, and a reliable supply of reagents or kits. BD Veritor RSV (Becton, Dickinson and Company, Franklin Lakes, NJ) and Quidel Sofia RSV (Quidel Corporation, San Diego, CA) are examples of two FDA-cleared RADTs that employ an instrument-based digital scan of the test strip to improve accuracy (<link linkend="ch0108s000000li0053">53</link>, <link linkend="ch0108s000000li0066">66</link>, <link linkend="ch0108s000000li0067">67</link>). Objective result reporting and walk-away testing make these types of platforms valuable choices for point-of-care testing. The mariPOC assay (ArcDia International Oy Ltd., Turku, Finland) is a fully automated, random-access immunoassay that detects multiple respiratory viruses, including RSV (<link linkend="ch0108s000000li0068">68</link>, <link linkend="ch0108s000000li0069">69</link>).</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0108s0010">
+      <title>Direct Fluorescent-Antibody Tests</title>
+      <anchor id="ch0108s000010a0001"/>
+      <anchor id="ch0108s000000a0025"/>
+      <para id="ch0108s000000p0022">Direct fluorescent-antibody assays (DFAs) are based on the detection of RSV antigens in respiratory specimens using fluorophore-labeled monoclonal mouse antibodies. The use of monoclonal antibodies in these assays has greatly improved the sensitivity and specificity of the test (<anchor id="ch0108s000000a0027"/><link linkend="ch0108s000000a0035">Fig. 3B</link> and C). DFA for RSV has reported sensitivities and specificities ranging from 84 to 100% and 86 to 100% compared to culture and NAATs, respectively (<link linkend="ch0108s000000li0060">60</link>, <link linkend="ch0108s000000li0070">70</link>, <link linkend="ch0108s000000li0071">71</link>). RSV DFA reagents are commercially available from a number of companies (<anchor id="ch0108s000000a0028"/><link linkend="ch0108s000000a0040">Table 2</link>). The sensitivity and specificity of DFA detection are comparable to those of cell culture (<link linkend="ch0108s000000li0072">72</link>) but with faster test turnaround, with some studies showing DFA and cytospin preparations performing better than culture, presumably due to the labile nature of RSV (<link linkend="ch0108s000000li0072">72</link>). DFAs offer the advantage of evaluating the specimen quality by visualizing cells on the slide but are fairly labor-intensive and require experienced technologists (<link linkend="ch0108s000000li0052">52</link>, <link linkend="ch0108s000000li0058">58</link>). Multianalyte DFA reagents to simultaneously detect a panel of common respiratory viruses, including RSV, are also available commercially (<link linkend="ch0108s000000li0072">72</link>).</para>
+      <anchor id="ch0108s000000a0026"/>
+      <beginpage pagenum="1727"/>
+      <table id="ch0108s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0108s000000a0029"/><link linkend="ch0108s000000a0024">TABLE 1</link></phrase></emphasis> Commercially available RSV and HMPV rapid antigen tests<superscript><link linkend="ch0108s000000a0032"><emphasis>a</emphasis></link></superscript><anchor id="ch0108s000000a0030"/>
+</title>
+        
+        <tgroup cols="6">
+          <tbody>
+            <row>
+              <entry>Product</entry>
+              <entry>Company</entry>
+              <entry>Compatible specimens</entry>
+              <entry>Assay time</entry>
+              <entry>Manufacturer-claimed sensitivity; specificity (%)<superscript><link linkend="ch0108s000000a0033"><emphasis>b</emphasis></link></superscript><anchor id="ch0108s000000a0031"/></entry>
+              <entry>Comments</entry>
+            </row>
+            <row>
+              <entry>Veritor RSV</entry>
+              <entry>BD Diagnostic Systems, Sparks, MD</entry>
+              <entry>NPW and NPS</entry>
+              <entry>15 min</entry>
+              <entry>88–92; 95–98</entry>
+              <entry>Instrument-based digital scan, CLIA-waived test</entry>
+            </row>
+            <row>
+              <entry>BinaxNOW RSV</entry>
+              <entry>Abbott, Chicago, IL</entry>
+              <entry>NW and NPS</entry>
+              <entry>15 min</entry>
+              <entry>89–93; 93–100</entry>
+              <entry>CLIA-waived test</entry>
+            </row>
+            <row>
+              <entry>SAS RSVAlert</entry>
+              <entry>SA Scientific, San Antonio, TX</entry>
+              <entry>NPW, NPA, and NPS</entry>
+              <entry>15 min</entry>
+              <entry>95.6; 94.1</entry>
+              <entry>18-mo shelf life</entry>
+            </row>
+            <row>
+              <entry>Tru RSV</entry>
+              <entry>Meridian Bioscience, Inc., Cincinnati, OH</entry>
+              <entry>NPW, NPA, and NPS</entry>
+              <entry>15 min</entry>
+              <entry>71.7–92.3; 81.1–96.2</entry>
+              <entry>Pooled monoclonal antibodies detect two RSV antigens</entry>
+            </row>
+            <row>
+              <entry>Clearview RSV</entry>
+              <entry>Abbott, Chicago, IL</entry>
+              <entry>NPW, NPA, and NPS</entry>
+              <entry>15 min</entry>
+              <entry>93.7; 97.7</entry>
+              <entry>CLIA-waived test, for children &lt;6 and adults &gt;60 yrs old</entry>
+            </row>
+            <row>
+              <entry>Xpect RSV</entry>
+              <entry>Remel, Inc., Lenexa, KS</entry>
+              <entry>NPW and NPS</entry>
+              <entry>15 min</entry>
+              <entry>54.5–100; 94.1–100</entry>
+              <entry>CLIA-waived test</entry>
+            </row>
+            <row>
+              <entry>Sofia RSV</entry>
+              <entry>Quidel Corp., San Diego, CA</entry>
+              <entry>NW, NPA, and NPS</entry>
+              <entry>15 min</entry>
+              <entry>86–89; 97–98</entry>
+              <entry>Instrument-based digital scan, CLIA-waived test</entry>
+            </row>
+            <row>
+              <entry>RSV Respi-Strip/K-SeT</entry>
+              <entry>Coris BioConcept, Gembloux, Belgium</entry>
+              <entry>NPW and/or culture supernatant</entry>
+              <entry>10 min</entry>
+              <entry><para id="ch0108s000000p0023">Strip; 92.2–96; 98.3–100</para>
+                <para id="ch0108s000000p0024">K-SeT; 92.2–96; 98.3–100</para>
+              </entry>
+              <entry>Rapid in 10 min, complete set of sampling devices available</entry>
+            </row>
+            <row>
+              <entry>QuickVue RSV</entry>
+              <entry>Quidel Corp., San Diego, CA</entry>
+              <entry>NW, NPA, and NPS</entry>
+              <entry>15 min</entry>
+              <entry>83–99; 90–92</entry>
+              <entry>Negative results do not preclude RSV infection and should be confirmed by culture or NAAT</entry>
+            </row>
+            <row>
+              <entry>mariPOC test</entry>
+              <entry>ArcDia International Oy Ltd., Turku, Finland</entry>
+              <entry>NPA and NPS</entry>
+              <entry>20 min–2 hours</entry>
+              <entry>100 (RSV), ~100 (HMPV); 100 (both)</entry>
+              <entry>Multianalyte point-of-care antigen system detecting 10 viruses and<emphasis>S. pneumoniae</emphasis></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="ch0108s000000p0025" role="table-footnote"><superscript><link linkend="ch0108s000000a0030"><emphasis>a</emphasis></link></superscript><anchor id="ch0108s000000a0032"/>NA, not applicable or not available; NW, nasal wash; NPA, nasopharyngeal aspirate; NPS, nasopharyngeal swab; NPW, nasopharyngeal wash.</para>
+      <para id="ch0108s000000p0026" role="table-footnote"><superscript><link linkend="ch0108s000000a0031"><emphasis>b</emphasis></link></superscript><anchor id="ch0108s000000a0033"/>Compared to cell culture unless specifically noted.</para>
+      <figure id="ch0108s000000f0003"><title><anchor id="ch0108s000000a0034"/><phrase role="figureLabel"><anchor id="ch0108s000000a0035"/><link linkend="ch0108s000000a0027">FIGURE 3</link></phrase> Microscopic detection of RSV and HMPV. (A) RSV-infected A549 cells exhibiting extensive syncytium formation. (B) Direct immunofluorescence of RSV on a nasopharyngeal swab specimen. (C) Indirect immunofluorescence of HMPV-infected LLC-MK2 centrifugation culture stained with monoclonal antibody MAb-8 (<link linkend="ch0108s000000li0149">149</link>). Images courtesy of Ryan Relich <ulink url="http://www.virology.org/hpphoto3.html">http://www.virology.org/hpphoto3.html</ulink> (A) and David Ferguson and Marie Landry (B and C).
+</title>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0108f03.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+    </sect1>
+    <sect1 id="ch0108s0011">
+      <title>Nucleic Acid Detection</title>
+      <anchor id="ch0108s000011a0001"/>
+      <anchor id="ch0108s000000a0036"/>
+      <para id="ch0108s000000p0027">Nucleic acid amplification-based methods are now the standard technique for detection of RSV in clinical laboratories. This change has been facilitated by both the widespread availability of more simplified sample-to-answer and cartridge-based commercial assays and the need to streamline workflows in the clinical laboratories due to widespread staffing shortages. The shift toward molecular testing has also been accelerated by the COVID-19 pandemic, due to NAATs being the diagnostic methodology of choice (<link linkend="ch0108s000000li0073">73</link>). In addition, NAATs have superior sensitivity in the detection of respiratory viruses compared to cell culture and DFA and have a shorter time to results (<link linkend="ch0108s000000li0054">54</link>, <link linkend="ch0108s000000li0074">74</link>). While standalone NAATs for RSV are still available, most molecular assays are designed as multiplexed panels, including limited panels targeting RSV and influenza viruses, with or without severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (<anchor id="ch0108s000000a0037"/><link linkend="ch0108s000000a0047">Table 3</link>), and larger multiplex panels adding targets for many other respiratory viruses (<anchor id="ch0108s000000a0038"/><link linkend="ch0108s000000a0057">Table 4</link>). The trend towards the use of diagnostic NAATs has also been observed in the point-of-care setting as CLIA-waived platforms increase in availability (<link linkend="ch0108s000000li0075">75</link>).</para>
+      <para id="ch0108s000000p0028">Several multiplex molecular syndromic systems are commercially available (<link linkend="ch0108s000000li0076">76</link>, <link linkend="ch0108s000000li0077">77</link>), with many assays now being cleared by the U.S. FDA for detection of a panel of respiratory viral and bacterial pathogens, including RSV (<link linkend="ch0108s000000a0057">Table 4</link>). The more recent FDA approved panels from BioMérieux (Salt Lake City, UT) include the pneumonia panel for lower respiratory tract specimens (<link linkend="ch0108s000000li0077">77</link>) and the RP 2.1 respiratory panel, which is a modification of the RP2 respiratory panel (<link linkend="ch0108s000000li0078">78</link>) that includes SARS-CoV-2 as a target (<link linkend="ch0108s000000li0076">76</link>). The CLIA-waived version of the RP2, the RP2 EZ, has been adapted into a panel that now contains SARS-CoV-2 and received FDA emergency use authorization (EUA). Except in the case of the pneumonia panel, which is cleared for lower respiratory tract specimens such as induced sputum, expectorated sputum, endotracheal aspirates, and bronchoalveolar lavage fluids, nasopharyngeal swabs are the only specimen type that is currently FDA cleared for all of other multiplex NAATs. While this is the case, published reports that pre-date the pneumonia panel included analysis of other respiratory specimen types, including nasal swabs and bronchoalveolar lavage fluids, with sensitivity and specificity similar to those of nasopharyngeal swabs (<link linkend="ch0108s000000li0079">79</link>, <link linkend="ch0108s000000li0080">80</link>). In addition to <emphasis>in vitro</emphasis> diagnostic (IVD) singleplex and multiplex NAATs, a wide range of research-use-only tests and analyte-specific reagents (ASRs) are available. Rapid turnaround time, simultaneous detection of an array of pathogens, and superior sensitivity of these multiplex syndromic panels have the potential to decrease emergency department length of stay, reduce diagnostic tests, and shorten the duration of intravenous antibiotic administration (<link linkend="ch0108s000000li0081">81</link>–<link linkend="ch0108s000000li0084">84</link>).</para>
+      <anchor id="ch0108s000000a0039"/>
+      <beginpage pagenum="1728"/>
+      <table id="ch0108s000000t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0108s000000a0040"/><link linkend="ch0108s000000a0028">TABLE 2</link></phrase></emphasis> Commercial RSV and HMPV DFA reagents and their performance
+</title>
+        
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry>Product</entry>
+              <entry>Company</entry>
+              <entry>Manufacturer-claimed sensitivity; specificity (%)<superscript><link linkend="ch0108s000000a0043"><emphasis>a</emphasis></link></superscript><anchor id="ch0108s000000a0041"/></entry>
+              <entry>Application</entry>
+              <entry>Comments</entry>
+            </row>
+            <row>
+              <entry>Light Diagnostics respiratory viral panel DFA</entry>
+              <entry>Millipore, Temecula, CA</entry>
+              <entry>100; 86</entry>
+              <entry>Direct specimen detection and culture confirmation</entry>
+              <entry>In either single RSV or panel format, the panel covers RSV, influenza A/B virus, adenovirus, and parainfluenza viruses 1, 2, and 3</entry>
+            </row>
+            <row>
+              <entry>SimulFluor respiratory screen, RSV/Flu A or RSV/Para 3</entry>
+              <entry>Millipore, Temecula, CA</entry>
+              <entry>83.3–100; 83.8–100</entry>
+              <entry>For screening in clinical specimens and culture</entry>
+              <entry>Three formats available; covers RSV, influenza A/B virus, adenovirus, and parainfluenza viruses 1, 2, and 3</entry>
+            </row>
+            <row>
+              <entry>D<superscript>3</superscript> Ultra DFA respiratory kit</entry>
+              <entry>Quidel, San Diego, CA</entry>
+              <entry>93; 99</entry>
+              <entry>Direct specimen detection and culture confirmation</entry>
+              <entry>Covers influenza A and B viruses, RSV, parainfluenza viruses 1, 2, and 3, and adenovirus</entry>
+            </row>
+            <row>
+              <entry>Imagen RSV</entry>
+              <entry>Oxoid Ltd., Hampshire, United Kingdom</entry>
+              <entry>93; 98</entry>
+              <entry>Detection or identification in human clinical specimens</entry>
+              <entry>Mixture of 3 monoclonal antibodies covering RSV, influenza A virus, and influenza B virus</entry>
+            </row>
+            <row>
+              <entry>PathoDx RSV and respiratory virus panel</entry>
+              <entry>Remel, Inc., Lenexa, KS</entry>
+              <entry>77.6–100; 98–100</entry>
+              <entry>For clinical specimen detection and culture confirmation</entry>
+              <entry>The respiratory panel covers RSV, influenza A/B virus, adenovirus, and parainfluenza viruses 1, 2, and 3</entry>
+            </row>
+            <row>
+              <entry>D<superscript>3</superscript> Ultra DFA HMPV kit</entry>
+              <entry>DHI/Quidel, Athens, OH</entry>
+              <entry>62.5; 99.8</entry>
+              <entry>Direct specimen detection and culture confirmation</entry>
+              <entry>Reference was a combination of culture and NAAT<superscript><link linkend="ch0108s000000a0044"><emphasis>b</emphasis></link></superscript><anchor id="ch0108s000000a0042"/> assays</entry>
+            </row>
+            <row>
+              <entry>Imagen hMPV DFA test</entry>
+              <entry>Thermo Fisher Scientific, Ely, United Kingdom</entry>
+              <entry>63.2; 100.0</entry>
+              <entry>For clinical specimen detection</entry>
+              <entry>Sensitivity and specificity were calculated by using culture and NAAT as standards</entry>
+            </row>
+            <row>
+              <entry>Light Diagnostics HMPV reagent</entry>
+              <entry>Millipore, Temecula, CA</entry>
+              <entry>ND</entry>
+              <entry>Direct specimen detection and culture confirmation</entry>
+              <entry>ASR kit carried by Millipore</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="ch0108s000000p0029" role="table-footnote"><superscript><link linkend="ch0108s000000a0041"><emphasis>a</emphasis></link></superscript><anchor id="ch0108s000000a0043"/>Compared to cell culture unless specifically notified. In many cases, the culture used for comparison and validation was suboptimal, making the rapid tests look artificially better. It should be recognized that performance in each laboratory may be different. ND, not done.</para>
+      <para id="ch0108s000000p0030" role="table-footnote"><superscript><link linkend="ch0108s000000a0042"><emphasis>b</emphasis></link></superscript><anchor id="ch0108s000000a0044"/>NAAT, Nucleic acid amplification test.</para>
+      <sect2 id="ch0108s0011s0001">
+        <title>ISOLATION PROCEDURES</title>
+        <anchor id="ch0108s000011a0002"/>
+        <anchor id="ch0108s000000a0045"/>
+        <para id="ch0108s000000p0031">Due to the labile nature of RSV, viral culture is no longer the most reliable method for diagnosis of RSV infections. Advantages that viral culture has over NAATs are that it is not affected by mutations in amplification targets, which may result in false-negative results (<link linkend="ch0108s000000li0085">85</link>), and most specimen types are amenable to culture (<link linkend="ch0108s000000li0065">65</link>). Viral culture also allows the propagation of virions, which can be useful if additional studies are desired.</para>
+        <para id="ch0108s000000p0032">For primary isolation, human heteroploid cells, especially HEp-2, are usually preferred. Other cell lines that may be used but are usually less sensitive include human kidney, amnion, and diploid fibroblastic cells and monkey kidney cells (<link linkend="ch0108s000000li0005">5</link>, <link linkend="ch0108s000000li0014">14</link>). Cell line cultures show characteristic syncytial CPE after 3 to 7 days of incubation (<link linkend="ch0108s000000a0035">Fig. 3A</link>). However, the degree of syncytium formation depends on the type of cell culture, the confluence of the cell monolayer, the medium, the strain and type of virus, the multiplicity of infection, and whether the RSV strain is laboratory adapted. In HEp-2 cells, RSV plaque morphology appears unrelated to disease severity in RSV-infected children (<link linkend="ch0108s000000li0005">5</link>). The reported sensitivities of conventional tube cell culture have ranged from 57 to 90%, in part due to compromise of virus viability, the technical expertise required, and the cell lines used in the laboratory (<link linkend="ch0108s000000li0014">14</link>).</para>
+        <para id="ch0108s000000p0033">The shell vial assay combines centrifugation and immunofluorescence to detect expression of viral antigens on infected cells before development of CPEs, which significantly shorten the length of time needed for detection of the virus to about 16 hours (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0065">65</link>). The use of R-Mix cultures (Diagnostic Hybrids/Quidel Corp, Inc., Athens, OH), which contain a mixture of human lung carcinoma A549 and mink lung Mv1Lu cells, has been shown to be a rapid and sensitive method for the detection and identification of respiratory viruses (<link linkend="ch0108s000000li0086">86</link>, <link linkend="ch0108s000000li0087">87</link>). With significantly decreased costs compared to conventional culture, the use of R-Mix was slightly more sensitive than that of RMK, HEp-2, and MRC-5 cell lines used in conventional cultures, and it was several days faster (<link linkend="ch0108s000000li0086">86</link>). Screening of R-Mix cells after overnight incubation was more sensitive and produced more timely results for RSV and other respiratory viruses and was more reliable than direct antigen testing (<link linkend="ch0108s000000li0087">87</link>, <link linkend="ch0108s000000li0088">88</link>). In addition, R-Mix cell cultures had the major advantage of identifying viruses not detected by direct staining (<link linkend="ch0108s000000li0064">64</link>, <link linkend="ch0108s000000li0065">65</link>, <link linkend="ch0108s000000li0086">86</link>).</para>
+        <anchor id="ch0108s000000a0046"/>
+        <beginpage pagenum="1729"/>
+        <table id="ch0108s000000t0003"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0108s000000a0047"/><link linkend="ch0108s000000a0037">TABLE 3</link></phrase></emphasis> Commercial NAATs for detection and identification of RSV and HMPV<superscript><link linkend="ch0108s000000a0050"><emphasis>a</emphasis></link></superscript><anchor id="ch0108s000000a0048"/>
+</title>
+          
+          <tgroup cols="6">
+            <tbody>
+              <row>
+                <entry>Test</entry>
+                <entry>Manufacturer</entry>
+                <entry>Methods</entry>
+                <entry>Additional targets</entry>
+                <entry>Sensitivity (%)</entry>
+                <entry>Specificity (%)</entry>
+              </row>
+              <row>
+                <entry>ID NOW RSV<superscript><link linkend="ch0108s000000a0051"><emphasis>b</emphasis></link></superscript><anchor id="ch0108s000000a0049"/></entry>
+                <entry>Abbott</entry>
+                <entry>RNA extraction</entry>
+                <entry>None</entry>
+                <entry>98.6 (direct swab)</entry>
+                <entry>98.0 (direct swab)</entry>
+              </row>
+              <row>
+                <entry>Isothermal amplification</entry>
+              </row>
+              <row>
+                <entry>Xpert Xpress Flu/RSV; Flu/RSV XC</entry>
+                <entry>Cepheid, Sunnyvale, CA</entry>
+                <entry>RNA extraction</entry>
+                <entry>Flu A, Flu B</entry>
+                <entry>97.8–100</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>Real-time PCR</entry>
+              </row>
+              <row>
+                <entry>Panther Prodesse ProFlu+</entry>
+                <entry>Hologic, Inc., Marlborough, MA</entry>
+                <entry>RNA extraction</entry>
+                <entry>Flu A, Flu B</entry>
+                <entry>100</entry>
+                <entry>99.0</entry>
+              </row>
+              <row>
+                <entry>Real-time PCR</entry>
+              </row>
+              <row>
+                <entry>Panther Fusion Flu A/B/RSV assay</entry>
+                <entry>Hologic, Inc., Marlborough, MA</entry>
+                <entry>RNA extraction</entry>
+                <entry>Flu A, Flu B</entry>
+                <entry>98.7</entry>
+                <entry>95.1</entry>
+              </row>
+              <row>
+                <entry>Real-time PCR</entry>
+              </row>
+              <row>
+                <entry>Simplexa Flu A/B &amp; RSV, regular and direct version</entry>
+                <entry>Focus Diagnostics, Cypress, CA</entry>
+                <entry>RNA extraction (direct: sample heating)</entry>
+                <entry>Flu A, Flu B</entry>
+                <entry>91–95</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>Real-time PCR</entry>
+              </row>
+              <row>
+                <entry>ARIES Flu A/B and RSV assay</entry>
+                <entry>Luminex Molecular Diagnostics Austin, TX</entry>
+                <entry>RNA extraction</entry>
+                <entry>Flu A, Flu B</entry>
+                <entry>96.0–98.0</entry>
+                <entry>98.4–100</entry>
+              </row>
+              <row>
+                <entry>Real-time PCR</entry>
+              </row>
+              <row>
+                <entry>cobas Liat influenza A/B virus and RSV assay<superscript><link linkend="ch0108s000000a0033"><emphasis>b</emphasis></link></superscript></entry>
+                <entry>Roche Molecular Diagnostics, Pleasanton, CA</entry>
+                <entry>Integrated real-time PCR POCT</entry>
+                <entry>Flu A, Flu B</entry>
+                <entry>97.8–100</entry>
+                <entry>98.4–100</entry>
+              </row>
+              <row>
+                <entry>Idylla respiratory (IFV-RSV) panel</entry>
+                <entry>Janssen</entry>
+                <entry>RNA extraction</entry>
+                <entry>Flu A, Flu B</entry>
+                <entry>96.7–97.4</entry>
+                <entry>99.7–100</entry>
+              </row>
+              <row>
+                <entry>Real-time PCR</entry>
+              </row>
+              <row>
+                <entry>Panther Fusion Adv/hMPV/RV assay</entry>
+                <entry>Hologic, San Diego, CA</entry>
+                <entry>RNA extraction</entry>
+                <entry>Adenovirus, rhinovirus</entry>
+                <entry>98.7</entry>
+                <entry>99.0</entry>
+              </row>
+              <row>
+                <entry>Real-time PCR</entry>
+              </row>
+              <row>
+                <entry>Quidel molecular hMPV assay</entry>
+                <entry>Quidel Molecular, San Diego, CA</entry>
+                <entry>RNA extraction</entry>
+                <entry>None</entry>
+                <entry>95.2</entry>
+                <entry>99.8</entry>
+              </row>
+              <row>
+                <entry>Real-time PCR</entry>
+              </row>
+              <row>
+                <entry>Lyra RSV+hMPV assay</entry>
+                <entry>Quidel Molecular, San Diego, CA</entry>
+                <entry>RNA extraction</entry>
+                <entry>None</entry>
+                <entry><para id="ch0108s000000p0034">RSV: 98.6</para>
+                  <para id="ch0108s000000p0035">HMPV: 98.0</para>
+                </entry>
+                <entry><para id="ch0108s000000p0036">RSV: 96.8</para>
+                  <para id="ch0108s000000p0037">HMPV: 98.9</para>
+                </entry>
+              </row>
+              <row>
+                <entry>Real-time PCR</entry>
+              </row>
+              <row>
+                <entry>Solana RSV + hMPV assay</entry>
+                <entry>Quidel Molecular, San Diego, CA</entry>
+                <entry>Helicase-dependent amplification</entry>
+                <entry>None</entry>
+                <entry><para id="ch0108s000000p0038">RSV: 95.5</para>
+                  <para id="ch0108s000000p0039">HMPV: 95.6</para>
+                </entry>
+                <entry><para id="ch0108s000000p0040">RSV: 99.9</para>
+                  <para id="ch0108s000000p0041">HMPV: 99.8</para>
+                </entry>
+              </row>
+              <row>
+                <entry>Anyplex II</entry>
+                <entry>Seegen, Inc., Seoul, South Korea</entry>
+                <entry>RNA extraction</entry>
+                <entry>Flu A, Flu B, PIV1–4, AdV, EnV/RhV, CoV, Boca</entry>
+                <entry><para id="ch0108s000000p0042">RSV A: 100</para>
+                  <para id="ch0108s000000p0043">RSV B: 90.6</para>
+                  <para id="ch0108s000000p0044">HMPV: 88.9</para>
+                </entry>
+                <entry><para id="ch0108s000000p0045">RSVA2: 100</para>
+                  <para id="ch0108s000000p0046">RSVB: 99.2</para>
+                  <para id="ch0108s000000p0047">HMPV: 99.2</para>
+                </entry>
+              </row>
+              <row>
+                <entry>PCR and multiplex real-time PCR</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0108s000000p0048" role="table-footnote"><superscript><link linkend="ch0108s000000a0048"><emphasis>a</emphasis></link></superscript><anchor id="ch0108s000000a0050"/>AdV, adenovirus; Boca, bocavirus; CoV, coronavirus; EnV/RhV, enterovirus/rhinovirus; Flu, influenza virus; PIV, parainfluenza virus; POCT, point-of-care testing.</para>
+        <para id="ch0108s000000p0049" role="table-footnote"><superscript><link linkend="ch0108s000000a0049"><emphasis>b</emphasis></link></superscript><anchor id="ch0108s000000a0051"/>CLIA waived.</para>
+      </sect2>
+      <sect2 id="ch0108s0011s0002">
+        <title>IDENTIFICATION</title>
+        <anchor id="ch0108s000011a0003"/>
+        <anchor id="ch0108s000000a0052"/>
+        <para id="ch0108s000000p0050">The appearance of characteristic syncytial CPEs in cell culture, together with a negative hemadsorption test, may be adequate to establish the presence of RSV during the epidemic season. However, since other respiratory viruses such as parainfluenza virus 3 and measles virus can produce similar CPEs in certain cell lines, clinical virology laboratories confirm RSV detection by performing type-specific immunofluorescence assay (IFA) on infected cells from cell culture vials as a standard practice (<link linkend="ch0108s000000li0065">65</link>).</para>
+      </sect2>
+      <sect2 id="ch0108s0011s0003">
+        <title>TYPING SYSTEMS</title>
+        <anchor id="ch0108s000011a0004"/>
+        <anchor id="ch0108s000000a0053"/>
+        <para id="ch0108s000000p0051">Infections with RSV of type A or B may result in differing clinical manifestations and outcomes; therefore, RSV type information may become useful in clinical patient management if type-specific vaccines or treatments are developed (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0024">24</link>). More commonly, RSV type information has been used widely to facilitate epidemiological investigations (<link linkend="ch0108s000000li0089">89</link>). Several of the molecular commercial assays include concomitant detection and typing of RSV into RSV A and RSV B (<link linkend="ch0108s000000a0047">Table 3</link>).</para>
+        <para id="ch0108s000000p0052">Methods commonly used for RSV genotyping include restriction fragment length polymorphism analysis, Sanger and next-generation sequencing, and heteroduplex mobility assays of the G protein (<link linkend="ch0108s000000li0025">25</link>, <link linkend="ch0108s000000li0026">26</link>). Numerous genotypes of RSV group A (GA1-7, SAA1, and NA1) and group B (GB0, BA, BA-C, BA-CC, CB1-THB, GB1-GB4, GB6, JAB1-NZB2, SAB1, SAB2, SAB4, and URU2) have been identified, with progress being made in recent years in the development of consensus definitions for genotype assignment (<link linkend="ch0108s000000li0007">7</link>, <link linkend="ch0108s000000li0090">90</link>). These highly discriminatory typing techniques have been useful in monitoring possible health care-related RSV infections and facilitating the interruption of RSV outbreaks (<link linkend="ch0108s000000li0025">25</link>, <link linkend="ch0108s000000li0026">26</link>, <link linkend="ch0108s000000li0091">91</link>).</para>
+      </sect2>
+      <sect2 id="ch0108s0011s0004">
+        <title>SEROLOGIC TESTS</title>
+        <anchor id="ch0108s000011a0005"/>
+        <anchor id="ch0108s000000a0054"/>
+        <para id="ch0108s000000p0053">Serology is primarily useful for epidemiologic studies rather than for clinical diagnosis of RSV infections. Most children have serologic evidence of RSV infection by 2 years of age. A significant proportion (10 to 30%) of young patients with documented RSV infections remain serologically negative, probably due to the immaturity of the infant immune response (<link linkend="ch0108s000000li0014">14</link>). Assays that detect IgM antibody to RSV show low sensitivity, particularly for infants less than 6 months of age, precluding a definitive diagnosis in a clinically relevant time frame (<link linkend="ch0108s000000li0014">14</link>, <link linkend="ch0108s000000li0092">92</link>). In contrast, serology is most useful in elderly adults, who curiously have the most vigorous antibody responses to RSV (<link linkend="ch0108s000000li0014">14</link>). While IgG specific serology is available, the need for convalescent-phase plasma to confirm diagnosis in adults limits the utility of serology for the diagnosis of acute RSV, making serology primary utility as a research tool for epidemiology studies or outbreak investigations. Current means of serologic diagnosis for RSV infections include IFA, enzyme immunoassay, complement fixation, and neutralization assays.</para>
+        <anchor id="ch0108s000000a0055"/>
+        <beginpage pagenum="1730"/>
+        <anchor id="ch0108s000000a0056"/>
+        <beginpage pagenum="1731"/>
+        <table id="ch0108s000000t0004"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0108s000000a0057"/><link linkend="ch0108s000000a0038">TABLE 4</link></phrase></emphasis> Multiplexed syndromic panels that include detection and identification of RSV and HMPV<superscript><link linkend="ch0108s000000a0059"><emphasis>a</emphasis></link></superscript><anchor id="ch0108s000000a0058"/>
+</title>
+          
+          <tgroup cols="7">
+            <tbody>
+              <row>
+                <entry>Sensitivity (%) (CI [%])</entry>
+                <entry>Specificity (%) (CI [%])</entry>
+                <entry>Manufacturer</entry>
+                <entry>Test</entry>
+                <entry>Complexity</entry>
+                <entry>Specimen</entry>
+                <entry>Targets</entry>
+              </row>
+              <row>
+                <entry><para id="ch0108s000000p0054">HMPV: 95.1 (90.2–97.6)</para>
+                  <para id="ch0108s000000p0055">RSV: 98.0 (95.1–99.2)</para>
+                </entry>
+                <entry><para id="ch0108s000000p0056">HMPV: 99.3 (98.9–99.6)</para>
+                  <para id="ch0108s000000p0057">RSV: 99.1 (98.7–99.4)</para>
+                </entry>
+                <entry>Applied BioCode</entry>
+                <entry>BioCode RPP</entry>
+                <entry>High</entry>
+                <entry>Nasopharyngeal swabs (VTM/UTM)</entry>
+                <entry>Adenovirus, coronavirus (229E, OC43, HKU1 and NL63),<emphasis role="strong">HMPV A/B</emphasis>, influenza A virus (H1, H1 2009, H3), influenza B virus, parainfluenza virus (types 1–4), <emphasis role="strong">RSV A/B</emphasis>, rhinovirus/enterovirus, <emphasis>Bordetella pertussis, Chlamydia pneumoniae, Mycoplasma pneumoniae</emphasis></entry>
+              </row>
+              <row>
+                <entry><para id="ch0108s000000p0058">HMPV: 97.3 (90.8–99.3)</para>
+                  <para id="ch0108s000000p0059">RSV: 99.4 (96.9–99.9)</para>
+                </entry>
+                <entry><para id="ch0108s000000p0060">HMPV: 99.5 (99.0–99.7)</para>
+                  <para id="ch0108s000000p0061">RSV: 98.3 (97.5–98.9)</para>
+                </entry>
+                <entry>BioMérieux</entry>
+                <entry>FilmArray RP2.1 panel</entry>
+                <entry>Moderate</entry>
+                <entry>Nasopharyngeal swabs (VTM/UTM/saline)</entry>
+                <entry>Adenovirus, coronavirus (229E, OC43, HKU1, NL63), SARS-CoV-2,<emphasis role="strong">HMPV A/B</emphasis>, influenza A virus (H1, H1 2009, H3), influenza B virus, parainfluenza virus (types 1–4), <emphasis role="strong">RSV</emphasis>, rhinovirus/enterovirus, <emphasis>Bordetella pertussis, Bordetella parapertussis, Chlamydia pneumoniae, Mycoplasma pneumoniae</emphasis></entry>
+              </row>
+              <row>
+                <entry><para id="ch0108s000000p0062">HMPV: 97.3 (90.8–99.3)</para>
+                  <para id="ch0108s000000p0063">RSV: 99.4 (96.9–99.9)</para>
+                </entry>
+                <entry><para id="ch0108s000000p0064">HMPV: 99.5 (99.0–99.7)</para>
+                  <para id="ch0108s000000p0065">RSV: 98.3 (97.5–98.9)</para>
+                </entry>
+                <entry>BioMérieux</entry>
+                <entry>FilmArray RP EZ 2.1</entry>
+                <entry>CLIA waived</entry>
+                <entry>Nasopharyngeal swabs (VTM)</entry>
+                <entry>Adenovirus, coronavirus, SARS-CoV-2,<emphasis role="strong">HMPV</emphasis>, influenza A virus (H1, H1 2009, H3), influenza B virus, parainfluenza virus, <emphasis role="strong">RSV</emphasis>, <emphasis>Bordetella pertussis, Bordetella parapertussis, Chlamydia pneumoniae, Mycoplasma pneumoniae</emphasis></entry>
+              </row>
+              <row>
+                <entry><para id="ch0108s000000p0066">HMPV: 100 (67.6–100)</para>
+                  <para id="ch0108s000000p0067">RSV: 100 (43.9–100)</para>
+                </entry>
+                <entry><para id="ch0108s000000p0068">HMPV: 99.9 (99.3–100)</para>
+                  <para id="ch0108s000000p0069">RSV: 100 (99.5–100)</para>
+                </entry>
+                <entry>BioMérieux</entry>
+                <entry>FilmArray pneumonia panel</entry>
+                <entry>Moderate</entry>
+                <entry>Induced sputum; expectorated sputum; endotracheal aspirates; bronchoalveolar lavage fluid</entry>
+                <entry><emphasis>Acinetobacter calcoaceticus</emphasis>-<emphasis>A. baumannii</emphasis> complex, <emphasis>Enterobacter cloacae</emphasis> complex, <emphasis>Escherichia coli, Haemophilus influenzae, Klebsiella aerogenes, Klebsiella oxytoca, Klebsiella pneumoniae</emphasis> group, <emphasis>Moraxella catarrhalis, Proteus</emphasis> spp., <emphasis>Pseudomonas aeruginosa, Serratia marcescens, Staphylococcus aureus, Streptococcus agalactiae, Streptococcus pneumoniae, Streptococcus pyogenes, Chlamydia pneumoniae, Legionella pneumophila, Mycoplasma pneumoniae</emphasis>, CTX-M, IMP, KPC, <emphasis>mecA/C</emphasis> + MREJ, NDM, OXA48-like, VIM, adenovirus, coronavirus, <emphasis role="strong">HMPV</emphasis>, human rhinovirus/enterovirus, influenza A virus, influenza B virus, parainfluenza virus, <emphasis role="strong">RSV</emphasis></entry>
+              </row>
+              <row>
+                <entry><para id="ch0108s000000p0070">HMPV: 100 (93.5–100)</para>
+                  <para id="ch0108s000000p0071">RSV: 100 (87.7–100)</para>
+                </entry>
+                <entry><para id="ch0108s000000p0072">HMPV: 99.8 (99.3–100)</para>
+                  <para id="ch0108s000000p0073">RSV: 95.9. (94.5–97.5)</para>
+                </entry>
+                <entry>GenMark Diagnostics</entry>
+                <entry>eSensor RVP</entry>
+                <entry>High</entry>
+                <entry>Nasopharyngeal swabs (VTM)</entry>
+                <entry>Adenovirus (B/E, C),<emphasis role="strong">HMPV</emphasis>, influenza A virus (H1, H1 2009, H3), influenza B virus, parainfluenza virus (types 1–3), <emphasis role="strong">RSV A/B</emphasis>, rhinovirus</entry>
+              </row>
+              <row>
+                <entry><para id="ch0108s000000p0074">HMPV: 93.3 (87.4–96.6)</para>
+                  <para id="ch0108s000000p0075">RSV: 99.9 (99.7–100)</para>
+                </entry>
+                <entry><para id="ch0108s000000p0076">HMPV: 99.8 (99.5–99.9)</para>
+                  <para id="ch0108s000000p0077">RSV: 99.7 (99.4–99.8)</para>
+                </entry>
+                <entry>GenMark Diagnostics</entry>
+                <entry>ePlex RP</entry>
+                <entry>Moderate</entry>
+                <entry>Nasopharyngeal swabs (VTM)</entry>
+                <entry>Adenovirus (A–F), coronavirus (229E, OC43, HKU1, NL63),<emphasis role="strong">HMPV</emphasis>, influenza A virus (H1, H1 2009, H3), influenza B virus, parainfluenza virus (types 1–4), <emphasis role="strong">RSV A/B</emphasis>, rhinovirus/enterovirus, <emphasis>Chlamydia pneumoniae, Mycoplasma pneumoniae</emphasis></entry>
+              </row>
+              <row>
+                <entry><para id="ch0108s000000p0078">HMPV: 93.8 (88.5 97.1)</para>
+                  <para id="ch0108s000000p0079">RSV: 98.5 (95.1–100)</para>
+                </entry>
+                <entry><para id="ch0108s000000p0080">HMPV: 99.1 (98.6 – 99.5)</para>
+                  <para id="ch0108s000000p0081">RSV: 99.3 (98.9–99.7)</para>
+                </entry>
+                <entry>Luminex (DiaSorin)</entry>
+                <entry>NxTAG RPP</entry>
+                <entry>High</entry>
+                <entry>Nasopharyngeal swabs (VTM)</entry>
+                <entry>Adenovirus, coronavirus (229E, OC43, HKU1, NL63),<emphasis role="strong">HMPV</emphasis>, influenza A virus (H1, H1 2009, H3), influenza B virus, parainfluenza virus (types 1–4), <emphasis role="strong">RSV A/B,</emphasis> rhinovirus/enterovirus, bocavirus, <emphasis>Chlamydia pneumoniae Mycoplasma pneumoniae</emphasis></entry>
+              </row>
+              <row>
+                <entry><para id="ch0108s000000p0082">HMPV: 100 (92.3–100)</para>
+                  <para id="ch0108s000000p0083">RSV: 94.8 (85.9–98.2)</para>
+                </entry>
+                <entry><para id="ch0108s000000p0084">HMPV: 99.7 (98.8–100)</para>
+                  <para id="ch0108s000000p0085">RSV: 99.3 (98.0–99.8)</para>
+                </entry>
+                <entry>Luminex (DiaSorin)</entry>
+                <entry>Verigene RP Flex</entry>
+                <entry>Moderate</entry>
+                <entry>Nasopharyngeal swabs (VTM)</entry>
+                <entry>Adenovirus,<emphasis role="strong">HMPV</emphasis>, influenza A virus (H1, H3), influenza B virus, parainfluenza virus (types 1–4), <emphasis role="strong">RSV A/B</emphasis>, rhinovirus, <emphasis>Bordetella pertussis, Bordetella parapertussis</emphasis>/<emphasis>B. bronchiseptica, Bordetella holmesii</emphasis></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="ch0108s000000p0086" role="table-footnote"><superscript><link linkend="ch0108s000000a0058"><emphasis>a</emphasis></link></superscript><anchor id="ch0108s000000a0059"/>This list was compiled based on data available as of June 2022. A complete list of FDA-cleared nucleic acid-based tests can be found on the FDA website: <ulink url="https://www.fda.gov/medical-devices/in-vitro-diagnostics/nucleic-acid-based-tests">https://www.fda.gov/medical-devices/in-vitro-diagnostics/nucleic-acid-based-tests</ulink>. CI, 95% confidence interval.</para>
+      </sect2>
+      <sect2 id="ch0108s0011s0005">
+        <title>ANTIVIRAL SUSCEPTIBILITIES</title>
+        <anchor id="ch0108s000011a0006"/>
+        <anchor id="ch0108s000000a0060"/>
+        <para id="ch0108s000000p0087">Resistance to ribavirin has not been recognized in the clinical setting. To date, some palivizumab-resistant RSV mutants have been isolated from children receiving monthly administration of palivizumab (<link linkend="ch0108s000000li0093">93</link>, <link linkend="ch0108s000000li0094">94</link>). Palivizumab-resistant strains with K272E and S275F mutations of the F protein were reported. Mutations leading to amino acid substitutions in the palivizumab-binding site of the RSV F protein have been associated with breakthrough RSV infections in patients receiving palivizumab. One study reported that palivizumab resistance mutations were identified in 4 (10.2%) of the 39 children studied, of whom 1 had received palivizumab (<link linkend="ch0108s000000li0094">94</link>). A cell fusion assay by expression of RSV F protein was reported to analyze the mutation of palivizumab-resistant strains (<link linkend="ch0108s000000li0095">95</link>).</para>
+      </sect2>
+      <sect2 id="ch0108s0011s0006">
+        <title>EVALUATION, INTERPRETATION, AND REPORTING OF RESULTS</title>
+        <anchor id="ch0108s000011a0007"/>
+        <anchor id="ch0108s000000a0061"/>
+        <para id="ch0108s000000p0088">RSV infection among young children is usually diagnosed clinically in the setting of the community’s RSV season. Among adults, however, the findings are less specific, and RSV is commonly not suspected. Test results should be interpreted with knowledge of the natural history of RSV infections in the context of the patient’s clinical presentation and medical history. Serologic results have little clinical value, and NAAT-based molecular assays are the tests of choice for laboratory diagnosis. Culture and DFA for RSV detection are time-consuming and have a relatively long turnaround time; they are mainly used for specimen types that have not been validated or cleared by NAAT-based molecular assays, as a backup test for specimens yielding rapid negative antigen results, or when further characterization has been requested.</para>
+        <para id="ch0108s000000p0089">The availability of rapid antigen assays with a turnaround time as short as 15 min makes it possible for clinicians to receive results in a timely fashion. However, due to their relatively low sensitivity, false-negative results can be expected and should not be interpreted as excluding the possibility of RSV infection. To improve detection, NAAT-based molecular assays should be used as backup tests. With the increased number of multiplexed molecular FDA-approved assays, simultaneous detection and identification of common viral pathogens, including RSV, is becoming the main tool for detection and typing of RSV. Rapid near-point-of-care testing has the potential to decrease emergency department stays, reduce diagnostic tests and patient charges, and improve patient care. Notably, the availability of several CLIA-waived NAAT-based molecular assays now on the market is likely to lead to more widespread adoption of this technology in the point-of-care setting. Whereas multiplex NAATs are currently qualitative, real-time NAATs can provide an estimate of viral load. Especially when more than one virus is detected, the viral load information may be helpful in identifying the predominant pathogen. Viral load estimates are also helpful in determining RSV severity, with higher viral loads being associated with worse disease and longer hospitalization stays and duration of symptoms (<link linkend="ch0108s000000li0096">96</link>, <link linkend="ch0108s000000li0097">97</link>).</para>
+        <para id="ch0108s000000p0090">The positive and negative predictive values of these tests vary according to the prevalence of the disease in a particular population during certain seasons. The diagnosis of RSV infection is often made with reasonable accuracy in combination with clinical and epidemiologic findings in infants with lower respiratory tract disease during the epidemic season. Effective exchanges of relevant information between clinicians and the laboratory are essential to good patient care. RSV is extremely labile, and improper specimen collection, transport, and processing, even when sensitive methods such as RT-PCR are used, can lead to false-negative results. The importance of correct specimen collection and prompt specimen transport cannot be overemphasized. Prompt reporting of test results may assist clinicians in discontinuing unnecessary forms of therapy or in implementing infection control precautions, thereby preventing health care-related spread of infection.</para>
+      </sect2>
+      <sect2 id="ch0108s0011s0007">
+        <title>HUMAN METAPNEUMOVIRUS</title>
+        <anchor id="ch0108s000011a0008"/>
+        <anchor id="ch0108s000000a0062"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0108s0012">
+      <title>Taxonomy</title>
+      <anchor id="ch0108s000012a0001"/>
+      <anchor id="ch0108s000000a0063"/>
+      <para id="ch0108s000000p0091">Human metapneumovirus (HMPV) virus belongs to the order<emphasis>Mononegavirales</emphasis>, the family <emphasis>Pneumoviridae</emphasis>, and the genus <emphasis>Metapneumovirus</emphasis>, which also includes avian metapneumovirus (AMPV), also known as turkey rhinotracheitis virus, a cause of respiratory tract infections in turkeys, ducks, and chickens (<link linkend="ch0108s000000li0001">1</link>). HMPV is the only human pathogen within the genus <emphasis>Metapneumovirus. Orthopneumovirus</emphasis>, the other genus in the family <emphasis>Pneumoviridae</emphasis>, includes the closely related human respiratory syncytial virus (RSV).</para>
+    </sect1>
+    <sect1 id="ch0108s0013">
+      <title>Description of the Agent</title>
+      <anchor id="ch0108s000013a0001"/>
+      <anchor id="ch0108s000000a0064"/>
+      <para id="ch0108s000000p0092">HMPV was first isolated in 2001 from nasopharyngeal aspirates collected over 20 years from children with respiratory tract infection symptoms but no diagnosis in the Netherlands (<link linkend="ch0108s000000li0098">98</link>). Samples were cultured in monkey kidney cells and exhibited cytopathic effects indistinguishable from those of RSV. Genomic analyses showed the virus to be distinct from RSV and most closely related to AMPV.</para>
+      <para id="ch0108s000000p0093">HMPV is an enveloped virus with a single-stranded, nonsegmented negative-sense RNA genome and pleomorphic particles measuring 150 to 600 nm (<link linkend="ch0108s000000li0099">99</link>). The HMPV genome ranges in length from 13,280 to 13,278 nucleotides and possesses 8 genes encoding 9 proteins: the nucleoprotein (N), the phosphoprotein (P), the matrix (M) protein, the M2-1 and M2-2 proteins, the fusion (F) protein, the small hydrophobic (SH) protein, the glycosylated attachment protein (G), and the large polymerase (L) protein (<link linkend="ch0108s000000a0009">Fig. 1</link>) (<link linkend="ch0108s000000li0002">2</link>). The N, P, and L proteins are part of the helical ribonucleoprotein complex and are recruited to cytoplasmic viral inclusion bodies in HMPV-infected cells. The F protein induces virus-cell fusion by binding to heparin sulfate on the host cells and uses multiple Arg-Gly-Asp-binding integrins as attachment and entry receptors (<link linkend="ch0108s000000li0100">100</link>). The G protein, which is the most variable protein among HMPV isolates, binds to the host cell via cellular glycosaminoglycans, including heparin sulfate-like molecules (<link linkend="ch0108s000000li0101">101</link>).</para>
+      <anchor id="ch0108s000000a0065"/>
+      <beginpage pagenum="1732"/>
+      <para id="ch0108s000000p0094">HMPV strains vary genetically and antigenically and have been classified into two genotypes, A and B, based on the sequences of the F and G genes. The genotypes are further divided into five sublineages (A1, A2a, A2b, B1, and B2) (<link linkend="ch0108s000000li0098">98</link>, <link linkend="ch0108s000000li0099">99</link>), with the A2 sublineage showing the greatest genetic diversity (<link linkend="ch0108s000000li0102">102</link>–<link linkend="ch0108s000000li0104">104</link>).</para>
+    </sect1>
+    <sect1 id="ch0108s0014">
+      <title>Epidemiology and Transmission</title>
+      <anchor id="ch0108s000014a0001"/>
+      <anchor id="ch0108s000000a0066"/>
+      <para id="ch0108s000000p0095">Since its discovery in 2001, HMPV has been identified worldwide and in all age groups. Most individuals become infected by the age of 5 years, as initially demonstrated by serology (<link linkend="ch0108s000000li0099">99</link>). In a prospective, population-based surveillance for acute respiratory illness or fever among inpatient and outpatient children in three U.S. counties from 2003 through 2009, HMPV infection was found to be associated with a substantial burden of hospitalizations (<link linkend="ch0108s000000li0105">105</link>). HMPV was detected in 7% of symptomatic children and 1% of asymptomatic control children, with an increase in outpatient visits among children throughout the first 5 years of life, particularly during the first year (<link linkend="ch0108s000000li0105">105</link>). A Spanish prospective study of symptomatic, hospitalized children under the age of 14 between 2005 and 2014 (<link linkend="ch0108s000000li0106">106</link>) identified HMPV in 5.5% of cases, a rate similar to that found in a U.S. study in which HMPV was identified in 5% of children aged 5 to 13 years presenting with acute respiratory illness as outpatients and in emergency rooms between 2003 and 2009 (<link linkend="ch0108s000000li0107">107</link>). Most recently, a systematic review of the literature placed the global estimate of HMPV-associated acute lower respiratory cases in children under 5 years in 2018 at 11.1%, with infants younger than 1 year being at increased risk for severe infection and high mortality (<link linkend="ch0108s000000li0108">108</link>).</para>
+      <para id="ch0108s000000p0096">Although long-term studies have shown that sporadic infection does occur year-round, HMPV has a seasonal distribution. In temperate countries, most cases occur in winter and spring, often overlapping in part or in whole the annual RSV epidemic (<link linkend="ch0108s000000li0105">105</link>). In tropical countries, the peak prevalence occurs in the late summer and early spring between November and April, a period coinciding with the rainy season, with peak prevalence in March (<link linkend="ch0108s000000li0109">109</link>, <link linkend="ch0108s000000li0110">110</link>). The seasonality of HMPV shifted significantly during the COVID-19 pandemic, due in part to nonpharmaceutical interventions, including travel restrictions and lockdown measures implemented in many countries. In Israel, the peak prevalence of HMPV shifted from February-March in 2019 to June-July in 2021 (<link linkend="ch0108s000000li0111">111</link>). Furthermore, a shift in circulating subtype from A2b to B1 and increased cases in children younger than 5 years old was observed. Similar observations were reported in the Netherlands (<link linkend="ch0108s000000li0112">112</link>), while in the United States, the rate of HPMV fell below 2% in April 2020 and remained less than 1% through May 2021 (<link linkend="ch0108s000000li0113">113</link>). In most longitudinal studies, both antigenic group A and group B were noted to cocirculate in the same location during the epidemic periods and had various patterns of predominance depending on the year (102–104, 109, 110). Antigenic variability is thought to contribute to reinfection throughout the life of the patient and may pose a challenge to vaccine development (<link linkend="ch0108s000000li0102">102</link>–<link linkend="ch0108s000000li0104">104</link>).</para>
+      <para id="ch0108s000000p0097">Formal transmission studies have not been reported, but experts believe that transmission occurs by close or direct contact with contaminated secretions involving large-particle aerosols, droplets, or contaminated surfaces (<link linkend="ch0108s000000li0099">99</link>). Transmission is believed to occur in the first 5 to 6 days, when patients are most infectious (<link linkend="ch0108s000000li0114">114</link>, <link linkend="ch0108s000000li0115">115</link>). Using an approach that combines bioinformatics and analysis of the F and G gene sequences, the dynamics of HMPV transmission in both pediatric and adult outpatient populations were investigated (<link linkend="ch0108s000000li0109">109</link>). Using this approach, the authors could establish an estimated date of infection between patients belonging to the same cluster of ≥7 days and identify the donor and recipients (<link linkend="ch0108s000000li0109">109</link>).</para>
+    </sect1>
+    <sect1 id="ch0108s0015">
+      <title>Clinical Significance</title>
+      <anchor id="ch0108s000015a0001"/>
+      <anchor id="ch0108s000000a0067"/>
+      <para id="ch0108s000000p0098">Humans are the only source of infection. The incubation period of HMPV infection is estimated to range from 4 to 6 days, with a median duration of 5 days (<link linkend="ch0108s000000li0114">114</link>, <link linkend="ch0108s000000li0115">115</link>). The signs and symptoms of HMPV infection are nonspecific and indistinguishable from those of respiratory tract infections from other viral causes. Detection of HMPV is strongly associated with symptoms in infected patients, with shedding of the virus occurring up to 4 weeks after primary infection (<link linkend="ch0108s000000li0116">116</link>, <link linkend="ch0108s000000li0117">117</link>). HMPV causes a spectrum of diseases ranging from the common cold to lower respiratory tract illnesses (LRTI), including bronchiolitis, pneumonia, croup, and exacerbation of reactive airway disease (<link linkend="ch0108s000000li0118">118</link>). Studies of patients diagnosed with HMPV revealed that the most common clinical symptoms at presentation include cough, nasal congestion, and rhinorrhea (<link linkend="ch0108s000000li0118">118</link>, <link linkend="ch0108s000000li0119">119</link>). In older adults, dyspnea and wheezing are often present (<link linkend="ch0108s000000li0119">119</link>, <link linkend="ch0108s000000li0120">120</link>), and in pregnant women and immunocompromised hosts, fever is commonly reported (<link linkend="ch0108s000000li0121">121</link>, <link linkend="ch0108s000000li0122">122</link>).</para>
+      <para id="ch0108s000000p0099">RSV and HMPV coinfections have been reported, which is not surprising given the overlapping seasons. Coinfection with bacteria is not common, except for the complication of otitis media, which is frequent (<link linkend="ch0108s000000li0105">105</link>). Coinfection with SARS-CoV-2 has also been reported to occur (<link linkend="ch0108s000000li0123">123</link>–<link linkend="ch0108s000000li0125">125</link>). Similar to RSV, HMPV infection can result in significant morbidity in infants and other special populations, including immunocompromised individuals, high-risk patients, and elderly adults. About half of the cases of LRTI in children occur in the first 6 months of life, suggesting that young age is a major risk factor for severe disease (<link linkend="ch0108s000000li0105">105</link>). Progression to LRTI is also a complication of HMPV infections in older adults and immunocompromised patients. In one cohort of immunocompromised pediatric patients, 29% developed LRTI, 23% were admitted to the intensive care unit or required supplemental oxygen, and 5% died from HMPV pneumonia (<link linkend="ch0108s000000li0126">126</link>). A similar study found that LRTI developed in up to 51% of patients, with respiratory failure and death occurring in 15% and 10%, respectively. Furthermore, coinfection with bacterial or fungal pathogens was identified as the only major risk factor for death (<link linkend="ch0108s000000li0127">127</link>).</para>
+      <para id="ch0108s000000p0100">In adult patients with cancer, reports of complications of HMPV vary. In one study, progression to LRTI was independently associated with underlying hematologic malignancies, health care-related infections, and hypoxia at presentation, with a 10% 30-day mortality rate in patients with LRTI compared to 0% in patients who had only upper respiratory tract infections (<link linkend="ch0108s000000li0121">121</link>). In another study, 55% of cancer patients who were positive for HMPV and had imaging studies done showed evidence of radiographic abnormality, but no fatalities were observed, even in HSCT recipients (<link linkend="ch0108s000000li0128">128</link>). In a recent, large, retrospective observational study, HMPV was associated with significant morbidity (80 to 92% versus 40% occurrence of pneumonia), length of stay (55 versus 36 days), readmission rates (3.6 versus 2%), and overall mortality in allo-HSCT recipients with or without graft-versus-host disease (<link linkend="ch0108s000000li0129">129</link>).</para>
+      <para id="ch0108s000000p0101">In solid organ transplant recipients, upper respiratory tract infections caused by HMPV progressed to LRTI in 50% of patients after a median of 7 days (range, 2 to 31 days). Risk factors identified for progression to LRTI in this cohort included a low lymphocyte count and high C-reactive-protein level at the time of diagnosis of the upper respiratory tract infection. Coinfection with other viruses and bacteria was common, detected in 39% of patients (<link linkend="ch0108s000000li0130">130</link>).</para>
+      <anchor id="ch0108s000000a0068"/>
+      <beginpage pagenum="1733"/>
+      <para id="ch0108s000000p0102">Rare complications reported after HMPV infections include encephalitis and meningitis (<link linkend="ch0108s000000li0131">131</link>, <link linkend="ch0108s000000li0132">132</link>) in previously healthy children and adults and cases of myocarditis in adult patients (<link linkend="ch0108s000000li0133">133</link>, <link linkend="ch0108s000000li0134">134</link>). In all cases, patients recovered from the infections without lasting neurological deficits or other sequelae.</para>
+      <para id="ch0108s000000p0103">There are currently no licensed antiviral agents for the treatment of HMPV (<link linkend="ch0108s000000li0135">135</link>). In most immunocompetent children and adults, infection with HMPV can be managed with supportive care. In immunocompromised hosts, treatment of HMPV infections with ribavirin, a nucleoside analogue approved for the treatment of RSV, intravenous immunoglobulin, or both has been reported, although the exact benefits of these therapeutic approaches remain unclear and will require further evaluation (<link linkend="ch0108s000000li0126">126</link>, <link linkend="ch0108s000000li0136">136</link>).</para>
+      <para id="ch0108s000000p0104">Several approaches have been used to develop a vaccine for HMPV infection, but to date, all have been unsuccessful (<link linkend="ch0108s000000li0137">137</link>). In one study, a recombinant HMPV virus, based on wild-type HMPV, elicited an antibody response in 35% of healthy adults inoculated with the virus and was deemed suitable as a parent virus for the development of a live attenuated recombinant HMPV vaccine (<link linkend="ch0108s000000li0138">138</link>). The vaccine response was overattenuated (i.e., insufficiently immunogenic) in a recent phase I clinical trial of an experimental live attenuated recombinant HMPV vaccine administered to adults and HMPV-seropositive and -seronegative children (<link linkend="ch0108s000000li0139">139</link>). Thus, further studies are needed to develop an HMPV vaccine.</para>
+      <para id="ch0108s000000p0105">Shedding can last for a few days to several weeks, raising the potential for HMPV to be a health care-associated infection. In cancer patients, the median range of HMPV shedding was 14 days, as detected by PCR, although long-term shedding of up to 80 days from a 1.5-year-old child with pre-B cell acute lymphoblastic leukemia was reported (<link linkend="ch0108s000000li0128">128</link>, <link linkend="ch0108s000000li0140">140</link>). Several health care-associated HMPV infections have been reported in hospitalized children and adults, and contact isolation with excellent handwashing for health care providers is necessary to prevent spread (<link linkend="ch0108s000000li0101">101</link>, <link linkend="ch0108s000000li0141">141</link>–<link linkend="ch0108s000000li0144">144</link>). There should be increased awareness of HMPV infection in health care settings, particularly when the population that is at risk has a high prevalence of underlying comorbidities (<link linkend="ch0108s000000li0141">141</link>).</para>
+    </sect1>
+    <sect1 id="ch0108s0016">
+      <title>Collection, Transport, and Storage of Specimens</title>
+      <anchor id="ch0108s000016a0001"/>
+      <anchor id="ch0108s000000a0069"/>
+      <para id="ch0108s000000p0106">The most frequently used specimens for the recovery and detection of HMPV are nasal and nasopharyngeal swabs. Nasopharyngeal flocked swabs have been gradually replacing aspirate specimens without significantly decreasing diagnostic yield (<link linkend="ch0108s000000li0145">145</link>). Other specimen types used for the diagnosis of upper respiratory tract infection caused by HMPV include nasal washes and nasopharyngeal aspirates, primarily for infants. Typically, nasopharyngeal aspirates are collected from infants using a 10F catheter. Washing the catheter after dispensing, in addition to the collection of material in the collection trap, may enhance yield over use of the trap material alone (<link linkend="ch0108s000000li0146">146</link>). Diagnosis of HMPV LRTI is accomplished using expectorated or induced sputa, bronchial washings, and bronchoalveolar lavage specimens. Transport is generally performed using standard viral transport medium (VTM) or universal viral transport medium (UTM). Ideally, specimens should be collected from symptomatic individuals within 5 days of the onset of symptoms for maximum recovery. Specimens should be processed as soon as possible after collection or stored at 4°C for up 72 hours. Incubation at 37°C has been shown to lead to a rapid decrease in HMPV titer (<link linkend="ch0108s000000li0147">147</link>). For long-term storage of specimens or laboratory stocks, a temperature of −70°C is preferred, with specimens in O-ring-sealed cryovials.</para>
+    </sect1>
+    <sect1 id="ch0108s0017">
+      <title>Direct Examination</title>
+      <anchor id="ch0108s000017a0001"/>
+      <anchor id="ch0108s000000a0070"/>
+      <sect2 id="ch0108s0017s0001">
+        <title>Microscopy</title>
+        <anchor id="ch0108s000017a0002"/>
+        <anchor id="ch0108s000000a0071"/>
+        <para id="ch0108s000000p0107">The virus can be visualized by electron microscopy of the supernatant of HMPV-infected cell culture (<link linkend="ch0108s000000li0098">98</link>, <link linkend="ch0108s000000li0148">148</link>). This method was used to describe HMPV when it was first identified (<link linkend="ch0108s000000li0098">98</link>) but is not sufficiently sensitive, rapid, or reproducible for routine clinical diagnosis use.</para>
+      </sect2>
+      <sect2 id="ch0108s0017s0002">
+        <title>Antigen Detection</title>
+        <anchor id="ch0108s000017a0003"/>
+        <anchor id="ch0108s000000a0072"/>
+        <para id="ch0108s000000p0108">The nucleoprotein of HMPV is the most commonly targeted viral antigen for detection using direct fluorescent antibody assays (DFA). DFA reagents using mouse monoclonal antibodies conjugated to fluorescein isothiocyanate are commercially available for the detection of HMPV antigens in clinical samples (<link linkend="ch0108s000000a0040">Table 2</link>). In one study, the performance characteristics of four HMPV DFA kits with nasopharyngeal aspirate samples were compared (<link linkend="ch0108s000000li0149">149</link>). Two DFA kits, the anti-human metapneumovirus (Argene, Verniolle, France) and Imagen hMPV (Oxoid, Thermo Fisher Inc., United Kingdom) kits, gave nonspecific positive signals in samples positive for other viruses (e.g., RSV and adenovirus) and in negative samples. The other two kits that were evaluated, the D<superscript>3</superscript> Ultra HMPV DFA (Diagnostic Hybrids Inc./Quidel Corp., Athens, OH) and the Light Diagnostics HMPV DFA reagent (Millipore, Temecula, CA), were equivalent in their performance, with relatively low sensitivity (50%) and high specificity (100%) compared to RT-PCR. In other reports, the sensitivity of the Light Diagnostics HMPV DFA was higher (85.4%) when evaluated with a larger number of HMPV-positive samples (<link linkend="ch0108s000000li0150">150</link>), while the sensitivity of the Imagen hMPV was similarly low at 63.2% (<link linkend="ch0108s000000li0060">60</link>).</para>
+        <para id="ch0108s000000p0109">An automated, multiantigen, point-of-care assay, the mariPOC Respi test (ArcDia Inc., Turku, Finland), is commercially available in Europe for the detection of HMPV antigens from nasopharyngeal aspirate and swab samples (<link linkend="ch0108s000000li0069">69</link>) (<link linkend="ch0108s000000a0029">Table 1</link>). In addition to HMPV, the Respi test detects several other viral and bacterial respiratory pathogens—influenza virus A, influenza virus B, RSV, adenovirus, parainfluenza viruses 1 to 3, SARS-CoV-2, and <emphasis>Streptococcus pneumoniae</emphasis>—with preliminary results reported in 20 min. The sensitivity of the mariPOC test for HMPV varies across studies from low to high when nucleic acid amplification tests (NAATs) are used as the reference method. In one study, the sensitivity and specificity in nasopharyngeal swabs collected from children with respiratory symptoms and/or fever were 50% and 100%, respectively (<link linkend="ch0108s000000li0069">69</link>), while sensitivity and specificity were higher in another study, at 77.8% and 100%, respectively (<link linkend="ch0108s000000li0151">151</link>).</para>
+        <para id="ch0108s000000p0110">Although the sensitivity of antigen tests is generally lower than that of molecular tests, their relative low complexity and cost, high specificity, and rapid turnaround time to results contribute to their continued utility in diagnostic virology. Antigen assays are often used in combination with molecular tests as part of a two-step algorithm where samples are quickly screened using antigen tests and all negative samples are further tested using molecular tests.</para>
+      </sect2>
+      <sect2 id="ch0108s0017s0003">
+        <title>Nucleic Acid Detection</title>
+        <anchor id="ch0108s000017a0004"/>
+        <anchor id="ch0108s000000a0073"/>
+        <para id="ch0108s000000p0111">The most sensitive test for the identification of HMPV in clinical samples is RT-PCR. Several commercially available HMPV NAATs are listed in<link linkend="ch0108s000000a0047">Table 3</link>.</para>
+        <anchor id="ch0108s000000a0074"/>
+        <beginpage pagenum="1734"/>
+        <para id="ch0108s000000p0112">It is now common for HMPV targets to be included on FDA-cleared, multiplexed respiratory molecular panels along with other respiratory pathogens (<link linkend="ch0108s000000a0057">Table 4</link>). These panels and instruments differ in their degree of multiplexing, complexity, throughput, and turnaround time (<link linkend="ch0108s000000li0152">152</link>). Given the increased sensitivity of NAATs over viral culture and antigen tests, these assays are now considered the gold standard for the detection of viruses, including HMPV. The sensitivity and specificity of each of these panels may vary depending on the reference method used for each or all of the targets, although in general, sensitivities and specificities for HMPV range from 80 to 100% and 95 to 100%, respectively (<link linkend="ch0108s000000a0047">Tables 3</link> and <link linkend="ch0108s000000a0057">4</link>).</para>
+        <para id="ch0108s000000p0113">Syndromic panels that include HMPV offer several advantages. First, given the nonspecific clinical presentation of HMPV infections, syndromic panels allow each sample tested to be interrogated for multiple pathogens, including in some cases, both viruses and bacteria. Second, syndromic panels allow the detection of coinfections. In one French pediatric cohort, 42.9% of samples positive for HMPV were identified as having another virus (<link linkend="ch0108s000000li0153">153</link>), while in a Canadian study, 15% of samples positive for HMPV contained another virus, with mixed infections occurring most frequently in specimens from children younger than 6 months and less frequently in older adults (<link linkend="ch0108s000000li0154">154</link>). However, “coinfections” should be interpreted with caution for several reasons. First, PCR is susceptible to false-positive results due to cross-contamination in some laboratories that perform frequent amplifications. Second, viral genomes can be detected by RT-PCR in respiratory secretions for several weeks or more, even after live virus shedding has ceased. It is difficult to know in this situation if the presence of positive virus-specific nucleic acid signifies active infection or simply a recent acute infection.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0108s0018">
+      <title>Isolation Procedures</title>
+      <anchor id="ch0108s000018a0001"/>
+      <anchor id="ch0108s000000a0075"/>
+      <para id="ch0108s000000p0114">HMPV was first isolated in 2001 in the Netherlands using tertiary monkey kidney cells (<link linkend="ch0108s000000li0098">98</link>). HMPV replicated poorly or not at all in various cell lines commonly used for conventional cell cultures for respiratory virus diagnosis, such as HEK, HEp-2, and Madin-Darby canine kidney cells. Primary isolation is facilitated by the presence of a low concentration of trypsin, which is not used routinely in diagnostic virology cultures in many laboratories. In one study, rhesus monkey kidney epithelial cells (LLC-MK2 and Vero) and a human airway epithelial cell line (BEAS-2B) were most permissive for HMPV growth. LLC-MK2 cells were tolerant of trypsin and thus remain an ideal cell line for HMPV cultivation (<link linkend="ch0108s000000li0147">147</link>). In another study, human laryngeal carcinoma (HEp-2) cells were more sensitive than LLC-MK2 cells for isolation of HMPV, detecting HMPV in 88% of samples that tested positive for HMPV by PCR compared to 24% detection using LLC-MK2 cells (<link linkend="ch0108s000000li0148">148</link>). Centrifugation cultures significantly increased the infectivity of HMPV for cells in monolayer culture (<link linkend="ch0108s000000li0147">147</link>, <link linkend="ch0108s000000li0155">155</link>). HMPV growth in LLC-MK2 cell or Vero cell monolayer cultures is slow, requiring between 10 and 22 days and often several blind passages before CPE appears, especially following primary isolation. The observed CPE is not particularly striking, often appearing only as focal areas of rounding of cells and minor patches of cell-cell fusion (<link linkend="ch0108s000000li0098">98</link>, <link linkend="ch0108s000000li0148">148</link>, <link linkend="ch0108s000000li0156">156</link>). A shell vial culture method using R-Mix cells with a mixed monolayer of human adenocarcinoma cells (A549 cells) and mink lung cells (Mv1Lu cells) (Diagnostic Hybrids Inc./Quidel Corp, Athens, OH) and an HMPV-specific monoclonal antibody had a sensitivity of 100% compared with tube culture in one study (<link linkend="ch0108s000000li0157">157</link>) (<link linkend="ch0108s000000a0035">Fig. 3C</link>).</para>
+    </sect1>
+    <sect1 id="ch0108s0019">
+      <title>Identification</title>
+      <anchor id="ch0108s000019a0001"/>
+      <anchor id="ch0108s000000a0076"/>
+      <para id="ch0108s000000p0115">The characteristics of the CPE are not distinct enough that the virus could be identified on this basis, even by trained observers (<link linkend="ch0108s000000li0098">98</link>, <link linkend="ch0108s000000li0156">156</link>). HMPV is suspected when a virus is isolated during the epidemic season in HEp-2, Vero, or LLC-MK2 cells and other possible viruses have been excluded. Specific identification must be made using immunofluorescence with a commercial monoclonal antibody or an RT-PCR test on RNA extracted from cell lysates.</para>
+    </sect1>
+    <sect1 id="ch0108s0020">
+      <title>Typing Systems</title>
+      <anchor id="ch0108s000020a0001"/>
+      <anchor id="ch0108s000000a0077"/>
+      <para id="ch0108s000000p0116">Sequence analysis uses the fusion (F) gene and the glycoprotein (G) gene as the two main targets to distinguish between the two genotypes, HMPV-A and HMPV-B, with sequence analysis of the nucleocapsid gene being additionally used to further delineate the five subtypes, A1, A2a, A2b, B1, and B2 (<link linkend="ch0108s000000li0109">109</link>, <link linkend="ch0108s000000li0158">158</link>, <link linkend="ch0108s000000li0159">159</link>). The HMPV G glycoprotein gene exhibits the greatest diversity, with nucleotide and amino acid sequence identities ranging from 52 to 58% and 31 to 35%, respectively, between the two genotypes (<link linkend="ch0108s000000li0099">99</link>, <link linkend="ch0108s000000li0160">160</link>). Reverse transcription nucleic acid amplification followed by bidirectional amplicon sequencing is a common approach used for genotyping of HMPV and has been performed directly from clinical samples (<link linkend="ch0108s000000li0109">109</link>) or viral culture isolates (<link linkend="ch0108s000000li0145">145</link>, <link linkend="ch0108s000000li0146">146</link>, <link linkend="ch0108s000000li0158">158</link>, <link linkend="ch0108s000000li0159">159</link>). Whole-genome sequencing protocols using an amplicon-based strategy have shown equal sensitivity and good coverage for strain typing of HMPV lineages with increased detection of genetic diversity in individual genes (<link linkend="ch0108s000000li0161">161</link>, <link linkend="ch0108s000000li0162">162</link>). A few studies investigating the correlation between HMPV genotypes and disease severity have yielded varied results, from those showing no differences in disease severity to those indicating that either genotype A or B causes more severe diseases (<link linkend="ch0108s000000li0163">163</link>–<link linkend="ch0108s000000li0166">166</link>). At present, typing of HMPV isolates is primarily performed for epidemiological investigations.</para>
+    </sect1>
+    <sect1 id="ch0108s0021">
+      <title>Serologic Tests</title>
+      <anchor id="ch0108s000021a0001"/>
+      <anchor id="ch0108s000000a0078"/>
+      <para id="ch0108s000000p0117">Serology is generally not useful for clinical diagnosis of HMPV. Diagnosis using serology would require collection of both acute- and convalescent-phase titers over a 4- to 8-week period, with diagnosis established by observing a 4-fold increase in titers (<link linkend="ch0108s000000li0167">167</link>). Several serology methods using both virus-infected cell lysates and recombinant viral proteins in enzyme-linked immunosorbent assays have been reported (<link linkend="ch0108s000000li0098">98</link>, <link linkend="ch0108s000000li0168">168</link>–<link linkend="ch0108s000000li0170">170</link>). Most of these tests used reduction of virus plaques or CPE as the readout, but a more objective microneutralization test using a recombinant HMPV expressing green fluorescent protein has been reported (<link linkend="ch0108s000000li0171">171</link>).</para>
+    </sect1>
+    <sect1 id="ch0108s0022">
+      <title>Evaluation, Interpretation, and Reporting of Results</title>
+      <anchor id="ch0108s000022a0001"/>
+      <anchor id="ch0108s000000a0079"/>
+      <para id="ch0108s000000p0118">Rapid diagnosis of HMPV infections has greatly improved since its discovery in 2001. Multiple assays are now commercially available, primarily for detection in nasopharyngeal swab specimens. Commercial syndromic panels are now also available for the detection of HMPV in lower respiratory tract specimens, such as bronchoalveolar lavage fluids and tracheal aspirates. The availability of multiplex PCR assays offers laboratories the ability to provide rapid diagnosis in a time frame that allows better management of patients with respiratory tract infections.</para>
+      <para id="ch0108s000000p0119">A positive test for HMPV must be interpreted in the right clinical context. In general, the diagnosis of HMPV infection is most likely when a positive test, particularly a nucleic acid test, occurs during late winter or early spring in temperate climates from a patient with acute respiratory illness. However, HMPV seasonality might have shifted a bit during the COVID-19 pandemic. NAATs should not be used as tests of cure, because the duration of HMPV shedding is still not well defined and might be prolonged in immunocompromised hosts. Furthermore, interpretation of a positive nucleic acid test in the presence of nucleic acids from another virus may also be challenging, because the clinical impact of coinfections remains unclear. Real-time PCR-based quantitative molecular test results including threshold cycle values may be useful to determine the significance of positive findings as well as to differentiate acute and resolved infections. Inversely correlated to the HMPV loads in clinical specimens, higher threshold cycle values would be more consistent with a resolved infection. However, the value of quantitative HMPV PCR remains to be clearly established. Serology and typing are mostly useful in studies of epidemiology at this time.</para>
+      <anchor id="ch0108s000000a0080"/>
+      <beginpage pagenum="1735"/>
+      <sect2 id="ch0108s0022s0001">
+        <title>REFERENCES</title>
+        <anchor id="ch0108s000022a0002"/>
+        <anchor id="ch0108s000000a0081"/>
+        <itemizedlist mark="none" role="biblioEntryList">
+          <listitem id="ch0108s000000li0001" role="bibliographyEntry">
+            <para>1.<emphasis role="strong">Amarasinghe GK, Ayllon MA, Bao Y, Basler CF, Bavari S, et al.</emphasis> 2019. Taxonomy of the order Mononegavirales: update 2019. <citetitle><emphasis>Arch Virol</emphasis></citetitle> <emphasis role="strong">164:</emphasis>1967–1980.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0002" role="bibliographyEntry">
+            <para>2.<emphasis role="strong">Rima B, Collins P, Easton A, Fouchier R, Kurath G, Lamb RA, Lee B, Maisner A, Rota P, Wang L, ICTV Report Consortium.</emphasis> 2017. ICTV virus taxonomy profile: Pneumoviridae. <citetitle><emphasis>J Gen Virol</emphasis></citetitle> <emphasis role="strong">98:</emphasis>2912–2913.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0003" role="bibliographyEntry">
+            <para>3.<emphasis role="strong">Chanock R, Roizman B, Myers R.</emphasis> 1957. Recovery from infants with respiratory illness of a virus related to chimpanzee coryza agent (CCA). I. Isolation, properties and characterization. <citetitle><emphasis>Am J Hyg</emphasis></citetitle> <emphasis role="strong">66:</emphasis>281–290.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0004" role="bibliographyEntry">
+            <para>4.<emphasis role="strong">Ginocchio CC.</emphasis> 2007. Detection of respiratory viruses using non-molecular based methods. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">40</emphasis>(Suppl 1)<emphasis role="strong">:</emphasis>S11–S14.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0005" role="bibliographyEntry">
+            <para>5.<emphasis role="strong">Kim YI, Murphy R, Majumdar S, Harrison LG, Aitken J, DeVincenzo JP.</emphasis> 2015. Relating plaque morphology to respiratory syncytial virus subgroup, viral load, and disease severity in children. <citetitle><emphasis>Pediatr Res</emphasis></citetitle> <emphasis role="strong">78:</emphasis>380–388.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0006" role="bibliographyEntry">
+            <para>6.<emphasis role="strong">Mufson MA, Orvell C, Rafnar B, Norrby E.</emphasis> 1985. Two distinct subtypes of human respiratory syncytial virus. <citetitle><emphasis>J Gen Virol</emphasis></citetitle> <emphasis role="strong">66:</emphasis>2111–2124.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0007" role="bibliographyEntry">
+            <para>7.<emphasis role="strong">Muñoz-Escalante JC, Comas-García A, Bernal-Silva S, Noyola DE.</emphasis> 2021. Respiratory syncytial virus B sequence analysis reveals a novel early genotype. <citetitle><emphasis>Sci Rep</emphasis></citetitle> <emphasis role="strong">11:</emphasis>3452.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0008" role="bibliographyEntry">
+            <para>8.<emphasis role="strong">Midulla F, Nenna R, Scagnolari C, Petrarca L, Frassanito A, Viscido A, Arima S, Antonelli G, Pierangeli A.</emphasis> 2019. How respiratory syncytial virus genotypes influence the clinical course in infants hospitalized for bronchiolitis. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">219:</emphasis>526–534.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0009" role="bibliographyEntry">
+            <para>9.<emphasis role="strong">Papadopoulos NG, Gourgiotis D, Javadyan A, Bossios A, Kallergi K, Psarras S, Tsolia MN, Kafetzis D.</emphasis> 2004. Does respiratory syncytial virus subtype influence the severity of acute bronchiolitis in hospitalized infants? <citetitle><emphasis>Respir Med</emphasis></citetitle> <emphasis role="strong">98:</emphasis>879–882.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0010" role="bibliographyEntry">
+            <para>10.<emphasis role="strong">Ciarlitto C, Vittucci AC, Antilici L, Concato C, Di Camillo C, Zangari P, Villani A.</emphasis> 2019. Respiratory syncytial virus A and B: three bronchiolitis seasons in a third level hospital in Italy. <citetitle><emphasis>Ital J Pediatr</emphasis></citetitle> <emphasis role="strong">45:</emphasis>115.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0011" role="bibliographyEntry">
+            <para>11.<emphasis role="strong">Griffiths CD, Bilawchuk LM, McDonough JE, Jamieson KC, Elawar F, Cen Y, Duan W, Lin C, Song H, Casanova JL, Ogg S, Jensen LD, Thienpont B, Kumar A, Hobman TC, Proud D, Moraes TJ, Marchant DJ.</emphasis> 2020. IGF1R is an entry receptor for respiratory syncytial virus. <citetitle><emphasis>Nature</emphasis></citetitle> <emphasis role="strong">583:</emphasis>615–619.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0012" role="bibliographyEntry">
+            <para>12.<emphasis role="strong">Griffiths C, Drews SJ, Marchant DJ.</emphasis> 2017. Respiratory syncytial virus: infection, detection, and new options for prevention and treatment. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">30:</emphasis>277–319.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0013" role="bibliographyEntry">
+            <para>13.<emphasis role="strong">Han Z, Rao J, Xie Z, Wang C, Xu B, Qian S, Wang Y, Zhu J, Yang B, Xu F, Lei X, Guo F, Zhao Z, Ren L, Wang J.</emphasis> 2020. Chemokine (C-X-C motif) ligand 4 is a restrictor of respiratory syncytial virus infection and an indicator of clinical severity. <citetitle><emphasis>Am J Respir Crit Care Med</emphasis></citetitle> <emphasis role="strong">202:</emphasis>717–729.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0014" role="bibliographyEntry">
+            <para>14.<emphasis role="strong">Walsh EE, Hall CB.</emphasis> 2015. Respiratory syncytial virus (RSV), p 1948–1960. <citetitle><emphasis>In</emphasis></citetitle> Bennett JE, Dolin R, Blaser MJ (ed), <citetitle><emphasis>Principles and Practice of Infectious Diseases</emphasis></citetitle>, 8th ed, vol 1. Elsevier Saunders, Philadelphia, PA.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0015" role="bibliographyEntry">
+            <para>15.<emphasis role="strong">Williams JV, Piedra PA, Englund JA.</emphasis> 2017. Respiratory syncytial virus, human metapneumovirus, and parainfluenza viruses, p 873–902. <citetitle><emphasis>In</emphasis></citetitle> Richman DD, Whitley RJ, Hayden FG (ed), <citetitle><emphasis>Clinical Virology</emphasis></citetitle>, vol 4. ASM Press, Washington, DC.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0016" role="bibliographyEntry">
+            <para>16.<emphasis role="strong">Bloom-Feshbach K, Alonso WJ, Charu V, Tamerius J, Simonsen L, Miller MA, Viboud C.</emphasis> 2013. Latitudinal variations in seasonal activity of influenza and respiratory syncytial virus (RSV): a global comparative review. <citetitle><emphasis>PLoS One</emphasis></citetitle> <emphasis role="strong">8:</emphasis>e54445.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0017" role="bibliographyEntry">
+            <para>17.<emphasis role="strong">Jafri HS, Ramilo O, Makari D, Charsha-May D, Romero JR.</emphasis> 2007. Diagnostic virology practices for respiratory syncytial virus and influenza virus among children in the hospital setting: a national survey. <citetitle><emphasis>Pediatr Infect Dis J</emphasis></citetitle> <emphasis role="strong">26:</emphasis>956–958.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0018" role="bibliographyEntry">
+            <para>18.<emphasis role="strong">Prifert C, Streng A, Krempl CD, Liese J, Weissbrich B.</emphasis> 2013. Novel respiratory syncytial virus a genotype, Germany, 2011-2012. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">19:</emphasis>1029–1030.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0019" role="bibliographyEntry">
+            <para>19.<emphasis role="strong">Yeoh DK, Foley DA, Minney-Smith CA, Martin AC, Mace AO, Sikazwe CT, Le H, Levy A, Blyth CC, Moore HC.</emphasis> 2021. Impact of coronavirus disease 2019 public health measures on detections of influenza and respiratory syncytial virus in children during the 2020 Australian winter. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">72:</emphasis>2199–2202.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0020" role="bibliographyEntry">
+            <para>20.<emphasis role="strong">Kuitunen I, Renko M.</emphasis> 2021. Lessons to learn from the current pandemic for future non-pharmaceutical interventions against the respiratory syncytial virus—nationwide register-study in Finland. <citetitle><emphasis>Infect Dis (Lond)</emphasis></citetitle> <emphasis role="strong">53:</emphasis>476–478.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0021" role="bibliographyEntry">
+            <para>21.<emphasis role="strong">Zheng Z, Pitzer VE, Shapiro ED, Bont LJ, Weinberger DM.</emphasis> 2021. Estimation of the timing and intensity of reemergence of respiratory syncytial virus following the COVID-19 pandemic in the US. <citetitle><emphasis>JAMA Netw Open</emphasis></citetitle> <emphasis role="strong">4:</emphasis>e2141779.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0022" role="bibliographyEntry">
+            <para>22.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2021. Respiratory syncytial virus-associated mortality (RSV-associated mortality).</para>
+          </listitem>
+          <listitem id="ch0108s000000li0023" role="bibliographyEntry">
+            <para>23.<emphasis role="strong">Shi T, McAllister DA, O’Brien KL, Simoes EAF, Madhi SA, Gessner BD, Polack FP, Balsells E, Acacio S, Aguayo C, Alassani I, Ali A, Antonio M, Awasthi S, Awori JO, Azziz-Baumgartner E, Baggett HC, Baillie VL, Balmaseda A, Barahona A, Basnet S, Bassat Q, Basualdo W, Bigogo G, Bont L, Breiman RF, Brooks WA, Broor S, Bruce N, Bruden D, Buchy P, Campbell S, Carosone-Link P, Chadha M, Chipeta J, Chou M, Clara W, Cohen C, de Cuellar E, Dang DA, Dash-Yandag B, Deloria-Knoll M, Dherani M, Eap T, Ebruke BE, Echavarria M, de Freitas Lazaro Emediato CC, Fasce RA, Feikin DR, Feng L, et al.</emphasis> 2017. Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2015: a systematic review and modelling study. <citetitle><emphasis>Lancet</emphasis></citetitle> <emphasis role="strong">390:</emphasis>946–958.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0024" role="bibliographyEntry">
+            <para>24.<emphasis role="strong">Walsh EE.</emphasis> 2017. Respiratory syncytial virus infection: an illness for all ages. <citetitle><emphasis>Clin Chest Med</emphasis></citetitle> <emphasis role="strong">38:</emphasis>29–36.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0025" role="bibliographyEntry">
+            <para>25.<emphasis role="strong">Nabeya D, Kinjo T, Parrott GL, Uehara A, Motooka D, Nakamura S, Nahar S, Nakachi S, Nakamatsu M, Maeshiro S, Haranaga S, Tateyama M, Tomoyose T, Masuzaki H, Horii T, Fujita J.</emphasis> 2017. The clinical and phylogenetic investigation for a nosocomial outbreak of respiratory syncytial virus infection in an adult hemato-oncology unit. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">89:</emphasis>1364–1372.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0026" role="bibliographyEntry">
+            <para>26.<emphasis role="strong">Zhu Y, Zembower TR, Metzger KE, Lei Z, Green SJ, Qi C.</emphasis> 2017. Investigation of respiratory syncytial virus outbreak on an adult stem cell transplant unit by use of whole-genome sequencing. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">55:</emphasis>2956–2963.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0027" role="bibliographyEntry">
+            <para>27.<emphasis role="strong">Macartney KK, Gorelick MH, Manning ML, Hodinka RL, Bell LM.</emphasis> 2000. Nosocomial respiratory syncytial virus infections: the cost-effectiveness and cost-benefit of infection control. <citetitle><emphasis>Pediatrics</emphasis></citetitle> <emphasis role="strong">106:</emphasis>520–526.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0028" role="bibliographyEntry">
+            <para>28.<emphasis role="strong">Thorburn K, Kerr S, Taylor N, van Saene HK.</emphasis> 2004. RSV outbreak in a paediatric intensive care unit. <citetitle><emphasis>J Hosp Infect</emphasis></citetitle> <emphasis role="strong">57:</emphasis>194–201.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0029" role="bibliographyEntry">
+            <para>29.<emphasis role="strong">Caserta MT, Qiu X, Tesini B, Wang L, Murphy A, Corbett A, Topham DJ, Falsey AR, Holden-Wiltse J, Walsh EE.</emphasis> 2017. Development of a global respiratory severity score for respiratory syncytial virus infection in infants. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">215:</emphasis>750–756.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0030" role="bibliographyEntry">
+            <para>30.<emphasis role="strong">Falsey AR, Hennessey PA, Formica MA, Cox C, Walsh EE.</emphasis> 2005. Respiratory syncytial virus infection in elderly and high-risk adults. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">352:</emphasis>1749–1759.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0031" role="bibliographyEntry">
+            <para>31.<emphasis role="strong">Shi T, Denouel A, Tietjen AK, Campbell I, Moran E, Li X, Campbell H, Demont C, Nyawanda BO, Chu HY, Stoszek SK, Krishnan A, Openshaw P, Falsey AR, Nair H, Investigators R, RESCEU Investigators.</emphasis> 2020. Global disease burden estimates of respiratory syncytial virus-associated acute respiratory infection in older adults in 2015: a systematic review and meta-analysis. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">222</emphasis>(Suppl 7)<emphasis role="strong">:</emphasis>S577–S583.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0032" role="bibliographyEntry">
+            <para>32.<emphasis role="strong">Chemaly RF, Shah DP, Boeckh MJ.</emphasis> 2014. Management of respiratory viral infections in hematopoietic cell transplant recipients and patients with hematologic malignancies. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">59</emphasis>(Suppl 5)<emphasis role="strong">:</emphasis>S344–S351.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0033" role="bibliographyEntry">
+            <para>33.<emphasis role="strong">Pilie P, Werbel WA, Riddell J IV, Shu X, Schaubel D, Gregg KS.</emphasis> 2015. Adult patients with respiratory syncytial virus infection: impact of solid organ and hematopoietic stem cell transplantation on outcomes. <citetitle><emphasis>Transpl Infect Dis</emphasis></citetitle> <emphasis role="strong">17:</emphasis>551–557.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0034" role="bibliographyEntry">
+            <para>34.<emphasis role="strong">Kim YJ, Guthrie KA, Waghmare A, Walsh EE, Falsey AR, Kuypers J, Cent A, Englund JA, Boeckh M.</emphasis> 2014. Respiratory syncytial virus in hematopoietic cell transplant recipients: factors determining progression to lower respiratory tract disease. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">209:</emphasis>1195–1204.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0035" role="bibliographyEntry">
+            <para>35.<emphasis role="strong">Hynicka LM, Ensor CR.</emphasis> 2012. Prophylaxis and treatment of respiratory syncytial virus in adult immunocompromised patients. <citetitle><emphasis>Ann Pharmacother</emphasis></citetitle> <emphasis role="strong">46:</emphasis>558–566.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0036" role="bibliographyEntry">
+            <para>36.<emphasis role="strong">Sáez-Llorens X, Moreno MT, Ramilo O, Sánchez PJ, Top FH Jr, Connor EM, MEDI-493 Study Group.</emphasis> 2004. Safety and pharmacokinetics of palivizumab therapy in children hospitalized with respiratory syncytial virus infection. <citetitle><emphasis>Pediatr Infect Dis J</emphasis></citetitle> <emphasis role="strong">23:</emphasis>707–712.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0037" role="bibliographyEntry">
+            <para>37.<emphasis role="strong">Gutfraind A, Galvani AP, Meyers LA.</emphasis> 2015. Efficacy and optimization of palivizumab injection regimens against respiratory syncytial virus infection. <citetitle><emphasis>JAMA Pediatr</emphasis></citetitle> <emphasis role="strong">169:</emphasis>341–348.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0038" role="bibliographyEntry">
+            <para>38.<emphasis role="strong">DeVincenzo JP, McClure MW, Symons JA, Fathi H, Westland C, Chanda S, Lambkin-Williams R, Smith P, Zhang Q, Beigelman L, Blatt LM, Fry J.</emphasis> 2015. Activity of oral ALS-008176 in a respiratory syncytial virus challenge study. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">373:</emphasis>2048–2058.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0039" role="bibliographyEntry">
+            <para>39.<emphasis role="strong">Jorquera PA, Tripp RA.</emphasis> 2017. Respiratory syncytial virus: prospects for new and emerging therapeutics. <citetitle><emphasis>Expert Rev Respir Med</emphasis></citetitle> <emphasis role="strong">11:</emphasis>609–615.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0040" role="bibliographyEntry">
+            <para>40.<emphasis role="strong">Shah DP, Ghantoji SS, Shah JN, El Taoum KK, Jiang Y, Popat U, Hosing C, Rondon G, Tarrand JJ, Champlin RE, Chemaly RF.</emphasis> 2013. Impact of aerosolized ribavirin on mortality in 280 allogeneic haematopoietic stem cell transplant recipients with respiratory syncytial virus infections. <citetitle><emphasis>J Antimicrob Chemother</emphasis></citetitle> <emphasis role="strong">68:</emphasis>1872–1880.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0041" role="bibliographyEntry">
+            <para>41.<emphasis role="strong">Bergeron HC, Tripp RA.</emphasis> 2020. Emerging small and large molecule therapeutics for respiratory syncytial virus. <citetitle><emphasis>Expert Opin Investig Drugs</emphasis></citetitle> <emphasis role="strong">29:</emphasis>285–294.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0042" role="bibliographyEntry">
+            <para>42.<emphasis role="strong">Hammitt LL, Dagan R, Yuan Y, Baca Cots M, Bosheva M, Madhi SA, Muller WJ, Zar HJ, Brooks D, Grenham A, Wählby Hamrén U, Mankad VS, Ren P, Takas T, Abram ME, Leach A, Griffin MP, Villafana T, MELODY Study Group.</emphasis> 2022. Nirsevimab for prevention of RSV in healthy late-preterm and term infants. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">386:</emphasis>837–846.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0043" role="bibliographyEntry">
+            <para>43.<emphasis role="strong">Ruckwardt TJ, Morabito KM, Graham BS.</emphasis> 2019. Immunological lessons from respiratory syncytial virus vaccine development. <citetitle><emphasis>Immunity</emphasis></citetitle> <emphasis role="strong">51:</emphasis>429–442.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0044" role="bibliographyEntry">
+            <para>44.<emphasis role="strong">Mazur NI, Higgins D, Nunes MC, Melero JA, Langedijk AC, Horsley N, Buchholz UJ, Openshaw PJ, McLellan JS, Englund JA, Mejias A, Karron RA, Simões EA, Knezevic I, Ramilo O, Piedra PA, Chu HY, Falsey AR, Nair H, Kragten-Tabatabaie L, Greenough A, Baraldi E, Papadopoulos NG, Vekemans J, Polack FP, Powell M, Satav A, Walsh EE, Stein RT, Graham BS, Bont LJ, Respiratory Syncytial Virus Network (ReSViNET) Foundation.</emphasis> 2018. The respiratory syncytial virus vaccine landscape: lessons from the graveyard and promising candidates. <citetitle><emphasis>Lancet Infect Dis</emphasis></citetitle> <emphasis role="strong">18:</emphasis>e295–e311.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0045" role="bibliographyEntry">
+            <para>45.<emphasis role="strong">McLellan JS, Chen M, Joyce MG, Sastry M, Stewart-Jones GB, Yang Y, Zhang B, Chen L, Srivatsan S, Zheng A, Zhou T, Graepel KW, Kumar A, Moin S, Boyington JC, Chuang GY, Soto C, Baxa U, Bakker AQ, Spits H, Beaumont T, Zheng Z, Xia N, Ko SY, Todd JP, Rao S, Graham BS, Kwong PD.</emphasis> 2013. Structure-based design of a fusion glycoprotein vaccine for respiratory syncytial virus. <citetitle><emphasis>Science</emphasis></citetitle> <emphasis role="strong">342:</emphasis>592–598.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0046" role="bibliographyEntry">
+            <para>46.<emphasis role="strong">Crank MC, Ruckwardt TJ, Chen M, Morabito KM, Phung E, Costner PJ, Holman LA, Hickman SP, Berkowitz NM, Gordon IJ, Yamshchikov GV, Gaudinski MR, Kumar A, Chang LA, Moin SM, Hill JP, DiPiazza AT, Schwartz RM, Kueltzo L, Cooper JW, Chen P, Stein JA, Carlton K, Gall JG, Nason MC, Kwong PD, Chen GL, Mascola JR, McLellan JS, Ledgerwood JE, Graham BS, Team VRCS, VRC 317 Study Team.</emphasis> 2019. A proof of concept for structure-based vaccine design targeting RSV in humans. <citetitle><emphasis>Science</emphasis></citetitle> <emphasis role="strong">365:</emphasis>505–509.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0047" role="bibliographyEntry">
+            <para>47.<emphasis role="strong">Zohar T, Hsiao JC, Mehta N, Das J, Devadhasan A, Karpinski W, Callahan C, Citron MP, DiStefano DJ, Touch S, Wen Z, Sachs JR, Cejas PJ, Espeseth AS, Lauffenburger DA, Bett AJ, Alter G.</emphasis> 2022. Upper and lower respiratory tract correlates of protection against respiratory syncytial virus following vaccination of nonhuman primates. <citetitle><emphasis>Cell Host Microbe</emphasis></citetitle> <emphasis role="strong">30:</emphasis>41–52.e5.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0048" role="bibliographyEntry">
+            <para>48.<emphasis role="strong">Englund JA, Piedra PA, Jewell A, Patel K, Baxter BB, Whimbey E.</emphasis> 1996. Rapid diagnosis of respiratory syncytial virus infections in immunocompromised adults. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">34:</emphasis>1649–1653.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0049" role="bibliographyEntry">
+            <para>49.<emphasis role="strong">Abu-Diab A, Azzeh M, Ghneim R, Ghneim R, Zoughbi M, Turkuman S, Rishmawi N, Issa AE, Siriani I, Dauodi R, Kattan R, Hindiyeh MY.</emphasis> 2008. Comparison between pernasal flocked swabs and nasopharyngeal aspirates for detection of common respiratory viruses in samples from children. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">46:</emphasis>2414–2417.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0050" role="bibliographyEntry">
+            <para>50.<emphasis role="strong">Chan KH, Peiris JS, Lim W, Nicholls JM, Chiu SS.</emphasis> 2008. Comparison of nasopharyngeal flocked swabs and aspirates for rapid diagnosis of respiratory viruses in children. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">42:</emphasis>65–69.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0051" role="bibliographyEntry">
+            <para>51.<emphasis role="strong">Faden H.</emphasis> 2010. Comparison of midturbinate flocked-swab specimens with nasopharyngeal aspirates for detection of respiratory viruses in children by the direct fluorescent antibody technique. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">48:</emphasis>3742–3743.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0052" role="bibliographyEntry">
+            <para>52.<emphasis role="strong">Chartrand C, Tremblay N, Renaud C, Papenburg J.</emphasis> 2015. Diagnostic accuracy of rapid antigen detection tests for respiratory syncytial virus infection: systematic review and meta-analysis. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">53:</emphasis>3738–3749.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0053" role="bibliographyEntry">
+            <para>53.<emphasis role="strong">Rack-Hoch AL, Laniado G, Hübner J.</emphasis> 2017. Comparison of influenza and RSV diagnostic from nasopharyngeal swabs by rapid fluorescent immunoassay (Sofia system) and rapid bedside testing (BinaxNOW) vs. conventional fluorescent immunoassay in a German university children’s hospital. <citetitle><emphasis>Infection</emphasis></citetitle> <emphasis role="strong">45:</emphasis>529–532.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0054" role="bibliographyEntry">
+            <para>54.<emphasis role="strong">Somerville LK, Ratnamohan VM, Dwyer DE, Kok J.</emphasis> 2015. Molecular diagnosis of respiratory viruses. <citetitle><emphasis>Pathology</emphasis></citetitle> <emphasis role="strong">47:</emphasis>243–249.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0055" role="bibliographyEntry">
+            <para>55.<emphasis role="strong">DeVincenzo JP, Wilkinson T, Vaishnaw A, Cehelsky J, Meyers R, Nochur S, Harrison L, Meeking P, Mann A, Moane E, Oxford J, Pareek R, Moore R, Walsh E, Studholme R, Dorsett P, Alvarez R, Lambkin-Williams R.</emphasis> 2010. Viral load drives disease in humans experimentally infected with respiratory syncytial virus. <citetitle><emphasis>Am J Respir Crit Care Med</emphasis></citetitle> <emphasis role="strong">182:</emphasis>1305–1314.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0056" role="bibliographyEntry">
+            <para>56.<emphasis role="strong">Walsh EE, Peterson DR, Kalkanoglu AE, Lee FE, Falsey AR.</emphasis> 2013. Viral shedding and immune responses to respiratory syncytial virus infection in older adults. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">207:</emphasis>1424–1432.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0057" role="bibliographyEntry">
+            <para>57.<emphasis role="strong">Lehners N, Tabatabai J, Prifert C, Wedde M, Puthenparambil J, Weissbrich B, Biere B, Schweiger B, Egerer G, Schnitzler P.</emphasis> 2016. Long-term shedding of influenza virus, parainfluenza virus, respiratory syncytial virus and nosocomial epidemiology in patients with hematological disorders. <citetitle><emphasis>PLoS One</emphasis></citetitle> <emphasis role="strong">11:</emphasis>e0148258.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0058" role="bibliographyEntry">
+            <para>58.<emphasis role="strong">Bruning AHL, Leeflang MMG, Vos JMBW, Spijker R, de Jong MD, Wolthers KC, Pajkrt D.</emphasis> 2017. Rapid tests for influenza, respiratory syncytial virus, and other respiratory viruses: a systematic review and meta-analysis. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">65:</emphasis>1026–1032.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0059" role="bibliographyEntry">
+            <para>59.<emphasis role="strong">Jonckheere S, Verfaillie C, Boel A, Van Vaerenbergh K, Vanlaere E, Vankeerberghen A, De Beenhouwer H.</emphasis> 2015. Multicenter evaluation of BD Veritor System and RSV K-SeT for rapid detection of respiratory syncytial virus in a diagnostic laboratory setting. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">83:</emphasis>37–40.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0060" role="bibliographyEntry">
+            <para>60.<emphasis role="strong">Aslanzadeh J, Zheng X, Li H, Tetreault J, Ratkiewicz I, Meng S, Hamilton P, Tang YW.</emphasis> 2008. Prospective evaluation of rapid antigen tests for diagnosis of respiratory syncytial virus and human metapneumovirus infections. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">46:</emphasis>1682–1685.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0061" role="bibliographyEntry">
+            <para>61.<emphasis role="strong">Elbadawi LI, Haupt T, Reisdorf E, Danz T, Davis JP.</emphasis> 2015. Use and interpretation of a rapid respiratory syncytial virus antigen detection test among infants hospitalized in a neonatal intensive care unit—Wisconsin, March 2015. <citetitle><emphasis>MMWR Morb Mortal Wkly Rep</emphasis></citetitle> <emphasis role="strong">64:</emphasis>857.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0062" role="bibliographyEntry">
+            <para>62.<emphasis role="strong">Mesquita FDS, Oliveira DBL, Crema D, Pinez CMN, Colmanetti TC, Thomazelli LM, Gilio AE, Vieira SE, Martinez MB, Botosso VF, Durigon EL.</emphasis> 2017. Rapid antigen detection test for respiratory syncytial virus diagnosis as a diagnostic tool. <citetitle><emphasis>J Pediatr (Rio J)</emphasis></citetitle> <emphasis role="strong">93:</emphasis>246–252.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0063" role="bibliographyEntry">
+            <para>63.<emphasis role="strong">Zuurbier RP, Korsten K, Verheij TJM, Butler C, Adriaenssens N, Coenen S, Gruselle O, Vantomme V, van Houten MA, Bont LJ, Wildenbeest JG, Zuurbier R, Korsten K, Verheij T, van Houten M, Bont L, Wildenbeest J, Adriaenssens N, Coenen S, Butler C, Pollard A, Vantomme V, Gruselle O, Leach A, Nair H, Campbell H, Beutels P, Openshaw P, Martinon-Torres F, Heikkinen T, Meijer A, Fischer TK, van den Berge M, Giaquinto C, Abram M, Swanson K, Aerssens J, Demont C, Gallichan S, Rosen B, Molero E, REspiratory Syncytial Virus Consortium in EUrope (RESCEU) Investigators.</emphasis> 2022. Performance assessment of a rapid molecular respiratory syncytial virus point-of-care test: a prospective community study in older adults. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">226</emphasis>(Suppl 1)<emphasis role="strong">:</emphasis>S63–S70.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0064" role="bibliographyEntry">
+            <para>64.<emphasis role="strong">Bell JJ, Anderson EJ, Greene WH, Romero JR, Merchant M, Selvarangan R.</emphasis> 2014. Multicenter clinical performance evaluation of BD Veritor™ system for rapid detection of respiratory syncytial virus. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">61:</emphasis>113–117.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0065" role="bibliographyEntry">
+            <para>65.<emphasis role="strong">Leland DS, Ginocchio CC.</emphasis> 2007. Role of cell culture for virus detection in the age of technology. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">20:</emphasis>49–78.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0066" role="bibliographyEntry">
+            <para>66.<emphasis role="strong">Kanwar N, Hassan F, Nguyen A, Selvarangan R.</emphasis> 2015. Head-to-head comparison of the diagnostic accuracies of BD Veritor™ System RSV and Quidel<superscript>®</superscript> Sofia<superscript>®</superscript> RSV FIA systems for respiratory syncytial virus (RSV) diagnosis. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">65:</emphasis>83–86.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0067" role="bibliographyEntry">
+            <para>67.<emphasis role="strong">Leonardi GP, Wilson AM, Dauz M, Zuretti AR.</emphasis> 2015. Evaluation of respiratory syncytial virus (RSV) direct antigen detection assays for use in point-of-care testing. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">213:</emphasis>131–134.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0068" role="bibliographyEntry">
+            <para>68.<emphasis role="strong">Gunell M, Antikainen P, Porjo N, Irjala K, Vakkila J, Hotakainen K, Kaukoranta SS, Hirvonen JJ, Saha K, Manninen R, Forsblom B, Rantakokko-Jalava K, Peltola V, Koskinen JO, Huovinen P.</emphasis> 2016. Comprehensive real-time epidemiological data from respiratory infections in Finland between 2010 and 2014 obtained from an automated and multianalyte mariPOC<superscript>®</superscript> respiratory pathogen test. <citetitle><emphasis>Eur J Clin Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">35:</emphasis>405–413.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0069" role="bibliographyEntry">
+            <para>69.<emphasis role="strong">Ivaska L, Niemelä J, Heikkinen T, Vuorinen T, Peltola V.</emphasis> 2013. Identification of respiratory viruses with a novel point-of-care multianalyte antigen detection test in children with acute respiratory tract infection. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">57:</emphasis>136–140.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0070" role="bibliographyEntry">
+            <para>70.<emphasis role="strong">Fong CK, Lee MK, Griffith BP.</emphasis> 2000. Evaluation of R-Mix FreshCells in shell vials for detection of respiratory viruses. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">38:</emphasis>4660–4662.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0071" role="bibliographyEntry">
+            <para>71.<emphasis role="strong">Moesker FM, van Kampen JJA, Aron G, Schutten M, van de Vijver DAMC, Koopmans MPG, Osterhaus ADME, Fraaij PLA.</emphasis> 2016. Diagnostic performance of influenza viruses and RSV rapid antigen detection tests in children in tertiary care. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">79:</emphasis>12–17.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0072" role="bibliographyEntry">
+            <para>72.<emphasis role="strong">Landry ML, Ferguson D.</emphasis> 2000. SimulFluor respiratory screen for rapid detection of multiple respiratory viruses in clinical specimens by immunofluorescence staining. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">38:</emphasis>708–711.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0073" role="bibliographyEntry">
+            <para>73.<emphasis role="strong">Centers for Disease Control and Prevention.</emphasis> 2022. Overview of testing for SARS-CoV-2, the virus that causes COVID-19.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0074" role="bibliographyEntry">
+            <para>74.<emphasis role="strong">Charlton CL, Babady E, Ginocchio CC, Hatchette TF, Jerris RC, Li Y, Loeffelholz M, McCarter YS, Miller MB, Novak-Weekley S, Schuetz AN, Tang YW, Widen R, Drews SJ.</emphasis> 2019. Practical guidance for clinical microbiology laboratories: viruses causing acute respiratory tract infections. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">32:</emphasis>e00042-18.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0075" role="bibliographyEntry">
+            <para>75.<emphasis role="strong">Nelson PP, Rath BA, Fragkou PC, Antalis E, Tsiodras S, Skevaki C.</emphasis> 2020. Current and future point-of-care tests for emerging and new respiratory viruses and future perspectives. <citetitle><emphasis>Front Cell Infect Microbiol</emphasis></citetitle> <emphasis role="strong">10:</emphasis>181.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0076" role="bibliographyEntry">
+            <para>76.<emphasis role="strong">Berry GJ, Zhen W, Smith E, Manji R, Silbert S, Lima A, Harington A, McKinley K, Kensinger B, Neff C, Lu D.</emphasis> 2022. Multicenter evaluation of the BioFire Respiratory Panel 2.1 (RP2.1) for detection of SARS-CoV-2 in nasopharyngeal swab samples. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">60:</emphasis>e00066-22.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0077" role="bibliographyEntry">
+            <para>77.<emphasis role="strong">Murphy CN, Fowler R, Balada-Llasat JM, Carroll A, Stone H, Akerele O, Buchan B, Windham S, Hopp A, Ronen S, Relich RF, Buckner R, Warren DA, Humphries R, Campeau S, Huse H, Chandrasekaran S, Leber A, Everhart K, Harrington A, Kwong C, Bonwit A, Dien Bard J, Naccache S, Zimmerman C, Jones B, Rindlisbacher C, Buccambuso M, Clark A, Rogatcheva M, Graue C, Bourzac KM.</emphasis> 2020. Multicenter evaluation of the BioFire FilmArray Pneumonia/Pneumonia Plus panel for detection and quantification of agents of lower respiratory tract infection. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">58:</emphasis>e00128-20.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0078" role="bibliographyEntry">
+            <para>78.<emphasis role="strong">Leber AL, Everhart K, Daly JA, Hopper A, Harrington A, Schreckenberger P, McKinley K, Jones M, Holmberg K, Kensinger B.</emphasis> 2018. Multicenter evaluation of BioFire FilmArray Respiratory Panel 2 for detection of viruses and bacteria in nasopharyngeal swab samples. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">56:</emphasis>e01945-17.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0079" role="bibliographyEntry">
+            <para>79.<emphasis role="strong">Azadeh N, Sakata KK, Brighton AM, Vikram HR, Grys TE.</emphasis> 2015. FilmArray respiratory panel assay: comparison of nasopharyngeal swabs and bronchoalveolar lavage samples. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">53:</emphasis>3784–3787.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0080" role="bibliographyEntry">
+            <para>80.<emphasis role="strong">Babady NE, Mead P, Stiles J, Brennan C, Li H, Shuptar S, Stratton CW, Tang YW, Kamboj M.</emphasis> 2012. Comparison of the Luminex xTAG RVP Fast assay and the Idaho Technology FilmArray RP assay for detection of respiratory viruses in pediatric patients at a cancer hospital. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">50:</emphasis>2282–2288.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0081" role="bibliographyEntry">
+            <para>81.<emphasis role="strong">Rappo U, Schuetz AN, Jenkins SG, Calfee DP, Walsh TJ, Wells MT, Hollenberg JP, Glesby MJ.</emphasis> 2016. Impact of early detection of respiratory viruses by multiplex PCR assay on clinical outcomes in adult patients. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">54:</emphasis>2096–2103.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0082" role="bibliographyEntry">
+            <para>82.<emphasis role="strong">Rogan DT, Kochar MS, Yang S, Quinn JV.</emphasis> 2017. Impact of rapid molecular respiratory virus testing on real-time decision making in a pediatric emergency department. <citetitle><emphasis>J Mol Diagn</emphasis></citetitle> <emphasis role="strong">19:</emphasis>460–467.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0083" role="bibliographyEntry">
+            <para>83.<emphasis role="strong">Schulert GS, Lu Z, Wingo T, Tang YW, Saville BR, Hain PD.</emphasis> 2013. Role of a respiratory viral panel in the clinical management of pediatric inpatients. <citetitle><emphasis>Pediatr Infect Dis J</emphasis></citetitle> <emphasis role="strong">32:</emphasis>467–472.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0084" role="bibliographyEntry">
+            <para>84.<emphasis role="strong">Xu M, Qin X, Astion ML, Rutledge JC, Simpson J, Jerome KR, Englund JA, Zerr DM, Migita RT, Rich S, Childs JC, Cent A, Del Beccaro MA.</emphasis> 2013. Implementation of filmarray respiratory viral panel in a core laboratory improves testing turnaround time and patient care. <citetitle><emphasis>Am J Clin Pathol</emphasis></citetitle> <emphasis role="strong">139:</emphasis>118–123.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0085" role="bibliographyEntry">
+            <para>85.<emphasis role="strong">Hawkinson D, Hinthorn D, Danziger-Isakov L.</emphasis> 2013. Novel antiviral agents for respiratory viral infection in immunocompromised adults. <citetitle><emphasis>Curr Infect Dis Rep</emphasis></citetitle> <emphasis role="strong">15:</emphasis>497–503.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0086" role="bibliographyEntry">
+            <para>86.<emphasis role="strong">Barenfanger J, Drake C, Mueller T, Troutt T, O’Brien J, Guttman K.</emphasis> 2001. R-Mix cells are faster, at least as sensitive and marginally more costly than conventional cell lines for the detection of respiratory viruses. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">22:</emphasis>101–110.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0087" role="bibliographyEntry">
+            <para>87.<emphasis role="strong">St George K, Patel NM, Hartwig RA, Scholl DR, Jollick JA Jr, Kauffmann LM, Evans MR, Rinaldo CR Jr.</emphasis> 2002. Rapid and sensitive detection of respiratory virus infections for directed antiviral treatment using R-Mix cultures. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">24:</emphasis>107–115.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0088" role="bibliographyEntry">
+            <para>88.<emphasis role="strong">LaSala PR, Bufton KK, Ismail N, Smith MB.</emphasis> 2007. Prospective comparison of R-mix shell vial system with direct antigen tests and conventional cell culture for respiratory virus detection. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">38:</emphasis>210–216.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0089" role="bibliographyEntry">
+            <para>89.<emphasis role="strong">Zlateva KT, Vijgen L, Dekeersmaeker N, Naranjo C, Van Ranst M.</emphasis> 2007. Subgroup prevalence and genotype circulation patterns of human respiratory syncytial virus in Belgium during ten successive epidemic seasons. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">45:</emphasis>3022–3030.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0090" role="bibliographyEntry">
+            <para>90.<emphasis role="strong">Muñoz-Escalante JC, Comas-García A, Bernal-Silva S, Robles-Espinoza CD, Gómez-Leal G, Noyola DE.</emphasis> 2019. Respiratory syncytial virus A genotype classification based on systematic intergenotypic and intragenotypic sequence analysis. <citetitle><emphasis>Sci Rep</emphasis></citetitle> <emphasis role="strong">9:</emphasis>20097.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0091" role="bibliographyEntry">
+            <para>91.<emphasis role="strong">Avadhanula V, Chemaly RF, Shah DP, Ghantoji SS, Azzi JM, Aideyan LO, Mei M, Piedra PA.</emphasis> 2015. Infection with novel respiratory syncytial virus genotype Ontario (ON1) in adult hematopoietic cell transplant recipients, Texas, 2011-2013. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">211:</emphasis>582–589.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0092" role="bibliographyEntry">
+            <para>92.<emphasis role="strong">Taggart EW, Hill HR, Martins TB, Litwin CM.</emphasis> 2006. Comparison of complement fixation with two enzyme-linked immunosorbent assays for the detection of antibodies to respiratory viral antigens. <citetitle><emphasis>Am J Clin Pathol</emphasis></citetitle> <emphasis role="strong">125:</emphasis>460–466.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0093" role="bibliographyEntry">
+            <para>93.<emphasis role="strong">DeVincenzo JP, Hall CB, Kimberlin DW, Sánchez PJ, Rodriguez WJ, Jantausch BA, Corey L, Kahn JS, Englund JA, Suzich JA, Palmer-Hill FJ, Branco L, Johnson S, Patel NK, Piazza FM.</emphasis> 2004. Surveillance of clinical isolates of respiratory syncytial virus for palivizumab (Synagis)-resistant mutants. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">190:</emphasis>975–978.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0094" role="bibliographyEntry">
+            <para>94.<emphasis role="strong">Oliveira DB, Iwane MK, Prill MM, Weinberg GA, Williams JV, Griffin MR, Szilagyi PG, Edwards KM, Staat MA, Hall CB, Durigon EL, Erdman DD.</emphasis> 2015. Molecular characterization of respiratory syncytial viruses infecting children reported to have received palivizumab immunoprophylaxis. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">65:</emphasis>26–31.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0095" role="bibliographyEntry">
+            <para>95.<emphasis role="strong">Yasui Y, Yamaji Y, Sawada A, Ito T, Nakayama T.</emphasis> 2016. Cell fusion assay by expression of respiratory syncytial virus (RSV) fusion protein to analyze the mutation of palivizumab-resistant strains. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">231:</emphasis>48–55.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0096" role="bibliographyEntry">
+            <para>96.<emphasis role="strong">El Saleeby CM, Bush AJ, Harrison LM, Aitken JA, Devincenzo JP.</emphasis> 2011. Respiratory syncytial virus load, viral dynamics, and disease severity in previously healthy naturally infected children. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">204:</emphasis>996–1002.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0097" role="bibliographyEntry">
+            <para>97.<emphasis role="strong">Zhou L, Xiao Q, Zhao Y, Huang A, Ren L, Liu E.</emphasis> 2015. The impact of viral dynamics on the clinical severity of infants with respiratory syncytial virus bronchiolitis. <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">87:</emphasis>1276–1284.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0098" role="bibliographyEntry">
+            <para>98.<emphasis role="strong">van den Hoogen BG, de Jong JC, Groen J, Kuiken T, de Groot R, Fouchier RA, Osterhaus AD.</emphasis> 2001. A newly discovered human pneumovirus isolated from young children with respiratory tract disease. <citetitle><emphasis>Nat Med</emphasis></citetitle> <emphasis role="strong">7:</emphasis>719–724.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0099" role="bibliographyEntry">
+            <para>99.<emphasis role="strong">Schildgen V, van den Hoogen B, Fouchier R, Tripp RA, Alvarez R, Manoha C, Williams J, Schildgen O.</emphasis> 2011. Human metapneumovirus: lessons learned over the first decade. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">24:</emphasis>734–754.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0100" role="bibliographyEntry">
+            <para>100.<emphasis role="strong">Cox RG, Livesay SB, Johnson M, Ohi MD, Williams JV.</emphasis> 2012. The human metapneumovirus fusion protein mediates entry via an interaction with RGD-binding integrins. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">86:</emphasis>12148–12160.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0101" role="bibliographyEntry">
+            <para>101.<emphasis role="strong">Chang A, Masante C, Buchholz UJ, Dutch RE.</emphasis> 2012. Human metapneumovirus (HMPV) binding and infection are mediated by interactions between the HMPV fusion protein and heparan sulfate. <citetitle><emphasis>J Virol</emphasis></citetitle> <emphasis role="strong">86:</emphasis>3230–3243.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0102" role="bibliographyEntry">
+            <para>102.<emphasis role="strong">Aberle JH, Aberle SW, Redlberger-Fritz M, Sandhofer MJ, Popow-Kraupp T.</emphasis> 2010. Human metapneumovirus subgroup changes and seasonality during epidemics. <citetitle><emphasis>Pediatr Infect Dis J</emphasis></citetitle> <emphasis role="strong">29:</emphasis>1016–1018.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0103" role="bibliographyEntry">
+            <para>103.<emphasis role="strong">Lamson DM, Griesemer S, Fuschino M, St George K.</emphasis> 2012. Phylogenetic analysis of human metapneumovirus from New York State patients during February through April 2010. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">53:</emphasis>256–258.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0104" role="bibliographyEntry">
+            <para>104.<emphasis role="strong">Zhang C, Du LN, Zhang ZY, Qin X, Yang X, Liu P, Chen X, Zhao Y, Liu EM, Zhao XD.</emphasis> 2012. Detection and genetic diversity of human metapneumovirus in hospitalized children with acute respiratory infections in Southwest China. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">50:</emphasis>2714–2719.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0105" role="bibliographyEntry">
+            <para>105.<emphasis role="strong">Edwards KM, Zhu Y, Griffin MR, Weinberg GA, Hall CB, Szilagyi PG, Staat MA, Iwane M, Prill MM, Williams JV, New Vaccine Surveillance Network.</emphasis> 2013. Burden of human metapneumovirus infection in young children. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">368:</emphasis>633–643.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0106" role="bibliographyEntry">
+            <para>106.<emphasis role="strong">García-García ML, Calvo C, Rey C, Díaz B, Molinero MD, Pozo F, Casas I.</emphasis> 2017. Human metapnuemovirus infections in hospitalized children and comparison with other respiratory viruses. 2005-2014 prospective study. <citetitle><emphasis>PLoS One</emphasis></citetitle> <emphasis role="strong">12:</emphasis>e0173504.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0107" role="bibliographyEntry">
+            <para>107.<emphasis role="strong">Howard LM, Edwards KM, Zhu Y, Griffin MR, Weinberg GA, Szilagyi PG, Staat MA, Payne DC, Williams JV.</emphasis> 2018. Clinical features of human metapneumovirus infection in ambulatory children aged 5-13 years. <citetitle><emphasis>J Pediatric Infect Dis Soc</emphasis></citetitle> <emphasis role="strong">7:</emphasis>165–168.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0108" role="bibliographyEntry">
+            <para>108.<emphasis role="strong">Wang X, Li Y, Deloria-Knoll M, Madhi SA, Cohen C, Ali A, Basnet S, Bassat Q, Brooks WA, Chittaganpitch M, Echavarria M, Fasce RA, Goswami D, Hirve S, Homaira N, Howie SRC, Kotloff KL, Khuri-Bulos N, Krishnan A, Lucero MG, Lupisan S, Mira-Iglesias A, Moore DP, Moraleda C, Nunes M, Oshitani H, Owor BE, Polack FP, O’Brien KL, Rasmussen ZA, Rath BA, Salimi V, Scott JAG, Simões EAF, Strand TA, Thea DM, Treurnicht FK, Vaccari LC, Yoshida LM, Zar HJ, Campbell H, Nair H, Respiratory Virus Global Epidemiology Network.</emphasis> 2021. Global burden of acute lower respiratory infection associated with human metapneumovirus in children under 5 years in 2018: a systematic review and modelling study. <citetitle><emphasis>Lancet Glob Health</emphasis></citetitle> <emphasis role="strong">9:</emphasis>e33–e43.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0109" role="bibliographyEntry">
+            <para>109.<emphasis role="strong">Chow WZ, Chan YF, Oong XY, Ng LJ, Nor’E SS, Ng KT, Chan KG, Hanafi NS, Pang YK, Kamarulzaman A, Tee KK.</emphasis> 2016. Genetic diversity, seasonality and transmission network of human metapneumovirus: identification of a unique sub-lineage of the fusion and attachment genes. <citetitle><emphasis>Sci Rep</emphasis></citetitle> <emphasis role="strong">6:</emphasis>27730.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0110" role="bibliographyEntry">
+            <para>110.<emphasis role="strong">Owor BE, Masankwa GN, Mwango LC, Njeru RW, Agoti CN, Nokes DJ.</emphasis> 2016. Human metapneumovirus epidemiological and evolutionary patterns in coastal Kenya, 2007-11. <citetitle><emphasis>BMC Infect Dis</emphasis></citetitle> <emphasis role="strong">16:</emphasis>301.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0111" role="bibliographyEntry">
+            <para>111.<emphasis role="strong">Stein M, Cohen H, Nemet I, Atari N, Kliker L, Fratty IS, Bucris E, Geva M, Mendelson E, Zuckerman N, Mandelboim M.</emphasis> 2022. Human metapneumovirus prevalence during 2019-2021 in Israel is influenced by the COVID-19 pandemic. <citetitle><emphasis>Int J Infect Dis</emphasis></citetitle> <emphasis role="strong">120:</emphasis>205–209.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0112" role="bibliographyEntry">
+            <para>112.<emphasis role="strong">Kivit C, Groen K, Jongbloed M, Linssen C, van Loo A, van Gorp E, van Nieuwkoop S, den Hoogen BV, Kruif M.</emphasis> 2022. An off-season outbreak of human metapneumovirus infections after ending of a COVID-19 lockdown. <citetitle><emphasis>J Infect</emphasis></citetitle> <emphasis role="strong">84:</emphasis>722–746.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0113" role="bibliographyEntry">
+            <para>113.<emphasis role="strong">Olsen SJ, Winn AK, Budd AP, Prill MM, Steel J, Midgley CM, Kniss K, Burns E, Rowe T, Foust A, Jasso G, Merced-Morales A, Davis CT, Jang Y, Jones J, Daly P, Gubareva L, Barnes J, Kondor R, Sessions W, Smith C, Wentworth DE, Garg S, Havers FP, Fry AM, Hall AJ, Brammer L, Silk BJ.</emphasis> 2021. Changes in influenza and other respiratory virus activity during the COVID-19 pandemic—United States, 2020-2021. <citetitle><emphasis>MMWR Morb Mortal Wkly Rep</emphasis></citetitle> <emphasis role="strong">70:</emphasis>1013–1019.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0114" role="bibliographyEntry">
+            <para>114.<emphasis role="strong">Ebihara T, Endo R, Kikuta H, Ishiguro N, Ishiko H, Hara M, Takahashi Y, Kobayashi K.</emphasis> 2004. Human metapneumovirus infection in Japanese children. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">42:</emphasis>126–132.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0115" role="bibliographyEntry">
+            <para>115.<emphasis role="strong">Peiris JS, Tang WH, Chan KH, Khong PL, Guan Y, Lau YL, Chiu SS.</emphasis> 2003. Children with respiratory disease associated with metapneumovirus in Hong Kong. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">9:</emphasis>628–633.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0116" role="bibliographyEntry">
+            <para>116.<emphasis role="strong">Byington CL, Ampofo K, Stockmann C, Adler FR, Herbener A, Miller T, Sheng X, Blaschke AJ, Crisp R, Pavia AT.</emphasis> 2015. Community surveillance of respiratory viruses among families in the Utah Better Identification of Germs-Longitudinal Viral Epidemiology (BIG-LoVE) study. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">61:</emphasis>1217–1224.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0117" role="bibliographyEntry">
+            <para>117.<emphasis role="strong">Chonmaitree T, Alvarez-Fernandez P, Jennings K, Trujillo R, Marom T, Loeffelholz MJ, Miller AL, McCormick DP, Patel JA, Pyles RB.</emphasis> 2015. Symptomatic and asymptomatic respiratory viral infections in the first year of life: association with acute otitis media development. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">60:</emphasis>1–9.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0118" role="bibliographyEntry">
+            <para>118.<emphasis role="strong">Williams JV, Harris PA, Tollefson SJ, Halburnt-Rush LL, Pingsterhaus JM, Edwards KM, Wright PF, Crowe JE Jr.</emphasis> 2004. Human metapneumovirus and lower respiratory tract disease in otherwise healthy infants and children. <citetitle><emphasis>N Engl J Med</emphasis></citetitle> <emphasis role="strong">350:</emphasis>443–450.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0119" role="bibliographyEntry">
+            <para>119.<emphasis role="strong">Falsey AR, Erdman D, Anderson LJ, Walsh EE.</emphasis> 2003. Human metapneumovirus infections in young and elderly adults. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">187:</emphasis>785–790.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0120" role="bibliographyEntry">
+            <para>120.<emphasis role="strong">Walsh EE, Peterson DR, Falsey AR.</emphasis> 2008. Human metapneumovirus infections in adults: another piece of the puzzle. <citetitle><emphasis>Arch Intern Med</emphasis></citetitle> <emphasis role="strong">168:</emphasis>2489–2496.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0121" role="bibliographyEntry">
+            <para>121.<emphasis role="strong">El Chaer F, Shah DP, Kmeid J, Ariza-Heredia EJ, Hosing CM, Mulanovich VE, Chemaly RF.</emphasis> 2017. Burden of human metapneumovirus infections in patients with cancer: risk factors and outcomes. <citetitle><emphasis>Cancer</emphasis></citetitle> <emphasis role="strong">123:</emphasis>2329–2337.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0122" role="bibliographyEntry">
+            <para>122.<emphasis role="strong">Lenahan JL, Englund JA, Katz J, Kuypers J, Wald A, Magaret A, Tielsch JM, Khatry SK, LeClerq SC, Shrestha L, Steinhoff MC, Chu HY.</emphasis> 2017. Human metapneumovirus and other respiratory viral infections during pregnancy and birth, <citetitle><emphasis>Nepal. Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">23:</emphasis>1341–1349.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0123" role="bibliographyEntry">
+            <para>123.<emphasis role="strong">Ntagereka PB, Basengere RA, Baharanyi TC, Kashosi TM, Buhendwa JC, Bisimwa PB, Kusinza AB, Mugumaarhahama Y, Shukuru DW, Patrick SB, Tonui R, Birindwa AB, Mukwege D.</emphasis> 2022. Molecular evidence of coinfection with acute respiratory viruses and high prevalence of SARS-CoV-2 among patients presenting flu-like illness in Bukavu City, Democratic Republic of Congo. <citetitle><emphasis>Can J Infect Dis Med Microbiol</emphasis></citetitle> <emphasis role="strong">2022:</emphasis>1553266.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0124" role="bibliographyEntry">
+            <para>124.<emphasis role="strong">Hashemi SA, Safamanesh S, Ghasemzadeh-Moghaddam H, Ghafouri M, Mohajerzadeh-Heydari MS, Namdar-Ahmadabad H, Azimian A.</emphasis> 2021. Report of death in children with SARS-CoV-2 and human metapneumovirus (hMPV) coinfection: is hMPV the trigger? <citetitle><emphasis>J Med Virol</emphasis></citetitle> <emphasis role="strong">93:</emphasis>579–581.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0125" role="bibliographyEntry">
+            <para>125.<emphasis role="strong">Touzard-Romo F, Tape C, Lonks JR.</emphasis> 2020. Co-infection with SARS-CoV-2 and human metapneumovirus. <citetitle><emphasis>RI Med J</emphasis></citetitle> <emphasis role="strong">103:</emphasis>75–76.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0126" role="bibliographyEntry">
+            <para>126.<emphasis role="strong">Chu HY, Renaud C, Ficken E, Thomson B, Kuypers J, Englund JA.</emphasis> 2014. Respiratory tract infections due to human metapneumovirus in immunocompromised children. <citetitle><emphasis>J Pediatric Infect Dis Soc</emphasis></citetitle> <emphasis role="strong">3:</emphasis>286–293.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0127" role="bibliographyEntry">
+            <para>127.<emphasis role="strong">Scheuerman O, Barkai G, Mandelboim M, Mishali H, Chodick G, Levy I.</emphasis> 2016. Human metapneumovirus (hMPV) infection in immunocompromised children. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">83:</emphasis>12–16.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0128" role="bibliographyEntry">
+            <para>128.<emphasis role="strong">Kamboj M, Gerbin M, Huang CK, Brennan C, Stiles J, Balashov S, Park S, Kiehn TE, Perlin DS, Pamer EG, Sepkowitz KA.</emphasis> 2008. Clinical characterization of human metapneumovirus infection among patients with cancer. <citetitle><emphasis>J Infect</emphasis></citetitle> <emphasis role="strong">57:</emphasis>464–471.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0129" role="bibliographyEntry">
+            <para>129.<emphasis role="strong">Ison MG, Marty FM, Chao N, Moon SH, Zhang Z, Chandak A.</emphasis> 2022. Economic and clinical burden associated with respiratory viral infections after allogeneic hematopoietic cell transplant in the United States. <citetitle><emphasis>Transpl Infect Dis</emphasis></citetitle> <emphasis role="strong">24:</emphasis>e13866.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0130" role="bibliographyEntry">
+            <para>130.<emphasis role="strong">Koo HJ, Lee HN, Choi SH, Sung H, Oh SY, Shin SY, Kim HJ, Do KH.</emphasis> 2017. Human metapneumovirus infection: pneumonia risk factors in solid organ transplantation patients and CT findings. <citetitle><emphasis>Transplantation</emphasis></citetitle> <emphasis role="strong">102:</emphasis>699–706. 10.1097/TP.0000000000001965.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0131" role="bibliographyEntry">
+            <para>131.<emphasis role="strong">Fok A, Mateevici C, Lin B, Chandra RV, Chong VH.</emphasis> 2015. Encephalitis-associated human metapneumovirus pneumonia in adult, Australia. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">21:</emphasis>2074–2076.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0132" role="bibliographyEntry">
+            <para>132.<emphasis role="strong">Jeannet N, van den Hoogen BG, Schefold JC, Suter-Riniker F, Sommerstein R.</emphasis> 2017. Cerebrospinal fluid findings in an adult with human metapneumovirus-associated encephalitis. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">23:</emphasis>370</para>
+          </listitem>
+          <listitem id="ch0108s000000li0133" role="bibliographyEntry">
+            <para>133.<emphasis role="strong">Choi MJ, Song JY, Yang TU, Jeon JH, Noh JY, Hong KW, Cheong HJ, Kim WJ.</emphasis> 2016. Acute myopericarditis caused by human metapneumovirus. <citetitle><emphasis>Infect Chemother</emphasis></citetitle> <emphasis role="strong">48:</emphasis>36–40.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0134" role="bibliographyEntry">
+            <para>134.<emphasis role="strong">Weinreich MA, Jabbar AY, Malguria N, Haley RW.</emphasis> 2015. New-onset myocarditis in an immunocompetent adult with acute metapneumovirus infection. <citetitle><emphasis>Case Rep Med</emphasis></citetitle> <emphasis role="strong">2015:</emphasis>814269.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0135" role="bibliographyEntry">
+            <para>135.<emphasis role="strong">Shahani L, Ariza-Heredia EJ, Chemaly RF.</emphasis> 2017. Antiviral therapy for respiratory viral infections in immunocompromised patients. <citetitle><emphasis>Expert Rev Anti Infect Ther</emphasis></citetitle> <emphasis role="strong">15:</emphasis>401–415.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0136" role="bibliographyEntry">
+            <para>136.<emphasis role="strong">von Lilienfeld-Toal M, Berger A, Christopeit M, Hentrich M, Heussel CP, Kalkreuth J, Klein M, Kochanek M, Penack O, Hauf E, Rieger C, Silling G, Vehreschild M, Weber T, Wolf HH, Lehners N, Schalk E, Mayer K.</emphasis> 2016. Community acquired respiratory virus infections in cancer patients—guideline on diagnosis and management by the Infectious Diseases Working Party of the German Society for Haematology and Medical Oncology. <citetitle><emphasis>Eur J Cancer</emphasis></citetitle> <emphasis role="strong">67:</emphasis>200–212.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0137" role="bibliographyEntry">
+            <para>137.<emphasis role="strong">Ren J, Phan T, Bao X.</emphasis> 2015. Recent vaccine development for human metapneumovirus. <citetitle><emphasis>J Gen Virol</emphasis></citetitle> <emphasis role="strong">96:</emphasis>1515–1520.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0138" role="bibliographyEntry">
+            <para>138.<emphasis role="strong">Talaat KR, Karron RA, Thumar B, McMahon BA, Schmidt AC, Collins PL, Buchholz UJ.</emphasis> 2013. Experimental infection of adults with recombinant wild-type human metapneumovirus. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">208:</emphasis>1669–1678.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0139" role="bibliographyEntry">
+            <para>139.<emphasis role="strong">Karron RA, San Mateo J, Wanionek K, Collins PL, Buchholz UJ.</emphasis> 2018. Evaluation of a live attenuated human metapneumovirus vaccine in adults and children. <citetitle><emphasis>J Pediatric Infect Dis Soc</emphasis></citetitle> <emphasis role="strong">7:</emphasis>86–89.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0140" role="bibliographyEntry">
+            <para>140.<emphasis role="strong">Richardson L, Brite J, Del Castillo M, Childers T, Sheahan A, Huang YT, Dougherty E, Babady NE, Sepkowitz K, Kamboj M.</emphasis> 2016. Comparison of respiratory virus shedding by conventional and molecular testing methods in patients with haematological malignancy. <citetitle><emphasis>Clin Microbiol Infect</emphasis></citetitle> <emphasis role="strong">22:</emphasis>380.E1–380.E7.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0141" role="bibliographyEntry">
+            <para>141.<emphasis role="strong">Degail MA, Hughes GJ, Maule C, Holmes C, Lilley M, Pebody R, Bonnet J, Bermingham A, Bracebridge S.</emphasis> 2012. A human metapneumovirus outbreak at a community hospital in England, July to September 2010. <citetitle><emphasis>Euro Surveill</emphasis></citetitle> <emphasis role="strong">17:</emphasis>20145</para>
+          </listitem>
+          <listitem id="ch0108s000000li0142" role="bibliographyEntry">
+            <para>142.<emphasis role="strong">Hamada N, Hara K, Matsuo Y, Imamura Y, Kashiwagi T, Nakazono Y, Gotoh K, Ohtsu Y, Ohtaki E, Motohiro T, Watanabe H.</emphasis> 2014. Performance of a rapid human metapneumovirus antigen test during an outbreak in a long-term care facility. <citetitle><emphasis>Epidemiol Infect</emphasis></citetitle> <emphasis role="strong">142:</emphasis>424–427.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0143" role="bibliographyEntry">
+            <para>143.<emphasis role="strong">Kim S, Sung H, Im HJ, Hong SJ, Kim MN.</emphasis> 2009. Molecular epidemiological investigation of a nosocomial outbreak of human metapneumovirus infection in a pediatric hemato-oncology patient population. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">47:</emphasis>1221–1224.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0144" role="bibliographyEntry">
+            <para>144.<emphasis role="strong">Liao RS, Appelgate DM, Pelz RK.</emphasis> 2012. An outbreak of severe respiratory tract infection due to human metapneumovirus in a long-term care facility for the elderly in Oregon. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">53:</emphasis>171–173.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0145" role="bibliographyEntry">
+            <para>145.<emphasis role="strong">Debyle C, Bulkow L, Miernyk K, Chikoyak L, Hummel KB, Hennessy T, Singleton R.</emphasis> 2012. Comparison of nasopharyngeal flocked swabs and nasopharyngeal wash collection methods for respiratory virus detection in hospitalized children using real-time polymerase chain reaction. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">185:</emphasis>89–93.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0146" role="bibliographyEntry">
+            <para>146.<emphasis role="strong">Semple MG, Booth JA, Ebrahimi B.</emphasis> 2007. Most human metapneumovirus and human respiratory syncytial virus in infant nasal secretions is cell free. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">40:</emphasis>241–244.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0147" role="bibliographyEntry">
+            <para>147.<emphasis role="strong">Tollefson SJ, Cox RG, Williams JV.</emphasis> 2010. Studies of culture conditions and environmental stability of human metapneumovirus. <citetitle><emphasis>Virus Res</emphasis></citetitle> <emphasis role="strong">151:</emphasis>54–59.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0148" role="bibliographyEntry">
+            <para>148.<emphasis role="strong">Chan PK, Tam JS, Lam CW, Chan E, Wu A, Li CK, Buckley TA, Ng KC, Joynt GM, Cheng FW, To KF, Lee N, Hui DS, Cheung JL, Chu I, Liu E, Chung SS, Sung JJ.</emphasis> 2003. Human metapneumovirus detection in patients with severe acute respiratory syndrome. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">9:</emphasis>1058–1063.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0149" role="bibliographyEntry">
+            <anchor id="ch0108s000000a0086"/>
+            <para>149.<emphasis role="strong">Jokela P, Piiparinen H, Luiro K, Lappalainen M.</emphasis> 2010. Detection of human metapneumovirus and respiratory syncytial virus by duplex real-time RT-PCR assay in comparison with direct fluorescent assay. <citetitle><emphasis>Clin Microbiol Infect</emphasis></citetitle> <emphasis role="strong">16:</emphasis>1568–1573.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0150" role="bibliographyEntry">
+            <para>150.<emphasis role="strong">Landry ML, Cohen S, Ferguson D.</emphasis> 2008. Prospective study of human metapneumovirus detection in clinical samples by use of light diagnostics direct immunofluorescence reagent and real-time PCR. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">46:</emphasis>1098–1100.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0151" role="bibliographyEntry">
+            <para>151.<emphasis role="strong">Sanbonmatsu-Gámez S, Pérez-Ruiz M, Lara-Oya A, Pedrosa-Corral I, Riazzo-Damas C, Navarro-Marí JM.</emphasis> 2015. Analytical performance of the automated multianalyte point-of-care mariPOC<superscript>®</superscript> for the detection of respiratory viruses. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">83:</emphasis>252–256.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0152" role="bibliographyEntry">
+            <para>152.<emphasis role="strong">Hanson KE, Couturier MR.</emphasis> 2016. Multiplexed molecular diagnostics for respiratory, gastrointestinal, and central nervous system infections. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">63:</emphasis>1361–1367.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0153" role="bibliographyEntry">
+            <para>153.<emphasis role="strong">Visseaux B, Burdet C, Voiriot G, Lescure FX, Chougar T, Brugière O, Crestani B, Casalino E, Charpentier C, Descamps D, Timsit JF, Yazdanpanah Y, Houhou-Fidouh N.</emphasis> 2017. Prevalence of respiratory viruses among adults, by season, age, respiratory tract region and type of medical unit in Paris, France, from 2011 to 2016. <citetitle><emphasis>PLoS One</emphasis></citetitle> <emphasis role="strong">12:</emphasis>e0180888.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0154" role="bibliographyEntry">
+            <para>154.<emphasis role="strong">Fathima S, Lee BE, May-Hadford J, Mukhi S, Drews SJ.</emphasis> 2012. Use of an innovative web-based laboratory surveillance platform to analyze mixed infections between human metapneumovirus (hMPV) and other respiratory viruses circulating in Alberta (AB), Canada (2009-2012). <citetitle><emphasis>Viruses</emphasis></citetitle> <emphasis role="strong">4:</emphasis>2754–2765.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0155" role="bibliographyEntry">
+            <para>155.<emphasis role="strong">Landry ML, Ferguson D, Cohen S, Peret TC, Erdman DD.</emphasis> 2005. Detection of human metapneumovirus in clinical samples by immunofluorescence staining of shell vial centrifugation cultures prepared from three different cell lines. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">43:</emphasis>1950–1952.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0156" role="bibliographyEntry">
+            <para>156.<emphasis role="strong">Tiwari A, Patnayak DP, Chander Y, Goyal SM.</emphasis> 2006. Permissibility of different cell types for the growth of avian metapneumovirus. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">138:</emphasis>80–84.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0157" role="bibliographyEntry">
+            <para>157.<emphasis role="strong">Reina J, Ferres F, Alcoceba E, Mena A, de Gopegui ER, Figuerola J.</emphasis> 2007. Comparison of different cell lines and incubation times in the isolation by the shell vial culture of human metapneumovirus from pediatric respiratory samples. <citetitle><emphasis>J Clin Virol</emphasis></citetitle> <emphasis role="strong">40:</emphasis>46–49.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0158" role="bibliographyEntry">
+            <para>158.<emphasis role="strong">Huck B, Scharf G, Neumann-Haefelin D, Puppe W, Weigl J, Falcone V.</emphasis> 2006. Novel human metapneumovirus sublineage. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">12:</emphasis>147–150.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0159" role="bibliographyEntry">
+            <para>159.<emphasis role="strong">van den Hoogen BG, Herfst S, Sprong L, Cane PA, Forleo-Neto E,</emphasis> de <emphasis role="strong">Swart RL, Osterhaus AD, Fouchier RA.</emphasis> 2004. Antigenic and genetic variability of human metapneumoviruses. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">10:</emphasis>658–666.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0160" role="bibliographyEntry">
+            <para>160.<emphasis role="strong">Li J, Ren L, Guo L, Xiang Z, Paranhos-Baccalà G, Vernet G, Wang J.</emphasis> 2012. Evolutionary dynamics analysis of human metapneumovirus subtype A2: genetic evidence for its dominant epidemic. <citetitle><emphasis>PLoS One</emphasis></citetitle> <emphasis role="strong">7:</emphasis>e34544.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0161" role="bibliographyEntry">
+            <para>161.<emphasis role="strong">Groen K, van Nieuwkoop S, Bestebroer TM, Fraaij PL, Fouchier RAM, van den Hoogen BG.</emphasis> 2021. Whole genome sequencing of human metapneumoviruses from clinical specimens using MinION nanopore technology. <citetitle><emphasis>Virus Res</emphasis></citetitle> <emphasis role="strong">302:</emphasis>198490.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0162" role="bibliographyEntry">
+            <para>162.<emphasis role="strong">Kamau E, Oketch JW, de Laurent ZR, Phan MVT, Agoti CN, Nokes DJ, Cotten M.</emphasis> 2020. Correction to: whole genome sequencing and phylogenetic analysis of human metapneumovirus strains from Kenya and Zambia. <citetitle><emphasis>BMC Genomics</emphasis></citetitle> <emphasis role="strong">21:</emphasis>83.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0163" role="bibliographyEntry">
+            <para>163.<emphasis role="strong">Moe N, Krokstad S, Stenseng IH, Christensen A, Skanke LH, Risnes KR, Nordbø SA, Døllner H.</emphasis> 2017. Comparing human metapneumovirus and respiratory syncytial virus: viral co-detections, genotypes and risk factors for severe disease. <citetitle><emphasis>PLoS One</emphasis></citetitle> <emphasis role="strong">12:</emphasis>e0170200.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0164" role="bibliographyEntry">
+            <para>164.<emphasis role="strong">Papenburg J, Hamelin ME, Ouhoummane N, Carbonneau J, Ouakki M, Raymond F, Robitaille L, Corbeil J, Caouette G, Frenette L, De Serres G, Boivin G.</emphasis> 2012. Comparison of risk factors for human metapneumovirus and respiratory syncytial virus disease severity in young children. <citetitle><emphasis>J Infect Dis</emphasis></citetitle> <emphasis role="strong">206:</emphasis>178–189.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0165" role="bibliographyEntry">
+            <para>165.<emphasis role="strong">Schuster JE, Khuri-Bulos N, Faouri S, Shehabi A, Johnson M, Wang L, Fonnesbeck C, Williams JV, Halasa N.</emphasis> 2015. Human metapneumovirus infection in Jordanian children: epidemiology and risk factors for severe disease. <citetitle><emphasis>Pediatr Infect Dis J</emphasis></citetitle> <emphasis role="strong">34:</emphasis>1335–1341.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0166" role="bibliographyEntry">
+            <para>166.<emphasis role="strong">Vicente D, Montes M, Cilla G, Perez-Yarza EG, Perez-Trallero E.</emphasis> 2006. Differences in clinical severity between genotype A and genotype B human metapneumovirus infection in children. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">42:</emphasis>e111–e113.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0167" role="bibliographyEntry">
+            <para>167.<emphasis role="strong">Milder E, Arnold JC.</emphasis> 2009. Human metapneumovirus and human bocavirus in children. <citetitle><emphasis>Pediatr Res</emphasis></citetitle> <emphasis role="strong">65:</emphasis>78R–83R.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0168" role="bibliographyEntry">
+            <para>168.<emphasis role="strong">Hamelin ME, Boivin G.</emphasis> 2005. Development and validation of an enzyme-linked immunosorbent assay for human metapneumovirus serology based on a recombinant viral protein. <citetitle><emphasis>Clin Diagn Lab Immunol</emphasis></citetitle> <emphasis role="strong">12:</emphasis>249–253.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0169" role="bibliographyEntry">
+            <para>169.<emphasis role="strong">Sastre P, Ruiz T, Schildgen O, Schildgen V, Vela C, Rueda P.</emphasis> 2012. Seroprevalence of human respiratory syncytial virus and human metapneumovirus in healthy population analyzed by recombinant fusion protein-based enzyme linked immunosorbent assay. <citetitle><emphasis>Virol J</emphasis></citetitle> <emphasis role="strong">9:</emphasis>130.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0170" role="bibliographyEntry">
+            <para>170.<emphasis role="strong">Te Wierik MJ, Nguyen DT, Beersma MF, Thijsen SF, Heemstra KA.</emphasis> 2012. An outbreak of severe respiratory tract infection caused by human metapneumovirus in a residential care facility for elderly in Utrecht, the Netherlands, January to March 2010. <citetitle><emphasis>Euro Surveill</emphasis></citetitle> <emphasis role="strong">17:</emphasis>20132.</para>
+          </listitem>
+          <listitem id="ch0108s000000li0171" role="bibliographyEntry">
+            <para>171.<emphasis role="strong">Biacchesi S, Skiadopoulos MH, Yang L, Murphy BR, Collins PL, Buchholz UJ.</emphasis> 2005. Rapid human metapneumovirus microneutralization assay based on green fluorescent protein expression. <citetitle><emphasis>J Virol Methods</emphasis></citetitle> <emphasis role="strong">128:</emphasis>192–197.</para>
+          </listitem>
+        </itemizedlist>
+        <anchor id="ch0108s000000a0082"/>
+        <beginpage pagenum="1736"/>
+        <anchor id="ch0108s000000a0083"/>
+        <beginpage pagenum="1737"/>
+        <anchor id="ch0108s000000a0084"/>
+        <beginpage pagenum="1738"/>
+        <anchor id="ch0108s000000a0085"/>
+        <beginpage pagenum="1739"/>
+      </sect2>
+    </sect1>
+  </chapter>

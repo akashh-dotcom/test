@@ -1,0 +1,2093 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0060">
+    <title>43 Aeromonas*</title>
+    <sect1 id="ch0060s0001">
+      <title>43 Aeromonas*</title>
+      <anchor id="ch0060s000001a0001"/>
+      <anchor id="ch0060s000000a0001"/>
+      <anchor id="ch0060s000000a0002"/>
+      <para role="chapterAuthor"><phrase role="center">BRIGITTE LAMY</phrase>
+      </para>
+      <sect2 id="ch0060s0001s0001">
+        <title>TAXONOMY</title>
+        <anchor id="ch0060s000001a0002"/>
+        <anchor id="ch0060s000000a0003"/>
+        <para id="ch0060s000000p0001">The genus<emphasis>Aeromonas</emphasis> resides within the family <emphasis>Aeromonadaceae</emphasis> (<link linkend="ch0060s000000li0001">1</link>) and the proposed order <emphasis>Aeromonadales</emphasis> ord. nov., along with the genera <emphasis>Oceanimonas</emphasis> and <emphasis>Tolumonas</emphasis> (<link linkend="ch0060s000000li0002">2</link>). <emphasis>Aeromonas</emphasis> is the only one of these three genera that is pathogenic for humans. The frequent reclassifications and constant amended or extended descriptions within <emphasis>Aeromonas</emphasis> taxonomy have historically been puzzling to many microbiologists. However, most of the controversies have been resolved (<link linkend="ch0060s000000li0003">3</link>), and recent advances have contributed to a clarified, although more complex, understanding of the genus. Data now clearly show that the genus <emphasis>Aeromonas</emphasis> is organized as a complex of species, i.e., groups of species with unclear boundaries, as observed in <emphasis>Vibrio, Acinetobacter</emphasis>, and several <emphasis>Enterobacterales</emphasis> genera (<link linkend="ch0060s000000li0004">4</link>).</para>
+        <para id="ch0060s000000p0002">Among the 36 taxonomic species described in the genus, one-third have been characterized over the past 10 years (<link linkend="ch0060s000000li0002">2</link>). Importantly, displaying an accurate taxonomy directly helped researchers recognize that the species <emphasis>Aeromonas dhakensis</emphasis> is both more frequent and more virulent than other taxa recovered from humans (<link linkend="ch0060s000000li0005">5</link>, <link linkend="ch0060s000000li0006">6</link>). It was previously reported as an “arabinose-negative” <emphasis>Aeromonas hydrophila</emphasis>-like group of organisms and thus misidentified as <emphasis>A. hydrophila</emphasis> (<link linkend="ch0060s000000li0007">7</link>–<link linkend="ch0060s000000li0010">10</link>). The information in this chapter should clarify the identification and significance of the species most often associated with human disease (<anchor id="ch0060s000000a0004"/><link linkend="ch0060s000000a0008">Table 1</link>). No new <emphasis>Aeromonas</emphasis> species has been proposed since the publication of the previous edition of this <emphasis>Manual</emphasis>.</para>
+        <para id="ch0060s000000p0003">Clinically significant strains formerly referred to as<emphasis>Aeromonas sobria</emphasis> are, in fact, <emphasis>Aeromonas veronii</emphasis> biovar sobria (esculin hydrolysis and ornithine decarboxylase negative and arginine dihydrolase positive) and should be reported as such.</para>
+      </sect2>
+      <sect2 id="ch0060s0001s0002">
+        <title>DESCRIPTION OF THE GENUS</title>
+        <anchor id="ch0060s000001a0003"/>
+        <anchor id="ch0060s000000a0005"/>
+        <para id="ch0060s000000p0004">Members of the genus<emphasis>Aeromonas</emphasis> are Gram-negative facultative anaerobes that are straight, coccobacillary to bacillary cells with rounded ends (0.3 to 1.0 μm in diameter and 1.0 to 3.5 μm in length). They can occur singly, in pairs, or rarely in short chains. Most species are motile by a single, polar flagellum with a 1.7-μm wavelength, but uniformly distributed flagella may be formed on solid media in young cultures, and lateral flagella may occur. Aeromonads are usually oxidase positive and catalase positive and are generally resistant to 150 μg of the vibriostatic agent 2,4-diamino-6,7-diisopropylpteridine (O/129) (<link linkend="ch0060s000000li0002">2</link>).</para>
+        <para id="ch0060s000000p0005">Members of the genus<emphasis>Aeromonas</emphasis> are characterized by large metabolic capabilities and a strong ability to quickly colonize a variety of niches and hosts (<link linkend="ch0060s000000li0011">11</link>). They are chemoorganotrophic, displaying oxidative and fermentative metabolism of glucose. Acid, and often acid with gas, is produced from many carbohydrates, especially glucose, and nitrate is reduced to nitrite. A variety of exoenzymes, such as arylamidases, amylase, DNase, esterases, peptidases, proteases, chitinase, chondroitinase, and hemolysins, are produced. The main cellular fatty acids produced are hexadecanoic acid (16:0), hexadecenoic acid (16:1), and octadecenoic acid (18:1). Human (mesophilic) strains grow between 10 and 42°C, but occasional isolates may be more active in some biochemical assays at 22 to 25°C. Psychrophilic strains from fish and the environment (<emphasis>Aeromonas popoffii</emphasis> and <emphasis>Aeromonas salmonicida</emphasis>) seldom grow above 37°C and preferentially grow at 22 to 25°C. In brain heart infusion broth at 28°C, growth occurs between pH 4.5 and 9.0 and at salt concentrations between 0 and 4%. The genome sizes estimated from the draft genomes range from 3.90 Mbp (<emphasis>Aeromonas fluvialis</emphasis><superscript>T</superscript>) to 5.18 Mbp (<emphasis>Aeromonas piscicola</emphasis><superscript>T</superscript>), with an average of 4.51 Mbp. The G+C content of the DNA is 57 to 63 mol% (<link linkend="ch0060s000000li0002">2</link>, <link linkend="ch0060s000000li0003">3</link>).</para>
+      </sect2>
+      <sect2 id="ch0060s0001s0003">
+        <title>EPIDEMIOLOGY AND TRANSMISSION</title>
+        <anchor id="ch0060s000001a0004"/>
+        <anchor id="ch0060s000000a0006"/>
+        <para id="ch0060s000000p0006">Aeromonads are inhabitants of aquatic ecosystems, such as groundwater, reservoirs, clean or polluted lakes and rivers, and mud, worldwide.<emphasis>Aeromonas</emphasis> species may also be found in marine environments but only in brackish water or water with a low saline content. Most <emphasis>Aeromonas</emphasis> species, particularly those associated with human infections, are found in a wide variety of fresh produce, meat (e.g., beef, poultry, and pork), dairy products (e.g., raw milk and raw ice cream) (<link linkend="ch0060s000000li0011">11</link>), and drinking water (<link linkend="ch0060s000000li0012">12</link>–<link linkend="ch0060s000000li0014">14</link>). <emphasis>A. veronii</emphasis> biovar sobria is the major symbiont in the gut of medicinal leeches, such that <emphasis>Aeromonas</emphasis> species is associated with nosocomial zoonosis when infection complicates leech therapy (<link linkend="ch0060s000000li0015">15</link>). However, it should be noted that most of these infections are caused by <emphasis>A. hydrophila</emphasis>, likely because it is more virulent, even though it is present at a low density in the leech crop. <emphasis>Aeromonas</emphasis> also colonizes the mouths of snakes, with related infections following snake bites. Infections in frogs, pigs, cattle, birds, and marine animals have also been reported (<link linkend="ch0060s000000li0011">11</link>).</para>
+        <anchor id="ch0060s000000a0007"/>
+        <beginpage pagenum="845"/>
+        <table id="ch0060s000000t0001"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0060s000000a0008"/><link linkend="ch0060s000000a0004">TABLE 1</link></phrase></emphasis> Members of the genus <emphasis>Aeromonas</emphasis><superscript><emphasis><anchor id="ch0060s000000a0009"/><link linkend="ch0060s000000a0012">a</link></emphasis></superscript>
+</title>
+          
+          <tgroup cols="5">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Organism</phrase>
+                </entry>
+                <entry><phrase role="center">Human isolation (extraintestinal/fecal)</phrase>
+                </entry>
+                <entry><phrase role="center">Human pathogen (extraintestinal/fecal)</phrase>
+                </entry>
+                <entry><phrase role="center">Frequency in humans</phrase>
+                </entry>
+                <entry><phrase role="center">Pathogenic for animals, fish, and reptiles</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>A. hydrophila</emphasis> complex</phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>A. hydrophila</emphasis> subsp. <emphasis>hydrophila</emphasis></phrase>
+                </entry>
+                <entry><phrase role="left">Yes/yes</phrase>
+                </entry>
+                <entry><phrase role="left">Yes/yes</phrase>
+                </entry>
+                <entry><phrase role="left">Common</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>A. hydrophila</emphasis> subsp. <emphasis>ranae</emphasis></phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">Rare</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. dhakensis</emphasis>
+                    <superscript>
+                      <emphasis>
+                        <anchor id="ch0060s000000a0010"/>
+                        <link linkend="ch0060s000000a0013">b</link>
+                      </emphasis>
+                    </superscript>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">Common</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. bestiarum</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">No/yes</phrase>
+                </entry>
+                <entry><phrase role="left">NA/no</phrase>
+                </entry>
+                <entry><phrase role="left">Rare</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. salmonicida</emphasis>
+                    <superscript>
+                      <emphasis>
+                        <anchor id="ch0060s000000a0011"/>
+                        <link linkend="ch0060s000000a0014">c</link>
+                      </emphasis>
+                    </superscript>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">No/yes</phrase>
+                </entry>
+                <entry><phrase role="left">No/no</phrase>
+                </entry>
+                <entry><phrase role="left">Rare</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">subsp. <emphasis>salmonicida</emphasis></phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">subsp. <emphasis>achromogenes</emphasis></phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">subsp. <emphasis>masoucida</emphasis></phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">subsp. <emphasis>smithia</emphasis></phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">subsp. <emphasis>pectinolytica</emphasis></phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>A. caviae</emphasis> complex</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. caviae</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes/yes</phrase>
+                </entry>
+                <entry><phrase role="left">Yes/yes</phrase>
+                </entry>
+                <entry><phrase role="left">Common</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. media</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">No/yes</phrase>
+                </entry>
+                <entry><phrase role="left">NA/yes</phrase>
+                </entry>
+                <entry><phrase role="left">Rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. rivipollensis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes/yes</phrase>
+                </entry>
+                <entry><phrase role="left">Yes/yes</phrase>
+                </entry>
+                <entry><phrase role="left">Rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. eucrenophila</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">No/NA</phrase>
+                </entry>
+                <entry><phrase role="left">Very rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>A. veronii</emphasis> complex</phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>A. veronii</emphasis> biovar sobria</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">Common</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><emphasis>A. veronii</emphasis> biovar veronii</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">Rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. jandaei</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">Yes/unknown</phrase>
+                </entry>
+                <entry><phrase role="left">Very rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. trota</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">Yes/yes</phrase>
+                </entry>
+                <entry><phrase role="left">Very rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. schubertii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes/no</phrase>
+                </entry>
+                <entry><phrase role="left">Yes/NA</phrase>
+                </entry>
+                <entry><phrase role="left">Very rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. diversa</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes/no</phrase>
+                </entry>
+                <entry><phrase role="left">Yes/NA</phrase>
+                </entry>
+                <entry><phrase role="left">Rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. encheleia</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes/no</phrase>
+                </entry>
+                <entry><phrase role="left">No/NA</phrase>
+                </entry>
+                <entry><phrase role="left">One case</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Miscellaneous <emphasis>Aeromonas</emphasis> species</phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. allosaccharophila</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">No/yes</phrase>
+                </entry>
+                <entry><phrase role="left">NA/no</phrase>
+                </entry>
+                <entry><phrase role="left">Very rare</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. australiensis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Neither</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. aquatica</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Neither</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">Unknown</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. aquatilis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Neither</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">Unknown</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. bivalvium</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. cavernicola</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Neither</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. crassostreae</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Neither</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">Unknown</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. enterica</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">No/yes</phrase>
+                </entry>
+                <entry><phrase role="left">No/yes</phrase>
+                </entry>
+                <entry><phrase role="left">Unknown</phrase>
+                </entry>
+                <entry><phrase role="left">Unknown</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. finlandensis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Neither</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">Unknown</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. fluvialis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. intestinalis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">No/yes</phrase>
+                </entry>
+                <entry><phrase role="left">No/yes</phrase>
+                </entry>
+                <entry><phrase role="left">Unknown</phrase>
+                </entry>
+                <entry><phrase role="left">Unknown</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. lacus</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Neither</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">Unknown</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. lusitana</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Neither</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">Unknown</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. molluscorum</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. piscicola</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. popoffii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">Very rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. rivuli</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Neither</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. sanarellii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes/no</phrase>
+                </entry>
+                <entry><phrase role="left">Yes/no</phrase>
+                </entry>
+                <entry><phrase role="left">Rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. simiae</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. sobria</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Neither</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">NA</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. tecta</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+                <entry><phrase role="left">Very rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">
+                    <emphasis>A. taiwanensis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">Yes/no</phrase>
+                </entry>
+                <entry><phrase role="left">Yes/no</phrase>
+                </entry>
+                <entry><phrase role="left">Rare</phrase>
+                </entry>
+                <entry><phrase role="left">No</phrase>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0012"/><link linkend="ch0060s000000a0009">a</link></emphasis></superscript>DNA hybridization group numbers, which no longer serve a meaningful purpose, synonymous species designations for <emphasis>Aeromonas veronii</emphasis> biovar sobria (<emphasis>Aeromonas ichthiosmia, Aeromonas culicicola</emphasis>) (<link linkend="ch0060s000000li0102">102</link>) and <emphasis>Aeromonas trota</emphasis> (<emphasis>Aeromonas enteropelogenes</emphasis>) (<link linkend="ch0060s000000li0101">101</link>, <link linkend="ch0060s000000li0103">103</link>, <link linkend="ch0060s000000li0104">104</link>, <link linkend="ch0060s000000li0105">105</link>), and <emphasis>Aeromonas</emphasis> sp. DNA hybridization group 11, which is made up of <emphasis>Aeromonas eucrenophila</emphasis>/<emphasis>Aeromonas encheleia</emphasis>-like organisms, are not included for simplicity. NA, not applicable.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0013"/><link linkend="ch0060s000000a0010">b</link></emphasis></superscript><emphasis>A. dhakensis</emphasis> was formerly known as <emphasis>A. hydrophila</emphasis> subsp. <emphasis>dhakensis</emphasis> and <emphasis>A. aquariorum</emphasis> sp. nov. (<link linkend="ch0060s000000li0008">8</link>).</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0014"/><link linkend="ch0060s000000a0011">c</link></emphasis></superscript>There are motile strains of <emphasis>A. salmonicida</emphasis> that grow at 37°C and resemble clinical <emphasis>A. hydrophila</emphasis> strains that have been isolated from human feces; these can be distinguished using the tests in <anchor id="ch0060s000000a0015"/><link linkend="ch0060s000000a0042">Table 3</link>.</para>
+        <para id="ch0060s000000p0007">Most clinical infections with aeromonads are related to an exposure to some type of aquatic source, whether the clinical specimen is feces or extraintestinal, and to a lesser extent to the ingestion of foods. Evidence of water-to-human transmission has been established (<link linkend="ch0060s000000li0014">14</link>). Most studies have found a seasonal relationship between the recovery of aeromonads from specimens and the warmer months of the year (<link linkend="ch0060s000000li0016">16</link>). The optimal temperatures for growth of mesophilic aeromonads are those occurring in the warmer months. This therefore increases the likelihood of recreational human exposure to these bacteria, thereby resulting in an increased risk of colonization and/or infections with these indigenous aquatic microorganisms.</para>
+        <anchor id="ch0060s000000a0016"/>
+        <beginpage pagenum="846"/>
+        <para id="ch0060s000000p0008">Since<emphasis>Aeromonas</emphasis> infections are not a reportable condition in the United States or in most other countries, the true incidence worldwide is not known. Estimates from England/Wales and the United States for septicemia with aeromonads in 2004 revealed an incidence of 1.5 per million population (<link linkend="ch0060s000000li0011">11</link>). However, any estimates of incidence would most likely be an underestimation.</para>
+      </sect2>
+      <sect2 id="ch0060s0001s0004">
+        <title>CLINICAL SIGNIFICANCE</title>
+        <anchor id="ch0060s000001a0005"/>
+        <anchor id="ch0060s000000a0017"/>
+        <para id="ch0060s000000p0009"><emphasis>Aeromonas</emphasis> species are environmental opportunistic pathogens, involved in numerous types of diseases, including gastroenteritis and infections at a variety of extraintestinal sites, of which blood and wounds are the most common. The most frequent species recovered from human infections are <emphasis>A. caviae, A. dhakensis, A. hydrophila</emphasis>, and <emphasis>A. veronii</emphasis> biovar sobria, accounting for &gt;90% (<link linkend="ch0060s000000li0005">5</link>, <link linkend="ch0060s000000li0011">11</link>). No major change in the epidemiology of aeromonosis has been reported since the publication of the previous edition of this <emphasis>Manual</emphasis>, and no new knowledge in this field adds to what has been previously described.</para>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0060s0002">
+      <title>Gastroenteritis</title>
+      <anchor id="ch0060s000002a0001"/>
+      <anchor id="ch0060s000000a0018"/>
+      <para id="ch0060s000000p0010">The role of<emphasis>Aeromonas</emphasis> species in gastroenteritis has been questioned because volunteers challenged with a high dose of <emphasis>Aeromonas</emphasis> species did not develop symptoms of enteric illness (<link linkend="ch0060s000000li0017">17</link>) and because of the low number of reported outbreaks. Beyond the numerous data that focus on the association of <emphasis>Aeromonas</emphasis> species with diarrhea (summarized in reference <link linkend="ch0060s000000li0018">18</link>), a study reassessed the enteropathogenicity of <emphasis>Aeromonas</emphasis> species using a dose response model for microbial infection and acute illness and confirmed the enteropathogenicity of <emphasis>Aeromonas</emphasis> species (<link linkend="ch0060s000000li0018">18</link>).</para>
+      <para id="ch0060s000000p0011"><emphasis>Aeromonas</emphasis> gastroenteritis ranges from an acute watery diarrhea (most common form) to dysenteric illness and to chronic illness. Stools from acute watery diarrhea are loose (i.e., they take the shape of their container), and erythrocytes and fecal leukocytes are absent. Accompanying symptoms include abdominal pain (60 to 70% of patients), fever and vomiting (20 to 50%), and nausea (40%) (<link linkend="ch0060s000000li0011">11</link>, <link linkend="ch0060s000000li0019">19</link>). In cases of dysenteric diarrhea resembling shigellosis, patients suffer from severe abdominal pain and have bloody stools containing mucus and polymorphonuclear leukocytes. Although most diarrheal cases are generally self-limited, a combination of supportive therapy and antimicrobials is often indicated in pediatric, geriatric, and immunocompromised populations (<link linkend="ch0060s000000li0011">11</link>). Management of aeromonad-caused gastroenteritis follows the rules of diarrhea management in general.</para>
+      <para id="ch0060s000000p0012"><emphasis>A. caviae</emphasis> is the most common species associated with these infections, followed by <emphasis>A. veronii</emphasis> biovar sobria. A large study in India found seven species among hospitalized patients with diarrhea, with <emphasis>A. caviae</emphasis> predominating, followed by <emphasis>A. hydrophila</emphasis> and <emphasis>A. veronii</emphasis> biovar sobria (<link linkend="ch0060s000000li0020">20</link>). In a large acute diarrheal outbreak in Brazil that involved 2,170 cases, <emphasis>Aeromonas</emphasis> was the genus recovered in 19.5% of cases (<link linkend="ch0060s000000li0021">21</link>). A large study of traveler’s diarrhea in Spain found that <emphasis>Aeromonas</emphasis> accounted for 2% of traveler’s diarrhea, with the predominant species being <emphasis>A. veronii</emphasis> biovar sobria and <emphasis>A. caviae</emphasis> (<link linkend="ch0060s000000li0019">19</link>). <emphasis>A. caviae</emphasis> infection can even mimic inflammatory bowel disease in children (<link linkend="ch0060s000000li0022">22</link>). <emphasis>A. veronii</emphasis> biovar sobria strains may be associated with a rare cholera-like disease characterized by abdominal pain (60%) and fever and nausea (20%) (<link linkend="ch0060s000000li0023">23</link>).</para>
+      <para id="ch0060s000000p0013">About 10 to 15% of patients with either cholera-like or dysenteric diarrhea are coinfected with another enteric pathogen(s). Aeromonad pathogenicity remains poorly understood, and the data may be confounded by the accuracy of the tools used or the study designs.</para>
+      <para id="ch0060s000000p0014">Complications from<emphasis>Aeromonas</emphasis> diarrheal disease include hemolytic-uremic syndrome (<link linkend="ch0060s000000li0024">24</link>, <link linkend="ch0060s000000li0025">25</link>), kidney disease requiring kidney transplantation, and colitis (<link linkend="ch0060s000000li0011">11</link>, <link linkend="ch0060s000000li0026">26</link>). These more severe infections are usually associated with <emphasis>A. hydrophila</emphasis> or <emphasis>A. veronii</emphasis> biovar sobria. In addition, nonresolvable, intermittent diarrhea can occur months after the initial infection and may persist for months or several years. Some episodes are linked to foreign travel prior to the onset of disease, but risk factors or comorbidities associated with chronic diarrhea are unknown, as is the frequency of chronic diarrhea due to <emphasis>Aerom</emphasis><emphasis>onas</emphasis> (<link linkend="ch0060s000000li0011">11</link>).</para>
+    </sect1>
+    <sect1 id="ch0060s0003">
+      <title>Extraintestinal Infections</title>
+      <anchor id="ch0060s000003a0001"/>
+      <anchor id="ch0060s000000a0019"/>
+      <para id="ch0060s000000p0015"><emphasis>Aeromonas</emphasis> septicemia occurs rarely in immunocompetent hosts; most cases occur in patients with liver disease, diabetes mellitus, or hematological malignancies and can be accompanied by necrotizing fasciitis (<link linkend="ch0060s000000li0027">27</link>, <link linkend="ch0060s000000li0028">28</link>). <emphasis>Aeromonas</emphasis> bacteremia is also reported in patients with no comorbidity who are either pregnant (<link linkend="ch0060s000000li0029">29</link>) or elderly (<link linkend="ch0060s000000li0030">30</link>, <link linkend="ch0060s000000li0031">31</link>). The source of bacteremia is most frequently the gut (through translocation), hepatobiliary disease or peritonitis, or, rarely, an infected wound. The species isolated from patients with septicemia are <emphasis>A. caviae, A. veronii</emphasis> biovar sobria, <emphasis>A. dhakensis</emphasis>, and <emphasis>A. hydrophila</emphasis>; polymicrobial cultures are frequent (30%) (<link linkend="ch0060s000000li0030">30</link>).</para>
+      <para id="ch0060s000000p0016">Wound infections are usually preceded by a traumatic injury (even an insignificant one) that occurs in contact with water. The predominant species are<emphasis>A. dhakensis</emphasis> (formerly <emphasis>A. aquariorum</emphasis>), <emphasis>A. veronii</emphasis>, and <emphasis>A. hydrophila.</emphasis> These infections range from uncomplicated cases of cellulitis to myonecrotic infections and necrotizing fasciitis with a poor prognosis (<link linkend="ch0060s000000li0032">32</link>, <link linkend="ch0060s000000li0033">33</link>). Scenarios of such infection are as follows: (i) sporadic wound infections following recreational or occupational activities or following severe trauma (e.g., car crash injuries), (ii) outbreaks of wound infections associated with mud football (<link linkend="ch0060s000000li0034">34</link>), (iii) wound infections following natural disasters (e.g., in tsunami survivors [35], hurricane survivors [36], and earthquake survivors [37]), and (iv) use of medicinal leeches postoperatively to enhance blood flow to surgical sites, which results in wound infection rates between 4.1 and 36.2%, primarily with <emphasis>A. veronii</emphasis> biovar sobria or <emphasis>A. hydrophila</emphasis> (<link linkend="ch0060s000000li0014">14</link>, <link linkend="ch0060s000000li0038">38</link>). Most alarming is the ongoing number of reports of ciprofloxacin-resistant <emphasis>Aeromonas</emphasis> strains in patients after receiving leech therapy (<link linkend="ch0060s000000li0039">39</link>–<link linkend="ch0060s000000li0042">42</link>). Surveys have indicated that only 17 to 52% of <emphasis>Aeromonas</emphasis> wound infections are monomicrobic (<link linkend="ch0060s000000li0011">11</link>, <link linkend="ch0060s000000li0030">30</link>), and the polymicrobial infections may contribute to more severe clinical presentations (<link linkend="ch0060s000000li0043">43</link>, <link linkend="ch0060s000000li0044">44</link>).</para>
+      <para id="ch0060s000000p0017">Intra-abdominal infections include (i) cholecystitis and cholangitis that occur in patients with compression due to gallstones or cancer (mortality rate, 0 to 10%), (ii) pancreatic abscesses, and (iii) spontaneous bacterial peritonitis (mortality rate, 20 to 56%). These infections are frequently associated with bacteremia. Other extraintestinal infections include ocular infections, such as keratitis associated with contact lenses, respiratory and urinary tract infections, meningitis, septic arthritis, osteomyelitis, pneumonia, endocarditis, portal pyemia, surgical site infections, and spa bath folliculitis (<link linkend="ch0060s000000li0045">45</link>–<link linkend="ch0060s000000li0056">56</link>).</para>
+      <anchor id="ch0060s000000a0020"/>
+      <beginpage pagenum="847"/>
+      <sect2 id="ch0060s0003s0001">
+        <title>COLLECTION, TRANSPORT, AND STORAGE OF SPECIMENS</title>
+        <anchor id="ch0060s000003a0002"/>
+        <anchor id="ch0060s000000a0021"/>
+        <para id="ch0060s000000p0018">Aeromonads survive well in specimens, and any of the widely used transport media are acceptable for transport (Amies, Cary-Blair, modified Stuart’s, and buffered glycerol in saline), with Cary-Blair generally considered to be the best for feces transportation (see<ulink url="ch0035#ch0035s0001">chapter 19</ulink>). Feces are preferable to rectal swabs for isolation of enteric pathogens; stools should be collected in the acute phase of disease. Most strains grow equally well at room temperature (20 to 25°C) and incubator temperature (35 to 37°C). Because isolates being kept for long-term storage do not survive well at room or refrigerator temperature in the laboratory for long periods (&gt;1 month), placing aeromonads in medium, such as Trypticase soy broth with 30% glycerol, and deep-freezing them at −80°C is recommended for long-term storage.</para>
+      </sect2>
+      <sect2 id="ch0060s0003s0002">
+        <title>DIRECT EXAMINATION</title>
+        <anchor id="ch0060s000003a0003"/>
+        <anchor id="ch0060s000000a0022"/>
+        <para id="ch0060s000000p0019">The direct microscopic examination of wound or skin/superficial specimens or positive blood culture specimens is somewhat unremarkable in that aeromonads appear as straight, Gram-negative bacilli, with or without the presence of white cells, which is not unlike the presentation of a similar infection with either enterics or pseudomonads.</para>
+        <para id="ch0060s000000p0020">Although various DNA probe and multiplex PCR methods have been described for the identification of aeromonads (specifically, identification of genes for enterotoxins) from either water, food, or veterinary sources, there are no widely recognized antigen detection and/or nucleic acid detection methods available for accurate detection of pathogenic strains from clinical specimens.</para>
+      </sect2>
+      <sect2 id="ch0060s0003s0003">
+        <title>ISOLATION PROCEDURES</title>
+        <anchor id="ch0060s000003a0004"/>
+        <anchor id="ch0060s000000a0023"/>
+        <para id="ch0060s000000p0021">Aeromonads generally grow well on a variety of enteric differential and selective agars, although sucrose- and/or lactose-fermenting strains usually resemble nonpathogens on these media. Blood agar with 20 μg of ampicillin per ml was previously considered useful for isolating<emphasis>Aeromonas</emphasis> species; however, a small proportion of aeromonads are susceptible to ampicillin, and certain species, such as <emphasis>Aeromonas trota</emphasis>, are intrinsically susceptible to ampicillin (<link linkend="ch0060s000000li0057">57</link>, <link linkend="ch0060s000000li0058">58</link>). An environmental sampling study to detect aeromonads showed that when ampicillin is used as a selective agent, a significant portion (17.3%) of the aeromonad population, in at least some environments, cannot be isolated using such media (<link linkend="ch0060s000000li0059">59</link>). Therefore, laboratories should use caution when a medium with ampicillin is used in the setup of stool specimens for detecting the presence of all clinically relevant <emphasis>Aeromonas</emphasis> species as bacterial enteropathogens.</para>
+        <para id="ch0060s000000p0022">Modified cefsulodin-irgasan-novobiocin (CIN) (4 μg of cefsulodin per ml, versus 15 μg/ml in unmodified CIN) is an excellent isolation medium for aeromonads. On this medium,<emphasis>Aeromonas</emphasis> colonies have a pink center with an uneven, clear apron and are morphologically indistinguishable from <emphasis>Yersinia enterocolitica.</emphasis> One can incubate CIN at 25°C to enhance the recovery of <emphasis>Yersinia</emphasis> cells and still be able to recover <emphasis>Aeromonas</emphasis> species within 24 h at this temperature. <emphasis>Aeromonas</emphasis> agar, available from Lab-M, is an alternative to CIN agar and uses <phrase role="small">D</phrase>-xylose (which aeromonads do not ferment) as a differential characteristic (<link linkend="ch0060s000000li0060">60</link>).</para>
+        <para id="ch0060s000000p0023">Since most clinically relevant species are β-hemolytic, including an increasing number of<emphasis>A. caviae</emphasis> strains, β-hemolytic colonies on blood agar should be screened either with matrix-assisted laser desorption ionization–time of flight mass spectrometry (MALDI-TOF MS) or oxidase and a spot indole test. Any colonies that are positive by both tests should be characterized further, although occasional indole-negative <emphasis>A. caviae</emphasis> strains do occur, and nearly all known <emphasis>Aeromonas schubertii</emphasis> isolates (which are generally but rarely associated with severe aquatic wounds) are indole negative (<link linkend="ch0060s000000li0061">61</link>). Thiosulfate citrate bile salts-sucrose medium is usually inhibitory to aeromonads. Enrichment in alkaline peptone water enhances the recovery of <emphasis>Aeromonas</emphasis> spp. from stools from populations that are generally expected to shed low numbers of organisms (carriers, convalescent-phase patients, and those with subclinical infections). For patients with acute diarrhea, however, enrichment is unnecessary (<link linkend="ch0060s000000li0062">62</link>). Several reports have highlighted infections involving two different aeromonads (5 to 10% of cases) that may result in a more severe disease (<link linkend="ch0060s000000li0043">43</link>, <link linkend="ch0060s000000li0044">44</link>, <link linkend="ch0060s000000li0063">63</link>). This justifies the search for several species within a culture in case of severe disease, noting that a given isolate may also present varying characteristics.</para>
+      </sect2>
+      <sect2 id="ch0060s0003s0004">
+        <title>RAPID DETECTION FROM SAMPLES</title>
+        <anchor id="ch0060s000003a0005"/>
+        <anchor id="ch0060s000000a0024"/>
+        <para id="ch0060s000000p0024">Rapid multiplex PCR methods are now implemented in clinical laboratories. They have allowed significant improvements in the etiological diagnosis of gastroenteritis. Numerous methods/systems are now available and others are being developed. At present, aeromonads are only rarely included in the panel of microbes detected by these systems (<link linkend="ch0060s000000li0064">64</link>–<link linkend="ch0060s000000li0066">66</link>). When they are, aeromonads are identified to the genus level. Notably, systems are poorly evaluated for their performance in detecting <emphasis>Aeromonas</emphasis> spp. AllPlex GI Bacteria is currently the only system that detects <emphasis>Aeromonas</emphasis> spp. to have undergone clinical evaluation. Overall performance is satisfactory (sensitivity, 81 to 99%; specificity, 99%). However, aeromonads represent an important proportion of discrepant results (positive culture, negative test result) (<link linkend="ch0060s000000li0064">64</link>–<link linkend="ch0060s000000li0067">67</link>). Studies are rare and low powered and do not specify which species are detected or missed. For instance, a study by Martin et al. (<link linkend="ch0060s000000li0065">65</link>) showed that 13 of 16 stool samples positive for <emphasis>Aeromonas</emphasis> were detected, with 4 discrepant results. In a recent meta-analysis evaluating how these systems perform for gastroenteritis diagnosis, the authors did not discuss the impact of presence/absence of aeromonads in the panels (<link linkend="ch0060s000000li0066">66</link>).</para>
+      </sect2>
+      <sect2 id="ch0060s0003s0005">
+        <title>IDENTIFICATION</title>
+        <anchor id="ch0060s000003a0006"/>
+        <anchor id="ch0060s000000a0025"/>
+        <para id="ch0060s000000p0025">Whole-genome sequencing (WGS) is the reference method to identify aeromonads or to describe a novel species. Methods based on nucleic acid testing, namely, WGS and housekeeping gene sequencing with phylogenetic analysis from pure cultures, are the most accurate methods for identifying aeromonads to the species level. If possible, these methods should be performed whenever identification to the species level is needed. Conventional biochemical systems and 16S rRNA sequencing have the lowest performance, even when additional testing is used, which requires a long time to obtain results with a poor workflow and the least updated databases. MALDI-TOF MS shows the best ratio of quality to time to result, but performance differs between systems, and databases must be improved (see “Identification to the Species Level”) (<link linkend="ch0060s000000li0068">68</link>).</para>
+        <anchor id="ch0060s000000a0026"/>
+        <beginpage pagenum="848"/>
+      </sect2>
+    </sect1>
+    <sect1 id="ch0060s0004">
+      <title>Identification to the Genus Level</title>
+      <anchor id="ch0060s000004a0001"/>
+      <anchor id="ch0060s000000a0027"/>
+      <para id="ch0060s000000p0026">Aeromonads are glucose-fermenting, oxidase-positive, motile, Gram-negative rods that are resistant to O/129. Nucleic acid amplification testing methods based either on 16S ribosomal RNA gene or housekeeping gene sequencing, WGS, and MALDI-TOF MS have excellent performance for identifying aeromonads to the genus level (<link linkend="ch0060s000000li0069">69</link>, <link linkend="ch0060s000000li0070">70</link>). Conventional biochemical methods are also excellent, but there are some pitfalls. <emphasis>Aeromonas</emphasis> species are most easily confused with <emphasis>Vibrio</emphasis> and <emphasis>Plesiomonas</emphasis> species. <emphasis>Plesiomonas</emphasis> species are easily differentiated from <emphasis>Aeromonas</emphasis> species by positive reactions in Moeller’s lysine, ornithine, and arginine tests and by fermentation of <emphasis>m</emphasis>-inositol. Vibrios may be more difficult to distinguish from aeromonads, which is particularly true for <emphasis>Vibrio fluvialis</emphasis> and <emphasis>A. caviae</emphasis>, especially in laboratories where the sole means of identification is a commercial phenotypic system (e.g., the API-20-E strip [bioMérieux, Inc.] and the NFC47 panel with a MicroScan Walk/Away system [Beckman Coulter, Inc.]) (<link linkend="ch0060s000000li0071">71</link>–<link linkend="ch0060s000000li0073">73</link>). Resistance to an O/129 vibriostatic agent (150 μg), string test negativity (with 0.5% sodium desoxycholate), and the inability to grow in salt concentrations of ≥6% usually indicate the genus <emphasis>Aeromonas. Vibrio cholerae</emphasis> O139, a cholera toxin-positive, non-salt-requiring, O/129 vibriostatic-agent-resistant species, is a major exception to this rule. However, the decarboxylase pattern (positive for lysine and ornithine), negative reaction for arginine dihydrolase, no production of gas from glucose, and no fermentation of salicin distinguish this organism from most aeromonads. Unfortunately, strains of ornithine decarboxylase-positive <emphasis>A. veronii</emphasis> biovar veronii often yield an excellent to very good identification for <emphasis>V. cholerae</emphasis> with the rapid identification API-20-E strip, making serotyping and/or additional testing required to resolve the issue. <emphasis>A. veronii</emphasis> biovar veronii is string test negative, O/129 resistant, and able to produce gas from glucose fermentation, does not require additional salt for growth, and is inhibited on thiosulfate citrate bile salts-sucrose agar. <emphasis>V. cholerae</emphasis> has the opposite reactions.</para>
+    </sect1>
+    <sect1 id="ch0060s0005">
+      <title>Identification to the Species Level</title>
+      <anchor id="ch0060s000005a0001"/>
+      <anchor id="ch0060s000000a0028"/>
+      <para id="ch0060s000000p0027">Sequencing of the 16S ribosomal RNA gene (<link linkend="ch0060s000000li0074">74</link>) shows disappointing performance in identifying aeromonads to the species level. This is because of the frequent intragenomic heterogeneity within the 16S ribosomal RNA gene in <emphasis>Aeromonas</emphasis> species; caution is required when using this single gene for anything beyond genus-level identification, because the interspecies variability is between 0 and 5% (<link linkend="ch0060s000000li0075">75</link>, <link linkend="ch0060s000000li0076">76</link>). The use of other housekeeping genes as molecular markers, such as <emphasis>gyrB</emphasis> and <emphasis>rpoD, dnaJ</emphasis>, and <emphasis>rpoB</emphasis> and <emphasis>cpn60</emphasis>, or an even broader approach, such as multilocus phylogenetic analysis, is advised because of higher resolving power (<link linkend="ch0060s000000li0077">77</link>–<link linkend="ch0060s000000li0080">80</link>). Compared to the 16S rRNA gene, these genes offer two advantages: they exhibit higher diversity that enables differentiation between species, and they are present in a single copy, which eliminates the risk of intragenomic diversity. For instance, a 1.1-kb <emphasis>gyrB</emphasis> sequence exhibits a &lt;2.6% intraspecies diversity and a &gt;3% interspecies diversity for most species (<link linkend="ch0060s000000li0081">81</link>). Any of the aforementioned genes is accurate to identify aeromonads to the species level; the most widely used is <emphasis>gyrB</emphasis> (&gt;5,800 NCBI entries in 2022). Incorrect identifications are related to horizontal gene transfer, reported at a frequency up to 2% according to the tested gene (<link linkend="ch0060s000000li0069">69</link>). As a consequence, identification results should be confirmed with at least another sequenced gene or, optimally, a multilocus phylogeny analysis (e.g., for publications of case reports or epidemiological studies).</para>
+      <para id="ch0060s000000p0028">MALDI-TOF MS was first described for<emphasis>Aeromonas</emphasis> species identification in 2007 (<link linkend="ch0060s000000li0082">82</link>), with further validation in 2011 (<link linkend="ch0060s000000li0070">70</link>), and resulted in a 2012 rapid MALDI-TOF MS <emphasis>Aeromonas</emphasis> database for clinical and environmental isolates (<link linkend="ch0060s000000li0083">83</link>). So far, two FDA-cleared systems, the Biotyper system (Bruker, Inc.) and Vitek MS (bioMérieux, Inc.), are available, with differing database content. Some limitations are recognized. Databases from both systems are incomplete: of the 36 species of the genus, 20 and 26 are missing in the Biotyper and in the Vitek MS systems, respectively, and of the 16 species recovered from human infections, 7 and 9 are missing, respectively. Importantly, <emphasis>A. dhakensis</emphasis> is absent from both systems.</para>
+      <para id="ch0060s000000p0029">The Biotyper system has been extensively evaluated for aeromonad identification performance.<emphasis>A. dhakensis</emphasis> is wrongly identified as <emphasis>A. hydrophila</emphasis> or <emphasis>Aeromonas jandaei</emphasis> (<link linkend="ch0060s000000li0084">84</link>). Isolates belonging to species absent from the database are often misidentified with a tricky high-level score likely because species are closely related. An overview of how isolates from unrepresented species are misidentified by the Biotyper system is available (<link linkend="ch0060s000000li0085">85</link>). In addition, relatively low discriminatory power between taxa is recognized, characterized by small score differences that also reflect species closeness (<link linkend="ch0060s000000li0070">70</link>, <link linkend="ch0060s000000li0083">83</link>, <link linkend="ch0060s000000li0084">84</link>). When the first two matches are different, identification should be checked with an extraction procedure. When the issue persists, the first match corresponds to accurate identification in 80% of the cases (<link linkend="ch0060s000000li0085">85</link>). Despite these limitations, the overall accuracy of the Biotyper system approaches 90% when the epidemiology observed in temperate countries is taken into consideration (<link linkend="ch0060s000000li0070">70</link>, <link linkend="ch0060s000000li0083">83</link>) but is expected to be lower in warm areas where <emphasis>A. dhakensis</emphasis> is frequent.</para>
+      <para id="ch0060s000000p0030">To date, the Vitek MS has not been evaluated for members of the genus<emphasis>Aeromonas</emphasis>, but its performance in identifying isolates to the species level is expected to be disappointing given the database content and because the manufacturer acknowledges that the system currently (i) does not properly discriminate <emphasis>A. caviae</emphasis> from <emphasis>A. hydrophila</emphasis> and (ii) frequently fails to identify <emphasis>A. veronii</emphasis>.</para>
+      <para id="ch0060s000000p0031">The default of accuracy is mostly related to the default of database content. Spectra generated for aeromonads exhibit specific peaks useful for identifying isolates to the species level. For instance, the Biotyper system can accurately identify<emphasis>A. dhakensis</emphasis> because of specific peaks (<link linkend="ch0060s000000li0068">68</link>). Defaults in databases can be overcome by using an in-house database. However, in-house databases may be tedious to develop and to validate, so users should take this point into account before adopting this strategy. The databases from both systems should be updated to at least include the most recently defined species involved in human disease, e.g., <emphasis>A. dhakensis</emphasis> and <emphasis>Aeromonas sanarelli</emphasis>.</para>
+      <para id="ch0060s000000p0032">Biochemical methods have the longest time to result and the lowest performance. After an aeromonad is identified, a small number of biochemical tests can be used to affiliate the isolate with one of the three major species complexes (<anchor id="ch0060s000000a0029"/><link linkend="ch0060s000000a0031">Table 2</link>). If warranted, even more discriminatory results for separating members of each complex can be found in bold text in <link linkend="ch0060s000000a0042">Table 3</link> (<link linkend="ch0060s000000li0061">61</link>), which should replace earlier published results for species identification. However, most of these tests are not performed since the introduction of MALDI-TOF MS in clinical laboratories. A comparison study on the accuracy of six commercial systems for identifying 87 clinical <emphasis>Aeromonas</emphasis> isolates to the correct species level highlighted outdated databases and taxonomy, weak algorithms, and impractical tests, with 67.8 to 91.9% accuracy (<link linkend="ch0060s000000li0073">73</link>). The same study reported the ability to accurately identify 95.5% of the 87 clinical isolates to the species level using the seven conventional phenotypic tests within the simple dichotomous key, Aerokey II (<link linkend="ch0060s000000li0084">84</link>). <emphasis>A. dhakensis</emphasis> is distinguished from <emphasis>A. hydrophila</emphasis> by its ability to utilize urocanic acid and its inability to produce acid from <phrase role="small">L</phrase>-arabinose. This key is reliable for clinical strains only.</para>
+      <anchor id="ch0060s000000a0030"/>
+      <beginpage pagenum="849"/>
+      <table id="ch0060s000000t0002"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0060s000000a0031"/><link linkend="ch0060s000000a0029">TABLE 2</link></phrase></emphasis> Biochemical identification of <emphasis>Aeromonas</emphasis> to the complex level
+</title>
+        
+        <tgroup cols="4">
+          <tbody>
+            <row>
+              <entry><phrase role="center">Test</phrase>
+              </entry>
+              <entry><phrase role="center">% of strains identified as belonging to<superscript><emphasis><anchor id="ch0060s000000a0032"/><link linkend="ch0060s000000a0034">a</link></emphasis></superscript>:</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry><phrase role="center"><emphasis>A. hydrophila</emphasis> complex (<emphasis>A. hydrophila, A. dhakensis, A. bestiarum, A. salmonicida</emphasis>)</phrase>
+              </entry>
+              <entry><phrase role="center"><emphasis>A. caviae</emphasis> complex (<emphasis>A. caviae, A. media, A. eucrenophila</emphasis>)</phrase>
+              </entry>
+              <entry><phrase role="center"><emphasis>A. veronii</emphasis> complex (<emphasis>A. veronii</emphasis> HG8,<superscript><emphasis><anchor id="ch0060s000000a0033"/><link linkend="ch0060s000000a0035">b</link></emphasis></superscript> <emphasis>A. jandaei, A. schubertii, A. trota</emphasis>)</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry><phrase role="left">Esculin</phrase>
+              </entry>
+              <entry><phrase role="left">87 (92, 100, 81, 85)</phrase>
+              </entry>
+              <entry><phrase role="left">71 (76, 55, 78)</phrase>
+              </entry>
+              <entry><phrase role="left">0</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry><phrase role="left">Voges-Proskauer</phrase>
+              </entry>
+              <entry><phrase role="left">75 (88, 100, 63, 62)</phrase>
+              </entry>
+              <entry><phrase role="left">0</phrase>
+              </entry>
+              <entry><phrase role="left">54 (88, 87, 17, 0)</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry><phrase role="left">Glucose (gas)</phrase>
+              </entry>
+              <entry><phrase role="left">81 (92, 95, 69, 77)</phrase>
+              </entry>
+              <entry><phrase role="left">16 (0, 0, 78)</phrase>
+              </entry>
+              <entry><phrase role="left">87 (92, 100, 0, 69)</phrase>
+              </entry>
+            </row>
+            <row>
+              <entry><phrase role="left"><phrase role="small">L</phrase>-Arabinose</phrase>
+              </entry>
+              <entry><phrase role="left">93 (84, 0, 100, 100)</phrase>
+              </entry>
+              <entry><phrase role="left">96 (100, 100, 78)</phrase>
+              </entry>
+              <entry><phrase role="left">4 (12, 0, 0, 0)</phrase>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0034"/><link linkend="ch0060s000000a0032">a</link></emphasis></superscript>The first number is the overall percentage of strains that were positive for each complex for a given trait; the numbers in parentheses are percentages of strains positive for each species listed within that complex. Data are derived and modified from Table 5 in reference <link linkend="ch0060s000000li0061">61</link> and from reference <link linkend="ch0060s000000li0007">7</link>.</para>
+      <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0035"/><link linkend="ch0060s000000a0033">b</link></emphasis></superscript><emphasis>A. veronii</emphasis> biovar sobria (DNA hybridization group 8). The separation of <emphasis>A. veronii</emphasis> biovar veronii (DNA hybridization group 10) from <emphasis>A. veronii</emphasis> biovar sobria is achieved with <emphasis>A. veronii</emphasis> biovar veronii having positive reactions for ornithine decarboxylase and esculin hydrolysis and a negative reaction for arginine dihydrolase.</para>
+      <sect2 id="ch0060s0005s0001">
+        <title>TYPING SYSTEMS</title>
+        <anchor id="ch0060s000005a0002"/>
+        <anchor id="ch0060s000000a0036"/>
+        <para id="ch0060s000000p0033">Historical reliable methods for typing aeromonads included pulsed-field gel electrophoresis using XbaI, SwaI, or SpeI, followed by PCR-based techniques, including enterobacterial repetitive intergenic consensus sequence PCR (ERIC-PCR), BOX element PCR, repetitive extragenic palindromic PCR (REP-PCR), and methods combining several types of repetitive elements (e.g., ERIC and REP). A 2015 expanded review summarizes the available data (<link linkend="ch0060s000000li0086">86</link>). These methods have now been replaced by WGS.</para>
+      </sect2>
+      <sect2 id="ch0060s0005s0002">
+        <title>SEROLOGIC TESTS</title>
+        <anchor id="ch0060s000005a0003"/>
+        <anchor id="ch0060s000000a0037"/>
+        <para id="ch0060s000000p0034">Serologic assays that have been used to detect antibodies to<emphasis>Aeromonas</emphasis> species (tube agglutination, immunoblotting, and enzyme-linked immunoassay) have low sensitivity and specificity and are not considered reliable.</para>
+      </sect2>
+      <sect2 id="ch0060s0005s0003">
+        <title>ANTIMICROBIAL SUSCEPTIBILITIES</title>
+        <anchor id="ch0060s000005a0004"/>
+        <anchor id="ch0060s000000a0038"/>
+        <para id="ch0060s000000p0035">A general antimicrobial susceptibility profile for<emphasis>Aeromonas</emphasis> derived from several investigations that included only strains that are well characterized at the species level (<link linkend="ch0060s000000li0087">87</link>–<link linkend="ch0060s000000li0090">90</link>) is given in <anchor id="ch0060s000000a0039"/><link linkend="ch0060s000000a0049">Table 4</link>. <emphasis>Aeromonas</emphasis> species can express three chromosomal β-lactam-induced β-lactamases, including a group 1 molecular class C cephalosporinase, a group 2d molecular class D penicillinase (oxacillinase), and a group 3 molecular class B metallo-β-lactamase (carbapenemase). The distribution of these genes is species specific (e.g., CphA metallo-β lactamase is present in <emphasis>A. hydrophila, A. dhakensis</emphasis>, and <emphasis>A. veronii</emphasis> but not in <emphasis>A. caviae</emphasis> [<link linkend="ch0060s000000a0049">Table 4</link>]) (<link linkend="ch0060s000000li0091">91</link>). Further, the presence of these β-lactamases in <emphasis>Aeromonas</emphasis> species, particularly carbapenemase, may not be detected by conventional susceptibility methods (<link linkend="ch0060s000000li0092">92</link>).</para>
+        <para id="ch0060s000000p0036">Strains show a propensity to acquire resistance genes and to disseminate them to other bacteria. This is important because aeromonads are at the interface of the environment, animal, and human compartments of One Health. For this reason, they have recently earned the nickname of “middleman” (<link linkend="ch0060s000000li0093">93</link>). Strains that are resistant to expanded-spectrum cephalosporins by the production of acquired extended-spectrum β-lactamases are occasionally reported from clinical specimens in a context of carriage or infection and from water sources (<link linkend="ch0060s000000li0094">94</link>–<link linkend="ch0060s000000li0096">96</link>). More recently, <emphasis>A. caviae</emphasis> strains carrying either New Delhi metallo-β-lactamase 1 on the chromosome or Verona integron-encoded metallo-β-lactamase 1 on mobile elements (plasmids or integrons) have been isolated from various parts of the world from both clinical specimens and aquatic environments (<link linkend="ch0060s000000li0096">96</link>–<link linkend="ch0060s000000li0098">98</link>). This warrants concern among physicians because of the possible emergence of multidrug resistance within this genus, the spread via water or sewage systems, and the potential for dissemination to clinically important Gram-negative pathogens (<link linkend="ch0060s000000li0092">92</link>, <link linkend="ch0060s000000li0094">94</link>, <link linkend="ch0060s000000li0095">95</link>, <link linkend="ch0060s000000li0097">97</link>). The complexity of β-lactamases among clinical <emphasis>Aeromonas</emphasis> isolates can result in resistance to a broad spectrum of β-lactams. Thus, both conventional <emphasis>in vitro</emphasis> susceptibility testing and, in selected cases, additional testing for extended-spectrum β-lactamases and carbapenemase production are suggested (<link linkend="ch0060s000000li0099">99</link>).</para>
+        <para id="ch0060s000000p0037">Ciprofloxacin, which is commonly used to treat infections with Gram-negative organisms, was initially reported as active against all species of<emphasis>Aeromonas</emphasis>, with little or no resistance reported in studies in the United States and most of Europe (<link linkend="ch0060s000000li0030">30</link>, <link linkend="ch0060s000000li0087">87</link>, <link linkend="ch0060s000000li0088">88</link>, <link linkend="ch0060s000000li0100">100</link>). However, 2 to 3% of <emphasis>A. caviae, A. hydrophila</emphasis>, and <emphasis>A. veronii</emphasis> biovar sobria strains in Asia were reported to be ciprofloxacin resistant as early as 1996 (<link linkend="ch0060s000000li0089">89</link>). As mentioned above, there are increasing reports of ciprofloxacin-resistant infections following leech therapy. Because ciprofloxacin is recommended for prophylaxis, these recurrent reports warrant both caution and the revision of prevention strategies until the source of ciprofloxacin-resistant strains is controlled (e.g., as noted in references <link linkend="ch0060s000000li0039">39</link>–<link linkend="ch0060s000000li0042">42</link>). Susceptibilities to other antimicrobial agents (e.g., aminoglycosides, tetracycline, and trimethoprim-sulfamethoxazole) may differ from one geographic area to another. Antimicrobial susceptibility testing of local isolates is necessary because of emerging resistance. There are Clinical and Laboratory Standards Institute testing guidelines for the major clinical <emphasis>Aeromonas</emphasis> species that relate to dilution and disk susceptibility testing in document M45-A2 for infrequently isolated or fastidious bacteria (<link linkend="ch0060s000000li0101">101</link>).</para>
+        <anchor id="ch0060s000000a0040"/>
+        <beginpage pagenum="850"/>
+        <anchor id="ch0060s000000a0041"/>
+        <beginpage pagenum="851"/>
+        <table id="ch0060s000000t0003"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0060s000000a0042"/><link linkend="ch0060s000000a0015">TABLE 3</link></phrase></emphasis> Tests useful in the separation of members within the <emphasis>Aeromonas</emphasis> species complexes
+</title>
+          
+          <tgroup cols="12">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Test</phrase>
+                </entry>
+                <entry><phrase role="center">Result<superscript><emphasis><anchor id="ch0060s000000a0043"/><link linkend="ch0060s000000a0046">a</link></emphasis></superscript></phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="center"><emphasis>A. hydrophila</emphasis> complex</phrase>
+                </entry>
+                <entry><phrase role="center"><emphasis>A. caviae</emphasis> complex</phrase>
+                </entry>
+                <entry><phrase role="center"><emphasis>A. veronii</emphasis> complex</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="center">
+                    <emphasis>A. hydrophila</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. dhakensis</emphasis>
+                    <superscript>
+                      <emphasis>
+                        <anchor id="ch0060s000000a0044"/>
+                        <link linkend="ch0060s000000a0047">b</link>
+                      </emphasis>
+                    </superscript>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. bestiarum</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. salmonicida</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. caviae</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. media</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. eucrenophila</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. veronii</emphasis>
+                    <superscript>
+                      <link linkend="ch0060s000000a0048">c</link>
+                    </superscript>
+                  </phrase>
+                  <anchor id="ch0060s000000a0045"/>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. jandaei</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. schubertii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. trota</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Utilization of:</phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><phrase role="left">Citrate</phrase>
+                </entry>
+                <entry><phrase role="left">+ (92)</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (38)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">+ (85)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (88)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (82)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">V (52)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (87)</phrase>
+                </entry>
+                <entry><phrase role="left">V (58)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (94)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><phrase role="small">DL</phrase>-Lactate</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (84)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (96)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (56)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (7)</phrase>
+                </entry>
+                <entry><phrase role="left">V (58)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (88)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Urocanic acid</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (16)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (94)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (7)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">V (75)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Gluconate oxidation</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (64)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">− (13)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">V (60)</phrase>
+                </entry>
+                <entry><phrase role="left">V (60)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Gas from <phrase role="small">D</phrase>-glucose</phrase>
+                </entry>
+                <entry><phrase role="left">+ (92)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (95)</phrase>
+                </entry>
+                <entry><phrase role="left">V (69)</phrase>
+                </entry>
+                <entry><phrase role="left">V (77)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (78)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">+ (92)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (69)</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">PZA test</phrase>
+                </entry>
+                <entry><phrase role="left">V (24)</phrase>
+                </entry>
+                <entry><phrase role="left">− (≤15)</phrase>
+                </entry>
+                <entry><phrase role="left">V (50)</phrase>
+                </entry>
+                <entry><phrase role="left">V (31)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (88)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (18)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Indole test</phrase>
+                </entry>
+                <entry><phrase role="left">+ (96)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (98)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">V (84)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (89)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (17)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Voges-Proskauer test</phrase>
+                </entry>
+                <entry><phrase role="left">+ (92)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">V (63)</phrase>
+                </entry>
+                <entry><phrase role="left">V (62)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (92)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (87)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (17)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Lipase (corn oil) test</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">+ (88)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (92)</phrase>
+                </entry>
+                <entry><phrase role="left">V (76)</phrase>
+                </entry>
+                <entry><phrase role="left">V (82)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (89)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (92)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Acid from:</phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><phrase role="left">Cellobiose−</phrase>
+                </entry>
+                <entry><phrase role="left">− (4)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (38)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (69)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">V (56)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (20)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (20)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Lactose</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (64)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (13)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (92)</phrase>
+                </entry>
+                <entry><phrase role="left">V (60)</phrase>
+                </entry>
+                <entry><phrase role="left">V (64)</phrase>
+                </entry>
+                <entry><phrase role="left">− (11)</phrase>
+                </entry>
+                <entry><phrase role="left">− (12)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><phrase role="small">L</phrase>-Rhamnose</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (24)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (69)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">V (22)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><phrase role="small">D</phrase>-Sorbitol</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (85)</phrase>
+                </entry>
+                <entry><phrase role="left">− (4)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Glucose-1-phosphate</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">− (4)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Glucose-6-phosphate</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">− (4)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Lactulose</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (68)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (55)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><phrase role="small">D</phrase>-Mannose</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (32)</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">ND</phrase>
+                </entry>
+                <entry><phrase role="left">+ ((100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (92)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Glycerol</phrase>
+                </entry>
+                <entry><phrase role="left">+ (96)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">V (68)</phrase>
+                </entry>
+                <entry><phrase role="left">V (55)</phrase>
+                </entry>
+                <entry><phrase role="left">− (11)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (94)</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left"><phrase role="small">D</phrase>-Mannitol</phrase>
+                </entry>
+                <entry><phrase role="left">+ (96)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (69)</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Sucrose</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (98)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (94)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">V (33)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">− (0)</phrase>
+                </entry>
+                <entry><phrase role="left">
+                    <emphasis role="strong">V (19)</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Amp<superscript><emphasis>r</emphasis></superscript></phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (98)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (94)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (85)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">(73)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (100)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (93)</phrase>
+                </entry>
+                <entry><phrase role="left">+ (92)</phrase>
+                </entry>
+                <entry><phrase role="left">− (6)</phrase>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0046"/><link linkend="ch0060s000000a0043">a</link></emphasis></superscript>Data were compiled from <link linkend="ch0060s000000a0031">Tables 2</link>, 6, 7, and 8 in reference <link linkend="ch0060s000000li0061">61</link> and from reference <link linkend="ch0060s000000li0007">7</link>. +, ≥85% of the strains were positive; −, &lt;15% were positive; V, 15 to 85% were positive (results at 48 h). Numbers in parentheses indicate percentages of strains positive for the test at the final day of reading, which for gluconate was 2 days; for <phrase role="small">DL</phrase>-lactate and urocanic acid, 3 days; for citrate, 4 days; for carbohydrates, indole, and lipase, 7 days; for pyrazinamidase (PZA), 2 days; for Amp<superscript><emphasis>r</emphasis></superscript> (resistance to 10 μg of ampicillin), 1 day; for Voges-Proskauer, 3 days. ND, not done. For each of the three <emphasis>Aeromonas</emphasis> species complexes, the discriminatory reactions between the species within each complex are presented in bold type.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0047"/><link linkend="ch0060s000000a0044">b</link></emphasis></superscript>In addition, <emphasis>A. dhakensis</emphasis> (formerly known as <emphasis>A. hydrophila</emphasis> subsp. <emphasis>dhakensis</emphasis> and <emphasis>A. aquariorum</emphasis> sp. nov.) is considered to have positive reactions in the esculin tests but negative reactions for utilization of <phrase role="small">L</phrase>-arabinose and <phrase role="small">L</phrase>-fucose, negative fermentation of <phrase role="small">L</phrase>-arabinose, and positive utilization of urocanic acid (<link linkend="ch0060s000000li0007">7</link>).</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0048"/><link linkend="ch0060s000000a0045">c</link></emphasis></superscript><emphasis>A. veronii</emphasis> biovar sobria (DNA hybridization group 8). The separation of <emphasis>A. veronii</emphasis> biovar veronii (DNA hybridization group 10) from <emphasis>A. veronii</emphasis> biovar sobria is achieved by <emphasis>A. veronii</emphasis> biovar veronii having positive reactions for ornithine decarboxylase and esculin hydrolysis and a negative reaction for arginine dihydrolase.</para>
+        <table id="ch0060s000000t0004"><title><emphasis role="strong"><phrase role="figureLabel"><anchor id="ch0060s000000a0049"/><link linkend="ch0060s000000a0039">TABLE 4</link></phrase></emphasis> Type of β-lactamase expressed by <emphasis>Aeromonas</emphasis> species and corresponding antimicrobial susceptibility profile to β-lactams
+</title>
+          
+          <tgroup cols="8">
+            <tbody>
+              <row>
+                <entry><phrase role="center">Characteristics<superscript><emphasis><anchor id="ch0060s000000a0050"/><link linkend="ch0060s000000a0054">a</link></emphasis></superscript></phrase>
+                </entry>
+                <entry><phrase role="center">Species<superscript><emphasis><anchor id="ch0060s000000a0051"/><link linkend="ch0060s000000a0055">b</link></emphasis></superscript></phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="center">
+                    <emphasis>A. caviae</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. dhakensis</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. hydrophila</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. jandaei</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. trota</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. schubertii</emphasis>
+                  </phrase>
+                </entry>
+                <entry><phrase role="center">
+                    <emphasis>A. veronii</emphasis>
+                  </phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Ambler class (type of enzyme)</phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><phrase role="left">Class D (oxacillinase)</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">−</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Class C (cephalosporinase)</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">−</phrase>
+                </entry>
+                <entry><phrase role="center">−<superscript><emphasis><anchor id="ch0060s000000a0052"/><link linkend="ch0060s000000a0056">c</link></emphasis></superscript></phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Class B (carbapenemase)</phrase>
+                </entry>
+                <entry><phrase role="center">−</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+                <entry><phrase role="center">−</phrase>
+                </entry>
+                <entry><phrase role="center">−</phrase>
+                </entry>
+                <entry><phrase role="center">+</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Usual profile of susceptibility (wild type)</phrase>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><phrase role="left">Ampicillin</phrase>
+                </entry>
+                <entry><phrase role="center">R</phrase>
+                </entry>
+                <entry><phrase role="center">R</phrase>
+                </entry>
+                <entry><phrase role="center">R</phrase>
+                </entry>
+                <entry><phrase role="center">R</phrase>
+                </entry>
+                <entry><phrase role="center">S</phrase>
+                </entry>
+                <entry><phrase role="center">R</phrase>
+                </entry>
+                <entry><phrase role="center">R</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Ticarcillin or piperacillin</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">S</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Cephalothin or cefazolin</phrase>
+                </entry>
+                <entry><phrase role="center">R</phrase>
+                </entry>
+                <entry><phrase role="center">R</phrase>
+                </entry>
+                <entry><phrase role="center">R</phrase>
+                </entry>
+                <entry><phrase role="center">R</phrase>
+                </entry>
+                <entry><phrase role="center">R</phrase>
+                </entry>
+                <entry><phrase role="center">S</phrase>
+                </entry>
+                <entry><phrase role="center">S</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Cefoxitin</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">S</phrase>
+                </entry>
+                <entry><phrase role="center">S</phrase>
+                </entry>
+              </row>
+              <row>
+                <entry><phrase role="left">Carbapenems<superscript><emphasis><anchor id="ch0060s000000a0053"/><link linkend="ch0060s000000a0057">d</link></emphasis></superscript></phrase>
+                </entry>
+                <entry><phrase role="center">S</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+                <entry><phrase role="center">S</phrase>
+                </entry>
+                <entry><phrase role="center">S</phrase>
+                </entry>
+                <entry><phrase role="center">V</phrase>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0054"/><link linkend="ch0060s000000a0050">a</link></emphasis></superscript>Data compiled from references <link linkend="ch0060s000000li0011">11</link>, <link linkend="ch0060s000000li0091">91</link>, <link linkend="ch0060s000000li0093">93</link>, and <link linkend="ch0060s000000li0098">98</link>.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0055"/><link linkend="ch0060s000000a0051">b</link></emphasis></superscript>R, resistant; S, susceptible (≥90% of all isolates are resistant or susceptible); V, variable (10 to 90% of isolates are susceptible).</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0056"/><link linkend="ch0060s000000a0052">c</link></emphasis></superscript>The cephalosporinase gene is present in the genome but is not expressed.</para>
+        <para role="table-footnote"><superscript><emphasis><anchor id="ch0060s000000a0057"/><link linkend="ch0060s000000a0053">d</link></emphasis></superscript>Carbapenemase expression is usually weak (low level) and may not be detected by conventional methods.</para>
+      </sect2>
+      <sect2 id="ch0060s0005s0004">
+        <title>EVALUATION, INTERPRETATION, AND REPORTING OF RESULTS</title>
+        <anchor id="ch0060s000005a0005"/>
+        <anchor id="ch0060s000000a0058"/>
+        <para id="ch0060s000000p0038">Intestinal aeromonad isolates can be identified as belonging either to the<emphasis>A. hydrophila</emphasis> or <emphasis>A. caviae</emphasis> complex or to the <emphasis>A. veronii</emphasis> complex and not “<emphasis>A. sobria</emphasis>,” which is now <emphasis>A. veronii</emphasis> biovar sobria, a member of the <emphasis>A. veronii</emphasis> complex. For routine isolates recovered from uncomplicated cases of gastroenteritis, this level of identification may be sufficient. Although there is very strong evidence that some aeromonads are gastrointestinal pathogens, there is no convincing evidence, at present, that all fecal isolates of <emphasis>Aeromonas</emphasis> species are involved in diarrheal disease, since &lt;1 to 4% of people are asymptomatic carriers (<link linkend="ch0060s000000li0011">11</link>). Thus, the significance of the recovery of aeromonads from stool specimens should be interpreted cautiously and must rely on both laboratory information and clinical interpretation. Because of this, the relative quantity of <emphasis>Aeromonas</emphasis> organisms recovered on enteric media (few colonies, moderate growth, or predominant organism) might be reported in conjunction with the <emphasis>Aeromonas</emphasis> complex or species identification. For complicated cases of diarrhea, e.g., prolonged bloody diarrhea in pediatric patients or chronic gastroenteritis of &gt;1 month’s duration or in cancer patients with positive fecal cultures (in whom <emphasis>Aeromonas</emphasis> species tend to disseminate), definitive species identification may be warranted.</para>
+        <para id="ch0060s000000p0039">For extraintestinal isolates (e.g., from blood or wounds), the same general rules should apply as to species identification of intestinal aeromonads. Although both the<emphasis>in vitro</emphasis> and <emphasis>in vivo</emphasis> pathogenic potentials of <emphasis>Aeromonas</emphasis> species and strains vary considerably, there are no universal markers or indicators that dictate when isolates should be definitively identified to the species level. However, future studies should identify isolates to the species level, because some more virulent species can now be recognized (<emphasis>A. dhakensis</emphasis>) by using fast and accurate methods. Identifying aeromonads at the species level should be considered at least (i) for isolates isolated from sterile body sites (e.g., blood and cerebrospinal fluid) and serious wound infections (cellulitis and necrotizing fasciitis), (ii) for isolates exhibiting unusual resistance patterns or associated with nosocomial infection, and (iii) for publications describing traditional species or newly described species isolated from new anatomic sites.</para>
+      </sect2>
+      <sect2 id="ch0060s0005s0005">
+        <title>REFERENCES</title>
+        <anchor id="ch0060s000005a0006"/>
+        <anchor id="ch0060s000000a0059"/>
+        <itemizedlist mark="none" role="biblioEntryList">
+          <listitem id="ch0060s000000li0001" role="bibliographyEntry">
+            <para>1.<emphasis role="strong">Colwell RR, MacDonell MR, DeLey J.</emphasis> 1986. Proposal to recognize the family <citetitle><emphasis>Aeromonadaceae</emphasis></citetitle> fam. nov. <citetitle><emphasis>Int J Syst Bacteriol</emphasis></citetitle> <emphasis role="strong">36</emphasis><emphasis role="strong">:</emphasis>473–477.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0002" role="bibliographyEntry">
+            <para>2.<emphasis role="strong">Martin-Carnahan A, Joseph SW.</emphasis> 2005. <citetitle><emphasis>Aeromonas</emphasis></citetitle>, p 556–587. <citetitle><emphasis>In</emphasis></citetitle> Brenner DJ, Krieg NR, Staley JT, Garrity GM (ed), <citetitle><emphasis>Bergey’s Manual of Systematic Bacteriology</emphasis></citetitle>, 2nd ed, vol 2. Springer-Verlag, New York, NY.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0003" role="bibliographyEntry">
+            <para>3.<emphasis role="strong">Colston SM, Fullmer MS, Beka L, Lamy B, Gogarten JP, Graf J.</emphasis> 2014. Bioinformatic genome comparisons for taxonomic and phylogenetic assignments using <citetitle><emphasis>Aeromonas</emphasis></citetitle> as a test case. <citetitle><emphasis>mBio</emphasis></citetitle> <emphasis role="strong">5:</emphasis>e02136–e14.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0004" role="bibliographyEntry">
+            <para>4.<emphasis role="strong">Talagrand-Reboul E, Roger F, Kimper JL, Colston SM, Graf J, Latif-Eugenín F, Figueras MJ, Petit F, Marchandin H, Jumas-Bilak E, Lamy B.</emphasis> 2017. Delineation of taxonomic species within complex of species: <citetitle><emphasis>Aeromonas</emphasis></citetitle> media and related species as a test case. <citetitle><emphasis>Front Microbiol</emphasis></citetitle> <emphasis role="strong">8:</emphasis>621.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0005" role="bibliographyEntry">
+            <para>5.<emphasis role="strong">Figueras MJ, Beaz-Hidalgo R.</emphasis> 2015. <citetitle><emphasis>Aeromonas</emphasis></citetitle> infections in humans, p 65–108. <citetitle><emphasis>In</emphasis></citetitle> Graf J (ed), <citetitle><emphasis>Aeromonas</emphasis></citetitle>, 3rd ed. Horizon Scientific Press, Norfolk, United Kingdom.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0006" role="bibliographyEntry">
+            <para>6.<emphasis role="strong">Chen PL, Lamy B, Ko WC.</emphasis> 2016. <citetitle><emphasis>Aeromonas dhakensis</emphasis></citetitle>, an increasingly recognized human pathogen. <citetitle><emphasis>Front Microbiol</emphasis></citetitle> <emphasis role="strong">7:</emphasis>793.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0007" role="bibliographyEntry">
+            <para>7.<emphasis role="strong">Beaz-Hidalgo R, Martínez-Murcia A, Figueras MJ.</emphasis> 2013. Reclassification of <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> subsp. <citetitle><emphasis>dhakensis</emphasis></citetitle> Huys et al. 2002 and <citetitle><emphasis>Aeromonas aquariorum</emphasis></citetitle> Martínez-Murcia et al. 2008 as <citetitle><emphasis>Aeromonas dhakensis</emphasis></citetitle> sp. nov. comb nov. and emendation of the species <citetitle><emphasis>Aeromonas hydrophila. Syst Appl Microbiol</emphasis></citetitle> <emphasis role="strong">36</emphasis><emphasis role="strong">:</emphasis>171–176.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0008" role="bibliographyEntry">
+            <para>8.<emphasis role="strong">Aravena-Román M, Harnett GB, Riley TV, Inglis TJ, Chang BJ.</emphasis> 2011. <citetitle><emphasis>Aeromonas aquariorum</emphasis></citetitle> is widely distributed in clinical and environmental specimens and can be misidentified as <citetitle><emphasis>Aeromonas hydrophila. J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">49:</emphasis>3006–3008.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0009" role="bibliographyEntry">
+            <para>9.<emphasis role="strong">Esteve C, Alcaide E, Blasco MD.</emphasis> 2012. <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> subsp. <citetitle><emphasis>dhakensis</emphasis></citetitle> isolated from feces, water and fish in Mediterranean Spain. <citetitle><emphasis>Microbes Environ</emphasis></citetitle> <emphasis role="strong">27</emphasis><emphasis role="strong">:</emphasis>367–373.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0010" role="bibliographyEntry">
+            <anchor id="ch0060s000000a0060"/>
+            <para>10.<emphasis role="strong">Morinaga Y, Yanagihara K, Eugenin FL, Beaz-Hidalgo R, Kohno S, Figueras Salvat MJ.</emphasis> 2013. Identification error of <citetitle><emphasis>Aeromonas aquariorum</emphasis></citetitle>: a causative agent of septicemia. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">76</emphasis><emphasis role="strong">:</emphasis>106–109.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0011" role="bibliographyEntry">
+            <para>11.<emphasis role="strong">Janda JM, Abbott SL.</emphasis> 2010. The genus <citetitle><emphasis>Aeromonas</emphasis></citetitle>: taxonomy, pathogenicity, and infection. <citetitle><emphasis>Clin Microbiol Rev</emphasis></citetitle> <emphasis role="strong">23:</emphasis>35–73.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0012" role="bibliographyEntry">
+            <para>12.<emphasis role="strong">Pablos M, Rodríguez-Calleja JM, Santos JA, Otero A, García-López ML.</emphasis> 2009. Occurrence of motile <citetitle><emphasis>Aeromonas</emphasis></citetitle> in municipal drinking water and distribution of genes encoding virulence factors. <citetitle><emphasis>Int J Food Microbiol</emphasis></citetitle> <emphasis role="strong">135</emphasis><emphasis role="strong">:</emphasis>158–164.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0013" role="bibliographyEntry">
+            <para>13.<emphasis role="strong">Miyagi K, Sano K, Hirai I.</emphasis> 2017. Sanitary evaluation of domestic water supply facilities with storage tanks and detection of <citetitle><emphasis>Aeromonas</emphasis></citetitle>, enteric and related bacteria in domestic water facilities in Okinawa Prefecture of Japan. <citetitle><emphasis>Water Res</emphasis></citetitle> <emphasis role="strong">119</emphasis><emphasis role="strong">:</emphasis>171–177.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0014" role="bibliographyEntry">
+            <para>14.<emphasis role="strong">Khajanchi BK, Fadl AA, Borchardt MA, Berg RL, Horneman AJ, Stemper ME, Joseph SW, Moyer NP, Sha J, Chopra AK.</emphasis> 2010. Distribution of virulence factors and molecular fingerprinting of <citetitle><emphasis>Aeromonas</emphasis></citetitle> species isolates from water and clinical samples: suggestive evidence of water-to-human transmission. <citetitle><emphasis>Appl Environ Microbiol</emphasis></citetitle> <emphasis role="strong">76:</emphasis>2313–2325.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0015" role="bibliographyEntry">
+            <para>15.<emphasis role="strong">Marden JN, McClure EA, Beka L, Graf J.</emphasis> 2016. Host matters: medicinal leech digestive-tract symbionts and their pathogenic potential. <citetitle><emphasis>Front Microbiol</emphasis></citetitle> <emphasis role="strong">7:</emphasis>1569.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0016" role="bibliographyEntry">
+            <para>16.<emphasis role="strong">Kelly KA, Koehler JM, Ashdown LR.</emphasis> 1993. Spectrum of extraintestinal disease due to <citetitle><emphasis>Aeromonas</emphasis></citetitle> species in tropical Queensland, Australia. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">16</emphasis><emphasis role="strong">:</emphasis>574–579.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0017" role="bibliographyEntry">
+            <para>17.<emphasis role="strong">Morgan DR, Johnson PC, DuPont HL, Satterwhite TK, Wood LV.</emphasis> 1985. Lack of correlation between known virulence properties of <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> and enteropathogenicity for humans. <citetitle><emphasis>Infect Immun</emphasis></citetitle> <emphasis role="strong">50:</emphasis>62–65.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0018" role="bibliographyEntry">
+            <para>18.<emphasis role="strong">Teunis P, Figueras MJ.</emphasis> 2016. Reassessment of the enteropathogenicity of mesophilic <citetitle><emphasis>Aeromonas</emphasis></citetitle> species. <citetitle><emphasis>Front Microbiol</emphasis></citetitle> <emphasis role="strong">7:</emphasis>1395.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0019" role="bibliographyEntry">
+            <para>19.<emphasis role="strong">Vila J, Ruiz J, Gallardo F, Vargas M, Soler L, Figueras MJ, Gascon J.</emphasis> 2003. <citetitle><emphasis>Aeromonas</emphasis></citetitle> spp. and traveler’s diarrhea: clinical features and antimicrobial resistance. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">9</emphasis><emphasis role="strong">:</emphasis>552–555.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0020" role="bibliographyEntry">
+            <para>20.<emphasis role="strong">Sinha S, Shimada T, Ramamurthy T, Bhattacharya SK, Yamasaki S, Takeda Y, Nair GB.</emphasis> 2004. Prevalence, serotype distribution, antibiotic susceptibility and genetic profiles of mesophilic <citetitle><emphasis>Aeromonas</emphasis></citetitle> species isolated from hospitalized diarrhoeal cases in Kolkata, India. <citetitle><emphasis>J Med Microbiol</emphasis></citetitle> <emphasis role="strong">53</emphasis><emphasis role="strong">:</emphasis>527–534.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0021" role="bibliographyEntry">
+            <para>21.<emphasis role="strong">Hofer E, Reis CM, Theophilo GN, Cavalcanti VO, Lima NV, Henriques MF.</emphasis> 2006. [<citetitle><emphasis>Aeromonas</emphasis></citetitle> associated with an acute diarrhea outbreak in São Bento do Una, Pernambuco]. <citetitle><emphasis>Rev Soc Bras Med Trop</emphasis></citetitle> <emphasis role="strong">39</emphasis><emphasis role="strong">:</emphasis>217–220.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0022" role="bibliographyEntry">
+            <para>22.<emphasis role="strong">van der Gaag EJ, Roelofsen E, Tummers RF.</emphasis> 2005. <citetitle><emphasis>Aeromonas caviae</emphasis></citetitle> infection mimicking inflammatory bowel disease in a child. <citetitle><emphasis>Ned Tijdschr Geneeskd</emphasis></citetitle> <emphasis role="strong">149:</emphasis>712–714. (In Dutch.)</para>
+          </listitem>
+          <listitem id="ch0060s000000li0023" role="bibliographyEntry">
+            <para>23.<emphasis role="strong">Shiina Y, Ii K, Iwanaga M.</emphasis> 2004. An <citetitle><emphasis>Aeromonas veronii</emphasis></citetitle> biovar sobria infection with disseminated intravascular gas production. <citetitle><emphasis>J Infect Chemother</emphasis></citetitle> <emphasis role="strong">10:</emphasis>37–41.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0024" role="bibliographyEntry">
+            <para>24.<emphasis role="strong">Bogdanović R, Cobeljić M, Marković M, Nikolić V, Ognjanović M, Sarjanović L, Makić D.</emphasis> 1991. Haemolytic-uraemic syndrome associated with <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> enterocolitis. <citetitle><emphasis>Pediatr Nephrol</emphasis></citetitle> <emphasis role="strong">5</emphasis><emphasis role="strong">:</emphasis>293–295.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0025" role="bibliographyEntry">
+            <para>25.<emphasis role="strong">Figueras MJ, Aldea MJ, Fernández N, Aspíroz C, Alperi A, Guarro J.</emphasis> 2007. <citetitle><emphasis>Aeromonas hemolytic</emphasis></citetitle> uremic syndrome. A case and a review of the literature. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">58</emphasis><emphasis role="strong">:</emphasis>231–234.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0026" role="bibliographyEntry">
+            <para>26.<emphasis role="strong">Filler G, Ehrich JHH, Strauch E, Beutin L.</emphasis> 2000. Acute renal failure in an infant associated with cytotoxic <citetitle><emphasis>Aeromonas sobria</emphasis></citetitle> isolated from patient’s stool and from aquarium water as suspected source of infection. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">38</emphasis><emphasis role="strong">:</emphasis>469–470.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0027" role="bibliographyEntry">
+            <para>27.<emphasis role="strong">Lai CC, Ding LW, Hsueh PR.</emphasis> 2007. Wound infection and septic shock due to <citetitle><emphasis>Aeromonas trota</emphasis></citetitle> in a patient with liver cirrhosis. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">44:</emphasis>1523–1524.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0028" role="bibliographyEntry">
+            <para>28.<emphasis role="strong">Lee CC, Chi CH, Lee NY, Lee HC, Chen CL, Chen PL, Chang CM, Wu CJ, Ko NY, Tsai MC, Ko WC.</emphasis> 2008. Necrotizing fasciitis in patients with liver cirrhosis: predominance of monomicrobial Gram-negative bacillary infections. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">62</emphasis><emphasis role="strong">:</emphasis>219–225.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0029" role="bibliographyEntry">
+            <para>29.<emphasis role="strong">Turner P, Willemse C, Phakaudom K, Zin TW, Nosten F, McGready R.</emphasis> 2012. <citetitle><emphasis>Aeromonas</emphasis></citetitle> spp. bacteremia in pregnant women, Thailand-Myanmar border, 2011. <citetitle><emphasis>Emerg Infect Dis</emphasis></citetitle> <emphasis role="strong">18:</emphasis>1522–1523.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0030" role="bibliographyEntry">
+            <para>30.<emphasis role="strong">Lamy B, Kodjo A, Laurent F, colBVH Study Group.</emphasis> 2009. Prospective nationwide study of <citetitle><emphasis>Aeromonas</emphasis></citetitle> infections in France. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">47:</emphasis>1234–1237.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0031" role="bibliographyEntry">
+            <para>31.<emphasis role="strong">Llopis F, Grau I, Tubau F, Cisnal M, Pallares R.</emphasis> 2004. Epidemiological and clinical characteristics of bacteraemia caused by <citetitle><emphasis>Aeromonas</emphasis></citetitle> spp. as compared with <citetitle><emphasis>Escherichia coli</emphasis></citetitle> and <citetitle><emphasis>Pseudomonas aeruginosa. Scand J Infect Dis</emphasis></citetitle> <emphasis role="strong">36</emphasis><emphasis role="strong">:</emphasis>335–341.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0032" role="bibliographyEntry">
+            <para>32.<emphasis role="strong">Adamski J, Koivuranta M, Leppänen E.</emphasis> 2006. Fatal case of myonecrosis and septicaemia caused by <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> in Finland. <citetitle><emphasis>Scand J Infect Dis</emphasis></citetitle> <emphasis role="strong">38:</emphasis>1117–1119.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0033" role="bibliographyEntry">
+            <para>33.<emphasis role="strong">Monaghan SF, Anjaria D, Mohr A, Livingston DH.</emphasis> 2008. Necrotizing fasciitis and sepsis caused by <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> after crush injury of the lower extremity. <citetitle><emphasis>Surg Infect (Larchmt)</emphasis></citetitle> <emphasis role="strong">9</emphasis><emphasis role="strong">:</emphasis>459–467.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0034" role="bibliographyEntry">
+            <para>34.<emphasis role="strong">Vally H, Whittle A, Cameron S, Dowse GK, Watson T.</emphasis> 2004. Outbreak of <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> wound infections associated with mud football. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">38:</emphasis>1084–1089.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0035" role="bibliographyEntry">
+            <para>35.<emphasis role="strong">Maegele M, Gregor S, Steinhausen E, Bouillon B, Heiss MM, Perbix W, Wappler F, Rixen D, Geisen J, Berger-Schreck B, Schwarz R.</emphasis> 2005. The long-distance tertiary air transfer and care of tsunami victims: injury pattern and microbiological and psychological aspects. <citetitle><emphasis>Crit Care Med</emphasis></citetitle> <emphasis role="strong">33:</emphasis>1136–1140.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0036" role="bibliographyEntry">
+            <para>36.<emphasis role="strong">Presley SM, Rainwater TR, Austin GP, Platt SG, Zak JC, Cobb GP, Marsland EJ, Tian K, Zhang B, Anderson TA, Cox SB, Abel MT, Leftwich BD, Huddleston JR, Jeter RM, Kendall RJ.</emphasis> 2006. Assessment of pathogens and toxicants in New Orleans, LA following Hurricane Katrina. <citetitle><emphasis>Environ Sci Technol</emphasis></citetitle> <emphasis role="strong">40</emphasis><emphasis role="strong">:</emphasis>468–474.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0037" role="bibliographyEntry">
+            <para>37.<emphasis role="strong">Tao C, Kang M, Chen Z, Xie Y, Fan H, Qin L, Ma Y.</emphasis> 2009. Microbiologic study of the pathogens isolated from wound culture among Wenchuan earthquake survivors. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">63</emphasis><emphasis role="strong">:</emphasis>268–270.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0038" role="bibliographyEntry">
+            <para>38.<emphasis role="strong">Sartor C, Limouzin-Perotti F, Legré R, Casanova D, Bongrand MC, Sambuc R, Drancourt M.</emphasis> 2002. Nosocomial infections with <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> from leeches. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">35:</emphasis>E1–E5.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0039" role="bibliographyEntry">
+            <para>39.<emphasis role="strong">Sartor C, Bornet C, Guinard D, Fournier P-E.</emphasis> 2013. Transmission of <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> by leeches. <citetitle><emphasis>Lancet</emphasis></citetitle> <emphasis role="strong">381:</emphasis>1686.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0040" role="bibliographyEntry">
+            <para>40.<emphasis role="strong">Masters MC, Gupta AR, Rhodes NJ, Flaherty JP, Zembower TR, Alghoul M, Krueger KM.</emphasis> 2020. Multidrug resistant <citetitle><emphasis>Aeromonas</emphasis></citetitle> infection following medical leech therapy: a case report and development of a joint antimicrobial stewardship and infection prevention protocol. <citetitle><emphasis>J Glob Antimicrob Resist</emphasis></citetitle> <emphasis role="strong">23:</emphasis>349–351.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0041" role="bibliographyEntry">
+            <para>41.<emphasis role="strong">Patel KM, Svestka M, Sinkin J, Ruff P IV.</emphasis> 2013. Ciprofloxacin-resistant <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> infection following leech therapy: a case report and review of the literature. <citetitle><emphasis>J Plast Reconstr Aesthet Surg</emphasis></citetitle> <emphasis role="strong">66</emphasis><emphasis role="strong">:</emphasis>e20–e22.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0042" role="bibliographyEntry">
+            <para>42.<emphasis role="strong">Giltner CL, Bobenchik AM, Uslan DZ, Deville JG, Humphries RM.</emphasis> 2013. Ciprofloxacin-resistant <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> cellulitis following leech therapy. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">51:</emphasis>1324–1326.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0043" role="bibliographyEntry">
+            <para>43.<emphasis role="strong">Mosser T, Talagrand-Reboul E, Colston SM, Graf J, Figueras MJ, Jumas-Bilak E, Lamy B.</emphasis> 2015. Exposure to pairs of <citetitle><emphasis>Aeromonas</emphasis></citetitle> strains enhances virulence in the <citetitle><emphasis>Caenorhabditis elegans</emphasis></citetitle> infection model. <citetitle><emphasis>Front Microbiol</emphasis></citetitle> <emphasis role="strong">6:</emphasis>1218.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0044" role="bibliographyEntry">
+            <para>44.<emphasis role="strong">Ponnusamy D, Kozlova EV, Sha J, Erova TE, Azar SR, Fitts EC, Kirtley ML, Tiner BL, Andersson JA, Grim CJ, Isom RP, Hasan NA, Colwell RR, Chopra AK.</emphasis> 2016. Cross-talk among flesh-eating <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> strains in mixed infection leading to necrotizing fasciitis. <citetitle><emphasis>Proc Natl Acad Sci USA</emphasis></citetitle> <emphasis role="strong">113</emphasis><emphasis role="strong">:</emphasis>722–727.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0045" role="bibliographyEntry">
+            <para>45.<emphasis role="strong">Choi JP, Lee SO, Kwon HH, Kwak YG, Choi SH, Lim SK, Kim MN, Jeong JY, Choi SH, Woo JH, Kim YS.</emphasis> 2008. Clinical significance of spontaneous <citetitle><emphasis>Aeromonas</emphasis></citetitle> bacterial peritonitis in cirrhotic patients: a matched case-control study. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">47:</emphasis>66–72.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0046" role="bibliographyEntry">
+            <para>46.<emphasis role="strong">Cremonesini D, Thomson A.</emphasis> 2008. Lung colonization with <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> in cystic fibrosis believed to have come from a tropical fish tank. <citetitle><emphasis>J R Soc Med</emphasis></citetitle> <emphasis role="strong">101</emphasis>(Suppl 1)<emphasis role="strong">:</emphasis>S44–S45.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0047" role="bibliographyEntry">
+            <anchor id="ch0060s000000a0061"/>
+            <para>47.<emphasis role="strong">De Gascun CF, Rajan L, O’Neill E, Downey P, Smyth EG.</emphasis> 2007. Pancreatic abscess due to <citetitle><emphasis>Aeromonas hydrophila. J Infect</emphasis></citetitle> <emphasis role="strong">54</emphasis><emphasis role="strong">:</emphasis>e59–e60.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0048" role="bibliographyEntry">
+            <para>48.<emphasis role="strong">Janda JM, Abbott SL.</emphasis> 1998. Evolving concepts regarding the genus <citetitle><emphasis>Aeromonas</emphasis></citetitle>: an expanding panorama of species, disease presentations, and unanswered questions. <citetitle><emphasis>Clin Infect Dis</emphasis></citetitle> <emphasis role="strong">27</emphasis><emphasis role="strong">:</emphasis>332–344.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0049" role="bibliographyEntry">
+            <para>49.<emphasis role="strong">Li L, Du ZZ, Sun X, Shao XG, Li JG, Zhang LX, Wang YM, Wu Q.</emphasis> 2008. Severe pneumonia caused by <citetitle><emphasis>Aeromonas veronii</emphasis></citetitle> biovar sobria: a case report and review of the literature. <citetitle><emphasis>Zhonghua Jie He He Hu Xi Za Zhi</emphasis></citetitle> <emphasis role="strong">31:</emphasis>736–739. (In Chinese.)</para>
+          </listitem>
+          <listitem id="ch0060s000000li0050" role="bibliographyEntry">
+            <para>50.<emphasis role="strong">Mencacci A, Cenci E, Mazzolla R, Farinelli S, D’Alò F, Vitali M, Bistoni F.</emphasis> 2003. <citetitle><emphasis>Aeromonas veronii</emphasis></citetitle> biovar veronii septicaemia and acute suppurative cholangitis in a patient with hepatitis B. <citetitle><emphasis>J Med Microbiol</emphasis></citetitle> <emphasis role="strong">52</emphasis><emphasis role="strong">:</emphasis>727–730.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0051" role="bibliographyEntry">
+            <para>51.<emphasis role="strong">Mulholland A, Yong-Gee S.</emphasis> 2008. A possible new cause of spa bath folliculitis: <citetitle><emphasis>aeromonas hydrophila. Australas J Dermatol</emphasis></citetitle> <emphasis role="strong">49:</emphasis>39–41.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0052" role="bibliographyEntry">
+            <para>52.<emphasis role="strong">Tena D, Aspiroz C, Figueras MJ, Gonzalez-Praetorius A, Aldea MJ, Alperi A, Bisquert J.</emphasis> 2009. Surgical site infection due to <citetitle><emphasis>Aeromonas</emphasis></citetitle> species: report of nine cases and literature review. <citetitle><emphasis>Scand J Infect Dis</emphasis></citetitle> <emphasis role="strong">41</emphasis><emphasis role="strong">:</emphasis>164–170.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0053" role="bibliographyEntry">
+            <para>53.<emphasis role="strong">Tulsidas H, Ong YY, Chan KC.</emphasis> 2008. <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> bacteraemia and portal pyaemia. <citetitle><emphasis>Singapore Med J</emphasis></citetitle> <emphasis role="strong">49:</emphasis>346–348.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0054" role="bibliographyEntry">
+            <para>54.<emphasis role="strong">Pinna A, Sechi LA, Zanetti S, Usai D, Carta F.</emphasis> 2004. <citetitle><emphasis>Aeromonas caviae</emphasis></citetitle> keratitis associated with contact lens wear. <citetitle><emphasis>Ophthalmology</emphasis></citetitle> <emphasis role="strong">111</emphasis><emphasis role="strong">:</emphasis>348–351.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0055" role="bibliographyEntry">
+            <para>55.<emphasis role="strong">Al-Benwan K, Abbott S, Janda JM, Huys G, Albert MJ.</emphasis> 2007. Cystitis caused by <citetitle><emphasis>Aeromonas caviae. J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">45:</emphasis>2348–2350.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0056" role="bibliographyEntry">
+            <para>56.<emphasis role="strong">Hua HT, Bollet C, Tercian S, Drancourt M, Raoult D.</emphasis> 2004. <citetitle><emphasis>Aeromonas popoffii</emphasis></citetitle> urinary tract infection. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">42:</emphasis>5427–5428.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0057" role="bibliographyEntry">
+            <para>57.<emphasis role="strong">Carnahan AM, Joseph SW.</emphasis> 1993. Systematic assessment of geographically and clinically diverse aeromonads. <citetitle><emphasis>Syst Appl Microbiol</emphasis></citetitle> <emphasis role="strong">16:</emphasis>72–84.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0058" role="bibliographyEntry">
+            <para>58.<emphasis role="strong">Kilpatrick ME, Escamilla J, Bourgeois AL, Adkins HJ, Rockhill RC.</emphasis> 1987. Overview of four U.S. Navy overseas research studies on <citetitle><emphasis>Aeromonas. Experientia</emphasis></citetitle> <emphasis role="strong">43</emphasis><emphasis role="strong">:</emphasis>365–366.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0059" role="bibliographyEntry">
+            <para>59.<emphasis role="strong">Huddleston JR, Zak JC, Jeter RM.</emphasis> 2007. Sampling bias created by ampicillin in isolation media for <citetitle><emphasis>Aeromonas. Can J Microbiol</emphasis></citetitle> <emphasis role="strong">53:</emphasis>39–44.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0060" role="bibliographyEntry">
+            <para>60.<emphasis role="strong">Andělová A, Porazilová I, Krejčí E.</emphasis> 2006. Aeromonas agar is a useful selective medium for isolating aeromonads from faecal samples. <citetitle><emphasis>J Med Microbiol</emphasis></citetitle> <emphasis role="strong">55:</emphasis>1605–1606.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0061" role="bibliographyEntry">
+            <para>61.<emphasis role="strong">Abbott SL, Cheung WKW, Janda JM.</emphasis> 2003. The genus <citetitle><emphasis>Aeromonas</emphasis></citetitle>: biochemical characteristics, atypical reactions, and phenotypic identification schemes. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">41:</emphasis>2348–2357.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0062" role="bibliographyEntry">
+            <para>62.<emphasis role="strong">Robinson J, Beaman J, Wagener L, Burke V.</emphasis> 1986. Comparison of direct plating with the use of enrichment culture for isolation of <citetitle><emphasis>Aeromonas</emphasis></citetitle> spp. from faeces. <citetitle><emphasis>J Med Microbiol</emphasis></citetitle> <emphasis role="strong">22</emphasis><emphasis role="strong">:</emphasis>315–317.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0063" role="bibliographyEntry">
+            <para>63.<emphasis role="strong">Barraud O, Robert A, Laval L, Ruimy R, Morquin D, Boyer L, Lamy B.</emphasis> 2020. It takes two to tango: two <citetitle><emphasis>Aeromonas</emphasis></citetitle> isolates combine virulence and multidrug resistance in flap infection following leech therapy. <citetitle><emphasis>Clin Microbiol Infect</emphasis></citetitle> <emphasis role="strong">26</emphasis><emphasis role="strong">:</emphasis>793–794.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0064" role="bibliographyEntry">
+            <para>64.<emphasis role="strong">Teh R, Tee W, Tan E, Fan K, Koh CJ, Tambyah PA, Oon J, Tee N, Soh AYS, Siah KTH.</emphasis> 2021. Review of the role of gastrointestinal multiplex polymerase chain reaction in the management of diarrheal illness. <citetitle><emphasis>J Gastroenterol Hepatol</emphasis></citetitle> <emphasis role="strong">36:</emphasis>3286–3297.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0065" role="bibliographyEntry">
+            <para>65.<emphasis role="strong">Martín A, Pérez-Ayala A, Chaves F, Lora D, Orellana MA.</emphasis> 2018. Evaluation of the multiplex PCR Allplex-GI assay in the detection of bacterial pathogens in diarrheic stool samples. <citetitle><emphasis>J Microbiol Methods</emphasis></citetitle> <emphasis role="strong">144:</emphasis>33–36.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0066" role="bibliographyEntry">
+            <para>66.<emphasis role="strong">Chang LJ, Hsiao CJ, Chen B, Liu TY, Ding J, Hsu WT, Su-Ortiz V, Chen ST, Su KY, Wu HP, Lee CC.</emphasis> 2021. Accuracy and comparison of two rapid multiplex PCR tests for gastroenteritis pathogens: a systematic review and meta-analysis. <citetitle><emphasis>BMJ Open Gastroenterol</emphasis></citetitle> <emphasis role="strong">8</emphasis><emphasis role="strong">:</emphasis>e000553.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0067" role="bibliographyEntry">
+            <para>67.<emphasis role="strong">Zimmermann S, Horner S, Altwegg M, Dalpke AH.</emphasis> 2020. Workflow optimization for syndromic diarrhea diagnosis using the molecular Seegene Allplex™ GI-Bacteria(I) assay. <citetitle><emphasis>Eur J Clin Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">39:</emphasis>1245–1250.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0068" role="bibliographyEntry">
+            <para>68.<emphasis role="strong">Chen PL, Lee TF, Wu CJ, Teng SH, Teng LJ, Ko WC, Hsueh PR.</emphasis> 2014. Matrix-assisted laser desorption ionization-time of flight mass spectrometry can accurately differentiate <citetitle><emphasis>Aeromonas dhakensis</emphasis></citetitle> from <citetitle><emphasis>A. hydrophila</emphasis></citetitle>, <citetitle><emphasis>A. caviae</emphasis></citetitle>, and <citetitle><emphasis>A. veronii. J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">52:</emphasis>2625–2628.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0069" role="bibliographyEntry">
+            <para>69.<emphasis role="strong">Roger F, Marchandin H, Jumas-Bilak E, Kodjo A, Lamy B, colBVH Study Group.</emphasis> 2012. Multilocus genetics to reconstruct aeromonad evolution. <citetitle><emphasis>BMC Microbiol</emphasis></citetitle> <emphasis role="strong">12:</emphasis>62.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0070" role="bibliographyEntry">
+            <para>70.<emphasis role="strong">Lamy B, Kodjo A, Laurent F, colBVH Study Group.</emphasis> 2011. Identification of <citetitle><emphasis>Aeromonas</emphasis></citetitle> isolates by matrix-assisted laser desorption ionization time-of-flight mass spectrometry. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">71:</emphasis>1–5.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0071" role="bibliographyEntry">
+            <para>71.<emphasis role="strong">Israil AM, Balotescu MC, Alexandru I, Dobre G.</emphasis> 2003. Discordancies between classical and API 20E microtest biochemical identification of <citetitle><emphasis>Vibrio</emphasis></citetitle> and <citetitle><emphasis>Aeromonas</emphasis></citetitle> strains. <citetitle><emphasis>Bacteriol Virusol Parazitol Epidemiol</emphasis></citetitle> <emphasis role="strong">48:</emphasis>141–143. (In Romanian.)</para>
+          </listitem>
+          <listitem id="ch0060s000000li0072" role="bibliographyEntry">
+            <para>72.<emphasis role="strong">Soler L, Marco F, Vila J, Chacón MR, Guarro J, Figueras MJ.</emphasis> 2003. Evaluation of two miniaturized systems, MicroScan W/A and BBL Crystal E/NF, for identification of clinical isolates of <citetitle><emphasis>Aeromonas</emphasis></citetitle> spp. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">41:</emphasis>5732–5734.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0073" role="bibliographyEntry">
+            <para>73.<emphasis role="strong">Lamy B, Laurent F, Verdier I, Decousser JW, Lecaillon E, Marchandin H, Roger F, Tigaud S, de Montclos H, Kodjo A, colBVH Study Group.</emphasis> 2010. Accuracy of 6 commercial systems for identifying clinical <citetitle><emphasis>Aeromonas</emphasis></citetitle> isolates. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">67:</emphasis>9–14.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0074" role="bibliographyEntry">
+            <para>74.<emphasis role="strong">Martinez-Murcia AJ, Benlloch S, Collins MD.</emphasis> 1992. Phylogenetic interrelationships of members of the genera <citetitle><emphasis>Aeromonas</emphasis></citetitle> and <citetitle><emphasis>Plesiomonas</emphasis></citetitle> as determined by 16S ribosomal DNA sequencing: lack of congruence with results of DNA-DNA hybridizations. <citetitle><emphasis>Int J Syst Bacteriol</emphasis></citetitle> <emphasis role="strong">42</emphasis><emphasis role="strong">:</emphasis>412–421.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0075" role="bibliographyEntry">
+            <para>75.<emphasis role="strong">Morandi A, Zhaxybayeva O, Gogarten JP, Graf J.</emphasis> 2005. Evolutionary and diagnostic implications of intragenomic heterogeneity in the 16S rRNA gene in <citetitle><emphasis>Aeromonas</emphasis></citetitle> strains. <citetitle><emphasis>J Bacteriol</emphasis></citetitle> <emphasis role="strong">187:</emphasis>6561–6564.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0076" role="bibliographyEntry">
+            <para>76.<emphasis role="strong">Roger F, Lamy B, Jumas-Bilak E, Kodjo A, Marchandin H, colBVH Study Group.</emphasis> 2012. Ribosomal multi-operon diversity: an original perspective on the genus <citetitle><emphasis>Aeromonas. PLoS One</emphasis></citetitle> <emphasis role="strong">7:</emphasis>e46268.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0077" role="bibliographyEntry">
+            <para>77.<emphasis role="strong">Soler L, Yáñez MA, Chacon MR, Aguilera-Arreola MG, Catalán V, Figueras MJ, Martínez-Murcia AJ.</emphasis> 2004. Phylogenetic analysis of the genus <citetitle><emphasis>Aeromonas</emphasis></citetitle> based on two housekeeping genes. <citetitle><emphasis>Int J Syst Evol Microbiol</emphasis></citetitle> <emphasis role="strong">54:</emphasis>1511–1519.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0078" role="bibliographyEntry">
+            <para>78.<emphasis role="strong">Nhung PH, Hata H, Ohkusu K, Noda M, Shah MM, Goto K, Ezaki T.</emphasis> 2007. Use of the novel phylogenetic marker dnaJ and DNA-DNA hybridization to clarify interrelationships within the genus <citetitle><emphasis>Aeromonas. Int J Syst Evol Microbiol</emphasis></citetitle> <emphasis role="strong">57:</emphasis>1232–1237.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0079" role="bibliographyEntry">
+            <para>79.<emphasis role="strong">Miñana-Galbis D, Urbizu-Serrano A, Farfán M, Fusté MC, Lorén JG.</emphasis> 2009. Phylogenetic analysis and identification of <citetitle><emphasis>Aeromonas</emphasis></citetitle> species based on sequencing of the cpn60 universal target. <citetitle><emphasis>Int J Syst Evol Microbiol</emphasis></citetitle> <emphasis role="strong">59:</emphasis>1976–1983.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0080" role="bibliographyEntry">
+            <para>80.<emphasis role="strong">Martinez-Murcia AJ, Monera A, Saavedra MJ, Oncina R, Lopez-Alvarez M, Lara E, Figueras MJ.</emphasis> 2011. Multilocus phylogenetic analysis of the genus <citetitle><emphasis>Aeromonas. Syst Appl Microbiol</emphasis></citetitle> <emphasis role="strong">34</emphasis><emphasis role="strong">:</emphasis>189–199.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0081" role="bibliographyEntry">
+            <para>81.<emphasis role="strong">Yáñez MA, Catalán V, Apráiz D, Figueras MJ, Martínez-Murcia AJ.</emphasis> 2003. Phylogenetic analysis of members of the genus <citetitle><emphasis>Aeromonas</emphasis></citetitle> based on <citetitle><emphasis>gyrB</emphasis></citetitle> gene sequences. <citetitle><emphasis>Int J Syst Evol Microbiol</emphasis></citetitle> <emphasis role="strong">53</emphasis><emphasis role="strong">:</emphasis>875–883.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0082" role="bibliographyEntry">
+            <para>82.<emphasis role="strong">Donohue MJ, Best JM, Smallwood AW, Kostich M, Rodgers M, Shoemaker JA.</emphasis> 2007. Differentiation of <citetitle><emphasis>Aeromonas</emphasis></citetitle> isolated from drinking water distribution systems using matrix-assisted laser desorption/ionization-mass spectrometry. <citetitle><emphasis>Anal Chem</emphasis></citetitle> <emphasis role="strong">79:</emphasis>1939–1946.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0083" role="bibliographyEntry">
+            <para>83.<emphasis role="strong">Benagli C, Demarta A, Caminada A, Ziegler D, Petrini O, Tonolla M.</emphasis> 2012. A rapid MALDI-TOF MS identification database at genospecies level for clinical and environmental <citetitle><emphasis>Aeromonas</emphasis></citetitle> strains. <citetitle><emphasis>PLoS One</emphasis></citetitle> <emphasis role="strong">7:</emphasis>e48441.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0084" role="bibliographyEntry">
+            <para>84.<emphasis role="strong">Vávrová A, Balážová T, Sedláček I, Tvrzová L, Šedo O.</emphasis> 2015. Evaluation of the MALDI-TOF MS profiling for identification of newly described <citetitle><emphasis>Aeromonas</emphasis></citetitle> spp. <citetitle><emphasis>Folia Microbiol (Praha)</emphasis></citetitle> <emphasis role="strong">60</emphasis><emphasis role="strong">:</emphasis>375–383.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0085" role="bibliographyEntry">
+            <anchor id="ch0060s000000a0062"/>
+            <para>85.<emphasis role="strong">Carnahan AM, Behram S, Joseph SW.</emphasis> 1991. Aerokey II: a flexible key for identifying clinical <citetitle><emphasis>Aeromonas</emphasis></citetitle> species. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">29:</emphasis>2843–2849.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0086" role="bibliographyEntry">
+            <para>86.<emphasis role="strong">Lamy B, Martinez-Murcia A.</emphasis> 2015. Molecular diagnostic and genetic methods, p 155–200. <citetitle><emphasis>In</emphasis></citetitle> Graf J (ed), <citetitle><emphasis>Aeromonas</emphasis></citetitle>, 3rd ed. Horizon Scientific Press, Norfolk, United Kingdom.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0087" role="bibliographyEntry">
+            <para>87.<emphasis role="strong">Kämpfer P, Christmann C, Swings J, Huys G.</emphasis> 1999. In vitro susceptibilities of <citetitle><emphasis>Aeromonas</emphasis></citetitle> genomic species to 69 antimicrobial agents. <citetitle><emphasis>Syst Appl Microbiol</emphasis></citetitle> <emphasis role="strong">22</emphasis><emphasis role="strong">:</emphasis>662–669.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0088" role="bibliographyEntry">
+            <para>88.<emphasis role="strong">Overman TL, Janda JM.</emphasis> 1999. Antimicrobial susceptibility patterns of <citetitle><emphasis>Aeromonas jandaei</emphasis></citetitle>, <citetitle><emphasis>A. schubertii</emphasis></citetitle>, <citetitle><emphasis>A. trota</emphasis></citetitle>, and <citetitle><emphasis>A. veronii</emphasis></citetitle> biotype veronii. <citetitle><emphasis>J Clin Microbiol</emphasis></citetitle> <emphasis role="strong">37</emphasis><emphasis role="strong">:</emphasis>706–708.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0089" role="bibliographyEntry">
+            <para>89.<emphasis role="strong">Ko WC, Yu KW, Liu CY, Huang CT, Leu HS, Chuang YC.</emphasis> 1996. Increasing antibiotic resistance in clinical isolates of <citetitle><emphasis>Aeromonas</emphasis></citetitle> strains in Taiwan. <citetitle><emphasis>Antimicrob Agents Chemother</emphasis></citetitle> <emphasis role="strong">40:</emphasis>1260–1262.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0090" role="bibliographyEntry">
+            <para>90.<emphasis role="strong">Vila J, Marco F, Soler L, Chacon M, Figueras MJ.</emphasis> 2002. In vitro antimicrobial susceptibility of clinical isolates of <citetitle><emphasis>Aeromonas caviae</emphasis></citetitle>, <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> and <citetitle><emphasis>Aeromonas veronii</emphasis></citetitle> biotype sobria. <citetitle><emphasis>J Antimicrob Chemother</emphasis></citetitle> <emphasis role="strong">49</emphasis><emphasis role="strong">:</emphasis>701–702.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0091" role="bibliographyEntry">
+            <para>91.<emphasis role="strong">Wu CJ, Chen PL, Wu JJ, Yan JJ, Lee CC, Lee HC, Lee NY, Chang CM, Lin YT, Chiu YC, Ko WC.</emphasis> 2012. Distribution and phenotypic and genotypic detection of a metallo-β-lactamase, CphA, among bacteraemic <citetitle><emphasis>Aeromonas</emphasis></citetitle> isolates. <citetitle><emphasis>J Med Microbiol</emphasis></citetitle> <emphasis role="strong">61</emphasis><emphasis role="strong">:</emphasis>712–719.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0092" role="bibliographyEntry">
+            <para>92.<emphasis role="strong">Hayes MV, Thomson CJ, Amyes SGB.</emphasis> 1996. The ‘hidden’ carbapenemase of <citetitle><emphasis>Aeromonas hydrophila. J Antimicrob Chemother</emphasis></citetitle> <emphasis role="strong">37:</emphasis>33–44.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0093" role="bibliographyEntry">
+            <para>93.<emphasis role="strong">Lamy B, Baron S, Barraud O.</emphasis> 2022. <citetitle><emphasis>Aeromonas:</emphasis></citetitle> the multifaceted middleman in the One Health world. <citetitle><emphasis>Curr Opin Microbiol</emphasis></citetitle> <emphasis role="strong">65:</emphasis>24–32.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0094" role="bibliographyEntry">
+            <para>94.<emphasis role="strong">Fosse T, Giraud-Morin C, Madinier I, Mantoux F, Lacour JP, Ortonne JP.</emphasis> 2004. <citetitle><emphasis>Aeromonas hydrophila</emphasis></citetitle> with plasmid-borne class A extended-spectrum β-lactamase TEM-24 and three chromosomal class B, C, and D β-lactamases, isolated from a patient with necrotizing fasciitis. <citetitle><emphasis>Antimicrob Agents Chemother</emphasis></citetitle> <emphasis role="strong">48:</emphasis>2342–2343.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0095" role="bibliographyEntry">
+            <para>95.<emphasis role="strong">Sánchez-Céspedes J, Figueras MJ, Aspiroz C, Aldea MJ, Toledo M, Alperí A, Marco F, Vila J.</emphasis> 2009. Development of imipenem resistance in an <citetitle><emphasis>Aeromonas veronii</emphasis></citetitle> biovar sobria clinical isolate recovered from a patient with cholangitis. <citetitle><emphasis>J Med Microbiol</emphasis></citetitle> <emphasis role="strong">58</emphasis><emphasis role="strong">:</emphasis>451–455.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0096" role="bibliographyEntry">
+            <para>96.<emphasis role="strong">Antonelli A, D’Andrea MM, Montagnani C, Bartolesi AM, Di Pilato V, Fiorini P, Torricelli F, Galli L, Rossolini GM.</emphasis> 2016. Newborn bacteraemia caused by an <citetitle><emphasis>Aeromonas caviae</emphasis></citetitle> producing the VIM-1 and SHV-12 β-lactamases, encoded by a transferable plasmid. <citetitle><emphasis>J Antimicrob Chemother</emphasis></citetitle> <emphasis role="strong">71</emphasis><emphasis role="strong">:</emphasis>272–274.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0097" role="bibliographyEntry">
+            <para>97.<emphasis role="strong">Walsh TR, Weeks J, Livermore DM, Toleman MA.</emphasis> 2011. Dissemination of NDM-1 positive bacteria in the New Delhi environment and its implications for human health: an environmental point prevalence study. <citetitle><emphasis>Lancet Infect Dis</emphasis></citetitle> <emphasis role="strong">11</emphasis><emphasis role="strong">:</emphasis>355–362.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0098" role="bibliographyEntry">
+            <para>98.<emphasis role="strong">Adler A, Assous MV, Paikin S, Shulman A, Miller-Roll T, Hillel S, Aronov R, Carmeli Y, Schwaber MJ.</emphasis> 2014. Emergence of VIM-producing <citetitle><emphasis>Aeromonas caviae</emphasis></citetitle> in Israeli hospitals. <citetitle><emphasis>J Antimicrob Chemother</emphasis></citetitle> <emphasis role="strong">69:</emphasis>1211–1214.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0099" role="bibliographyEntry">
+            <para>99.<emphasis role="strong">Chen PL, Ko WC, Wu CJ.</emphasis> 2012. Complexity of β-lactamases among clinical <citetitle><emphasis>Aeromonas</emphasis></citetitle> isolates and its clinical implications. <citetitle><emphasis>J Microbiol Immunol Infect</emphasis></citetitle> <emphasis role="strong">45</emphasis><emphasis role="strong">:</emphasis>398–403.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0100" role="bibliographyEntry">
+            <para>100.<emphasis role="strong">Sinclair HA, Heney C, Sidjabat HE, George NM, Bergh H, Anuj SN, Nimmo GR, Paterson DL.</emphasis> 2016. Genotypic and phenotypic identification of <citetitle><emphasis>Aeromonas</emphasis></citetitle> species and CphA-mediated carbapenem resistance in Queensland, Australia. <citetitle><emphasis>Diagn Microbiol Infect Dis</emphasis></citetitle> <emphasis role="strong">85:</emphasis>98–101.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0101" role="bibliographyEntry">
+            <para>101.<emphasis role="strong">Clinical and Laboratory Standards Institute.</emphasis> 2010. <citetitle><emphasis>Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Standard M45-A2.</emphasis></citetitle> Clinical and Laboratory Standards Institute, Wayne, PA.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0102" role="bibliographyEntry">
+            <para>102.<emphasis role="strong">Huys G, Cnockaert M, Swings J.</emphasis> 2005. <citetitle><emphasis>Aeromonas culicicola</emphasis></citetitle> Pidiyar et al. 2002 is a later subjective synonym of <citetitle><emphasis>Aeromonas veronii</emphasis></citetitle> Hickman-Brenner et al. 1987. <citetitle><emphasis>Syst Appl Microbiol</emphasis></citetitle> <emphasis role="strong">28</emphasis><emphasis role="strong">:</emphasis>604–609.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0103" role="bibliographyEntry">
+            <para>103.<emphasis role="strong">Collins MD, Martinez-Murcia AJ, Cai J.</emphasis> 1993. <citetitle><emphasis>Aeromonas enteropelogenes</emphasis></citetitle> and <citetitle><emphasis>Aeromonas ichthiosmia</emphasis></citetitle> are identical to <citetitle><emphasis>Aeromonas trota</emphasis></citetitle> and <citetitle><emphasis>Aeromonas veronii</emphasis></citetitle>, respectively, as revealed by small-subunit rRNA sequence analysis. <citetitle><emphasis>Int J Syst Bacteriol</emphasis></citetitle> <emphasis role="strong">43</emphasis><emphasis role="strong">:</emphasis>855–856.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0104" role="bibliographyEntry">
+            <para>104.<emphasis role="strong">Figueras MJ, Horneman AJ, Martinez-Murcia A, Guarro J.</emphasis> 2007. Controversial data on the association of <citetitle><emphasis>Aeromonas</emphasis></citetitle> with diarrhoea in a recent Hong Kong study. <citetitle><emphasis>J Med Microbiol</emphasis></citetitle> <emphasis role="strong">56</emphasis><emphasis role="strong">:</emphasis>996–998.</para>
+          </listitem>
+          <listitem id="ch0060s000000li0105" role="bibliographyEntry">
+            <para>105.<emphasis role="strong">Figueras MJ, Latif-Eugenín F, Ballester F, Pujol I, Tena D, Berg K, Hossain MJ, Beaz-Hidalgo R, Liles MR.</emphasis> 2016. <citetitle><emphasis>‘Aeromonas intestinalis</emphasis></citetitle>’ and ‘<citetitle><emphasis>Aeromonas enterica</emphasis></citetitle>’ isolated from human faeces, ‘<citetitle><emphasis>Aeromonas crassostreae</emphasis></citetitle>’ from oyster and ‘<citetitle><emphasis>Aeromonas aquatilis</emphasis></citetitle>’ isolated from lake water represent novel species. <citetitle><emphasis>New Microbes New Infect</emphasis></citetitle> <emphasis role="strong">15</emphasis><emphasis role="strong">:</emphasis>74–76.</para>
+          </listitem>
+        </itemizedlist>
+        <orderedlist role="notesList">
+          <listitem role="noteEntry">
+            <para><anchor id="ch0060s000000a0063"/><link linkend="ch0060s000000a0001">*</link>This chapter contains information presented by Amy J. Horneman in previous editions of this <emphasis>Manual</emphasis>.</para>
+          </listitem>
+        </orderedlist>
+      </sect2>
+    </sect1>
+  </chapter>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<chapter id="ch0005">
+    <title>MANUAL OF CLINICAL MICROBIOLOGY</title>
+    <sect1 id="ch0005s0001"><title>MANUAL OF CLINICAL MICROBIOLOGY</title><para role="bookVolumeNumber"><emphasis>Volume 3</emphasis>
+    </para>
+    </sect1><sect1 id="ch0005s0002" role="bookTitle">
+      <title>MANUAL OF CLINICAL MICROBIOLOGY</title>
+      <anchor id="ch0005s010000a0001"/>
+      <para role="bookEdition"><phrase role="c1">13</phrase>
+        <phrase role="small">TH EDITION</phrase>
+      </para>
+      <para id="ch0005s000000p0002">EDITORS-IN-CHIEF</para>
+      <para role="authorName">K<phrase role="small">AREN</phrase> C. C<phrase role="small">ARROLL</phrase></para>
+      <para role="authorName">Division of Medical Microbiology,<?lb ?>Department of Pathology,<?lb ?>The Johns Hopkins University School of Medicine,<?lb ?>Baltimore, Maryland</para>
+      <para role="authorName">M<phrase role="small">ICHAEL</phrase> A. P<phrase role="small">FALLER</phrase></para>
+      <para role="affiliation">Departments of Pathology and Epidemiology (Emeritus),<?lb ?>University of Iowa, Iowa City, and JMI Laboratories, North Liberty, Iowa</para>
+      <para id="ch0005s000000p0003">VOLUME EDITORS</para>
+      <para role="authorName">J<phrase role="small">AMES</phrase> A. K<phrase role="small">ARLOWSKY</phrase></para>
+      <para role="affiliation">Clinical Microbiology, Diagnostic Services, Shared Health and Department of Medical Microbiology and Infectious Diseases,<?lb ?>Max Rady College of Medicine, University of Manitoba,<?lb ?>Winnipeg, Manitoba, Canada</para>
+      <para role="authorName">M<phrase role="small">ARIE</phrase> L<phrase role="small">OUISE</phrase> L<phrase role="small">ANDRY</phrase></para>
+      <para role="affiliation">Departments of Laboratory Medicine and Medicine,<?lb ?>Yale University School of Medicine, New Haven, Connecticut</para>
+      <para role="authorName">A<phrase role="small">LEXANDER</phrase> J. M<phrase role="small">C</phrase>A<phrase role="small">DAM</phrase></para>
+      <para role="affiliation">Department of Laboratory Medicine, Boston Children’s<?lb ?>Hospital, Boston, Massachusetts</para>
+      <para role="authorName">R<phrase role="small">OBIN</phrase> P<phrase role="small">ATEL</phrase></para>
+      <para role="affiliation">Infectious Diseases Research Laboratory, Mayo Clinic,<?lb ?>Rochester, Minnesota</para>
+      <para role="authorName">B<phrase role="small">OBBI</phrase> S. P<phrase role="small">RITT</phrase></para>
+      <para role="affiliation">Laboratory Medicine and Pathology,<?lb ?>Mayo Clinic, Rochester, Minnesota</para>
+      <figure id="ch0005s000000f0001" role="floatLeft"><title/>
+        
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Ch0003f01.jpg" width="100%" scalefit="1"/>
+          </imageobject>
+          <textobject>
+            <phrase>Logo: Wiley</phrase>
+          </textobject>
+        </mediaobject>
+      </figure>
+    </sect1>
+  </chapter>
