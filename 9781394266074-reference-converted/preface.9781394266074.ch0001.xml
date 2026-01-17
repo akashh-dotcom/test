@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0001">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394266074.</risprev>
+         <riscurrent>sect1.9781394266074.ch0001</riscurrent>
+         <risnext>sect1.9781394266074.</risnext>
+         <booktitle>Companion Animal End of Life Care for the Veterinary Technician</booktitle>
+         <isbn>9781394266074</isbn>
+         <chapternumber/>
+         <chapterid>ch0001</chapterid>
+         <chaptertitle/>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Alyssa</firstname>
+                  <surname>Eslinger</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Joye</firstname>
+                  <surname>Sears</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc.</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Alyssa</firstname>
+            <surname>Eslinger</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Content</title>
+   <figure float="0" id="cover-image">
+      <title>Cover</title>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Ch0001f03.jpg"/>
+         </imageobject>
+      </mediaobject>
+   </figure>
+   <figure float="0">
+      <title/>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Ch0001f01.jpg"/>
+         </imageobject>
+         <textobject>
+            <phrase>Cover: Companion Animal End of Life Care Guide for the Veterinary Technician, Edited by Alyssa Eslinger and Joye Sears</phrase>
+         </textobject>
+      </mediaobject>
+   </figure>
+</sect1>
