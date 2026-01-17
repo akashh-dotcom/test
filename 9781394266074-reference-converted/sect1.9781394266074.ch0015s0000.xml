@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sect1 id="ch0015s0000">
+<sect1 id="ch0015">
    <sect1info>
       <risinfo>
          <risprev>sect1.9781394266074.</risprev>
@@ -44,19 +44,19 @@
    <para role="chapterAuthorAffiliation">
       <emphasis>Veterinary Technology Program, Dalhousie University, Bible Hill, NS, Canada</emphasis>
    </para>
-   <sect2 id="ch0015s1000">
+   <sect2 id="ch0015s0001">
       <title>5.1 Introduction</title>
       <anchor id="ch0015-head-2-51"/>
       <para id="ch0015-c5-para-0002">Quality of life (QOL) is an important concept in veterinary medicine, particularly in end‐of‐life (EOL) care. Quality of life is most often discussed in the context of EOL decisions, where veterinary technicians are asked “When is the right time to say goodbye?” Effective assessment of QOL supports informed decision‐making on the part of both caregivers and veterinary professionals. Caregivers are also interested in exploring a more holistic view of their pet’s wellbeing outside of EOL consultations<citation>ch0015-c5-bib-0001</citation>. They welcome QOL discussions early and often throughout their pet’s life. Technicians who facilitate these discussions improve the dynamic of the veterinary‐client‐patient relationship (VCPR) and create more opportunities for lifelong positive impacts on QOL.</para>
       <para id="ch0015-c5-para-0003">QOL is complex and goes far beyond physical health and an absence of <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. Its multifaceted nature is difficult to clearly and specifically define, and yet most would say that they have some sense of what it means<citation>ch0015-c5-bib-0002</citation>. While there is no standard definition that is universally accepted, there are common elements between most definitions. The International Association of Animal Hospice and Palliative Care (IAAHPC) bridges these common threads together to define QOL as “the total well‐being of an individual animal, taking into account the physical, social, and emotional components of the animal’s life” <citation>ch0015-c5-bib-0003</citation>. The World Health Organization defines QOL for people “as an individual's perception of their position in life in the context of the culture and value systems in which they live and in relation to their goals, expectations, standards, and concerns” <citation>ch0015-c5-bib-0004</citation>. This raises the discussion that QOL is a subjective experience. How can we evaluate our companion animals’ subjective experience when they cannot communicate directly? We must rely on observations and physical assessments, which is a team effort involving family, caregivers, and veterinary professionals <citation>ch0015-c5-bib-0002</citation>. This chapter will explore the benefits and limitations of QOL assessments, the components that may be included, and examples of existing tools that may be utilized.</para>
    </sect2>
-   <sect2 id="ch0015s2000">
+   <sect2 id="ch0015s0002">
       <title>5.2  Quality‐of‐Life Assessments</title>
       <anchor id="ch0015-head-2-52"/>
       <para id="ch0015-c5-para-0004">The use of QOL assessments is more established in human medicine where they are found to facilitate communication and shared decision making, identify and prioritize problems, and monitor for changes or response to treatment<citation>ch0015-c5-bib-0005</citation>. The use of structured QOL assessments in veterinary medicine helps caregivers feel more involved in their pet’s care and improves communication with the veterinary team. This supports collaboration and shared decision making rather than a more paternalistic veterinary relationship. The use of QOL assessments in veterinary consultations leads to a perception of more individualized care and empowers caregivers to take a more active role in their pet’s care <citation>ch0015-c5-bib-0001</citation>.</para>
       <para id="ch0015-c5-para-0005">QOL assessments can be either disease‐specific or general/holistic. The majority of those published in peer reviewed literature are disease‐specific [<citation>ch0015-c5-bib-0002</citation>, <citation>ch0015-c5-bib-0006</citation>]. This specificity limits their use in animals with multiple disease processes and prevents their introduction into wellness care earlier in life. There is currently no <ulink type="drug" url="link.aspx?id=14640">gold</ulink> standard against which veterinary QOL tools may be validated. Despite the availability of many assessments, there is much work yet to be done to develop and validate tools which can be relied upon in any situation <citation>ch0015-c5-bib-0002</citation>. Without <ulink type="drug" url="link.aspx?id=14640">gold</ulink> standard, or validated tools that are broadly applicable, how can EOL care technicians approach QOL conversations? Firstly, a shift in perspective is helpful. Unvalidated tools can have significant value in supporting caregiver education and communication regarding QOL, including monitoring QOL at home. Some tools may be used as quantitative clinical measures, but caution should be used in interpreting the results. Caregivers should share and discuss the results of QOL assessments with a veterinary professional before making any decisions about medical care or euthanasia. EOL decisions should never be based entirely on a single QOL assessment or made without veterinary input.</para>
    </sect2>
-   <sect2 id="ch0015s3000">
+   <sect2 id="ch0015s0002s0001">
       <title>5.2.1 Effective Use of Quality‐of‐Life Assessments</title>
       <anchor id="ch0015-head-3-46"/>
       <para id="ch0015-c5-para-0006">QOL assessments are a useful tool in EOL decision‐making, but a shift in perspective shows they can be used for much more than that. Implementing QOL assessments well before EOL decisions are made allows them to be powerful tools in helping companion animals to live life to the fullest each day. Regular assessments identify areas where QOL can be improved. They can guide proactive treatment decisions and aid in evaluating the impact of those changes.</para>
@@ -96,12 +96,12 @@
          <anchor id="ch0015-Page_78"/>
          <beginpage pagenum="78"/>A common simplified approach to QOL monitoring is a calendar where family members simply record emoticons to reflect a qualitative global assessment: a happy face for a good day, a neutral face for a day that wasn’t particularly good or bad, and a sad face for a bad day. Any significant events can be quickly noted to help track important information (e.g. good appetite, sore after the dog park, vomited after eating, etc.). The observations collected can prove valuable when re‐evaluating treatment plans and considering euthanasia decisions. Caregivers tend to find this simple approach easier to execute than more complex assessments, making it more likely that they will comply with monitoring QOL daily. This combined approach of simple daily assessments paired with structured use of the more thorough tools offers all members of the family and EOL care team more objective information on which to base treatment and EOL decisions.</para>
    </sect2>
-   <sect2 id="ch0015s4000">
+   <sect2 id="ch0015s0003">
       <title>5.3 Components of Quality‐of‐Life Assessments</title>
       <anchor id="ch0015-head-2-53"/>
       <para id="ch0015-c5-para-0015">The components of QOL that are included in assessments are reflected in the QOL pyramid: physical, social, mental, and emotional wellbeing (see<link linkend="ch0015-c5-fig-0001">Figure 5.1</link>). If technicians are guiding caregivers through a QOL discussion, the pyramid is a good place to start. You may consider beginning by asking caregivers: “What does a good day look like for your pet?.” This open‐ended question will reveal much to the technician, who can then proceed into more specific discussion of the components of QOL.</para>
    </sect2>
-   <sect2 id="ch0015s5000">
+   <sect2 id="ch0015s0003s0001">
       <title>5.3.1 Physical Wellbeing</title>
       <anchor id="ch0015-head-3-47"/>
       <para>When evaluating an EOL patient’s wellbeing, we must first consider the physical elements of QOL. An individual in physical distress such as severe <ulink type="disease" url="link.aspx?id=4522">pain</ulink> is not concerned about their social wellness until their physical wellness has been restored. In human medicine, untreated <ulink type="disease" url="link.aspx?id=4522">pain</ulink> is acknowledged as negatively impacting all aspects of QOL<citation>ch0015-c5-bib-0010</citation>. This is why physical wellbeing forms the base of <anchor id="ch0015-Page_79"/>
@@ -144,7 +144,7 @@
       </itemizedlist>
       <para id="ch0015-c5-para-0017">It is easy to see how the assessment of physical wellbeing can vary between individuals and their circumstances. In EOL care, technicians work with animals who are geriatric and animals with life‐limiting diseases. They are often affected by multiple comorbidities and effective management of disease specific symptoms will look quite different depending on the unique context of the pet and family. QOL can be heavily impacted by how much support is feasible and available. Consider an animal that has pelvic limb muscle <ulink type="disease" url="link.aspx?id=518">atrophy</ulink> from chronic <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink>. Their mobility may be impaired in a way that interferes with normal toileting postures. If they were without support, they would struggle to urinate or defecate without soiling themselves and this could <ulink type="drug" url="link.aspx?id=14726">lead</ulink> to chronic hygiene issues such as urine scalding and <ulink type="disease" url="link.aspx?id=1444">dermatitis</ulink> or even <ulink type="disease" url="link.aspx?id=4090">maggot infestation</ulink> and <ulink type="disease" url="link.aspx?id=4156">necrosis</ulink>. This would certainly be a QOL concern. If that same animal has mobility aids and caregiver support, they may be able to eliminate without soiling themselves or at least have the chance to be cleaned by their caregiver. Thus, two patients with similar physical challenges may be assessed as having an entirely different QOL based on their circumstances. If a QOL assessment raises concerns about physical wellbeing, then consideration must be given to whether that concern can be adequately addressed by the caregiver and EOL care team.</para>
    </sect2>
-   <sect2 id="ch0015s6000">
+   <sect2 id="ch0015s0003s0002">
       <title>5.3.2 Social Wellbeing and Mental Stimulation</title>
       <anchor id="ch0015-head-3-48"/>
       <para id="ch0015-c5-para-0018">Once an animal’s physical needs are addressed, we may begin to consider their social and mental wellbeing. Increased social interaction or withdrawal from social interaction can both indicate a change in QOL for a pet. As discussed in<ulink url="ch0012">Chapter 2</ulink>, behavioral changes are the most common indicator of <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, but they may also indicate other types of discomfort or <ulink type="disease" url="link.aspx?id=5714">stress</ulink>. Pets that are normally quite solitary and are suddenly seeking increased attention should be evaluated, as well as pets that withdraw from their normal level of social interaction.</para>
@@ -152,7 +152,7 @@
       <para id="ch0015-c5-para-0020">Social and mental stimulation can be highly impactful on QOL, especially for animals with limited mobility (and reduced autonomy) due to their health status.<ulink url="ch0013">Chapters 3</ulink> and <ulink url="ch0014">4</ulink> discussed strategies to adjust activities for pets with limited mobility to ensure they are staying mentally engaged. This could be going on car rides or wagon rides instead of walks, or going out in a backpack made for pets. New scents, sounds, textures, and tastes can be introduced to stimulate a pet’s mind. Interactive feeding toys may be used where the pet is able to manage the interaction required to receive the rewards. Small amounts of training can aid in engagement. Mental stimulation can sometimes be as simple as ensuring access to a window to watch wildlife, nature, people, and pets <anchor id="ch0015-Page_80"/>
          <beginpage pagenum="80"/>outside the home. Caregivers will know their pet’s personality and preferences the best and can collaborate with technicians to brainstorm manageable ways to adjust their routine to support both social and mental stimulation.</para>
    </sect2>
-   <sect2 id="ch0015s7000">
+   <sect2 id="ch0015s0003s0003">
       <title>5.3.3 Emotional Wellbeing and Autonomy</title>
       <anchor id="ch0015-head-3-49"/>
       <para>When we consider what makes an animal’s life worth living, we must give thought to their autonomy. Their ability to express and act upon their needs and preferences should be considered as contributing to their dignity and will to live, even if they cannot express this directly. Stressors beyond those physically apparent may impact animals’ emotional wellbeing and should be identified and managed where possible. This may seem less straightforward than with the first two levels of the QOL pyramid. To help evaluate an EOL pet’s emotional wellbeing, technicians may ask caregivers questions similar to those below.</para>
@@ -171,27 +171,27 @@
          </listitem>
       </itemizedlist>
    </sect2>
-   <sect2 id="ch0015s8000">
+   <sect2 id="ch0015s0003s0004">
       <title>5.3.4 Other Considerations</title>
       <anchor id="ch0015-head-3-50"/>
-      <sect3 id="ch0015s8100">
+      <sect3 id="ch0015s0003s0004s0001">
          <title>5.3.4.1 Global Score</title>
          <anchor id="ch0015-head-4-8"/>
          <para id="ch0015-c5-para-0022">QOL assessments may include some form of global score. This is the caregiver’s subjective perception of the pet’s overall QOL. They may be asked to report QOL on a scale out of 10, select from a range of descriptions (i.e. poor to excellent QOL), or place a mark on a visual scale (e.g. a horizontal line with poor QOL at one end and excellent QOL at the other). Some research shows correlations between global scores and overall outcomes of QOL assessments, but other studies failed to find these correlations. Thus, the reliability of global scores is in question [<citation>ch0015-c5-bib-0002</citation>, <citation>ch0015-c5-bib-0011</citation>, <citation>ch0015-c5-bib-0012</citation>]. Veterinary teams may still find value in ascertaining their clients’ perspective on this overall assessment. For instance, it could be useful to ask for the global score before a client goes through a detailed assessment to compare if the score changes after completing the assessment.</para>
       </sect3>
-      <sect3 id="ch0015s8200">
+      <sect3 id="ch0015s0003s0004s0002">
          <title>5.3.4.2 Caregiver Burden</title>
          <anchor id="ch0015-head-4-9"/>
          <para id="ch0015-c5-para-0023">The ability of an owner to care for their EOL pet and the impact that caring effort has on their own QOL is a crucial consideration in EOL treatment and euthanasia decisions. Caregiver burden will be examined further in<ulink url="ch0019">Chapter 8</ulink>. Some QOL tools include an assessment of caregiver concerns, which may help stimulate discussion around these issues and perhaps alleviate some guilt and shame that may accompany them. Technicians can build a rapport that allows caregivers to feel comfortable in sharing concerns about caregiving burden.</para>
       </sect3>
    </sect2>
-   <sect2 id="ch0015s9000">
+   <sect2 id="ch0015s0004">
       <title>5.4 Selected Quality‐of‐Life Assessment Tools</title>
       <anchor id="ch0015-head-2-54"/>
       <para id="ch0015-c5-para-0024">The multi‐faceted and subjective nature of QOL has contributed to the lack of standardized assessment tools. Lacking <ulink type="drug" url="link.aspx?id=14640">gold</ulink> standard, validated tools that are broadly applicable, veterinary professionals will vary in their approach to QOL assessments. This section will focus on general<anchor id="ch0015-Page_81"/>
          <beginpage pagenum="81"/>assessments that can be used in both healthy and ill animals and excludes more narrow disease‐specific tools. Tools should be selected in such a way as to provide the veterinary team with a balanced view of QOL, without intimidating or overwhelming the caregiver with the format or content.</para>
    </sect2>
-   <sect2 id="ch0015s9000">
+   <sect2 id="ch0015s0004s0001">
       <title>5.4.1 Selected Quality‐of‐Life Assessments</title>
       <anchor id="ch0015-head-3-51"/>
       <para id="ch0015-c5-para-0025">
@@ -358,7 +358,7 @@
          </mediaobject>
       </figure>
    </sect2>
-   <sect2 id="ch0015s9000">
+   <sect2 id="ch0015s0004s0002">
       <title>5.4.2 Individualized Quality‐of‐Life Questionnaire</title>
       <anchor id="ch0015-head-3-52"/>
       <para id="ch0015-c5-para-0055">
@@ -383,7 +383,7 @@
          </mediaobject>
       </figure>
    </sect2>
-   <sect2 id="ch0015s9000">
+   <sect2 id="ch0015s0005">
       <title>5.5 Role of Telemedicine</title>
       <anchor id="ch0015-head-2-55"/>
       <para id="ch0015-c5-para-0056">As discussed in<ulink url="ch0011">Chapter 1</ulink>, telehealth or telemedicine can play a valuable role in EOL care and supporting QOL consultations is certainly an example of this. Telemedicine QOL consultations can occur prior to, or as a follow‐up to an in person visit. Technicians with appropriate knowledge and training can engage in these consultations as part of an effective EOL care team, thereby increasing caregiver access to support and improving the <ulink type="disease" url="link.aspx?id=10423">efficiency</ulink> of the team. Within an existing VCPR, telemedicine QOL consults can be used to assess response to treatment and <ulink type="disease" url="link.aspx?id=8107">disease progression</ulink>, trigger treatment plan re‐evaluation by the veterinarian, and to discuss EOL planning. Telemedicine <anchor id="ch0015-Page_86"/>
@@ -392,13 +392,13 @@
          <beginpage pagenum="87"/>steps (e.g. booking euthanasia, hospice consultation, etc.). Telemedicine QOL consultations outside of a VCPR should still be accompanied by a medical record so that the details of the discussion are recorded for future reference or to provide to the regular veterinarian. When engaging in telemedicine QOL consultations, technicians can take multiple approaches. Caregivers that have already established a VCPR and have already used assessment tools might just need some discussion about their results. Caregivers consulting about QOL for the first time might prefer to have tools provided in advance to work through independently and then follow‐up with the technician later (it is recommended to set a plan for this follow‐up). Technicians should consider talking caregivers through a chosen assessment for the first time together while they are on the call. EOL care teams might develop a template of QOL related questions they can work through verbally and document the caregiver’s responses. Teams will benefit from the development of a protocol to support a consistent approach to QOL consultation.</para>
       <para id="ch0015-c5-para-0058">Formalizing a process to offer telemedicine QOL consultations is beneficial on a number of levels. Monetizing this service allows personnel to schedule time for it and invest more energy into these consultations, which is recognized by clients. Attaching revenue to this service allows it to become a sustainable and growing part of the practice. Clients wishing for devoted time and attention via telemedicine typically understand the need to pay for this service and are appreciative of the option being offered.</para>
    </sect2>
-   <sect2 id="ch0015s9000">
+   <sect2 id="ch0015s0006">
       <title>5.6 Large Animal and Exotics Considerations</title>
       <anchor id="ch0015-head-2-56"/>
       <para id="ch0015-c5-para-0059">Many species may be considered companions by their caregivers. While our focus in this guide is on canine and feline companions, we would be remiss not to include some mention of large animals and exotic or alternative pets. When developing or selecting a QOL tool for use in another species, the QOL pyramid may be used to assess whether the included items effectively cover an appropriate breadth of QOL considerations.</para>
       <para id="ch0015-c5-para-0060">Another framework that may be considered for evaluating QOL is the Five Domains of Animal Welfare: nutrition, health, physical environment, behavioral interactions, and mental state<citation>ch0015-c5-bib-0020</citation>. This framework has been applied to many species including but not limited to horses, cattle, birds, rodents, rabbits, dogs, cats, reptiles, amphibians and fish. While the Five Domains has historically been used to assess animal welfare in research, testing and teaching, the focus on ensuring that animals <ulink type="drug" url="link.aspx?id=14726">lead</ulink> “a life worth living” aligns well with the goals of improving or maintain QOL in EOL care <citation>ch0015-c5-bib-0020</citation>. The personalized QOL questionnaire included in Section 5.4 can also be considered when working with a variety of species as it can be tailored to that individual’s preferences and routine within their species‐specific behaviors. The author has supported caregivers in customizing the questionnaire to companions such as rabbits, rats, hedgehogs, guinea pigs, alpacas, chameleons, bearded dragons, and chickens.</para>
    </sect2>
-   <sect2 id="ch0015s9000">
+   <sect2 id="ch0015s0007">
       <title>5.7 Takeaways</title>
       <anchor id="ch0015-head-2-57"/>
       <itemizedlist id="ch0015-c5-list-0010">
@@ -421,7 +421,7 @@
          </listitem>
       </itemizedlist>
    </sect2>
-   <sect2 id="ch0015s9000">
+   <sect2 id="ch0015s0008">
       <title>References</title>
       <anchor id="ch0015-head-2-58"/>
       <orderedlist continuation="restarts" inheritnum="ignore" role="biblioEntryList">
