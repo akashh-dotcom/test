@@ -243,8 +243,7 @@
             </tbody>
          </tgroup>
       </table>
-   </sect2>
-   <sect2 id="ch0011s0004s0001">
+   <sect3 id="ch0011s0004s0001">
       <title>1.4.1 Role of Veterinary Technicians</title>
       <anchor id="ch0011-head-3-1"/>
       <para>Veterinary technicians have the skills and knowledge to engage in a variety of key roles in an EOL care IDT:</para>
@@ -274,8 +273,8 @@
                <emphasis role="strong">Lifelong learning and leadership:</emphasis> Engaging in EOL continuing education and helping to educate other members of the IDT</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0011s0004s0002">
+   </sect3>
+   <sect3 id="ch0011s0004s0002">
       <title>1.4.2 Role of Veterinary Social Workers</title>
       <anchor id="ch0011-head-3-2"/>
       <para>Veterinary social workers are emerging as key members of IDTs in many settings from general practice to referral and <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> facilities. These professionals are invaluable in EOL care and should ideally form the core of the IDT alongside veterinarians and technicians. Veterinary social workers can aid the team in many ways including, but not limited to:</para>
@@ -305,12 +304,13 @@
          <para id="ch0011-c1-para-0045">Veterinary social workers are key members of EOL care teams. Their presence in a team can improve patient outcomes, caregiver satisfaction, and client relationships as well as reducing professional burnout and improving veterinary team <ulink type="disease" url="link.aspx?id=10423">efficiency</ulink> in the face of workforce shortages.</para>
          <para id="ch0011-c1-para-0046">If your veterinary practice does not employ a social worker, try to identify one in your area with an interest in veterinary social work. Ask what services they provide and whether you would be able to refer clients to them when needed.</para>
       </sidebar>
-   </sect2>
-   <sect2 id="ch0011s0004s0003">
+   </sect3>
+   <sect3 id="ch0011s0004s0003">
       <title>1.4.3 Effective Use of Interdisciplinary Teams</title>
       <anchor id="ch0011-head-3-3"/>
       <para id="ch0011-c1-para-0047">The benefits of an IDT can be limited by the availability of other partners and professionals in the community, the finances required to engage with these services, and challenges with ineffective communication between parties<citation>ch0011-c1-bib-0004</citation>. To be effective, members of an IDT must actively and continuously communicate and collaborate to integrate the care and service provided to the patient unit. This goes well beyond making notes in medical records. One example of effective IDT communication is a technician sending a letter to an <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> clinic outlining the patient history, treatment plan, and goals of care in the event that they are transferred to that facility. Another example would be a technician having a phone conversation with a kennel to discuss the nursing requirements of an EOL patient that will be staying with them.</para>
       <para id="ch0011-c1-para-0048">The members of an IDT within a veterinary facility will meet routinely (weekly is suggested) to discuss new cases, provide patient updates, and debrief on recent deaths. This practice keeps team members informed, encourages active reflection, and presents opportunities to identify areas for improvement (i.e. debriefing on protocols, procedures, communication strategies, and more).</para>
+   </sect3>
    </sect2>
    <sect2 id="ch0011s0005">
       <title>1.5 Hospice Care Approach</title>
@@ -363,8 +363,7 @@
       </para>
       <para id="ch0011-c1-para-0057">Many clients are unaware of the possibilities for AHPC for their pets. They rely on their veterinary teams to guide them, so it is important that AHPC alternatives and home care are discussed as options, even if it is not available through their regular veterinarian. Existing veterinary facilities may refer to other mobile services when requested for home visits, including euthanasia. This is a common way to provide flexibility and options to families beyond what the facility has the capacity to offer. As AHPC becomes more prominent as its own specialized field within veterinary medicine, more clients are seeking flexibility and options, and more veterinary professionals are interested in providing these options. An existing veterinary facility may establish its own mobile unit to expand the EOL care services it offers to include home care. This could be limited to home euthanasia or could be expanded to include home hospice consultations and care plans (seePro Tip 1.3 and 1.4).</para>
       <para id="ch0011-c1-para-0059">A veterinary facility seeking to offer more dedicated EOL care services must consider how it will handle <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> calls. Is the facility already open 24 hours a day and 7 days a week, or will the hospice clients have access to an on‐call member of the veterinary team? Will hospice clients be expected to contact an <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> facility outside of regular business hours? How will clients be supported if the hospice veterinarian is away? Is there another EOL care service in that area that can act as a partner to cover periods of absence?</para>
-   </sect2>
-   <sect2 id="ch0011s0006s0001">
+   <sect3 id="ch0011s0006s0001">
       <title>1.6.1 Role of Telemedicine</title>
       <anchor id="ch0011-head-3-4"/>
       <para>Telemedicine, or telehealth, can be a powerful tool to support caregivers and pets, but it must be used cautiously to ensure proper establishment and maintenance of the veterinary–client–patient relationship (VCPR). Telemedicine can be used in many ways:</para>
@@ -462,8 +461,8 @@ Cloud‐based medical records are highly useful when offering mobile care.
          <para id="ch0011-c1-para-0065">Telemedicine consultations provide valuable connections between caregivers and the veterinary team, particularly for offering QOL consultation and support advanced hospice caregivers. Clients recognize the value of this service and the need for compensation to support its sustainability within a veterinary business.</para>
          <para id="ch0011-c1-para-0066">Identify a fee structure that allows the time devoted to telemedicine for your EOL care clients to be a sustainable part of your practice. Communicate clearly about fees in advance to prevent <ulink type="disease" url="link.aspx?id=1220">confusion</ulink> or conflict over costs.</para>
       </sidebar>
-   </sect2>
-   <sect2 id="ch0011s0006s0002">
+   </sect3>
+   <sect3 id="ch0011s0006s0002">
       <title>1.6.2 Informed Consent and Liability Considerations</title>
       <anchor id="ch0011-head-3-5"/>
       <para id="ch0011-c1-para-0067">The delivery of comprehensive animal hospice care can present some additional challenges compared to more traditional veterinary practice. Unique liability concerns must be considered (e.g. dispensing of controlled drugs for use at home) and detailed documentation of informed consent is recommended (i.e. hospice‐supported natural death). Many of the challenges that can arise in EOL care are prevented or proactively managed with clear communication regarding caregiver expectations, roles, and responsibilities, and the limitations and professional boundaries of the veterinary team.</para>
@@ -491,6 +490,7 @@ Cloud‐based medical records are highly useful when offering mobile care.
             <para>A provision for termination of the veterinary‐client‐patient relationship if the veterinary team and client are unable to agree on an ethical course of action</para>
          </listitem>
       </itemizedlist>
+   </sect3>
    </sect2>
    <sect2 id="ch0011s0007">
       <title>1.7 Takeaways</title>

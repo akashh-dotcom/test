@@ -57,8 +57,7 @@
       <title>9.2 Animal Experience of Dying</title>
       <anchor id="ch0020-head-2-109"/>
       <para id="ch0020-c9-para-0006">Death is a process that varies between individuals. There are many changes that can signal the start of the process days or even weeks prior to the moment of death. As the body’s systems begin to fail, there is a transition from attempting to maintain homeostasis to progressive loss of function. The appearance of this will change depending on the underlying disease processes affecting the individual. For example, an animal undergoing <ulink type="disease" url="link.aspx?id=2608">congestive heart failure</ulink> (CHF) will present with signs relating to poor circulation and insufficient tissue oxygenation, whereas an animal succumbing to <ulink type="disease" url="link.aspx?id=7478">kidney failure</ulink> will present with signs associated with <ulink type="disease" url="link.aspx?id=6234">uremia</ulink> and <ulink type="disease" url="link.aspx?id=1400">dehydration</ulink>. The dying process presents differently in each of these animals but in both cases will culminate in cardiovascular collapse and physical signs that indicate a catastrophic failure of <ulink type="drug" url="link.aspx?id=13108">oxygen</ulink> delivery to tissue.</para>
-   </sect2>
-   <sect2 id="ch0019s0002s0001">
+   <sect3 id="ch0019s0002s0001">
       <title>9.2.1 Signs of Dying</title>
       <anchor id="ch0020-head-3-82"/>
       <para id="ch0020-c9-para-0007">Literature on the process of dying is lacking in veterinary medicine. When it comes to a description of the expected physical and behavioral changes, many refer to Gail Pope’s “Soar, My Butterfly: The Animal Dying Experience.”<citation>ch0020-c9-bib-0001</citation> Pope is the founder of the BrightHaven Center for Animal Rescue, Hospice, and Holistic Education, which cared for over 600 animals from 1990 to 2018. While Pope is not a veterinary professional, their extensive amount of experience supporting animals through death has allowed them to observe and communicate what may be expected during an animal’s experience of dying. In educating caregivers, EOL care teams may refer to “Soar, My Butterfly” and pair it with more specific information related to the individual animal’s diagnoses and expected <ulink type="disease" url="link.aspx?id=8107">disease progression</ulink>.</para>
@@ -151,8 +150,8 @@
          <anchor id="ch0020-head-2-110"/>
          <para id="ch0020-c9-para-0028">Caregivers may have planned a euthanasia procedure and then question that decision when their pet appears to have suddenly improved with more activity, energy, and engagement than they have seen in a long while. The veterinary team can help determine if this is a genuine improvement in the pet, or if this is in fact a sign of the advanced stage of the dying process (see<link linkend="ch0020-c9-tbl-0001">Table 9.1</link>). If so, this period of activity, energy, and engagement may be seen as a blessing in the context of a meaningful EOL transition, rather than a reason to question the euthanasia decision or timing.</para>
       </sidebar>
-   </sect2>
-   <sect2 id="ch0019s0002s0002">
+   </sect3>
+   <sect3 id="ch0019s0002s0002">
       <title>9.2.2 Signs of Death</title>
       <anchor id="ch0020-head-3-83"/>
       <para>In addition to describing the signs associated with the stages of dying, Pope’s “Soar, My Butterfly” also describes overarching patterns that may be observed as animals move through the process<citation>ch0020-c9-bib-0001</citation>. These patterns of dying may be described as follows:</para>
@@ -192,6 +191,7 @@
             </tbody>
          </tgroup>
       </table>
+   </sect3>
    </sect2>
    <sect2 id="ch0019s0003">
       <title>9.3 Natural Death vs Hospice‐Supported Natural Death</title>
@@ -328,8 +328,7 @@
       <anchor id="ch0020-head-2-119"/>
       <para id="ch0020-c9-para-0061">Discussing hospice‐supported natural death with caregivers requires the technician to understand what nursing an animal through the dying process might entail. This allows technicians to educate caregivers during decision‐making and empower them to be active members of the EOL care team during the dying process. Nursing an animal through hospice‐supported natural death can involve many palliative strategies. Some will be more specific to the underlying disease processes, and some will be more focused on general comfort. Palliative considerations in dying patients include <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and anxiety management, general comfort and hygiene, and fluid and nutrition management.</para>
       <para id="ch0020-c9-para-0062">The strategies for nursing dying patients described below can be initiated by the technician, but many can also be maintained by the caregivers if they are able, willing, and properly educated by the veterinary team.</para>
-   </sect2>
-   <sect2 id="ch0019s0006s0001">
+   <sect3 id="ch0019s0006s0001">
       <title>9.6.1 Environment and General Comfort</title>
       <anchor id="ch0020-head-3-84"/>
       <para>The environment can have a significant impact on a dying patient’s experience and quality of dying. Careful consideration of the environment may offer comfort to the patient and support a calm and peaceful surroundings for the people and animals attending the death. Attention to physical comfort should be continued through the dying process, using many of the palliative nursing strategies discussed in<ulink url="ch0014">Chapter 4</ulink>.</para>
@@ -353,8 +352,8 @@
             <para>Gently attend to hygiene and grooming as needed for comfort (e.g. removing matted fur, cleaning irritated ears, cleaning soiled skin and fur, regularly changing pee pads).</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0019s0006s0002">
+   </sect3>
+   <sect3 id="ch0019s0006s0002">
       <title>9.6.2 Anxiety</title>
       <anchor id="ch0020-head-3-85"/>
       <para>Anxiety management was covered in<ulink url="ch0014">Chapter 4</ulink> but is included here to contextualize palliative strategies in dying patients. Cognitive changes that resemble terminal <ulink type="disease" url="link.aspx?id=1402">delirium</ulink> in people can be a significant cause of anxiety during dying and may require intervention to maintain quality of dying.</para>
@@ -372,8 +371,8 @@
             <para>If anxiety is caused by a physical concern (such as respiratory distress), further intervention may be required such as veterinarian prescribed palliative sedation (e.g. <ulink type="drug" url="link.aspx?id=12198">midazolam</ulink> + opioid).</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0019s0006s0003">
+   </sect3>
+   <sect3 id="ch0019s0006s0003">
       <title>9.6.3 Pain</title>
       <anchor id="ch0020-head-3-86"/>
       <para>Pain management was discussed in<ulink url="ch0013">Chapter 3</ulink> and thus is only mentioned briefly for special consideration within the dying process.</para>
@@ -391,12 +390,13 @@
          <anchor id="ch0020-head-2-120"/>
          <para id="ch0020-c9-para-0068">Experts in human hospice report that <ulink type="disease" url="link.aspx?id=5683">starvation</ulink> and <ulink type="disease" url="link.aspx?id=1400">dehydration</ulink> at the EOL stimulate the release of endorphins – the body’s endogenous opioids<citation>ch0020-c9-bib-0006</citation>. Because of this, <ulink type="disease" url="link.aspx?id=5683">starvation</ulink> and <ulink type="disease" url="link.aspx?id=1401">dehydration</ulink> at the EOL may contribute to a feeling of euphoria that could be beneficial for a dying animal. Communicating this to caregivers may help manage anxiety around accepting a lack of nutrition and hydration support. Food is often used to express affection, so caregivers may be gently guided towards other ways to show their love.</para>
       </sidebar>
-   </sect2>
-   <sect2 id="ch0019s0006s0004">
+   </sect3>
+   <sect3 id="ch0019s0006s0004">
       <title>9.6.4 Nutrition and Fluids</title>
       <anchor id="ch0020-head-3-87"/>
       <para id="ch0020-c9-para-0066">As animals progress through the dying process, it is normal for food and <ulink type="drug" url="link.aspx?id=15160">water</ulink> intake to decrease and eventually cease. As the body begins to shut down and transition away from survival and into dying, nutrition is no longer necessary and can actually cause distress! If food is forced into a gastrointestinal tract that is shutting down, it can create an uncomfortable and potentially even dangerous situation. Dying animals that are refusing food should have that refusal respected (<link linkend="ch0020-c9-fea-0007">Pro Tip 9.5</link>), unless there is an apparent underlying disease explanation that can be easily managed such as treating <ulink type="disease" url="link.aspx?id=4151">nausea</ulink> with antiemetics.</para>
       <para id="ch0020-c9-para-0067">Fluid support can be maintained throughout much of hospice‐supported death if the caregivers and the veterinary team determine that it is important for comfort. As signs of active dying progress, fluids should be weaned off (<link linkend="ch0020-c9-fea-0007">Pro Tip 9.5</link>). Fluids should also be weaned if the body is showing any signs of <ulink type="disease" url="link.aspx?id=1719">edema</ulink>. Oral fluid intake must be voluntary on the part of the animal, and any parenteral fluid support must be under the instruction of the veterinarian to ensure appropriate volumes are given to avoid increased risk of <ulink type="disease" url="link.aspx?id=10256">edema</ulink>. The details of fluid therapy will need to be prescribed by the veterinarian, by the technician can advocate for the patient and educate the client about the role of fluid therapy at death.</para>
+   </sect3>
    </sect2>
    <sect2 id="ch0019s0007">
       <title>9.7 Takeaways</title>
