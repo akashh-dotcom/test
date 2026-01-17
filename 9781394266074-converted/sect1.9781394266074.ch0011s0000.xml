@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0011s0000">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394266074.</risprev>
+         <riscurrent>sect1.9781394266074.ch0011s0000</riscurrent>
+         <risnext>sect1.9781394266074.</risnext>
+         <booktitle>Companion Animal End of Life Care for the Veterinary Technician</booktitle>
+         <isbn>9781394266074</isbn>
+         <chapternumber/>
+         <chapterid>ch0011</chapterid>
+         <chaptertitle/>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Alyssa</firstname>
+                  <surname>Eslinger</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Joye</firstname>
+                  <surname>Sears</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc.</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Alyssa</firstname>
+            <surname>Eslinger</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>1 Introduction to Animal Hospice and Palliative Care</title>
+   <anchor id="ch0011-c01_1"/>
+   <para role="chapterAuthor">
+      <emphasis>Alyssa Eslinger</emphasis>
+   </para>
+   <para role="chapterAuthorAffiliation">
+      <emphasis>Veterinary Technology Program, Dalhousie University, Bible Hill, NS, Canada</emphasis>
+   </para>
+   <sect2 id="ch0011s1000">
+      <title>1.1 Introduction</title>
+      <anchor id="ch0011-head-2-1"/>
+      <para id="ch0011-c1-para-0003">The foundational philosophy of animal hospice and palliative care (AHPC) requires a perspective shift from traditional veterinary practice. It is more often about the approach to care than specific medicine and nursing techniques. Animal hospice embraces life in the face of death such that dying patients and their loved ones live life to the fullest until the moment of death. Animal hospice aims to improve and maintain quality of life (QOL) throughout the end‐of‐life (EOL) journey while also supporting the human–animal bond. This continues until the time of death and beyond, with a focus on quality of dying and a meaningful EOL transition for the animal and their loved ones.</para>
+      <para id="ch0011-c1-para-0004">EOL care has always been a part of veterinary medicine, but it is relatively recent that AHPC has emerged as a dedicated area of study and practice. The roots of human hospice date back centuries, and modern human hospice has its origins in the 1960s. By contrast, AHPC is a young discipline, beginning in the 1980s<citation>ch0011-c1-bib-0001</citation> with 2009 marking the founding of the International Association of Animal Hospice and Palliative Care (IAAHPC). The IAAHPC offers certification for both veterinarians and technicians and is making efforts toward establishing AHPC as a recognized veterinary specialty.</para>
+      <para id="ch0011-c1-para-0005">The effective provision of AHPC not only improves animal QOL and supports the human–animal bond, it also reduces caregiver decisional regret at EOL. Animal hospice or EOL care offers an opportunity to bridge the gap between care provided at a veterinary facility and the potential for inadequate treatment at home or premature euthanasia due to a lack of other options<citation>ch0011-c1-bib-0001</citation>. Hospice‐supported natural death can also be offered as an alternative to euthanasia with appropriate veterinary supervision (see <ulink url="ch0020">Chapter 9</ulink>). Caregivers may feel abandoned by their veterinary teams if there is a perceived lack of treatment alternatives discussed beyond aggressive treatment and/or euthanasia <citation>ch0011-c1-bib-0002</citation>. They are often unaware of the possibilities of animal hospice, home‐based care, and hospice‐supported natural death. Offering caregivers more options and more support during the EOL period allows families to feel more in control of an unpredictable situation and remain more connected with their pet during this meaningful time.</para>
+   </sect2>
+   <sect2 id="ch0011s2000">
+      <title>1.2 Terminology and Definitions</title>
+      <anchor id="ch0011-head-2-2"/>
+      <para id="ch0011-c1-para-0006">Hospice and palliative care are inseparable within the context of EOL care, but they are defined differently.<emphasis>Hospice</emphasis> is the care provided from the time of a terminal diagnosis through to the time of death, including support for the caregiver after death. <emphasis>Palliative care</emphasis> is simply the provision of non‐curative therapies that improve patient comfort. It can be offered to any patient experiencing any type of discomfort and is not restricted to EOL patients (<link linkend="ch0011-c1-fea-0001">Pro Tip 1.1</link>). Technicians should be mindful that misconceptions about the nature of palliative care will be common among caregivers (<link linkend="ch0011-c1-fea-0002">Communication Corner 1.1</link>).</para>
+      <para id="ch0011-c1-line-0008">
+         <emphasis>You can offer palliative care without hospice,</emphasis>
+      </para>
+      <para id="ch0011-c1-line-0009">
+         <emphasis>but you cannot offer hospice without palliative care</emphasis>.</para>
+      <para id="ch0011-c1-para-0014">The terms hospice and EOL care will be used interchangeably throughout this guide. It includes palliative care, hospice‐supported natural death or humane euthanasia, body care, memorialization, and grief support. In addition to prioritizing patient welfare and QOL, hospice also considers the caregiver’s needs and values. A peaceful and smooth euthanasia may be a goal for many caregivers, but it is not the ultimate measure of successful EOL care. It may be one of the goals for a particular patient, but the ultimate successful outcome is a caregiver who feels no regret in the wake of their beloved animal’s death.</para>
+      <para id="ch0011-c1-para-0015">There can be conflict at times between the caregiver’s perspectives and desires and the animal’s welfare, but hospice does not involve prolonging the life of the animal to help the caregiver avoid processing their grief. Hospice can involve veterinarian‐supervised, hospice‐supported natural death where euthanasia is always available if required for animal welfare<citation>ch0011-c1-bib-0001</citation>. However, it must be understood that hospice does not involve natural death without supervision or intervention.</para>
+      <sidebar id="ch0011-c1-fea-0001">
+         <title>Pro Tip 1.1 Palliative Care Outside of Hospice</title>
+         <anchor id="ch0011-head-2-3"/>
+         <para>The focus of this guide is EOL care, but many of the nursing strategies discussed in Part I may be effectively applied in a palliative care program for patients that are not at the end of their life.</para>
+         <itemizedlist id="ch0011-c1-list-0001" role="none">
+            <listitem id="ch0011-c1-li-0001">
+               <para>
+                  <emphasis>Case 1</emphasis>: A horse receiving massage therapy, acupuncture and <ulink type="disease" url="link.aspx?id=4522">pain</ulink> medication while awaiting surgery for a torn ligament is receiving palliative care. Neither the massage nor the <ulink type="disease" url="link.aspx?id=4523">pain</ulink> medication will cure the torn ligament, but both improve the patient’s comfort pre‐ and postoperatively.</para>
+            </listitem>
+            <listitem id="ch0011-c1-li-0002">
+               <para>
+                  <emphasis>Case 2</emphasis>: An overweight cat may struggle to groom itself and experience matting of the fur, fecal balls or urine scald around its perineal region. Grooming and hygiene management for this cat would be appropriate palliative care while a weight management program seeks to address the underlying problem.</para>
+            </listitem>
+            <listitem id="ch0011-c1-li-0003">
+               <para>
+                  <emphasis>Case 3</emphasis>: A miniature dachshund with hind end <ulink type="disease" url="link.aspx?id=4622">paresis</ulink> secondary to intervertebral disc disease has an improved QOL with the use of a wheelchair for mobility and physiotherapy to preserve muscle mass and nerve function.</para>
+            </listitem>
+         </itemizedlist>
+         <para id="ch0011-c1-para-0013">Consider palliative care options in every patient’s individualized care. Technicians are important advocates for animals’ QOL.</para>
+      </sidebar>
+      <para>
+         <anchor id="ch0011-Page_5"/>
+         <beginpage pagenum="5"/>
+      </para>
+      <sidebar id="ch0011-c1-fea-0002">
+         <title>Communication Corner 1.1 Palliative Care Misconceptions</title>
+         <anchor id="ch0011-head-2-4"/>
+         <para>Be mindful and intentional when using the word<emphasis>palliative</emphasis> outside of EOL care. Many people immediately associate this word with terminal illness, even though it is not defined that way. Offer appropriate explanation and context to avoid triggering negative responses unnecessarily.</para>
+         <itemizedlist id="ch0011-c1-list-0002" role="none">
+            <listitem id="ch0011-c1-li-0004">
+               <para>Example: “Many people associate the word palliative with end of life, but it just means to provide comfort care. Your pet is not at the end of their life but is an excellent candidate for palliative care to improve and maintain their quality of life.”</para>
+            </listitem>
+         </itemizedlist>
+      </sidebar>
+      <blockquote role="extract">
+         <para id="ch0011-c1-para-0017" role="center">
+            <emphasis>A successful outcome in EOL care is supporting quality of life through to quality of dying in such a manner that patient welfare is attended throughoutand caregivers experience no decisional regret</emphasis>.</para>
+      </blockquote>
+   </sect2>
+   <sect2 id="ch0011s3000">
+      <title>1.3 Psychosocial Considerations</title>
+      <anchor id="ch0011-head-2-5"/>
+      <para id="ch0011-c1-para-0020">In hospice care, the patient unit includes not just the animal, but also its caregivers. While the needs and welfare of the animal patient are always the first priority, the needs and values of the caregivers are also thoroughly explored and prioritized. This consideration of the caregiver’s perspective is key to a shared decision‐making paradigm. The EOL care team and caregivers are partners who share information and determine the appropriate course of action together (seeSection 1.4). The ideal treatment plan is of no use if the caregivers are not able to implement and maintain the plan. <link linkend="ch0011-c1-tbl-0001">Table 1.1</link> will help guide technicians through the exploration of the caregiver’s perspective, which will help inform the veterinarian’s individualized care plan.</para>
+      <para id="ch0011-c1-para-0032">Caregivers experience a burden of care when supporting their EOL companion animals that can have a significant impact on their own QOL. This burden can be complicated by guilt when a caregiver’s psychosocial concerns impact their ability to care for their pet. Caregivers often experience guilt when they have to make treatment decisions based on their lifestyle and resources rather than purely based on the needs and welfare of their pet. Offering caregivers the opportunity to express their concerns and limitations may help address any guilt about how psychosocial factors must inform treatment choices. Factoring caregiver burden into EOL decision making will be discussed in<ulink url="ch0019">Chapter 8</ulink>.</para>
+   </sect2>
+   <sect2 id="ch0011s4000">
+      <title>1.4 The Interdisciplinary Team</title>
+      <anchor id="ch0011-head-2-6"/>
+      <para id="ch0011-c1-para-0033">Veterinary professionals involved in EOL care provide better care for animals and caregivers when they are part of a larger team. The medical needs of the animal and the emotional support needs of the family can be diverse and complex. No one has the capacity or knowledge to be everything to everyone. The establishment of an<emphasis>interdisciplinary team</emphasis> (IDT) can improve the care provided to animals and families while also reducing burnout and empathic <ulink type="disease" url="link.aspx?id=5669">strain</ulink> in EOL care professionals <citation>ch0011-c1-bib-0003</citation>. (Empathic <ulink type="disease" url="link.aspx?id=5669">strain</ulink> will be discussed in detail in <ulink url="ch0031">Chapter 17</ulink>.)</para>
+      <para id="ch0011-c1-tbl-0001">
+         <phrase role="figureLabel">
+            <phrase role="color1">
+               <emphasis role="strong">Table 1.1</emphasis>
+            </phrase>
+         </phrase> Caregiver psychosocial considerations.
+</para>
+      <table>
+         <title>Table 1</title>
+         <tgroup cols="1">
+            <tbody>
+               <row>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">Physical</emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>The physical abilities and limitations of the caregiver should be considered when developing, implementing, and reevaluating EOL care plans.<?lb?> Example: <emphasis>An older adult with <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink> is unable to manage drawing up liquid oral <ulink type="disease" url="link.aspx?id=4522">pain</ulink> medication using a syringe. The veterinarian changes the prescription to a chewable tablet, but the caregiver struggles to open the pill vial for chewable tablets. The technician helps adapt the treatment plan by placing chewable tablets in a resealable bag, out of reach of the pet</emphasis>.</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">Financial</emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>Financial limitations are a valid and important consideration in planning EOL care. They may also change throughout the course of EOL care. The <ulink type="disease" url="link.aspx?id=10481">duration</ulink> of an EOL care plan may be difficult to predict. Caregivers may initially be committed to one care plan, but it may become unsustainable if their circumstances change, or if the pet’s care requirements change.<?lb?> Ensure caregivers feel supported in making decisions within their financial limitations, without judgment. Provide transparent estimates that are forward thinking so that caregivers may plan ahead. Offer opportunities to revisit estimates and financial limitations with any changes to EOL care plans.</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">Temporal</emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>Do the caregivers have the time needed to provide the EOL care being discussed?<?lb?> Example: <emphasis>A nurse lives alone with a senior cat that has <ulink type="disease" url="link.aspx?id=3298">chronic renal failure</ulink> and needs <ulink type="drug" url="link.aspx?id=11569">insulin</ulink> injections twice daily. They are struggling to administer the injections due to their hospital schedule. Fortunately, the EOL care team has a few dedicated hospice volunteers who they have trained to provide relief care. The caregiver is grateful to have trained volunteers stop by to feed the cat and administer <ulink type="drug" url="link.aspx?id=11569">insulin</ulink> when required</emphasis>.</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">Mental and emotional</emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>The mental and emotional capacity of the caregiver to provide care is an important factor in developing and implementing EOL care plans.<?lb?> Caregivers may initially express no doubt about their capacity to commit to a care plan, but the burden of care may impact their mental and emotional health more than expected. Frequent check‐ins by technicians provide caregivers a chance to express if their mental and emotional capacity is changing.</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">Spiritual</emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>Caregivers’ spiritual needs are an important consideration as the approach to EOL care is planned. Religious and spiritual beliefs and values may inform much of the decision‐making, particularly when it comes to the EOL transition and aftercare. Technicians can elicit this perspective and ensure it is respected and prioritized in such a way that also ensures animal welfare.<?lb?> Example: <emphasis>A Buddhist caregiver shares with a veterinary technician that they do not wish to consider euthanasia as they feel it goes against their beliefs. The technician offers a referral to a certified hospice and palliative veterinarian to discuss if hospice‐supported natural death will be the right choice for them. They decide to proceed with a hospice‐supported natural death but agree that euthanasia may occur if it is necessary to preserve their pet’s welfare</emphasis>.</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para id="ch0011-c1-para-0034">
+         <anchor id="ch0011-Page_6"/>
+         <beginpage pagenum="6"/>
+         <anchor id="ch0011-Page_7"/>
+         <beginpage pagenum="7"/>An IDT is a group of professionals from multiple disciplines and other <ulink type="disease" url="link.aspx?id=10321">stakeholders</ulink> invested in the patient’s and family’s needs, working together toward a common goal. A team with complementary skill sets and expertise can accomplish more and achieve better outcomes than any member of the team on their own <citation>ch0011-c1-bib-0004</citation>. While team‐based medicine is common in the veterinary field, the members of the team in EOL care change and multiply to include more disciplines. The veterinarian is generally the leader of the IDT as the medical director for the team. Technicians are core team members, often acting as the “eyes and ears” of the veterinarian by communicating with the client, monitoring the patient, and reporting back to the IDT. The team can include other veterinary professionals, veterinary support staff, other animal care workers, mental health professionals, burial and cremation partners, memorialization partners, volunteers, and more. <link linkend="ch0011-c1-tbl-0002">Table 1.2</link> lists some common members of IDTs in veterinary EOL care and technicians may be able to identify others that would be valuable on their team.</para>
+      <para id="ch0011-c1-para-0040">An IDT may be established to support a dedicated EOL care service, or it may form out of a veterinary team within an existing practice. It is not uncommon for team members to self‐identify as wishing to be part of an EOL care team. These individuals take special interest in further training, education, and responsibility to better serve their EOL clients and patients. Whatever the origins of the EOL care team, the members must demonstrate several aptitudes: excellent empathic communication, nonjudgmental attitudes, flexibility of thinking, professional boundaries, and composure in challenging situations<citation>ch0011-c1-bib-0003</citation>.</para>
+      <para>The components of an effective IDT were described by Bronstein (2003) and are listed below:</para>
+      <orderedlist continuation="restarts" id="ch0011-c1-list-0011" inheritnum="ignore" role="decimal">
+         <listitem id="ch0011-c1-li-0026">
+            <para>
+               <emphasis role="strong">Interdependence</emphasis>: The members of the team rely on collaboration and communication with the rest of the team to successfully perform their own tasks.</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0027">
+            <para>
+               <emphasis role="strong">New professional activities</emphasis>: The members of the team work together to offer new services or restructure their services.</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0028">
+            <para>
+               <emphasis role="strong">Flexibility</emphasis>: The members of the team show adaptability in supporting each other and meeting the needs of the animal and caregivers.</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0029">
+            <para>
+               <emphasis role="strong">Shared goals</emphasis>: The team takes ownership of creating and striving for the goals of care set forth by the team through shared decision‐making with the animal caregivers.</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0030">
+            <para>
+               <emphasis role="strong">Reflection</emphasis>: The team actively reflects on their efforts and takes steps to improve.</para>
+         </listitem>
+      </orderedlist>
+      <para id="ch0011-c1-tbl-0002">
+         <phrase role="figureLabel">
+            <phrase role="color1">
+               <emphasis role="strong">Table 1.2</emphasis>
+            </phrase>
+         </phrase> Interdisciplinary team members in veterinary EOL care.
+</para>
+      <table>
+         <title>Table 2</title>
+         <tgroup cols="1">
+            <tbody>
+               <row>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">Veterinarians</emphasis>
+<?lb?>
+                        <emphasis role="strong">Veterinary technicians and support staff</emphasis>
+<?lb?>
+                        <emphasis role="strong">Other professionals</emphasis>
+<?lb?>
+                        <emphasis role="strong">Other partners</emphasis>
+<?lb?>
+                        <emphasis role="strong">Friends and extended family of the patient</emphasis>
+                     </para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+   <sect2 id="ch0011s5000">
+      <title>1.4.1 Role of Veterinary Technicians</title>
+      <anchor id="ch0011-head-3-1"/>
+      <para>Veterinary technicians have the skills and knowledge to engage in a variety of key roles in an EOL care IDT:</para>
+      <itemizedlist id="ch0011-c1-list-0012">
+         <listitem id="ch0011-c1-li-0031">
+            <para>
+               <emphasis role="strong">Initial client communication:</emphasis> Obtaining patient history; eliciting the client’s perspective including their values, goals, needs and limitations in providing EOL care</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0032">
+            <para>
+               <emphasis role="strong">Patient care:</emphasis> Initial patient and environmental assessments, administering prescribed treatments and nursing care, evaluating response to treatment, assessing <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and QOL, diagnostic sample collection and processing</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0033">
+            <para>
+               <emphasis role="strong">Supervising:</emphasis> Non‐veterinary team members</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0034">
+            <para>
+               <emphasis role="strong">Educating caregivers:</emphasis> Nursing care and treatment administration, animal behavior and handling, <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and QOL assessments, EOL decision making and planning</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0035">
+            <para>
+               <emphasis role="strong">Communication liaison:</emphasis> Ongoing client communication and support, updating the veterinarian with changes in patient status or client needs, coordinating referrals and communication with IDT</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0036">
+            <para>
+               <emphasis role="strong">Lifelong learning and leadership:</emphasis> Engaging in EOL continuing education and helping to educate other members of the IDT</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0011s6000">
+      <title>1.4.2 Role of Veterinary Social Workers</title>
+      <anchor id="ch0011-head-3-2"/>
+      <para>Veterinary social workers are emerging as key members of IDTs in many settings from general practice to referral and <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> facilities. These professionals are invaluable in EOL care and should ideally form the core of the IDT alongside veterinarians and technicians. Veterinary social workers can aid the team in many ways including, but not limited to:</para>
+      <itemizedlist id="ch0011-c1-list-0013">
+         <listitem id="ch0011-c1-li-0037">
+            <para>Assessment of the caregiver and family’s psychosocial considerations</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0038">
+            <para>Identifying support and service needs and connecting the family with additional resources</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0039">
+            <para>Emotional support and counselling of the caregiver and family through EOL decision making and in grief</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0040">
+            <para>Conflict identification and resolution within the family and with the veterinary team</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0041">
+            <para>Coordination of care with the IDT</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0042">
+            <para>Mental health support for members of the IDT</para>
+         </listitem>
+      </itemizedlist>
+      <para id="ch0011-c1-para-0044">A social worker’s presence in an IDT can greatly improve the quality of support for families, which lessens their anxiety during the EOL journey. In providing this support, the social worker also alleviates the burden on veterinary team members, reducing their risk of empathic <ulink type="disease" url="link.aspx?id=5669">strain</ulink> and burnout. As awareness of the valuable role of social workers in veterinary medicine grows, more practices are hiring social workers as part of their full‐time teams (<link linkend="ch0011-c1-fea-0003">Pro Tip 1.2</link>).</para>
+      <sidebar id="ch0011-c1-fea-0003">
+         <title>Pro Tip 1.2 Prioritizing Access to Veterinary Social Workers</title>
+         <para id="ch0011-c1-para-0045">Veterinary social workers are key members of EOL care teams. Their presence in a team can improve patient outcomes, caregiver satisfaction, and client relationships as well as reducing professional burnout and improving veterinary team <ulink type="disease" url="link.aspx?id=10423">efficiency</ulink> in the face of workforce shortages.</para>
+         <para id="ch0011-c1-para-0046">If your veterinary practice does not employ a social worker, try to identify one in your area with an interest in veterinary social work. Ask what services they provide and whether you would be able to refer clients to them when needed.</para>
+      </sidebar>
+   </sect2>
+   <sect2 id="ch0011s7000">
+      <title>1.4.3 Effective Use of Interdisciplinary Teams</title>
+      <anchor id="ch0011-head-3-3"/>
+      <para id="ch0011-c1-para-0047">The benefits of an IDT can be limited by the availability of other partners and professionals in the community, the finances required to engage with these services, and challenges with ineffective communication between parties<citation>ch0011-c1-bib-0004</citation>. To be effective, members of an IDT must actively and continuously communicate and collaborate to integrate the care and service provided to the patient unit. This goes well beyond making notes in medical records. One example of effective IDT communication is a technician sending a letter to an <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> clinic outlining the patient history, treatment plan, and goals of care in the event that they are transferred to that facility. Another example would be a technician having a phone conversation with a kennel to discuss the nursing requirements of an EOL patient that will be staying with them.</para>
+      <para id="ch0011-c1-para-0048">The members of an IDT within a veterinary facility will meet routinely (weekly is suggested) to discuss new cases, provide patient updates, and debrief on recent deaths. This practice keeps team members informed, encourages active reflection, and presents opportunities to identify areas for improvement (i.e. debriefing on protocols, procedures, communication strategies, and more).</para>
+   </sect2>
+   <sect2 id="ch0011s8000">
+      <title>1.5 Hospice Care Approach</title>
+      <anchor id="ch0011-head-2-8"/>
+      <para id="ch0011-c1-para-0049">A comprehensive approach to AHPC for EOL patients can be completed in five steps as detailed in<link linkend="ch0011-c1-tbl-0003">Table 1.3</link>. The veterinarian will perform a physical examination of the patient and prescribe the treatment plan while relying on the support of the veterinary technician throughout the five steps.</para>
+      <para id="ch0011-c1-para-0050">Hospice patients may be considered<emphasis>early hospice</emphasis> when the pet is expected to live for weeks to months, whereas <emphasis>advanced hospice</emphasis> is characterized by an expectation of death within days to <anchor id="ch0011-Page_10"/>
+         <beginpage pagenum="10"/>weeks. The level of care and communication will vary greatly between these stages, and there may be significant changes in care requirements and caregiver emotional needs as a pet progresses from early to advanced hospice.</para>
+      <para id="ch0011-c1-tbl-0003">
+         <phrase role="figureLabel">
+            <phrase role="color1">
+               <emphasis role="strong">Table 1.3</emphasis>
+            </phrase>
+         </phrase> Five‐step approach to comprehensive AHPC.
+<emphasis>Source:</emphasis> Adapted from Shearer <citation>ch0011-c1-bib-0005</citation>.
+</para>
+      <table>
+         <title>Table 3</title>
+         <tgroup cols="1">
+            <tbody>
+               <row>
+                  <entry>
+                     <para/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+   <sect2 id="ch0011s9000">
+      <title>1.6 End‐of‐Life Care Delivery Models</title>
+      <anchor id="ch0011-head-2-9"/>
+      <para id="ch0011-c1-para-0051">The delivery of EOL care must be flexible to the needs and preferences of the patient and caregiver. The provision of home care is often seen as the ideal service model for animal hospice as it allows the patient to remain in their own home environment. With that said, it is certainly possible to offer AHPC in other business models and there are pros and cons with each. Hospice care can be offered through existing veterinary facilities and integrated into <ulink type="disease" url="link.aspx?id=10343">primary care</ulink> or offered as an ancillary service in a general or specialty veterinary practice. Hospice may be offered in a dedicated business model where it is located in a brick‐and‐mortar hospice center with available mobile units, or it could be offered as an exclusively ambulatory service.</para>
+      <blockquote role="extract">
+         <para id="ch0011-c1-para-0053" role="center">
+            <emphasis>What are the pros and cons of:</emphasis>
+         </para>
+         <para id="ch0011-c1-para-0054" role="center">
+            <emphasis>A hospice service in an existing veterinary practice (general or referral/<ulink type="disease" url="link.aspx?id=1751">emergency</ulink> practice)?</emphasis>
+         </para>
+         <para id="ch0011-c1-para-0055" role="center">
+            <emphasis>A mobile‐only hospice service (solo or multi‐practitioner)?</emphasis>
+         </para>
+         <para id="ch0011-c1-para-0056" role="center">
+            <emphasis>A dedicated hospice service with its own facility and the capacity to provide mobile service?</emphasis>
+         </para>
+      </blockquote>
+      <para id="ch0011-c1-para-0052">
+         <anchor id="ch0011-Page_11"/>
+         <beginpage pagenum="11"/>
+      </para>
+      <para id="ch0011-c1-para-0057">Many clients are unaware of the possibilities for AHPC for their pets. They rely on their veterinary teams to guide them, so it is important that AHPC alternatives and home care are discussed as options, even if it is not available through their regular veterinarian. Existing veterinary facilities may refer to other mobile services when requested for home visits, including euthanasia. This is a common way to provide flexibility and options to families beyond what the facility has the capacity to offer. As AHPC becomes more prominent as its own specialized field within veterinary medicine, more clients are seeking flexibility and options, and more veterinary professionals are interested in providing these options. An existing veterinary facility may establish its own mobile unit to expand the EOL care services it offers to include home care. This could be limited to home euthanasia or could be expanded to include home hospice consultations and care plans (seePro Tip 1.3 and 1.4).</para>
+      <para id="ch0011-c1-para-0059">A veterinary facility seeking to offer more dedicated EOL care services must consider how it will handle <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> calls. Is the facility already open 24 hours a day and 7 days a week, or will the hospice clients have access to an on‐call member of the veterinary team? Will hospice clients be expected to contact an <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> facility outside of regular business hours? How will clients be supported if the hospice veterinarian is away? Is there another EOL care service in that area that can act as a partner to cover periods of absence?</para>
+   </sect2>
+   <sect2 id="ch0011s9000-2">
+      <title>1.6.1 Role of Telemedicine</title>
+      <anchor id="ch0011-head-3-4"/>
+      <para>Telemedicine, or telehealth, can be a powerful tool to support caregivers and pets, but it must be used cautiously to ensure proper establishment and maintenance of the veterinary–client–patient relationship (VCPR). Telemedicine can be used in many ways:</para>
+      <itemizedlist id="ch0011-c1-list-0025">
+         <listitem id="ch0011-c1-li-0080">
+            <para>Initial history taking</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0081">
+            <para>Eliciting client perspective prior to in‐person consultation</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0082">
+            <para>Disease and treatment plan education</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0083">
+            <para>Follow‐up after consultations<phrase role="color1">Pro Tip 1.3 Benefits of Home Hospice Consultations</phrase>
+               <anchor id="ch0011-c1-sec-0013"/>
+Hospice consultations should be conducted in the home environment whenever possible for multiple reasons:
+
+
+
+
+
+
+
+
+
+
+<phrase role="color1">Pro Tip 1.4 Mobile Service Record Keeping</phrase>
+               <anchor id="ch0011-c1-sec-0014"/>
+Cloud‐based medical records are highly useful when offering mobile care.
+
+
+
+</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0084">
+            <para>
+               <anchor id="ch0011-Page_12"/>
+               <beginpage pagenum="12"/>Care plan monitoring</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0085">
+            <para>Follow‐up after treatment changes</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0086">
+            <para>Clinical sign tracking</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0087">
+            <para>Confirm the need for an in‐person visit for further evaluation</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0088">
+            <para>QOL consultations</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0089">
+            <para>Revising goals of care</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0090">
+            <para>Emotional support for the caregivers</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0091">
+            <para>EOL planning</para>
+         </listitem>
+      </itemizedlist>
+      <para>The benefits of appropriately implemented telemedicine can include:</para>
+      <itemizedlist id="ch0011-c1-list-0026">
+         <listitem id="ch0011-c1-li-0092">
+            <para>Improved rapport and relationship building with caregivers</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0093">
+            <para>Reduced caregiver anxiety and burden with increased access to support</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0094">
+            <para>Real time updates on patient clinical signs</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0095">
+            <para>Improved treatment compliance</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0096">
+            <para>Improved access to and convenience of care for clients</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0097">
+            <para>Reduced patient anxiety by minimizing in‐person visits</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0098">
+            <para>Improved patient comfort with faster evaluation and response to changes</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0099">
+            <para>More efficient use of resources in the face of workforce shortages</para>
+         </listitem>
+      </itemizedlist>
+      <para id="ch0011-c1-para-0063">Telemedicine services must be structured so that the time spent is somehow compensated. Each facility will identify its own approach, and often multiple approaches are advised to fit different situations (e.g. different fees for technician vs. veterinarian telemedicine support). Fee structures may include direct charges for telemedicine consultations, inclusion of telemedicine follow‐up in initial consultation fees, or even hospice care service packages with a defined amount of telemedicine support included for a pre‐paid fee. The author has found the service plans to be utilized most in advanced hospice situations where a high level of support is needed regularly (i.e. daily). Caregivers outside of advanced hospice are generally happy to pay a fee for telemedicine support as needed and see the value of this service (<link linkend="ch0011-c1-fea-0006">Pro Tip 1.5</link>).</para>
+      <para id="ch0011-c1-para-0064">Telemedicine is most readily used within existing VCPRs but can sometimes be used in other situations. Veterinary practices may consider offering telemedicine QOL consultation for non‐clients provided no treatment recommendations are made in this context. This will differ significantly from a consultation within a VCPR, and the client must be made explicitly aware of the limitations at the outset. This consultation is structured as a guided exploration of QOL concepts with probing questions to help the caregiver consider their animal’s individual context. At the consultation's end, the client would either be referred back to their regular veterinarian or asked to schedule an appointment to establish a VCPR before any treatments could be prescribed.</para>
+      <sidebar id="ch0011-c1-fea-0006">
+         <title>Pro Tip 1.5 The Valuation of Telemedicine</title>
+         <anchor id="ch0011-head-2-12"/>
+         <para id="ch0011-c1-para-0065">Telemedicine consultations provide valuable connections between caregivers and the veterinary team, particularly for offering QOL consultation and support advanced hospice caregivers. Clients recognize the value of this service and the need for compensation to support its sustainability within a veterinary business.</para>
+         <para id="ch0011-c1-para-0066">Identify a fee structure that allows the time devoted to telemedicine for your EOL care clients to be a sustainable part of your practice. Communicate clearly about fees in advance to prevent <ulink type="disease" url="link.aspx?id=1220">confusion</ulink> or conflict over costs.</para>
+      </sidebar>
+   </sect2>
+   <sect2 id="ch0011s9000-3">
+      <title>1.6.2 Informed Consent and Liability Considerations</title>
+      <anchor id="ch0011-head-3-5"/>
+      <para id="ch0011-c1-para-0067">The delivery of comprehensive animal hospice care can present some additional challenges compared to more traditional veterinary practice. Unique liability concerns must be considered (e.g. dispensing of controlled drugs for use at home) and detailed documentation of informed consent is recommended (i.e. hospice‐supported natural death). Many of the challenges that can arise in EOL care are prevented or proactively managed with clear communication regarding caregiver expectations, roles, and responsibilities, and the limitations and professional boundaries of the veterinary team.</para>
+      <para>Veterinary teams that offer more dedicated EOL care services may wish to update their existing euthanasia consent forms and add additional informed consent documentation such as a hospice care agreement. Topics that should be addressed in a hospice care agreement are listed below, and many will be discussed further in later chapters.</para>
+      <itemizedlist id="ch0011-c1-list-0027">
+         <listitem id="ch0011-c1-li-0100">
+            <para>Expectations and contacts for access to 24‐hour care and <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> services</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0101">
+            <para>Expectations and plans for follow‐up and monitoring including fees</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0102">
+            <para>Fees for ancillary services such as telemedicine support</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0103">
+            <para>Client responsibilities in the provision of care and communication with the hospice team</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0104">
+            <para>Client responsibilities in the possession and handling of controlled drugs</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0105">
+            <para>Expectations for death, particularly hospice‐supported natural death (including a provision to proceed to humane euthanasia if required to address animal welfare)</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0106">
+            <para>A provision for termination of the veterinary‐client‐patient relationship if the veterinary team and client are unable to agree on an ethical course of action</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0011s9000-4">
+      <title>1.7 Takeaways</title>
+      <anchor id="ch0011-head-2-13"/>
+      <itemizedlist id="ch0011-c1-list-0028">
+         <listitem id="ch0011-c1-li-0107">
+            <para>Successful EOL care reduces caregiver decisional regret.</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0108">
+            <para>Effectively addressing patient and caregiver needs in a sustainable manner requires an IDT, which ideally includes a veterinary social worker.</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0109">
+            <para>Hospice care includes evaluation of the caregiver’s perspective, disease education, development and implementation of an individualized care plan, follow‐up, and adjustments.</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0110">
+            <para>Animal hospice can be offered in multiple business models, and consideration should be given to mobile units, telemedicine services, informed consent, and liability concerns.</para>
+         </listitem>
+         <listitem id="ch0011-c1-li-0111">
+            <para>EOL care teams must communicate with caregivers clearly regarding expectations, roles, responsibilities, and boundaries.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0011s9000-5">
+      <title>References</title>
+      <anchor id="ch0011-head-2-14"/>
+      <orderedlist continuation="restarts" inheritnum="ignore" role="biblioEntryList">
+         <listitem id="ch0011-c1-bib-0001" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">1</emphasis> Marocchino, K.D. (2011). In the shadow of a rainbow: the history of animal hospice. <citetitle>
+                  <emphasis>Vet. Clin. North Am. Small Anim. Pract.</emphasis>
+               </citetitle> 41 (3): 477–498.</para>
+         </listitem>
+         <listitem id="ch0011-c1-bib-0002" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">2</emphasis> Shanan, A. (2011). A veterinarian’s role in helping pet owners with decision making. <citetitle>
+                  <emphasis>Vet. Clin. North Am. Small Anim. Pract.</emphasis>
+               </citetitle> 41 (3): 635–646.</para>
+         </listitem>
+         <listitem id="ch0011-c1-bib-0003" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">3</emphasis> Shearer, T.S. (2011). Delivery systems of veterinary hospice and palliative care. <citetitle>
+                  <emphasis>Vet. Clin. North Am. Small Anim. Pract.</emphasis>
+               </citetitle> 41 (3): 499–505.</para>
+         </listitem>
+         <listitem id="ch0011-c1-bib-0004" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">4</emphasis> Bronstein, L.R. (2003). A model for interdisciplinary collaboration. <citetitle>
+                  <emphasis>Soc. Work</emphasis>
+               </citetitle> 48 (3): 297–306.</para>
+         </listitem>
+         <listitem id="ch0011-c1-bib-0005" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">5</emphasis> Shearer, T.S. (2011). Pet hospice and palliative care protocols. <citetitle>
+                  <emphasis>Vet. Clin. North Am. Small Anim. Pract.</emphasis>
+               </citetitle> 41 (3): 507–518.</para>
+         </listitem>
+      </orderedlist>
+   </sect2>
+</sect1>

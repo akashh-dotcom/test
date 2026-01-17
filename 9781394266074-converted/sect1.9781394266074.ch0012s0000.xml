@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0012s0000">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394266074.</risprev>
+         <riscurrent>sect1.9781394266074.ch0012s0000</riscurrent>
+         <risnext>sect1.9781394266074.</risnext>
+         <booktitle>Companion Animal End of Life Care for the Veterinary Technician</booktitle>
+         <isbn>9781394266074</isbn>
+         <chapternumber/>
+         <chapterid>ch0012</chapterid>
+         <chaptertitle/>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Alyssa</firstname>
+                  <surname>Eslinger</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Joye</firstname>
+                  <surname>Sears</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc.</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Alyssa</firstname>
+            <surname>Eslinger</surname>
+         </personname>
+      </primaryauthor>
+      <risindex>
+         <risterm>Pain</risterm>
+         <ristopic>testing</ristopic>
+         <ristype>disease</ristype>
+         <risrule>addRISIndex2</risrule>
+         <risposid>ch0012s0000</risposid>
+      </risindex>
+      <risindex>
+         <risterm>Pain</risterm>
+         <ristopic>management</ristopic>
+         <ristype>disease</ristype>
+         <risrule>addRISIndex2</risrule>
+         <risposid>ch0012s0000</risposid>
+      </risindex>
+   </sect1info>
+   <title>2 Pain Recognition and Assessment</title>
+   <anchor id="ch0012-c02_1"/>
+   <para role="chapterAuthor">
+      <emphasis>Alyssa Eslinger </emphasis>
+      <emphasis> and Amy Birchall</emphasis>
+   </para>
+   <para role="chapterAuthorAffiliation">
+      <emphasis>Veterinary Technology Program, Dalhousie University, Bible Hill, NS, Canada</emphasis>
+   </para>
+   <sect2 id="ch0012s1000">
+      <title>2.1 Introduction</title>
+      <anchor id="ch0012-head-2-15"/>
+      <para id="ch0012-c2-para-0002">Pain assessment is an important part of the veterinary technician's role in companion animal end‐of‐life (EOL) care. Before pain can be managed, it must be recognized and characterized. Technicians well versed in recognizing and assessing pain serve as advocates to improve their patient’s quality of life (QOL). They communicate with the veterinarian to inform treatment plans, administer care to the patient, and educate caregivers regarding the assessment and impact of pain in their pet.</para>
+      <para id="ch0012-c2-para-0003">Assessing <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in animals is challenging primarily due to their inability to directly communicate the type, severity, and <ulink type="disease" url="link.aspx?id=10481">duration</ulink> of <ulink type="disease" url="link.aspx?id=4523">pain</ulink> to their caregivers and veterinary team. This is further complicated by the fact that animals have evolved to hide <ulink type="disease" url="link.aspx?id=4524">pain</ulink> and weakness as a safety mechanism against potential threats. These barriers can prevent caregivers from providing a full history of the onset and impact of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and may obscure the technician’s assessment of <ulink type="disease" url="link.aspx?id=4523">pain</ulink>. Effective education and training allow technicians to overcome some of these challenges. This chapter will summarize current information on <ulink type="disease" url="link.aspx?id=4524">pain</ulink> assessment in companion animals, but technicians must also routinely engage in continuing education to ensure they are providing the most informed and up‐to‐date care possible.</para>
+   </sect2>
+   <sect2 id="ch0012s2000">
+      <title>2.2 The Physiology and Classification of Pain</title>
+      <anchor id="ch0012-head-2-16"/>
+      <para id="ch0012-c2-para-0004">To effectively recognize and assess <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, technicians must first understand nociception which is the physiological process through which the body senses and interprets <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. Nociception is complex and is influenced by multiple factors including the type, <ulink type="disease" url="link.aspx?id=10481">duration</ulink>, and frequency of sensory input. These factors impact the experience of <ulink type="disease" url="link.aspx?id=4523">pain</ulink> for the animal and the clinical presentation to the observer assessing <ulink type="disease" url="link.aspx?id=4523">pain</ulink>. For example, chronic <ulink type="disease" url="link.aspx?id=4524">pain</ulink> presents differently than acute <ulink type="disease" url="link.aspx?id=4524">pain</ulink>, and inflammatory <ulink type="disease" url="link.aspx?id=4522">pain</ulink> (e.g. <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink>) presents differently than <ulink type="disease" url="link.aspx?id=4522">pain</ulink> caused by acute tissue <ulink type="disease" url="link.aspx?id=9723">trauma</ulink> (e.g. bone <ulink type="disease" url="link.aspx?id=2225">fracture</ulink>).</para>
+      <figure float="0" id="ch0012-c2-fig-0001">
+         <title>
+            <phrase role="figureLabel">
+               <phrase role="color1">
+                  <emphasis role="strong">Figure 2.1</emphasis>
+               </phrase>
+            </phrase> The four steps of the nociceptive pain pathway.
+<emphasis>Source:</emphasis> Photo by A. Eslinger.
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0012f06.jpg"/>
+            </imageobject>
+            <textobject>
+               <phrase>A dog runs across a grassy field, with arrows indicating transmission, transduction, modulation, and perception.</phrase>
+            </textobject>
+         </mediaobject>
+      </figure>
+      <para>
+         <anchor id="ch0012-Page_16"/>
+         <beginpage pagenum="16"/>Nociception consists of four steps: transduction, transmission, modulation, and perception (<link linkend="ch0012-c2-fig-0001">Figure 2.1</link>) <citation>ch0012-c2-bib-0001</citation>. These steps can be impacted by medical and nursing interventions that will be discussed in <ulink url="ch0013">Chapter 3</ulink>.</para>
+      <orderedlist continuation="restarts" id="ch0012-c2-list-0001" inheritnum="ignore" role="decimal">
+         <listitem id="ch0012-c2-li-0001">
+            <para>
+               <emphasis role="strong">Transduction</emphasis> begins when a noxious stimulus is detected by sensory receptors. The stimulus can be thermal, chemical, or mechanical.</para>
+         </listitem>
+         <listitem id="ch0012-c2-li-0002">
+            <para>
+               <emphasis role="strong">Transmission</emphasis> is the relay of the stimulus from sensory receptors, through afferent nerve fibers and to the spinal cord.</para>
+         </listitem>
+         <listitem id="ch0012-c2-li-0003">
+            <para>
+               <emphasis role="strong">Modulation</emphasis> of the nerve impulse describes the alteration of the signal at the level of the spinal cord. This effect can be excitatory or inhibitory in nature, thus acting to amplify or suppress the stimulus on its path to the brain.</para>
+         </listitem>
+         <listitem id="ch0012-c2-li-0004">
+            <para>
+               <emphasis role="strong">Perception</emphasis> occurs when the nerve impulse reaches the brain and there is a conscious awareness of the <ulink type="disease" url="link.aspx?id=4522">pain</ulink> stimulus.</para>
+         </listitem>
+      </orderedlist>
+      <para id="ch0012-c2-para-0006">Pain is a normal, adaptive physiological process that functions to protect the animal from further harm. If a dog injures a joint while playing fetch, the pain may cause them to limp. This pain and the favoring of the limb limits weight‐bearing on the injury, which helps to prevent further damage while the healing process begins. Maladaptive pain is a pathological process that occurs when pain continues beyond the expected period of healing and is no longer serving a protective function<citation>ch0012-c2-bib-0002</citation>. <ulink type="disease" url="link.aspx?id=4522">Pain</ulink> of significant intensity or prolonged <ulink type="disease" url="link.aspx?id=10481">duration</ulink> can <ulink type="drug" url="link.aspx?id=14726">lead</ulink> to changes in the nociceptive pathways that become “sensitized” to <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, a state known as <emphasis>neuropathic <ulink type="disease" url="link.aspx?id=4522">pain</ulink>
+</emphasis>.</para>
+      <para id="ch0012-c2-para-0007">The presentation and impact of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in EOL patients can and will change over time. Correctly identifying and classifying the <ulink type="disease" url="link.aspx?id=4522">pain</ulink> a patient is experiencing allows veterinary teams to intervene with appropriate analgesia. <ulink type="disease" url="link.aspx?id=4523">Pain</ulink> can be characterized by the underlying cause (i.e. traumatic tissue damage, <ulink type="disease" url="link.aspx?id=3144">inflammation</ulink>, neoplasia, etc.), severity, bodily location (somatic or visceral), and its <ulink type="disease" url="link.aspx?id=10481">duration</ulink> (acute or chronic).</para>
+   </sect2>
+   <sect2 id="ch0012s3000">
+      <title>2.2.1 Somatic and Visceral Pain</title>
+      <anchor id="ch0012-head-3-6"/>
+      <para id="ch0012-c2-para-0008">
+         <emphasis>Somatic <ulink type="disease" url="link.aspx?id=4522">pain</ulink>
+</emphasis> occurs with tissue damage in the musculoskeletal system or the skin and associated structures. Any insult or injury to these structures may cause somatic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> (i.e. sharp or blunt <ulink type="disease" url="link.aspx?id=9723">trauma</ulink>, chemical or thermal damage, etc.). This <ulink type="disease" url="link.aspx?id=4523">pain</ulink> is localized and accompanied by sharp or throbbing sensations that will be familiar to most technicians.</para>
+      <para id="ch0012-c2-para-0009">
+         <emphasis>Visceral <ulink type="disease" url="link.aspx?id=4522">pain</ulink>
+</emphasis> originates from the internal organs and its associated sensations differ significantly from <ulink type="disease" url="link.aspx?id=4522">pain</ulink> sensations in the somatic body. It is less localized than somatic <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. Animals may experience nonlocalized burning or aching in the abdomen or thorax, or <ulink type="disease" url="link.aspx?id=4522">pain</ulink> may be referred to other areas of the body (i.e. <ulink type="disease" url="link.aspx?id=8431">shoulder pain</ulink> associated with visceral tissue injury) <citation>ch0012-c2-bib-0003</citation>. Visceral <ulink type="disease" url="link.aspx?id=4523">pain</ulink> can be challenging to detect as the source of <ulink type="disease" url="link.aspx?id=4523">pain</ulink> is often much less apparent to observers when compared to somatic <ulink type="disease" url="link.aspx?id=4524">pain</ulink>. A technician can easily see when an animal is limping due to a fractured leg, but they cannot easily see intestinal injury on a physical assessment. Technicians should consider visceral <ulink type="disease" url="link.aspx?id=4524">pain</ulink> if there seems to be indistinct or inconsistent painful responses on physical assessment. Clinical signs or laboratory results associated with organ dysfunction should also <ulink type="drug" url="link.aspx?id=14726">lead</ulink> the veterinary team to consider the possibility of visceral <ulink type="disease" url="link.aspx?id=4522">pain</ulink> affecting that organ.</para>
+   </sect2>
+   <sect2 id="ch0012s4000">
+      <title>2.2.2 Acute vs Chronic Pain</title>
+      <anchor id="ch0012-head-3-7"/>
+      <para id="ch0012-c2-para-0010">Adaptive <ulink type="disease" url="link.aspx?id=4522">pain</ulink> is what we generally refer to as<emphasis>acute <ulink type="disease" url="link.aspx?id=4522">pain</ulink>
+</emphasis>. It occurs immediately in response to a painful stimulus (e.g. <ulink type="disease" url="link.aspx?id=9723">trauma</ulink>, surgery, or <ulink type="disease" url="link.aspx?id=3144">inflammation</ulink>) and is of short <ulink type="disease" url="link.aspx?id=10481">duration</ulink> (generally hours to days). The severity of acute <ulink type="disease" url="link.aspx?id=4522">pain</ulink> varies depending on the nature of associated tissue damage <citation>ch0012-c2-bib-0004</citation>. Nociception proceeds normally in instances of acute <ulink type="disease" url="link.aspx?id=4523">pain</ulink>, and it is more straightforward to manage. Poorly managed acute <ulink type="disease" url="link.aspx?id=4523">pain</ulink> has the potential to become maladaptive <citation>ch0012-c2-bib-0005</citation>.</para>
+      <para id="ch0012-c2-para-0011">
+         <emphasis>Chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink>
+</emphasis> is the term most often associated with maladaptive <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. The classification of chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> by a specific <ulink type="disease" url="link.aspx?id=10481">duration</ulink> is somewhat arbitrary <citation>ch0012-c2-bib-0004</citation>. It occurs when <ulink type="disease" url="link.aspx?id=4523">pain</ulink> persists beyond what would be expected with the nature of the initial acute tissue injury. Chronic <ulink type="disease" url="link.aspx?id=4523">pain</ulink> does not serve as a normal protective mechanism for the animal and is pathological. Chronic <ulink type="disease" url="link.aspx?id=4524">pain</ulink> is often overlooked as the affected animals learn to function in its presence. For example, cats suffering from <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink> may show no overt clinical signs or only subtle signs of the disease (e.g. reduced jumping ability).</para>
+      <para id="ch0012-c2-para-0012">End‐of‐life patients often suffer from chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> but may also have bouts of acute <ulink type="disease" url="link.aspx?id=4522">pain</ulink> due to a new injury or illness or a complication associated with an existing diagnosis. For example, a dog with <ulink type="disease" url="link.aspx?id=5379">osteosarcoma</ulink> may suffer a <ulink type="disease" url="link.aspx?id=2228">pathological fracture</ulink> of the affected bone. The <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in this situation would be described as<emphasis>acute‐on‐chronic</emphasis>. Acute‐on‐chronic <ulink type="disease" url="link.aspx?id=4523">pain</ulink> may also be referred to as <emphasis>breakthrough <ulink type="disease" url="link.aspx?id=4522">pain</ulink>
+</emphasis>. An example of this would be an arthritic dog that experiences breakthrough <ulink type="disease" url="link.aspx?id=4523">pain</ulink> after exercising too much and exacerbating <ulink type="disease" url="link.aspx?id=3144">inflammation</ulink> in the affected joints. These animals will require additional interventions to manage the change in their <ulink type="disease" url="link.aspx?id=4524">pain</ulink>.</para>
+   </sect2>
+   <sect2 id="ch0012s5000">
+      <title>2.2.3 Neuropathic Pain</title>
+      <anchor id="ch0012-head-3-8"/>
+      <para id="ch0012-c2-para-0013">Pain that is severe, persistent, or poorly managed can cause physiological changes throughout nociceptive pathways. These maladaptive neurophysiological changes cause what is known as<emphasis>neuropathic <ulink type="disease" url="link.aspx?id=4522">pain</ulink>
+</emphasis>. Sensory receptors are upregulated, neural connections and excitatory neurotransmitters increase, and inhibitory neurotransmitters decrease. Maladaptive changes in nociception make it easier for the body to sense and perceive <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. The nervous system in these patients is hypersensitized or “primed” for <ulink type="disease" url="link.aspx?id=4523">pain</ulink>.</para>
+      <para id="ch0012-c2-para-0014">
+         <anchor id="ch0012-Page_18"/>
+         <beginpage pagenum="18"/>Neuropathic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> can occur with diseases that affect the nerves themselves but commonly results from severe <ulink type="disease" url="link.aspx?id=4522">pain</ulink> or chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> that has not been well managed. It is challenging to diagnose because animals cannot communicate directly with observers and this type of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> can produce some unusual sensations. Human patients with neuropathic <ulink type="disease" url="link.aspx?id=4523">pain</ulink> describe feeling burning, stabbing, or even <ulink type="disease" url="link.aspx?id=3031">numbness</ulink> and tingling <citation>ch0012-c2-bib-0004</citation>. Patients with neuropathic <ulink type="disease" url="link.aspx?id=4523">pain</ulink> may experience <ulink type="disease" url="link.aspx?id=4523">pain</ulink> from stimuli that would otherwise not be painful (<emphasis>allodynia</emphasis>), or <ulink type="disease" url="link.aspx?id=4524">pain</ulink> responses may be heightened compared to what would be expected for a given stimulus (<emphasis>hyperalgesia</emphasis>). Neuropathic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> should be considered and regularly addressed in EOL patients.</para>
+   </sect2>
+   <sect2 id="ch0012s6000">
+      <title>2.3 Pain Recognition</title>
+      <anchor id="ch0012-head-2-17"/>
+      <para id="ch0012-c2-para-0015">Understanding nociceptive pathways and the types of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> can help technicians recognize and interpret physical and behavioral indicators of <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. These indicators form the basis of <ulink type="disease" url="link.aspx?id=4523">pain</ulink> assessment tools that may be used to evaluate <ulink type="disease" url="link.aspx?id=4523">pain</ulink> in EOL patients. As mentioned in the previous section, acute <ulink type="disease" url="link.aspx?id=4524">pain</ulink> is generally easier to observe, whereas signs of chronic and neuropathic <ulink type="disease" url="link.aspx?id=4524">pain</ulink> can be more subtle (<link linkend="ch0012-c2-fea-0001">Pro Tip 2.1</link>).</para>
+      <para id="ch0012-c2-para-0016">Physical signs of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> are often straightforward to identify when the technician assesses an animal. Common physical indicators of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> are included in<link linkend="ch0012-c2-tbl-0001">Table 2.1</link>.</para>
+      <para id="ch0012-c2-para-0018">Behavioral changes are the most common signs of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in animals and include both decreases in normal behavior (e.g. decreased activity, decreased appetite, etc.) and increases in abnormal behaviors (e.g. aggression, inappropriate elimination, etc.)<citation>ch0012-c2-bib-0006</citation>. This can be directly related to the physical impacts of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and also due to the cognitive and emotional impacts of <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, particularly chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. Behavioral indicators can be more difficult to recognize than physical indicators as the signs <anchor id="ch0012-Page_19"/>
+         <beginpage pagenum="19"/>can be subtle (e.g. sleeping more, moving less, etc.) and are often mistaken for something else by caregivers (e.g. lack of energy and activity may be ascribed to “getting old” rather than <ulink type="disease" url="link.aspx?id=4523">pain</ulink>). Technicians must consider <ulink type="disease" url="link.aspx?id=4523">pain</ulink> when any of the behavioral indicators from <link linkend="ch0012-c2-tbl-0002">Table 2.2</link> are present in EOL companion animals.</para>
+      <sidebar id="ch0012-c2-fea-0001">
+         <title>Pro Tip 2.1 Stress, Cortisol, and Chronic Pain</title>
+         <anchor id="ch0012-head-2-18"/>
+         <para>Multiple physiological changes are associated with chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> due to persistent elevations in <ulink type="drug" url="link.aspx?id=12285">blood</ulink> <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=Cortisol">cortisol</ulink> from the related <ulink type="disease" url="link.aspx?id=5714">stress</ulink>. These may be less obvious to technicians in a <ulink type="disease" url="link.aspx?id=4523">pain</ulink> assessment.</para>
+         <itemizedlist id="ch0012-c2-list-0003">
+            <listitem id="ch0012-c2-li-0011">
+               <para>Decreased immune function (i.e. increased risk of infection, impaired healing)</para>
+            </listitem>
+            <listitem id="ch0012-c2-li-0012">
+               <para>Gastrointestinal signs (i.e. ulceration, <ulink type="disease" url="link.aspx?id=4151">nausea</ulink>, <ulink type="disease" url="link.aspx?id=6377">vomiting</ulink>, impaired digestion)</para>
+            </listitem>
+            <listitem id="ch0012-c2-li-0013">
+               <para>Hypertension</para>
+            </listitem>
+            <listitem id="ch0012-c2-li-0014">
+               <para>
+<ulink type="disease" url="link.aspx?id=6651">Weight loss</ulink>
+</para>
+            </listitem>
+            <listitem id="ch0012-c2-li-0015">
+               <para>Dull coat</para>
+            </listitem>
+         </itemizedlist>
+      </sidebar>
+      <para id="ch0012-c2-tbl-0001">
+         <phrase role="figureLabel">
+            <phrase role="color1">
+               <emphasis role="strong">Table 2.1</emphasis>
+            </phrase>
+         </phrase> Physical indicators of <ulink type="disease" url="link.aspx?id=4522">pain</ulink>.
+</para>
+      <table>
+         <title>Table 1</title>
+         <tgroup cols="1">
+            <tbody>
+               <row>
+                  <entry>
+                     <para/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para id="ch0012-c2-para-0021">Behavioral indicators of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> can vary significantly between individuals and between species. Technicians will need to familiarize themselves with normal behaviors for the species they are working with and ask the caregivers for information on what is normal for their individual pet. There may be behavioral indicators of <ulink type="disease" url="link.aspx?id=4523">pain</ulink> relevant for the individual that go beyond what is listed above.</para>
+   </sect2>
+   <sect2 id="ch0012s7000">
+      <title>2.3.1 Fear, Anxiety, Stress, and Pain Recognition</title>
+      <anchor id="ch0012-head-3-9"/>
+      <para id="ch0012-c2-para-0022">Fear, anxiety, and <ulink type="disease" url="link.aspx?id=5714">stress</ulink> (FAS), a phrase used in FearFree<superscript>™</superscript> training <citation>ch0012-c2-bib-0007</citation>, can complicate the assessment of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in animals. As discussed, the most common sign of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in animals is a change of behavior. When animals are stressed, they are evolutionarily adapted to hide their <ulink type="disease" url="link.aspx?id=4522">pain</ulink> which makes assessment challenging. Some of the physiological changes that are expected with <ulink type="disease" url="link.aspx?id=4523">pain</ulink> may also occur in stressed animals due to the activation of their sympathetic nervous system (fight, flight, or freeze). Physical changes such as elevated heart rate and <ulink type="drug" url="link.aspx?id=12285">blood</ulink> pressure make it difficult for technicians to discern between <ulink type="disease" url="link.aspx?id=5714">stress</ulink> and <ulink type="disease" url="link.aspx?id=4523">pain</ulink>, especially when a combination of both may be present in the patient (<link linkend="ch0012-c2-fig-0002">Figure 2.2</link>).</para>
+      <para id="ch0012-c2-tbl-0002">
+         <phrase role="figureLabel">
+            <phrase role="color1">
+               <emphasis role="strong">Table 2.2</emphasis>
+            </phrase>
+         </phrase> Behavioral indicators of <ulink type="disease" url="link.aspx?id=4522">pain</ulink>.
+</para>
+      <table>
+         <title>Table 2</title>
+         <tgroup cols="2">
+            <tbody>
+               <row>
+                  <entry>
+                     <para>
+                        <phrase role="left">Decreases in normal behavior</phrase>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para>
+                        <phrase role="left">Increases in abnormal behavior</phrase>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para/>
+                  </entry>
+                  <entry>
+                     <para/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <figure float="0" id="ch0012-c2-fig-0002">
+         <title>
+            <phrase role="figureLabel">
+               <phrase role="color1">
+                  <emphasis role="strong">Figure 2.2</emphasis>
+               </phrase>
+            </phrase> This fearful dog withdraws from touch and has a hunched posture while being examined, which could be misinterpreted as signs of pain. Animals may also mask signs of pain in the veterinary clinic.
+<emphasis>Source:</emphasis> donnacoleman/Adobe Stock Photos.
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0012f07.jpg"/>
+            </imageobject>
+            <textobject>
+               <phrase>A veterinarian gently examines a golden retriever dog, who appears to be looking down, with a stethoscope around the vet's neck.</phrase>
+            </textobject>
+         </mediaobject>
+      </figure>
+      <para id="ch0012-c2-para-0023">Minimizing FAS in EOL patients leads to more accurate <ulink type="disease" url="link.aspx?id=4522">pain</ulink> assessment, which results in better <ulink type="disease" url="link.aspx?id=4522">pain</ulink> management and improved QOL. This is a key reason why it is preferable to perform EOL consultations and follow‐up care in the home environment as much as possible. The animal will be less stressed in their home and the assessment of their <ulink type="disease" url="link.aspx?id=4523">pain</ulink> will be more accurate. In addition to prioritizing home care, further <ulink type="disease" url="link.aspx?id=5714">stress</ulink> reduction strategies may be implemented such as the use of calming pheromone products, fear‐free handling techniques, or even antianxiety medications (see<ulink url="ch0014">Chapter 4</ulink> for further discussion of anxiety management in EOL patients).</para>
+   </sect2>
+   <sect2 id="ch0012s8000">
+      <title>2.4 Pain Assessment Tools</title>
+      <anchor id="ch0012-head-2-19"/>
+      <para id="ch0012-c2-para-0024">The use of thorough and objective <ulink type="disease" url="link.aspx?id=4522">pain</ulink> assessment tools that are familiar to the user can make the challenging task of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> assessment much more manageable. Technicians should keep in mind that there is an element of subjectivity in all <ulink type="disease" url="link.aspx?id=4523">pain</ulink> scoring, as well as interobserver variation although some tools are more objective and reliable than others<citation>ch0012-c2-bib-0008</citation>. Multiple <ulink type="disease" url="link.aspx?id=4524">pain</ulink> scales and scoring systems have been developed for companion animals. This section will examine several commonly used tools with attention to their advantages, limitations, and appropriate applications.</para>
+      <para id="ch0012-c2-para-0025">Pain scales may be either simple or multidimensional in their construction and use. Pain is complex and simple scales may not provide sufficient information to effectively assess pain, particularly in EOL patients who may be experiencing multiple types of pain. Simple scales also tend to be more subjective in nature compared to multidimensional tools. Multidimensional pain scales are more comprehensive and tend to be more objective than simple scales. These tools combine physical and behavioral indicators of pain to examine multiple aspects of the clinical presentation of pain. Many pain scales are designed specifically to evaluate acute pain, and while they may be useful for acute‐on‐chronic pain, they are less appropriate for the assessment of animals experiencing chronic pain. Veterinary teams must identify which tools are most appropriate for their purposes and become familiar with them to improve reliability between assessments both within and between observers.</para>
+   </sect2>
+   <sect2 id="ch0012s9000">
+      <title>2.4.1 Simple Pain Scales</title>
+      <anchor id="ch0012-head-3-10"/>
+      <para>Simple <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scales can be designed with numeric ratings, visual analogs, or descriptions to assess <ulink type="disease" url="link.aspx?id=4522">pain</ulink> (Figure 2.3) <citation>ch0012-c2-bib-0001</citation>. These scales are all subjective, lack interobserver reliability and do not account for animals that are being affected by fear and <ulink type="disease" url="link.aspx?id=5714">stress</ulink> (which can obscure or mimic some signs of <ulink type="disease" url="link.aspx?id=4523">pain</ulink>). Veterinary teams will need to collect more objective information alongside these assessments before <ulink type="disease" url="link.aspx?id=4524">pain</ulink> management interventions can be prescribed. Their use in EOL care is discouraged in favor of multidimensional <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scales, but they have been included as they are easy to use and may have value in limited circumstances where other tools present accessibility or other compliance challenges for the caregiver.</para>
+      <itemizedlist id="ch0012-c2-list-0006">
+         <listitem id="ch0012-c2-li-0026">
+            <para>
+               <emphasis role="strong">Numeric rating scales</emphasis> ask observers to rate the animal’s <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, usually out of 10, where zero is no <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and 10 is severe <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. This may be done verbally, which is common in human medicine, or using a visual scale with numbers and simple descriptors plotted along a horizontal line [<citation>ch0012-c2-bib-0001</citation>, <citation>ch0012-c2-bib-0009</citation>].</para>
+         </listitem>
+         <listitem id="ch0012-c2-li-0027">
+            <para>
+               <emphasis role="strong">Visual analog systems</emphasis> consist of a horizontal line of known length with no <ulink type="disease" url="link.aspx?id=4522">pain</ulink> at one end and the worst <ulink type="disease" url="link.aspx?id=4522">pain</ulink> at the opposite end. The user simply marks the scale with their perception of the animal’s <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, and the technician can measure where the caregiver marked the scale to document a score. There are no other descriptors or numerical subdivisions [<citation>ch0012-c2-bib-0001</citation>, <citation>ch0012-c2-bib-0009</citation>].</para>
+            <figure float="0" id="ch0012-c2-fig-0003">
+               <title>
+                  <phrase role="figureLabel">
+                     <phrase role="color1">
+                        <emphasis role="strong">Figure 2.3</emphasis>
+                     </phrase>
+                  </phrase> Simple pain scales.
+</title>
+               <mediaobject>
+                  <imageobject>
+                     <imagedata fileref="Ch0012f08.jpg"/>
+                  </imageobject>
+                  <textobject>
+                     <phrase>Source: Adapted from Simon [9].</phrase>
+                  </textobject>
+               </mediaobject>
+            </figure>
+         </listitem>
+         <listitem id="ch0012-c2-li-0028">
+            <para>
+               <anchor id="ch0012-Page_21"/>
+               <beginpage pagenum="21"/>
+               <emphasis role="strong">Simple descriptive scales</emphasis> utilize descriptive terms and/or images that help the user determine if the patient fits into categories of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> such as none, mild, moderate, or severe [<citation>ch0012-c2-bib-0001</citation>, <citation>ch0012-c2-bib-0009</citation>].</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0012s9000-2">
+      <title>2.4.2 Multidimensional Acute Pain Scales</title>
+      <anchor id="ch0012-head-3-11"/>
+      <para id="ch0012-c2-para-0027">A brief description of acute <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scales has been included for the assessment of acute‐on‐chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in EOL patients. As previously discussed, acute <ulink type="disease" url="link.aspx?id=4523">pain</ulink> scales are not designed or scientifically validated for the assessment of chronic <ulink type="disease" url="link.aspx?id=4523">pain</ulink> (see<link linkend="ch0012-c2-fea-0002">Pro Tip 2.2</link>). Technicians will use caution when interpreting the results of acute <ulink type="disease" url="link.aspx?id=4524">pain</ulink> scales in EOL patients with suspected or known chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink>.</para>
+      <para id="ch0012-c2-para-0029">At the time of writing, the scientifically validated<emphasis role="strong">Feline Grimace Scale</emphasis> (FGS) <citation>ch0012-c2-bib-0010</citation> is a common preferred choice of veterinary teams for the assessment of acute <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in cats. Multiple facial features are used to evaluate <ulink type="disease" url="link.aspx?id=4522">pain</ulink> including ear position, orbital (eye) tightening, muzzle tension, whisker position, and head position. The FGS is an objective <ulink type="disease" url="link.aspx?id=4522">pain</ulink> assessment tool for feline patients that has the added benefit of a less invasive approach, as direct handling of the patient is not required (<link linkend="ch0012-c2-fig-0004">Figure 2.4</link>). Grimace scales are also available for a limited number of other species (<link linkend="ch0012-c2-fea-0003">Pro Tip 2.3</link>).</para>
+      <para id="ch0012-c2-para-0031">The<emphasis role="strong">Glasgow Composite Measure <ulink type="disease" url="link.aspx?id=4522">Pain</ulink> Scale (CMPS)</emphasis> is a validated tool for assessing acute <ulink type="disease" url="link.aspx?id=4522">pain</ulink> with canine and feline versions published. The canine scale evaluates multiple indicators of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> including vocalization, attention to painful areas, response to palpation, mobility, posture, <anchor id="ch0012-Page_22"/>
+         <beginpage pagenum="22"/>and response to surroundings <citation>ch0012-c2-bib-0011</citation>. The feline version is similar with the addition of an assessment of facial features, albeit notably more simplified than the FGS.</para>
+      <sidebar id="ch0012-c2-fea-0002">
+         <title>Pro Tip 2.2 Scientific Validation of Pain Scores</title>
+         <anchor id="ch0012-head-2-20"/>
+         <para id="ch0012-c2-para-0028">For a <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scoring system to be scientifically validated, it must meet several criteria in a controlled experimental study. The tool must be able to effectively differentiate between painful and nonpainful patients (accuracy), and the results must be consistent with repeated evaluations from the same and different observers (reliability).</para>
+      </sidebar>
+      <figure float="0" id="ch0012-c2-fig-0004">
+         <title>
+            <phrase role="figureLabel">
+               <phrase role="color1">
+                  <emphasis role="strong">Figure 2.4</emphasis>
+               </phrase>
+            </phrase> Signs of pain associated with the Feline Grimace Scale. (a) This cat is not showing any signs of pain with ears forward, head up, heads fully open, and relaxed whiskers and muzzle.
+<emphasis>Source:</emphasis> olezzo/Adobe Stock Photos.
+(b) The cat in this photo shows signs consistent with pain on the FGS. Their head is lowered, ears are rotated outward, there is tension in the muzzle, and the eyes are squinted.
+<emphasis>Source:</emphasis> Petra Richli/Adobe Stock Photos.
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0012f09.jpg"/>
+            </imageobject>
+            <textobject>
+               <phrase>Two cats are lying on a surface. The first cat is stretched out with a relaxed expression, while the second cat sits with a grumpy look.</phrase>
+            </textobject>
+         </mediaobject>
+      </figure>
+      <sidebar id="ch0012-c2-fea-0003">
+         <title>Pro Tip 2.3 Grimace Scores for Multiple Species</title>
+         <anchor id="ch0012-head-2-21"/>
+         <para id="ch0012-c2-para-0030">Grimace Score Systems are being developed for multiple species. Grimace scores are available for cats, mice, rabbits, rats, ferrets, horses, and likely more species in the future.</para>
+      </sidebar>
+      <para id="ch0012-c2-para-0032">The<emphasis role="strong">Colorado State University (CSU) Acute <ulink type="disease" url="link.aspx?id=4522">Pain</ulink> Scale</emphasis>
+         <citation>ch0012-c2-bib-0012</citation> has been developed for dogs, cats, and horses. Users assign numerical <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scores with the help of images and descriptions related to body positioning, physiological and behavioral signs, response to palpation, and overall body tension. There is some scientific evidence to support its use in cats, but neither the canine nor feline scale currently meet the standards for scientific validation <citation>ch0012-c2-bib-0013</citation>. The CSU scales can be excellent teaching tools to help veterinary staff and caregivers recognize <ulink type="disease" url="link.aspx?id=4523">pain</ulink> in animals, so they may be of value in EOL care beyond the assessment of breakthrough <ulink type="disease" url="link.aspx?id=4524">pain</ulink>.</para>
+   </sect2>
+   <sect2 id="ch0012s9000-3">
+      <title>2.4.3 Multidimensional Chronic Pain Scales</title>
+      <anchor id="ch0012-head-3-12"/>
+      <para>The multidimensional chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scales that are used in veterinary medicine tend to be focused on <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink>, as it is a highly prevalent cause of chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in companion animals. Four chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scales validated for use in dogs are listed below<citation>ch0012-c2-bib-0014</citation>. Any of these tools may be used in EOL patients experiencing <ulink type="disease" url="link.aspx?id=4464">osteoarthritis</ulink>. EOL care teams will identify their preferred tools while including contrasting options that may appeal to different caregivers’ needs.</para>
+      <itemizedlist id="ch0012-c2-list-0007">
+         <listitem id="ch0012-c2-li-0029">
+            <para>The<emphasis role="strong">Liverpool <ulink type="disease" url="link.aspx?id=4463">Osteoarthritis</ulink> in Dogs (LOAD)</emphasis>
+               <citation>ch0012-c2-bib-0015</citation> is a moderate length questionnaire completed by the caregivers. Its multiple‐choice questions cover medical history, lifestyle, and mobility details ranging from the <ulink type="disease" url="link.aspx?id=10481">duration</ulink> of clinical signs and tolerance of exercise to the impact of weather and terrain. It is meant to be accompanied by a veterinary consultation, but the <anchor id="ch0012-Page_23"/>
+               <beginpage pagenum="23"/>questions are simple and approachable, and detailed instructions are provided to guide the veterinary team in administering and interpreting the questionnaire.</para>
+         </listitem>
+         <listitem id="ch0012-c2-li-0030">
+            <para>The<emphasis role="strong">Canine Brief <ulink type="disease" url="link.aspx?id=4522">Pain</ulink> Inventory (CPBI)</emphasis> (<link linkend="ch0012-c2-fig-0005">Figure 2.5</link>) <citation>ch0012-c2-bib-0016</citation> is shorter than LOAD and formatted with questions answered on a numerical scale of 1–10. It is arguably less comprehensive than LOAD but is scientifically validated and may appeal to caregivers and the EOL care team due to its brevity and simplicity. Questions ask the caregiver to rate their dog’s <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and its impact on mobility and QOL. The final question asks the caregiver for their overall impression of the dog’s QOL. (The utility of global QOL scores will be discussed in <ulink url="ch0015">Chapter 5</ulink>). No guidance is given as to how to interpret the score and this would be left up to the veterinary team.</para>
+         </listitem>
+      </itemizedlist>
+      <figure float="0" id="ch0012-c2-fig-0005">
+         <title>
+            <phrase role="figureLabel">
+               <phrase role="color1">
+                  <emphasis role="strong">Figure 2.5</emphasis>
+               </phrase>
+            </phrase> Canine Brief Pain Inventory.
+<emphasis>Source:</emphasis> Reproduced with permission of Dr. Dorothy Cimino Brown.
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0012f10.jpg"/>
+            </imageobject>
+            <textobject>
+               <phrase>The table is titled, Canine Brief Pain Inventory. The table has 2 columns and 8 rows. The column headers from left to right are Pain and Function.</phrase>
+            </textobject>
+         </mediaobject>
+      </figure>
+      <itemizedlist id="ch0012-c2-list-0008">
+         <listitem id="ch0012-c2-li-0031">
+            <para>The<emphasis role="strong">Helsinki Chronic <ulink type="disease" url="link.aspx?id=4522">Pain</ulink> Index (HCPI)</emphasis>
+               <citation>ch0012-c2-bib-0017</citation> is somewhat comparable to the CPBI as a simple survey of questions answered on a five‐point scale. It focuses on mobility and QOL without directly asking the caregiver for their subjective assessment of the level of <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. No guidance is given as to how to interpret the score, and this would be left up to the veterinary team.</para>
+         </listitem>
+         <listitem id="ch0012-c2-li-0032">
+            <para>The<emphasis role="strong">Canine Orthopedic Index (COI)</emphasis>
+               <citation>ch0012-c2-bib-0018</citation> is more structured than the CPBI or HCPI. It is divided into four sections: stiffness, mobility, gait and QOL. There are 16 questions that caregivers answer on a descriptive scale with five options. As with the CPBI and HCPI, there is no guidance offered in the tool of how to interpret or act upon the score and this would be up to the veterinary team.</para>
+         </listitem>
+      </itemizedlist>
+      <para>The variety of tools available for feline chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> assessment is more limited but there are two validated tools available, both focused on <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink>.</para>
+      <itemizedlist id="ch0012-c2-list-0009">
+         <listitem id="ch0012-c2-li-0033">
+            <para>The<emphasis role="strong">Feline Musculoskeletal <ulink type="disease" url="link.aspx?id=4522">Pain</ulink> Index (FMPI)</emphasis>
+               <citation>ch0012-c2-bib-0019</citation> is a survey that asks caregivers to rate their cat’s behavior and mobility with a scale of five descriptive responses. It is very straightforward and easy for caregivers to complete, although no guidance is provided on how to interpret the results.</para>
+         </listitem>
+         <listitem id="ch0012-c2-li-0034">
+            <para>The<emphasis role="strong">Montreal Instrument for Cat <ulink type="disease" url="link.aspx?id=454">Arthritis</ulink> Testing (Mi‐CAT)</emphasis> [<citation>ch0012-c2-bib-0020</citation>, <citation>ch0012-c2-bib-0021</citation>] is published in two versions, one for the caregiver and one for the veterinary professional. The veterinary assessment includes an evaluation of posture, gait, mobility in the face of obstacles, and an overall distant impression of mobility. There are detailed instructions and images to guide the veterinary professional in the assessment. The caretaker assessment is a simple questionnaire with questions answered yes, no, or unsure. Instructions are given to determine a total score, but no <anchor id="ch0012-Page_25"/>
+               <beginpage pagenum="25"/>guidance is given on how to interpret the final score. The Mi‐CAT is significantly more complex than the FMPI, but the increased complexity may offer more information and stimulate more discussion than the FMPI.</para>
+         </listitem>
+      </itemizedlist>
+      <para id="ch0012-c2-para-0036">The scales described above all focus on <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink> in companion animals, and other validated <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scales in the scientific literature are also disease specific (e.g. <ulink type="disease" url="link.aspx?id=5630">spinal disease</ulink>) and cannot be broadly applied in EOL care. With that in mind, an unvalidated multidimensional <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scale has been included for technician consideration, which was created by certified hospice and palliative care veterinarian, Dr. Shea Cox: the<emphasis role="strong">BEAP <ulink type="disease" url="link.aspx?id=4522">Pain</ulink> Scale</emphasis> (<link linkend="ch0012-c2-fig-0006">Figure 2.6</link>) <citation>ch0012-c2-bib-0022</citation>.</para>
+      <para id="ch0012-c2-para-0037">While the BEAP <ulink type="disease" url="link.aspx?id=4522">Pain</ulink> Scale is not scientifically validated, it has a combination of features that can be advantageous for use in EOL, particularly in educating caregivers about potential indicators of <ulink type="disease" url="link.aspx?id=4523">pain</ulink>. The combined use of descriptive and numerical scales with corresponding images is most similar in format to the CSU acute <ulink type="disease" url="link.aspx?id=4524">pain</ulink> scales but is more comprehensive. Both canine and feline versions are available. The acronym BEAP represents the items included in the scale: breathing, eyes, ambulation, activity, appetite, attitude, posture, and palpation. The scale is organized in 10 levels from 0 (no <ulink type="disease" url="link.aspx?id=4522">pain</ulink>) to 9–10 (worst <ulink type="disease" url="link.aspx?id=4523">pain</ulink> possible), with descriptions for each BEAP item at every level. The caregiver marks the description that best matches their pet for each item. Guidance is provided to interpret the scoring (e.g. <ulink type="disease" url="link.aspx?id=4524">pain</ulink> score 3–4, moderate <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, see your vet to assess <ulink type="disease" url="link.aspx?id=4523">pain</ulink>). The tool also offers space for the caregiver to further describe what they are seeing for each BEAP category. Despite the lack of scientific validation, this tool may offer caregivers a better understanding of the multidimensional nature of <ulink type="disease" url="link.aspx?id=4524">pain</ulink> and is likely to collect important information for the EOL care team.</para>
+      <para id="ch0012-c2-para-0038">Apply your knowledge of the indicators of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scales to<link linkend="ch0012-c2-fea-0004">Case Study 2.1</link> to reflect on your understanding of <ulink type="disease" url="link.aspx?id=4523">pain</ulink> assessment.</para>
+      <sidebar id="ch0012-c2-fea-0004">
+         <title>Case Study 2.1 Barley</title>
+         <anchor id="ch0012-head-2-22"/>
+         <para id="ch0012-c2-para-0039">Barley is a 12‐year‐old, neutered male, domestic shorthair cat. About 18 months ago, he stopped jumping on counters and was having bowel movements outside the litter box. He also had less interest in playing with some of <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=His">his</ulink> favorite toys. He was diagnosed with <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink> and started on nonsteroidal anti‐inflammatory drug therapy. His behavior and activity improved dramatically according to the caregiver.</para>
+         <para>In the last few days, Barley’s caregivers have reported that some of the behavioral concerns have recurred. Barley is also lethargic with a decreased appetite and is urinating and drinking more than usual. Physical examination reveals the following:</para>
+         <itemizedlist id="ch0012-c2-list-0010">
+            <listitem id="ch0012-c2-li-0035">
+               <para>Heart rate 200, respiratory rate 40, and <ulink type="disease" url="link.aspx?id=10176">temperature</ulink> 39.0 °C/102.2 °F</para>
+            </listitem>
+            <listitem id="ch0012-c2-li-0036">
+               <para>Drooped whiskers, ears slightly downward, and eyes slightly squinted</para>
+            </listitem>
+            <listitem id="ch0012-c2-li-0037">
+               <para>Stressed and hiding in <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=His">his</ulink> kennel at the veterinary clinic</para>
+            </listitem>
+            <listitem id="ch0012-c2-li-0038">
+               <para>Head hanging and hunched posture</para>
+            </listitem>
+         </itemizedlist>
+         <para>The veterinarian collects <ulink type="drug" url="link.aspx?id=12285">blood</ulink> and urine and diagnoses <ulink type="disease" url="link.aspx?id=3298">chronic renal failure</ulink>.</para>
+         <orderedlist continuation="restarts" id="ch0012-c2-list-0011" inheritnum="ignore" role="decimal">
+            <listitem id="ch0012-c2-li-0039">
+               <para>
+                  <emphasis>What kind of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> is Barley experiencing? (Acute and/or chronic? Visceral and/or somatic? Is there a potential for neuropathic <ulink type="disease" url="link.aspx?id=4523">pain</ulink>?)</emphasis>
+               </para>
+            </listitem>
+            <listitem id="ch0012-c2-li-0040">
+               <para>
+                  <emphasis>Which <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scale(s) would be most appropriate to assess Barley’s <ulink type="disease" url="link.aspx?id=4523">pain</ulink>?</emphasis>
+               </para>
+            </listitem>
+            <listitem id="ch0012-c2-li-0041">
+               <para>
+                  <emphasis>How would a technician educate the caregivers on indicators of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and the use of the chosen <ulink type="disease" url="link.aspx?id=4523">pain</ulink> scale for monitoring Barley?</emphasis>
+               </para>
+            </listitem>
+         </orderedlist>
+      </sidebar>
+      <figure float="0" id="ch0012-c2-fig-0006">
+         <title>
+            <phrase role="figureLabel">
+               <phrase role="color1">
+                  <emphasis role="strong">Figure 2.6</emphasis>
+               </phrase>
+            </phrase> Canine BEAP pain scales: (a) canine (b) feline.
+<emphasis>Source:</emphasis> Reproduced with permission of BluePearl Pet Hospital.
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0012f05.jpg"/>
+            </imageobject>
+            <textobject>
+               <phrase>BEAP Pain Scale for Dogs. A table has 3 columns and 10 rows. Headers from left to right are Pain Level, Description, and Specific Behaviors.</phrase>
+            </textobject>
+         </mediaobject>
+      </figure>
+   </sect2>
+   <sect2 id="ch0012s9000-4">
+      <title>2.5 Practical Pain Assessment</title>
+      <anchor id="ch0012-head-2-23"/>
+      <para id="ch0012-c2-para-0042">The initial assessment of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> must always occur in the context of a veterinary consultation and will include evaluation of both physical and behavioral indicators of <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. Technicians should document <ulink type="disease" url="link.aspx?id=10172">respiration rate</ulink> and effort as well as a temperament assessment before any direct handling. Any items of the <ulink type="disease" url="link.aspx?id=4523">pain</ulink> score that can be evaluated without direct handling should be completed before a physical assessment is begun. This is to prevent FAS and sympathetic activation from obscuring the results.</para>
+      <para id="ch0012-c2-para-0043">Pain should be re‐evaluated regularly and each pain score documented in the medical records. This allows the veterinary team and caregivers to monitor for response to treatment and trends over time. Some of the pain scales have an explicit threshold at which re‐evaluation of the treatment plan and intervention is recommended. The veterinary team and caregivers must establish a framework to determine when pain score changes will trigger re‐evaluation and possible intervention within an individualized treatment plan. Proactive monitoring by the technician and caregivers can help to identify changes such as breakthrough pain, which allows fast intervention to minimize pain crises and neuropathic pain, and support QOL.</para>
+      <para id="ch0012-c2-para-0044">In the EOL context, we often rely on caregivers to record observations such as <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scores at home between veterinary visits. Consistent use of the same tool is important for caregivers to develop familiarity with the tool which improves accuracy and reliability for monitoring <ulink type="disease" url="link.aspx?id=4523">pain</ulink> trends. With that said, caregivers may require flexibility in the initial selection of a tool that is most accessible for them as an individual. A technician may provide the tool with the most scientific evidence behind it, but if the caregiver finds it too difficult or overwhelming to use then they will not use it effectively. It is advisable to introduce more than one <ulink type="disease" url="link.aspx?id=4524">pain</ulink> scale (no more than 2–3) and demonstrate their use. The caregivers can try them out and let the technician know which one they prefer. The best <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scale in the world is no good if the client does not use it! Once a <ulink type="disease" url="link.aspx?id=4523">pain</ulink> scoring system is selected that will meet the needs of the EOL care team, patient and family, then it is of utmost importance that its use is implemented and continued regularly. That leads to the question of how frequently should a <ulink type="disease" url="link.aspx?id=4524">pain</ulink> scale be used to evaluate EOL patients?</para>
+      <para id="ch0012-c2-para-0045">Recommendations for the frequency of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scoring must be determined on a case‐by‐case basis and may vary from monthly or bimonthly to multiples times in a single day. A patient in the early stages of hospice care may not be experiencing significant progression or change. This patient may be well managed with once or twice monthly <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scoring until any noticeable changes trigger a re‐evaluation sooner. A patient receiving advanced hospice care with many changes occurring may need to be evaluated multiple times in a week or a day. The frequency of <ulink type="disease" url="link.aspx?id=4523">pain</ulink> scoring will be decided in discussion between the caregiver and veterinary team. Any time a change in the animal’s physical state or behavior is noted, a <ulink type="disease" url="link.aspx?id=4523">pain</ulink> assessment is recommended. Any time there is a change in the treatment plan, a follow‐up <ulink type="disease" url="link.aspx?id=4524">pain</ulink> assessment is recommended to evaluate the impact of the intervention. The technician plays an important role in communicating the plan and following up as caregivers monitor <ulink type="disease" url="link.aspx?id=4524">pain</ulink> at home (<link linkend="ch0012-c2-fea-0005">Pro Tip 2.4</link>).</para>
+      <sidebar id="ch0012-c2-fea-0005">
+         <title>Pro Tip 2.4 Home Pain Scoring Routines</title>
+         <anchor id="ch0012-head-2-24"/>
+         <para id="ch0012-c2-para-0046">The frequency of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scoring will vary between cases and within cases depending on the patient’s status, veterinary recommendations, and caregiver limitations. Ensure the chosen <ulink type="disease" url="link.aspx?id=4523">pain</ulink> scale is approachable and accessible for the caregiver. Follow up and provide support to improve compliance with <ulink type="disease" url="link.aspx?id=4524">pain</ulink> scoring at home. Suggest a way for caregivers to keep track of the <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scores for their own reference (i.e. a journal or calendar) and make a plan for them to provide this information to the EOL care team.</para>
+      </sidebar>
+      <para id="ch0012-c2-para-0047">An excellent strategy to improve caregiver compliance with <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scoring is to offer a more comprehensive <ulink type="disease" url="link.aspx?id=4522">pain</ulink> assessment tool paired with a more simplified approach to document impressions of QOL between more thorough <ulink type="disease" url="link.aspx?id=4523">pain</ulink> assessments. The comprehensive <ulink type="disease" url="link.aspx?id=4523">pain</ulink> scale can be used on a determined schedule (i.e. monthly or weekly) and when there are patient concerns or treatment changes. A simpler QOL assessment can then be used more regularly (i.e. weekly or daily) for documenting patient trends at home (see<ulink url="ch0015">Chapter 5</ulink> for further discussion of QOL assessment).</para>
+   </sect2>
+   <sect2 id="ch0012s9000-5">
+      <title>2.6 Caregiver Communication and Education</title>
+      <anchor id="ch0012-head-2-25"/>
+      <para id="ch0012-c2-para-0048">Skilled and knowledgeable veterinary technicians are excellent patient advocates, client educators, and communicators. Technicians can empower caregivers of EOL pets with information and skills that allow them to be more active partners in their pet’s care. Techniques for building effective communication skills will be discussed further in Part II.</para>
+      <para id="ch0012-c2-para-0049">Caregiver education should always be supported with resources that the caregiver can refer to when the veterinary team is no longer present. This may include physical or digital copies of information handouts, <ulink type="disease" url="link.aspx?id=4522">pain</ulink> assessment tools, and items such as links to online instructional videos. A written copy of the pet’s treatment plan should also be provided to caregivers. It will ideally include descriptions of the most likely behavioral and physical indicators of <ulink type="disease" url="link.aspx?id=4523">pain</ulink> for their individual pet, recommendations of how often to complete <ulink type="disease" url="link.aspx?id=4524">pain</ulink> and QOL assessments, and the method to communicate that information to the veterinary team. Comprehensive, multidimensional scales should be utilized for <ulink type="disease" url="link.aspx?id=4522">pain</ulink> assessment wherever possible. This is easy to do when the evaluator is a veterinary professional but can be challenging when caregivers are asked to use the same tools. Caregivers may require significant education and support from the EOL care team to feel comfortable applying these tools to their pets at home. It is well worth the effort on the part of the EOL team to provide this support.</para>
+      <para id="ch0012-c2-para-0050">Avoid overwhelming caregivers with too many options for <ulink type="disease" url="link.aspx?id=4522">pain</ulink> assessment tools, while still offering flexibility in identifying tools that they are comfortable using. If there is more than one caregiver, each caregiver may feel comfortable using a different <ulink type="disease" url="link.aspx?id=4523">pain</ulink> scale. This can even be advantageous, as the assessments from multiple observers can be compared to offer multiple perspectives on the pet’s <ulink type="disease" url="link.aspx?id=4524">pain</ulink>. Different caregivers may see different parts of an animal’s daily routine. So even if caregivers choose the same <ulink type="disease" url="link.aspx?id=4522">pain</ulink> score system, it can be helpful for each caregiver to complete it separately and then discuss where their assessments overlap and differ.</para>
+      <para id="ch0012-c2-para-0051">Interested caregivers may also be empowered to record certain elements of a physical assessment, such as respiratory rate. There are elements of a physical assessment performed by veterinarians and technicians that are not reasonable for most caregivers to perform (e.g. cardiac auscultation or abdominal palpation), but there are elements that caregivers can be taught to perform if they are willing and properly trained (e.g. taking heart rates by palpating the apex beat and recording respiratory rates by watching the rise and fall of the chest). Assigning simple physical assessment tasks to interested caregivers can improve the quality of in‐home monitoring, offer the veterinary team more information between visits, and give caregivers an increased sense of control and active involvement in their pet’s care. This can help to relieve some of the anxiety caregivers may feel during the EOL journey.</para>
+   </sect2>
+   <sect2 id="ch0012s9000-6">
+      <title>2.6.1 Caregiver Myths and Misconceptions</title>
+      <anchor id="ch0012-head-3-13"/>
+      <para id="ch0012-c2-para-0052">Technicians knowledgeable about <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and skilled in <ulink type="disease" url="link.aspx?id=4522">pain</ulink> recognition can help dispel some myths and misconceptions about <ulink type="disease" url="link.aspx?id=4522">pain</ulink> for caregivers. Statements such as those below are often heard from<anchor id="ch0012-Page_30"/>
+         <beginpage pagenum="30"/>caregivers who might be in denial about their pet’s <ulink type="disease" url="link.aspx?id=4523">pain</ulink>, or who simply lack an understanding of the multidimensional nature of <ulink type="disease" url="link.aspx?id=4524">pain</ulink>.</para>
+      <para id="ch0012-c2-line-0054">“My pet is not in <ulink type="disease" url="link.aspx?id=4522">pain</ulink> because …</para>
+      <para id="ch0012-c2-line-0055">… they are still eating.”</para>
+      <para id="ch0012-c2-line-0056">… they still wag their tail when they see me.”</para>
+      <para id="ch0012-c2-line-0057">… they still greet me at the door whenever I get home.”</para>
+      <para id="ch0012-c2-line-0058">… they don’t whine or cry.”</para>
+      <para id="ch0012-c2-para-0059">Caregivers' own experiences with <ulink type="disease" url="link.aspx?id=4522">pain</ulink> (or lack thereof) will also impact their perception of <ulink type="disease" url="link.aspx?id=4523">pain</ulink> in their pet. For instance, a person who has never experienced an infected tooth or bone <ulink type="disease" url="link.aspx?id=2225">fracture</ulink> may not be able to relate to the <ulink type="disease" url="link.aspx?id=4524">pain</ulink> those conditions can cause. Conversely, if a person has experienced painful conditions but they fail to see the signs that they experienced in their pet, they may falsely believe that their pet is not in the same <ulink type="disease" url="link.aspx?id=4522">pain</ulink> they felt. Until they receive education about the signs of <ulink type="disease" url="link.aspx?id=4523">pain</ulink> in animals, caregivers may miss the subtle indicators that show the impact of <ulink type="disease" url="link.aspx?id=4524">pain</ulink> on their pet. For this reason, there should be a concerted effort to educate caregivers on the signs of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> proactively rather than reactively (seePro Tip 2.5).</para>
+      <para id="ch0012-c2-para-0061">Technicians encountering challenges with caregivers’ comprehension and recognition of signs of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> may inquire about the caregiver’s perspectives and experiences with <ulink type="disease" url="link.aspx?id=4522">pain</ulink> as it can help guide conversations about <ulink type="disease" url="link.aspx?id=4523">pain</ulink> in a more directed fashion. This can also be important when it comes to caregivers expressing concerns about administering treatments. Caregivers may be hesitant to administer prescribed treatments if they perceive there is a potential harm from adverse effects of pharmaceuticals, or if they fear that the administration will be stressful. Technicians cannot address these concerns if they do not know about them. Seeking the client’s perspective is key, both at the time of starting into an EOL care plan, but also as the implementation and impact of the plan on both patients and caregivers is evaluated. Helping caregivers recognize <ulink type="disease" url="link.aspx?id=4523">pain</ulink> and understand and agree that there is a need to intervene is the first step. This can be followed by thorough discussion of the risks and benefits of treatments and exploration of multimodal analgesic options, including nonpharmaceutical modalities which is the subject of<ulink url="ch0013">Chapter 3</ulink>.</para>
+   </sect2>
+   <sect2 id="ch0012s9000-7">
+      <title>2.7 Takeaways</title>
+      <anchor id="ch0012-head-2-27"/>
+      <itemizedlist id="ch0012-c2-list-0012">
+         <listitem id="ch0012-c2-li-0042">
+            <para>Technicians who understand the physiology and classification of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> can more effectively recognize and assess <ulink type="disease" url="link.aspx?id=4523">pain</ulink>.</para>
+         </listitem>
+         <listitem id="ch0012-c2-li-0043">
+            <para>Pain scales are useful tools for pain assessment when chosen with thought and intention and used regularly and appropriately.<phrase role="color1">Pro Tip 2.5 Early Client Education on Indicators of Pain</phrase>
+               <anchor id="ch0012-c2-sec-0020"/>
+Practices may consider the routine inclusion of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> recognition resources for caregivers of senior animals. Educating caregivers on the signs of <ulink type="disease" url="link.aspx?id=4523">pain</ulink> BEFORE they occur will facilitate early recognition and intervention to improve quality of life. Share information on <ulink type="disease" url="link.aspx?id=4524">pain</ulink> recognition in the reception area, exam rooms, on the practice website, and on social media. Improving the awareness of the signs of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in caregivers of animals in all lifestages can only be beneficial.
+
+
+
+</para>
+         </listitem>
+         <listitem id="ch0012-c2-li-0044">
+            <para>
+               <anchor id="ch0012-Page_31"/>
+               <beginpage pagenum="31"/>Technicians with developed knowledge of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> recognition and assessment can communicate with caregivers and advocate for their patients more effectively, thereby improving QOL and supporting the human–animal bond.</para>
+         </listitem>
+         <listitem id="ch0012-c2-li-0045">
+            <para>Caregivers can be active members of the EOL care team empowered to evaluate and monitor <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in their pet between veterinary visits.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0012s9000-8">
+      <title>References</title>
+      <anchor id="ch0012-head-2-28"/>
+      <orderedlist continuation="restarts" inheritnum="ignore" role="biblioEntryList">
+         <listitem id="ch0012-c2-bib-0001" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">1</emphasis> Wiese, A.J. and Yaksh, T.L. (2015). Chapter 2 – nociception and <ulink type="disease" url="link.aspx?id=4522">pain</ulink> mechanisms. In: <citetitle>
+                  <emphasis>Handbook of Veterinary Pain Management</emphasis>
+               </citetitle>, 3e (ed. J.S. Gaynor and W.W. Muir), 10–41. Elsevier Inc.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0002" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">2</emphasis> Gaynor, J.S. and Muir, W.W. (2015). Chapter 4 – definitions of terms describing <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. In: <citetitle>
+                  <emphasis>Handbook of Veterinary Pain Management</emphasis>
+               </citetitle>, 3e (ed. J.S. Gaynor and W.W. Muir), 61–66. Elsevier Inc.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0003" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">3</emphasis> Goldberg, M.E. and Shaffran, N. (2015). <citetitle>
+                  <emphasis>Pain Management for Veterinary Technicians and Nurses</emphasis>
+               </citetitle>. Ames, Iowa: Wiley.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0004" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">4</emphasis> Monteiro, B.P., Lascelles, B.D.X., Murrell, J. et al. (2022). WSAVA guidelines for the recognition, assessment and treatment of <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. <citetitle>
+                  <emphasis>J. Small Anim. Pract.</emphasis>
+               </citetitle> 64 (4): 177–254.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0005" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">5</emphasis> Gruen, M., Lascelles, B.D.X., Colleran, F. et al. (2022). AAHA <ulink type="disease" url="link.aspx?id=4522">pain</ulink> management guidelines for dogs and cats. <ulink url="https://www.aaha.org/resources/2022-aaha-pain-management-guidelines-for-dogs-and-cats/acute-vs-chronic-pain/">https://www.aaha.org/resources/2022‐aaha‐pain‐management‐guidelines‐for‐dogs‐and‐cats/acute‐vs‐chronic‐pain/</ulink> (accessed September 2024).</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0006" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">6</emphasis> Camps, T., Amat, M., and Mantec, X. (2019). A review of medical conditions and behavioral problems in dogs and cats. <citetitle>
+                  <emphasis>Animals</emphasis>
+               </citetitle> 9 (12): 1133.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0007" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">7</emphasis> Fear Free, LLC. (2025). Fear free leaders in animal wellbeing. Broomfield, CO. <ulink url="https://fearfreepets.com/">https://fearfreepets.com/</ulink> (5 March 2025).</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0008" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">8</emphasis> Adami, C., Filipas, M., John, C. et al. (2023). Inter‐observer reliability of three feline <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scales used in clinical practice. <citetitle>
+                  <emphasis>J. Feline Med. Surg.</emphasis>
+               </citetitle> 25 (9): 1098612X231194423.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0009" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">9</emphasis> Simon, B.T. (2020). Update on clinical acute <ulink type="disease" url="link.aspx?id=4522">pain</ulink> assessment in cats. Today’s Veterinary Practice. <ulink url="https://todaysveterinarypractice.com/pain_management/update-on-clinical-acute-pain-assessment-in-cats/">https://todaysveterinarypractice.com/pain_management/update‐on‐clinical‐acute‐pain‐assessment‐in‐cats/</ulink> (accessed 8 August 2025).</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0010" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">10</emphasis> Evangelista, M.C., Watanabe, R., Leung, V.S.Y. et al. (2019). Facial expressions of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in cats: the development and validation of a feline grimace scale. <citetitle>
+                  <emphasis>Sci. Rep.</emphasis>
+               </citetitle> 9 (1): 19128.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0011" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">11</emphasis> Reid, J., Nolan, A., Hughes, J. et al. (2007). Development of the short‐form Glasgow composite measure <ulink type="disease" url="link.aspx?id=4522">pain</ulink> scale (CMPS‐SF) and derivation of an analgesic intervention score. <citetitle>
+                  <emphasis>Anim. Welf.</emphasis>
+               </citetitle> 16 (S1): 97–104.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0012" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">12</emphasis> Hellyer, P.W., Uhrig, S.R., and Robinson, N.G. (2006). <citetitle>
+                  <emphasis>Canine Acute Pain Scale and Feline Acute Pain Scale</emphasis>
+               </citetitle>. Fort Collins CO: Colorado State University Veterinary Medical Center.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0013" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">13</emphasis> Shipley, H., Guedes, A., Graham, L. et al. (2019). Preliminary appraisal of the reliability and validity of the Colorado State University Feline Acute <ulink type="disease" url="link.aspx?id=4522">Pain</ulink> Scale. <citetitle>
+                  <emphasis>J. Feline Med. Surg.</emphasis>
+               </citetitle> 21 (4): 335–339.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0014" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">14</emphasis> Hyytiäinen, H.K., Levine, D., and Marcellin‐Little, D.J. (2023). Clinical instruments for the evaluation of orthopedic problems in dogs and human patients, a review. <citetitle>
+                  <emphasis>Adv. Small Anim. Care</emphasis>
+               </citetitle> 4 (1): 37–52.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0015" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">15</emphasis> University of Liverpool (2017). Introducing the LOAD questionnaire: understanding, administering, and incorporating LOAD into clinical practice. Elanco Animal Health. <ulink url="https://www.pennvet.com/customer/wcm/connect/0caa373a-7925-4c0a-826f-1c34f6532376/LOAD_PrintableForm.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-0caa373a-7925-4c0a-826f-1c34f6532376-mN3Pgo">https://www.pennvet.com/customer/wcm/connect/0caa373a‐7925‐4c0a‐826f‐1c34f6532376/LOAD_PrintableForm.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE‐0caa373a‐7925‐4c0a‐826f‐1c34f6532376‐mN3Pgo</ulink> (December 2024).</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0016" role="bibliographyEntry">
+            <para>
+               <anchor id="ch0012-Page_32"/>
+               <beginpage pagenum="32"/>
+               <emphasis role="strong">16</emphasis> University of Pennsylvania (2024). Canine brief <ulink type="disease" url="link.aspx?id=4522">pain</ulink> inventory. <ulink url="https://www.vet.upenn.edu/docs/default-source/VCIC/canine-bpi.pdf?sfvrsn=6fd20eba_0">https://www.vet.upenn.edu/docs/default‐source/VCIC/canine‐bpi.pdf?sfvrsn=6fd20eba_0</ulink> (accessed December 2024).</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0017" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">17</emphasis> Hielm‐Bjorkman, H.K., Rita, H., and Tulamo, R.M. (2009). Psychometric testing of the Helsinki chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> index by completion of a questionnaire in Finnish by owners of dogs with chronic signs of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> caused by <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink>. <citetitle>
+                  <emphasis>Am. J. Vet. Res.</emphasis>
+               </citetitle> 70: 727–734.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0018" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">18</emphasis> University of Pennsylvania (2024). Canine orthopedic index. <ulink url="https://www.vet.upenn.edu/docs/default-source/VCIC/canine-orthopedic-index-weekly-reformat.pdf?sfvrsn=6">https://www.vet.upenn.edu/docs/default‐source/VCIC/canine‐orthopedic‐index‐weekly‐reformat.pdf?sfvrsn=6</ulink> (accessed December 2024).</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0019" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">19</emphasis> NC State Veterinary Medicine Comparative <ulink type="disease" url="link.aspx?id=4522">Pain</ulink> Research Laboratory (2015). <citetitle>
+                  <emphasis>Feline Musculoskeletal Pain Index</emphasis>
+               </citetitle>. North Carolina State University. Available upon request from <ulink url="https://cvm.ncsu.edu/research/labs/clinical-sciences/comparative-pain-research/labs-french-version-comparative-pain-research-clinical-metrology-instruments-subjective-nighttime-restlessness-evaluation-snore/">https://cvm.ncsu.edu/research/labs/clinical‐sciences/comparative‐pain‐research/labs‐french‐version‐comparative‐pain‐research‐clinical‐metrology‐instruments‐subjective‐nighttime‐restlessness‐evaluation‐snore/</ulink>.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0020" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">20</emphasis> Groupe de recherche en pharmacologie animale due Québec (2023). <citetitle>
+                  <emphasis>Mi‐CAT(C) Montreal Instrument for Cat Arthritis Testing (Caretaker)</emphasis>
+               </citetitle>. Université de Montréal. Available from <ulink url="https://fmv.umontreal.ca/fileadmin/fmv/images/recherche/GREPAQ/3-MI-CAT_C__scale.pdf">https://fmv.umontreal.ca/fileadmin/fmv/images/recherche/GREPAQ/3‐MI‐CAT_C__scale.pdf</ulink>.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0021" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">21</emphasis> Groupe de recherche en pharmacologie animale due Québec (2023). <citetitle>
+                  <emphasis>Mi‐CAT(V) Montreal Instrument for Cat Arthritis Testing, for Veterinarian use [MI‐CAT(v)]</emphasis>
+               </citetitle>. Université de Montréal. Available from <ulink url="https://fmv.umontreal.ca/fileadmin/fmv/images/recherche/GREPAQ/1-MI-CAT_V_-scale.pdf">https://fmv.umontreal.ca/fileadmin/fmv/images/recherche/GREPAQ/1‐MI‐CAT_V_‐scale.pdf</ulink>.</para>
+         </listitem>
+         <listitem id="ch0012-c2-bib-0022" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">22</emphasis> BluePearl Pet Hospital (2024). When is it time? Understanding your pet’s <ulink type="disease" url="link.aspx?id=4522">pain</ulink> as it relates to quality of life? <ulink url="https://bluepearlvet.com/in-home-pet-hospice/quality-of-life/">https://bluepearlvet.com/in‐home‐pet‐hospice/quality‐of‐life/</ulink> (accessed 12 July 2024).</para>
+         </listitem>
+      </orderedlist>
+   </sect2>
+</sect1>

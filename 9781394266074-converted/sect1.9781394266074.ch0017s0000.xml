@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0017s0000">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394266074.</risprev>
+         <riscurrent>sect1.9781394266074.ch0017s0000</riscurrent>
+         <risnext>sect1.9781394266074.</risnext>
+         <booktitle>Companion Animal End of Life Care for the Veterinary Technician</booktitle>
+         <isbn>9781394266074</isbn>
+         <chapternumber/>
+         <chapterid>ch0017</chapterid>
+         <chaptertitle/>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Alyssa</firstname>
+                  <surname>Eslinger</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Joye</firstname>
+                  <surname>Sears</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc.</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Alyssa</firstname>
+            <surname>Eslinger</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>6 Building Essential Communication Skills</title>
+   <anchor id="ch0017-c06_1"/>
+   <para role="chapterAuthor">
+      <emphasis>Joye Sears<superscript>1</superscript> and Becky Taylor<superscript>2</superscript>
+      </emphasis>
+   </para>
+   <para role="chapterAuthorAffiliation">
+      <superscript>
+         <emphasis>1</emphasis>
+      </superscript>
+      <emphasis>Veterinary Technology Program, Dalhousie University, Bible Hill, NS, Canada</emphasis>
+   </para>
+   <para role="chapterAuthorAffiliation">
+      <superscript>
+         <emphasis>2</emphasis>
+      </superscript>
+      <emphasis>BS Communication Strategies Inc., Mountain View County, AB, Canada</emphasis>
+   </para>
+   <sect2 id="ch0017s1000">
+      <title>6.1 Introduction</title>
+      <anchor id="ch0017-head-2-59"/>
+      <para id="ch0017-c6-para-0002">The end‐of‐life (EOL) period is a difficult and trying time for caregivers, their families, and the veterinary professionals supporting them. Veterinary technicians are involved throughout EOL care as they support owners through EOL decision‐making and planning and with grief before and after the death of their beloved companion. Veterinarians report that consulting on EOL decision‐making has more of an impact on their mental well‐being than euthanasia itself<citation>ch0017-c6-bib-0001</citation> and it is reasonable to think technicians are similarly impacted. Skillful communication can mitigate the negative effect of EOL conversations and generate connected and meaningful dialogue for everyone involved. When there is skilled dialogue, there are positive emotions, and these arduous conversations can become inspirational and uplifting. This chapter will focus on the essential skills needed for success in EOL communication. The application of communication techniques within specific scenarios, such as conflict and grief, will be addressed further in <ulink url="ch0018">Chapters 7</ulink> and <ulink url="ch0027">14</ulink>–<ulink url="ch0029">16</ulink>.</para>
+      <para id="ch0017-c6-para-0003">Many communication models exist to guide communication. Their purpose is to create a framework that utilizes key skills required in specific interactions. In the veterinary community, the most researched model is the Calgary Cambridge Guide (CCG), which is modified from human medicine and adapted for interactions between veterinarians and caregivers [<citation>ch0017-c6-bib-0002</citation>, <citation>ch0017-c6-bib-0003</citation>]. The CCG provides a framework for learning evidence‐based communication skills that are applicable to all members of the veterinary team <citation>ch0017-c6-bib-0003</citation>. Technicians looking for more indepth communication resources may refer to “Skills for Communicating in Veterinary Medicine” by Adams and Kurtz <citation>ch0017-c6-bib-0003</citation> and “Developing Communication Skills for Veterinary Practice” by Shaw and Coe <citation>ch0017-c6-bib-0004</citation>.</para>
+   </sect2>
+   <sect2 id="ch0017s2000">
+      <title>6.2 Core Communication Skills</title>
+      <anchor id="ch0017-head-2-60"/>
+      <para id="ch0017-c6-para-0004">Many people believe that communication skills are inherited traits or just fundamental components of personality. Fortunately, everyone can grow their communication skills regardless of their starting point. Imagine trying to play a sport without first learning the individual skills, doing<anchor id="ch0017-Page_94"/>
+         <beginpage pagenum="94"/>drills, being coached, and then playing the game to evaluate your skills in action. Communication skills are meant to be grown and developed in the same way [<citation>ch0017-c6-bib-0003</citation>, <citation>ch0017-c6-bib-0004</citation>].</para>
+      <para id="ch0017-c6-tbl-0001">
+         <phrase role="figureLabel">
+            <phrase role="color1">
+               <emphasis role="strong">Table 6.1</emphasis>
+            </phrase>
+         </phrase> A framework for developing communication skills.
+</para>
+      <table>
+         <title>Table 1</title>
+         <tgroup cols="2">
+            <tbody>
+               <row>
+                  <entry>
+                     <para>Practice individual skills</para>
+                  </entry>
+                  <entry>
+                     <para>Increase competence by getting coached, observing others in conversation, and reflecting on your own performance</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>Try them out</para>
+                  </entry>
+                  <entry>
+                     <para>Try your skills in low stakes ways, such as everyday conversations with colleagues, friends, clients, and family.</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>Increase the difficulty</para>
+                  </entry>
+                  <entry>
+                     <para>Apply and refine the skills in conversations that are more challenging, such as conversations about finances or end‐of‐life.</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>Maintain the study</para>
+                  </entry>
+                  <entry>
+                     <para>Keep learning, challenge your knowledge, and seek feedback regularly. Be your own best coach.</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para id="ch0017-c6-para-0005">Developing communication skills requires a phased approach to learning. The core communication skills covered in this section are nonverbal behaviors, asking questions, active listening, and showing empathy. These skills represent the first step in learning. Technicians may become “skills spotters” by watching others communicate and categorizing the skills they demonstrate. Begin putting the skills into practice by trying them in low‐stakes conversations before progressing to more challenging interactions. Maintain a growth mindset using self‐reflection and solicitation of feedback from others to keep improving.<link linkend="ch0017-c6-tbl-0001">Table 6.1</link> highlights a framework for building skills.</para>
+   </sect2>
+   <sect2 id="ch0017s3000">
+      <title>6.2.1 Nonverbal Communication</title>
+      <anchor id="ch0017-head-3-53"/>
+      <para id="ch0017-c6-para-0006">Nonverbal communication is the way human beings transmit the “feel” behind their message. It speaks the truth, regardless of verbal messages. It reveals intent and either supports or discredits what is said. Nonverbal communication skills can be used to enhance messaging and to aid in interpreting messages from others. Veterinary technicians are no strangers to this type of communication, as our patients are nonverbal and require behavioral interpretation regularly<citation>ch0017-c6-bib-0004</citation>. To enhance their nonverbal communication, technicians must tap into their skill sets of objective observation and interpretation of body language and then put effort into matching what is spoken to what is felt and thought.</para>
+      <para id="ch0017-c6-para-0007">Nonverbal communication includes facial expression, body position, tension, touch, tone, volume, speed of talking, and autonomic response<citation>ch0017-c6-bib-0004</citation>. Technicians can control their faces, posture, position within a space, body tension, and many elements of their speaking including pace, volume, and tone (see <link linkend="ch0017-c6-fea-0001">Pro Tip 6.1</link>). There are some nonverbal elements that cannot be controlled, namely autonomic responses such as red face or blotchy skin, crying, blanching, and increased heart and respiration rates.</para>
+      <sidebar id="ch0017-c6-fea-0001">
+         <title>Pro Tip 6.1 The Importance of Eye Contact</title>
+         <anchor id="ch0017-head-2-61"/>
+         <para id="ch0017-c6-para-0008">Eye contact plays an important role in demonstrating empathy. In human medicine, patients perceived doctors as more empathic if they made clear, direct eye contact, especially at the end of the appointment<citation>ch0017-c6-bib-0005</citation>. Technicians can consciously incorporate eye contact into conversations to increase the bond with caregivers.</para>
+      </sidebar>
+      <sidebar id="ch0017-c6-fea-0002">
+         <title>Communication Corner 6.1 Responding to Nonverbals</title>
+         <anchor id="ch0017-head-2-62"/>
+         <para>If someone is having an emotional response to what you are saying, take a moment to acknowledge it and be curious about it.</para>
+         <itemizedlist id="ch0017-c6-list-0001">
+            <listitem id="ch0017-c6-li-0001">
+               <para>“I can see by your tears and your expression that this really caught you off guard today. End of life conversations are not easy to have.”</para>
+            </listitem>
+         </itemizedlist>
+         <para>If their nonverbal and verbal presentation do not align, investigate further:</para>
+         <itemizedlist id="ch0017-c6-list-0002">
+            <listitem id="ch0017-c6-li-0002">
+               <para>“It looks to me like this is really difficult for you. You’ve made several comments about the difficulty of this decision. I’m wondering if you are having second thoughts?”</para>
+            </listitem>
+         </itemizedlist>
+      </sidebar>
+      <sidebar id="ch0017-c6-fea-0003">
+         <title>Communication Corner 6.2 The Special Role of Touch</title>
+         <anchor id="ch0017-head-2-63"/>
+         <para>EOL conversations often involve heightened emotional responses from caregivers. In these circumstances, it may feel appropriate to offer empathic or “healing” touch. In general, a comforting touch on the hands or forearms is considered appropriate in many cultures<citation>ch0017-c6-bib-0007</citation>. Some caregivers may solicit or welcome hugs at this time as well. When in doubt, it is always best to ask for permission before touching anyone <citation>ch0017-c6-bib-0004</citation>.</para>
+         <itemizedlist id="ch0017-c6-list-0003">
+            <listitem id="ch0017-c6-li-0003">
+               <para>“This news about Molly is truly devastating. May I offer you a hug?”</para>
+            </listitem>
+            <listitem id="ch0017-c6-li-0004">
+               <para>“At times like this some people find hugs to be comforting. Do you think a hug would help you now?”</para>
+            </listitem>
+            <listitem id="ch0017-c6-li-0005">
+               <para>If the idea of touching a caregiver makes the technician uncomfortable, they should find other ways to show empathy such as leaning in, making eye contact, and touching the pet gently and with compassion<citation>ch0017-c6-bib-0004</citation>.</para>
+            </listitem>
+         </itemizedlist>
+      </sidebar>
+      <para id="ch0017-c6-para-0009">Technicians can work toward managing their nonverbal communication in a way that supports their verbal message. This allows the message to be clear and believable. The spoken words provide meaning or context and the nonverbal cues provide the “feeling” behind the message. Beginning with developing sensitivity to their own personal nonverbal cues, technicians may then start watching others in an objective, non‐biased way.</para>
+      <para id="ch0017-c6-para-0010">When observing the nonverbal activities of others, technicians will notice they present in one of two ways: either in congruence with and enhancing the verbal message, or with a disconnect which causes doubt because the nonverbals present a different meaning than the spoken words<citation>ch0017-c6-bib-0006</citation>. Identifying the nonverbal message and reflecting it back to the caregiver verbally allows them to feel heard and understood (see <link linkend="ch0017-c6-fea-0002">Communication Corner 6.1</link>). This contributes to a very positive interaction, even if it is a difficult one. When nonverbals and spoken words match, technicians may accelerate understanding and create collaboration and improved rapport. <link linkend="ch0017-c6-fea-0003">Communication Corner 6.2</link> and <link linkend="ch0017-c6-fig-0001">Figure 6.1</link> demonstrate the role that touch can play in supporting these interactions.</para>
+   </sect2>
+   <sect2 id="ch0017s4000">
+      <title>6.2.2 Asking Questions</title>
+      <anchor id="ch0017-head-3-54"/>
+      <para id="ch0017-c6-para-0014">Veterinary technicians need to ask great questions to gather important information regarding patient health. Utilize good questioning techniques to elicit the caregiver’s perspective, gather<anchor id="ch0017-Page_96"/>
+         <beginpage pagenum="96"/>appropriate history, and demonstrate active interest in the caregiver and patient(s). Gathering information is an essential component of EOL conversations.</para>
+      <figure float="0" id="ch0017-c6-fig-0001">
+         <title>
+            <phrase role="figureLabel">
+               <phrase role="color1">
+                  <emphasis role="strong">Figure 6.1</emphasis>
+               </phrase>
+            </phrase> Empathy can be demonstrated through the use of healing touch.
+<emphasis>Source:</emphasis> insta_photos/Adobe Stock Photos.
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0017f01.jpg"/>
+            </imageobject>
+            <textobject>
+               <phrase>A doctor with dark skin holds the hand of a patient with light skin, both resting on a wooden table, conveying support.</phrase>
+            </textobject>
+         </mediaobject>
+      </figure>
+      <para id="ch0017-c6-para-0015">There are many ways to ask a question. Skillful questions allow technicians to obtain information or learn more about their patients and their caregivers and family. Questioning can be divided into closed and open techniques<citation>ch0017-c6-bib-0003</citation>. Closed questions are those that can be answered with yes/no or with single‐word responses. Open questions are those that invite a story and are an excellent tool for demonstrating sincere interest. Each type of question has a role in relationship building, gathering or exchanging information, making decisions, and in assessment or evaluation. Using both question types skillfully is a powerful way to support relationship‐centered care and demonstrate interest in caregivers and their perspectives.</para>
+      <para id="ch0017-c6-para-0016">Open questioning techniques are expressions of curiosity and serve a strong purpose in meaningful dialogue. Veterinary technicians are naturally inquisitive, making the skill of asking open questions realistic and achievable. These questions give us the path to obtain knowledge that another person has and needs to share. We can sometimes replace open‐ended questions with statements such as, “Tell me about Rufus. I’d love to hear <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=His">his</ulink> story.” While this is not a true question, it will elicit the same response when spoken with interest. Remember to pair your queries with matching nonverbal cues. See<link linkend="ch0017-c6-fea-0004">Communication Corner 6.3</link> for examples of open questioning techniques.</para>
+      <sidebar id="ch0017-c6-fea-0004">
+         <title>Communication Corner 6.3 Open Questioning Techniques</title>
+         <anchor id="ch0017-head-2-64"/>
+         <para>These involve inviting the caregiver to share their story through using questions or directive statements, such as:</para>
+         <itemizedlist id="ch0017-c6-list-0004">
+            <listitem id="ch0017-c6-li-0006">
+               <para>“What are you most concerned about today?”</para>
+            </listitem>
+            <listitem id="ch0017-c6-li-0007">
+               <para>“Tell me about Misty’s daily routine.”</para>
+            </listitem>
+            <listitem id="ch0017-c6-li-0008">
+               <para>“What do you think about the information we’ve given you today?”</para>
+            </listitem>
+            <listitem id="ch0017-c6-li-0009">
+               <para>“Please share your thoughts about what you think the problem is. I’d love to hear your perspective.”</para>
+            </listitem>
+            <listitem id="ch0017-c6-li-0010">
+               <para>“Describe the behaviors that you are seeing from Misty that make you concerned about her quality of life.”</para>
+            </listitem>
+            <listitem id="ch0017-c6-li-0011">
+               <para>“What has been your experience with euthanasia?”</para>
+            </listitem>
+         </itemizedlist>
+      </sidebar>
+      <sidebar id="ch0017-c6-fea-0005">
+         <title>Pro Tip 6.2 Open Questioning Techniques Can Reduce Appointment Length</title>
+         <anchor id="ch0017-head-2-65"/>
+         <para id="ch0017-c6-para-0020">A common concern among veterinary professionals is not having time for in depth, compassionate communication. There is fear that open questioning invites clients to over‐share information and increase appointment length. In fact, a client who is not interrupted by a veterinary team member will only speak for an average of 90 seconds<citation>ch0017-c6-bib-0008</citation>. Allowing the client to share all their concerns up front actually decreases appointment length by preventing last‐minute unaddressed issues being raised.</para>
+      </sidebar>
+      <para id="ch0017-c6-para-0018">Open questions asked with sincere interest and matching nonverbals generally elicit what is top of mind for that person (i.e. what they are thinking about most). Inviting caregivers to openly share early in an EOL conversation ensures all their concerns are addressed, rather than following only the agenda of the veterinary team (see<link linkend="ch0017-c6-fea-0005">Pro Tip 6.2</link>).</para>
+      <para id="ch0017-c6-para-0019">Closed questions also play an important role in information gathering. Closed questions elicit brief, specific answers which provide valuable details for the veterinary team. Consider questioning techniques as a funnel, starting with open questioning to gain perspective and then funneling to closed to get more data<citation>ch0017-c6-bib-0004</citation>. For example: “What has been your experience with euthanasia?” (open) “When did that happen? Did you understand their condition? Which cremation option did you choose?” (closed).</para>
+      <para id="ch0017-c6-para-0021">Questions need not be an interrogation. When used with good timing, positive intent, and genuine curiosity, technicians gain both knowledge and perspective. A technician’s expressed interest, demonstrated through open‐ended questions, helps the caregiver feel like their perspective is important to the decisions being made for their pet and the relationship becomes a partnership.</para>
+   </sect2>
+   <sect2 id="ch0017s5000">
+      <title>6.2.3 Active Listening</title>
+      <anchor id="ch0017-head-3-55"/>
+      <para id="ch0017-c6-para-0022">Listening plays a crucial role in ensuring that communication is successful. To be effective, listening must be an active process in which the listener pays full attention to the speaker with an open, compassionate mind, and lack of judgement. These elements lift the simple act of listening to another level of skillful communication.</para>
+      <blockquote role="extract">
+         <para id="ch0017-c6-para-0024" role="center">
+            <emphasis>Think about the “good listeners” in your life</emphasis>.</para>
+         <para id="ch0017-c6-para-0025" role="center">
+            <emphasis>What qualities make them good listeners?</emphasis>
+         </para>
+      </blockquote>
+      <para id="ch0017-c6-para-0026">Active listening involves the use of demonstrable skills: providing supportive nonverbal cues, asking clarifying questions, and reflecting back information to the speaker through paraphrasing<citation>ch0017-c6-bib-0009</citation>. Reducing distractions and interruptions will also ensure focus is maintained on the caregiver as they share information. Active listening is the natural next step when open questioning techniques are used. Support active listening with nonverbal cues: nodding, soft eye contact, open body posture, leaning toward the other person, relaxed facial expression, even breathing, and relaxed shoulders <citation>ch0017-c6-bib-0010</citation>. Effective listening requires focus on two levels: first, on the words being spoken, and second, on the feelings behind the words <citation>ch0017-c6-bib-0009</citation>. The spoken words provide context and data, while listening for feelings allows technicians to respond with empathy. Note the nonverbal cues demonstrated by the speaker as they provide more depth to the message. In some cases, the nonverbal cues may not match the words being spoken and this will allow technicians to gently elicit concerns the speaker may be reluctant to share <citation>ch0017-c6-bib-0010</citation>.</para>
+      <para>
+         <anchor id="ch0017-Page_98"/>
+         <beginpage pagenum="98"/>Active listening requires that the technician respond to the caregiver in a way which allows them to feel that their message has been received and accurately interpreted. There are three primary responses to choose from: echoing, paraphrasing, and summarizing <citation>ch0017-c6-bib-0006</citation>.</para>
+      <itemizedlist id="ch0017-c6-list-0005">
+         <listitem id="ch0017-c6-li-0012">
+            <para>
+               <emphasis role="strong">Echoing</emphasis>: Repeat the caregiver’s statement exactly, such as “He’s not eating” or “She’s sleeping a lot more.” Echoing statements signal to the caregiver that you have heard important points and invite them to continue to share.</para>
+         </listitem>
+         <listitem id="ch0017-c6-li-0013">
+            <para>
+               <emphasis role="strong">Paraphrase</emphasis>: Recap the caregiver’s statements in your own words while acknowledging their feelings. “It sounds like it’s really upsetting for you when Max isn’t eating well.”</para>
+         </listitem>
+         <listitem id="ch0017-c6-li-0014">
+            <para>
+               <emphasis role="strong">Summarizing</emphasis>: Present what you have heard back to the caregiver to allow them to confirm or make adjustments to the information. “I want to make sure I’ve got everything. Max started eating less three days ago and today he hasn’t eaten anything and has only had a small amount of <ulink type="drug" url="link.aspx?id=15160">water</ulink> to drink. Is that right?”</para>
+         </listitem>
+      </itemizedlist>
+      <para id="ch0017-c6-para-0028">Paraphrasing or summarizing what you have heard allows the other person to see their message in a mirror. How does it sound to them? Is the interpretation correct? Are any changes required? Retelling their story provides an opportunity for the speaker to clarify, correct, confirm, or add information. This exchange back and forth builds the relationship and creates rapport. In addition to helping technicians gather essential information about patients (and their caregivers), actively listening to a caregiver makes it more likely they will respond in kind<citation>ch0017-c6-bib-0009</citation>. This willingness to engage in open, collaborative dialogue decreases the chance of miscommunication and <ulink type="disease" url="link.aspx?id=1220">confusion</ulink> (see <link linkend="ch0017-c6-fea-0006">Case Study 6.1</link>).</para>
+      <para>Several barriers to effective active listening are present in the veterinary environment. The pet itself can present challenges to active listening for all members of the conversation through demanding attention, showing signs of <ulink type="disease" url="link.aspx?id=5714">stress</ulink>, or just being so cute! Other barriers to listening include:<anchor id="ch0017-Page_99"/>
+         <beginpage pagenum="99"/>
+      </para>
+      <sidebar id="ch0017-c6-fea-0006">
+         <title>Case Study 6.1 Amanda and Biscuit</title>
+         <anchor id="ch0017-head-2-66"/>
+         <para id="ch0017-c6-para-0030">Amanda brought her 15‐year‐old Bichon Frise, Biscuit to her regular veterinary clinic for an exam. As Amy, the technician, begins the appointment, she notes that Amanda is speaking with her gaze fixed on Biscuit and she is intently stroking her fur. Amanda’s hands are shaking slightly.</para>
+         <para id="ch0017-c6-li-0016">
+            <phrase role="speaker">
+               <emphasis role="underline">Amy</emphasis>:</phrase>
+         </para>
+         <para id="ch0017-c6-li-0019">
+            <phrase role="speaker">
+               <emphasis role="underline">Amanda</emphasis> (eyes still fixed on biscuit, speaking in a cheerful tone):</phrase>
+         </para>
+         <para id="ch0017-c6-li-0022">
+            <phrase role="speaker">
+               <emphasis role="underline">Amy</emphasis>:</phrase>
+         </para>
+         <para id="ch0017-c6-para-0033">Amy pauses to give Amanda time to react.</para>
+         <para id="ch0017-c6-li-0026">
+            <phrase role="speaker">
+               <emphasis role="underline">Amanda</emphasis> (looking up for the first time with tears in her eyes):</phrase>
+         </para>
+         <para id="ch0017-c6-li-0029">
+            <phrase role="speaker">
+               <emphasis role="underline">Amy</emphasis> (smiling reassuringly and making eye contact):</phrase>
+         </para>
+         <para>Amanda agrees and Amy continues with the appointment.</para>
+         <orderedlist continuation="restarts" id="ch0017-c6-list-0013" inheritnum="ignore" role="decimal">
+            <listitem id="ch0017-c6-li-0032">
+               <para>Which active listening skills did Amy demonstrate in this scenario?</para>
+            </listitem>
+            <listitem id="ch0017-c6-li-0033">
+               <para>How may this interaction have gone differently if Amy had not noticed Amanda’s nonverbal cues at the beginning?</para>
+            </listitem>
+         </orderedlist>
+      </sidebar>
+      <itemizedlist id="ch0017-c6-list-0014">
+         <listitem id="ch0017-c6-li-0034">
+            <para>
+               <emphasis role="strong">Outside noises</emphasis> such as dogs barking, loud conversations, or phones ringing are distracting. Careful consideration of the layout of the practice and designating rooms for challenging conversations can help minimize these challenges.</para>
+         </listitem>
+         <listitem id="ch0017-c6-li-0035">
+            <para>
+               <emphasis role="strong">Physical items</emphasis> such as a desk or table between members of the veterinary team and the caregiver(s) can present a barrier. Whenever possible the technician should try to sit or stand together with the caregiver while respecting their need for personal space. Work with management to ensure exam room layout meets the needs of communication as well as medicine.</para>
+         </listitem>
+         <listitem id="ch0017-c6-li-0036">
+            <para>
+               <emphasis role="strong">Mobile technologies</emphasis> such as cell phones are another distraction. People who are speaking or texting on their phones during your conversation will have difficulty listening and retaining information. Technicians may address this issue by asking if there is another caregiver who would like to participate in the appointment virtually. If so, facilitate the use of technology to include everyone, and if not, it is appropriate to ask them to wait until after the appointment to use their phones (or offer to reschedule if that is not possible) <citation>ch0017-c6-bib-0004</citation>.</para>
+         </listitem>
+         <listitem id="ch0017-c6-li-0037">
+            <para>
+               <emphasis role="strong">Multitasking</emphasis> during communication can present a challenge, such as taking notes for the medical record while listening. To reduce the risk of notetaking acting as a barrier, technicians can tell the caregiver that they would like to take notes and assure them they will read them back for clarification. The first focus must be on listening, and then responses can be recorded. These activities cannot happen simultaneously without the loss of connection between the technician and the caregiver.</para>
+         </listitem>
+      </itemizedlist>
+      <para id="ch0017-c6-para-0037">To listen well with compassion, curiosity, and interest means barriers must be reduced or ignored. Stepping away from technology, moving around the table, and maintaining purposeful, attentive eye contact will result in more meaningful interactions. Listening, in its simplicity, is a solid foundation of relationship building. There is nothing more powerful than feeling heard. There is no multitasking with listening, it is either happening or it is not!</para>
+   </sect2>
+   <sect2 id="ch0017s6000">
+      <title>6.2.4 Showing Empathy</title>
+      <anchor id="ch0017-head-3-56"/>
+      <para id="ch0017-c6-para-0038">Technicians who work to understand a caregiver’s thoughts and feelings are demonstrating empathy [<citation>ch0017-c6-bib-0004</citation>, <citation>ch0017-c6-bib-0011</citation>]. Showing empathy is an essential communication skill that helps technicians connect with another person in a way that is meaningful for both parties (see <link linkend="ch0017-c6-fea-0007">Pro Tip 6.3</link>). For the giver of empathy, this is a way to check understanding of how another person feels. For the receiver of empathy, their emotions are acknowledged in a validating, non‐judgmental way which promotes a strong feeling of “being heard.” An important consideration for technicians practicing empathy is to protect their wellbeing while they seek to understand the feelings and perspectives of others. Technicians should strive to be present and show compassion without taking on the negative feelings of others and experiencing them personally <citation>ch0017-c6-bib-0011</citation>. Continued exposure to distress among caregivers can contribute to empathic <ulink type="disease" url="link.aspx?id=5669">strain</ulink> and burnout among members of the veterinary team. More information about this workplace hazard can be found in <ulink url="ch0031">Chapter 17</ulink>.</para>
+      <para id="ch0017-c6-para-0041">Empathy as a verbal communication skill takes the form of an empathy statement. Empathy statements are crafted in response to the information obtained through active listening. They specifically acknowledge the feelings of the speaker. Typically, empathy statements begin by identifying an emotion the caregiver is feeling, followed by a specific statement regarding why they are feeling that way. A key component of an effective empathy statement is the<emphasis>pause</emphasis> which should immediately follow. When someone is given time to process an empathic response, they can choose to either to say more about their experience or just recognize and appreciate the compassion demonstrated by the statement <citation>ch0017-c6-bib-0003</citation>. <link linkend="ch0017-c6-fea-0008">Communication Corner 6.4</link> provides examples of specific empathy statements.</para>
+      <para id="ch0017-c6-para-0047">When people are experiencing strong, overpowering emotions, they lose the capacity to think clearly. Their cognitive function can be obscured by the presence of emotion. The power of empathy in communication is that it can both acknowledge and diminish the strength of these powerful emotions thus allowing people to think more clearly. Empathy and open communication can help unburden individuals from carrying their heavy emotions. When the technician names the caregiver’s emotions in an empathy statement, the caregiver also has the opportunity to disagree or clarify their emotional state, leading to more clear communication moving forward (see<link linkend="ch0017-c6-fea-0009">Pro Tip 6.4</link>).</para>
+      <para id="ch0017-c6-para-0048">Some people may feel hesitant to use empathy statements because they feel these statements will indicate that they agree with the person who is speaking, even if they do not. In fact, a well‐crafted empathy statement does not reveal anything about the technician’s own personal feelings; it simply acknowledges the emotions of the caregiver. Empathy statements also do not involve trying to get the caregiver to change or suppress their emotions, although often acknowledging an emotional response will reduce its intensity.</para>
+      <sidebar id="ch0017-c6-fea-0007">
+         <title>Pro Tip 6.3 Learning Empathy</title>
+         <anchor id="ch0017-head-2-67"/>
+         <para id="ch0017-c6-para-0039">Some people may consider themselves to be naturally empathic, while others find expressing empathy more challenging. Showing empathy can be learned. It has been demonstrated that being in contact with others who frequently show empathy results in increased ability to communicate empathically<citation>ch0017-c6-bib-0011</citation>.</para>
+         <para id="ch0017-c6-para-0040">Identify the givers of empathy in your personal and professional life and spend quality time with them to support your own growth.</para>
+      </sidebar>
+      <sidebar id="ch0017-c6-fea-0008">
+         <title>Communication Corner 6.4 Using Empathy Statements</title>
+         <anchor id="ch0017-head-2-68"/>
+         <para>“We were hopeful when the test results came back so quickly, but now we know they aren’t good, and we just don’t know what comes next.”</para>
+         <itemizedlist id="ch0017-c6-list-0015">
+            <listitem id="ch0017-c6-li-0038">
+               <para>“You must be really scared right now, because the test results were not at all what you expected today.”</para>
+            </listitem>
+         </itemizedlist>
+         <para>“I just can’t believe Rover has <ulink type="disease" url="link.aspx?id=4181">cancer</ulink>. He’s always been so healthy. We feed him good food and we bring him to the vet every year. Did we do something wrong that could have caused this?”</para>
+         <itemizedlist id="ch0017-c6-list-0016">
+            <listitem id="ch0017-c6-li-0039">
+               <para>“It sounds like you are worried that you may have done something to cause Rover to develop <ulink type="disease" url="link.aspx?id=4181">cancer</ulink>, since he’s been so healthy until now.”</para>
+            </listitem>
+         </itemizedlist>
+         <para>“We are already giving Patches medications four times a day, and now you want us to change her diet and give her an injection once a day?”</para>
+         <itemizedlist id="ch0017-c6-list-0017">
+            <listitem id="ch0017-c6-li-0040">
+               <para>“I can sense that you are feeling overwhelmed by the idea of changing Patches’ diet and adding more medication”</para>
+            </listitem>
+         </itemizedlist>
+         <para>“I’m not sure if we can afford to keep going with the chemotherapy. We don’t want to stop if it’s helping, but it’s so expensive.”</para>
+         <itemizedlist id="ch0017-c6-list-0018">
+            <listitem id="ch0017-c6-li-0041">
+               <para>“It seems that you may be feeling guilty because you may not be able to afford to continue with the chemotherapy.”</para>
+            </listitem>
+         </itemizedlist>
+         <para>While waiting for their pet to come back from radiography, the caregiver is sitting with downcast eyes, rapidly clicking their pen, and restlessly shifting in their seat.</para>
+         <itemizedlist id="ch0017-c6-list-0019">
+            <listitem id="ch0017-c6-li-0042">
+               <para>“I see that you may be feeling nervous about the x‐rays, because they may confirm some serious concerns about Pixie’s health.”</para>
+            </listitem>
+         </itemizedlist>
+      </sidebar>
+      <sidebar id="ch0017-c6-fea-0009">
+         <title>Pro Tip 6.4 Use Specific Statements to Build Connection</title>
+         <anchor id="ch0017-head-2-69"/>
+         <para id="ch0017-c6-para-0049">Avoid generalized statements when expressing empathy<citation>ch0017-c6-bib-0004</citation>. It is easy to choose generic phrases like “This must be upsetting.” or even “This situation really sucks.” While that may be true, those statements do not create the same level of connection as those which speak directly to the caregiver’s experience. For example, “I can see that Snowball’s diagnosis is causing you a lot of sadness and you are worried about how to keep her comfortable.”</para>
+      </sidebar>
+   </sect2>
+   <sect2 id="ch0017s7000">
+      <title>6.3 Emotional Intelligence</title>
+      <anchor id="ch0017-head-2-70"/>
+      <para id="ch0017-c6-para-0050">Emotional intelligence (EI) refers to a person’s ability to identify and manage their own emotions and to recognize emotions in others and respond effectively<citation>ch0017-c6-bib-0012</citation>. Individuals with high EI are self‐aware and can prevent their emotional reactions from dictating their responses in challenging situations <citation>ch0017-c6-bib-0013</citation>. They are also able to correctly identify the emotions other people are experiencing and respond in a way that promotes understanding and clear communication, without experiencing <anchor id="ch0017-Page_102"/>
+         <beginpage pagenum="102"/>those emotions themselves <citation>ch0017-c6-bib-0014</citation>. For people working in helping professions such as veterinary medicine, developing high EI is essential. This skill helps technicians navigate conversations with caregivers experiencing a wide range of emotions, and EI also promotes career longevity by reducing <ulink type="disease" url="link.aspx?id=5714">stress</ulink> and increasing feelings of happiness and well‐being <citation>ch0017-c6-bib-0012</citation>.</para>
+      <para id="ch0017-c6-para-0051">Emotional intelligence can grow and develop over time. As with the basic communication skills already discussed in this chapter, EI consists of core competencies which can be learned and practiced. These four basic competencies are: self‐awareness, self‐management, social awareness, and relationship management<citation>ch0017-c6-bib-0012</citation>. Of these, self‐awareness and self‐management are considered personal competencies, requiring honest self‐reflection and willingness to solicit feedback. Social awareness and relationship management relate to interactions with others and use many of the basic communication skills already discussed. There are many resources available to help technicians train their EI. This chapter will provide an outline of the four competencies as a starting point.</para>
+   </sect2>
+   <sect2 id="ch0017s8000">
+      <title>6.3.1 Self‐Awareness</title>
+      <anchor id="ch0017-head-3-57"/>
+      <para id="ch0017-c6-para-0052">The first step to increased self‐awareness is recognizing and naming emotions. While this may come naturally for some, people are often encouraged to suppress emotional responses to avoid conflict or discomfort. This may <ulink type="drug" url="link.aspx?id=14726">lead</ulink> to a basic inability to accurately identify which emotion is being felt. In addition, some emotions (i.e. anger, guilt, frustration, or sadness) may be seen as “bad” feelings, making people less willing to identify that they are experiencing them. Technicians can begin to overcome these issues by recognizing that emotions are neither good nor bad and that there is no right or wrong way to feel<citation>ch0017-c6-bib-0014</citation>. Emotions are natural responses to external stimuli. When building self‐awareness, begin by acknowledging and naming emotions as they occur <citation>ch0017-c6-bib-0015</citation>. Consider the thoughts and experiences that led up to the feeling and whether there is a pattern of events that generally causes that emotion. Sometimes journaling about these experiences can help with building connections and finding patterns in emotional responses. <link linkend="ch0017-c6-fea-0010">Case Study 6.2</link> describes an example of this process.</para>
+      <sidebar id="ch0017-c6-fea-0010">
+         <title>Case Study 6.2 Dan</title>
+         <anchor id="ch0017-head-2-71"/>
+         <para>Veterinary technician Dan has just finished an EOL appointment, and he takes a moment to check in with himself before he continues work. He notices that <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=His">his</ulink> shoulders are tense, his hands are clenched, and his heart is beating quickly. Dan considers the circumstances of the previous appointment and realizes that he began to experience discomfort when he was unable to successfully place the intravenous catheter for euthanasia. Although the veterinarian was understanding, Dan acknowledges that he was embarrassed and frustrated by his lack of success. Thinking about other similar experiences, he notes that he often has these feelings when he does not perform as well as he would like in front of others. Finally, he takes a few deep breaths and focuses on relaxing his muscles and calming his heart rate. He will journal this event later and use what he has learned today to help him calm himself when these situations occur in the future.</para>
+         <orderedlist continuation="restarts" id="ch0017-c6-list-0020" inheritnum="ignore" role="decimal">
+            <listitem id="ch0017-c6-li-0043">
+               <para>What, if any, elements of Dan’s case are you already doing in your own life? Could you add any steps?</para>
+            </listitem>
+            <listitem id="ch0017-c6-li-0044">
+               <para>How do you think the next appointment may have been impacted if Dan had not taken time to work through this process?</para>
+            </listitem>
+         </orderedlist>
+      </sidebar>
+   </sect2>
+   <sect2 id="ch0017s9000">
+      <title>6.3.2 Self‐Management</title>
+      <anchor id="ch0017-head-3-58"/>
+      <para id="ch0017-c6-para-0054">As technicians develop awareness of their own emotions and their mental and physical effects, the next step is to develop self‐management skills. This refers to the ability to handle emotions without allowing them to disrupt the effectiveness of your communication skills, especially in stressful situations. This may also be referred to as emotional self‐control<citation>ch0017-c6-bib-0014</citation>. Technicians with well‐developed self‐management skills can respond to challenging situations with deliberate intent, rather than reacting solely based on emotional response. Two techniques that can be used to build emotional self‐control are thoughtful self‐reflection and mindfulness [<citation>ch0017-c6-bib-0014</citation>, <citation>ch0017-c6-bib-0016</citation>].</para>
+      <para>Between stimulus and response there is a space.</para>
+      <para>In that space lies your freedom and power to choose your response.</para>
+      <para>In those responses lie your growth and your happiness.</para>
+      <para role="source">—Steven Covey<citation>ch0017-c6-bib-0017</citation>
+      </para>
+      <para id="ch0017-c6-para-0059">Self‐reflection is the process of <anchor id="ch0017-Page_103"/>
+         <beginpage pagenum="103"/>analyzing previous emotional responses and determining personal strengths, weaknesses, and emotional triggers. Effective self‐reflection requires technicians to set their egos aside and honestly consider areas for improvement. This is especially important in situations when it is challenging to contain emotional responses<citation>ch0017-c6-bib-0016</citation>. It may also be beneficial to seek feedback from trusted sources (friends, family, or professional counsellors or therapists) to help identify any blind spots <citation>ch0017-c6-bib-0014</citation>. Being aware ahead of time that a situation may cause a strong emotional response permits the technician to be prepared and take steps to remain in control (see <link linkend="ch0017-c6-fea-0011">Case Study 6.3</link>).</para>
+      <sidebar id="ch0017-c6-fea-0011">
+         <title>Case Study 6.3 Cheyenne</title>
+         <anchor id="ch0017-head-2-72"/>
+         <para>Cheyenne has been a veterinary technician in companion animal general practice for three years. Her workplace recently hosted a session on EI, and she is actively working to develop her own EI to improve her job satisfaction. Cheyenne has been journaling her emotions regularly and has asked a trusted coworker, Frank, for honest feedback regarding her emotional responses to situations. He responds:</para>
+         <itemizedlist id="ch0017-c6-list-0021" role="none">
+            <listitem id="ch0017-c6-li-0045">
+               <para>“One thing I’ve noticed is that you seem to be very upset by euthanasia without any caregivers present. I hear you say that it is unfair to the pet to be left alone, and you cry very intensely throughout the procedure. You seem to be down for the rest of the day after that, and it worries me that you take those feelings home with you, too.”</para>
+            </listitem>
+         </itemizedlist>
+         <para id="ch0017-c6-para-0061">Cheyenne is surprised at Frank’s response at first, but as she thinks more about it, she realizes that he is right and her emotional response to these situations is impacting her much more than she realized. She spends some time considering why she is so upset and how she might manage her emotions more effectively.</para>
+         <para>The next time Cheyenne is asked to assist with an unattended euthanasia, she pauses to acknowledge that this is an upsetting experience for her, and she remembers her planning. She focuses on providing the pet with the best possible care throughout the experience, including aftercare. She takes a moment to say a tearful good‐bye to the pet and practices some deep breathing, reminding herself she did everything in her power to help. Although still sad, Cheyenne is more able to move on with her day in a positive manner.</para>
+         <orderedlist continuation="restarts" id="ch0017-c6-list-0022" inheritnum="ignore" role="decimal">
+            <listitem id="ch0017-c6-li-0046">
+               <para>Who do you have in your own life that you can trust to provide you with honest, non‐judgmental feedback? How does the idea of receiving honest feedback make you feel?</para>
+            </listitem>
+            <listitem id="ch0017-c6-li-0047">
+               <para>What impact will Cheyenne’s work on building self‐management skills have on her coworkers?</para>
+            </listitem>
+         </orderedlist>
+      </sidebar>
+   </sect2>
+   <sect2 id="ch0017s9000-2">
+      <title>6.3.3 Social Awareness</title>
+      <anchor id="ch0017-head-3-59"/>
+      <para id="ch0017-c6-para-0063">Social awareness relates to a person’s interpersonal skills. A technician with high social awareness recognizes that they are impacted by the emotional states of others and that their emotional responses will impact others similarly. Social awareness is demonstrated through the use of listening and empathy skills identified earlier in the chapter. Understanding the perspective of others, finding common ground, and showing a willingness to help others are all hallmarks of well‐developed social awareness<citation>ch0017-c6-bib-0018</citation>.</para>
+   </sect2>
+   <sect2 id="ch0017s9000-3">
+      <title>6.3.4 Relationship Management</title>
+      <anchor id="ch0017-head-3-60"/>
+      <para id="ch0017-c6-para-0064">Successful development of <anchor id="ch0017-Page_104"/>
+         <beginpage pagenum="104"/>self‐awareness, self‐management, and social awareness skills results in increased capacity to manage interpersonal relationships effectively. Two key elements of relationship management include influencing others and conflict management<citation>ch0017-c6-bib-0019</citation>. Technicians demonstrate influence when they skillfully manage the emotional responses of others, using listening and empathy to help others feel heard and regain emotional control. Exerting influence effectively requires a genuine desire to help and a strong willingness to put the needs of others ahead of any personal agenda <citation>ch0017-c6-bib-0019</citation>. Conflict in relationships may arise for many reasons in veterinary medicine, especially during emotionally charged situations such as EOL decision‐making and euthanasia. A technician who can use strong relationship management skills to diffuse and resolve conflict effectively will be highly sought to <ulink type="drug" url="link.aspx?id=14726">lead</ulink> caregiver interactions (see <link linkend="ch0017-c6-fea-0012">Pro Tip 6.5</link>). Examples of conflict management dialogues can be found in <ulink url="ch0018">Chapter 7</ulink>.</para>
+   </sect2>
+   <sect2 id="ch0017s9000-4">
+      <title>6.4  Team‐Based Communication</title>
+      <anchor id="ch0017-head-2-74"/>
+      <para id="ch0017-c6-para-0066">The communication skills highlighted in this chapter are essential not only for communication with caregivers, but also in communication between members of the veterinary team. When all team members possess highly developed communication skills, the team will work together more smoothly, and caregiver satisfaction will be greater.</para>
+   </sect2>
+   <sect2 id="ch0017s9000-5">
+      <title>6.4.1 Getting the Team on Board</title>
+      <anchor id="ch0017-head-3-61"/>
+      <para id="ch0017-c6-para-0067">The skills of nonverbal communication, open questioning techniques, active listening, and empathy statements should be used with veterinary colleagues just as they are with caregivers. Technicians play a vital role in promoting communication skill development to all team members. Working with practice management, technicians can bring forward initiatives to the team in a sensitive, team‐focused manner.</para>
+      <para id="ch0017-c6-para-0068">Change can be hard and in veterinary medicine it often feels relentless. The constant introduction of new drugs, new surgical techniques, new technology, and new protocols can be mentally<anchor id="ch0017-Page_105"/>
+         <beginpage pagenum="105"/>and emotionally exhausting for employees. Development of “soft skills” like communication often takes a back seat to these medical innovations. However, strong communication skills and high EI can promote well‐being and job satisfaction and should be prioritized. Technicians can highlight the benefits of improving communication skills while openly discussing the time commitment and workload associated with these activities. Soliciting feedback and allowing everyone on the team to openly share their concerns will also increase buy‐in <citation>ch0017-c6-bib-0020</citation>.</para>
+      <sidebar id="ch0017-c6-fea-0012">
+         <title>Pro Tip 6.5 Developing EI Leads to Leadership Opportunities</title>
+         <anchor id="ch0017-head-2-73"/>
+         <para id="ch0017-c6-para-0065">Technicians with highly developed EI and strong relationship management skills make excellent leaders. Look for leadership opportunities in your practice! These may range from coordinating an EOL care team for a single patient to managing a technician team or even the veterinary practice.</para>
+      </sidebar>
+   </sect2>
+   <sect2 id="ch0017s9000-6">
+      <title>6.4.2 Building Skills Within the Team</title>
+      <anchor id="ch0017-head-3-62"/>
+      <para id="ch0017-c6-para-0069">Veterinary team members will need communication resources to help them grow their skills and a system to check in and assess progress as they build competence. Most veterinary hospitals utilize some form of clinical rounds procedure in which cases are summarized, and team members are briefed about patient status (or debriefed after cases are resolved). The same techniques can be implemented in “communication rounds” where caregiver interactions are discussed and reviewed in an open, non‐judgmental format<citation>ch0017-c6-bib-0021</citation>. Communication rounds provide everyone on the team with an opportunity to share their thoughts and feelings about challenging caregiver interactions. They provide positive feedback on communication techniques that were used effectively while also discussing opportunities for improvement <citation>ch0017-c6-bib-0021</citation>.</para>
+      <para id="ch0017-c6-para-0070">To promote feelings of safety in these potentially emotionally charged conversations, a designated facilitator should be present at all communication rounds. The facilitator may be a veterinary team member who possesses excellent communication skills and empathy already, or an outside professional may be brought in to help guide the conversation. Skilled facilitators use open questioning techniques to ensure everyone is heard and then summarize key points in the discussion without adding their own opinions<citation>ch0017-c6-bib-0021</citation>. Technicians can take on the role of facilitator when they have developed their own skills to a high level and feel equipped to help and guide others.</para>
+   </sect2>
+   <sect2 id="ch0017s9000-7">
+      <title>6.5 Takeaways</title>
+      <anchor id="ch0017-head-2-75"/>
+      <itemizedlist id="ch0017-c6-list-0023">
+         <listitem id="ch0017-c6-li-0048">
+            <para>Technicians can develop their skills in communication through study and practice.</para>
+         </listitem>
+         <listitem id="ch0017-c6-li-0049">
+            <para>The core communication skills are nonverbal behaviors, asking questions, active listening, and showing empathy.</para>
+         </listitem>
+         <listitem id="ch0017-c6-li-0050">
+            <para>Technicians with high emotional intelligence may be more self‐aware, demonstrate greater emotional self‐control, and manage interpersonal interactions with greater skill.</para>
+         </listitem>
+         <listitem id="ch0017-c6-li-0051">
+            <para>Technicians can drive change in their practices through facilitating the implementation of communication rounds to help all team members build their communication skills.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0017s9000-8">
+      <title>References</title>
+      <anchor id="ch0017-head-2-76"/>
+      <orderedlist continuation="restarts" inheritnum="ignore" role="biblioEntryList">
+         <listitem id="ch0017-c6-bib-0001" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">1</emphasis> Matte, A.R., Khosa, D.K., Coe, J.B., and Meehan, M.P. (2019). Impacts of the process and decision‐making around companion animal euthanasia on veterinary wellbeing. <citetitle>
+                  <emphasis>Vet. Rec.</emphasis>
+               </citetitle> 185 (15): 480.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0002" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">2</emphasis> Kurtz, S., Silverman, J., Benson, J., and Draper, J. (2003). Marrying content and process in clinical method teaching: enhancing the Calgary‐Cambridge guides. <citetitle>
+                  <emphasis>Acad. Med.</emphasis>
+               </citetitle> 78 (8): 802–809.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0003" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">3</emphasis> Adams, C.L. and Kurtz, S. (2017). <citetitle>
+                  <emphasis>Skills for Communicating in Veterinary Medicine</emphasis>
+               </citetitle>. New York: Dewpoint Publishing.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0004" role="bibliographyEntry">
+            <para>
+               <anchor id="ch0017-Page_106"/>
+               <beginpage pagenum="106"/>
+               <emphasis role="strong">4</emphasis> Shaw, J.R. and Coe, J.B. (2024). <citetitle>
+                  <emphasis>Developing Communication Skills for Veterinary Practice</emphasis>
+               </citetitle>. New Jersey: Wiley Blackwell.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0005" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">5</emphasis> Lecat, P., Dhawan, N., Hartung, P.J. et al. (2020). Improving patient experience by teaching empathic touch and eye gaze: a randomized controlled trial of medical students. <citetitle>
+                  <emphasis>J. Patient Exp.</emphasis>
+               </citetitle> 7 (6): 1260–1270.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0006" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">6</emphasis> Shaw, J.R. (2006). Four core communication skills of highly effective practitioners. <citetitle>
+                  <emphasis>Vet. Clin. North Am. Small Anim. Pract.</emphasis>
+               </citetitle> 36: 385–396.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0007" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">7</emphasis> Suvilehto, J.T., Glerean, E., Dunbar, R.I.M. et al. (2015). Topography of social touching depends on emotional bonds between humans. <citetitle>
+                  <emphasis>Psych. Cog. Sci.</emphasis>
+               </citetitle> 112 (45): 13811–13816.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0008" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">8</emphasis> Langewitz, W., Denz, M., Keller, A. et al. (2002). Spontaneous talking time at start of consultation in outpatient clinic: cohort study. <citetitle>
+                  <emphasis>BMJ</emphasis>
+               </citetitle> 325: 682.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0009" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">9</emphasis> Rogers, C.R. and Farson, R.E. (1987). Active listening. In: <citetitle>
+                  <emphasis>Communicating in Business Today</emphasis>
+               </citetitle> (ed. R.G. Newman, M.A. Danzinger, and M. Cohen), 589–598. D.C. Heath &amp; Company.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0010" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">10</emphasis> Kacperek, L. (1997). Non‐verbal communication: the importance of listening. <citetitle>
+                  <emphasis>Br. J. Nurs.</emphasis>
+               </citetitle> 6 (5): 275–279.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0011" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">11</emphasis> Rogers, C.R. (1975). Empathic: an unappreciated way of being. <citetitle>
+                  <emphasis>Couns. Psychol.</emphasis>
+               </citetitle> 5 (2): 2–10.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0012" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">12</emphasis> Stoewen, D.L. (2024). The vital connections between emotional intelligence and well‐being – part 1: understanding emotional intelligence and why it matters. <citetitle>
+                  <emphasis>Can. Vet. J.</emphasis>
+               </citetitle> 65 (2): 182–184.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0013" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">13</emphasis> Salovey, P. and Mayer, J.D. (1990). Emotional intelligence. <citetitle>
+                  <emphasis>Imagin. Cogn. Pers.</emphasis>
+               </citetitle> 9: 185–211.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0014" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">14</emphasis> Stoewen, D.L. (2024). The vital connections between emotional intelligence and well‐being – part 1: strategies to grow your personal emotional intelligence competencies. <citetitle>
+                  <emphasis>Can. Vet. J.</emphasis>
+               </citetitle> 65 (4): 391–396.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0015" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">15</emphasis> Mayer, J.D. and Geher, G. (1996). Emotional intelligence and the identification of emotion. <citetitle>
+                  <emphasis>Intelligence</emphasis>
+               </citetitle> 22 (2): 89–113.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0016" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">16</emphasis> Stichler, J.F. (2006). Emotional intelligence: a critical leadership quality for the nurse executive. <citetitle>
+                  <emphasis>AWHONN Lifelines</emphasis>
+               </citetitle> 10 (5): 422–425.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0017" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">17</emphasis> Covey, S.R. (2004). Foreword. In: <citetitle>
+                  <emphasis>Lead or Get Off the Pot!</emphasis>
+               </citetitle> (ed. P. Croce), xiii–xviii. New York: Fireside.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0018" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">18</emphasis> Stoewen, D.L. (2024). The vital connections between emotional intelligence and well‐being – part 1: strategies to grow your social emotional intelligence competencies. <citetitle>
+                  <emphasis>Can. Vet. J.</emphasis>
+               </citetitle> 65 (6): 603–608.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0019" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">19</emphasis> Cherniss, C. and Goleman, D. (2001). <citetitle>
+                  <emphasis>The Emotionally Intelligent Workplace: How to Select for, Measure, and Improve Emotional Intelligence in Individuals, Groups, and Organizations</emphasis>
+               </citetitle>. San Francisco: Jossey‐Bass.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0020" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">20</emphasis> Guldbrand, K. (2020). How to drive change successfully in veterinary practice. <citetitle>
+                  <emphasis>dvm360</emphasis>
+               </citetitle> 115 (9): 4–5.</para>
+         </listitem>
+         <listitem id="ch0017-c6-bib-0021" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">21</emphasis> Shaw, J.R. and Lagoni, L. (2007). End‐Of‐Life communication in veterinary medicine: delivering bad news and euthanasia decision making. <citetitle>
+                  <emphasis>Vet. Clin. North Am. Small Anim. Pract.</emphasis>
+               </citetitle> 37: 95–108.</para>
+         </listitem>
+      </orderedlist>
+   </sect2>
+</sect1>

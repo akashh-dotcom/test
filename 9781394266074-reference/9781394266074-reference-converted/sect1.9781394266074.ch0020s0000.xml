@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0020s0000">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394266074.</risprev>
+         <riscurrent>sect1.9781394266074.ch0020s0000</riscurrent>
+         <risnext>sect1.9781394266074.</risnext>
+         <booktitle>Companion Animal End of Life Care for the Veterinary Technician</booktitle>
+         <isbn>9781394266074</isbn>
+         <chapternumber/>
+         <chapterid>ch0020</chapterid>
+         <chaptertitle/>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Alyssa</firstname>
+                  <surname>Eslinger</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Joye</firstname>
+                  <surname>Sears</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc.</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Alyssa</firstname>
+            <surname>Eslinger</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>9 Death and Dying</title>
+   <anchor id="ch0020-c09_1"/>
+   <para role="chapterAuthor">
+      <emphasis>Alyssa Eslinger</emphasis>
+   </para>
+   <para role="chapterAuthorAffiliation">
+      <emphasis>Veterinary Technology Program, Dalhousie University, Bible Hill, NS, Canada</emphasis>
+   </para>
+   <sect2 id="ch0020s1000">
+      <title>9.1 Introduction</title>
+      <anchor id="ch0020-head-2-108"/>
+      <para id="ch0020-c9-para-0002">Companion animal end‐of‐life (EOL) care often involves complex communication, which must be handled with skill and empathy by veterinary technicians. Multiple facets of the approach to EOL communication have been examined in previous chapters on quality of life (QOL) assessments, applied communication techniques, supporting difficult conversations, and ethical EOL decision‐making. This chapter will explore two further components of EOL communication: educating clients about the animal experience of dying and building technician awareness of hospice‐supported natural death as an alternative to euthanasia.</para>
+      <para id="ch0020-c9-para-0003">Educating caregivers and families on what to expect through the process of dying and the moment of death can be challenging as death is unpredictable and the appearance can vary between individuals. Euthanasia gives some predictability to companion animal death but is still accompanied by visible signs of dying, which must be explained. Hospice‐supported natural death is becoming more common in veterinary medicine and requires significantly different communication compared to euthanasia. Veterinary technicians will build confidence in these conversations as they gain experience, but having a baseline of knowledge should allow technicians at any stage in their career to support caregivers. If further information and guidance are needed, technicians should not hesitate to engage more experienced veterinary professionals in these communications. This is particularly important when it comes to discussing hospice‐supported natural death, as many veterinary teams have little experience with those cases. If a certified hospice and palliative veterinarian (CHPV) or dedicated EOL care service is present in your area, it is advisable to refer pet caregivers interested in hospice‐supported natural death to those teams.</para>
+      <para id="ch0020-c9-para-0004">Referral is a valuable tool, but do not underestimate the impact of an existing relationship and rapport with caregivers. When engaging in discussions about hospice‐supported natural death, caregivers will appreciate any information and support their regular veterinary practice can provide, even if they are ultimately referred or decide against hospice‐supported natural death. Technicians should develop a basic understanding of the approach to hospice‐supported natural<anchor id="ch0020-Page_138"/>
+         <beginpage pagenum="138"/>death to support more effective communication with clients considering this path. Realistic discussions of what may be involved are a crucial part of the decision‐making process and will be introduced in this chapter.</para>
+      <para id="ch0020-c9-para-0005">When communicating about EOL decision‐making in veterinary medicine, the published literature is largely focused on euthanasia. With the development of the Animal Hospice and Palliative Care (AHPC) movement and the founding of the International Association of Animal Hospice and Palliative Care (IAAHPC), the awareness of and requests for hospice‐supported natural death are increasing. Technicians should avoid trying to sway clients toward hospice‐supported natural death or euthanasia and instead seek to educate and support them in making their own informed decision. Whether the caregivers decide upon humane euthanasia or hospice‐supported natural death, they will want to understand what to expect in the dying process and at the time of death. This chapter will explore the observable signs of dying and death, considerations for choosing hospice‐supported natural death as an alternative to euthanasia, ethical dilemmas that may be encountered, and an introduction to practical nursing strategies for palliation during natural death.</para>
+   </sect2>
+   <sect2 id="ch0020s2000">
+      <title>9.2 Animal Experience of Dying</title>
+      <anchor id="ch0020-head-2-109"/>
+      <para id="ch0020-c9-para-0006">Death is a process that varies between individuals. There are many changes that can signal the start of the process days or even weeks prior to the moment of death. As the body’s systems begin to fail, there is a transition from attempting to maintain homeostasis to progressive loss of function. The appearance of this will change depending on the underlying disease processes affecting the individual. For example, an animal undergoing <ulink type="disease" url="link.aspx?id=2608">congestive heart failure</ulink> (CHF) will present with signs relating to poor circulation and insufficient tissue oxygenation, whereas an animal succumbing to <ulink type="disease" url="link.aspx?id=7478">kidney failure</ulink> will present with signs associated with <ulink type="disease" url="link.aspx?id=6234">uremia</ulink> and <ulink type="disease" url="link.aspx?id=1400">dehydration</ulink>. The dying process presents differently in each of these animals but in both cases will culminate in cardiovascular collapse and physical signs that indicate a catastrophic failure of <ulink type="drug" url="link.aspx?id=13108">oxygen</ulink> delivery to tissue.</para>
+   </sect2>
+   <sect2 id="ch0020s3000">
+      <title>9.2.1 Signs of Dying</title>
+      <anchor id="ch0020-head-3-82"/>
+      <para id="ch0020-c9-para-0007">Literature on the process of dying is lacking in veterinary medicine. When it comes to a description of the expected physical and behavioral changes, many refer to Gail Pope’s “Soar, My Butterfly: The Animal Dying Experience.”<citation>ch0020-c9-bib-0001</citation> Pope is the founder of the BrightHaven Center for Animal Rescue, Hospice, and Holistic Education, which cared for over 600 animals from 1990 to 2018. While Pope is not a veterinary professional, their extensive amount of experience supporting animals through death has allowed them to observe and communicate what may be expected during an animal’s experience of dying. In educating caregivers, EOL care teams may refer to “Soar, My Butterfly” and pair it with more specific information related to the individual animal’s diagnoses and expected <ulink type="disease" url="link.aspx?id=8107">disease progression</ulink>.</para>
+      <para id="ch0020-c9-para-0008">The dying process may be divided into three stages: one to three months before death, one to two weeks before death, and the hours or few days before death<citation>ch0020-c9-bib-0001</citation>. The signs associated with these stages have been summarized in <link linkend="ch0020-c9-tbl-0001">Table 9.1</link>.</para>
+      <para id="ch0020-c9-tbl-0001">
+         <phrase role="figureLabel">
+            <phrase role="color1">
+               <emphasis role="strong">Table 9.1</emphasis>
+            </phrase>
+         </phrase> Stages and signs of animal dying.
+<emphasis>Source:</emphasis> Pope <citation>ch0020-c9-bib-0001</citation>, Yaxley <citation>ch0020-c9-bib-0002</citation>.
+</para>
+      <table>
+         <title>Table 1</title>
+         <tgroup cols="2">
+            <tbody>
+               <row>
+                  <entry>
+                     <para>Stage one (early): one to three months before death</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">
+                           <emphasis>Physical Signs:</emphasis>
+                        </emphasis>
+<?lb?> Challenging to differentiate from signs related to disease, which might be alleviated by palliative care.
+ </para>
+                  </entry>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">
+                           <emphasis>Behavioral Signs:</emphasis>
+                        </emphasis>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>Stage two: one to two weeks before death</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">
+                           <emphasis>Physical Signs:</emphasis>
+                        </emphasis>
+<?lb?> Close monitoring required to identify signs of distress which require palliation.<?lb?>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">
+                           <emphasis>Behavioral Signs:</emphasis>
+                        </emphasis>
+<?lb?>
+                     </para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>Stage three (advanced): hours to days before death</para>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">
+                           <emphasis>Physical Signs:</emphasis>
+                        </emphasis>
+<?lb?> Signs are similar to stage two but progressed.<?lb?>
+                     </para>
+                  </entry>
+                  <entry>
+                     <para>
+                        <emphasis role="strong">
+                           <emphasis>Behavioral Signs:</emphasis>
+                        </emphasis>
+<?lb?> There may be a period of sudden improvement with more activity and mental presence before progression to active dying (<link linkend="ch0020-c9-fea-0001">Pro Tip 9.1</link>).<?lb?>
+                     </para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <sidebar id="ch0020-c9-fea-0001">
+         <title>Pro Tip 9.1 Signs of Dying and Euthanasia</title>
+         <anchor id="ch0020-head-2-110"/>
+         <para id="ch0020-c9-para-0028">Caregivers may have planned a euthanasia procedure and then question that decision when their pet appears to have suddenly improved with more activity, energy, and engagement than they have seen in a long while. The veterinary team can help determine if this is a genuine improvement in the pet, or if this is in fact a sign of the advanced stage of the dying process (see<link linkend="ch0020-c9-tbl-0001">Table 9.1</link>). If so, this period of activity, energy, and engagement may be seen as a blessing in the context of a meaningful EOL transition, rather than a reason to question the euthanasia decision or timing.</para>
+      </sidebar>
+   </sect2>
+   <sect2 id="ch0020s4000">
+      <title>9.2.2 Signs of Death</title>
+      <anchor id="ch0020-head-3-83"/>
+      <para>In addition to describing the signs associated with the stages of dying, Pope’s “Soar, My Butterfly” also describes overarching patterns that may be observed as animals move through the process<citation>ch0020-c9-bib-0001</citation>. These patterns of dying may be described as follows:</para>
+      <itemizedlist id="ch0020-c9-list-0005">
+         <listitem id="ch0020-c9-li-0029">
+            <para>
+               <emphasis>Easy deaths</emphasis> are marked by animals that remain aware and in contact with those around them until the final moments, or by animals who are generally unaware of their surroundings, slipping in and out of consciousness until the moment of death.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0030">
+            <para>
+               <emphasis>Fast deaths</emphasis> occur when the animal is not obviously in the active dying process and a sudden transition to death occurs.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0031">
+            <para>
+               <emphasis>Prolonged and restless deaths</emphasis> occur when animals appear to remain in the dying process for an extended period. This may be marked by cognitive changes similar to the terminal <ulink type="disease" url="link.aspx?id=9731">delirium</ulink> experienced by human hospice patients (i.e. agitation, aggression, <ulink type="disease" url="link.aspx?id=1220">confusion</ulink>, anxiety, and lack of focus) <citation>ch0020-c9-bib-0003</citation>. These animals must be carefully evaluated for disease complications or distress that may require medical intervention (i.e. anxiety, respiratory distress, or unmanaged <ulink type="disease" url="link.aspx?id=4522">pain</ulink>). Signs that are unable to be palliated in a conscious patient will require palliative sedation or humane euthanasia to protect animal welfare. This type of death can be particularly difficult for caregivers even if it is well palliated, and some families may decide to proceed with humane euthanasia at this time.</para>
+         </listitem>
+      </itemizedlist>
+      <para id="ch0020-c9-para-0030">The physiological signs that present at the time of death (perimortem) are similar in humane euthanasia and hospice‐supported natural death and will be revisited in<ulink url="ch0023">Chapter 11</ulink> in the context of euthanasia procedures. The animal progresses from unconscious to apneic and then into <ulink type="disease" url="link.aspx?id=10244">cardiac arrest</ulink> <citation>ch0020-c9-bib-0004</citation>. There are multiple other signs which may occur at any time during the perimortem period. Some signs are lessened with the use of palliative sedation or euthanasia premedication, and all are variable between individuals. It is important to note that death itself is not thought to be accompanied by any new <ulink type="disease" url="link.aspx?id=4522">pain</ulink> or exacerbation of any existing <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. <ulink type="disease" url="link.aspx?id=4523">Pain</ulink> may be present from the preexisting disease states, but death itself is likely not painful (<link linkend="ch0020-c9-tbl-0002">Table 9.2</link>).</para>
+      <para id="ch0020-c9-tbl-0002">
+         <phrase role="figureLabel">
+            <phrase role="color1">
+               <emphasis role="strong">Table 9.2</emphasis>
+            </phrase>
+         </phrase> Perimortem physiological changes.
+</para>
+      <table>
+         <title>Table 2</title>
+         <tgroup cols="1">
+            <tbody>
+               <row>
+                  <entry>
+                     <para>Reflexive, agonal breathing<?lb?> <ulink type="disease" url="link.aspx?id=408">Apnea</ulink>
+<?lb?> Opisthotonus stretching<?lb?> Muscle twitching<?lb?> Lack of reflexes<?lb?> <ulink type="disease" url="link.aspx?id=10244">Cardiac arrest</ulink>
+<?lb?> Body fluid release<?lb?> Glazed eyes<?lb?> Body cooling</para>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+   <sect2 id="ch0020s5000">
+      <title>9.3 Natural Death vs Hospice‐Supported Natural Death</title>
+      <anchor id="ch0020-head-2-111"/>
+      <para id="ch0020-c9-para-0040">Natural death and hospice‐supported natural death are two different concepts. Some may see natural death as preferable to euthanasia, but natural does not inherently mean better. An unsupported natural death can be painful and distressing. A hospice‐supported natural death is one where the animal’s clinical signs, most importantly <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and anxiety, are managed throughout the process. Palliative care is offered throughout a hospice‐supported natural death to attend to the welfare of the animal without intentionally prolonging life or hastening death. Just as QOL is a primary<anchor id="ch0020-Page_141"/>
+         <beginpage pagenum="141"/>consideration in EOL care, so too is quality of dying. This is true in hospice‐supported natural death as well as euthanasia.</para>
+      <para>There are multiple reasons why a family may consider hospice‐supported natural death instead of euthanasia. The reasons for this preference are often philosophical and emotional in nature rather than scientific<citation>ch0020-c9-bib-0005</citation>. Reasons for choosing hospice‐supported natural death may include:</para>
+      <itemizedlist id="ch0020-c9-list-0006">
+         <listitem id="ch0020-c9-li-0032">
+            <para>Previous negative experience with euthanasia.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0033">
+            <para>Previous positive experience with natural death.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0034">
+            <para>Fear of making the decision to euthanize at the “wrong” time. This could include fear of deciding too late, resulting in unnecessary suffering, or deciding too early and depriving the animal of quality time.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0035">
+            <para>Spiritual or religious beliefs that prevent the family from choosing to end their pet’s life and instead preferring death to happen in its own time.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0036">
+            <para>Reluctance to take on the responsibility of making an EOL decision for the pet at all. The responsibility and authority rest with the caregivers nonetheless, and empathic technicians can help support them in this recognition.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0037">
+            <para>The belief that natural death is preferable to euthanasia simply because it is natural, where there is a biased view of natural meaning inherently good. This is where education and informed decision‐making become imperative.</para>
+         </listitem>
+      </itemizedlist>
+      <para id="ch0020-c9-para-0042">Once caregivers indicate a preference for a hospice‐supported natural death, the EOL care team supporting them will ensure the caregivers are educated about what to expect beyond simply the signs of dying and death. This must include plans for supporting the animal’s care financially and logistically, and identifying any barriers or challenges in doing so. Death is unpredictable, and EOL care teams and caregivers must be prepared for the unpredictability of the timeframe and support needs. The interdisciplinary team will need to be well‐positioned to provide care throughout the process, which often requires 24‐hour care in the advanced stage of dying. If there is a question about the feasibility of providing this care, then a serious discussion must be had as to whether hospice‐supported natural death is an ethical decision for that animal and family. A realistic discussion of the requirements of hospice‐supported natural death often brings caregivers to the realization that this is not a feasible path for them to take (<link linkend="ch0020-c9-fea-0002">Case Study 9.1</link>).</para>
+      <sidebar id="ch0020-c9-fea-0002">
+         <title>Case Study 9.1 Linda, Trish, and Sprout</title>
+         <anchor id="ch0020-head-2-112"/>
+         <para id="ch0020-c9-para-0043">Linda and Trish contacted an EOL care service to discuss supporting a natural death for their 16‐year‐old male Jack Russell Terrier, Sprout. They have been diligently treating Sprout for CHF for the past four years but are noticing that despite triple therapy (<ulink type="drug" url="link.aspx?id=10323">pimobendan</ulink>, <ulink type="drug" url="link.aspx?id=12564">enalapril</ulink>, and <ulink type="drug" url="link.aspx?id=2845">furosemide</ulink>), he is losing weight and starting to withdraw and sleep a lot more. It’s getting harder to administer <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=His">his</ulink> medications and he is losing interest in treats and food, which is how they get three pills into him twice a day. Linda and Trish understand there are more options to support Sprout, but the medications have been a lot for their budget, and they can’t really afford to see specialists or hospitalize him. They’ve decided they would like to withdraw care and allow Sprout to die with hospice support.</para>
+         <para id="ch0020-c9-para-0044">The technician discusses the progression of disease that will occur for Sprout if <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=His">his</ulink> medication is withdrawn. Sprout will have multiple signs due to lack of effective circulation and <ulink type="drug" url="link.aspx?id=12285">blood</ulink> oxygenation from <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=His">his</ulink> heart failure. The most concerning signs would be related to the <ulink type="disease" url="link.aspx?id=5074">pulmonary edema</ulink> and lack of <ulink type="drug" url="link.aspx?id=13108">oxygen</ulink> delivery to his brain. <ulink type="disease" url="link.aspx?id=5444">Seizures</ulink> may be upsetting for the family to witness, but respiratory distress will be the most concerning for Sprout’s welfare. The veterinarian has offered to prescribe home <ulink type="drug" url="link.aspx?id=13108">oxygen</ulink> therapy to provide some comfort in the earlier stages of the dying process. The technician explains that it is difficult to say how quickly Sprout will progress, but there will come a time when Sprout will need palliative sedation due to the welfare concern presented by respiratory distress from pulmonary <ulink type="disease" url="link.aspx?id=1719">edema</ulink>. This will require veterinary home care to administer and monitor palliative sedation. It is unpredictable how quickly Sprout would proceed to active dying, so Linda and Trish would need to prepare for veterinarian or technician visits daily, or even multiple times a day until Sprout’s time of death.</para>
+         <para>After thorough discussion of supporting a natural death and the financial and logistical commitments, Linda and Trish inform the technician that they do not have the financial capacity to commit to a hospice‐supported natural death. They request to proceed with planning a humane euthanasia at home.</para>
+         <orderedlist continuation="restarts" id="ch0020-c9-list-0007" inheritnum="ignore" role="decimal">
+            <listitem id="ch0020-c9-li-0038">
+               <para>
+                  <emphasis>This technician was well versed in the processes involved in death and dying. Would you feel prepared to have this conversation with Linda and Trish? What additional resources do you need to feel more prepared?</emphasis>
+               </para>
+            </listitem>
+            <listitem id="ch0020-c9-li-0039">
+               <para>
+                  <emphasis>Linda and Trish had to make decisions based on the best outcomes for Sprout while considering their financial limitations. What would you say to them to reassure them that they are making the best choice for their family?</emphasis>
+               </para>
+            </listitem>
+         </orderedlist>
+      </sidebar>
+   </sect2>
+   <sect2 id="ch0020s6000">
+      <title>9.4 Informed Consent for Hospice‐Supported Natural Death</title>
+      <anchor id="ch0020-head-2-113"/>
+      <para id="ch0020-c9-para-0046">Once an effective discussion regarding hospice‐supported natural death has occurred and the caregivers would like to proceed, informed consent should be documented just as it would be for euthanasia. Supporting these discussions and obtaining informed consent should occur as early as possible in the hospice relationship so there is time to compassionately communicate without pressure. Offering caregivers options, information, and time to process allows them to feel a sense of control in a situation where it otherwise may feel lacking (see<link linkend="ch0020-c9-fea-0003">Pro Tip 9.2</link>).</para>
+      <para id="ch0020-c9-para-0047">Informed consent discussions surrounding hospice‐supported natural death should include consideration of challenging situations that may arise. This allows for alternative plans to be made in advance within a shared decision‐making paradigm, rather than leaving these discussions to<anchor id="ch0020-Page_143"/>
+         <beginpage pagenum="143"/>moments that may be pressured due to animal welfare concerns and emotional distress (i.e. if an animal’s <ulink type="disease" url="link.aspx?id=4522">pain</ulink> becomes unmanageable during the dying process, how will the caregivers and veterinary team respond?). The consent form should include an acknowledgment that the process of supporting a natural death within animal hospice has been thoroughly discussed with the veterinarian and the caregiver is prepared to support their animal’s needs financially, logistically, and mentally. The form should include the caregivers’ acknowledgment of their responsibilities in the hospice‐supported death and the ethical boundaries of the veterinary team.</para>
+      <sidebar id="ch0020-c9-fea-0003">
+         <title>Pro Tip 9.2 Flexibility to Change EOL Decisions</title>
+         <anchor id="ch0020-head-2-114"/>
+         <para id="ch0020-c9-para-0049">Caregivers making EOL decisions for their pets need to be effectively informed, so that they have realistic expectations. Part of this is allowing flexibility if the caregivers change their mind, or if the pet’s status requires it. After any significant decisions or plans are made, remind clients that it is okay to change their mind at any time.</para>
+         <para id="ch0020-c9-para-0050">A client may decide upon hospice‐supported natural death in theory but then feel overwhelmed with the care requirements or the experience of watching the dying process. They may feel ashamed, embarrassed, or guilty about changing their mind and avoid reaching out. A compassionate technician can check in and simply ask if the caregiver has any questions or concerns at this time. With a good rapport, this may be enough to open the door to discuss a change in plan such as a change to humane euthanasia.</para>
+      </sidebar>
+      <para id="ch0020-c9-para-0048">Preferences for EOL may be indicated on a consent form with three options: (1) hospice‐supported natural death with euthanasia only acceptable if it is deemed necessary to prevent suffering, (2) hospice‐supported natural death preferred but euthanasia is just as acceptable if circumstances require, and (3) planned euthanasia is preferred. The consent form should include a stipulation that euthanasia may be required if unnecessary suffering cannot effectively be prevented for any reason. If caregivers are unwilling to agree to this stipulation, the veterinarian will need to be prepared to terminate the veterinarian–client–patient relationship (VCPR) on ethical grounds. It is the author’s experience that compassionate and effective communication with caregivers avoids this level of conflict in most instances. Technicians play a major role in preventing this situation by supporting thorough, patient EOL conversations with empathy. Refer to<ulink url="ch0017">Chapters 6</ulink> and <ulink url="ch0018">7</ulink> for communication skills and their application in difficult conversations, as well as EOL decision‐making considerations in <ulink url="ch0019">Chapter 8</ulink>.</para>
+   </sect2>
+   <sect2 id="ch0020s7000">
+      <title>9.5 Ethical Challenges in Hospice‐Supported Natural Death</title>
+      <anchor id="ch0020-head-2-115"/>
+      <para>Supporting families through the death of their beloved companion animal is a demanding task, but one that can also be highly rewarding. The process of supporting natural death may <ulink type="drug" url="link.aspx?id=14726">lead</ulink> to moral <ulink type="disease" url="link.aspx?id=5714">stress</ulink> for the veterinary technician as they perceive ethical dilemmas. Some examples of challenging situations include the following:</para>
+      <itemizedlist id="ch0020-c9-list-0008">
+         <listitem id="ch0020-c9-li-0040">
+            <para>Finances are not available to provide the necessary palliative care for an ethical, humane hospice‐supported natural death.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0041">
+            <para>Logistical barriers prevent the necessary palliative care for an ethical, humane hospice‐supported natural death (i.e. mobile veterinary professionals are unavailable for home‐based care, caregivers are not home enough to provide treatments).</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0042">
+            <para>The animal has unmanageable signs of distress.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0043">
+            <para>The caregivers change their minds during the process.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0044">
+            <para>There is an ethical conflict between members of the families.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0045">
+            <para>There is an ethical conflict between the family and the veterinary team.</para>
+         </listitem>
+      </itemizedlist>
+      <para id="ch0020-c9-para-0052">Veterinarians must be prepared to decline to support the natural death if there is a lack of agreement and understanding between the veterinary team and the caregivers in the planning stage. If a hospice‐supported natural death is planned, and it becomes clear that effective palliative care cannot be provided for any reason, then the plan must be altered to provide the animal with a humane euthanasia rather than proceeding with a natural death associated with untreated <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, anxiety, or other distress. Technicians must be prepared to discuss their ethical concerns with the veterinarian so that the team may effectively support each other and the animals and families in their care. The veterinarian will ultimately need to set the ethical boundary and determine if it is necessary to proceed to humane euthanasia to fulfill their duty in attending to<anchor id="ch0020-Page_144"/>
+         <beginpage pagenum="144"/>animal welfare first and foremost. The need to terminate the VCPR due to unresolved ethical dilemmas should be a rarity if EOL care teams elicit the caregivers’ perspective, practice empathic communication, and educate caregivers effectively. Reporting animal neglect or cruelty to the relevant local authorities should be similarly rare but may also be necessary and technicians should be prepared for this possibility (<link linkend="ch0020-c9-fea-0004">Pro Tip 9.3</link>, <link linkend="ch0020-c9-fea-0005">Case Study 9.2</link>).</para>
+      <sidebar id="ch0020-c9-fea-0004">
+         <title>Pro Tip 9.3 Relationships with Animal Bylaw Enforcement Authorities</title>
+         <anchor id="ch0020-head-2-116"/>
+         <para id="ch0020-c9-para-0053">Communicating with the local humane society and/or other local authorities responsible for animal bylaw enforcement may be more common for veterinary professionals dedicated to EOL care than in other forms of practice. This can sometimes be due to a need to report animal welfare concerns, but it may also occur because the EOL care team has been able to successfully resolve welfare concerns reported by others. Veterinary teams that do not have the ability or comfort level to provide mobile care or support natural death may report cases of declined euthanasia to the humane society which can be resolved with the involvement of animal hospice and palliative care certified veterinarians and technicians.</para>
+      </sidebar>
+      <sidebar id="ch0020-c9-fea-0005">
+         <title>Case Study 9.2 Lydia and Buttons</title>
+         <anchor id="ch0020-head-2-117"/>
+         <para id="ch0020-c9-para-0054">Lydia presented her 18‐year‐old, female domestic short hair, Buttons, to a mobile EOL service for hospice care and hospice‐supported natural death. Buttons had oral squamous cell <ulink type="disease" url="link.aspx?id=852">carcinoma</ulink> and was unable to eat due to the painful, infected, ulcerated <ulink type="disease" url="link.aspx?id=4181">tumor</ulink> in her mouth. Buttons was recently seen by an <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> veterinarian who recommended euthanasia. When Lydia declined, an esophageal feeding tube was placed, but the <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> veterinarian also filed a report with the local humane society out of concern for Buttons’ poor condition and referred Buttons to a hospice service.</para>
+         <para id="ch0020-c9-para-0055">A technician collected a history over the phone and arranged an initial home hospice consultation with the CHPV. The consultation went well, and a treatment plan was agreed upon and implemented to manage <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, secondary infection, nutrition, and care of the feeding tube. During the consultation, Lydia indicated her preference for a hospice‐supported natural death. She understood if Buttons’ QOL could not be preserved, or if she could not afford the necessary palliative care, that humane euthanasia may be required. Lydia signed a consent form and a caregiver responsibilities document indicating her agreement.</para>
+         <para id="ch0020-c9-para-0056">Buttons responded well to palliative care in the first few weeks. After one month of palliative care, Buttons started to experience some challenges. The area around her feeding tube was dirty and inflamed and the tube was clogged. Lydia spoke to a technician on the phone and revealed that she hadn’t been able to clean around the tube or flush it like the care plan said because Buttons was getting more fractious with handling. The technician had Lydia bring Buttons into the clinic so they could evaluate the feeding tube. The area around the feeding tube was significantly infected. The veterinarian tried to unclog the feeding tube but was unable to and recommended removing it. This left two options: (1) placing a new tube under anesthesia, or (2) leaving the tube out and respecting Buttons’ withdrawal from food and allowing her to progress through the dying process.</para>
+         <para id="ch0020-c9-para-0057">Lydia became very upset with the suggestion that any level of care would be withdrawn but declined anesthesia to place a new esophageal feeding tube. This scenario had been discussed when the care plan was agreed upon, but when it occurred Lydia was angry about the options being offered and stormed out.</para>
+         <para>The technician called Lydia at home later that day to try and discuss Buttons’ care. After a significant investment of time and excellent use of empathic communication skills, Lydia was still upset and unwilling to proceed with any of the veterinarian's treatment plans, or humane euthanasia. At that point, the technician suggested to the veterinarian that they may need to discuss terminating the VCPR. The veterinarian followed up with Lydia and was unable to change the course of the communication. Unfortunately, the phone call concluded with termination of the VCPR and the veterinarian informed the humane society that Lydia is declining further care from their team. The humane society called the team a week later to let them know they contacted Lydia and Buttons had already died at home.</para>
+         <orderedlist continuation="restarts" id="ch0020-c9-list-0009" inheritnum="ignore" role="decimal">
+            <listitem id="ch0020-c9-li-0046">
+               <para>
+                  <emphasis>Did the team determine the caregiver’s motivation for choosing hospice‐supported natural death? How might this have informed or changed what happened?</emphasis>
+               </para>
+            </listitem>
+            <listitem id="ch0020-c9-li-0047">
+               <para>
+                  <emphasis>Could the EOL care team have communicated more effectively? When and how? (See <link linkend="ch0020-c9-fea-0006">Pro Tip 9.4</link>)</emphasis>
+               </para>
+            </listitem>
+            <listitem id="ch0020-c9-li-0048">
+               <para>
+                  <emphasis>What role could a veterinary social worker have played if one were available?</emphasis>
+               </para>
+            </listitem>
+            <listitem id="ch0020-c9-li-0049">
+               <para>
+                  <emphasis>Did the veterinarian and technician behave ethically throughout? How or how not?</emphasis>
+               </para>
+            </listitem>
+         </orderedlist>
+      </sidebar>
+      <sidebar id="ch0020-c9-fea-0006">
+         <title>Pro Tip 9.4 Focus on the Process Rather Than the Outcome</title>
+         <anchor id="ch0020-head-2-118"/>
+         <para id="ch0020-c9-para-0059">Effective, empathic communication does not always result in a mutually agreeable positive outcome. EOL technicians should take care to measure their success by the journey rather than the destination.</para>
+         <para id="ch0020-c9-para-0060">Do you feel comfortable with how you handled a situation, even if it didn’t turn out the way you hoped? Focus on your efforts rather than the outcome. If there is something to learn from a situation, move forward with that rather than letting a difficult outcome weigh on you. Honor those involved (including you!) by using what you learned to help others in the future.</para>
+      </sidebar>
+   </sect2>
+   <sect2 id="ch0020s8000">
+      <title>9.6 Nursing Care in Hospice‐Supported Natural Death</title>
+      <anchor id="ch0020-head-2-119"/>
+      <para id="ch0020-c9-para-0061">Discussing hospice‐supported natural death with caregivers requires the technician to understand what nursing an animal through the dying process might entail. This allows technicians to educate caregivers during decision‐making and empower them to be active members of the EOL care team during the dying process. Nursing an animal through hospice‐supported natural death can involve many palliative strategies. Some will be more specific to the underlying disease processes, and some will be more focused on general comfort. Palliative considerations in dying patients include <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and anxiety management, general comfort and hygiene, and fluid and nutrition management.</para>
+      <para id="ch0020-c9-para-0062">The strategies for nursing dying patients described below can be initiated by the technician, but many can also be maintained by the caregivers if they are able, willing, and properly educated by the veterinary team.</para>
+   </sect2>
+   <sect2 id="ch0020s9000">
+      <title>9.6.1 Environment and General Comfort</title>
+      <anchor id="ch0020-head-3-84"/>
+      <para>The environment can have a significant impact on a dying patient’s experience and quality of dying. Careful consideration of the environment may offer comfort to the patient and support a calm and peaceful surroundings for the people and animals attending the death. Attention to physical comfort should be continued through the dying process, using many of the palliative nursing strategies discussed in<ulink url="ch0014">Chapter 4</ulink>.</para>
+      <itemizedlist id="ch0020-c9-list-0010">
+         <listitem id="ch0020-c9-li-0050">
+            <para>Maintain a calm and relatively quiet environment. This could include dimmed lighting, quiet music or silence, quiet voices, and limited traffic.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0051">
+            <para>Provide time for the pet to connect with animals and people that are important to them.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0052">
+            <para>Maintain the emotional balance of the surrounding people to lessen <ulink type="disease" url="link.aspx?id=5714">stress</ulink> for the pet. This includes managing conflict away from the pet and attending to the mental wellness of the caregivers and family.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0053">
+            <para>Provide comfortable bedding that is cushioned but not so soft that it lacks traction and posture support.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0054">
+            <para>Lubricate or protect dry mucous membranes (e.g. apply lubricating eye drops, moisten dry lips and tongue with <ulink type="drug" url="link.aspx?id=15160">water</ulink>, apply <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=Petroleum Jelly">petroleum jelly</ulink> or pet‐safe balms to dry nose and lips).</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0055">
+            <para>Gently attend to hygiene and grooming as needed for comfort (e.g. removing matted fur, cleaning irritated ears, cleaning soiled skin and fur, regularly changing pee pads).</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0020s9000">
+      <title>9.6.2 Anxiety</title>
+      <anchor id="ch0020-head-3-85"/>
+      <para>Anxiety management was covered in<ulink url="ch0014">Chapter 4</ulink> but is included here to contextualize palliative strategies in dying patients. Cognitive changes that resemble terminal <ulink type="disease" url="link.aspx?id=1402">delirium</ulink> in people can be a significant cause of anxiety during dying and may require intervention to maintain quality of dying.</para>
+      <itemizedlist id="ch0020-c9-list-0011">
+         <listitem id="ch0020-c9-li-0056">
+            <para>Maintain a calm environment and calm demeanor in those around the pet to aid in reducing anxiety.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0057">
+            <para>Use calming pheromones.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0058">
+            <para>Provide antianxiety medication as prescribed by the veterinarian (e.g. trazodone, <ulink type="drug" url="link.aspx?id=2846">gabapentin</ulink>, etc.).</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0059">
+            <para>If anxiety is caused by a physical concern (such as respiratory distress), further intervention may be required such as veterinarian prescribed palliative sedation (e.g. <ulink type="drug" url="link.aspx?id=12198">midazolam</ulink> + opioid).</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0020s9000">
+      <title>9.6.3 Pain</title>
+      <anchor id="ch0020-head-3-86"/>
+      <para>Pain management was discussed in<ulink url="ch0013">Chapter 3</ulink> and thus is only mentioned briefly for special consideration within the dying process.</para>
+      <itemizedlist id="ch0020-c9-list-0012">
+         <listitem id="ch0020-c9-li-0060">
+            <para>While death itself is not thought to be painful or to exacerbate existing <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, there may still be <ulink type="disease" url="link.aspx?id=4523">pain</ulink> associated with underlying disease conditions.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0061">
+            <para>Pain must continue to be actively managed throughout the dying process. If there is any doubt whether pain could be responsible for observed signs, assume pain is present and treat it according to the veterinarian’s prescribed orders (or contact the veterinarian for further intervention if needed).<emphasis>When in doubt, treat for <ulink type="disease" url="link.aspx?id=4522">pain</ulink>
+</emphasis>.</para>
+         </listitem>
+      </itemizedlist>
+      <sidebar id="ch0020-c9-fea-0007">
+         <title>Pro Tip 9.5 Accepting the Refusal of Food and Fluids in Dying Animals</title>
+         <anchor id="ch0020-head-2-120"/>
+         <para id="ch0020-c9-para-0068">Experts in human hospice report that <ulink type="disease" url="link.aspx?id=5683">starvation</ulink> and <ulink type="disease" url="link.aspx?id=1400">dehydration</ulink> at the EOL stimulate the release of endorphins – the body’s endogenous opioids<citation>ch0020-c9-bib-0006</citation>. Because of this, <ulink type="disease" url="link.aspx?id=5683">starvation</ulink> and <ulink type="disease" url="link.aspx?id=1401">dehydration</ulink> at the EOL may contribute to a feeling of euphoria that could be beneficial for a dying animal. Communicating this to caregivers may help manage anxiety around accepting a lack of nutrition and hydration support. Food is often used to express affection, so caregivers may be gently guided towards other ways to show their love.</para>
+      </sidebar>
+   </sect2>
+   <sect2 id="ch0020s9000">
+      <title>9.6.4 Nutrition and Fluids</title>
+      <anchor id="ch0020-head-3-87"/>
+      <para id="ch0020-c9-para-0066">As animals progress through the dying process, it is normal for food and <ulink type="drug" url="link.aspx?id=15160">water</ulink> intake to decrease and eventually cease. As the body begins to shut down and transition away from survival and into dying, nutrition is no longer necessary and can actually cause distress! If food is forced into a gastrointestinal tract that is shutting down, it can create an uncomfortable and potentially even dangerous situation. Dying animals that are refusing food should have that refusal respected (<link linkend="ch0020-c9-fea-0007">Pro Tip 9.5</link>), unless there is an apparent underlying disease explanation that can be easily managed such as treating <ulink type="disease" url="link.aspx?id=4151">nausea</ulink> with antiemetics.</para>
+      <para id="ch0020-c9-para-0067">Fluid support can be maintained throughout much of hospice‐supported death if the caregivers and the veterinary team determine that it is important for comfort. As signs of active dying progress, fluids should be weaned off (<link linkend="ch0020-c9-fea-0007">Pro Tip 9.5</link>). Fluids should also be weaned if the body is showing any signs of <ulink type="disease" url="link.aspx?id=1719">edema</ulink>. Oral fluid intake must be voluntary on the part of the animal, and any parenteral fluid support must be under the instruction of the veterinarian to ensure appropriate volumes are given to avoid increased risk of <ulink type="disease" url="link.aspx?id=10256">edema</ulink>. The details of fluid therapy will need to be prescribed by the veterinarian, by the technician can advocate for the patient and educate the client about the role of fluid therapy at death.</para>
+   </sect2>
+   <sect2 id="ch0020s9000">
+      <title>9.7 Takeaways</title>
+      <anchor id="ch0020-head-2-121"/>
+      <itemizedlist id="ch0020-c9-list-0013">
+         <listitem id="ch0020-c9-li-0062">
+            <para>Technicians should have a basic understanding of hospice‐supported natural death as it is becoming more common in companion animal EOL care.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0063">
+            <para>Hospice‐supported natural death involves effective palliation of <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, anxiety, and other distress. It does NOT consist of death without medical intervention.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0064">
+            <para>Death is unpredictable and caregivers and veterinary teams must be prepared to effectively palliate the animals throughout the dying process.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0065">
+            <para>Effective communication around hospice‐supported natural death includes the caregivers’ motivations/perspectives on the choice, and education to ensure realistic expectations and commitment to the process.</para>
+         </listitem>
+         <listitem id="ch0020-c9-li-0066">
+            <para>Hospice‐supported natural death requires informed consent and a commitment to prioritize animal welfare. This includes agreement to proceed with humane euthanasia if natural death cannot be effectively palliated for any reason.</para>
+         </listitem>
+      </itemizedlist>
+   </sect2>
+   <sect2 id="ch0020s9000">
+      <title>References</title>
+      <anchor id="ch0020-head-2-122"/>
+      <orderedlist continuation="restarts" inheritnum="ignore" role="biblioEntryList">
+         <listitem id="ch0020-c9-bib-0001" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">1</emphasis> Pope, G. (2015). <citetitle>
+                  <emphasis>Soar, my Butterfly: The Animal Dying Experience</emphasis>
+               </citetitle>. BrightHaven Center for Animal Rescue, Hospice and Holistic Education.</para>
+         </listitem>
+         <listitem id="ch0020-c9-bib-0002" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">2</emphasis> Yaxley, P. (2015). Physiology of death. <emphasis>International Association of Animal Hospice and Palliative Care Proceedings</emphasis>. <ulink url="https://www.vin.com/members/cms/project/defaultadv1.aspx?pid=15114&amp;catId=&amp;id=7360481&amp;said=&amp;meta=&amp;authorid=&amp;preview">https://www.vin.com/members/cms/project/defaultadv1.aspx?pid=15114&amp;catId=&amp;id=7360481&amp;said=&amp;meta=&amp;authorid=&amp;preview</ulink>= (accessed December 2024).</para>
+         </listitem>
+         <listitem id="ch0020-c9-bib-0003" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">3</emphasis> Kresevic, D., Pallaki, M., Wasil, B. et al. (2022). Decreasing <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, anxiety and <ulink type="disease" url="link.aspx?id=1220">confusion</ulink> in terminally ill veterans. <citetitle>
+                  <emphasis>Innov. Aging</emphasis>
+               </citetitle> 6 (Supplement 1): 852–853.</para>
+         </listitem>
+         <listitem id="ch0020-c9-bib-0004" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">4</emphasis> Cooney, K. (2022). Pet euthanasia and natural death; similarities and differences. CAETA. <ulink url="https://caetainternational.com/pet-euthanasia-and-natural-death-similarities-and-differences/">https://caetainternational.com/pet‐euthanasia‐and‐natural‐death‐similarities‐and‐differences/</ulink> (25 November 2025).</para>
+         </listitem>
+         <listitem id="ch0020-c9-bib-0005" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">5</emphasis> McKenzie, B. (2023). Evidence – based hospice and palliative care: can we get there? <emphasis>Western Veterinary Conference Proceedings</emphasis>. <ulink url="https://www.vin.com/members/cms/project/defaultadv1.aspx?pid=30238&amp;catId=&amp;id=11221505&amp;said=&amp;meta=&amp;authorid=&amp;preview=">https://www.vin.com/members/cms/project/defaultadv1.aspx?pid=30238&amp;catId=&amp;id=11221505&amp;said=&amp;meta=&amp;authorid=&amp;preview=</ulink>.</para>
+         </listitem>
+         <listitem id="ch0020-c9-bib-0006" role="bibliographyEntry">
+            <para>
+               <emphasis role="strong">6</emphasis> Huffman, J.L. and Dunn, G.P. (2002). The paradox of hydration in advanced terminal illness. <citetitle>
+                  <emphasis>J. Am. Coll. Surg.</emphasis>
+               </citetitle> 194 (6): 835–839.</para>
+         </listitem>
+      </orderedlist>
+   </sect2>
+</sect1>
