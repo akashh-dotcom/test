@@ -11,12 +11,14 @@ import re
 from pathlib import Path
 
 def convert_section_id(s):
-    """Convert 6-digit section IDs to 4-digit."""
+    """Convert 6-digit section IDs to 4-digit (matching reference format)."""
     def replace(match):
         prefix = match.group(1)
         digits = match.group(2)
         if len(digits) == 6:
-            new_digits = digits[1:5]
+            # Take digits 2-5 (0-indexed: positions 2,3,4,5) to match reference
+            # e.g., 001000 -> 1000, 002000 -> 2000
+            new_digits = digits[2:6]
         else:
             new_digits = digits
         return prefix + new_digits

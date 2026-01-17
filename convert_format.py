@@ -24,11 +24,10 @@ def convert_section_id(match):
     # s009100 -> s9100 (keep last 4 digits for sub-sections)
     
     if len(digits) == 6:
-        # Take the meaningful 4 digits
-        # Usually: first digit is leading zero, next 2 are main section, last 3 are sub
+        # Take digits 2-5 to match reference format
         # s001000 -> s1000 (section 1, sub 000)
-        # s009100 -> s9100 (section 9, sub 100)
-        new_digits = digits[1:5]  # Remove first and last digit
+        # s002000 -> s2000 (section 2, sub 000)
+        new_digits = digits[2:6]  # Remove first 2 digits
     else:
         new_digits = digits
     
@@ -57,7 +56,7 @@ def convert_filename(filename):
         prefix = match.group(1)
         digits = match.group(2)
         ext = match.group(3)
-        new_digits = digits[1:5]  # Remove first and last digit to get 4 digits
+        new_digits = digits[2:6]  # Remove first 2 digits to match reference format
         return prefix + new_digits + ext
     
     return re.sub(pattern, replace_fn, filename)
