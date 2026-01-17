@@ -137,8 +137,7 @@
          </orderedlist>
       </sidebar>
       <para id="ch0019-c8-para-0027">Consider the situation where an appointment unexpectedly turns into a critical case and euthanasia or <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> surgery are the only available treatment options. For instance, a dog that has been hit by a car and has multiple pelvic <ulink type="disease" url="link.aspx?id=2225">fractures</ulink>. A decision must be made urgently for euthanasia or <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> stabilization efforts and surgery. The veterinarian has other urgent cases they must attend to while the family takes time to process the diagnosis they have received and consider their options. The technician may be able to implement some stabilization and comfort measures under the veterinarian’s direction and support patient monitoring and caregiver communication while the veterinarian is otherwise engaged. The family will benefit from the guidance, medical information, and emotional support the technician provides as they absorb the information they’ve been given and consider their choices.</para>
-   </sect2>
-   <sect2 id="ch0018s0003s0001">
+   <sect3 id="ch0018s0003s0001">
       <title>8.3.1 Conflicting Caregiver Perspectives</title>
       <anchor id="ch0019-head-3-77"/>
       <para id="ch0019-c8-para-0028">Caregivers have trouble making EOL decisions when they have conflicting concerns. While finances are a common cause of internal conflict for caregivers, it may arise for multiple other reasons as well. Caregivers may struggle to decide whether the benefits of a proposed treatment plan outweigh any potential <ulink type="disease" url="link.aspx?id=5714">stress</ulink> it may cause the pet (e.g. <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> surgery, oncology treatments, hospitalization, etc.). In circumstances where the need for humane euthanasia is approaching, caregivers may try to delay the decision because it is too emotionally difficult (see<link linkend="ch0019-c8-fea-0004">Communication Corner 8.2</link>). Guilt is another source of internal conflict for caregivers, particularly when it comes to considering their own QOL and caregiver burden in decision‐making. Technicians can validate caregivers’ thoughts and feelings and provide medical context, guidance, and emotional support through these internal conflicts. Refer back to <ulink url="ch0017">Chapter 6</ulink> for practical communication strategies to apply in these conversations. Other difficult conversations, such as <anchor id="ch0019-Page_128"/>
@@ -160,14 +159,14 @@
             </listitem>
          </itemizedlist>
       </sidebar>
+   </sect3>
    </sect2>
    <sect2 id="ch0018s0004">
       <title>8.4 Factors for Veterinary Team Consideration in EOL Decision‐Making</title>
       <anchor id="ch0019-head-2-100"/>
       <para id="ch0019-c8-para-0031">Making the best possible decision within each situation is challenging due to the number of factors to consider. Building an exact “roadmap” for EOL decisions is impossible, but veterinarians can carefully consider euthanasia decisions in part by referring to scientific definitions of animal welfare<citation>ch0019-c8-bib-0009</citation>. Technicians supporting EOL conversations should consider whether an animal is functioning well, feeling well, and expressing behaviors normal for their species (or that individual). The American Veterinary Medical Association suggests that a euthanasia decision may be made when the animal is deemed to no longer have a “life worth living” <citation>ch0019-c8-bib-0009</citation>. When an animal’s negative experiences outweigh their positive experiences, the decision to provide a good death with euthanasia is warranted.</para>
       <para id="ch0019-c8-para-0032">While an animal’s health status and welfare are the highest priorities in decision‐making, they are not the only considerations. The caregiver’s situation must also be considered<citation>ch0019-c8-bib-0002</citation>. A framework for ethical clinical decision‐making that is commonly used in human medicine is the “four topics” or four‐box method <citation>ch0019-c8-bib-0010</citation>. The four topics are: medical indications, caregiver and patient preferences, quality of life, and contextual features. They have been summarized and adapted for veterinary EOL decision‐making in <link linkend="ch0019-c8-tbl-0001">Table 8.1</link>.</para>
-   </sect2>
-   <sect2 id="ch0018s0004s0001">
+   <sect3 id="ch0018s0004s0001">
       <title>8.4.1 Quality‐of‐Life Assessments in EOL Decision‐Making</title>
       <anchor id="ch0019-head-3-78"/>
       <para id="ch0019-c8-para-0054">The use of structured QOL assessments in veterinary consultations can <ulink type="drug" url="link.aspx?id=14726">lead</ulink> pet caregivers to feel emotionally empowered and improve their decision‐making<citation>ch0019-c8-bib-0011</citation>. QOL considers not only the physical function and comfort of the pet, but also their mental, social, and emotional wellness to consider if their life is one worth living. QOL assessment should be effectively incorporated into EOL decision‐making, with the approach and style of assessment tailored to the needs of the family and the pet as well as situational context (<link linkend="ch0019-c8-fea-0005">Pro Tip 8.3</link>). A family considering euthanasia in a <anchor id="ch0019-Page_129"/>
@@ -228,8 +227,8 @@
          <anchor id="ch0019-head-2-101"/>
          <para id="ch0019-c8-para-0055">Thorough QOL assessments are valuable tools in EOL decision‐making but can be time consuming and caregivers may not always comply with their use. Having caregivers track good, neutral, and bad days on a calendar is easy and quick. This provides simplified “data” to assess when the balance between positive and negative states is shifting.</para>
       </sidebar>
-   </sect2>
-   <sect2 id="ch0018s0004s0002">
+   </sect3>
+   <sect3 id="ch0018s0004s0002">
       <title>8.4.2 Caregiver Burden and EOL Decision‐Making</title>
       <anchor id="ch0019-head-3-79"/>
       <para id="ch0019-c8-para-0056">After animal QOL, caregiver burden is the highest predictor of a decision to euthanize. It is an important part of the four topics approach to ethical EOL decision‐making (see<link linkend="ch0019-c8-tbl-0001">Table 8.1</link>). To effectively advise and support caregivers in EOL decision‐making, technicians must understand the caregivers’ burden. Caregiver burden encompasses more than just the direct <ulink type="disease" url="link.aspx?id=5669">strain</ulink> of caring for the animal. It also involves <ulink type="disease" url="link.aspx?id=5714">stress</ulink> and guilt from a variety of sources <citation>ch0019-c8-bib-0003</citation>. Caregivers may experience <anchor id="ch0019-Page_130"/>
@@ -290,8 +289,8 @@
       </blockquote>
       <para id="ch0019-c8-para-0060">People experiencing excess caregiver burden may show signs of excessive communication, conflict with the veterinary team or others, or noncompliance with prescribed treatments or follow‐up<citation>ch0019-c8-bib-0003</citation>. These behaviors are also likely to cause <ulink type="disease" url="link.aspx?id=5714">stress</ulink> for the veterinary team, so identifying them as possible hallmarks of caregiver burden and initiating a conversation with the caregiver is beneficial for everyone involved. It is recommended that regular assessment of caregiver burden be included as part of monitoring an EOL care plan through to and including euthanasia decision making (see <link linkend="ch0019-c8-tbl-0002">Table 8.2</link>). <ulink url="ch0015">Chapter 5</ulink> includes examples of QOL assessments that also assess caregiver burden.</para>
       <para id="ch0019-c8-para-0068">Unacknowledged caregiver burden may be a contributor to early decisions to euthanize (before it is medically necessary). In recognizing and addressing caregiver burden, technicians play a significant role in preventing early euthanasia. Identifying the causes behind excess caregiver burden may allow for some of them to be resolved and improve the situation. This may involve further caregiver education, accessing financial resources or relief care, or referrals to mental health providers such as veterinary social workers. If the causes of excess caregiver burden cannot be addressed, then the discussion may <ulink type="drug" url="link.aspx?id=14726">lead</ulink> toward a decision for euthanasia.</para>
-   </sect2>
-   <sect2 id="ch0018s0004s0003">
+   </sect3>
+   <sect3 id="ch0018s0004s0003">
       <title>8.4.3 Caregiver Preferences and Euthanasia Timing</title>
       <anchor id="ch0019-head-3-80"/>
       <para id="ch0019-c8-para-0069">When a family has a strong vision for their pet’s transition to death, it may end up influencing some of their decision‐making. For instance, if a caregiver hates the idea of having to rush into a 24‐hour veterinary hospital for an <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> euthanasia, they may choose to euthanize before it would be absolutely medically necessary in order to have control over the circumstances. Another<anchor id="ch0019-Page_131"/>
@@ -303,6 +302,7 @@
          <para id="ch0019-c8-para-0072">EOL care teams that dispense comfort kits of injectable sedation and <ulink type="disease" url="link.aspx?id=4522">pain</ulink> relief for use at home may see that this changes the caregiver’s feelings on euthanasia planning. They may be more comfortable taking some additional quality time with their companion knowing that they have a way to provide comfort at home if circumstances change quickly. See<ulink url="ch0013">Chapters 3</ulink> (<ulink type="disease" url="link.aspx?id=4522">Pain</ulink> Management) and <ulink url="ch0014">4</ulink> (Hospice and Palliative Nursing Care) for more information and guidance on the appropriate use of comfort kits.</para>
       </sidebar>
       <para id="ch0019-c8-para-0070">Technicians can inquire about and legitimize these caregiver perspectives in EOL decision‐making. Some situations may be less about preferences and more about changing circumstances within a caregiver’s life. For instance, a cat may be doing well in hospice care for <ulink type="disease" url="link.aspx?id=3298">chronic kidney insufficiency</ulink>, but does not travel well, and the family is planning an international move in two months. Their concern for the <ulink type="disease" url="link.aspx?id=5714">stress</ulink> of travel and adjustment to new circumstances may influence the family’s vision for their pet’s EOL transition and <ulink type="drug" url="link.aspx?id=14726">lead</ulink> them to a euthanasia decision prior to moving.</para>
+   </sect3>
    </sect2>
    <sect2 id="ch0018s0005">
       <title>8.5 Considerations for Hospice‐Supported Natural Death</title>
@@ -336,12 +336,12 @@
             <emphasis>How will you respond if this occurs in your work as a technician?</emphasis>
          </para>
       </blockquote>
-   </sect2>
-   <sect2 id="ch0018s0006s0001">
+   <sect3 id="ch0018s0006s0001">
       <title>8.6.1 Convenience Euthanasia</title>
       <anchor id="ch0019-head-3-81"/>
       <para id="ch0019-c8-para-0087">Convenience euthanasia has been defined as “circumstances where the primary rationale for this request is based on human needs such as economics, changes in personal circumstances, lack of time, capacity or desire to care for the animal, rather than animal welfare”<citation>ch0019-c8-bib-0014</citation>. This definition does not effectively account for the complexities of animal hospice. It overlaps with multiple contexts where decisions to euthanize would be considered ethically sound if we legitimize the inclusion of caregiver psychosocial considerations in EOL decision‐making. How an individual veterinary professional or team defines convenience euthanasia within their work may differ. You and your team must discuss what you consider to be convenience euthanasia and how you would approach those cases.</para>
       <para id="ch0019-c8-para-0088">An example was previously given of a cat with <ulink type="disease" url="link.aspx?id=3296">kidney disease</ulink> in hospice care whose family is moving internationally in two months. They may choose to euthanize before it would be strictly medically necessary to spare the cat the <ulink type="disease" url="link.aspx?id=5714">stress</ulink> of travel and adjustment to a new home. This is a very different situation from one where the cat was healthy, and the family decided it would be too expensive and stressful for the cat to travel. If they were asking for euthanasia in this circumstance, this would present more of an ethical dilemma as a convenience euthanasia. It was previously mentioned that the majority of veterinarians have declined to perform euthanasia at some point in their career, although it is rare within a given professional’s experience. Convenience euthanasia of a healthy animal, or an animal with a good prognosis is likely when these refusals occur.</para>
+   </sect3>
    </sect2>
    <sect2 id="ch0018s0007">
       <title>8.7 EOL Decision Documentation and Debriefing</title>

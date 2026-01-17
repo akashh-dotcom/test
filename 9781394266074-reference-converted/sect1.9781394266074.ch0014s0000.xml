@@ -58,8 +58,7 @@
       <anchor id="ch0014-head-2-43"/>
       <para id="ch0014-c4-para-0006">In tending to general comfort care for EOL companion animals, technicians will focus on the daily activities of living (DAOL), supporting the animal’s daily routine, and minimizing any stressors. The DAOL include eating and drinking, toileting, grooming, and the mobility required to accomplish those tasks. Once those activities are sufficiently attended to, the daily routine can be evaluated to support activities such as interaction with housemates, play, mental stimulation, and exercise. Technicians improve pets’ QOL by identifying any obstacles or barriers to those activities and finding ways to remove or minimize them. Stressors which impact the DAOL or daily routine should also be identified so technicians can help find ways to reduce them. These may include clinical signs such as <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and <ulink type="disease" url="link.aspx?id=4151">nausea</ulink> as well as negative mental states such as increased anxiety, discomfort with treatments, or a lack of autonomy. The pet’s ability to engage in their life according to their own preferences can be an important part of QOL (assessing QOL is discussed in detail in<ulink url="ch0015">Chapter 5</ulink>).</para>
       <para id="ch0014-c4-para-0007">This section will address multiple elements of general comfort care, offering practical considerations for EOL patient care and offering solutions that technicians and caregivers can enact. Note that <ulink type="disease" url="link.aspx?id=4522">pain</ulink> management was discussed in<ulink url="ch0013">Chapter 3</ulink> and as such will not be covered in detail here.</para>
-   </sect2>
-   <sect2 id="ch0014s0002s0001">
+   <sect3 id="ch0014s0002s0001">
       <title>4.2.1 Environmental Modifications</title>
       <anchor id="ch0014-head-3-31"/>
       <para id="ch0014-c4-para-0008">An environmental assessment of the animal’s home is an important part of the hospice consultation, as discussed in<ulink url="ch0011">Chapter 1</ulink>. It is best performed in person so that the veterinary professional gains an accurate perspective of the animal’s environment to identify areas where modifications may be made to improve QOL. Where a home visit is not possible, thorough discussion can still be useful and may be accompanied by photo or video tours. Veterinarians may complete the environmental assessment themselves in the hospice consultation, or technicians may do so before or after the veterinary consultation.</para>
@@ -113,8 +112,8 @@
 </emphasis> by ensuring the areas where the pet is spending their day are an appropriate <ulink type="disease" url="link.aspx?id=10176">temperature</ulink> – not too hot or cold. Strategies for cooling can include wetting fur, use of shallow children’s pools (not deep enough for swimming), fans, air conditioning, and clipping thick fur. Strategies for warmth can include heating pads (only in conscious animals under supervision), blankets, space heaters, and clothing.</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0014s0002s0002">
+   </sect3>
+   <sect3 id="ch0014s0002s0002">
       <title>4.2.2 Mobility</title>
       <anchor id="ch0014-head-3-32"/>
       <para id="ch0014-c4-para-0010">Sufficient mobility is important for engaging in DAOL, the daily routine of the household, and to maintain the pet’s autonomy. Mobility offers animals the choice of location within the home, and the ability to control their interactions with their environment, including engagement with people and other animals. It is important to note that effective mobility support relies on effective analgesia to alleviate <ulink type="disease" url="link.aspx?id=4522">pain</ulink> that may occur with ambulation (refer to<ulink url="ch0013">Chapter 3</ulink>).</para>
@@ -240,8 +239,8 @@
             </textobject>
          </mediaobject>
       </figure>
-   </sect2>
-   <sect2 id="ch0014s0002s0003">
+   </sect3>
+   <sect3 id="ch0014s0002s0003">
       <title>4.2.3 Hygiene and Toileting</title>
       <anchor id="ch0014-head-3-33"/>
       <para id="ch0014-c4-para-0014">Nursing care to support hygiene and toileting can be labor intensive but also highly impactful for maintaining QOL. Good hygiene also protects caregivers from contraction of zoonotic diseases that can be transmitted by bodily fluids. Caregivers should be advised on the use of gloves and disinfectants and appropriate disposal of contaminated items for the safety of the animals and their household. Patient hygiene and toileting support requirements will vary greatly depending on the individual.</para>
@@ -274,8 +273,8 @@
                <emphasis role="strong">Catheterization and manual bladder expression</emphasis> can be performed where prescribed by a veterinarian, to support urination in recumbent or neurological.</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0014s0002s0004">
+   </sect3>
+   <sect3 id="ch0014s0002s0004">
       <title>4.2.4 Nutrition</title>
       <anchor id="ch0014-head-3-34"/>
       <para id="ch0014-c4-para-0016">Nutrition is an important part of comfort care for EOL patients still interested in eating. Inappetence may occur due to poor management of clinical signs in EOL patients and may be effectively palliated in many cases. This must be differentiated from lack of food intake that is occurring as part of the dying process. Technicians will collaborate with veterinarians and caregivers to identify causes of inappetence that can be palliated. In cases where inappetence is confirmed by the veterinarian to be part of the normal dying process, the EOL care team will respect patient autonomy regarding withdrawal from food prior to death<citation>ch0014-c4-bib-0001</citation>. EOL companion animals should never be force‐fed. This will be discussed further in <ulink url="ch0020">Chapter 9</ulink> (Death and Dying).</para>
@@ -352,8 +351,8 @@
             <para>Inactive, immobile MER factor = 1.0–1.2 (canine), 1.0 (feline)</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0014s0002s0005">
+   </sect3>
+   <sect3 id="ch0014s0002s0005">
       <title>4.2.5 Mucous Membrane Comfort</title>
       <anchor id="ch0014-head-3-35"/>
       <para>Oral discomfort occurs in EOL patients due to dental infections, dry mucous membranes, ulcerations, and oral <ulink type="disease" url="link.aspx?id=4181">tumors</ulink>. There are multiple, simple nursing strategies that can be used to improve patient comfort in these situations.</para>
@@ -377,8 +376,8 @@
             <para>Severe dental diseases such as tooth root <ulink type="disease" url="link.aspx?id=30">abscesses</ulink>, mobile, or fractured teeth with pulp exposure warrant surgical intervention for patients in early hospice as these are pressing QOL concerns. Advanced hospice patients may receive palliation with effective <ulink type="disease" url="link.aspx?id=4522">pain</ulink> management and antimicrobials for infection.</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0014s0002s0006">
+   </sect3>
+   <sect3 id="ch0014s0002s0006">
       <title>4.2.6 Fluid Support</title>
       <anchor id="ch0014-head-3-36"/>
       <para id="ch0014-c4-para-0028">Preventing <ulink type="disease" url="link.aspx?id=1400">dehydration</ulink> related to underlying disease is an important aspect of comfort care in EOL patients. Pets benefit from fluid support when they are experiencing fluid losses from <ulink type="disease" url="link.aspx?id=1504">diarrhea</ulink>, <ulink type="disease" url="link.aspx?id=6377">vomiting</ulink>, <ulink type="disease" url="link.aspx?id=4924">polyuria</ulink>, or even panting and <ulink type="disease" url="link.aspx?id=2158">fever</ulink>
@@ -404,8 +403,8 @@
             </textobject>
          </mediaobject>
       </figure>
-   </sect2>
-   <sect2 id="ch0014s0002s0007">
+   </sect3>
+   <sect3 id="ch0014s0002s0007">
       <title>4.2.7 Medication and Treatment Administration</title>
       <anchor id="ch0014-head-3-37"/>
       <para id="ch0014-c4-para-0031">The administration of treatments and medications can be a source of difficulty and <ulink type="disease" url="link.aspx?id=5714">stress</ulink> for both pets and their caregivers. Technicians must maintain a positive rapport and an open line of communication with caregivers so these challenges can be addressed promptly and with creativity. Caregiver limitations may necessitate some changes in treatment delivery such as altering the formulation or route of administration to accommodate physical limitations of caregivers. Caregiver considerations in developing and adjusting treatment plans was explored in more detail in<ulink url="ch0011">Chapter 1</ulink>.</para>
@@ -423,13 +422,14 @@
          <anchor id="ch0014-Page_65"/>
          <beginpage pagenum="65"/>
       </para>
-   </sect2>
-   <sect2 id="ch0014s0002s0008">
+   </sect3>
+   <sect3 id="ch0014s0002s0008">
       <title>4.2.8 Mental and Emotional Wellbeing</title>
       <anchor id="ch0014-head-3-38"/>
       <para id="ch0014-c4-para-0036">The mental and emotional wellbeing of companion animals at EOL should be considered in their daily care and assessed as part of their QOL. When clinical signs are well managed and general comfort care is being offered, mental and emotional wellbeing can be addressed more directly. This includes management of negative mental states such as anxiety, respecting patient preferences with treatments, supporting social interaction, and offering mental stimulation. Preserving an animal’s autonomy supports their mental and emotional wellbeing and has already been discussed in multiple aspects of general comfort care.</para>
       <para id="ch0014-c4-para-0037">Anxiety may occur in EOL patients for a variety of reasons and QOL will improve with anxiety management interventions such as those listed in<link linkend="ch0014-c4-tbl-0002">Table 4.2</link>. Physical causes of anxiety such as respiratory distress require medical intervention for the underlying cause (see Section 4.3). Beyond simply managing anxiety, attention to mental and emotional wellbeing includes supporting social interaction with the household and increasing mental stimulation.</para>
       <para id="ch0014-c4-para-0039">Mental engagement can be supported in many ways that are tailored to the individual. Technicians can help caregivers alter activities that the pet has previously enjoyed so they may be continued through EOL in a more accessible way (e.g. Rolling a ball to a dog along the floor can be an adjusted form of fetch; going for wagon rides, car rides, or backpack rides to replace walks). Caregivers can create access to comfortable areas to observe the outdoors through windows or offer their pet opportunity to rest outside while enjoying the stimulation of the environment. Even pets with poor mobility can engage in short training sessions to teach new behaviors tailored to the pet’s abilities, or simply to reinforce and reward existing behaviors. They may benefit from the introduction of new toys and food puzzles within their capabilities. Technicians can also suggest introducing new sensations, such as new scents and textures (e.g. walking over different footings such as foam or sand). Caregivers know their pets best and may come up with other creative ideas when prompted and encouraged by a supportive technician.</para>
+   </sect3>
    </sect2>
    <sect2 id="ch0014s0003">
       <title>4.3 Sign‐Specific Nursing Care</title>
@@ -457,8 +457,7 @@
       <para id="ch0014-c4-para-0041">
          <anchor id="ch0014-Page_66"/>
          <beginpage pagenum="66"/>Some medications may be prescribed by the veterinarian in advance and dispensed in anticipation of later use. As expected signs of <ulink type="disease" url="link.aspx?id=8107">disease progression</ulink> occur, caregivers will then already have access to palliative medications and instructions for use whenever they are needed. This could include fluids, anti‐emetics, appetite stimulants, probiotics, and other items deemed appropriate in shared decision‐making with the caregivers and veterinarian. Technicians dispensing these items will set up expectations for communication and follow‐up when these changes occur and these items are used (also be documented in the individualized care plan provided to the caregivers).</para>
-   </sect2>
-   <sect2 id="ch0014s0003s0001">
+   <sect3 id="ch0014s0003s0001">
       <title>4.3.1 Recumbency</title>
       <anchor id="ch0014-head-3-39"/>
       <para>Non‐ambulatory patients or those with reduced mobility will spend large amounts of time recumbent and require special nursing attention in the following areas [1]:</para>
@@ -476,8 +475,8 @@
                <emphasis role="strong">Toileting and hygiene</emphasis> care are extremely important for the comfort of recumbent patients. Soiled bedding should be changed every day, or multiple times a day as needed. Urine and fecal soiling must be managed as quickly as possible to avoid <ulink type="disease" url="link.aspx?id=1444">dermatitis</ulink>. Technicians may be asked to perform manual bladder expression or urinary catheterization to support urination in recumbent patients or those with neurological dysfunction. Recumbent patients are at an increased risk for urinary tract infections and regular urinalysis monitoring is ideal.</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0014s0003s0002">
+   </sect3>
+   <sect3 id="ch0014s0003s0002">
       <title>4.3.2 Wounds</title>
       <anchor id="ch0014-head-3-40"/>
       <para>The approach to caring for wounds in EOL patients should align with the overall goals of care. Depending on those goals, the status of the patient, and the type of wound, the goal may not be healing and may just be comfort. Guidance for wound care can be found through the acronym TIME [5]:</para>
@@ -500,8 +499,8 @@
                <emphasis role="strong">Epithelial edges</emphasis> are assessed to determine the condition of the skin around the wound. Barrier creams can be applied to protect the edges of the wound. Healing is not always an expectation in EOL care, but effort can be made to prevent wounds from worsening.</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0014s0003s0003">
+   </sect3>
+   <sect3 id="ch0014s0003s0003">
       <title>4.3.3 Gastrointestinal Signs</title>
       <anchor id="ch0014-head-3-41"/>
       <para>Nausea, <ulink type="disease" url="link.aspx?id=6377">vomiting</ulink>, <ulink type="disease" url="link.aspx?id=1504">diarrhea</ulink>, and <ulink type="disease" url="link.aspx?id=1249">constipation</ulink> are associated with a variety of disease processes in EOL patients. These signs may also be a result of adverse effects with treatments. Patients presenting with new gastrointestinal signs should have all their inputs (i.e. food, treats, fluids, medications, supplements) re‐evaluated to consider if they are causing possible adverse effects.</para>
@@ -524,8 +523,8 @@
                <emphasis role="strong">Constipated patients</emphasis> should be checked for <ulink type="disease" url="link.aspx?id=1400">dehydration</ulink>, and any mobility issues associated with defecation should be identified and supported. <ulink type="disease" url="link.aspx?id=1249">Constipation</ulink> may require a veterinarian prescribed stool softener. Opioid doses and frequencies should be re‐evaluated as they may contribute to <ulink type="disease" url="link.aspx?id=1249">constipation</ulink>.</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0014s0003s0004">
+   </sect3>
+   <sect3 id="ch0014s0003s0004">
       <title>4.3.4 Respiratory Distress</title>
       <anchor id="ch0014-head-3-42"/>
       <para id="ch0014-c4-para-0045">Respiratory distress, or <ulink type="disease" url="link.aspx?id=1657">dyspnea</ulink>, is highly stressful for both the animal and caregiver. Dyspneic patients may be categorized as craving air or experiencing restrictive or labored breathing<citation>ch0014-c4-bib-0006</citation>. It may be constant or intermittent, and severity can vary depending on not just the underlying cause but also the environment and behavior of the animal.</para>
@@ -588,13 +587,13 @@
                <emphasis role="strong">Sub‐analgesic doses of opioids</emphasis> can be used to reduce the sensitivity of chemoreceptors to hypoxemia and <ulink type="disease" url="link.aspx?id=51">respiratory acidosis</ulink> and lessen the sensation of breathlessness <citation>ch0014-c4-bib-0006</citation>. Caution is required as panting is often an adverse effect associated with opioids in dogs, and hyperthermia is sometimes associated with opioids in cats.</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0014s0003s0005">
+   </sect3>
+   <sect3 id="ch0014s0003s0005">
       <title>4.3.5 Musculoskeletal Signs</title>
       <anchor id="ch0014-head-3-43"/>
       <para id="ch0014-c4-para-0047">Section 4.2 discussed methods for retaining musculoskeletal function through physiotherapy and supporting reduced mobility due to <ulink type="disease" url="link.aspx?id=4058">musculoskeletal disease</ulink>. Technicians may refer to <ulink url="ch0013">Chapter 3</ulink> (<ulink type="disease" url="link.aspx?id=4522">Pain</ulink> Management) for further information regarding relieving musculoskeletal <ulink type="disease" url="link.aspx?id=4523">pain</ulink>.</para>
-   </sect2>
-   <sect2 id="ch0014s0003s0006">
+   </sect3>
+   <sect3 id="ch0014s0003s0006">
       <title>4.3.6 Neurological Signs</title>
       <anchor id="ch0014-head-3-44"/>
       <sect3 id="ch0014s0003s0006s0001">
@@ -616,8 +615,8 @@
          <para id="ch0014-c4-para-0052">Selegiline can be administered to prevent oxidative damage to brain tissue and support the sleep cycle in dogs but is not labelled for cats. Anxiolytics may be useful for cats affected by CD<citation>ch0014-c4-bib-0007</citation>. Night waking may be treated with prescribed <ulink type="drug" url="link.aspx?id=14763">melatonin</ulink>, tramadol, trazodone, or <ulink type="drug" url="link.aspx?id=2846">gabapentin</ulink> <citation>ch0014-c4-bib-0008</citation>.</para>
          <para id="ch0014-c4-para-0053">CD patients may benefit from diets containing short chain fatty acids and antioxidants to optimize brain metabolism and slow cognitive decline (e.g. Hill’s b/d or Purina Veterinary Diets Neurocare)<citation>ch0014-c4-bib-0007</citation>. Hill’s and Purina both offer CD evaluation tools that may be useful for caregiver education, screening pets for CD, and monitoring their progress once CD is identified. Other evaluation tools are published in the scientific literature, but further investigation is required to determine which of these tools is most sensitive and specific to detect and accurately assess CD [<citation>ch0014-c4-bib-0007</citation>, <citation>ch0014-c4-bib-0009</citation>]. It is recommended for teams to familiarize themselves with a chosen tool and apply it consistently.</para>
       </sect3>
-   </sect2>
-   <sect2 id="ch0014s0003s0007">
+   </sect3>
+   <sect3 id="ch0014s0003s0007">
       <title>4.3.7 Neoplastic Signs</title>
       <anchor id="ch0014-head-3-45"/>
       <para id="ch0014-c4-para-0054">Detailed treatment protocols for various neoplastic conditions (i.e. chemotherapy, radiation, surgery, and pharmaceutical treatments for primary <ulink type="disease" url="link.aspx?id=4181">tumors</ulink>) are not the focus of this section and may instead be found in Shanan et al.’s Hospice and Palliative Care for Companion<anchor id="ch0014-Page_70"/>
@@ -630,6 +629,7 @@
       <para id="ch0014-c4-para-0055">Nursing care strategies for neoplasia must be tailored to the type of <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> diagnosed, and the clinical signs associated with the affected tissues and organs. (Some special considerations for intracranial neoplasia were already discussed in the context of neurological signs.) Multiple types of <ulink type="disease" url="link.aspx?id=4522">pain</ulink> may be present in <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> patients, with inflammatory and neuropathic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> often concurrent. Technicians will take care in assessing <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and advocating for effective <ulink type="disease" url="link.aspx?id=4523">pain</ulink> control as discussed in<ulink url="ch0012">Chapters 2</ulink> (<ulink type="disease" url="link.aspx?id=4523">Pain</ulink> Recognition and Assessment) and 3 (<ulink type="disease" url="link.aspx?id=4524">Pain</ulink> Management). <ulink type="disease" url="link.aspx?id=4151">Nausea</ulink> should be controlled and appetite supported as discussed in Sections 4.2 and 4.3.3. There may be many factors contributing to <ulink type="disease" url="link.aspx?id=4151">nausea</ulink> or inappetence depending on the type of <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> and tissues affected.</para>
       <para id="ch0014-c4-para-0056">The diet of <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> patients should be chosen to optimize nutrition and reduce risks (<link linkend="ch0014-c4-fea-0003">Pro Tip 4.3</link>). Nutritional support is important for the comfort of <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> patients and can be structured with the knowledge that well‐nourished neoplastic cells contribute to <ulink type="disease" url="link.aspx?id=4181">tumor</ulink> growth and angiogenesis. The ideal diet will support the needs of the pet, while directing nutrients away from the neoplastic cells as much as possible. This is accomplished by reducing the carbohydrates in the diet to less than 30% and including moderate amounts of fat and protein, as neoplastic cells primarily use carbohydrates for energy <citation>ch0014-c4-bib-0010</citation>. If the pet is doing well on an existing well‐balanced diet, no diet change may be recommended as changes can be hard on an already stressed body. If diet has been a challenge for the pet historically (e.g. <ulink type="disease" url="link.aspx?id=6559">inflammatory bowel disease</ulink>, <ulink type="disease" url="link.aspx?id=3007">allergies</ulink>), maintaining their usual diet is often recommended to avoid causing issues. Home cooked diets under the guidance of veterinary nutritionists and oncologists can be an excellent choice to balance all concerns. Hill’s ONC Care<superscript>TM</superscript> is a prescription diet marketed for <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> care with label claims regarding palatability, digestibility, and supporting gut health. The scientific evidence for its use relates to patient’s acceptance of the food as a new diet, <ulink type="disease" url="link.aspx?id=6650">weight gain</ulink>, and maintenance of QOL. It has a carbohydrate content of 34.3% and any impact on <ulink type="disease" url="link.aspx?id=4181">tumor</ulink> angiogenesis and growth has not been reported at the time of writing <citation>ch0014-c4-bib-0011</citation>.</para>
       <para id="ch0014-c4-para-0058">Research into herbal therapies and TCVM shows many potential benefits for <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> patients, and these interventions may be explored with access to appropriate resources and expert consultation. Medicinal mushrooms have beneficial effects on neoplasia in multiple studies<citation>ch0014-c4-bib-0010</citation> and are increasingly used in veterinary oncology. They may be used as an adjunct to other therapies (i.e. chemotherapy, radiation), or they may be used when caregivers have decided not to pursue other options in the EOL care plan. Cannabidiol (CBD) may also have benefits for <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> patients with possible effects on <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, <ulink type="disease" url="link.aspx?id=3144">inflammation</ulink>, and relief of other clinical signs such as <ulink type="disease" url="link.aspx?id=4151">nausea</ulink>. CBD was discussed in more detail in <ulink url="ch0013">Chapter 3</ulink>.</para>
+   </sect3>
    </sect2>
    <sect2 id="ch0014s0004">
       <title>4.4 Comfort Kits</title>

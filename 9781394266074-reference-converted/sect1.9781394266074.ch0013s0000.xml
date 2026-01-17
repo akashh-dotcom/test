@@ -143,8 +143,7 @@
       <title>3.3 Pharmaceutical Pain Management</title>
       <anchor id="ch0013-head-2-31"/>
       <para id="ch0013-c3-para-0016">Multimodal analgesic plans may involve multiple pharmaceuticals with different mechanisms of action. Nonsteroidal anti‐inflammatory drugs (<ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=NSAIDs">NSAIDs</ulink>) are often relied upon in both acute and chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. Opioids are most useful in acute <ulink type="disease" url="link.aspx?id=4523">pain</ulink> and <ulink type="disease" url="link.aspx?id=4524">pain</ulink> crises. Adjunctive <ulink type="disease" url="link.aspx?id=4522">pain</ulink> medications such as gabapentinoids, <ulink type="disease" url="link.aspx?id=10027">NMDA</ulink> receptor antagonists, and antidepressants target multiple points in nociceptive pathways to offer more balanced <ulink type="disease" url="link.aspx?id=4523">pain</ulink> management that addresses neuropathic <ulink type="disease" url="link.aspx?id=4524">pain</ulink>. The use of adjunctive analgesics may reduce the doses or frequency of opioids and <ulink type="disease" url="link.aspx?id=10028">NSAIDs</ulink>, thereby minimizing risk of adverse effects and creating capacity for future dose increases.</para>
-   </sect2>
-   <sect2 id="ch0013s0003s0001">
+   <sect3 id="ch0013s0003s0001">
       <title>3.3.1  NSAIDs</title>
       <anchor id="ch0013-head-3-14"/>
       <para id="ch0013-c3-para-0017">NSAIDs are a mainstay of analgesia in veterinary medicine due to their effect on <ulink type="disease" url="link.aspx?id=4522">pain</ulink> pathways both peripherally and centrally and their direct anti‐inflammatory action. They are an appropriate choice for the treatment of both acute and chronic <ulink type="disease" url="link.aspx?id=4523">pain</ulink> and are a common component of multimodal <ulink type="disease" url="link.aspx?id=4524">pain</ulink> management in EOL patients. They can be combined with other pharmaceutical and nonpharmaceutical strategies, and they lessen reliance on opioids.</para>
@@ -196,8 +195,8 @@
             <para>NSAIDs should not be administered to animals on angiotensin converting enzyme (ACE) inhibitors (e.g. benazepril, <ulink type="drug" url="link.aspx?id=12564">enalapril</ulink>, etc.) or diuretics (e.g. <ulink type="drug" url="link.aspx?id=2845">furosemide</ulink>, spironolactone, etc.) as there may be changes in hydration and renal perfusion.</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0013s0003s0002">
+   </sect3>
+   <sect3 id="ch0013s0003s0002">
       <title>3.3.2 Opioids</title>
       <anchor id="ch0013-head-3-15"/>
       <para id="ch0013-c3-para-0024">Opioids are a key component of analgesia and the cornerstone of acute <ulink type="disease" url="link.aspx?id=4522">pain</ulink> management, but they are not the first line of therapy for chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. Opioids bind to receptors (mu, kappa, and delta) in the central nervous system. When opioids bind to their target receptors they act to inhibit nociceptive pathways, with opioids that bind primarily to mu receptors having the strongest analgesic effect (<link linkend="ch0013-c3-tbl-0002">Table 3.2</link>). Injectable opioids are fast acting and bioavailable when administered intravenously (IV), intramuscularly (IM), or subcutaneously (SC). They are also used in locoregional anesthesia techniques such as <ulink type="disease" url="link.aspx?id=10081">epidural</ulink> administration. Administration of opioids by other routes (transdermal/TD, oral transmucosal/OTM, oral/PO or rectal/PR) will have more variable absorption into systemic circulation, which is why injectable routes are preferred. For example, <ulink type="drug" url="link.aspx?id=2758">fentanyl</ulink> patches have been widely used in the past, but there are challenges with skin adherence as well as wide variability in absorption and concerns with ingestion <ulink type="disease" url="link.aspx?id=1576">toxicity</ulink> and human abuse. Opioids administered orally to canine patients undergo a significant first pass effect and lose significant efficacy, thus oral opioids are best avoided in dogs.</para>
@@ -398,13 +397,13 @@
          <para id="ch0013-c3-para-0070">Tapentadol is a similar compound that is more bioavailable in canines, and there is some evidence for its analgesic efficacy<citation>ch0013-c3-bib-0006</citation>. This drug may become more relevant in veterinary analgesia in the future.</para>
       </sidebar>
       <para id="ch0013-c3-para-0071">The controlled status of opioids makes their use in EOL home care plans challenging from a regulatory standpoint. Before EOL veterinarians prescribe these drugs, it is recommended that caregivers sign additional informed consent forms tailored to the prescription, handling, storage, and responsible use of controlled substances. Developing an approach to the prescription of controlled substances within EOL home care can be valuable in providing effective <ulink type="disease" url="link.aspx?id=4522">pain</ulink> palliation at home. This may be useful when the EOL care team is supporting death at home, either through hospice supported natural death or humane euthanasia. Prescribing opioids for use at home during a <ulink type="disease" url="link.aspx?id=4522">pain</ulink> crisis is also becoming more common in companion animal EOL care, often through the use of “comfort kits.” The opioid in this instance is generally dispensed in a syringe also containing the tranquilizer acepromazine to provide analgesia and mild sedation for patient comfort during a sudden change of patient status that may be associated with an acute exacerbation of <ulink type="disease" url="link.aspx?id=4523">pain</ulink>. The use of a comfort kit may allow the patient to die more peacefully if they are in the active process, or it may provide comfort while awaiting an urgent house call from a veterinarian or arranging transport to a veterinary facility. Comfort kits will be discussed in more detail in<ulink url="ch0014">Chapter 4</ulink>.</para>
-   </sect2>
-   <sect2 id="ch0013s0003s0003">
+   </sect3>
+   <sect3 id="ch0013s0003s0003">
       <title>3.3.3 Corticosteroids</title>
       <anchor id="ch0013-head-3-16"/>
       <para id="ch0013-c3-para-0072">Corticosteroids (e.g. <ulink type="drug" url="link.aspx?id=3413">prednisone</ulink>, prednisolone, and dexamethasone) are potent anti‐inflammatory drugs that can be used in the management of chronic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> with a significant inflammatory component. They may be useful when <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=NSAIDs">NSAIDs</ulink> are not sufficient to manage <ulink type="disease" url="link.aspx?id=4523">pain</ulink>, even within a multimodal strategy. Corticosteroids are not a first‐line therapy as chronic use is accompanied by adverse effects including immunosuppression, increased thirst and urination, endocrine disruption, and muscle wasting. They cannot be used concurrently with <ulink type="disease" url="link.aspx?id=10028">NSAIDs</ulink> as there is a severe risk for GI ulceration. One of the adverse effects of corticosteroid use can be an increased appetite, which may be seen as an advantage in EOL pets. Anti‐inflammatory doses for corticosteroids are readily available in drug references, and will be titrated with patient monitoring to balance anti‐inflammatory efficacy with tolerable adverse effects (e.g. polydipsia, <ulink type="disease" url="link.aspx?id=4924">polyuria</ulink>).</para>
-   </sect2>
-   <sect2 id="ch0013s0003s0004">
+   </sect3>
+   <sect3 id="ch0013s0003s0004">
       <title>3.3.4 Gabapentinoids</title>
       <anchor id="ch0013-head-3-17"/>
       <para id="ch0013-c3-para-0073">Gabapentinoids (<ulink type="drug" url="link.aspx?id=2846">gabapentin</ulink> and <ulink type="drug" url="link.aspx?id=11595">pregabalin</ulink>) are anticonvulsants that also have analgesic effects. The mechanism of action is unclear, but they likely interact with voltage‐gated <ulink type="drug" url="link.aspx?id=13049">calcium</ulink> channels which is a unique target among analgesics<citation>ch0013-c3-bib-0007</citation>. The interaction of gabapentinoids with these targets leads to reduced release of neurotransmitters, thus altering multiple steps of nociception discussed in <anchor id="ch0013-Page_39"/>
@@ -421,8 +420,8 @@
                <emphasis role="strong">Pregabalin</emphasis> has been used with success in people who did not experience a significant analgesic effect from <ulink type="drug" url="link.aspx?id=2846">gabapentin</ulink> and has been shown effective for neuropathic <ulink type="disease" url="link.aspx?id=4522">pain</ulink> in dogs [<citation>ch0013-c3-bib-0007</citation>, <citation>ch0013-c3-bib-0011</citation>]. More research is needed to identify safe and effective doses for dogs and cats, but pharmacokinetic studies suggest doses of 1–2 mg/kg PO every 12 hours for cats and up to 3–4 mg/kg in dogs <citation>ch0013-c3-bib-0003</citation>.</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0013s0003s0005">
+   </sect3>
+   <sect3 id="ch0013s0003s0005">
       <title>3.3.5  NMDA Receptor Antagonists</title>
       <anchor id="ch0013-head-3-18"/>
       <para id="ch0013-c3-para-0075">N‐methyl‐D‐aspartate (<ulink type="disease" url="link.aspx?id=10027">NMDA</ulink>) receptor antagonists such as<emphasis>amantadine</emphasis> and <emphasis>ketamine</emphasis> target <ulink type="disease" url="link.aspx?id=10027">NMDA</ulink> receptors in the spinal cord. These receptors are upregulated in neuropathic <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. <ulink type="disease" url="link.aspx?id=10027">NMDA</ulink> receptor antagonists are typically added in cases where the existing chronic <ulink type="disease" url="link.aspx?id=4523">pain</ulink> management plan is deemed insufficient, and where neuropathic <ulink type="disease" url="link.aspx?id=4524">pain</ulink> is present.</para>
@@ -433,8 +432,8 @@
       <para id="ch0013-c3-para-0078">
          <anchor id="ch0013-Page_40"/>
          <beginpage pagenum="40"/>Technicians may see subanesthetic SC ketamine used to manage breakthrough <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, <ulink type="disease" url="link.aspx?id=4523">pain</ulink> crises, and new causes of acute <ulink type="disease" url="link.aspx?id=4524">pain</ulink> to reduce sensitization and the risk of neuropathic pain development. An example of SC ketamine usage in EOL care would be in a canine patient with <ulink type="disease" url="link.aspx?id=5379">osteosarcoma</ulink>. If a patient's pain has been well managed, but they suddenly experience a <ulink type="disease" url="link.aspx?id=2228">pathological fracture</ulink>, a subanesthetic injection of SC ketamine and an opioid (e.g. methadone or hydromorphone) may be appropriate. This gives time for the family to discuss options with the EOL care team while the pet's comfort is effectively addressed.</para>
-   </sect2>
-   <sect2 id="ch0013s0003s0006">
+   </sect3>
+   <sect3 id="ch0013s0003s0006">
       <title>3.3.6 Other Adjunctive Analgesics</title>
       <anchor id="ch0013-head-3-19"/>
       <para id="ch0013-c3-para-0079">
@@ -476,14 +475,14 @@
 <citation>ch0013-c3-bib-0032</citation>, and there is also evidence that CBD use may have an immunosuppressive effect in dogs. This could be advantageous for inflammatory conditions but could be a concern for inhibiting immune responses to a patient's detriment, for instance in <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> patients <citation>ch0013-c3-bib-0033</citation>. It is important for veterinary teams and caregivers to be aware that there is documentation of the toxic effects of THC on dogs, who have higher number of cannabinoid receptors and are more sensitive to the effects of THC [<citation>ch0013-c3-bib-0031</citation>, <citation>ch0013-c3-bib-0034</citation>]. If <ulink type="drug" url="link.aspx?id=14418">cannabis</ulink> products are used in companion animal EOL care, they must be CBD products without THC content.</para>
          <para id="ch0013-c3-para-0090">The regulation and availability of <ulink type="drug" url="link.aspx?id=14418">cannabis</ulink> products varies between and within countries. Veterinary teams must be aware of their regulatory context when recommending products to caregivers. Some products contain CBD extracted from hemp oil and may be available in areas where marijuana products are otherwise prohibited. The regulation and quality control of such products and the reliability of the listed active ingredients may be questionable, and caution is advised. Doses of CBD up to 20 mg/kg/day have been found to be safe in dogs, and veterinarians report anecdotal starting doses of 5 mg/kg/day <citation>ch0013-c3-bib-0035</citation>.</para>
       </sect3>
+   </sect3>
    </sect2>
    <sect2 id="ch0013s0004">
       <title>3.4 Physical Modalities</title>
       <anchor id="ch0013-head-2-35"/>
       <para id="ch0013-c3-para-0091">Physical therapy and rehabilitation practices can reduce <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and <ulink type="disease" url="link.aspx?id=3144">inflammation</ulink> and improve function, thereby improving QOL for EOL patients<citation>ch0013-c3-bib-0036</citation>. Veterinary professionals trained and certified in these services can broaden the scope of the EOL interdisciplinary team. Physical therapy and rehabilitation techniques are medical procedures that should only be performed when prescribed by a veterinarian and administered by trained professionals. Some of the techniques described here are simple and easy to learn with continuing education, and some require more specialized equipment and training. The information provided in this section is meant to inform technicians about available options and would not be sufficient to implement all of these modalities without further training. Technicians interested in training can seek out the Academy of Physical Rehabilitation Veterinary Technicians™, Goldberg and Tomlinson's Physical Rehabilitation for Technicians and Nurses <citation>ch0013-c3-bib-0036</citation>, and other reputable sources of continuing education.</para>
       <para id="ch0013-c3-para-0092">Even if they are not trained to offer physical therapy themselves, technicians with awareness of the services in their area are able to explore more options with families and facilitate referrals where appropriate. Physical therapy is used most often in canine and equine patients but can certainly be applied in feline patients as well. Cats may not tolerate staying still for treatments and may have more pronounced behavioral responses than dogs or horses. If approached with patience and flexibility on the part of the EOL care team, cats can sometimes be good candidates for physical therapy.</para>
-   </sect2>
-   <sect2 id="ch0013s0004s0001">
+   <sect3 id="ch0013s0004s0001">
       <title>3.4.1 Manual Therapy Techniques</title>
       <anchor id="ch0013-head-3-20"/>
       <itemizedlist id="ch0013-c3-list-0006">
@@ -513,8 +512,8 @@
                <emphasis role="strong">Therapeutic exercise</emphasis> involves targeted and supported exercises to maintain and improve neuromuscular function and reduce musculoskeletal <ulink type="disease" url="link.aspx?id=4522">pain</ulink> (e.g. sit and stand repetitions).</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0013s0004s0002">
+   </sect3>
+   <sect3 id="ch0013s0004s0002">
       <title>3.4.2 Thermotherapy</title>
       <anchor id="ch0013-head-3-21"/>
       <para>Thermotherapy utilizes heat and cold to alter tissue <ulink type="disease" url="link.aspx?id=10176">temperature</ulink> with the goal of influencing local biological processes or tissue pliability<citation>ch0013-c3-bib-0036</citation>. While the use of thermotherapy may seem straightforward, it does need to be provided in the right way and at the right time to maximize benefit and minimize harm. As with any treatment, thermotherapy should be prescribed and guided by veterinary recommendations. Its use may be contraindicated in certain cases (e.g. patients with <ulink type="disease" url="link.aspx?id=3030">reduced sensation</ulink> or mobility that may be unable to move away from harmful heat or cold; patients with active bleeding, open wounds, or <ulink type="disease" url="link.aspx?id=4181">tumors</ulink>; febrile patients, and patients with severe <ulink type="disease" url="link.aspx?id=901">cardiovascular disease</ulink>). Thermotherapy should generally be time limited (10–20 minutes) and within a regulated <ulink type="disease" url="link.aspx?id=10176">temperature</ulink> range to avoid tissue damage from heat or cold. Some patients will benefit more from cold (e.g. acute swelling or <ulink type="disease" url="link.aspx?id=4522">pain</ulink>), others more from heat (e.g. stiffness) and some from a combination of both.</para>
@@ -528,8 +527,8 @@
                <emphasis role="strong">Heat therapy</emphasis> causes vasodilation and can be used to promote healing and to aid in tissue pliability prior to manipulation. It can also speed degradative enzymes that damage tissues and must be used with caution. Possible devices include heat packs, heating pads, heat lamps and warm <ulink type="drug" url="link.aspx?id=15160">water</ulink> <citation>ch0013-c3-bib-0036</citation>.</para>
          </listitem>
       </itemizedlist>
-   </sect2>
-   <sect2 id="ch0013s0004s0003">
+   </sect3>
+   <sect3 id="ch0013s0004s0003">
       <title>3.4.3 Therapeutic Laser</title>
       <anchor id="ch0013-head-3-22"/>
       <para id="ch0013-c3-para-0095">Laser therapy is becoming more common in veterinary medicine and is available in many general and specialist practices, not just physical rehabilitation facilities. Therapeutic lasers are of a different class than those used for surgical techniques. A more detailed examination of classes of lasers and their mechanisms of action is beyond the scope of this section. For our purposes, we will<anchor id="ch0013-Page_44"/>
@@ -554,8 +553,8 @@
       </figure>
       <para id="ch0013-c3-para-0096">
          <emphasis>NOTE</emphasis>: <emphasis>Laser therapy requires additional training, but that training can often be provided by the manufacturer of the equipment and by other trained veterinary professionals already familiar with its use. Ensure you are familiar with the safety precautions and treatment parameters specific to the equipment you are using, and only use it as recommended by the manufacturer and the prescribing veterinarian. Lasers can cause eye damage if used without proper safety protocols</emphasis>.</para>
-   </sect2>
-   <sect2 id="ch0013s0004s0004">
+   </sect3>
+   <sect3 id="ch0013s0004s0004">
       <title>3.4.4 Electrotherapy</title>
       <anchor id="ch0013-head-3-23"/>
       <para id="ch0013-c3-para-0097">Electrotherapy is the electrical stimulation of tissue with the goal of reducing muscle <ulink type="disease" url="link.aspx?id=518">atrophy</ulink>, improving muscle function, and reducing <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and swelling. Further studies are required for specific evidence‐based recommendations regarding which modalities and treatment protocols are most beneficial for a given veterinary species and diagnosis, but electrotherapy is commonly used in veterinary physiotherapy. In<emphasis role="strong">neuromuscular stimulation (NMS)</emphasis> and <emphasis role="strong">transcutaneous electrical nerve stimulation (<ulink type="disease" url="link.aspx?id=10046">TENS</ulink>)</emphasis> electrodes are applied to a patient and a low level of electrical current is moved between the electrodes in the area to be treated. The stimulation of muscles (NMS) can improve neuromuscular function and improve the flow of <ulink type="drug" url="link.aspx?id=12285">blood</ulink> and lymph through the affected areas (<link linkend="ch0013-c3-fig-0002">Figure 3.2</link>). Sensory nerve transmission may be impacted by <ulink type="disease" url="link.aspx?id=10046">TENS</ulink> to manage <ulink type="disease" url="link.aspx?id=4523">pain</ulink> in the treated area <citation>ch0013-c3-bib-0036</citation>.</para>
@@ -580,8 +579,8 @@
       <para id="ch0013-c3-para-0098">These therapies require specialized equipment and should only be performed by veterinary professionals trained in their use, with the recommendation of a veterinarian. There are many documented benefits of NMS and <ulink type="disease" url="link.aspx?id=10046">TENS</ulink> when used correctly, but technicians need to be aware of some important patient safety information. Electrical stimulation should not be used over the neck, near the carotid arteries, or over the heart as cardiovascular complications can result. Patients with a history of <ulink type="disease" url="link.aspx?id=5968">thrombosis</ulink> and <ulink type="disease" url="link.aspx?id=5444">seizures</ulink> should not receive electrotherapy. Treatment should be avoided in areas of <ulink type="disease" url="link.aspx?id=3030">reduced sensation</ulink> where patients' response to excess stimulation and potential damage would be masked [<citation>ch0013-c3-bib-0003</citation>, <citation>ch0013-c3-bib-0036</citation>]. Technicians trained in the use of electrotherapy will monitor patients closely, as pets that are surprised by the electrical stimulation may show minor, transient signs of aggression. The list of contraindications and cautions should not deter EOL care teams from seeking the benefits of electrotherapy for patients whose caregivers are willing. It simply emphasizes the need for knowledgeable, skillful physiotherapy professionals to be included in the interdisciplinary EOL care team to ensure this therapy is appropriately implemented.</para>
       <para id="ch0013-c3-para-0099">
          <emphasis role="strong">Pulsed electromagnetic field therapy (PEMF)</emphasis> is another method of electrotherapy that creates electromagnetic fields to penetrate tissue and promote healing. PEMF has been shown to reduce <ulink type="disease" url="link.aspx?id=4522">pain</ulink> and <ulink type="disease" url="link.aspx?id=3144">inflammation</ulink> and can be used in cases such as wound healing, <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink>, and intervertebral disc disease <citation>ch0013-c3-bib-0036</citation>. There are commercially available veterinary PEMF devices (i.e. Assisi Loop and Assisi Lounge®) (<link linkend="ch0013-c3-fig-0003">Figure 3.3</link>). The manufacturer provides treatment protocols on their website, which veterinary teams can access to help advise clients on the proper use of the device in their pet. PEMF is less localized and specific than NMS and <ulink type="disease" url="link.aspx?id=10046">TENS</ulink> and the short‐term results may be more modest. With that said, PEMF can be readily used in the home environment and caregivers can be trained to use the device themselves. There are no contraindications to its use, which makes it an attractive option to include in home‐based EOL <ulink type="disease" url="link.aspx?id=4523">pain</ulink> management plans where other physical therapy and rehabilitation options may be limited due to lack of available trained personnel or cost limitations.</para>
-   </sect2>
-   <sect2 id="ch0013s0004s0005">
+   </sect3>
+   <sect3 id="ch0013s0004s0005">
       <title>3.4.5 Therapeutic Ultrasound and Extracorporeal Shockwave Therapy</title>
       <anchor id="ch0013-head-3-24"/>
       <para id="ch0013-c3-para-0100">
@@ -643,19 +642,19 @@
             </textobject>
          </mediaobject>
       </figure>
-   </sect2>
-   <sect2 id="ch0013s0004s0006">
+   </sect3>
+   <sect3 id="ch0013s0004s0006">
       <title>3.4.6 Acupuncture</title>
       <anchor id="ch0013-head-3-25"/>
       <para id="ch0013-c3-para-0102">
          <emphasis>Acupuncture</emphasis> is a branch of TCVM that is widely sought by pet caregivers as a nonpharmaceutical method to address <ulink type="disease" url="link.aspx?id=4522">pain</ulink>. Stimulation of acupuncture points has multiple possible effects: release of endogenous opioids, reduced <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, promotion of immune cell migration, decreased production of inflammatory mediators, and spinal cord effects (reduction of nociception signaling through multiple mechanisms) <citation>ch0013-c3-bib-0037</citation>. There is evidence for the beneficial effects of acupuncture (including at the level of the spinal cord) which can be included in <ulink type="disease" url="link.aspx?id=4523">pain</ulink> management plans, including those for neuropathic <ulink type="disease" url="link.aspx?id=4523">pain</ulink>. Acupuncture points may be stimulated in a variety of ways. Some of the most common methods in veterinary medicine include dry needling, electroacupuncture (<link linkend="ch0013-c3-fig-0005">Figure 3.5</link>), manual pressure (acupressure), and therapeutic laser.</para>
+   </sect3>
    </sect2>
    <sect2 id="ch0013s0005">
       <title>3.5 Nutrition, Nutraceuticals, and Herbal Medicine</title>
       <anchor id="ch0013-head-2-36"/>
       <para id="ch0013-c3-para-0103">Nutrition, nutraceuticals, and herbal medicine can all play a role in a mutimodal <ulink type="disease" url="link.aspx?id=4522">pain</ulink> management plan and are often employed to address the underlying disease processes that are causing the patient's <ulink type="disease" url="link.aspx?id=4523">pain</ulink>.</para>
-   </sect2>
-   <sect2 id="ch0013s0005s0001">
+   <sect3 id="ch0013s0005s0001">
       <title>3.5.1 Nutrition</title>
       <anchor id="ch0013-head-3-26"/>
       <para id="ch0013-c3-para-0104">Weight management is a key component of <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink> <ulink type="disease" url="link.aspx?id=4522">pain</ulink> management. Caregivers should be offered specific dietary recommendations, weight management goals, and monitoring tools such as body condition scores. Acknowledgement that offering food and treats is a significant part of the HAB will help to address caregiver concerns and improve compliance. Implement weight management programs in a way that will support the HAB (e.g. low calorie treats, exercise together, etc.).</para>
@@ -663,23 +662,23 @@
       <para id="ch0013-c3-para-0106">
          <anchor id="ch0013-Page_48"/>
          <beginpage pagenum="48"/>Prescription joint diets are available for veterinary prescription diet manufacturers, and there are multiple diets for both canine and feline patients with scientific evidence for their benefits in managing degenerative <ulink type="disease" url="link.aspx?id=3234">joint disease</ulink>. Additional supplementation with omega fatty acids and chrondroprotectants is recommended to achieve therapeutic doses even with prescription diets.</para>
-   </sect2>
-   <sect2 id="ch0013s0005s0002">
+   </sect3>
+   <sect3 id="ch0013s0005s0002">
       <title>3.5.2 Chondroprotectants</title>
       <anchor id="ch0013-head-3-27"/>
       <para id="ch0013-c3-para-0107">
          <emphasis>Polysulfated glycogsaminoglycans</emphasis> and their components <emphasis>glucosamine and chondroitin</emphasis> are often administered as therapies for degenerative <ulink type="disease" url="link.aspx?id=3234">joint disease</ulink>, with the goal of slowing degradation of articular cartilage and improving the quality of synovial fluid. The scientific evidence for their efficacy is inconclusive and contradictory, but as they are generally well tolerated with no significant risks they are often included in multimodal management of <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink>. If cost is an issue in the development of the treatment plan, these therapies may be discontinued in favor of including modalities with more scientific evidence of efficacy (e.g. <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=NSAIDs">NSAIDs</ulink>).</para>
-   </sect2>
-   <sect2 id="ch0013s0005s0003">
+   </sect3>
+   <sect3 id="ch0013s0005s0003">
       <title>3.5.3 Herbal Medicine</title>
       <anchor id="ch0013-head-3-28"/>
       <para id="ch0013-c3-para-0108">Herbal medicine can refer to either TCVM or western herbal medicine, or a combination of both. Many clients are interested in the inclusion of alternative therapies such as herbal medicine, and there is scientific evidence to support the use of many herbal remedies. Veterinary teams lacking knowledge of herbal medicine may consult with veterinarians trained in these areas, or they may seek training for their own professional development. A detailed look at evidence‐based herbal analgesics is beyond the scope of this section but technicians can seek out continuing education and contact the College of Integrative Veterinary Therapies for further training. Suggested resources include Complementary Medicine for Veterinary Technicians and Nurses by Scanlon<citation>ch0013-c3-bib-0039</citation> and Veterinary Herbal Medicine by Wynn and Fougere <citation>ch0013-c3-bib-0040</citation>.</para>
+   </sect3>
    </sect2>
    <sect2 id="ch0013s0006">
       <title>3.6 Pain Management Case Studies</title>
       <anchor id="ch0013-head-2-37"/>
-   </sect2>
-   <sect2 id="ch0013s0006s0001">
+   <sect3 id="ch0013s0006s0001">
       <title>3.6.1 “Leo” – Canine Osteosarcoma</title>
       <anchor id="ch0013-head-3-29"/>
       <para>Leo is a nine‐year‐old, 45 kg Bernese Mountain Dog previously diagnosed with elbow dysplasia and associated <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink>. Leo was prescribed the following treatments by <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=His">his</ulink> regular veterinarian:</para>
@@ -740,8 +739,8 @@
          </listitem>
       </itemizedlist>
       <para id="ch0013-c3-para-0115">While awaiting the veterinarian, the family indicates to the technician that they feel it is time to help Leo die peacefully and they ask to begin planning for human euthanasia and aftercare. The veterinarian arrives and the team proceeds with a peaceful euthanasia. The caregivers express how much it meant to them that they had a plan to keep Leo comfortable at home despite the sudden <ulink type="disease" url="link.aspx?id=2228">pathological fracture</ulink>.</para>
-   </sect2>
-   <sect2 id="ch0013s0006s0002">
+   </sect3>
+   <sect3 id="ch0013s0006s0002">
       <title>3.6.2 “BB” – Feline Osteoarthritis and Intestinal Lymphoma</title>
       <anchor id="ch0013-head-3-30"/>
       <para id="ch0013-c3-para-0116">BB is a 14‐year‐old, domestic medium hair, female spayed cat that has been diagnosed with <ulink type="disease" url="link.aspx?id=4463">osteoarthritis</ulink> affecting both <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=Hips">hips</ulink>. BB has been on oral robenacoxib tablets for six months for <ulink type="disease" url="link.aspx?id=4522">pain</ulink> management. This significantly helped her QOL when it was started, but lately BB has been having<anchor id="ch0013-Page_50"/>
@@ -771,6 +770,7 @@
          </listitem>
       </itemizedlist>
       <para id="ch0013-c3-para-0119">The technician calls to check on BB again in one week and Mandeep is much happier with how she is doing and is managing the treatment plan well. They would like to know what else they can do to improve and maintain BB's quality of life. The technician asks if they would be interested in referral for some alternative therapy such as massage and acupuncture. The caregiver is very excited about the notion and asks for the technician to start that process.</para>
+   </sect3>
    </sect2>
    <sect2 id="ch0013s0007">
       <title>3.7 Exotic Pet Pain Management</title>
