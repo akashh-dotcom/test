@@ -47,93 +47,33 @@
    
    
    
-   <tocchap>
-      <tocentry linkend="ch0001">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0001">Content</tocentry>
-      </toclevel1>
-   </tocchap>
+   <tocfront linkend="ch0001">Content</tocfront>
+   
+   <tocfront linkend="ch0002s0001">Table of Contents</tocfront>
+   
+   <tocfront linkend="ch0003s0000">Companion Animal End of Life Care for the Veterinary Technician</tocfront>
+   
+   <tocfront linkend="ch0004">Content</tocfront>
+   
+   <tocfront linkend="ch0005">Content</tocfront>
+   
+   <tocfront linkend="ch0006s0000">List of Contributors</tocfront>
+   
+   <tocfront linkend="ch0007s0000">Acknowledgments</tocfront>
+   
+   <tocfront linkend="ch0008s0000">Introduction</tocfront>
+   
+   <tocfront linkend="ch0009s0000">About the Companion Website</tocfront>
    
    <tocchap>
-      <tocentry linkend="ch0002">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0002s0001">Table of Contents</tocentry>
-      </toclevel1>
-      <toclevel1>
-         <tocentry linkend="ch0002s0002">List of Tables</tocentry>
-      </toclevel1>
-      <toclevel1>
-         <tocentry linkend="ch0002s0003">List of Illustrations</tocentry>
-      </toclevel1>
-      <toclevel1>
-         <tocentry linkend="ch0002s0004">Guide</tocentry>
-      </toclevel1>
-      <toclevel1>
-         <tocentry linkend="ch0002s0005">Pages</tocentry>
-      </toclevel1>
-   </tocchap>
-   
-   <tocchap>
-      <tocentry linkend="ch0003">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0003s0000">Companion Animal End of Life Care for the Veterinary Technician</tocentry>
-      </toclevel1>
-   </tocchap>
-   
-   <tocchap>
-      <tocentry linkend="ch0004">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0004">Content</tocentry>
-      </toclevel1>
-   </tocchap>
-   
-   <tocchap>
-      <tocentry linkend="ch0005">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0005">Content</tocentry>
-      </toclevel1>
-   </tocchap>
-   
-   <tocchap>
-      <tocentry linkend="ch0006">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0006s0000">List of Contributors</tocentry>
-      </toclevel1>
-   </tocchap>
-   
-   <tocchap>
-      <tocentry linkend="ch0007">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0007s0000">Acknowledgments</tocentry>
-      </toclevel1>
-   </tocchap>
-   
-   <tocchap>
-      <tocentry linkend="ch0008">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0008s0000">Introduction</tocentry>
-         <toclevel2>
-            <tocentry linkend="ch0008s0000">Companion Animal End‐of‐Life Care: From Quality of Life to Quality of Dying</tocentry>
-         </toclevel2>
-      </toclevel1>
-   </tocchap>
-   
-   <tocchap>
-      <tocentry linkend="ch0009">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0009s0000">About the Companion Website</tocentry>
-      </toclevel1>
-   </tocchap>
-   
-   <tocchap>
-      <tocentry linkend="ch0010">chapter</tocentry>
+      <tocentry linkend="ch0010">Part I Overview of Hospice and Palliative Care</tocentry>
       <toclevel1>
          <tocentry linkend="ch0010s0000">Part I Overview of Hospice and Palliative Care</tocentry>
       </toclevel1>
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0011">chapter</tocentry>
+      <tocentry linkend="ch0011">1 Introduction to Animal Hospice and Palliative Care</tocentry>
       <toclevel1>
          <tocentry linkend="ch0011s0000">1 Introduction to Animal Hospice and Palliative Care</tocentry>
          <toclevel2>
@@ -179,7 +119,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0012">chapter</tocentry>
+      <tocentry linkend="ch0012">2 Pain Recognition and Assessment</tocentry>
       <toclevel1>
          <tocentry linkend="ch0012s0000">2 Pain Recognition and Assessment</tocentry>
          <toclevel2>
@@ -234,7 +174,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0013">chapter</tocentry>
+      <tocentry linkend="ch0013">3 Pain Management</tocentry>
       <toclevel1>
          <tocentry linkend="ch0013s0000">3 Pain Management</tocentry>
          <toclevel2>
@@ -334,7 +274,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0014">chapter</tocentry>
+      <tocentry linkend="ch0014">4 Hospice and Palliative Nursing Care</tocentry>
       <toclevel1>
          <tocentry linkend="ch0014s0000">4 Hospice and Palliative Nursing Care</tocentry>
          <toclevel2>
@@ -413,7 +353,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0015">chapter</tocentry>
+      <tocentry linkend="ch0015">5 Understanding and Assessing Quality of Life</tocentry>
       <toclevel1>
          <tocentry linkend="ch0015s0000">5 Understanding and Assessing Quality of Life</tocentry>
          <toclevel2>
@@ -471,14 +411,14 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0016">chapter</tocentry>
+      <tocentry linkend="ch0016">Part II End‐of‐Life Communication and Decision‐Making</tocentry>
       <toclevel1>
          <tocentry linkend="ch0016s0000">Part II End‐of‐Life Communication and Decision‐Making</tocentry>
       </toclevel1>
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0017">chapter</tocentry>
+      <tocentry linkend="ch0017">6 Building Essential Communication Skills</tocentry>
       <toclevel1>
          <tocentry linkend="ch0017s0000">6 Building Essential Communication Skills</tocentry>
          <toclevel2>
@@ -533,7 +473,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0018">chapter</tocentry>
+      <tocentry linkend="ch0018">7 Supporting Difficult Conversations</tocentry>
       <toclevel1>
          <tocentry linkend="ch0018s0000">7 Supporting Difficult Conversations</tocentry>
          <toclevel2>
@@ -609,7 +549,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0019">chapter</tocentry>
+      <tocentry linkend="ch0019">8 Ethical End‐of‐Life Decision‐Making</tocentry>
       <toclevel1>
          <tocentry linkend="ch0019s0000">8 Ethical End‐of‐Life Decision‐Making</tocentry>
          <toclevel2>
@@ -658,7 +598,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0020">chapter</tocentry>
+      <tocentry linkend="ch0020">9 Death and Dying</tocentry>
       <toclevel1>
          <tocentry linkend="ch0020s0000">9 Death and Dying</tocentry>
          <toclevel2>
@@ -707,14 +647,14 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0021">chapter</tocentry>
+      <tocentry linkend="ch0021">Part III Euthanasia</tocentry>
       <toclevel1>
          <tocentry linkend="ch0021s0000">Part III Euthanasia</tocentry>
       </toclevel1>
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0022">chapter</tocentry>
+      <tocentry linkend="ch0022">10 Providing a Compassionate Euthanasia Experience</tocentry>
       <toclevel1>
          <tocentry linkend="ch0022s0000">10 Providing a Compassionate Euthanasia Experience</tocentry>
          <toclevel2>
@@ -808,7 +748,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0023">chapter</tocentry>
+      <tocentry linkend="ch0023">11 Anatomy of a Humane Euthanasia</tocentry>
       <toclevel1>
          <tocentry linkend="ch0023s0000">11 Anatomy of a Humane Euthanasia</tocentry>
          <toclevel2>
@@ -857,7 +797,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0024">chapter</tocentry>
+      <tocentry linkend="ch0024">12 Euthanasia Techniques in Companion Animals</tocentry>
       <toclevel1>
          <tocentry linkend="ch0024s0000">12 Euthanasia Techniques in Companion Animals</tocentry>
          <toclevel2>
@@ -918,7 +858,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0025">chapter</tocentry>
+      <tocentry linkend="ch0025">13 Respectful Deceased Body Care</tocentry>
       <toclevel1>
          <tocentry linkend="ch0025s0000">13 Respectful Deceased Body Care</tocentry>
          <toclevel2>
@@ -976,14 +916,14 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0026">chapter</tocentry>
+      <tocentry linkend="ch0026">Part IV Grief and Memorialization</tocentry>
       <toclevel1>
          <tocentry linkend="ch0026s0000">Part IV Grief and Memorialization</tocentry>
       </toclevel1>
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0027">chapter</tocentry>
+      <tocentry linkend="ch0027">14 Introduction to Grief</tocentry>
       <toclevel1>
          <tocentry linkend="ch0027s0000">14 Introduction to Grief</tocentry>
          <toclevel2>
@@ -1050,7 +990,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0028">chapter</tocentry>
+      <tocentry linkend="ch0028">15 Pet Loss Support</tocentry>
       <toclevel1>
          <tocentry linkend="ch0028s0000">15 Pet Loss Support</tocentry>
          <toclevel2>
@@ -1117,7 +1057,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0029">chapter</tocentry>
+      <tocentry linkend="ch0029">16 Children and Pet Loss</tocentry>
       <toclevel1>
          <tocentry linkend="ch0029s0000">16 Children and Pet Loss</tocentry>
          <toclevel2>
@@ -1214,14 +1154,14 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0030">chapter</tocentry>
+      <tocentry linkend="ch0030">Part V Team Wellness and Growth</tocentry>
       <toclevel1>
          <tocentry linkend="ch0030s0000">Part V Team Wellness and Growth</tocentry>
       </toclevel1>
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0031">chapter</tocentry>
+      <tocentry linkend="ch0031">17 Empathic Strain and Veterinary Team Wellness</tocentry>
       <toclevel1>
          <tocentry linkend="ch0031s0000">17 Empathic Strain and Veterinary Team Wellness</tocentry>
          <toclevel2>
@@ -1273,7 +1213,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0032">chapter</tocentry>
+      <tocentry linkend="ch0032">18 The Future Is Bright</tocentry>
       <toclevel1>
          <tocentry linkend="ch0032s0000">18 The Future Is Bright</tocentry>
          <toclevel2>
@@ -1307,7 +1247,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0033">chapter</tocentry>
+      <tocentry linkend="ch0033">Index</tocentry>
       <toclevel1>
          <tocentry linkend="ch0033s0000">Index</tocentry>
          <toclevel2>
@@ -1389,7 +1329,7 @@
    </tocchap>
    
    <tocchap>
-      <tocentry linkend="ch0034">chapter</tocentry>
+      <tocentry linkend="ch0034">WILEY END USER LICENSE AGREEMENT</tocentry>
       <toclevel1>
          <tocentry linkend="ch0034s0000">WILEY END USER LICENSE AGREEMENT</tocentry>
       </toclevel1>
