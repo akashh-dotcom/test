@@ -8,130 +8,21 @@
    <title>Companion Animal End of Life Care for the Veterinary Technician</title>
    
    <tocfront linkend="">About</tocfront>
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
 
-   
-   
-   
-   <tocchap>
-      <tocentry linkend="frontmatter">FRONT MATTER</tocentry>
+   <tocfront linkend="ch0001">Content</tocfront>
+   <tocfront linkend="ch0002">Table of Contents</tocfront>
+   <tocfront linkend="ch0003">Companion Animal End of Life Care for the Veterinary Technician</tocfront>
+   <tocfront linkend="ch0004">Content</tocfront>
+   <tocfront linkend="ch0005">Content</tocfront>
+   <tocfront linkend="ch0006">List of Contributors</tocfront>
+   <tocfront linkend="ch0007">Acknowledgments</tocfront>
+   <tocfront linkend="ch0008">Introduction</tocfront>
+   <tocfront linkend="ch0009">About the Companion Website</tocfront>
 
-      <tocchap>
-         <tocentry linkend="ch0001">Content</tocentry>
-         <toclevel1>
-            <tocentry linkend="ch0001-intro">Content</tocentry>
-         </toclevel1>
-      </tocchap>
-
-      <tocchap>
-         <tocentry linkend="ch0002">Table of Contents</tocentry>
-         <toclevel1>
-            <tocentry linkend="Ch02Sec01">Table of Contents</tocentry>
-         </toclevel1>
-         <toclevel1>
-            <tocentry linkend="Ch02Sec02">List of Tables</tocentry>
-         </toclevel1>
-         <toclevel1>
-            <tocentry linkend="Ch02Sec03">List of Illustrations</tocentry>
-         </toclevel1>
-         <toclevel1>
-            <tocentry linkend="Ch02Sec04">Guide</tocentry>
-         </toclevel1>
-         <toclevel1>
-            <tocentry linkend="Ch02Sec05">Pages</tocentry>
-         </toclevel1>
-      </tocchap>
-
-      <tocchap>
-         <tocentry linkend="ch0003">Companion Animal End of Life Care for the Veterinary Technician</tocentry>
-         <toclevel1>
-            <tocentry linkend="ch0003s0000">Companion Animal End of Life Care for the Veterinary Technician</tocentry>
-         </toclevel1>
-      </tocchap>
-
-      <tocchap>
-         <tocentry linkend="ch0004">Content</tocentry>
-         <toclevel1>
-            <tocentry linkend="ch0004-intro">Content</tocentry>
-         </toclevel1>
-      </tocchap>
-
-      <tocchap>
-         <tocentry linkend="ch0005">Content</tocentry>
-         <toclevel1>
-            <tocentry linkend="ch0005-intro">Content</tocentry>
-         </toclevel1>
-      </tocchap>
-
-      <tocchap>
-         <tocentry linkend="ch0006">List of Contributors</tocentry>
-         <toclevel1>
-            <tocentry linkend="ch0006s0000">List of Contributors</tocentry>
-         </toclevel1>
-      </tocchap>
-
-      <tocchap>
-         <tocentry linkend="ch0007">Acknowledgments</tocentry>
-         <toclevel1>
-            <tocentry linkend="ch0007s0000">Acknowledgments</tocentry>
-         </toclevel1>
-      </tocchap>
-
-      <tocchap>
-         <tocentry linkend="ch0008">Introduction</tocentry>
-         <toclevel1>
-            <tocentry linkend="ch0008s0000">Introduction</tocentry>
-            <toclevel2>
-               <tocentry linkend="ch0008s1000">Companion Animal End‐of‐Life Care: From Quality of Life to Quality of Dying</tocentry>
-            </toclevel2>
-         </toclevel1>
-      </tocchap>
-
-      <tocchap>
-         <tocentry linkend="ch0009">About the Companion Website</tocentry>
-         <toclevel1>
-            <tocentry linkend="ch0009s0000">About the Companion Website</tocentry>
-         </toclevel1>
-      </tocchap>
-
-   </tocchap>
-
-   <tocchap>
-      <tocentry linkend="ch0010">Part I Overview of Hospice and Palliative Care</tocentry>
+   <tocpart>
+      <tocentry linkend="pt0010">
+         Part I Overview of Hospice and Palliative Care
+      </tocentry>
 
       <tocchap>
          <tocentry linkend="ch0011">1 Introduction to Animal Hospice and Palliative Care</tocentry>
@@ -471,10 +362,12 @@
          </toclevel1>
       </tocchap>
 
-   </tocchap>
+   </tocpart>
 
-   <tocchap>
-      <tocentry linkend="ch0016">Part II End‐of‐Life Communication and Decision‐Making</tocentry>
+   <tocpart>
+      <tocentry linkend="pt0016">
+         Part II End‐of‐Life Communication and Decision‐Making
+      </tocentry>
 
       <tocchap>
          <tocentry linkend="ch0017">6 Building Essential Communication Skills</tocentry>
@@ -705,10 +598,12 @@
          </toclevel1>
       </tocchap>
 
-   </tocchap>
+   </tocpart>
 
-   <tocchap>
-      <tocentry linkend="ch0021">Part III Euthanasia</tocentry>
+   <tocpart>
+      <tocentry linkend="pt0021">
+         Part III Euthanasia
+      </tocentry>
 
       <tocchap>
          <tocentry linkend="ch0022">10 Providing a Compassionate Euthanasia Experience</tocentry>
@@ -972,10 +867,12 @@
          </toclevel1>
       </tocchap>
 
-   </tocchap>
+   </tocpart>
 
-   <tocchap>
-      <tocentry linkend="ch0026">Part IV Grief and Memorialization</tocentry>
+   <tocpart>
+      <tocentry linkend="pt0026">
+         Part IV Grief and Memorialization
+      </tocentry>
 
       <tocchap>
          <tocentry linkend="ch0027">14 Introduction to Grief</tocentry>
@@ -1208,10 +1105,12 @@
          </toclevel1>
       </tocchap>
 
-   </tocchap>
+   </tocpart>
 
-   <tocchap>
-      <tocentry linkend="ch0030">Part V Team Wellness and Growth</tocentry>
+   <tocpart>
+      <tocentry linkend="pt0030">
+         Part V Team Wellness and Growth
+      </tocentry>
 
       <tocchap>
          <tocentry linkend="ch0031">17 Empathic Strain and Veterinary Team Wellness</tocentry>
@@ -1299,7 +1198,7 @@
          </toclevel1>
       </tocchap>
 
-   </tocchap>
+   </tocpart>
 
    <tocchap>
       <tocentry linkend="ch0033">Index</tocentry>
@@ -1389,5 +1288,6 @@
          <tocentry linkend="ch0034s0000">WILEY END USER LICENSE AGREEMENT</tocentry>
       </toclevel1>
    </tocchap>
+
 
 </toc>

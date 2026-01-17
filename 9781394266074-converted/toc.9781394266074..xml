@@ -26,11 +26,6 @@
       <ulink url="ch0009.xml">About the Companion Website</ulink>
    </tocfront>
    <tocchap>
-      <tocentry linkend="frontmatter">FRONT MATTER</tocentry>
-
-   </tocchap>
-
-   <tocchap>
       <tocentry>
          <ulink url="ch0008.xml">Introduction</ulink>
       </tocentry>
@@ -40,7 +35,10 @@
          </tocentry>
       </toclevel1>
    </tocchap>
-
+   <tocpart>
+      <tocentry>
+         <ulink url="ch0010.xml">Part I: Overview of Hospice and Palliative Care</ulink>
+      </tocentry>
       <tocchap>
          <tocentry>
             <ulink url="ch0011.xml">1 Introduction to Animal Hospice and Palliative Care</ulink>
@@ -86,7 +84,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0012.xml">2 Pain Recognition and Assessment</ulink>
@@ -132,7 +129,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0013.xml">3 Pain Management</ulink>
@@ -188,7 +184,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0014.xml">4 Hospice and Palliative Nursing Care</ulink>
@@ -224,7 +219,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0015.xml">5 Understanding and Assessing Quality of Life</ulink>
@@ -270,7 +264,11 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
+   </tocpart>
+   <tocpart>
+      <tocentry>
+         <ulink url="ch0016.xml">Part II: End‐of‐Life Communication and Decision‐Making</ulink>
+      </tocentry>
       <tocchap>
          <tocentry>
             <ulink url="ch0017.xml">6 Building Essential Communication Skills</ulink>
@@ -306,7 +304,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0018.xml">7 Supporting Difficult Conversations</ulink>
@@ -357,7 +354,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0019.xml">8 Ethical End‐of‐Life Decision‐Making</ulink>
@@ -408,7 +404,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0020.xml">9 Death and Dying</ulink>
@@ -454,7 +449,11 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
+   </tocpart>
+   <tocpart>
+      <tocentry>
+         <ulink url="ch0021.xml">Part III: Euthanasia</ulink>
+      </tocentry>
       <tocchap>
          <tocentry>
             <ulink url="ch0022.xml">10 Providing a Compassionate Euthanasia Experience</ulink>
@@ -500,7 +499,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0023.xml">11 Anatomy of a Humane Euthanasia</ulink>
@@ -546,7 +544,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0024.xml">12 Euthanasia Techniques in Companion Animals</ulink>
@@ -592,7 +589,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0025.xml">13 Respectful Deceased Body Care</ulink>
@@ -643,7 +639,11 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
+   </tocpart>
+   <tocpart>
+      <tocentry>
+         <ulink url="ch0026.xml">Part IV: Grief and Memorialization</ulink>
+      </tocentry>
       <tocchap>
          <tocentry>
             <ulink url="ch0027.xml">14 Introduction to Grief</ulink>
@@ -689,7 +689,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0028.xml">15 Pet Loss Support</ulink>
@@ -740,7 +739,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0029.xml">16 Children and Pet Loss</ulink>
@@ -801,7 +799,11 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
+   </tocpart>
+   <tocpart>
+      <tocentry>
+         <ulink url="ch0030.xml">Part V: Team Wellness and Growth</ulink>
+      </tocentry>
       <tocchap>
          <tocentry>
             <ulink url="ch0031.xml">17 Empathic Strain and Veterinary Team Wellness</ulink>
@@ -837,7 +839,6 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
       <tocchap>
          <tocentry>
             <ulink url="ch0032.xml">18 The Future Is Bright</ulink>
@@ -888,5 +889,11 @@
             </tocentry>
          </toclevel1>
       </tocchap>
-
+   </tocpart>
+   <tocback linkend="ch0033">
+      <ulink url="ch0033.xml">Index</ulink>
+   </tocback>
+   <tocback linkend="ch0034">
+      <ulink url="ch0034.xml">End User License Agreement</ulink>
+   </tocback>
 </toc>
