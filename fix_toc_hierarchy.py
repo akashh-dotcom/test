@@ -175,5 +175,7 @@ def extract_linkend(lines):
     return ""
 
 if __name__ == "__main__":
-    toc_path = Path("/home/user/test/9781394266074-reference-converted/toc.9781394266074.xml")
+    # Use path relative to script location
+    script_dir = Path(__file__).parent
+    toc_path = script_dir / "9781394266074-reference-converted" / "toc.9781394266074.xml"
     restructure_toc_hierarchy(toc_path)
