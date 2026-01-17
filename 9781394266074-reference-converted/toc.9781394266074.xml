@@ -48,83 +48,87 @@
    
    
    <tocchap>
-      <tocentry linkend="ch0001">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0001">Content</tocentry>
-      </toclevel1>
-   </tocchap>
+      <tocentry>FRONT MATTER</tocentry>
+      <tocchap>
+         <tocentry linkend="ch0001">chapter</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0001">Content</tocentry>
+         </toclevel1>
+      </tocchap>
    
-   <tocchap>
-      <tocentry linkend="ch0002">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0002s0001">Table of Contents</tocentry>
-      </toclevel1>
-      <toclevel1>
-         <tocentry linkend="ch0002s0002">List of Tables</tocentry>
-      </toclevel1>
-      <toclevel1>
-         <tocentry linkend="ch0002s0003">List of Illustrations</tocentry>
-      </toclevel1>
-      <toclevel1>
-         <tocentry linkend="ch0002s0004">Guide</tocentry>
-      </toclevel1>
-      <toclevel1>
-         <tocentry linkend="ch0002s0005">Pages</tocentry>
-      </toclevel1>
-   </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0002">chapter</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0002s0001">Table of Contents</tocentry>
+         </toclevel1>
+         <toclevel1>
+            <tocentry linkend="ch0002s0002">List of Tables</tocentry>
+         </toclevel1>
+         <toclevel1>
+            <tocentry linkend="ch0002s0003">List of Illustrations</tocentry>
+         </toclevel1>
+         <toclevel1>
+            <tocentry linkend="ch0002s0004">Guide</tocentry>
+         </toclevel1>
+         <toclevel1>
+            <tocentry linkend="ch0002s0005">Pages</tocentry>
+         </toclevel1>
+      </tocchap>
    
-   <tocchap>
-      <tocentry linkend="ch0003">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0003s0000">Companion Animal End of Life Care for the Veterinary Technician</tocentry>
-      </toclevel1>
-   </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0003">chapter</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0003s0000">Companion Animal End of Life Care for the Veterinary Technician</tocentry>
+         </toclevel1>
+      </tocchap>
    
-   <tocchap>
-      <tocentry linkend="ch0004">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0004">Content</tocentry>
-      </toclevel1>
-   </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0004">chapter</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0004">Content</tocentry>
+         </toclevel1>
+      </tocchap>
    
-   <tocchap>
-      <tocentry linkend="ch0005">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0005">Content</tocentry>
-      </toclevel1>
-   </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0005">chapter</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0005">Content</tocentry>
+         </toclevel1>
+      </tocchap>
    
-   <tocchap>
-      <tocentry linkend="ch0006">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0006s0000">List of Contributors</tocentry>
-      </toclevel1>
-   </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0006">chapter</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0006s0000">List of Contributors</tocentry>
+         </toclevel1>
+      </tocchap>
    
-   <tocchap>
-      <tocentry linkend="ch0007">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0007s0000">Acknowledgments</tocentry>
-      </toclevel1>
-   </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0007">chapter</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0007s0000">Acknowledgments</tocentry>
+         </toclevel1>
+      </tocchap>
    
-   <tocchap>
-      <tocentry linkend="ch0008">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0008s0000">Introduction</tocentry>
-         <toclevel2>
-            <tocentry linkend="ch0008s0000">Companion Animal End‐of‐Life Care: From Quality of Life to Quality of Dying</tocentry>
-         </toclevel2>
-      </toclevel1>
-   </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0008">chapter</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0008s0000">Introduction</tocentry>
+            <toclevel2>
+               <tocentry linkend="ch0008s0000">Companion Animal End‐of‐Life Care: From Quality of Life to Quality of Dying</tocentry>
+            </toclevel2>
+         </toclevel1>
+      </tocchap>
    
-   <tocchap>
-      <tocentry linkend="ch0009">chapter</tocentry>
-      <toclevel1>
-         <tocentry linkend="ch0009s0000">About the Companion Website</tocentry>
-      </toclevel1>
-   </tocchap>
+      <tocchap>
+         <tocentry linkend="ch0009">chapter</tocentry>
+         <toclevel1>
+            <tocentry linkend="ch0009s0000">About the Companion Website</tocentry>
+         </toclevel1>
+      </tocchap>
    
+   </tocchap>
+
    <tocchap>
       <tocentry linkend="ch0010">chapter</tocentry>
       <toclevel1>
