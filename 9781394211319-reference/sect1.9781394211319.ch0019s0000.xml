@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0019s0000">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0019s0010</risprev>
+         <riscurrent>sect1.9781394211319.ch0019s0000</riscurrent>
+         <risnext>sect1.9781394211319.ch0019s0001</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0019</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Introduction and History</title>
+   <anchor id="ch0019s0000a0065"/>
+   <anchor id="ch0019s0000a0006"/>
+   <para id="ch0019s0000p0003">One measure of a theory’s contribution is the degree to which subsequent theorizing and research are informed by its key constructs and applications. By that standard, Theory of Reasoned Action (Fishbein &amp; Ajzen,1975), Theory of Planned Behavior (Ajzen,<link linkend="ch0019s0000li0005">1985</link>, <link linkend="ch0019s0000li0006">1991</link>), Integrative Model of Behavioral Prediction (Fishbein, <link linkend="ch0019s0000li0031">2000</link>), and the most recent iteration, and Reasoned Action Approach (Fishbein &amp; Ajzen, <link linkend="ch0019s0000li0032">2010</link>) are some of the most influential psychosocial theories of individual behavioral prediction and explanation. Since the TRA was first introduced almost 50 years ago, the theoretical approach continued to evolve and expand into TPB, Integrative Model of Behavioral Prediction (IM), and, finally, Reasoned Action Approach (RAA). As articulated by Marco Yzer, “The different formulations build on one another in a developmental fashion and reflect improvements—in conceptualization and measurement of the theory’s key constructs for the purpose of improving the precision with which behavior can be explained” (Yzer, <link linkend="ch0019s0000li0073">2017</link>, p. 2). The popularity of these <emphasis>reasoned action theories</emphasis> is tied to their theoretical robustness, parsimonious conceptualization of the factors that contribute to behavior, meticulous attention to measuring those constructs, and utility for guiding intervention development and evaluation. <emphasis>The main proposition in all formulations is that intention is the best predictor of one’s behavior, and that intentions are formed by some combination of attitudes, norms, and control or efficacy</emphasis>. We define these constructs in more detail below, but first offer a brief history of the evolution of this framework. At times, we refer to “reasoned action framework” or “the framework” to represent the set of these theories which share common propositions and constructs (<anchor id="ch0019s0000a0007"/>
+      <link linkend="ch0019s0000a0011">Figure 6.1</link>).</para>
+   <sect2 id="ch0019s0000s0000">
+      <title>Evolution of Reasoned Action Theories from TRA to RAA</title>
+      <anchor id="ch0019s0000a0066"/>
+      <anchor id="ch0019s0000a0008"/>
+      <para id="ch0019s0000p0004">
+         <link linkend="ch0019s0000a0011">Figure 6.1</link> shows a graphical depiction of the TRA and TPB—and <anchor id="ch0019s0000a0009"/>
+         <link linkend="ch0019s0000a0012">Table 6.1</link> highlights the differences in the four versions since the inception of TRA. The TRA was formulated to address the weakness of general attitudes in the prediction of behavior. In TRA, the most powerful predictor of behavior is intention to perform a behavior. Intentions are a function of attitudes and social norms regarding the behavior. Generally, attitudes are a disposition or tendency to evaluate a psychological object, such as a behavior, as favorable or unfavorable. Social norms, however, refer to the acceptability of a behavior by a group (or society in general). In TRA, social norms are referred to as subjective norms. These subjective norms are injunctive, which are perceptions concerning whether important people in an individual’s life think they should or should not perform the behavior (approval). TPB was developed to extend the utility of TRA, with addition of the perceived behavioral control (PBC) construct to account for agency, or the capacity to influence one’s own thoughts and behaviors. In TPB, PBC was added as a distinct predictor of intention that can exert a direct influence on behavior as well, unlike attitudes and perceived norms which are thought to operate through their effects on intention.</para>
+      <anchor id="ch0019s0000a0010"/>
+      <beginpage pagenum="58"/>
+      <figure float="0" id="ch0019s0000f0001">
+         <title>
+            <emphasis role="figureLabel">
+               <anchor id="ch0019s0000a0011"/>
+               <link linkend="ch0019s0000a0007">
+                  <emphasis role="strong">Figure 6.1</emphasis>
+               </link>
+            </emphasis> Visual Depictions of TRA and TPB
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0019f04.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+            <textobject>
+               <para>A flowchart representing the theory of reasoned action 1975 and the theory of planned behavior 1985. It includes boxes connected with arrows indicating the flow of concepts. Starting from the left, there are three boxes labeled: Behavioral beliefs and evaluations. Normative beliefs and motivation to comply. Control beliefs and facilitating power. These <ulink type="drug" url="link.aspx?id=14726">lead</ulink> into a central box labeled: Attitude toward behavior. Subjective norm. Perceived behavioral control, respectively. Arrows from these three central concepts point to a box labeled intention, which then leads to a box labeled behavior. There is also a dashed arrow bypassing intention and pointing directly to behavior.</para>
+            </textobject>
+         </mediaobject>
+      </figure>
+      <table id="ch0019s0000t0001">
+         <title>
+            <emphasis role="figureLabel">
+               <anchor id="ch0019s0000a0012"/>
+               <link linkend="ch0019s0000a0009">
+                  <emphasis role="strong">Table 6.1</emphasis>
+               </link>
+            </emphasis> Constructs and Pathways for TRA, TPB, IM, and RAA
+</title>
+         <tgroup cols="4">
+            <tbody>
+               <row>
+                  <entry>Theory</entry>
+                  <entry>Predictors of Direct Determinants</entry>
+                  <entry>Predictors of Intention</entry>
+                  <entry>Predictors of Behavior</entry>
+               </row>
+               <row>
+                  <entry>
+                     <emphasis role="strong">Theory of Reasoned Action</emphasis>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Behavioral beliefs × Evaluation ➔</entry>
+                  <entry>Attitude ➔</entry>
+                  <entry>Intention</entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Normative beliefs × Motivation to comply ➔</entry>
+                  <entry>Subjective norm ➔</entry>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <emphasis role="strong">Theory of Planned Behavior</emphasis>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Behavioral beliefs × Evaluation ➔</entry>
+                  <entry>Attitude ➔</entry>
+                  <entry>Intention</entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Normative beliefs × Motivation to comply ➔</entry>
+                  <entry>Subjective norm ➔</entry>
+                  <entry>
+                     <emphasis role="strong">PBC</emphasis>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <emphasis role="strong">Control beliefs × facilitating power</emphasis> ➔</entry>
+                  <entry>
+                     <emphasis role="strong">Perceived Behavioral Control ➔</emphasis>
+                  </entry>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <emphasis role="strong">Integrative Model of Behavioral Prediction</emphasis>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Behavioral beliefs × Evaluation ➔</entry>
+                  <entry>Attitude ➔</entry>
+                  <entry>Intention</entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Normative beliefs × Motivation to comply ➔</entry>
+                  <entry>Normative Pressure (Injunctive and Descriptive) ➔</entry>
+                  <entry>
+                     <emphasis role="strong">Skills, Abilities</emphasis>
+                     <anchor id="ch0019s0000a0013"/>
+                     <link linkend="ch0019s0000a0014">a</link>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>
+                     <emphasis role="strong">Efficacy beliefs ➔</emphasis>
+                  </entry>
+                  <entry>
+                     <emphasis role="strong">Self‐efficacy ➔</emphasis>
+                  </entry>
+                  <entry>
+                     <emphasis role="strong">Environmental constraints</emphasis>
+                     <link linkend="ch0019s0000a0014">
+                        <superscript>a</superscript>
+                     </link>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <emphasis role="strong">Reasoned Action Approach</emphasis>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Behavioral beliefs × Evaluation ➔</entry>
+                  <entry>Attitude (Instrumental and Experiential) ➔</entry>
+                  <entry>Intention</entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Normative beliefs × Motivation to comply ➔</entry>
+                  <entry>Normative Pressure (Injunctive and Descriptive) ➔</entry>
+                  <entry>
+                     <emphasis role="strong">Actual control</emphasis>
+                     <link linkend="ch0019s0000a0014">
+                        <superscript>a</superscript>
+                     </link>
+                  </entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Control beliefs × facilitating? Power ➔</entry>
+                  <entry>Perceived Behavioral Control (<emphasis role="strong">Autonomy and Capacity</emphasis>) ➔</entry>
+                  <entry/>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para role="table-footnote">
+         <superscript>
+            <link linkend="ch0019s0000a0013">
+               <emphasis role="strong">a</emphasis>
+            </link>
+         </superscript>
+         <anchor id="ch0019s0000a0014"/> Moderators of the intention‐behavior relationship.</para>
+      <para id="ch0019s0000p0005">Other behavioral theories commonly used in the context of public health and public health communication when TPB was developed had considerable overlap. These theories, including Health Belief Model (Janz &amp; Becker,<link linkend="ch0019s0000li0045">1984</link>) (<ulink url="ch0018">Chapter 5</ulink>), Social Cognitive Theory (Bandura, <link linkend="ch0019s0000li0016">1986</link>) (<ulink url="ch0023">Chapter 9</ulink>), and Theory of Subjective Culture and Interpersonal Relations (Triandis, <link linkend="ch0019s0000li0067">1977</link>), share assumptions of reasoned action and also focus on outcome expectations, norms and efficacy. To examine this overlap, the National Institutes of Mental Health convened a small group of prominent behavioral theorists in 1991, including Drs. Martin Fishbein, Albert Bandura, Marshall Becker, Harry Triandis, and Frederick Kanfer, for a workshop to reach consensus around which variables are the most important determinants of behavior. Though the workshop did not result in consensus, there was general agreement on eight propositions relevant to the process of behavior change involving assertions about the importance of (1) positive behavioral intentions, (2) prohibitive environmental constraints, (3) requisite skills and abilities, (4) positive attitudes toward the behavior, (5) supportive social norms, (6) perceived self‐efficacy to perform the behavior, (7) consistency with one’s self‐image, and (8) positive emotional reactions to behavioral performance (Fishbein et al., <link linkend="ch0019s0000li0034">2001</link>). Fishbein further refined these propositions when he introduced Integrative Model of Behavioral Change and Prediction, or IM (Fishbein, <link linkend="ch0019s0000li0031">2000</link>), also referred to as the <emphasis>Integrated</emphasis> Behavioral Model (Montano &amp; Kasprzyk, <link linkend="ch0019s0000li0053">2015</link>) or the <emphasis>Integrative</emphasis> Model of Behavioral Prediction (IM).</para>
+      <para id="ch0019s0000p0006">IM was a step forward in the reasoned action lineage, as it began to account more comprehensively for the complex ways perceptions of social pressure shape intention formation by including a descriptive normative component (Cialdini et al.,<link linkend="ch0019s0000li0023">1990</link>; Fishbein, <link linkend="ch0019s0000li0031">2000</link>). In IM, descriptive norms are incorporated into the normative pressure construct along with injunctive norms. The IM also reconfigures the constructs introduced earlier, such that consistency with self‐image and emotions are considered outcome expectations and background factors, respectively. Finally, IM includes self‐efficacy rather than PBC.</para>
+      <para id="ch0019s0000p0007">In 2010, Fishbein and Ajzen published<emphasis>Predicting and Changing Behavior: A Reasoned Action Approach</emphasis>, which presents the latest iteration in this set of theories—RAA (<link linkend="ch0019s0000a0016">Figure 6.2</link>). The most significant distinction between RAA and previous versions is its emphasis on the dual aspects of attitudes, norms, and control. Attitudes are conceptualized as experiential and instrumental. Normative pressure, as in IM, includes an injunctive and descriptive component. And the PBC construct, which is treated synonymously with self‐efficacy, is based on autonomy and capacity. RAA also diverges from IM by conceptualizing skills and environmental constraints as a single construct: <emphasis>actual control</emphasis>. Actual control over a behavior is proposed to moderate the intention‐behavior relationship and shapes perceptions of behavioral control. As in earlier models, perceptions of behavioral control moderate the intention‐behavior relationship when actual control is not measured or accounted for in the model.</para>
+      <anchor id="ch0019s0000a0015"/>
+      <beginpage pagenum="59"/>
+      <figure float="0" id="ch0019s0000f0002">
+         <title>
+            <emphasis role="figureLabel">
+               <anchor id="ch0019s0000a0016"/>
+               <link linkend="ch0019s0000a0036">
+                  <emphasis role="strong">Figure 6.2</emphasis>
+               </link>
+            </emphasis> Visual Depictions of IM and RAA
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0019f05.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+            <textobject>
+               <para>A flowchart illustrating the theory of reasoned action, 1975, and the theory of planned behavior, 1985. It shows various factors influencing behavior, starting with background factors like demographics, S E S variables, attitude toward the target, religion, personality, persuasive messages, values, and knowledge. These <ulink type="drug" url="link.aspx?id=14726">lead</ulink> to behavioral beliefs and evaluations forming instrumental attitudes toward behavior and experiential attitudes toward behavior. Normative beliefs and motivation to comply form subjective norms, including injunctive norms and descriptive norms. Efficacy beliefs and facilitating power form perceived behavioral control, including capacity and autonomy. These three components—attitude toward behavior, subjective norms, and perceived behavioral control—feed into intention, which then leads to behavior under environmental constraints and individual skills and abilities.</para>
+            </textobject>
+         </mediaobject>
+      </figure>
+   </sect2>
+</sect1>

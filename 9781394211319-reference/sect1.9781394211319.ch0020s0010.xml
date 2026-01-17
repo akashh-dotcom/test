@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0020s0010">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.</risprev>
+         <riscurrent>sect1.9781394211319.ch0020s0010</riscurrent>
+         <risnext>sect1.9781394211319.ch0020s0000</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0020</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>KEY POINTS</title>
+   <anchor id="ch0020s0000a0002"/>
+   <anchor id="ch0020s0000a0003"/>
+   <para role="chapterAuthor">
+      <emphasis role="strong">Kerry E. Evers</emphasis>
+<?lb?>
+      <emphasis role="strong">Sara G. Balestrieri</emphasis>
+   </para>
+   <anchor id="ch0020s0000a0004"/>
+   <sidebar id="ch0020s0000sb0001">
+      <title>KEY POINTS</title>
+      <para>This chapter will:</para>
+      <itemizedlist id="ch0020s0000l0001">
+         <listitem id="ch0020s0000li0001">
+            <para>Explain stages of change and the other core Transtheoretical Model (TTM) constructs.</para>
+         </listitem>
+         <listitem id="ch0020s0000li0002">
+            <para>Explore empirical support for and challenges to TTM.</para>
+         </listitem>
+         <listitem id="ch0020s0000li0003">
+            <para>Illustrate how the utility of TTM continues to be extended to increasingly diverse populations, settings, and target behaviors.</para>
+         </listitem>
+      </itemizedlist>
+   </sidebar>
+   <sidebar id="ch0020s0000sb0002">
+      <title>Vignette</title>
+      <bridgehead>Vignette</bridgehead>
+      <para id="ch0020s0000p0001">At 24 years old, Brenda had a car accident on her way to the grocery store, leading to several doctor visits. One of these doctors prescribed her opioid <ulink type="disease" url="link.aspx?id=4522">pain</ulink> medication. Brenda does not recall being warned about the risks of using prescription opioids or the potential for misuse. She was in significant <ulink type="disease" url="link.aspx?id=4523">pain</ulink>, and the medication provided relief. After filling her prescription, Brenda increased her dosage one day and continued to do so, deviating from the prescribed instructions. She began seeing multiple doctors to obtain more pills and eventually resorted to buying them in her community. This isolation left her suffering and pushed aside her friends and family.</para>
+      <para id="ch0020s0000p0002">During her annual check‐up, Brenda's physician inquired about her medication use, leading Brenda to disclose her misuse. The doctor gave her a referral to a treatment program and stressed the importance of seeking help urgently. Brenda, feeling defensive, discarded the referral, believing that the doctors had prescribed the medication for her <ulink type="disease" url="link.aspx?id=4522">pain</ulink>, and she was not ready to stop using it.</para>
+      <para id="ch0020s0000p0003">Several months later, after her pill use intensified due to another car accident with her child, Brenda spoke with another medical professional. This provider, rather than pressuring her to quit immediately, empathized with Brenda and discussed the potential benefits of seeking treatment. Brenda, still hesitant but more open, agreed to continue the discussion and explore treatment options. The new provider acknowledged that seeking help to quit using the painkillers might not be easy and could take a series of steps or stages.</para>
+      <para id="ch0020s0000p0004">An estimated 21.7 million (8.1%) Americans aged 12 and older need treatment for <ulink type="disease" url="link.aspx?id=8412">substance use disorders</ulink> (SUDs), but only 10–11% of those requiring treatment receive it (Center for Behavioral Health Statistics and Quality,<link linkend="ch0020s0000li0015">2016</link>). The gap between those who need treatment and those who receive it has led to associated annual <ulink type="disease" url="link.aspx?id=10510">economic costs</ulink> of $193 billion for illicit substance use (National Drug Intelligence Center, <link linkend="ch0020s0000li0065">2011</link>), $78.5 billion for prescription opioid misuse (Florence et al., <link linkend="ch0020s0000li0028">2016</link>), and $249 billion for excessive <ulink type="drug" url="link.aspx?id=12847">alcohol</ulink> use (Sacks et al., <link linkend="ch0020s0000li0100">2015</link>), due to lost productivity, health care costs, and criminal justice costs. These statistics are publicized widely and discussed in the media. So why do so few people seek and receive treatment if there are a variety of treatment options (Cherpitel &amp; Ye, <link linkend="ch0020s0000li0016">2008</link>)? Part of the answer lies within patients’ readiness to receive treatment and to stop using their substance of choice. The availability of, and resources to pursue treatment will be moot for patients who are not ready to receive this treatment. Additionally, patients who are not ready for treatment probably will not benefit from traditional action‐oriented communications, referrals, and pressure from society, friends, and family.</para>
+      <para id="ch0020s0000p0005">The literature suggests that one approach to filling the gap between secondary and tertiary prevention is screening and referral by physicians, as an estimated two‐thirds of individuals with addictions see <ulink type="disease" url="link.aspx?id=10343">primary care</ulink> or urgent care providers every six months (Bowman et al.,<link linkend="ch0020s0000li0012">2013</link>). Screening, Brief Intervention, and Referral to Treatment (SBIRT) was designed to facilitate referrals to specialty care for patients who need it (Ghitza &amp; Tai, <link linkend="ch0020s0000li0035">2014</link>). Given their reach, <ulink type="disease" url="link.aspx?id=10343">primary care</ulink> providers are in a unique position to identify patients who have a SUD and to provide referrals. However, as with other efforts, there are many barriers to primary care providers providing SBIRT, one being a lack of and resistance to using messaging tailored to a patient’s readiness to engage in cessation and treatment. When health professionals use communication techniques tailored to an individual’s readiness, patient resistance and noncompliance are more likely to be reduced (Prochaska, <link linkend="ch0020s0000li0076">2004</link>). It is important for health promotion, medical, and public health providers to understand how to tailor communications to an individual’s readiness to engage in the behavior if they are to maximize the impact they can have, given other barriers to change that may exist, such as lack of access to care.</para>
+   </sidebar>
+</sect1>

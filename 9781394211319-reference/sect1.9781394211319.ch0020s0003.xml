@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0020s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0020s0002</risprev>
+         <riscurrent>sect1.9781394211319.ch0020s0003</riscurrent>
+         <risnext>sect1.9781394211319.ch0020s0004</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0020</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Empirical Evidence</title>
+   <anchor id="ch0020s0003a0001"/>
+   <anchor id="ch0020s0000a0018"/>
+   <sect2 id="ch0020s0003s0000">
+      <title>Stage Distribution</title>
+      <anchor id="ch0020s0003a0002"/>
+      <anchor id="ch0020s0000a0019"/>
+      <para id="ch0020s0000p0026">To match the needs of individuals in entire populations, it is important to know population stage distributions for specific high‐risk behaviors (Norcross et al.,<link linkend="ch0020s0000li0068">2011</link>). A series of studies (e.g., Wewers et al., <link linkend="ch0020s0000li0111">2003</link>) demonstrated that fewer than 20% of US smokers were preparing to quit using tobacco. About 40% of smokers were in Contemplation, and another 40% were in Precontemplation. In countries without a long history of tobacco control campaigns, stage distributions were quite different. In Germany, about 70% of smokers were in Precontemplation, and about 10% of smokers were in Preparation (Etter et al., <link linkend="ch0020s0000li0021">1997</link>); in China, more than 70% were in Precontemplation, and about 5% in Preparation (Yang, <link linkend="ch0020s0000li0113">2001</link>). In a sample of just under 20,000 members of a Health Maintenance Organization (HMO) across 10 health risk behaviors, only a small minority were ready for action and the majority were in Precontemplation for many of the behaviors. This pattern has also been found in other studies (Etter et al., <link linkend="ch0020s0000li0021">1997</link>; Nigg et al., <link linkend="ch0020s0000li0066">1999</link>; Wewers et al., <link linkend="ch0020s0000li0111">2003</link>).</para>
+      <anchor id="ch0020s0000a0020"/>
+      <beginpage pagenum="78"/>
+   </sect2>
+   <sect2 id="ch0020s0003s0001">
+      <title>Pros and Cons Structure and Integration with Stages of Change across 12 Behaviors</title>
+      <anchor id="ch0020s0003a0003"/>
+      <anchor id="ch0020s0000a0021"/>
+      <para id="ch0020s0000p0027">Across studies of 12 behaviors (smoking cessation, quitting <ulink type="drug" url="link.aspx?id=13355">cocaine</ulink>, weight control, dietary fat reduction, safer sex, condom use, exercise acquisition, sunscreen use, radon testing, delinquency reduction, mammography screening, and physicians practicing preventive medicine), a two‐factor structure of pros and cons was remarkably stable (Prochaska et al.,<link linkend="ch0020s0000li0085">1994</link>). For all 12 studies, cons of changing were higher than pros for people in Precontemplation, and pros increased from Precontemplation to Contemplation. For all twelve behaviors, from Contemplation to Action, the cons of changing were lower in Action than Contemplation. In 11 studies, pros were higher than cons for people in Action. These relationships suggest that to progress from Precontemplation to Contemplation, Action, and subsequent stages, the pros of changing the behavior should increase. To progress from Contemplation, cons should decrease. To move to Action, ratings for pros should be higher than ratings for cons.</para>
+      <para id="ch0020s0000p0028">Most theories have not derived mathematical principles for integrating theoretical variables, in part, because few behavior‐change theories have generated such principles. In fact, most have not even developed constructs that are subject to such mathematical principles. Across the 12 studies, however, mathematical relationships between pros and cons of changing and progress across the stages were found (Prochaska et al.,<link linkend="ch0020s0000li0085">1994</link>): The Strong Principle and The Weak Principle.</para>
+      <para id="ch0020s0000p0029">
+         <emphasis>The Strong Principle</emphasis> is PC → A ≅ 1 SD ↑ PROS. Progress from Precontemplation to Action involves about one standard deviation (SD) increase in the pros of changing. A 1 SD increase is a substantial increase. Predicting the magnitude of this principle across a much broader range of behaviors and across diverse populations is much more challenging, given the error variance that can be generated by so much heterogeneity. Nevertheless, in a meta‐analysis of 48 behaviors and 120 data sets from 10 countries, it was predicted that the pros of changing would increase by 1 SD. The Strong Principle was confirmed to the second decimal with the increase being 1.00 SD (Hall &amp; Rossi, <link linkend="ch0020s0000li0036">2008</link>).</para>
+      <para id="ch0020s0000p0030">
+         <emphasis>The Weak Principle</emphasis> is PC → A ≅ 0.5 SD ↓ CONS. Progress from Precontemplation to Action involves ~0.5 SD decrease in the cons of changing. Evidence from the Hall and Rossi meta‐analysis for the Weak Principle was not as precise: 0.56 SD (Hall &amp; Rossi, <link linkend="ch0020s0000li0036">2008</link>). Nevertheless, data on 48 behaviors from 120 datasets were integrated into a single graph that supported these two mathematical principles (Hall &amp; Rossi, <link linkend="ch0020s0000li0036">2008</link>).</para>
+      <para id="ch0020s0000p0031">The practical implications of these principles are that the pros of changing must increase about twice as much as cons decrease for a person to move from one stage to another. Perhaps twice as much emphasis should be placed on raising benefits as on reducing costs or barriers to enacting recommended behaviors. For example, if an individual in Precontemplation for physical activity can only list 5 pros of exercise, then, being too busy will be a big barrier to change. But if program participants accept that there can be more than 60 benefits of physical activity most days of the week, being too busy may become a smaller barrier.</para>
+   </sect2>
+   <sect2 id="ch0020s0003s0002">
+      <title>Processes of Change across Behaviors</title>
+      <anchor id="ch0020s0003a0004"/>
+      <anchor id="ch0020s0000a0022"/>
+      <para id="ch0020s0000p0032">Building TTM based on 10 processes originally identified by theorists with sometimes incompatible assumptions about humans and their behaviors (such as Freud, Carl Rogers, and B.F. Skinner) has been a tough test that TTM has passed only partially. The assumption is that people can apply a common set of change processes across a broad range of behaviors. The higher‐order measurement structure of the processes (experiential and behavioral) has been replicated across problem behaviors better than the individual processes (Rossi,<link linkend="ch0020s0000li0099">1992</link>). Typically, support has been found for the set of 10 processes across behaviors, including smoking, diet, <ulink type="drug" url="link.aspx?id=13355">cocaine</ulink> use, exercise, condom use, and sun exposure. But the measurement structure of processes has not been as consistent as the mathematical relationships between stages and pros and cons of changing. In some studies, fewer processes are found. Occasionally, evidence for one or two additional processes is found. It is also possible that, for some behaviors or some people, fewer change processes may be used. With regular but infrequent behavior like yearly mammograms, fewer processes may be required to progress to long‐term Maintenance (Rakowski et al., <link linkend="ch0020s0000li0091">1998</link>).</para>
+      <figure float="0" id="ch0020s0000f0001">
+         <title>
+            <emphasis role="figureLabel">
+               <anchor id="ch0020s0000a0023"/>
+               <link linkend="ch0020s0000a0025">
+                  <emphasis role="strong">Figure 7.1</emphasis>
+               </link>
+            </emphasis> Processes of Change that Mediate Progression Between the Stages of Change
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0020f01.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+            <textobject>
+               <para>A flowchart titled processes of change mediates the progression between the stages of change. The chart depicts a conceptual model for understanding how individuals progress through different stages when making behavioral changes. It includes stages such as pre-contemplation, contemplation, preparation, action, and, maintenance. Various processes, such as consciousness-raising, dramatic relief, environmental reevaluation, self-revaluation, self-liberation, counter-conditioning, reinforcement management, helping relationships, social liberation, and stimulus control, are connected by arrows. The arrows represent the cons of changing decreasing and the pros of changing increasing, intersecting with self-efficacy increasing.</para>
+            </textobject>
+         </mediaobject>
+      </figure>
+      <para id="ch0020s0000p0033">The discovery of systematic relationships between stages and processes is reflected in the empirical integration shown in<anchor id="ch0020s0000a0025"/>
+         <link linkend="ch0020s0000a0023">Figure 7.1</link>. (Prochaska &amp; DiClemente, <link linkend="ch0020s0000li0079">1983</link>; Prochaska et al., <link linkend="ch0020s0000li0084">1992</link>). This integration suggests that, in early stages, people rely upon cognitive, affective, and evaluative processes. In action‐oriented stages, people draw more on commitments, conditioning, reinforcement, environmental controls, and support for progressing toward Maintenance. The relationships between stage of change and these behavior change constructs provide an evidence‐based framework for delivering tailored feedback that is more likely to be remembered (Brug et al., <link linkend="ch0020s0000li0013">1999</link>; Kreuter et al., <link linkend="ch0020s0000li0054">1999</link>), to be considered personally relevant and credible (Johnson et al., <link linkend="ch0020s0000li0048">2006</link>; Kreuter et al., <link linkend="ch0020s0000li0054">1999</link>; Prochaska et al., <link linkend="ch0020s0000li0086">2001</link>), and to change behavior. Meta‐analyses found that health interventions tailored to Stage of Change produced significantly greater effects than those not tailored to stage (Krebs et al., <link linkend="ch0020s0000li0053">2010</link>; Noar et al., <link linkend="ch0020s0000li0067">2007</link>; Norcross et al., <link linkend="ch0020s0000li0068">2011</link>). The TTM has also been used as a robust conceptual and empirical foundation that informs digital interventions that have been effective in promoting behavior change in hundreds of behavior change domains, including <ulink type="disease" url="link.aspx?id=5714">stress</ulink> management (Evers et al., <link linkend="ch0020s0000li0024">2006</link>), depression prevention (Levesque et al., <link linkend="ch0020s0000li0055">2011</link>), <ulink type="disease" url="link.aspx?id=1125">chronic disease</ulink> management, and shared decision making (Cummins et al., <link linkend="ch0020s0000li0017">2004</link>). It influences program design (i.e., assessments, decision rules, content, embedded program features, user interface, frequency of interaction) as well as engagement and re‐engagement messaging. Initial engagement messages, for example, must resonate with end users at all levels of readiness to engage with the program. This ensures a true population approach that engages all individuals, not just those ready to change.</para>
+      <anchor id="ch0020s0000a0024"/>
+      <beginpage pagenum="79"/>
+      <para id="ch0020s0000p0034">The relationships of processes of change to the stages of change have important practical implications. To help people progress from Precontemplation to Contemplation, processes like consciousness‐raising and dramatic relief should be used. Encouraging use of processes, such as reinforcement management and stimulus control, in Precontemplation would be a theoretical, empirical, and practical mistake. But for people in Action, such strategies would reflect optimal matching.</para>
+      <para id="ch0020s0000p0035">As with the structure of processes, relationships between the processes and stages have not been as consistent as relationships between stages and pros and cons of changing. While part of the problem may be due to the greater complexity of integrating 10 processes across 5 stages, processes of change need more basic research and may be more specific to each problem behavior.</para>
+   </sect2>
+   <sect2 id="ch0020s0003s0003">
+      <title>Applied Studies</title>
+      <anchor id="ch0020s0003a0005"/>
+      <anchor id="ch0020s0000a0026"/>
+      <para id="ch0020s0000p0036">Since health behavior change theories should be the basis for applied science, it is not enough to apply tests of generalization, integration, and prediction. Theory‐driven interventions should pass stringent tests to demonstrate that they can produce important impacts across a variety of problem behaviors, populations, and treatments. Across a diverse body of applied TTM studies, several trends are clear. The most common applications—TTM‐based, computerized, tailored interventions and digital therapeutics—match intervention messages to an individual’s needs across TTM constructs, based on information about the individual participants or patients. For example, people in Precontemplation could receive feedback designed to increase pros of changing.</para>
+      <anchor id="ch0020s0000a0027"/>
+      <beginpage pagenum="80"/>
+      <para id="ch0020s0000p0037">TTM‐based intervention studies have been conducted on a wide range of health behavior topics, including smoking cessation (Barnett et al.,<link linkend="ch0020s0000li0009">2014</link>; Cummins et al., <link linkend="ch0020s0000li0017">2004</link>; Hashemzadeh et al., <link linkend="ch0020s0000li0038">2019</link>; J. J. Prochaska et al., <link linkend="ch0020s0000li0090">2014</link>; Ravi et al., <link linkend="ch0020s0000li0092">2021</link>; Rios et al., <link linkend="ch0020s0000li0095">2019</link>); diet (Carvalho de Menezes, <link linkend="ch0020s0000li0014">2016</link>; Hashemzadeh et al., <link linkend="ch0020s0000li0038">2019</link>; Nakabayashi et al., <link linkend="ch0020s0000li0064">2020</link>); exercise (Carvalho de Menezes, <link linkend="ch0020s0000li0014">2016</link>; Hashemzadeh et al., <link linkend="ch0020s0000li0038">2019</link>; Jiménez‐Zazo et al., <link linkend="ch0020s0000li0047">2020</link>; Kleis et al., <link linkend="ch0020s0000li0052">2021</link>; Nunes et al., <link linkend="ch0020s0000li0070">2017</link>; Rhodes et al., <link linkend="ch0020s0000li0094">2021</link>; Romain et al., <link linkend="ch0020s0000li0097">2018</link>); <ulink type="disease" url="link.aspx?id=5714">stress</ulink> management (Evers et al., <link linkend="ch0020s0000li0024">2006</link>), substance use (Freyer‐Adam et al., <link linkend="ch0020s0000li0031">2022</link>; Hashemzadeh et al., <link linkend="ch0020s0000li0038">2019</link>; Mauriello et al., <link linkend="ch0020s0000li0062">2011</link>); <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> screening (Dsouza et al., <link linkend="ch0020s0000li0020">2021</link>; Salinas‐Martínez et al., <link linkend="ch0020s0000li0101">2018</link>); participating in community service (Fenn et al., <link linkend="ch0020s0000li0027">2022</link>); advanced care planning (Levoy et al., <link linkend="ch0020s0000li0056">2019</link>); <ulink type="disease" url="link.aspx?id=1125">chronic disease</ulink> management (Selçuk‐Tosun &amp; Zincir, <link linkend="ch0020s0000li0103">2019</link>; Tseng et al., <link linkend="ch0020s0000li0108">2017</link>; Winter et al., <link linkend="ch0020s0000li0112">2016</link>); mental health (Hoy et al., <link linkend="ch0020s0000li0044">2016</link>; Krebs et al., <link linkend="ch0020s0000li0053">2010</link>; Levesque et al., <link linkend="ch0020s0000li0055">2011</link>; Li et al., <link linkend="ch0020s0000li0057">2020</link>); weight management (de Freitas et al., <link linkend="ch0020s0000li0029">2020</link>; Johnson et al., <link linkend="ch0020s0000li0049">2008</link>); medication adherence (Imeri et al., <link linkend="ch0020s0000li0045">2022</link>; Patton et al., <link linkend="ch0020s0000li0072">2017</link>); <ulink type="disease" url="link.aspx?id=4522">pain</ulink> management (Hashemzadeh et al., <link linkend="ch0020s0000li0038">2019</link>; Johnson et al., <link linkend="ch0020s0000li0050">2017</link>; Kamioka et al., <link linkend="ch0020s0000li0051">2022</link>); sleep management (Hashemzadeh et al., <link linkend="ch0020s0000li0038">2019</link>), and safer sex (Hashemzadeh et al., <link linkend="ch0020s0000li0038">2019</link>). TTM also has been applied in many settings and with diverse populations, including worksites (e.g., Sanaeinasab et al., <link linkend="ch0020s0000li0102">2018</link>), <ulink type="disease" url="link.aspx?id=10343">primary care</ulink> (e.g., Hollis et al., <link linkend="ch0020s0000li0042">2005</link>), communities (e.g., de Freitas et al., <link linkend="ch0020s0000li0029">2020</link>), those in treatment for substance use (J. J. Prochaska et al., <link linkend="ch0020s0000li0087">2004</link>), faith‐based organizations (e.g., Vincent‐Doe et al., <link linkend="ch0020s0000li0110">2022</link>) and schools (e.g., Evers et al., <link linkend="ch0020s0000li0025">2012</link>). While many of these applications have been effective, some have not (e.g., Aveyard et al., <link linkend="ch0020s0000li0007">1999</link>).</para>
+      <para id="ch0020s0000p0038">Two reviews of commonly used theories of behavior change across a broad range of behaviors—a meta‐analysis of tailored print communications (Noar et al.,<link linkend="ch0020s0000li0067">2007</link>) and of web‐delivered tailored health behavior change interventions (Lustria et al., <link linkend="ch0020s0000li0058">2013</link>)—found that TTM was the most commonly used theory of behavior change for the applications studied. For print communications, significantly greater effect sizes were found when tailored communications included the following TTM constructs: stages of change, pros and cons of changing, self‐efficacy, and processes of change. In contrast, interventions that included the non‐TTM construct of perceived susceptibility had significantly worse outcomes. In that analysis, which included articles published through 2005, tailoring on non‐TTM constructs like social norms and behavioral intentions did not produce significantly greater effect sizes.</para>
+      <para id="ch0020s0000p0039">While each TTM construct (stage, pros and cons, self‐efficacy, and processes) produced greater effect sizes when included in tailored communications, what happens when only some constructs were used? Spencer, Pagell, Hallion, and Adams (Spencer et al.,<link linkend="ch0020s0000li0105">2002</link>) systematically reviewed 23 interventions that used one or more TTM variables for smoking cessation. Most studies used just stage; of these, only about 40% produced significant effects. Five used stage and pros and cons or self‐efficacy; 60% had significant effects. Another five used all TTM variables; 80% found significant effects. This analysis raises the important dissemination question of what it means for practice and applied research to be theory‐driven. Most studies were construct‐driven (for example, using only the stage of change construct) rather than theory‐driven. Future research and more recent reviews/meta‐analyses should determine whether interventions are most effective when a full set of constructs from a theory, like TTM, is applied or whether there is an optimal number of theoretical variables that can produce the same effect sizes. They also should consider the incremental cost of adding more variables. Determining the right balance of variables and point of diminishing returns are important future considerations.</para>
+   </sect2>
+</sect1>

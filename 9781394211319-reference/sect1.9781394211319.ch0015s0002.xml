@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0015s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0015s0001</risprev>
+         <riscurrent>sect1.9781394211319.ch0015s0002</riscurrent>
+         <risnext>sect1.9781394211319.ch0015s0003</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0015</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Key Components of Ecological Models</title>
+   <anchor id="ch0015s0002a0001"/>
+   <anchor id="ch0015s0000a0009"/>
+   <para>Ecological models do not propose a specific set of constructs, with hypothesized directional relationships among those constructs. For this reason, we refer to ecological<emphasis>models</emphasis> or <emphasis>frameworks</emphasis>, rather than ecological <emphasis>theories</emphasis>. Ecological models are centered on a hierarchical organization of broad influences on behavior (see <anchor id="ch0015s0000a0010"/>
+      <link linkend="ch0015s0000a0013">Figure 3.1</link>). These levels, as they are typically called, of the ecological model, broadly include the following:</para>
+   <itemizedlist id="ch0015s0000l0002" mark="none" role="none">
+      <listitem id="ch0015s0000li0008">
+         <para>
+            <emphasis>Intrapersonal:</emphasis> Characteristics of individuals, including biological factors and psychological factors such as self‐efficacy, attitudes, knowledge, personal history, and experience.</para>
+      </listitem>
+      <listitem id="ch0015s0000li0009">
+         <para>
+            <emphasis>Interpersonal:</emphasis> Relationships and interactions among individuals and the people around them. These factors may include social norms among individuals who directly interact, such as relatives, coworkers, and friends, parent‐child communications, and peer modeling.</para>
+      </listitem>
+      <listitem id="ch0015s0000li0010">
+         <para>
+            <emphasis>Community/Societal:</emphasis> Factors that operate at a larger scale. That is, factors that affect entire organizations (e.g., schools, workplaces), neighborhoods, cities, and states. Can include the built environment (e.g., transportation infrastructure, walkability, accessibility to jobs, housing density, housing quality, access to parks and recreational spaces). May also include broad cultural norms and values, and the degree to which organizations (schools, workplaces, places of worship, and other institutions) act as social forces.</para>
+      </listitem>
+      <listitem id="ch0015s0000li0011">
+         <anchor id="ch0015s0000a0011"/>
+         <anchor id="ch0015s0000a0012"/>
+         <para>
+            <emphasis>Policy:</emphasis> Includes policies and laws established by governmental and nongovernmental entities (such as worksite policies) that are directly or indirectly related to health behavior of an individual or businesses required to adhere to them. In some cases, policies or laws directly influence community‐level factors such as walkability and prices or accessibility of healthful products.</para>
+      </listitem>
+      <listitem id="ch0015s0000li0012">
+         <para>
+            <emphasis>Planetary:</emphasis> Often referred to as the “global environment,” characteristics of natural ecosystems, weather, climate, geology, etc. (Santos et al., <link linkend="ch0015s0000li0053">2021</link>).</para>
+      </listitem>
+   </itemizedlist>
+   <figure float="0" id="ch0015s0000f0001">
+      <title>
+         <emphasis role="figureLabel">
+            <anchor id="ch0015s0000a0013"/>
+            <link linkend="ch0015s0000a0010">
+               <emphasis role="strong">Figure 3.1</emphasis>
+            </link>
+         </emphasis> Ecological Models of Health Behavior: General and Behavior Specific Models. (a) A General Representation of Ecological Models of Health Behavior; (b) An Ecological Model of the Totality of Influences on Active Travel Behaviors (Walking, Cycling, and Public Transit Use)
+</title>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Ch0015f03.jpg" scalefit="1" width="100%"/>
+         </imageobject>
+         <textobject>
+            <para>Two ecological models of health behavior a. The model shows nested circles labeled from the innermost to the outermost as follows: Intraindividual. Interindividual. Community or societal. Governmental or policy. Planetary or global environment. b. A model with concentric circles illustrates factors influencing travel behavior. These factors are grouped into five categories. Intraindividual. Interindividual. Community or societal. Governmental or policy. Planetary or global environment. Each encompasses various specific influences.</para>
+         </textobject>
+      </mediaobject>
+   </figure>
+   <para id="ch0015s0000p0021">Note that we have included an additional, distal level to this version of the Ecological Model focused on planetary factors. There is growing evidence of the multiple influences that things like the weather and climate (including climate change and its determinants, like carbon emissions) can have on health behaviors and outcomes (Marinova &amp; Bogueva,<link linkend="ch0015s0000li0042">2019</link>; Santos et al., <link linkend="ch0015s0000li0053">2021</link>; Sorensen et al., <link linkend="ch0015s0000li0055">2018</link>). For example, extreme weather events resulting from climate change can <ulink type="drug" url="link.aspx?id=14726">lead</ulink> to food shortages, which, in turn, can have an impact on food insecurity and food‐purchasing and consumption behaviors (Leisner, <link linkend="ch0015s0000li0039">2020</link>). Also, the term “environment” can be used in different ways to describe different levels of ecological models. For instance, many researchers define the built <emphasis>environment</emphasis> of neighborhoods or cities as a specific level of interest (Mahmoudi &amp; Zhang, <link linkend="ch0015s0000li0041">2020</link>), which is usually best fitting under the broader umbrella of community/societal level factors, while we describe global <emphasis>environmental</emphasis> or planetary factors as a more distal level of influence. An implicit underpinning of the idea of including the “planetary level” is that human behavior over time has contributed to many important changes in the natural environment.</para>
+   <para id="ch0015s0000p0022">
+      <anchor id="ch0015s0000a0014"/>
+      <link linkend="ch0015s0000a0016">Table 3.1</link> provides definitions of key concepts for understanding ecological models. Scholars have chosen various terms to name the levels of the ecological model; these names may or may not be identical to our chosen terminology for this chapter. However, they are usually consistent. Possible differences across versions of the ecological model should, however, be seen as a feature of ecological models. This is an example of their flexibility and adaptability to the specific circumstances of settings and health behaviors.</para>
+   <para id="ch0015s0000p0023">Although the term<emphasis>hierarchical</emphasis> is used above to describe the organization of the ecological model, ecological models do not assert that any level is more or less important in terms of its potential influence on the behavior at hand. Rather, the term <emphasis>hierarchical</emphasis> is in reference to how proximal or distant the given factor is to the individual level. Importantly, not only do ecological models posit that factors at higher levels affect the behavior of individuals, but they also assume that the components of the higher levels of the model (e.g., policies of an organization, state or country; or the social and physical assets of a neighborhood) can be changed by groups of individuals, and often, by their collective health behaviors. This bidirectional interdependence is referred to as reciprocal determinism, a concept that is well known to many readers from its use in Social Cognitive Theory (see <ulink url="ch0023">Chapter 9</ulink>).</para>
+   <anchor id="ch0015s0000a0015"/>
+   <beginpage pagenum="27"/>
+   <table id="ch0015s0000t0001">
+      <title>
+         <emphasis role="figureLabel">
+            <anchor id="ch0015s0000a0016"/>
+            <link linkend="ch0015s0000a0014">
+               <emphasis role="strong">Table 3.1</emphasis>
+            </link>
+         </emphasis> Ecological Models: Key concepts
+</title>
+      <tgroup cols="2">
+         <tbody>
+            <row>
+               <entry>Concept</entry>
+               <entry>Definition</entry>
+            </row>
+            <row>
+               <entry>Influence on health behaviors</entry>
+               <entry>Ecological models recognize that health behaviors are complex processes and rarely are the result of a single defining influence, but rather, are the consequence of multiple influencing factors.</entry>
+            </row>
+            <row>
+               <entry>Hierarchical levels of influence</entry>
+               <entry>Ecological models organize the influences of health behavior “hierarchically,” from those most internal to an individual to those most external: intrapersonal, interpersonal, community/societal, policy, and planetary. The term “hierarchical” does not imply that one level is more important than another one, but rather, denotes proximity or distance to the individual.</entry>
+            </row>
+            <row>
+               <entry>Interactions across levels of influence</entry>
+               <entry>The influences of health behaviors interact across levels; they “work together” in influencing the given health behavior of interest. Therefore, the effectiveness of strategies targeting one level of the ecological model on a given health behavior may vary depending on other factors at other levels of the ecological model.</entry>
+            </row>
+            <row>
+               <entry>Reciprocal determinism</entry>
+               <entry>Ecological models recognize the bidirectional influence of the higher levels of influence (community/societal, governmental/policy and planetary factors) on the health behavior of individuals, and the effects of actions of individuals and groups on the outer rings of the ecological model. Ecological models recognize that people can affect social, physical, and natural environments and policies, and vice versa.</entry>
+            </row>
+            <row>
+               <entry>Behavior‐specific ecological models</entry>
+               <entry>Ecological models are most useful to guide research and interventions when they are adapted to specific health behaviors, as societal, environmental and policy drivers tend to be behavior‐specific.</entry>
+            </row>
+            <row>
+               <entry>Context‐specific ecological models</entry>
+               <entry>Many times, the cultural, economic, environmental, and planetary factors that influence the same health behavior vary substantially by context. An illustration of this is the different food and policy environments that align with people’s diets across continents such as the United States and Africa.</entry>
+            </row>
+            <row>
+               <entry>Single‐level interventions</entry>
+               <entry>Interventions that target only one level, whichever it may be (intrapersonal, interpersonal, community/societal, policy, or planetary).</entry>
+            </row>
+            <row>
+               <entry>Multilevel interventions</entry>
+               <entry>Multilevel interventions aim to affect factors at multiple levels of influence. The ecological model proposes that these should logically have a stronger effect on health behavior than those operating at a single level.</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para id="ch0015s0000p0024">Also inherent to the idea of ecological models is that these models are not merely convenient ways of organizing discrete influences on behavior. Rather, ecological models assume that, for virtually any health behavior, there will be interactions among the various levels. That is, the effects of factors within a certain level do not operate on health behavior in isolation; instead, they influence each other, and together, they influence the health behavior at hand (Van Dyck et al.,<link linkend="ch0015s0000li0060">2014</link>). The interactive nature of influences from multiple levels highlights the insufficiency of merely knowing a health behavior is influenced by factors at multiple levels: rather, interventions must be designed to account for these factors.</para>
+</sect1>

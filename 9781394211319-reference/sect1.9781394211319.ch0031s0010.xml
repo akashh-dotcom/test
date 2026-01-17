@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0031s0010">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.</risprev>
+         <riscurrent>sect1.9781394211319.ch0031s0010</riscurrent>
+         <risnext>sect1.9781394211319.ch0031s0000</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0031</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 16 IMPLEMENTATION, DISSEMINATION, AND DIFFUSION OF PUBLIC HEALTH INNOVATIONS <?lb?> KEY POINTS</title>
+   <anchor id="ch0031s0000a0002"/>
+   <anchor id="ch0031s0000a0003"/>
+   <para role="chapterAuthor">
+      <emphasis role="strong">Shoba Ramanadhan </emphasis>
+<?lb?>
+      <emphasis role="strong">Rachel C. Shelton</emphasis>
+   </para>
+   <anchor id="ch0031s0000a0004"/>
+   <sidebar id="ch0031s0000sb0001">
+      <title>KEY POINTS</title>
+      <para>This chapter will:</para>
+      <itemizedlist id="ch0031s0000l0001">
+         <listitem id="ch0031s0000li0001">
+            <para>Introduce dissemination and implementation science and practice, including historical foundations and core terminology.</para>
+         </listitem>
+         <listitem id="ch0031s0000li0002">
+            <para>Present an overview of key theories, models, and frameworks that inform and advance dissemination and implementation science and practice.</para>
+         </listitem>
+         <listitem id="ch0031s0000li0003">
+            <para>Provide detailed descriptions of two commonly used dissemination and implementation science theories and frameworks: Diffusion of Innovations and the Consolidated Framework for Implementation Research (CFIR).</para>
+         </listitem>
+         <listitem id="ch0031s0000li0004">
+            <para>Use applications for theories and frameworks in dissemination and implementation research to illustrate key concepts and features.</para>
+         </listitem>
+         <listitem id="ch0031s0000li0005">
+            <para>Describe study designs and methods common to dissemination and implementation science and practice.</para>
+         </listitem>
+         <listitem id="ch0031s0000li0006">
+            <para>Identify challenges and opportunities to enhance the impact of dissemination and implementation science and practice.</para>
+         </listitem>
+      </itemizedlist>
+   </sidebar>
+   <sidebar id="ch0031s0000sb0002">
+      <title>Vignette</title>
+      <bridgehead>Vignette</bridgehead>
+      <para id="ch0031s0000p0001">A research team developed an intervention for pediatric medical practices to improve nutrition among elementary‐school‐age children <ulink type="disease" url="link.aspx?id=10304">at risk</ulink> for <ulink type="disease" url="link.aspx?id=9688">diabetes</ulink>. The program focuses on improving provider communication with families, presenting nutritional guidelines in culturally appropriate ways, and facilitating access to low‐cost, healthy foods. It is effective in improving nutrition among children at well‐resourced pediatric practices in New York City. However, the team is concerned that the current resource‐intensive program will only reach children who regularly see pediatricians in higher‐income neighborhood and clinic settings. The team wants to partner with local afterschool programs to broaden the program's reach and impact. They created a manual and provided educational materials and training resources to several afterschool programs.</para>
+      <para id="ch0031s0000p0002">When the researchers checked in with these sites a few months later, they discovered a range of challenges to using the program. Some program staff said the materials were not culturally appropriate and did not reflect the needs of the children they serve. Others said they did not have the time to run the entire program. So, they just picked a few relevant pieces. A few afterschool site leaders said that they were running the program according to the program manual but were not seeing improvements among participating children. The research team remains committed to making the program work in a broader range of settings but is unsure of how best to address these barriers to program delivery.</para>
+      <para id="ch0031s0000p0003">This vignette highlights some common barriers and issues that researchers, practitioners, and other program developers encounter when trying to expand the reach, sustainability, and impact of an evidence‐based intervention (EBI) or public health innovation. The team must consider how best to disseminate the program (that is, actively support its initial uptake and adoption) for afterschool sites in the community. Additionally, they must consider common barriers to and facilitators of EBI implementation (that is, the integration of the program into the practice site). First, in collaboration with partners, the research team should examine whether program materials and program components should be adapted or refined to better align with the populations served. Second, researchers should work with site leadership to determine how to support implementation and address barriers to delivery in this setting. The team might also take a closer look at tracking implementation outcomes of interest, such as how many sites or staff have adopted and fully delivered the program. By understanding and addressing these considerations, the team can increase the likelihood of successful implementation and associated improvements in health. Theories and frameworks from dissemination and implementation science can inform understanding, tracking, and planning for the successful adoption, integration, and sustainability of EBIs across a range of topics and diverse community, public health, and healthcare settings.</para>
+   </sidebar>
+   <anchor id="ch0031s0000a0005"/>
+</sect1>

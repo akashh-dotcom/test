@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0036s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0036s0001</risprev>
+         <riscurrent>sect1.9781394211319.ch0036s0002</riscurrent>
+         <risnext>sect1.9781394211319.ch0036s0003</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0036</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+      <risindex>
+         <risterm>HIV</risterm>
+         <ristopic>testing</ristopic>
+         <ristype>disease</ristype>
+         <risrule>addRISIndex1</risrule>
+         <risposid>ch0036s0002s0000</risposid>
+      </risindex>
+   </sect1info>
+   <title>Applications</title>
+   <anchor id="ch0036s0002a0001"/>
+   <anchor id="ch0036s0000a0027"/>
+   <sect2 id="ch0036s0002s0000">
+      <title>Application 1: Promoting HIV Testing</title>
+      <anchor id="ch0036s0002a0002"/>
+      <anchor id="ch0036s0000a0028"/>
+      <para id="ch0036s0000p0028">The global response to the <ulink type="disease" url="link.aspx?id=66">AIDS</ulink> pandemic is now entering its fifth decade. In the past two decades especially, there has been remarkable progress against <ulink type="disease" url="link.aspx?id=9659">HIV</ulink>/<ulink type="disease" url="link.aspx?id=66">AIDS</ulink> in many parts of the world. Deaths due to <ulink type="disease" url="link.aspx?id=66">AIDS</ulink> peaked in 2004 when about two million people died of <ulink type="disease" url="link.aspx?id=66">AIDS</ulink>‐related illnesses worldwide. The number of deaths per year has since declined nearly 70%, with about 650,000 deaths in 2021 (UNAIDS,<link linkend="ch0036s0000li0086">2022</link>). The number of people newly infected with <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> has also fallen substantially since the peak of 3.2 million new <ulink type="disease" url="link.aspx?id=6782">HIV infections</ulink> in 1996. While there is a major need for further progress against <ulink type="disease" url="link.aspx?id=9659">HIV</ulink>/<ulink type="disease" url="link.aspx?id=66">AIDS</ulink>—1.5 million people were newly infected with <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> in 2021—it can be illuminating to examine some of the ways in which principles from behavioral economics have informed the global response to <ulink type="disease" url="link.aspx?id=9659">HIV</ulink>/<ulink type="disease" url="link.aspx?id=66">AIDS</ulink>.</para>
+      <para id="ch0036s0000p0029">Increasing awareness of <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> status has been a central priority in many countries around the world. For people living with <ulink type="disease" url="link.aspx?id=9659">HIV</ulink>, getting tested can enable them to access treatment that not only improves their health and prolongs their life but also eliminates the risk of transmission. When coverage and uptake of <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> testing services are very low, the majority of people living with <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> will typically be unaware of their <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> status and will access <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> testing services only when they become very sick (usually with advanced <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> disease). Thus, it is remarkable that in the past two decades, the percentage of people living with <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> who are aware of their own status has risen in nearly every part of the world—from less than 10% in 2000 to 85% in 2021. How was this dramatic progress achieved? While many factors are undoubtedly important, strategies rooted in the behavioral economics principles discussed in this chapter—such as the use of defaults and role of present bias—have played an essential role.</para>
+      <para id="ch0036s0000p0030">In the standard way that <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> testing services are offered at most clinics and health facilities, clients must agree to an <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> test being performed after receiving pre‐test counseling (an “opt‐in” approach). In this case, informed consent is like the consent that is usually required for special tests (like liver biopsy) or surgical interventions in clinical settings. However, both experimental and nonexperimental studies have found that this standard approach to testing results in lower uptake of <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> testing than an “opt‐out” approach in which clients must specifically decline the <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> testing after receiving basic pre‐test counseling if they do not want the test to be performed. The opt‐out approach represents a clear illustration of the power of default settings to influence choices. It is also like what typically occurs for clinical investigations involving some X‐rays, <ulink type="drug" url="link.aspx?id=12285">blood</ulink> tests, and other noninvasive procedures. Often, providers’ recommendations <ulink type="drug" url="link.aspx?id=14726">lead</ulink> to the <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> tests being performed unless a patient declines. Studies conducted in South Africa and the United States have shown that opt‐out testing results in much higher testing uptake (Leon et al.,<link linkend="ch0036s0000li0047">2010</link>; Montoy et al., <link linkend="ch0036s0000li0059">2016</link>). The opt‐out approach was also found to be highly cost‐effective (Wagner et al., <link linkend="ch0036s0000li0089">2020</link>). Although much debate has occurred about whether health facilities should adopt opt‐out or opt‐in approaches, it is notable that opt‐out testing has become very common in many health programs around the world—particularly during antenatal care, when <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> testing is central to preventing mother‐to‐child transmission of <ulink type="disease" url="link.aspx?id=9659">HIV</ulink>.</para>
+      <anchor id="ch0036s0000a0029"/>
+      <beginpage pagenum="266"/>
+      <para id="ch0036s0000p0031">There are other ways in which behavioral economics principles have been useful for motivating or explaining the approaches that countries have used to promote <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> testing. In the United States and any countries in sub‐Saharan Africa, community‐based delivery of <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> testing services has become common. These include testing offered by mobile clinics (e.g., mobile vans or temporary tents set up in communities) as well as home‐based testing services. One reason why such approaches are effective in increasing testing coverage is that they significantly reduce the immediate costs (transport costs, time costs, hassle costs) associated with getting an <ulink type="disease" url="link.aspx?id=9659">HIV</ulink> test (Chamie et al.,<link linkend="ch0036s0000li0016">2021</link>). Since present‐biased decision‐making suggests that immediate costs influence behavior, community‐based delivery of services can boost uptake more than use of facility‐based delivery of services.</para>
+   </sect2>
+   <sect2 id="ch0036s0002s0001">
+      <title>Application 2: Curbing Inappropriate Opioid Prescribing</title>
+      <anchor id="ch0036s0002a0003"/>
+      <anchor id="ch0036s0000a0030"/>
+      <para id="ch0036s0000p0032">The opioid epidemic is among the most significant public health crises in American history, with over 500,000 fatal opioid <ulink type="disease" url="link.aspx?id=6756">overdoses</ulink> occurring in the United States between 2010 and 2020 (Mattson et al.,<link linkend="ch0036s0000li0056">2021</link>). There is substantial variation in provider practice regarding opioid prescribing, and finding effective policy approaches to reducing opioid prescribing among providers has been a central feature of the effort to reduce the scope and toll of the opioid epidemic (Barnett et al., <link linkend="ch0036s0000li0012">2017</link>).</para>
+      <para id="ch0036s0000p0033">Policy approaches to reducing unnecessary opioid prescribing based on traditional economics would likely focus on providers’ information about the potential risks and benefits of opioid prescribing. Clinical training and continuing medical education aimed at improving knowledge regarding opioid prescribing guidelines and harmful effects of opioid prescribing is one such approach. Implicitly, this approach is premised on the problem of imperfect information—that is, providers are not aware of, or have inaccurate beliefs regarding, the likelihood of abuse when they prescribe opioids. Other policy approaches that use traditional economic frameworks as a starting point may target the providers’ expected costs and benefits of prescribing opioids, e.g., by increasing the penalties for unnecessary prescribing or increasing reimbursement rates for alternative approaches to <ulink type="disease" url="link.aspx?id=4522">pain</ulink> management.</para>
+      <para id="ch0036s0000p0034">Policy approaches to reducing unnecessary opioid prescribing may be more effective if they incorporate behavioral economics concepts such as limited attention, mental models, and social norms, than if they focus strictly on interventions that flow from rational decision making, such as information and incentives. For example, several studies have demonstrated that using defaults in electronic health records systems reduces opioid prescription rates. In one such study (Bachhuber et al.,<link linkend="ch0036s0000li0010">2021</link>), a randomized controlled trial evaluated the impact of lowering the default setting for the number of opioid pills prescribed in an electronic health records system. Thirty‐six primary and <ulink type="disease" url="link.aspx?id=1751">emergency</ulink> care centers in a New York <ulink type="disease" url="link.aspx?id=10332">health system</ulink> were randomized to either a control arm or to a treatment arm in which the electronic health records system had a default setting of 10 tablets for patients receiving new opioid prescriptions. In the status quo (reflected in the control arm), the electronic health records system would present either a default of 30 tablets or no default at all. In all facilities, the number of tablets prescribed was fully modifiable—the only difference was the default setting. The researchers found that the introduction of a relatively low default opioid prescribing setting significantly reduced the number of opioid tablets prescribed. They also found no evidence that patients in the treatment arm returned to providers for more opioid prescription reorders (Bachhuber et al., <link linkend="ch0036s0000li0010">2021</link>), which could have reduced some of the benefits of the initial reduction in prescribing. As noted above, defaults can have powerful impacts on decision‐making due to the normal human tendency to stick with a status quo. This trial illuminates how default settings in electronic health records systems can have a substantial impact on healthcare provider decision‐making.</para>
+      <anchor id="ch0036s0000a0031"/>
+      <beginpage pagenum="267"/>
+      <para id="ch0036s0000p0035">In another example of how behavioral economics has been used in designing new approaches to opioid prescribing, Doctor and colleagues (Doctor et al.,<link linkend="ch0036s0000li0027">2018</link>) conducted a randomized controlled trial testing the impact of clinician notification regarding fatal <ulink type="disease" url="link.aspx?id=6756">overdoses</ulink> among patients to whom they prescribed opioids. In the trial, clinicians who had written opioid prescriptions for a patient who subsequently experienced a fatal <ulink type="disease" url="link.aspx?id=6756">overdose</ulink> were randomized into either a control arm or an arm that received a letter, signed by the Chief Deputy Medical Examiner, notifying them of the death. The letter also included information on the number of prescription drug deaths and on the state’s prescription drug‐monitoring program, and it outlined guidelines for safe prescribing. This intervention drew on several insights from behavioral economics. First, it drew on our tendency to overweight recent salient events in decision‐making (“<emphasis>availability bias</emphasis>”; see <link linkend="ch0036s0000a0019">Table 20.2</link>), a tendency supported by several studies that found that recent adverse events experienced among a provider’s patients can influence a provider’s decision‐making (Han et al., <link linkend="ch0036s0000li0038">2020</link>; Ly, <link linkend="ch0036s0000li0052">2021</link>; Wang et al., <link linkend="ch0036s0000li0091">2022</link>). Second, it draws on our tendency to change behavior when we are being observed and believe that we may not be acting in compliance with peer norms (see <link linkend="ch0036s0000a0019">Table 20.2</link>). Knowing one’s behavior is being observed could increase the amount of cognitive effort put into the decision regarding whether to prescribe or could simply shift behavior more toward social norms/averages. The study (Doctor et al., <link linkend="ch0036s0000li0027">2018</link>) found that this intervention significantly reduces opioid prescribing relative to the comparison group.</para>
+   </sect2>
+</sect1>

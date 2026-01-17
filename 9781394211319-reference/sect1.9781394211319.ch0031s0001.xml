@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0031s0001">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0031s0000</risprev>
+         <riscurrent>sect1.9781394211319.ch0031s0001</riscurrent>
+         <risnext>sect1.9781394211319.ch0031s0002</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0031</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Conceptualizing Dissemination and Implementation</title>
+   <anchor id="ch0031s0001a0001"/>
+   <anchor id="ch0031s0000a0010"/>
+   <para id="ch0031s0000p0012">Dissemination and implementation activities can be thought of as a series of steps, much like the program planning and evaluation process (see<ulink url="ch0035">Chapter 19</ulink> on Planning Models). As seen in <anchor id="ch0031s0000a0011"/>
+      <link linkend="ch0031s0000a0016">Figure 16.1</link>, and described below, dissemination efforts seek to spread EBIs, and implementers engage with EBIs through a series of steps to facilitate their delivery within specific settings.</para>
+   <sect2 id="ch0031s0001s0000">
+      <title>Dissemination Activities</title>
+      <anchor id="ch0031s0001a0002"/>
+      <anchor id="ch0031s0000a0012"/>
+      <para id="ch0031s0000p0013">Since most effective innovations do not spread without planning, persuasion, and action, a “designing for dissemination” lens prompts intervention developers to address the needs and resources of future adopters and implementers (Kwan et al.,<link linkend="ch0031s0000li0064">2022</link>). In the past, too often, researchers thought about dissemination after demonstrating effectiveness of an intervention. This often is too late because the intervention elements may be valid but not feasible for organizations to adopt. Working with organizations from the beginning can help assure that intervention elements will be adopted, if effective. Such an approach keeps <ulink type="disease" url="link.aspx?id=10321">stakeholders</ulink> at the center of the development and tailoring of strategies to facilitate dissemination. Co‐creation of interventions can help assure that community needs are addressed. It is also respectful of communities and other partners. Such a perspective addresses the development of both dissemination products (e.g., manuals and toolkits with EBI content, tailored to potential adopters in that context) and dissemination activities (e.g., using tailored communication and guidance to support a network of institutions to adopt an EBI). Connecting back to the initial vignette, a designing for dissemination approach might include: (1) establishing the effectiveness of the program for ultimate use in accessible community settings instead of only well‐resourced pediatrician’s offices, (2) manualizing the program and creating plans to distribute the program, (3) engaging afterschool program leaders and staff who will adopt and sustain the program, and (4) tracking adoption, implementation, and sustainment of the program, particularly with attention to which settings and populations are not reached or able to adopt the program.</para>
+      <anchor id="ch0031s0000a0013"/>
+      <beginpage pagenum="203"/>
+      <anchor id="ch0031s0000a0014"/>
+      <beginpage pagenum="204"/>
+      <table id="ch0031s0000t0001">
+         <title>
+            <emphasis role="figureLabel">
+               <anchor id="ch0031s0000a0015"/>
+               <link linkend="ch0031s0000a0009">
+                  <emphasis role="strong">Table 16.1</emphasis>
+               </link>
+            </emphasis> Core Terms and Definitions in Dissemination and Implementation Science, in Alphabetical Order
+</title>
+         <tgroup cols="2">
+            <tbody>
+               <row>
+                  <entry>Term</entry>
+                  <entry>Definition</entry>
+               </row>
+               <row>
+                  <entry>Diffusion</entry>
+                  <entry>The passive, untargeted, unplanned, and uncontrolled spread of new interventions. Diffusion is part of the diffusion‐dissemination‐implementation continuum and it is the least focused and intense approach (Lomas,<link linkend="ch0031s0000li0066">1993</link>; MacLean, <link linkend="ch0031s0000li0068">1996</link>).</entry>
+               </row>
+               <row>
+                  <entry>De‐implementation</entry>
+                  <entry>Decreasing or stopping the use of an intervention, e.g., when it is determined to be ineffective, harmful, or low value. This may happen when additional information about the information becomes available or when better alternatives emerge (Norton et al.,<link linkend="ch0031s0000li0080">2017</link>).</entry>
+               </row>
+               <row>
+                  <entry>Dissemination</entry>
+                  <entry>The active approach of spreading EBIs to target audiences using planned strategies (Brownson et al.,<link linkend="ch0031s0000li0027">2013</link>).</entry>
+               </row>
+               <row>
+                  <entry>Evidence‐Based Interventions (EBIs)</entry>
+                  <entry>Interventions with proven efficacy and effectiveness; they serve as the focus and foundation of dissemination and implementation activities. EBIs may include programs/interventions, practices, processes, policies, treatments, and guidelines (Rabin et al.,<link linkend="ch0031s0000li0088">2008</link>).</entry>
+               </row>
+               <row>
+                  <entry>Fidelity</entry>
+                  <entry>The extent to which the intervention was delivered as planned. Recently, more attention has focused on (1) preserving the function, rather than the form, of an EBI and (2) examining the fidelity as it relates to the delivery of implementation strategies (Hawe et al.,<link linkend="ch0031s0000li0061">2004</link>; Shelton et al., <link linkend="ch0031s0000li0096">2023</link>).</entry>
+               </row>
+               <row>
+                  <entry>Implementation</entry>
+                  <entry>The use of strategies to promote the adoption and integration of EBIs into routine practice in clinical, community, and public health settings (National Institutes of Health,<link linkend="ch0031s0000li0077">2019</link>).</entry>
+               </row>
+               <row>
+                  <entry>Implementation Determinants</entry>
+                  <entry>Factors at multiple levels that are expected to influence implementation outcomes, e.g., implementers’ attitudes towards the EBI influence (Nilsen,<link linkend="ch0031s0000li0078">2015</link>).</entry>
+               </row>
+               <row>
+                  <entry>Implementation Outcomes</entry>
+                  <entry>The impacts of intentional actions to support EBI implementation. They serve as indicators of implementation success (versus intervention success), support examination of implementation processes, and serve as intermediate outcomes for service and health outcomes (Proctor et al.,<link linkend="ch0031s0000li0086">2011</link>). Common outcomes include acceptability, fidelity, cost, and sustainability.</entry>
+               </row>
+               <row>
+                  <entry>Innovation</entry>
+                  <entry>An idea, practice, or object that is perceived as new by an individual or other unit of adoption (Rogers,<link linkend="ch0031s0000li0092">2003</link>)</entry>
+               </row>
+               <row>
+                  <entry>Implementation Strategies</entry>
+                  <entry>Approaches to increase the adoption, implementation, and sustainment of EBIs (Powell et al.,<link linkend="ch0031s0000li0084">2015</link>). They can be individual or bundled strategies that seek to target change among important players in implementation systems, e.g., changing incentives among providers to promote EBI use (Powell et al., <link linkend="ch0031s0000li0085">2019</link>).</entry>
+               </row>
+               <row>
+                  <entry>Sustainability</entry>
+                  <entry>A state in which after a defined period of time, an EBI and/or implementation strategies continue to be delivered. This supports continued individual behavior change is maintained and the program and behavior change may evolve or adapt while continuing to produce benefits for individuals/systems (Moore et al.,<link linkend="ch0031s0000li0073">2017</link>).</entry>
+               </row>
+               <row>
+                  <entry>Knowledge Translation</entry>
+                  <entry>Knowledge translation occurs within a complex social system of interactions between researchers and knowledge users and with the purpose of improving population health, providing more effective health services and products, and strengthening the health care system. It is a dynamic and iterative process that includes synthesis, dissemination, exchange and application of knowledge (McLean and Tucker,<link linkend="ch0031s0000li0070">2013</link>).</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <figure float="0" id="ch0031s0000f0001">
+         <title>
+            <emphasis role="figureLabel">
+               <anchor id="ch0031s0000a0016"/>
+               <link linkend="ch0031s0000a0011">
+                  <emphasis role="strong">Figure 16.1</emphasis>
+               </link>
+            </emphasis> Simplified, Illustrative Process for Identifying and Implementing an EBI in Practice Settings, Adapted from the Cancer Prevention and Control Research Network (<link linkend="ch0031s0000li0032">2017</link>) and the Designing for Dissemination and Sustainability Schema (Kwan et al., <link linkend="ch0031s0000li0064">2022</link>). EBI: Evidence‐Based Intervention
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0031f03.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+            <textobject>
+               <para>A flowchart depicts the process for disseminating and implementing an evidence-based intervention. It includes two main sections: Dissemination Activities and Implementation Activities. Sequential circles outline steps for implementation activities. 1. Engage <ulink type="disease" url="link.aspx?id=10321">stakeholders</ulink>. 2. understand problems and set goals. 3. Find and select E B I. 4. Adapt E B I. 5. Implement E B I. 6. Evaluate E B I.</para>
+            </textobject>
+         </mediaobject>
+      </figure>
+      <para id="ch0031s0000p0014">Many focused dissemination strategies are used in public health, ranging from databases of EBIs and active outreach by program developers to policy guidelines or targeted communication to policymakers. Additionally, research teams that have developed EBIs may seek dissemination and implementation partners and organizations for more widespread adoption and delivery and may facilitate active dissemination efforts in those settings. Ideally, such partnerships were built into the original program design.</para>
+   </sect2>
+   <sect2 id="ch0031s0001s0001">
+      <title>Implementation Activities</title>
+      <anchor id="ch0031s0001a0003"/>
+      <anchor id="ch0031s0000a0017"/>
+      <para>Once implementation processes are underway, they should be seen as part of a cyclical and iterative process (see<link linkend="ch0031s0000a0016">Figure 16.1</link>), with each round of action and learning informing the next to improve evidence‐based offerings continually. The following six steps, adapted from the work of the <ulink type="disease" url="link.aspx?id=4181">Cancer</ulink> Prevention and Control Research Network (<link linkend="ch0031s0000li0032">2017</link>), offer an overview of key implementation activities. The steps may not always be used in a linear manner, but they cover activities that are useful for implementation:</para>
+      <orderedlist continuation="restarts" id="ch0031s0000l0002" inheritnum="ignore" role="decimal">
+         <listitem id="ch0031s0000li0007">
+            <para>
+               <emphasis>Engage <ulink type="disease" url="link.aspx?id=10321">stakeholders</ulink>:</emphasis> Researchers or practitioners should start by partnering with relevant <ulink type="disease" url="link.aspx?id=10321">stakeholders</ulink> in the intended implementation settings. <ulink type="disease" url="link.aspx?id=10321">Stakeholders</ulink> may include patients, community members, providers and practitioners, purchasers, organizational leaders, administrators, policymakers, program developers, and researchers (Concannon et al., <link linkend="ch0031s0000li0034">2012</link>).</para>
+         </listitem>
+         <listitem id="ch0031s0000li0008">
+            <para>
+               <emphasis>Identify needs and set goals:</emphasis> Researchers and/or practitioners work with other <ulink type="disease" url="link.aspx?id=10321">stakeholders</ulink> in the setting to identify priority health need(s), goals, and realistic targets for improvement.</para>
+         </listitem>
+         <listitem id="ch0031s0000li0009">
+            <para>
+               <emphasis>Find and select EBI(s):</emphasis> The implementing organization works with the identified <ulink type="disease" url="link.aspx?id=10321">stakeholders</ulink> to find an EBI that addresses their health concerns. Organizations may select EBIs based on the strength of the underlying evidence, costs, fit with implementation context, appropriateness for the population, and other organizational or contextual factors.</para>
+         </listitem>
+         <listitem id="ch0031s0000li0010">
+            <para>
+               <emphasis>Adapt EBI:</emphasis> The implementing organization plans and executes adjustments to the EBI to support its delivery and integration. The goal is to balance staying true to the original EBI (or maintaining fidelity to the core components deemed necessary to improve health outcomes) while making strategic adaptations to increase relevance, appropriateness, and acceptability for the new setting or population. It is useful at this stage to understand barriers and facilitators to implementation and identify possible supports that will help implementers and organizations use the EBI within the intended setting (e.g., schools, worksites, clinics). These supports are called implementation strategies and may include identifying champions, providing training or technical assistance, engaging leadership, or changing incentives for practitioners (Powell et al., <link linkend="ch0031s0000li0084">2015</link>). Strategies are customized for the implementation setting and specific barriers to delivery for that particular EBI. Thus, training may be critical to support delivery of one EBI, whereas changing incentive structures might be critical for another EBI implemented at the same site.</para>
+         </listitem>
+         <listitem id="ch0031s0000li0011">
+            <para>
+               <emphasis>Implement EBI:</emphasis> Implementers deliver the EBI according to the implementation plan and monitor this process to make needed refinements to facilitate success. Additional strategies, such as changing staff incentives or aligning with a changing policy environment, may be required if implementation is not going according to plan. It is crucial to track and evaluate the success of implementation strategies, including their impact on key implementation outcomes (e.g., acceptability, adoption, fidelity of delivery, and costs) (Proctor et al., <link linkend="ch0031s0000li0086">2011</link>).</para>
+         </listitem>
+         <listitem id="ch0031s0000li0012">
+            <para>
+               <emphasis>Sustain EBI:</emphasis> The organization where the EBI is implemented can plan for and monitor the ability to institutionalize or maintain the delivery and impact of the program over time. Frameworks and models like the Reach, Effectiveness, Adoption, Implementation, and Maintenance (RE‐AIM) extension (Shelton et al., <link linkend="ch0031s0000li0094">2020</link>) and the Program Sustainability Assessment Tool (Luke et al., <link linkend="ch0031s0000li0067">2014</link>) can be used to inform and track sustainability over time.</para>
+         </listitem>
+      </orderedlist>
+      <anchor id="ch0031s0000a0018"/>
+      <beginpage pagenum="205"/>
+   </sect2>
+</sect1>

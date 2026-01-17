@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0017s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0017s0001</risprev>
+         <riscurrent>sect1.9781394211319.ch0017s0002</riscurrent>
+         <risnext>sect1.9781394211319.ch0017s0003</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0017</chapterid>
+         <chaptertitle>Health Belief Model (HBM)CHAPTER 4INTRODUCTION TO HEALTH BEHAVIOR THEORIES THAT FOCUS ON INDIVIDUALS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>The Transtheoretical Model (TTM)</title>
+   <anchor id="ch0017s0002a0001"/>
+   <anchor id="ch0017s0000a0008"/>
+   <para id="ch0017s0000p0011">TTM evolved from theories of psychoanalysis to consolidate many varied approaches and understand how people change health behaviors, such as smoking (<ulink url="ch0020">Chapter 7</ulink>). The creators examined what self‐changers did, and how people changed in <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=Formal">formal</ulink> programs. TTM became a widely used theory of health behavior, and informed the understanding of many health behaviors, across prevention, screening, and treatment.</para>
+   <para id="ch0017s0000p0012">TTM posits that people are in different stages of readiness to make health behavior changes, starting in precontemplation and progressing toward action and maintenance. Prior to development of TTM, a common assumption was that everyone was ready for action even though many people were not even contemplating behavior change. According to TTM, people are more likely to change when they receive interventions appropriate to their stage in the behavior change process.</para>
+   <para id="ch0017s0000p0013">One of the greatest values of TTM may be in encouraging researchers and practitioners to think about interventions from the recipient’s perspective. Why might they not be ready to quit? What are the benefits they derive from smoking? What are the perceived benefits of quitting? What are the downsides of quitting? TTM looks at how people weigh these pros or cons, called decisional balance.</para>
+   <para id="ch0017s0000p0014">
+      <emphasis>Processes</emphasis> of change, a diverse set of activities that people naturally engage in as part of behavior change, such as consciousness‐raising, seeking support, and substituting healthier options, are a strength of TTM. Data about processes of change can provide insights for intervention development. As <ulink url="ch0020">Chapter 7</ulink> notes, the processes warrant as much or more attention than stages of change but often are ignored by those creating and evaluating interventions. Finally, the theory includes people’s beliefs that they can perform the health behavior successfully, also called self‐efficacy.</para>
+   <anchor id="ch0017s0000a0009"/>
+   <beginpage pagenum="41"/>
+   <para id="ch0017s0000p0015">Interventions that leverage constructs from TTM, such as matching by stage of change, should be more effective than those not doing so. A systematic review of 33 randomized trials found improved physical activity behaviors from TTM‐based interventions that delivered stage‐matched interventions or selected people based on their stage, but the interventions were equally effective when they did not match interventions or participants by stage (Romain et al.,<link linkend="ch0017s0000li0006">2018</link>). Interventions were more impactful when based on some constructs in the theory (interventions that were tailored on more theoretical constructs or that emphasized self‐efficacy), but not when based on other constructs (decisional balance, temptation, or processes of change). The findings suggest that stage matching may not be necessary. One interpretation is that even people in the same stage might have very different beliefs (Sussman et al., <link linkend="ch0017s0000li0012">2022</link>).</para>
+   <para id="ch0017s0000p0016">Stages of change may have substantially practical value in interventions. A recent systematic review of 51 studies examined physical activity interventions for <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> survivors (Sheeran et al.,<link linkend="ch0017s0000li0011">2023</link>). Two intervention techniques (barrier identification and tailoring intervention on motivational readiness) were associated with the adoption of physical activity, but they did not also promote maintenance or the continued practice of new behaviors. Two intervention techniques (providing general encouragement and safety information) were associated with less adoption and maintenance. Only use of supervised exercise sessions was associated with greater adoption and maintenance. Findings show the potential importance of distinguishing among stages of change as targets of intervention.</para>
+</sect1>

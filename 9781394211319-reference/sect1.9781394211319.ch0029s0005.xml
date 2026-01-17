@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0029s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.</risprev>
+         <riscurrent>sect1.9781394211319.ch0029s0005</riscurrent>
+         <risnext>sect1.9781394211319.ch0029s0000</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0029</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 14 RACE, HEALTH, AND EQUITY Integrating Concepts of Social Justice Into Health Behavior Models <?lb?> KEY POINTS</title>
+   <anchor id="ch0029s0000a0002"/>
+   <anchor id="ch0029s0000a0003"/>
+   <para role="chapterAuthor">
+      <emphasis role="strong">Zinzi Bailey</emphasis>
+   </para>
+   <anchor id="ch0029s0000a0004"/>
+   <sidebar id="ch0029s0000sb0001">
+      <title>KEY POINTS</title>
+      <itemizedlist id="ch0029s0000l0001">
+         <listitem id="ch0029s0000li0001">
+            <para>The most often used models of health behavior change seldom explicate or integrate theories about structural systems of injustice, especially racism.</para>
+         </listitem>
+         <listitem id="ch0029s0000li0002">
+            <para>In interventions focused on health equity, individual and interpersonal health behavior change models can and should be considered in combination with multilevel and structural theories.</para>
+         </listitem>
+         <listitem id="ch0029s0000li0003">
+            <para>Integrating racism‐related theories and constructs with health behavior models may contribute to more antiracist public health interventions. More work is needed to build evidence of how and whether these improve intervention effectiveness.</para>
+         </listitem>
+      </itemizedlist>
+   </sidebar>
+   <sidebar id="ch0029s0000sb0002">
+      <title>Vignette: The COVID‐19 Pandemic as a Wake‐Up Call to Racial/Ethnic Health Inequities</title>
+      <bridgehead>Vignette: The COVID‐19 Pandemic as a Wake‐Up Call to Racial/Ethnic Health Inequities</bridgehead>
+      <para id="ch0029s0000p0001">Edna is a 72‐year‐old Black woman with mobility issues who shares a home with her daughter—an essential worker with a history of severe <ulink type="disease" url="link.aspx?id=492">asthma</ulink>, <ulink type="disease" url="link.aspx?id=3296">kidney disease</ulink>, and <ulink type="disease" url="link.aspx?id=3015">hypertension</ulink>—and her school‐aged granddaughter. On March 11, 2020, the World Health Organization declared COVID‐19 a global pandemic, and Edna and her family needed to take action. She tried to keep up with often changing public health advice. When <ulink type="drug" url="link.aspx?id=14154">vaccines</ulink> became available in her city, Edna struggled to find a way to get vaccinated. Because she lived in a racially segregated neighborhood, <ulink type="drug" url="link.aspx?id=14154">vaccines</ulink> were not readily available, and she did not have fast enough Internet service to secure one of the elusive appointments only available online. Her friends and neighbors were in a similar boat. Because Edna was not eligible for vaccination for another few months, she is at high risk herself and confers that risk to her intergenerational household—contracting COVID‐19 before she could get vaccinated. Meanwhile, a week into the vaccination rollout, an exclusive, predominantly white, affluent neighborhood nearby had already reached a 40% vaccination rate. Edna’s relative disadvantage due to her age, connectivity challenges, and health concerns is exacerbated by racial inequities. By not using a racial equity lens, the initial public health COVID‐19 vaccine rollout defaulted to pre‐existing inequities, with an impact on people like Edna and her family. In the process, inequities have increased.</para>
+      <para id="ch0029s0000p0002">In the United States, the COVID‐19 pandemic not only shined a light on the glaring inadequacies of our public health and healthcare systems but also laid bare the pre‐existing structural inequities that create very different living conditions and constraints across groups of different racial and ethnic, socioeconomic and geographic circumstances. Throughout the pandemic, American Indian and Alaska Native, Black, and Hispanic/Latinx people experienced disproportionately high incidence and mortality from COVID‐19 (Ndugga &amp; Artiga,<link linkend="ch0029s0000li0045">2021</link>). The uneven spread of COVID‐19, delayed and fragmented public health response, and broader social unrest triggered by the murder of George Floyd called attention to the role of upstream historical and contemporary racism on downstream effects, such as inequities in COVID‐19’s impact and <ulink type="disease" url="link.aspx?id=1125">chronic disease</ulink> inequities. Not only does racism contribute to Black, Indigenous, and other people of color (often referred to as BIPOC) living in racially and economically segregated communities with substandard or crowded housing conditions, unsafe or limited <ulink type="drug" url="link.aspx?id=15160">water</ulink>, and unhealthy air, but it also affects patterns of access to routine and urgent healthcare, health insurance, and chronic and <ulink type="disease" url="link.aspx?id=1210">infectious disease</ulink> development and progression.</para>
+      <para id="ch0029s0000p0003">Prominent individual and interpersonal health behavior models are helpful for designing interventions that target the structural vulnerability of historically marginalized communities of color. However, to achieve health equity, interventions to improve the health‐related behaviors and outcomes that contribute to structural vulnerability in marginalized communities of color should also incorporate constructs from theories that explicitly address race, racism, and structural inequity.</para>
+      <para id="ch0029s0000p0004">Rather than highlighting structural vulnerabilities faced by marginalized communities of color, many public health professionals—especially at the beginning of the COVID‐19 pandemic—focused on reducing disproportionate risks conferred by individual‐level health conditions or behaviors. For instance, <ulink type="disease" url="link.aspx?id=4356">obesity</ulink> was hypothesized as a driver of racial/ethnic disparities, and some experts emphasized programs promoting healthy eating and physical activity (Coleman et al.,<link linkend="ch0029s0000li0014">2022</link>), without acknowledging the role of eating and activity behaviors constrained by social disadvantage (Dover &amp; Lambert, <link linkend="ch0029s0000li0019">2016</link>; Venn &amp; Strazdins, <link linkend="ch0029s0000li0061">2017</link>). Consequently, as with other health behaviors and outcomes, behavior change is often prioritized for historically marginalized racial and ethnic groups as populations identified for interventions, without analyzing social determinants of their behaviors. Without carefully considering the larger social, economic, and political policies, systems and environments, interventions can be ineffective or even widen the gaps in chronic and <ulink type="disease" url="link.aspx?id=1210">infectious disease</ulink> rates.</para>
+      <para id="ch0029s0000p0005">Social Ecological models (SEMs) are increasingly being used to account for social, economic, and political environments (<ulink url="ch0015">Chapter 3</ulink>), but with insufficient attention to the theoretical foundations underpinning how one analyzes racial/ethnic inequities, and how interventions can operate on macro levels, including policies, regulations, and systemic transformation. It can be helpful to be more explicit in tapping into the multiple systemic levels of the SEM when trying to target factors that generate and sustain health disparities in disease management and outcomes. One example of a framework that approaches the widespread issue of <ulink type="disease" url="link.aspx?id=4356">obesity</ulink> this way is Shiriki Kumanyika’s Framework for Increasing Equity Impact in <ulink type="disease" url="link.aspx?id=4356">Obesity</ulink> Prevention. This framework, which draws on the SEM (<ulink url="ch0015">Chapter 3</ulink>) and community participatory frameworks (<ulink url="ch0030">Chapter 15</ulink>) directs attention to policy, systems, and environmental changes for developing <ulink type="disease" url="link.aspx?id=4356">obesity</ulink>‐prevention interventions, including addressing structural racism (Kumanyika, <link linkend="ch0029s0000li0036">2019</link>). Kumanyika specifically notes that observed disparities in <ulink type="disease" url="link.aspx?id=4357">obesity</ulink> are rooted in adverse social circumstances, part of a deeper problem of systemic and structural dynamics. Several health behavior models refer to the social environment, but their applications in intervention design do not necessarily address structural discrimination constraints in the application of those behavior models for health equity. Kumanyika’s framework has a strong focus on working with communities to build capacity and empower and partner with communities (Kumanyika, <link linkend="ch0029s0000li0036">2019</link>).</para>
+      <para id="ch0029s0000p0006">This chapter will (1) discuss theoretical foundations that focus on race and racism, and (2) propose ways of integrating racism‐focused theory into two key behavior change theories: the SEM and the Integrative Behavior Model.</para>
+   </sidebar>
+   <anchor id="ch0029s0000a0005"/>
+</sect1>

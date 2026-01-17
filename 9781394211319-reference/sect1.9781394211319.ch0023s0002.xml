@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0023s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0023s0001</risprev>
+         <riscurrent>sect1.9781394211319.ch0023s0002</riscurrent>
+         <risnext>sect1.9781394211319.ch0023s0003</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0023</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Case Study 1: Healthy Eating Living (HEAL)</title>
+   <anchor id="ch0023s0002a0001"/>
+   <anchor id="ch0023s0000a0034"/>
+   <para id="ch0023s0000p0039">Obesity is a significant public health and medical problem in the US, with about 74% of adults aged 20 years and older overweight or obese (Stierman et al.,<link linkend="ch0023s0000li0072">2021</link>). In 2019, an estimated 29.0% of women were obese prior to pregnancy (Fryar et al., <link linkend="ch0023s0000li0034">2018</link>). Excess weight during pregnancy can <ulink type="drug" url="link.aspx?id=14726">lead</ulink> to increased maternal morbidity and mortality (Wang et al., <link linkend="ch0023s0000li0079">2021</link>), problems with labor and delivery, and infants who are large‐for‐gestational age (Averett &amp; Fletcher, <link linkend="ch0023s0000li0004">2016</link>; Catalano &amp; Shankar, <link linkend="ch0023s0000li0029">2017</link>).</para>
+   <para id="ch0023s0000p0040">The Healthy Eating Active Living (HEAL) program is a multicomponent program intended to break this cycle by encouraging healthy behaviors during pregnancy. Objectives of HEAL are to achieve healthy <ulink type="disease" url="link.aspx?id=6650">weight gain</ulink> during pregnancy for mothers, improve birth outcomes, and prevent childhood <ulink type="disease" url="link.aspx?id=4356">obesity</ulink> later in life (Sharma et al.,<link linkend="ch0023s0000li0068">2018</link>). HEAL was developed using an SCT‐based approach proposed by Nader and colleagues (Catalano &amp; Shankar, <link linkend="ch0023s0000li0029">2017</link>; Nader et al., <link linkend="ch0023s0000li0054">2012</link>; Serpas et al., <link linkend="ch0023s0000li0066">2013</link>) that focuses on <ulink type="disease" url="link.aspx?id=4357">obesity</ulink> prevention at the earliest stages of development and uses a systems‐level approach to intervene.</para>
+   <para id="ch0023s0000p0041">The HEAL intervention framework draws on concepts from SCT (Bandura,<link linkend="ch0023s0000li0007">2001</link>) with three major targeted behaviors: healthy eating, physical activity, and breastfeeding. Major SCT constructs used in the development of HEAL were knowledge, outcome expectations, self‐efficacy, goal setting, and social support (Sharma et al., <link linkend="ch0023s0000li0068">2018</link>) (<anchor id="ch0023s0000a0035"/>
+      <link linkend="ch0023s0000a0037">Table 9.2</link>).</para>
+   <para id="ch0023s0000p0042">HEAL program participants were <ulink type="disease" url="link.aspx?id=10281">Medicaid</ulink>‐eligible pregnant women. The <ulink type="disease" url="link.aspx?id=10281">Medicaid</ulink> 1115 Transformation Waiver program allowed the state of Texas to implement innovative prevention programs integrated within clinical practices to improve health outcomes and address gaps in service among low‐income populations. The program was offered to predominantly African American and Hispanic/Latino women in southeast Texas. Because preliminary developmental work for HEAL was conducted in a Hispanic/Latino population in California (Serpas et al.,<link linkend="ch0023s0000li0066">2013</link>), the program was adapted for a diverse population including African Americans and Non‐Hispanic White individuals. The program included culturally appropriate recipes for cooking demonstrations, hiring and training community health workers (CHWs) with demographics similar to the priority populations, and culturally relevant physical activities.</para>
+   <anchor id="ch0023s0000a0036"/>
+   <beginpage pagenum="107"/>
+   <table id="ch0023s0000t0002">
+      <title>
+         <emphasis role="figureLabel">
+            <anchor id="ch0023s0000a0037"/>
+            <link linkend="ch0023s0000a0035">
+               <emphasis role="strong">Table 9.2</emphasis>
+            </link>
+         </emphasis> Operationalization of Individual‐Level SCT Constructs in the Healthy Eating Active Living (HEAL) Program
+</title>
+      <tgroup cols="5">
+         <tbody>
+            <row>
+               <entry>Construct</entry>
+               <entry>HEAL‐Specific Intervention Application and Strategy</entry>
+               <entry>Example of Measurement Item</entry>
+               <entry>Response Categories</entry>
+               <entry>Scale</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="left">Behavioral Capability</emphasis>
+               </entry>
+               <entry>
+                  <emphasis>Physical activity knowledge</emphasis>: participants were taught about the benefits of physical activity</entry>
+               <entry>I think the relationship between physical activity and health is important</entry>
+               <entry>5‐point Likert scale, ranging from strongly disagree to strongly agree</entry>
+               <entry>One item</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="left">Outcome Expectations</emphasis>
+               </entry>
+               <entry>
+                  <emphasis>Outcome expectations</emphasis>: participants were taught about the benefits and results of consuming fruits and vegetables</entry>
+               <entry>I may develop health problems like type 2 diabetes if I do not eat fruits and vegetables</entry>
+               <entry>5‐point Likert scale, ranging from “strongly disagree” to “strongly agree”</entry>
+               <entry>3‐item scale</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="left">Intentions</emphasis>
+               </entry>
+               <entry>
+                  <emphasis>Intention to breast‐feed</emphasis>: participants engaged in one‐on‐one sessions with dietitians to learn about breastfeeding</entry>
+               <entry>How do you plan to feed your baby in the first few weeks?</entry>
+               <entry>4‐point scale with responses of “breastfeed only, formula feed only, both breast and formula feed, don’t know”</entry>
+               <entry>N/A; 4 related questions</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="left">Self‐Efficacy</emphasis>
+               </entry>
+               <entry>
+                  <emphasis>Cooking self‐efficacy</emphasis>: participants watched cooking demonstrations of culturally friendly foods and engaged in recipe tasting</entry>
+               <entry>How sure are you that you can prepare root vegetables (e.g., beets, sweet potatoes)?</entry>
+               <entry>5‐point Likert scale ranging from “not at all sure” to “extremely sure”</entry>
+               <entry>5‐item scale</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="left">Self‐Efficacy</emphasis>
+               </entry>
+               <entry>
+                  <emphasis>Pregnancy exercise self‐efficacy</emphasis>: participants engaged in physical activity with Community Health Worker (CHW) leaders</entry>
+               <entry>I am sure that I can find the means and ways to exercise during pregnancy.</entry>
+               <entry>5‐point Likert scale ranging from “strongly disagree” to “strongly agree”</entry>
+               <entry>8‐item scale</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="left">Goal Setting</emphasis>
+               </entry>
+               <entry>
+                  <emphasis>Goals for eating healthful foods</emphasis>: participants completed a goal‐tracking sheet weekly to set HEAL‐related behavioral goals, such as cooking at home for a certain number of days per week</entry>
+               <entry>N/A</entry>
+               <entry>N/A</entry>
+               <entry>N/A</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="left">Environment</emphasis>
+               </entry>
+               <entry>Social support: Community Health Workers (CHWs) provided social support for HEAL‐related behaviors during sessions, as well as linking participants to community resources, such as local food banks/pantries and federal food assistance programs</entry>
+               <entry>N/A</entry>
+               <entry>N/A</entry>
+               <entry>N/A</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para id="ch0023s0000p0043">The HEAL multicomponent program included six sessions over a six‐week period, a one‐on‐one session with a dietitian, and five follow‐up group sessions facilitated by a CHW at a community location. The sessions revolved around four themes: (1) communicating effectively during prenatal appointments (patient‐provider engagement), (2) physical activity and <ulink type="disease" url="link.aspx?id=5714">stress</ulink> relief during pregnancy, (3) understanding and improving the food environment to make healthy choices, and (4) preparing for breastfeeding. Group sessions were non‐didactic, thus enabling experiential adult learning rooted in behavior change, to prepare pregnant women for healthy gestational <ulink type="disease" url="link.aspx?id=6650">weight gain</ulink> (Miller &amp; Rollnick,<link linkend="ch0023s0000li0049">2002</link>). A typical group session lasted 90 minutes and began with 30 minutes of CHW‐facilitated discussion around the weekly topic areas, followed by a cooking demonstration, recipe tasting, and physical activity. Each week for six weeks, women participating in the program also received approximately 20–25 lbs. (or 50 servings) of donated fresh produce, nutrition education materials, and recipe cards to take home during the education sessions.</para>
+   <sect2 id="ch0023s0002s0000">
+      <title>Application of SCT Concepts and Constructs</title>
+      <anchor id="ch0023s0002a0002"/>
+      <anchor id="ch0023s0000a0038"/>
+      <sect3 id="ch0023s0002s0000s0000">
+         <title>
+            <emphasis>Reciprocal Determinism</emphasis>
+         </title>
+         <anchor id="ch0023s0002a0003"/>
+         <anchor id="ch0023s0000a0039"/>
+         <para id="ch0023s0000p0044">A good example of reciprocal determinism can be seen in the interplay between the intervention strategies for HEAL. Fresh vegetables and fruits were made available to the families through collaboration with a local food bank and a local non‐profit organization, Brighter Bites. (Sharma et al.,<link linkend="ch0023s0000li0067">2015</link>). The produce gave the women instrumental support and the opportunity to practice healthy cooking while using skills and knowledge learned through the classes, which further increased their self‐efficacy to engage in these behaviors at home as well as reinforcing the outcome expectations that healthy food can taste good and be easy to prepare. Recipes provided through the class were culturally friendly and centered around ingredients in the weekly produce allocation. Program participants shared their successes and received social support and positive reinforcement at their weekly classes as well as through clinic visits.</para>
+      </sect3>
+      <sect3 id="ch0023s0002s0000s0001">
+         <title>
+            <emphasis>Knowledge</emphasis>
+         </title>
+         <anchor id="ch0023s0002a0004"/>
+         <anchor id="ch0023s0000a0040"/>
+         <para id="ch0023s0000p0045">HEAL sessions involved cooking demonstrations and recipe tastings to provide pregnant women with <ulink type="disease" url="link.aspx?id=10324">best practices</ulink> on how to easily prepare healthy meals on a regular basis. The one‐on‐one sessions with the dietitian provided an assessment of the woman’s current eating patterns, information on a healthy diet, and individualized dietary goals. CHWs led physical activity sessions providing pregnancy‐safe ideas for physical activity. Providing recipes and focusing on cooking skills through the cooking demonstrations increased individual knowledge about various aspects of maintaining a healthy <ulink type="disease" url="link.aspx?id=673">body weight</ulink>. Other sessions focused on shopping and preparing healthy meals, healthy sleeping patterns, breastfeeding techniques, and <ulink type="disease" url="link.aspx?id=5714">stress</ulink> reduction. The importance of consistent family routines was also emphasized since behaviors such as a consistent child bedtime have been associated with better weight outcomes and more healthful diets (Haidar et al.,<link linkend="ch0023s0000li0038">2021</link>).</para>
+      </sect3>
+      <sect3 id="ch0023s0002s0000s0002">
+         <title>
+            <emphasis>Outcome Expectations</emphasis>
+         </title>
+         <anchor id="ch0023s0002a0005"/>
+         <anchor id="ch0023s0000a0041"/>
+         <para id="ch0023s0000p0046">Throughout the <ulink type="disease" url="link.aspx?id=10481">duration</ulink> of HEAL, pregnant women were able to develop outcome expectations for healthy eating and physical activity, largely through engaging in these behaviors during the classes and experiencing tasty, healthy food and fun physical activities. Information regarding healthy gestational <ulink type="disease" url="link.aspx?id=6650">weight gain</ulink> through dietary practices (healthy <ulink type="disease" url="link.aspx?id=6650">weight gain</ulink>) and physical activity behaviors (meeting physical activity guidelines) helped pregnant women understand both the positive and negative consequences of behaviors throughout pregnancy. Cooking classes provided foods that were healthy and tasty, and that reinforced the concept that healthy food can taste good. Benefits of breastfeeding such as a healthier baby, cost savings compared to formula, and convenience were incorporated into class discussions.</para>
+         <anchor id="ch0023s0000a0042"/>
+         <beginpage pagenum="108"/>
+      </sect3>
+      <sect3 id="ch0023s0002s0000s0003">
+         <title>
+            <emphasis>Self‐Efficacy</emphasis>
+         </title>
+         <anchor id="ch0023s0002a0006"/>
+         <anchor id="ch0023s0000a0043"/>
+         <para id="ch0023s0000p0047">HEAL sessions included components on building self‐efficacy for physical activity, dietary behaviors, and breastfeeding. Pregnant women were provided tools from CHWs during sessions to increase their confidence in their ability to be active, consume fruits and vegetables as snacks, and cook and prepare food from basic healthy ingredients, such as roasting root vegetables. For example, a 10‐ to 15‐minute physical activity consisting of various pregnancy‐safe, fun, low‐impact aerobics, strength‐conditioning, stretching, and yoga‐based activities was implemented weekly, encouraging the women to participate in guided practice to achieve mastery and improve their self‐efficacy to perform the behaviors.</para>
+      </sect3>
+      <sect3 id="ch0023s0002s0000s0004">
+         <title>
+            <emphasis>Goal Setting</emphasis>
+         </title>
+         <anchor id="ch0023s0002a0007"/>
+         <anchor id="ch0023s0000a0044"/>
+         <para id="ch0023s0000p0048">Participants were encouraged to complete a goal‐tracking sheet every week to set healthy goals centered around HEAL components and to develop behavioral intentions to practice new behaviors. Example goals centered on eating more fruits and vegetables on a daily basis, cooking at home for a certain number of days per week, being physically active during several days of the week, and having an intention to breastfeed after birth.</para>
+      </sect3>
+      <sect3 id="ch0023s0002s0000s0005">
+         <title>
+            <emphasis>Social Support</emphasis>
+         </title>
+         <anchor id="ch0023s0002a0008"/>
+         <anchor id="ch0023s0000a0045"/>
+         <para id="ch0023s0000p0049">The CHWs provided social support for dietary, breastfeeding, and physical activity through leading discussion‐type sessions on how to prepare healthy meals, breastfeeding techniques, and how to fit physical activity in their lives. CHWs are especially effective in this role, as they are recruited from similar populations as the program participants and can often address cultural and other barriers in a relevant manner (Katigbak et al.,<link linkend="ch0023s0000li0042">2015</link>). Women also enjoyed the peer support offered in these sessions.</para>
+         <para id="ch0023s0000p0050">The CHWs also provided social support by linking participants to available community resources such as local food banks and pantries. They assisted with enrollment in federal assistance programs such as Women, Infants, Children (WIC), and Supplemental Nutrition Assistance Program (SNAP). Enrollment in federal assistance programs in Texas can be difficult and must be renewed frequently, so having the CHWs serve as patient navigators was crucial.</para>
+      </sect3>
+   </sect2>
+   <sect2 id="ch0023s0002s0001">
+      <title>Program Evaluation and Outcomes</title>
+      <anchor id="ch0023s0002a0009"/>
+      <anchor id="ch0023s0000a0046"/>
+      <para id="ch0023s0000p0051">A one‐group pre‐post evaluation was conducted to examine program outcomes for this demonstration study (Milstein &amp; Wetterhall,<link linkend="ch0023s0000li0050">1999</link>). Of the 210 women who completed the pre‐ and post‐program evaluations, over 80% attended four or more of the six sessions. Dose of the intervention (e.g., number of sessions attended) was positively associated with perceived benefits of breastfeeding for the baby (<emphasis>p</emphasis> &lt; 0.05) and intention to breastfeed exclusively (<emphasis>p</emphasis> &lt; 0.001).</para>
+      <para id="ch0023s0000p0052">Secondary outcomes of the intervention were positive. The program yielded significant increases in participants’ daily consumption of fruits and vegetables (<emphasis>p</emphasis> &lt; 0.001). Pre‐post differences in physical activity following the completion of the HEAL program were also examined as a secondary outcome. Results demonstrated a 15% increase in the number of women reportedly active for at least 30 minutes per day 3+ days per week, and a 14% increase in the number of women who reported they could walk for at least 10 minutes 5+ days a week, with greater increases pre‐to‐post intervention among women who attended more HEAL sessions (<emphasis>p</emphasis> &lt; 0.01). HEAL also showed a trend toward an increased food security of +8.3% (<emphasis>p</emphasis> = 0.056). There were improvements, albeit not significant, in interactions between attendance and increased self‐efficacy for cooking from basic ingredients and eating fruits and vegetables every day (Sharma et al., <link linkend="ch0023s0000li0068">2018</link>).</para>
+      <para id="ch0023s0000p0053">Results from this study illustrate the feasibility of incorporating a robust integrated program that targets health behaviors in mothers. Over 80% of participants attended ≥4 sessions and approximately 91% of participants found the sessions helpful. Currently, the HEAL program is still being implemented in University of Texas Physicians clinics, although a larger evaluation has not been conducted. The HEAL study highlights the importance of <ulink type="disease" url="link.aspx?id=4356">obesity</ulink> prevention interventions that begin during pregnancy, with benefits for both the mother and the child when using culturally appropriate strategies and supports. In addition, the results highlight the importance of SCT constructs in program design, implementation, and evaluation for diverse, historically underserved populations.</para>
+      <anchor id="ch0023s0000a0047"/>
+      <beginpage pagenum="109"/>
+   </sect2>
+</sect1>

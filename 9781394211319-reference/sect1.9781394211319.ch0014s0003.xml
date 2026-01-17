@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0014s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0014s0002</risprev>
+         <riscurrent>sect1.9781394211319.ch0014s0003</riscurrent>
+         <risnext>sect1.9781394211319.ch0014s0004</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0014</chapterid>
+         <chaptertitle>CHAPTER 2THEORY, RESEARCH, AND PRACTICE IN HEALTH BEHAVIOR</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Trends in Use of Health Behavior Theories and Models</title>
+   <anchor id="ch0014s0003a0001"/>
+   <anchor id="ch0014s0000a0016"/>
+   <para id="ch0014s0000p0025">Theories that gain recognition in a discipline shape the field, help define the scope of practice, and influence training and socialization of its professionals. No single theory or conceptual framework dominates research or practice for understanding and changing health behavior. Instead, there are many theories.</para>
+   <sect2 id="ch0014s0003s0000">
+      <title>Most Often Used Theories: 1986–2022</title>
+      <anchor id="ch0014s0003a0002"/>
+      <anchor id="ch0014s0000a0017"/>
+      <para id="ch0014s0000p0026">In making decisions about which theories to include in this book, we reviewed available reviews, texts, and highly cited publications. We first examined previously published reviews of health behavior theory use from the first five editions of this book (Glanz et al.,<link linkend="ch0014s0000li0056">1990</link>, <link linkend="ch0014s0000li0057">1996</link>, <link linkend="ch0014s0000li0059">2002</link>, <link linkend="ch0014s0000li0060">2008</link>, <link linkend="ch0014s0000li0061">2015</link>). We also assessed theories covered in other books on health behavior theory (DiClemente et al., <link linkend="ch0014s0000li0050">2019</link>; Edberg, <link linkend="ch0014s0000li0051">2018</link>; Hayden, <link linkend="ch0014s0000li0065">2019</link>; Michie et al., <link linkend="ch0014s0000li0080">2014</link>; Sharma, <link linkend="ch0014s0000li0091">2017</link>; Simons‐Morton et al., <link linkend="ch0014s0000li0093">2012</link>).</para>
+      <para id="ch0014s0000p0027">Next, we reviewed highly cited articles that reviewed and described dominant health behavior theories (Davis et al.,<link linkend="ch0014s0000li0049">2015</link>; Glanz &amp; Bishop, <link linkend="ch0014s0000li0054">2010</link>; Glanz &amp; Rimer, <link linkend="ch0014s0000li0058">2021</link>; Holman et al., <link linkend="ch0014s0000li0067">2018</link>; Michie &amp; Prestwich, <link linkend="ch0014s0000li0079">2010</link>; Painter et al., <link linkend="ch0014s0000li0083">2008</link>; Prestwich et al. <link linkend="ch0014s0000li0084">2014</link>; Webb et al., <link linkend="ch0014s0000li0100">2010</link>). The most highly cited papers emerged clearly from a Google Scholar search, with numbers of citations in the hundreds (Michie &amp; Prestwich, <link linkend="ch0014s0000li0079">2010</link>, n = 908; Painter et al., <link linkend="ch0014s0000li0083">2008</link>, n = 801; Prestwich et al., <link linkend="ch0014s0000li0084">2014</link>, n = 624) to thousands (Davis et al., <link linkend="ch0014s0000li0049">2015</link>, n = 1431; Glanz &amp; Bishop, <link linkend="ch0014s0000li0054">2010</link>, n = 2773).</para>
+   </sect2>
+   <sect2 id="ch0014s0003s0001">
+      <title>Historical Reviews and Trends</title>
+      <anchor id="ch0014s0003a0003"/>
+      <anchor id="ch0014s0000a0018"/>
+      <para id="ch0014s0000p0028">
+         <anchor id="ch0014s0000a0019"/>
+         <link linkend="ch0014s0000a0021">Table 2.2</link> summarizes the most frequently used theories across six reviews from 1986 to the present. Synthesis of the various reviews and books leads to the conclusion that indeed, across more than four decades, only <emphasis>a small number of theories and models have persisted and have been widely used and/or informed numerous other theories</emphasis>. Those theories are the same ones that were identified in reviews conducted for the previous editions of this book: Health Belief Model, SCT (and Social Learning Theory, its predecessor), Theory of Planned Behavior (and Theory of Reasoned Action, its predecessor), social support, Diffusion of Innovations, and the Social Ecological Model. Most books also included the PRECEDE‐PROCEED Model and Intervention Mapping as leading planning and implementation models.</para>
+      <para id="ch0014s0000p0029">An important issue in examining use of theories and models for health behavior change<emphasis>is the level at which they seek to understand and/or influence behavior and its determinants</emphasis>. Golden and Earp’s review of 157 intervention articles published between 1989 and 2008 found that, across all settings, theories, topics, and time periods, the intervention strategies and targets for change were most likely to be at the individual and interpersonal levels, and less often at the institutional, community, and policy levels (Golden &amp; Earp, <link linkend="ch0014s0000li0062">2012</link>). Similar findings emerged from a review by Holman et al. (<link linkend="ch0014s0000li0067">2018</link>), that social context was less emphasized. In contrast, Tabak et al. (<link linkend="ch0014s0000li0097">2012</link>) found that most models that they identified for dissemination and implementation research were distributed across all levels of the Social Ecological Model. Notably, the Tabak review examined inherently multilevel issues (dissemination and implementation) across a wide range of sources. These contrasting findings suggest that review articles can be drivers of theory use as well as reflect those that are most used in different categories of health behavior research (e.g., individual‐focused, and organization‐ and policy‐focused).</para>
+      <anchor id="ch0014s0000a0020"/>
+      <beginpage pagenum="15"/>
+      <table id="ch0014s0000t0002">
+         <title>
+            <emphasis role="figureLabel">
+               <anchor id="ch0014s0000a0021"/>
+               <link linkend="ch0014s0000a0019">
+                  <emphasis role="strong">Table 2.2</emphasis>
+               </link>
+            </emphasis> Trends in Use of Health Behavior Theories and Models
+</title>
+         <tgroup cols="2">
+            <tbody>
+               <row>
+                  <entry>Period of Review and Source</entry>
+                  <entry>Most‐Used Theories/Models/Frameworks</entry>
+               </row>
+               <row>
+                  <entry>1986–1988<?lb?> Glanz et al. (<link linkend="ch0014s0000li0056">1990</link>)</entry>
+                  <entry>
+                     <itemizedlist id="ch0014s0000l0001">
+                        <listitem id="ch0014s0000li0001">
+                           <para>Health Belief Model</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0002">
+                           <para>Social Learning Theory</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0003">
+                           <para>Theory of Reasoned Action</para>
+                        </listitem>
+                     </itemizedlist>
+                  </entry>
+               </row>
+               <row>
+                  <entry>1992–1994<?lb?> Glanz et al. (<link linkend="ch0014s0000li0057">1996</link>)</entry>
+                  <entry>
+                     <itemizedlist id="ch0014s0000l0002">
+                        <listitem id="ch0014s0000li0004">
+                           <para>Health Belief Model</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0005">
+                           <para>Social Cognitive Theory</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0006">
+                           <para>Theory of Reasoned Action/Theory of Planned Behavior</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0007">
+                           <para>The Transtheoretical Model/Stages of Change</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0008">
+                           <para>Community organization</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0009">
+                           <para>Social marketing</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0010">
+                           <para>Social support/social networks</para>
+                        </listitem>
+                     </itemizedlist>
+                  </entry>
+               </row>
+               <row>
+                  <entry>1999–2000<?lb?> Glanz et al. (<link linkend="ch0014s0000li0059">2002</link>)</entry>
+                  <entry>
+                     <itemizedlist id="ch0014s0000l0003">
+                        <listitem id="ch0014s0000li0011">
+                           <para>Health Belief Model</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0012">
+                           <para>Social Cognitive Theory</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0013">
+                           <para>Theory of Reasoned Action and Theory of Planned Behavior</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0014">
+                           <para>The Transtheoretical Model/Stages of Change</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0015">
+                           <para>Community organization</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0016">
+                           <para>Social support and social networks</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0017">
+                           <para>Ecological models/social ecology</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0018">
+                           <para>Diffusion of Innovations</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0019">
+                           <para>Patient‐provider communication</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0020">
+                           <para>Stress and coping</para>
+                        </listitem>
+                     </itemizedlist>
+                  </entry>
+               </row>
+               <row>
+                  <entry>2000–2005<?lb?> Painter et al. (<link linkend="ch0014s0000li0083">2008</link>)</entry>
+                  <entry>
+                     <itemizedlist id="ch0014s0000l0004">
+                        <listitem id="ch0014s0000li0021">
+                           <para>Health Belief Model</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0022">
+                           <para>Social Cognitive Theory</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0023">
+                           <para>The Transtheoretical Model/Stages of Change</para>
+                        </listitem>
+                     </itemizedlist>
+                  </entry>
+               </row>
+               <row>
+                  <entry>2012–2014<?lb?> Golden &amp; Earp (<link linkend="ch0014s0000li0062">2012</link>)<?lb?> Tabak et al. (<link linkend="ch0014s0000li0097">2012</link>)<?lb?> Michie et al. (<link linkend="ch0014s0000li0080">2014</link>)</entry>
+                  <entry>
+                     <itemizedlist id="ch0014s0000l0005">
+                        <listitem id="ch0014s0000li0024">
+                           <para>Health Belief Model</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0025">
+                           <para>Social Cognitive Theory (and Social Learning Theory, its predecessor)</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0026">
+                           <para>Theory of Planned Behavior (and Theory of Reasoned Action, its predecessor),</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0027">
+                           <para>Diffusion of Innovations</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0028">
+                           <para>Social Ecological Model</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0029">
+                           <para>Social support</para>
+                        </listitem>
+                     </itemizedlist>
+                  </entry>
+               </row>
+               <row>
+                  <entry>2012–2019<?lb?> Theories covered in five theory books and reviews:<?lb?> Simons‐Morton et al. (<link linkend="ch0014s0000li0093">2012</link>)<?lb?> Davis et al. (<link linkend="ch0014s0000li0049">2015</link>)<?lb?> Sharma (<link linkend="ch0014s0000li0091">2017</link>)<?lb?> Edberg (<link linkend="ch0014s0000li0051">2018</link>)<?lb?> Hayden (<link linkend="ch0014s0000li0065">2019</link>)<?lb?> DiClemente et al. (<link linkend="ch0014s0000li0050">2019</link>)</entry>
+                  <entry>
+                     <itemizedlist id="ch0014s0000l0006">
+                        <listitem id="ch0014s0000li0030">
+                           <para>Health Belief Model (HBM)</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0031">
+                           <para>Social Cognitive Theory</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0032">
+                           <para>Theory of Planned Behavior (TPB)/Theory of Reasoned Action/Integrated Model of Behavior</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0033">
+                           <para>The Transtheoretical Model/Stages of Change (TTM)</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0034">
+                           <para>Social Ecological Model</para>
+                        </listitem>
+                        <listitem id="ch0014s0000li0035">
+                           <para>Diffusion of Innovations</para>
+                        </listitem>
+                     </itemizedlist>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </sect2>
+   <sect2 id="ch0014s0003s0002">
+      <title>Are Interventions More Effective If They Are Based on Theory?</title>
+      <anchor id="ch0014s0003a0004"/>
+      <anchor id="ch0014s0000a0022"/>
+      <para id="ch0014s0000p0030">The empirical question of whether intervention strategies are more effective when grounded in theory has been examined in many systematic reviews and meta‐analyses on various behavioral topics. We recently conducted an umbrella review of evidence about patterns and effects of using theory in health behavior intervention research (Glanz et al., 2024, forthcoming). The review, the most comprehensive to date, addresses the overarching question: Are behavioral interventions more effective if they are explicitly theory‐based?</para>
+      <anchor id="ch0014s0000a0023"/>
+      <beginpage pagenum="16"/>
+      <para id="ch0014s0000p0031">We assessed English‐language review articles published between 2010 and 2022 to analyze whether the use of behavioral science theories is associated with more effective behavior change intervention strategies and programs. Reviews had to include an analysis of behavior change, a health outcome with established association with behavior (e.g., <ulink type="disease" url="link.aspx?id=6651">weight loss</ulink>, <ulink type="disease" url="link.aspx?id=9688">diabetes</ulink> control), or mental health as an outcome. The type of behavior addressed was not prespecified or limited. Analysis of the theory‐effectiveness association could be quantitative, qualitative, or a combination of both methods.</para>
+      <para id="ch0014s0000p0032">The analysis included 6 umbrella reviews and 132 additional systematic reviews, meta‐analyses, and narrative reviews. The umbrella reviews yielded mixed results, with positive short‐term effects when theory was used (Fiedler et al.,<link linkend="ch0014s0000li0052">2020</link>; Olanrewaju et al., <link linkend="ch0014s0000li0082">2016</link>), lack of greater effectiveness for theory‐based interventions (Dalgetty et al., <link linkend="ch0014s0000li0048">2019</link>), and a limited role for theories across reviews for some behavioral outcomes (French et al., <link linkend="ch0014s0000li0053">2017</link>; Safron et al., <link linkend="ch0014s0000li0089">2011</link>; Weston et al., <link linkend="ch0014s0000li0102">2020</link>). The 132 review articles also concluded that the use of theory had varied effects: positive or mostly positive in 37% of reviews; certain theories were more effective than others in 16.7%; inconclusive or mixed reviews in 35.5%; and no association or negative effects in 10.9% of the reviews.</para>
+      <para id="ch0014s0000p0033">The sum of these findings provides substantial support for use of theory as a foundation for health behavior interventions but by no means an overwhelming endorsement of theory‐based strategies. How do we reconcile the mixed findings about value of health behavior theory? First, the most common classification of studies in the review articles was “yes/no” regarding the use of theory and “which theory or theories” were applied. Fifty‐six reviews used a taxonomy or established system for classifying behavior change techniques and theoretical constructs such as Michie and others’ Behavior Change Techniques (Abraham &amp; Michie,<link linkend="ch0014s0000li0036">2008</link>), Theory Domain Framework (Cane et al., <link linkend="ch0014s0000li0044">2012</link>), CALO‐RE taxonomy (Michie et al., <link linkend="ch0014s0000li0078">2011</link>), and levels of theory use (Painter et al., <link linkend="ch0014s0000li0083">2008</link>); however, these taxonomies were often not used fully due to incomplete information available in the published studies.</para>
+      <para id="ch0014s0000p0034">Second, the ways that theories were applied to interventions varied widely, both in terms of the level of detail described in primary research publications and in the number of constructs used to design and implement interventions. Use of theory is more complicated than a check‐off box. None of the reviews could assess the complexity of theory use because the data in most papers are insufficient. Thus, a simple yes/no conclusion about the utility of health behavior theory may be less meaningful than studies that enable us to discern what works for whom, and under what circumstances (Atkins et al.,<link linkend="ch0014s0000li0038">2017</link>; Sheeran et al., <link linkend="ch0014s0000li0092">2017</link>).</para>
+      <para id="ch0014s0000p0035">The body of evidence we reviewed does not justify an unequivocal endorsement for use of theory in health behavior interventions. Clearer descriptions of how theory is used and measured are needed. At the same time, the overall weight of evidence from research and practice in public health and preventive medicine is sufficient to recommend that researchers and program planners familiarize themselves with a range of health behavior theories and apply them critically in a variety of settings.</para>
+   </sect2>
+</sect1>

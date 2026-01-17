@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0035s0007">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.</risprev>
+         <riscurrent>sect1.9781394211319.ch0035s0007</riscurrent>
+         <risnext>sect1.9781394211319.ch0035s0000</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0035</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 19 PLANNING MODELS FOR THEORY‐BASED HEALTH PROMOTION INTERVENTIONS <?lb?> KEY POINTS</title>
+   <anchor id="ch0035s0000a0002"/>
+   <anchor id="ch0035s0000a0003"/>
+   <para role="chapterAuthor">
+      <emphasis role="strong">María E. Fernández<?lb?></emphasis>
+      <emphasis role="strong">Christine Markham<?lb?></emphasis>
+      <emphasis role="strong">Patricia Dolan Mullen<?lb?></emphasis>
+      <emphasis role="strong">Melissa Peskin<?lb?></emphasis>
+      <emphasis role="strong">Shari Esquenazi‐Karonika</emphasis>
+   </para>
+   <anchor id="ch0035s0000a0004"/>
+   <sidebar id="ch0035s0000sb0001">
+      <title>KEY POINTS</title>
+      <para id="ch0035s0000p0001">This chapter describes two different frameworks (models) that can guide systematic development of theory‐ and evidence‐based health promotion programs: PRECEDE‐PROCEED (Green &amp; Kreuter,<link linkend="ch0035s0000li0055">1991</link>, <link linkend="ch0035s0000li0056">2005</link>, <link linkend="ch0035s0000li0057">2022</link>) and Intervention Mapping (Bartholomew et al., <link linkend="ch0035s0000li0041">2016</link>).</para>
+      <para>The chapter presents:</para>
+      <itemizedlist id="ch0035s0000l0001">
+         <listitem id="ch0035s0000li0001">
+            <para>An overview of the two planning models, PRECEDE‐PROCEED and Intervention Mapping, and the major steps in each model.</para>
+         </listitem>
+         <listitem id="ch0035s0000li0002">
+            <para>Description of how these models can be used to integrate theory and evidence into program planning and evaluation.</para>
+         </listitem>
+         <listitem id="ch0035s0000li0003">
+            <para>Case examples that describe the process of applying PRECEDE‐PROCEED and Intervention Mapping.</para>
+         </listitem>
+         <listitem id="ch0035s0000li0004">
+            <para>Adaptation of evidence‐based interventions and planning implementation strategies using Intervention Mapping.</para>
+         </listitem>
+      </itemizedlist>
+   </sidebar>
+   <sidebar id="ch0035s0000sb0002">
+      <title>Vignette</title>
+      <bridgehead>Vignette</bridgehead>
+      <para id="ch0035s0000p0002">Angela, a recent MPH graduate and new employee at the city health department, has been charged with planning a program to increase HPV vaccination in the city as a key strategy to reduce incidence and mortality from cervical and other HPV‐related <ulink type="disease" url="link.aspx?id=4181">cancers</ulink>. Reviews of vaccination records indicate that the city’s rates are below the state average for HPV vaccination initiation and for completion of the vaccination series.</para>
+      <para id="ch0035s0000p0003">Angela forms a team to plan a health promotion program and holds a meeting with <ulink type="disease" url="link.aspx?id=10321">stakeholders</ulink> that includes healthcare providers and community members. The group immediately starts suggesting ways to address the problem. “We need to scare parents into vaccinating their children,” said a teacher. “They don’t get that they are putting their kids <ulink type="disease" url="link.aspx?id=10304">at risk</ulink> if they don’t vaccinate them.” Another planning group member said, “The most important thing is access. I bet people aren’t getting their kids vaccinated because they cannot find a place where they can get the vaccine for free.”</para>
+      <para id="ch0035s0000p0004">Angela reflects on her academic training on theories and frameworks in health promotion, to better understand the reasons parents may not be vaccinating their children against HPV. She thinks about the Health Belief Model and wonders whether perceived risk is a factor, or perhaps perceived severity. She also remembers reading about how the beliefs about outcomes (that the vaccine will work) could also influence behavior. Surely, it is important to use theory in planning, but how? Angela realizes she needs a way to organize the discussions, her knowledge about theory, and information from the published literature to create a plan (or map) on how to get from the problem to the solution. She decides to use Intervention Mapping to plan the program.</para>
+   </sidebar>
+   <anchor id="ch0035s0000a0005"/>
+</sect1>

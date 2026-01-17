@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0020s0009">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0020s0008</risprev>
+         <riscurrent>sect1.9781394211319.ch0020s0009</riscurrent>
+         <risnext>sect1.9781394211319.</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0020</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Note</title>
+   <anchor id="ch0020s0009a0001"/>
+   <orderedlist continuation="restarts" inheritnum="ignore" role="notesList">
+      <listitem role="chapterCredit">
+         <para>The authors dedicate this chapter to the memory of James O. Prochaska, Ph.D., our dear teacher, mentor, colleague, and friend, who will forever inspire us.</para>
+      </listitem>
+   </orderedlist>
+</sect1>

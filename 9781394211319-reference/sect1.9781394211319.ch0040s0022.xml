@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0040s0022">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0040s0021</risprev>
+         <riscurrent>sect1.9781394211319.ch0040s0022</riscurrent>
+         <risnext>sect1.9781394211319.</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0040</chapterid>
+         <chaptertitle>SUBJECT INDEX</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>W</title>
+   <anchor id="ch0040s0022a0001"/>
+   <itemizedlist mark="none" role="none">
+      <listitem id="ch0040s0000li0805">
+         <para>Weathering framework,<ulink url="ch0022#ch0022s0000a0009">95</ulink>, <ulink url="ch0026#ch0026s0000a0020">158</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0040s0000li0806">
+         <para>We Can Prevent <ulink type="disease" url="link.aspx?id=9688">Diabetes</ulink> study,<ulink url="ch0026#ch0026s0000a0033">161</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0040s0000li0807">
+         <para>Well‐being,<ulink url="ch0026#ch0026s0000a0020">158</ulink>–160, <ulink url="ch0038#ch0038s0000a0021">293</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0040s0000li0808">
+         <para>Workplace <ulink type="disease" url="link.aspx?id=5714">stress</ulink>,<ulink url="ch0026#ch0026s0000a0017">157</ulink>
+         </para>
+      </listitem>
+   </itemizedlist>
+</sect1>

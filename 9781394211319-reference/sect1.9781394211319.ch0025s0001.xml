@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0025s0001">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0025s0000</risprev>
+         <riscurrent>sect1.9781394211319.ch0025s0001</riscurrent>
+         <risnext>sect1.9781394211319.ch0025s0002</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0025</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Social Network Theory</title>
+   <anchor id="ch0025s0001a0001"/>
+   <anchor id="ch0025s0000a0021"/>
+   <para id="ch0025s0000p0024">SNT has three main components, each of which is discussed below: (1) network environment; (2) a person’s position in a network, and (3) network structure. A final component of SNT is that there is a dynamic relationship between the micro and macro levels of network analysis; that is, choices by individual members (or nodes) of a network give rise to larger level network structures. Thus, micro‐level interactions between people who become friends with friends of current friends create macro‐level network clusters of friends.</para>
+   <sect2 id="ch0025s0001s0000">
+      <title>Network Environment</title>
+      <anchor id="ch0025s0001a0002"/>
+      <anchor id="ch0025s0000a0022"/>
+      <para id="ch0025s0000p0025">A basic tenet of SNT is that people or actors (e.g., organizations, states, collectives) take actions based on their network environment: their set of relationships, or<emphasis>ties</emphasis>, with other people or actors, both direct and indirect. SNT predicts that these network environmental <emphasis>influences</emphasis> are powerful determinants of behavior. An individual’s network environment is that individual’s set of direct relationships.</para>
+      <para id="ch0025s0000p0026">The network in<anchor id="ch0025s0000a0023"/>
+         <link linkend="ch0025s0000a0024">Figure 11.1</link> depicts relationships of who knew whom in one organization, with the nodes shaped by individual departments. Persons 23 and 32 are the most central, receiving the most incoming ties, named by others frequently, and the most central on other centrality measures such as betweenness and closeness. Person 31 acts as a bridge connecting subgroups 8, 16, 22, 24, 28, and 31. The dyad consisting of 10 and 12 are disconnected from the larger group and only know one another; whereas 18, 27, and 38 are isolates whom no one knew, and who knew no one. The overall network density is 10%, indicating that 10% of all possible ties exist, and the average path length, the number of steps between people was 2.77 (with the assumption that nodes that are unreachable are assumed to be six steps apart, which is one plus the maximum path distance in the connected part of the network).</para>
+      <para id="ch0025s0000p0027">We can use SNT to make many predictions about how health behaviors would spread in this network. For example, the central nodes should have a large influence on what is considered normative, and what behaviors might spread easily in the network. The bridging node controls the flow of information and influence from the larger group to the subgroup; and the disconnected dyad (nodes 10 and 12), and isolates will be immune to influence from the larger group. There is homophily in department membership, meaning that people in the same department are more likely to know one another than those in different departments and that similarly shaped nodes are more likely to be connected than dissimilar ones.</para>
+      <para id="ch0025s0000p0028">Such homophily is derived from at least two network processes: influence and selection.<emphasis>Influence</emphasis> occurs when an individual changes <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=His">his</ulink>/her behavior to be the same as their network partners. <emphasis>Selection</emphasis> occurs when an individual changes their network to be compatible with their behavior. In the case of e‐cigarette use, influence occurs when a person decides to start vaping because their friends vape; selection occurs when a person decides to vape and then makes new friendships with vapers.</para>
+      <figure float="0" id="ch0025s0000f0001">
+         <title>
+            <emphasis role="figureLabel">
+               <anchor id="ch0025s0000a0024"/>
+               <link linkend="ch0025s0000a0023">
+                  <emphasis role="strong">Figure 11.1</emphasis>
+               </link>
+            </emphasis> Network of Who Knew Whom in One Organization, Shapes Indicate Department Affiliations. Each Symbol and Corresponding Number Refers to a Person and the Arrow Indicates the Direction of the Nomination. For Example, Persons 10 and 12 Nominated Each Other, Whereas Person 7 Named 15 but 15 did not Name 7
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0025f04.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+            <textobject>
+               <para>A network diagram showcases who knew whom in an organization, with symbols and numbers indicating department affiliations. Nodes connected by lines form a complex web, with three primary node sizes: 18, 27, and 38. Annotations label each node, showing connections among various departments.</para>
+            </textobject>
+         </mediaobject>
+      </figure>
+      <para id="ch0025s0000p0029">Because SNT predicts that individuals are influenced by their immediate social networks both in their behaviors and their network choices, influence and selection effects are considered<emphasis>environmental effects</emphasis>. Network theory has developed many extensions of these environmental, or exposure, effects, including weighing them by (1) tie strength, (2) tie distance (including indirect ties), (3) connectivity to the same third parties, (4) degree of equivalence in network position, (5) centrality of ties (see next section), (6) extent of participation in joint activities (such as being on the same sports team), or (7) network attributes that may alter effects (such as gender, age, or education level). SNT also predicts that individuals vary in the extent to which they are influenced by their personal networks. Some individuals, for example, may have low thresholds for taking action and so change behaviors even if few others in their network do so, while other individuals may have high thresholds and wait until the majority have engaged in a behavior before acting (Valente, <link linkend="ch0025s0000li0054">2010</link>).</para>
+      <anchor id="ch0025s0000a0025"/>
+      <beginpage pagenum="143"/>
+   </sect2>
+   <sect2 id="ch0025s0001s0001">
+      <title>Position in Networks</title>
+      <anchor id="ch0025s0001a0003"/>
+      <anchor id="ch0025s0000a0026"/>
+      <para id="ch0025s0000p0030">Another core tenet of SNT is that a person’s position in a network influences their behaviors. Several positions have been identified as important: central, bridging, and peripheral. Central individuals occupy prominent positions in the network as indicated by high scores on algorithms that identify nodes that have the potential to influence many other nodes or play other important roles in the network. People can be central if they receive a lot of nominations (degree centrality), for example, but also if they occupy strategic positions in the network such as closeness centrality, which means being on average, fewer “steps” from everyone else in the network or lying on the shortest path connecting other nodes in the network (betweenness centrality) (Freeman,<link linkend="ch0025s0000li0027">1979</link>). Being central can also make individuals more sensitive to community norms and values that may either promote or inhibit innovation and/or change, suggesting that the central nodes should have a large influence on what is considered normative, and what behaviors might spread easily in the network. Central individuals learn about new ideas sooner and can have access to information earlier than less central people. The central position can be advantageous if the information received is valuable; however, when it comes to the spread of diseases, being central can be a liability as it exposes that person to viruses and bacteria earlier than noncentral members (Christakis &amp; Fowler, <link linkend="ch0025s0000li0017">2010</link>).</para>
+      <para id="ch0025s0000p0031">Bridging individuals, people who connect otherwise disconnected groups—also can be associated with behavior in a network for several reasons: (1) bridging provides access to different subgroups in the network, (2) bridging individuals may be less beholden to the<emphasis>status quo</emphasis> than central individuals, and (3) bridges are less constrained by their immediate personal network. Granovetter’s (<link linkend="ch0025s0000li0031">1973</link>) influential paper on the strength of weak ties argued that people who are weakly connected often exchange valuable information because they are linked to different people and thus have access to different information. Network theory highlights the importance of bridges for linking disparate groups and enabling or hindering collective action.</para>
+      <para id="ch0025s0000p0032">Being peripheral also can influence behaviors. Peripheral individuals are free from social norms in the community or network; thus, they may be less constrained in their behavior and freer to innovate. They also might have more connectivity to other groups and networks in which case they would be bridges between networks but peripheral in one of them. There also is evidence that being peripheral in a network may be associated directly with health behaviors. Research has shown that social isolation is associated with poor physical health, for example, and that loneliness in particular is associated with poor physical health among adolescents and young adults (Christiansen, et al.,<link linkend="ch0025s0000li0018">2021</link>) (see <ulink url="ch0024">Chapter 10</ulink>).</para>
+   </sect2>
+   <sect2 id="ch0025s0001s0002">
+      <title>Structural or Network Properties</title>
+      <anchor id="ch0025s0001a0004"/>
+      <anchor id="ch0025s0000a0027"/>
+      <para id="ch0025s0000p0033">SNT also makes predictions at the macro, or whole network, level, using indicators such as the rates of homophily and reciprocity, and the levels of density, transitivity (clustering), and centralization in the network. In<link linkend="ch0025s0000a0024">Figure 11.1</link>, <emphasis>homophily</emphasis> is more apparent as people are more likely to be connected if they are from the same department. There is also homophily in behavior such that vapers are friends with other vapers. SNT predicts this homophily will occur in many networks and that networks with high rates of homophily will be more resistant to change.</para>
+      <para id="ch0025s0000p0034">
+         <emphasis>Transitivity</emphasis> also occurs at higher rates in many networks such that friends of friends are, or become friends. If Angela names Mary as a friend, and Mary names Beth as a friend, then Angela will likely become friends with Beth. In <link linkend="ch0025s0000a0024">Figure 11.1</link>, persons 2, 13, and 14 have a transitive triad as 2 names 14, and both 14 and 2 name 13. <emphasis>Clustering</emphasis> is the degree of transitivity in a network and so highly clustered networks have pockets of dense interconnectivity that accelerates behavior change within clusters but slows it between different clusters.</para>
+      <anchor id="ch0025s0000a0028"/>
+      <beginpage pagenum="144"/>
+      <para id="ch0025s0000p0035">As mentioned earlier, people vary in the number of their ties, making some people central and others peripheral. The overall distribution of these ties is an indication of a network’s<emphasis>centralization</emphasis>. Centralized networks, characterized by the extent to which ties are focused around one or a few nodes are thought to be more effective because the central hubs can coordinate activities for the network. Evidence also suggests that centralized networks are less sustainable, in part, (1) because centralized networks have hubs that are very important, and their removal can have profound consequences, and (2) people are often less satisfied working in centralized networks in which they have little control or input into decision‐making.</para>
+      <para id="ch0025s0000p0036">A final, well‐known structural property of networks is the<emphasis>“small world” property</emphasis>. That is, the distance between any two people in the network is less than what would be expected in a random network of the same size and density (the number of links in the network). Milgram (<link linkend="ch0025s0000li0042">1967</link>) conducted the classic “small world study,” which found that any two people in the US chosen at random are separated by six steps or the well‐known six degrees of separation.</para>
+      <para id="ch0025s0000p0037">These five structural properties—homophily, reciprocity, transitivity, centralization, and their small‐world character—are properties that enable us to describe and compare different networks; and make predictions about how networks emerge and evolve over time. Once attributes of the nodes—such as sex, race and ethnicity, age, and other characteristics of people—are added, we can make even more profound and powerful predictions about how networks evolve and how they influence behavior.</para>
+   </sect2>
+   <sect2 id="ch0025s0001s0003">
+      <title>Individual Network‐Level Interactions</title>
+      <anchor id="ch0025s0001a0005"/>
+      <anchor id="ch0025s0000a0029"/>
+      <para id="ch0025s0000p0038">Individual‐ and network‐level properties interact to influence behavior. For example, being central in a centralized network affords one more power and control than being central in a decentralized network. A person with a<emphasis>heterophilous</emphasis> tie (a tie to someone with different characteristics) in a network with high rates of homophily is unusual and so may feel increased pressure to sever that tie or may have access to information and resources at a greater rate than other individuals. Therefore, to fully understand how networks influence behavior, one must simultaneously consider both the individual (micro) and network (macro) levels of analysis.</para>
+   </sect2>
+   <sect2 id="ch0025s0001s0004">
+      <title>Diversity and Equity in Social Networks</title>
+      <anchor id="ch0025s0001a0006"/>
+      <anchor id="ch0025s0000a0030"/>
+      <para id="ch0025s0000p0039">The advantages of having a homophilous network, where individuals have ties with others similar to themselves, or a heterophilous network, where individuals have ties with others who are different from themselves, are dependent on the behavior being studied. A heterophilous social network can be advantageous if one is seeking exposure to new information and ideas or looking to grow and diversify connections. On the other hand, a heterophilous network can be disadvantageous when it comes to <ulink type="disease" url="link.aspx?id=10536">public health issues</ulink> like disease containment. For example, having a heterophilous network of sexual partners can increase the transmission of sexually transmitted infections or make it challenging to contain an outbreak within a social network.</para>
+      <para id="ch0025s0000p0040">Variation in size and composition of social networks is sometimes related to individual attributes, community settings, or socioeconomic factors. Early work examining diversity in social networks was conducted by Peter Marsden using data from the 1985 General Social Survey (Marsden,<link linkend="ch0025s0000li0039">1987</link>). He analyzed the variations in core discussion networks of Americans by age, education level, race/ethnicity, sex, and setting. In general, he found that the heterogeneity of social networks increases with age, and having a diverse network results in access to different social groups, which provides advantages, such as access to new information or resources. At the time of the survey (1985), social networks were relatively homophilous with regard to race/ethnicity, with white respondents having more homophilous networks than African Americans and Hispanic/Latinx respondents. Higher education and urban residence were also associated with larger, more heterophilous networks.</para>
+      <para id="ch0025s0000p0041">More than 25 years after the 1985 General Social Survey, some aspects of social networks have changed while others remain the same. People still tend to associate with others who are like themselves, resulting in homophilous social networks (McPherson et al.,<link linkend="ch0025s0000li0040">2001</link>). However, homophily limits exposure to new ideas, attitudes, beliefs, and behaviors. Further, the tendency toward homophily can exacerbate divisions between groups. More recent research has taken a closer look at the impact of SES, diversity, and equity in social networks.</para>
+      <anchor id="ch0025s0000a0031"/>
+      <beginpage pagenum="145"/>
+      <para id="ch0025s0000p0042">Access to social capital, or the resources accessed in social networks, may vary based on group membership and network position. Since higher‐SES individuals generally have larger and more diverse networks, they are more likely to attain higher status and access to more resources, educational advancement, and employment opportunities. Cross‐SES ties, where low‐SES and high‐SES individuals are connected, can bridge homophilous SES groups and benefit lower‐SES individuals by increasing their social capital. These friendships can positively influence norms, aspirations, education outcomes, and career opportunities (DiMaggio &amp; Garip,<link linkend="ch0025s0000li0026">2012</link>). Increasing heterophily in social networks during childhood and adolescence could thus potentially benefit lower‐SES students by providing access to more resources, positioning these students for greater socioeconomic attainment. Unfortunately, existing social structures tend to exacerbate social capital inequalities rather than ameliorate them (Chetty et al., <link linkend="ch0025s0000li0016">2022</link>).</para>
+   </sect2>
+</sect1>

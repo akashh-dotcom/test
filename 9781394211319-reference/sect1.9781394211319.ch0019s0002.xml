@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0019s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0019s0001</risprev>
+         <riscurrent>sect1.9781394211319.ch0019s0002</riscurrent>
+         <risnext>sect1.9781394211319.ch0019s0003</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0019</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Measurement of TRA, TPB, IM, and RAA Constructs</title>
+   <anchor id="ch0019s0002a0001"/>
+   <anchor id="ch0019s0000a0026"/>
+   <para id="ch0019s0000p0017">In the formative stages of program or intervention development, application of reasoned action theories can help identify important pathways to behavioral intention as well as the specific beliefs within those pathways that are relevant for intention formation (Cappella et al.,<link linkend="ch0019s0000li0021">2001</link>). This is a common theme across these theories and can guide identification of intervention and communication strategies that address the salient pathways and beliefs. In evaluation stages, the theories are also useful for guiding analyses to explain intervention and program effects (Yzer, <link linkend="ch0019s0000li0073">2017</link>). This is possible, in part, because processes for measuring the theoretical constructs in RAA are well‐prescribed (Bleakley &amp; Hennessy, <link linkend="ch0019s0000li0017">2012</link>; Fishbein &amp; Ajzen, <link linkend="ch0019s0000li0032">2010</link>; Hennessy et al., <link linkend="ch0019s0000li0042">2012</link>). <anchor id="ch0019s0000a0027"/>
+      <link linkend="ch0019s0000a0028">Table 6.2</link> includes the direct and indirect measures for each model component, their definition, and examples of commonly used wording. The measures fall into two categories: <emphasis>direct</emphasis> and <emphasis>indirect</emphasis>. <emphasis>Direct measures</emphasis> are those of attitudes, perceived norms, and PBC, the three primary or proximal determinants of intention (these may also be referred to as <emphasis>global or universal measures</emphasis>). The wording of these items does not vary across different target behaviors. <emphasis>Indirect measures</emphasis> are those assessing the underlying beliefs: wording of these items is specific to each target behavior. Usually, direct and indirect items are measured on a 5‐point or 7‐point scale, although scoring may vary from either 1 to 7 or −3 to 3. Composite measures of the beliefs for each proximal determinant should correlate with that determinant.</para>
+   <para id="ch0019s0000p0018">
+      <emphasis>Intention</emphasis>. Measures of behavioral intention represent an individual’s readiness to perform the behavior, which includes aspects of willingness and expectation. Various wording is used in intention items, which can be framed as statements such as “I will [<emphasis>perform the behavior</emphasis>],” “I intend to [<emphasis>perform the behavior</emphasis>],” “I plan to [<emphasis>perform the behavior</emphasis>],” or questions such as “How likely are you to [<emphasis>perform the behavior</emphasis>]?” Responses are typically on a seven‐point scale with response options based on a Likert index (Likert, <link linkend="ch0019s0000li0048">1932</link>). Thus, respondents indicate their level of agreement with statements ranging from “strongly disagree” to “strongly agree” on a 7‐point or 5‐point scale.</para>
+   <para id="ch0019s0000p0019">
+      <emphasis>Attitudes</emphasis> are specific to the behavior of interest and reflect the extent to which an object or behavior is evaluated favorably or unfavorably. They are determined by salient <emphasis>behavioral beliefs</emphasis> weighted by evaluations of the attribute or outcome. These beliefs focus on expectations about the likely outcomes of performing (or not performing) the target behavior. The more one believes that the behavior will <ulink type="drug" url="link.aspx?id=14726">lead</ulink> to positive consequences and prevent negative ones, the more favorable the attitude toward the behavior.</para>
+   <para id="ch0019s0000p0020">Attitudes are measured using a series of semantic differential items that use pairs relevant to a particular behavior and ask respondents to rate each item using a scale with opposite adjectives at each end (such as easy‐hard, ugly‐beautiful, safe‐dangerous). The series of items should result in a unidimensional scale that evaluates the object or behavior according to positive and negative valence. However, attitude items may be classified into two factors: experiential (e.g., unpleasant‐pleasant) and instrumental (e.g., harmful‐beneficial) evaluations. Some commonly used pairs for the semantic differential items include good‐bad, unpleasant‐pleasant, foolish‐wise, and harmful‐beneficial. Other adjectives can also be added as additional items that are relevant to the target behavior of interest.</para>
+   <table id="ch0019s0000t0002">
+      <title>
+         <emphasis role="figureLabel">
+            <anchor id="ch0019s0000a0028"/>
+            <link linkend="ch0019s0000a0027">
+               <emphasis role="strong">Table 6.2</emphasis>
+            </link>
+         </emphasis> RAA Construct Definitions, Measures, and Example Wording
+</title>
+      <tgroup cols="4">
+         <tbody>
+            <row>
+               <entry>Construct</entry>
+               <entry>Definition</entry>
+               <entry>Measure</entry>
+               <entry>Item Wording Examples</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Attitude</emphasis>
+                  </emphasis>
+               </entry>
+               <entry/>
+               <entry>
+                  <emphasis role="strong">5‐ or 7‐ point scale</emphasis>
+               </entry>
+               <entry/>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">Direct measures</emphasis>
+               </entry>
+               <entry/>
+               <entry>Semantic differentials</entry>
+               <entry/>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Experiential attitude</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Overall evaluation of the positive or negative experiences of engaging the behavior</entry>
+               <entry>E.g., pleasant/ unpleasant; enjoyable/ unenjoyable</entry>
+               <entry>[<emphasis>Performing the behavior</emphasis>] is…<?lb?> Please rate whether [<emphasis>performing the behavior</emphasis>] would be …</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Instrumental attitude</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Overall evaluation of positive or negative consequences of performing the behavior</entry>
+               <entry>E.g., good/bad; wise/foolish</entry>
+               <entry>[<emphasis>Performing the behavior</emphasis>] is…<?lb?> Please rate whether <emphasis>[performing the behavior]</emphasis> would be…</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">Indirect measures</emphasis>
+               </entry>
+               <entry/>
+               <entry>Likert</entry>
+               <entry/>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Behavioral beliefs</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Belief that behavioral performance is associated with certain attributes or outcomes</entry>
+               <entry>Extremely unlikely to extremely likely</entry>
+               <entry>How likely do you think each of the following are? If I were to [<emphasis>perform the behavior</emphasis>], it would…<?lb?><?lb?> If you were to [<emphasis>perform the behavior</emphasis>], it would…</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Evaluation</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Value attached to a behavioral outcome or attribute</entry>
+               <entry>Bad to good</entry>
+               <entry>[<emphasis>Behavioral outcome mentioned in belief]</emphasis> would be a bad/good result of [<emphasis>performing the behavior</emphasis>]?</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Perceived norm</emphasis>
+                  </emphasis>
+               </entry>
+               <entry/>
+               <entry/>
+               <entry/>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">Direct measures</emphasis>
+               </entry>
+               <entry/>
+               <entry>Likert</entry>
+               <entry/>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Injunctive norm</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Belief about whether most people important to individual approves or disapproves of the behavior</entry>
+               <entry>Think I should not/Think I should<?lb?> Strongly disapprove/strongly approve</entry>
+               <entry>Most people important to me think I should/should not [<emphasis>perform the behavior</emphasis>] or would approve/disapprove of me [<emphasis>performing the behavior</emphasis>].<?lb?> Most people who are important to me want me to [<emphasis>perform the behavior</emphasis>].</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Descriptive norm</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Belief about whether most people perform the behavior</entry>
+               <entry>“Most people like me will not” to “Most people like me will”</entry>
+               <entry>How many people like you will [<emphasis>perform the behavior</emphasis>]?</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">Indirect measures</emphasis>
+               </entry>
+               <entry/>
+               <entry>Likert</entry>
+               <entry/>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Injunctive belief</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Belief about whether each referent approves or disapproves of the behavior</entry>
+               <entry>SD/SA</entry>
+               <entry>[<emphasis>Referent</emphasis>] thinks that I should [<emphasis>perform the behavior</emphasis>].</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Motivation to comply</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Motivation to do what each referent thinks</entry>
+               <entry>SD/SA</entry>
+               <entry>In general, I want to do what my [<emphasis>referent</emphasis>] wants me to do.</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Descriptive belief</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Belief about whether each referent performs the behavior</entry>
+               <entry>SD/SA<?lb?> None, a few, some, a lot, all<anchor id="ch0019s0000a0029"/>
+                  <link linkend="ch0019s0000a0030">
+                     <superscript>a</superscript>
+                  </link>
+               </entry>
+               <entry>My [<emphasis>referent group</emphasis>] [<emphasis>performs the behavior</emphasis>].<?lb?> About how many of the following people or groups do you think would [<emphasis>perform the behavior</emphasis>]?</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Perceived behavioral control</emphasis>
+                  </emphasis>
+               </entry>
+               <entry/>
+               <entry/>
+               <entry/>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">Direct measures</emphasis>
+               </entry>
+               <entry/>
+               <entry>Likert</entry>
+               <entry/>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Capacity</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Belief about ability to perform the behavior and the perceived ease or difficulty of performing the behavior</entry>
+               <entry>SD/SA<?lb?><?lb?> “Certain I could <emphasis>not</emphasis>” to “certain I could”</entry>
+               <entry>I am confident/I am certain that I can [<emphasis>perform the behavior]</emphasis>.<?lb?> If you really wanted to, how certain are you that you could [<emphasis>perform the behavior</emphasis>]?</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Autonomy</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Belief about the degree of control over performing the behavior</entry>
+               <entry>“Not at all up to me” to “Completely up to me”<?lb?><?lb?> SD/SA</entry>
+               <entry>It is not at all up to me/completely up to me whether I [<emphasis>perform the behavior</emphasis>].<?lb?><?lb?> I have complete control over [<emphasis>performing the behavior</emphasis>].</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">Indirect measures</emphasis>
+               </entry>
+               <entry/>
+               <entry>Likert</entry>
+               <entry/>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Control beliefs</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Belief about factors that can impede or facilitate performing the behavior</entry>
+               <entry>“Certain I could<emphasis>not”</emphasis> to “Certain I could for overall behavior” (Self‐efficacy)<?lb?> SD/SA<?lb?> Overall behavior (Control)<?lb?> SD/SA</entry>
+               <entry>The following are some situations in which certain people might find it hard to [<emphasis>perform the behavior</emphasis>]. How certain are you that you could [<emphasis>perform the behavior</emphasis>] even if [<emphasis>barriers or facilitators present]?</emphasis>
+<?lb?>
+<?lb?> I will have [<emphasis>the control factor</emphasis>].</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Power of control</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Belief in the factor’s power to facilitate or impede behavioral performance</entry>
+               <entry>Difficult to easy</entry>
+               <entry>[<emphasis>The factor</emphasis>] would make [<emphasis>performing the behavior</emphasis>] …</entry>
+            </row>
+            <row>
+               <entry>
+                  <emphasis role="strong">
+                     <emphasis>Intention</emphasis>
+                  </emphasis>
+               </entry>
+               <entry>Perceived readiness of performing the behavior</entry>
+               <entry>Extremely unlikely to extremely likely</entry>
+               <entry>How likely are you to [<emphasis>behavior</emphasis>]…?<?lb?><?lb?> I intend to [<emphasis>perform the behavior</emphasis>]. </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para role="table-footnote">
+      <superscript>
+         <link linkend="ch0019s0000a0029">
+            <emphasis role="strong">a</emphasis>
+         </link>
+      </superscript>
+      <anchor id="ch0019s0000a0030"/> Not Likert scale; SD/SA = Strongly disagree to strongly agree.</para>
+   <para id="ch0019s0000p0021">
+      <emphasis>Perceived norms,</emphasis> or perceived social pressure, refers to perceptions about what others think and do with regard to performing the behavior, reflecting the contribution of both injunctive and descriptive normative influences. Normative pressure is determined by underlying <emphasis>normative beliefs</emphasis> that refer (1) to whether important referents approve or disapprove of performing the behavior, weighted by their motivation to comply with the referents (i.e., injunctive norms), and (2) beliefs about whether similar others are performing or not performing the behavior (i.e., descriptive norms).</para>
+   <anchor id="ch0019s0000a0031"/>
+   <beginpage pagenum="62"/>
+   <anchor id="ch0019s0000a0032"/>
+   <beginpage pagenum="63"/>
+   <para id="ch0019s0000p0022">Direct measures of norms capture the injunctive and descriptive components of normative pressure. The injunctive norm item deals with approval or disapproval from “important people in your life,” whereas the descriptive normative item(s) refers to perceptions about whether others, and what percentage of others like the individual are performing the behavior.</para>
+   <para id="ch0019s0000p0023">
+      <emphasis>PBC</emphasis> is based on beliefs about capacity to perform the behavior in the presence of barriers and the autonomy to do so. <emphasis>Control beliefs</emphasis> emphasize the ability to perform the behavior and the perceived ease or difficulty of doing so, as well as the degree of control over performing the behavior. PBC is often used as a proxy for actual control when contextual factors, skills, and abilities are not measured. <emphasis>Self‐efficacy</emphasis> (Bandura, <link linkend="ch0019s0000li0016">1986</link>) is another way to describe beliefs about capabilities and is conceptually indistinguishable from PBC (Fishbein &amp; Ajzen, <link linkend="ch0019s0000li0032">2010</link>), although it has distinct measures. <emphasis>Efficacy beliefs</emphasis> are based on perceptions about factors that can impede or facilitate performing the behavior.</para>
+   <para id="ch0019s0000p0024">Direct measures of PBC reflect perceived capabilities to perform the behavior. Aspects of autonomy and capacity are captured in a combination of items that ask about the extent to which behavioral performance is up to an individual and/or under their control. Self‐efficacy measures are also used to measure PBC, and are often used to operationalize autonomy (McEachan et al.,<link linkend="ch0019s0000li0052">2016</link>).</para>
+   <sect2 id="ch0019s0002s0000">
+      <title>Constructing Indirect Measures Using Elicitation Research</title>
+      <anchor id="ch0019s0002a0002"/>
+      <anchor id="ch0019s0000a0033"/>
+      <para id="ch0019s0000p0025">Direct measures in RAA generally are standardized across behaviors, but underlying beliefs for each of the corresponding constructs should be specific to the target behavior.<emphasis>Elicitation research</emphasis> should be conducted to identify which beliefs are important to the population of interest for a particular behavior (Erbe et al., <link linkend="ch0019s0000li0030">2020</link>; Vézina‐Im et al., <link linkend="ch0019s0000li0068">2021</link>). Elicitation research is crucial to determine salient beliefs that are potentially modifiable and can be incorporated into persuasive health messaging (Yzer, <link linkend="ch0019s0000li0072">2012</link>) and intervention design. When new elicitation research is not feasible (it can be labor‐intensive and costly), scientific literature and other studies of the same behavior in the same or similar populations can be used to generate a list of beliefs that will likely be relevant.</para>
+      <para id="ch0019s0000p0026">An elicitation study can be conducted using focus groups or interviews, although interviews are preferred because they involve open‐ended discussion and center participants’ perspectives to identify relevant beliefs. To elicit underlying behavioral beliefs, individuals are asked about “good things” (advantages) and “bad things” (disadvantages) that would happen if they were to perform the behavior. For normative beliefs, important referents who might approve or disapprove of performing the behavior are listed (e.g., spouse/partner, family doctor). Referents for descriptive norms are elicited by asking about groups performing the behavior and/or groups that might be relied upon by the individual in figuring out whether s/he will perform the behavior.<emphasis>Barriers</emphasis> (“what makes it hard”) to performing the behavior and <emphasis>facilitators</emphasis> (“what makes it easy”) often are elicited to represent control beliefs.</para>
+      <para id="ch0019s0000p0027">
+         <emphasis>Behavioral beliefs</emphasis> are measured through extent of agreement with statements about the consequences of performing a behavior. Beliefs incorporate the same aspects of the behavior mentioned in measures of the proximal determinant and intention (TACT). Each belief/consequence/expectation is then <emphasis>evaluated</emphasis> as being a good thing or a bad thing, also on a 5‐ to 7‐point scale. Evaluation and beliefs item scores are then multiplied. Often, evaluation of a particular expectation is straightforward—some consequences are inherently negative (e.g., getting <ulink type="disease" url="link.aspx?id=3615">lung cancer</ulink> from smoking) or positive (e.g., feeling less stressed after exercise), and a separate evaluation item is not necessary. Others may require a more <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=Formal">formal</ulink> evaluation. For example, adolescents’ evaluation of “losing their virginity” because of having sex could be perceived by some as good and by others as negative. The product terms can be summed to create a composite measure of beliefs.</para>
+      <para id="ch0019s0000p0028">
+         <emphasis>Normative beliefs</emphasis>. Injunctive normative beliefs assess the extent to which each identified social referent (ideally elicited as “important” approves or disapproves of the individual performing the behavior). <emphasis>Motivation to comply</emphasis> with each of the referents is assessed using a unipolar scale and multiplied by the normative belief. Although motivation to comply appears in RAA, it rarely is used. Empirical evidence has not supported its contribution to the prediction of injunctive norms (Fishbein &amp; Ajzen, <link linkend="ch0019s0000li0032">2010</link>). Descriptive normative belief items ask about perceptions of whether specific referents are performing the behavior.</para>
+      <anchor id="ch0019s0000a0034"/>
+      <beginpage pagenum="64"/>
+      <para id="ch0019s0000p0029">
+         <emphasis>Control beliefs</emphasis>. These are items to assess perceived presence of barriers and facilitators and the extent to which they impede or foster the behavior. More specifically, control beliefs comprise two measures for each control factor (barrier or facilitator): (1) assessments of the <emphasis>belief strength</emphasis> regarding the presence of specific control factors and the <emphasis>power of (specific) control</emphasis> factors to facilitate or impede behavioral performance.</para>
+   </sect2>
+</sect1>

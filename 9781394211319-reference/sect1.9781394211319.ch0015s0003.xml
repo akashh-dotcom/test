@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0015s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0015s0002</risprev>
+         <riscurrent>sect1.9781394211319.ch0015s0003</riscurrent>
+         <risnext>sect1.9781394211319.ch0015s0004</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0015</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Ecological Models in Practice</title>
+   <anchor id="ch0015s0003a0001"/>
+   <anchor id="ch0015s0000a0017"/>
+   <para id="ch0015s0000p0025">Like other theories and frameworks of health behavior, ecological models generally are used in one of two ways: (1) to explain the antecedents—that is, the determinants, or the causes or etiology—of a health behavior; or, (2) as a framework to guide the design of health promotion interventions targeting multiple levels of influence on health behaviors (<emphasis>multilevel interventions</emphasis>). Using ecological models to guide the design of multilevel interventions typically assumes that the antecedents have already been identified. That is, it would be unwise to use the ecological model to inform multilevel intervention development if an analysis to understand the specific elements of the different levels that influence particular health behaviors has not already been conducted. (see <ulink url="ch0035">Chapter 19</ulink>, Theory‐Based Planning Models, for in‐depth treatment of this idea.)</para>
+   <sect2 id="ch0015s0003s0000">
+      <title>Ecological Models for Explaining Antecedents of Health Behaviors</title>
+      <anchor id="ch0015s0003a0002"/>
+      <anchor id="ch0015s0000a0018"/>
+      <para id="ch0015s0000p0026">There are several ways to move from the general framework provided by an ecological model to a behavior‐specific one (see<link linkend="ch0015s0000a0013">Figure 3.1</link>). First, virtually any of the theories presented in this book can be incorporated into an ecological model. Suppose, for example, that a team of researchers wants to develop a version of the ecological model specific to teenage smoking. Evidence shows that the Theory of Planned Behavior (TPB and the Reasoned Action Approach, see <ulink url="ch0019">Chapter 6</ulink>) is useful for understanding teenage smoking. So the investigators decide to use TPB in its entirety to fill in the intrapersonal and interpersonal levels of the model (see also <ulink url="ch0025">Chapter 11</ulink>, Social Networks). For the remaining levels, there is epidemiological evidence that may help explain societal and community‐level factors that influence teenage smoking (Calo &amp; Krasny, <link linkend="ch0015s0000li0020">2013</link>). Most health behaviors have sufficient evidence at this point to begin to flesh out the higher levels of an ecological model.</para>
+      <para id="ch0015s0000p0027">An important caveat to the approach outlined above is that where behavior‐specific ecological models are created based on existing research measuring single‐level influences on behavior, they do not stand alone as tests of the model in its entirety, that is, at all levels. This is a crucial information gap because for most health behaviors, we lack data to examine the combined or interactive effects of factors at all levels. Simultaneously testing the interactive impact of all factors at all levels on a given health behavior is challenging. Nonetheless, there are good examples of how evidence of the ecological influences of a given health behavior has been generated via independent yet interconnected studies. Perhaps, the best example is tobacco control research. Studies have been conducted assessing different levels (or combinations of levels) and with varying study designs that have informed the next steps for research at other levels (US National <ulink type="disease" url="link.aspx?id=4181">Cancer</ulink> Institute,<link linkend="ch0015s0000li0059">2017</link>).</para>
+   </sect2>
+   <sect2 id="ch0015s0003s0001">
+      <title>Ecological Models for Informing Multilevel Interventions</title>
+      <anchor id="ch0015s0003a0003"/>
+      <anchor id="ch0015s0000a0019"/>
+      <para id="ch0015s0000p0028">As with explanatory research, it is possible to synthesize existing intervention studies with an ecological framework to inform future multilevel intervention work. Historically, most health behavior interventions focused on a single level of the ecological model, with earlier work most often centered on individual and interpersonal strategies for behavior change. Since 2006, however, researchers have increasingly invoked ecological models that emphasize environmental change such as the built environment or public policy (Holman et al.,<link linkend="ch0015s0000li0033">2018</link>). This is evidence of the robust influence of ecological models for designing and implementing strategies to improve health behaviors in populations. Further, since 2006, we have witnessed a rapid increase in multilevel intervention studies (Holman et al., <link linkend="ch0015s0000li0033">2018</link>). Some of the most visible examples come from tobacco control, nutrition, and physical activity research.</para>
+      <anchor id="ch0015s0000a0020"/>
+      <beginpage pagenum="28"/>
+      <para id="ch0015s0000p0029">It can be challenging to implement multilevel interventions. Sallis (<link linkend="ch0015s0000li0051">2018</link>) recently addressed this issue. He noted that although groups of individuals can affect the higher levels of the ecological model (environments, policies), and that scientific evidence can and often does play a role in shaping these changes, when it comes to single research projects, investigators may lack direct control over these types of factors. For example, it is not realistic to design and implement a built environment or state policy intervention as part of a short‐term funded research project in the same controlled fashion that is possible for an interpersonal intervention, with a randomized controlled study design. This is because the unit of randomization and intervention would be neighborhoods or cities. Because this is financially and/or practically impossible, interventionists interested in empirically testing the effect of factors at the higher levels of the ecological model on health behaviors often use “windows of opportunity,” and study large‐scale environmental and policy using designs called “natural experiments.” Examples of this type of study include a natural experiment to evaluate a new light rail system in Seattle (Saelens et al., <link linkend="ch0015s0000li0068">2022</link>) and studies of state and local restaurant menu labeling policies (VanEpps et al., <link linkend="ch0015s0000li0067">2016</link>). Because these policy and built environment intervention strategies target individuals both directly and indirectly via changes in the food and transportation environments, they make it possible to conduct opportunistic multilevel intervention trials.</para>
+      <para id="ch0015s0000p0030">All this is not to say that there are no good examples of investigator‐led multilevel interventions. For example, a recent study by Glanz and colleagues demonstrated that interpersonal educational strategies combined with modifications to the built environment in public swimming pools (physical prompts and signage, sunscreen stations, and increased shading structures) were successful in improving <ulink type="disease" url="link.aspx?id=5571">skin cancer</ulink> preventive environments and behaviors (Glanz et al.,<link linkend="ch0015s0000li0030">2015</link>). Branas and colleagues conducted a randomized trial of the greening of vacant lots in Philadelphia in partnership with the City and a nonprofit community group, and found reductions in crime, increased perceptions of safety and improved quality of life in neighborhoods where blighted land was remediated (Branas et al., <link linkend="ch0015s0000li0017">2018</link>).</para>
+      <para id="ch0015s0000p0031">There are other examples of successful investigator‐led multilevel interventions that do not rely on natural experiments. However, most focus on relatively proximal levels of influence on the individual (interpersonal strategies plus organizational setting policy and asset changes; versus changing the urban landscape of entire cities or passing laws at the municipal, state or national levels) (Parkinson et al.,<link linkend="ch0015s0000li0049">2022</link>; Stotz et al., <link linkend="ch0015s0000li0057">2021</link>). Successfully designing and implementing investigator‐driven multilevel interventions typically requires a long‐term commitment and strong engagement with community or organizational partnerships (schools, churches, swimming pools, workplaces, urban planners, healthcare organizations, and nongovernmental organizations).</para>
+   </sect2>
+   <sect2 id="ch0015s0003s0002">
+      <title>Ecological Models for Informing Measurement</title>
+      <anchor id="ch0015s0003a0004"/>
+      <anchor id="ch0015s0000a0021"/>
+      <para id="ch0015s0000p0032">Another use of ecological models, relevant for both antecedent and intervention work, is to guide decisions about what should be measured in a research study or program evaluation (Elder et al.,<link linkend="ch0015s0000li0025">2007</link>; Ogilvie et al., <link linkend="ch0015s0000li0047">2011</link>). For example, a researcher might be designing a worksite intervention to promote physical activity. The intervention will target the built and social environments by providing new designated spaces for organized, instructor‐led exercise classes. It will also target the individual level through email prompts and goal‐setting tools. Other factors at various levels, like the out‐of‐work social network of employees, their home neighborhood environment, or broader city policies, will not be targeted by the intervention. However, the investigators know that these factors can influence physical activity behaviors and thus decide to measure them so they can adjust their analyses accordingly (remove the influence of these variables as potential confounders, so the unbiased effect of the intervention can be assessed). In some cases, they may even want to determine whether some of these factors occurring at other levels of the ecological model affect the success of their intervention strategies. For example, the research team may be interested in finding out if their intervention works better for women versus men, younger versus older employees, or for those living further versus nearer to work.</para>
+      <anchor id="ch0015s0000a0022"/>
+      <beginpage pagenum="29"/>
+   </sect2>
+</sect1>

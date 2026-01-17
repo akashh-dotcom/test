@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0013s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0013s0002</risprev>
+         <riscurrent>sect1.9781394211319.ch0013s0003</riscurrent>
+         <risnext>sect1.9781394211319.ch0013s0004</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0013</chapterid>
+         <chaptertitle>CHAPTER 1THE SCOPE OF HEALTH BEHAVIOR</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Settings and Audiences for Health Behavior Change</title>
+   <anchor id="ch0013s0003a0001"/>
+   <anchor id="ch0013s0000a0014"/>
+   <para>Public health professionals work around the world, in a variety of settings, including schools, worksites, government and nongovernmental organizations (including voluntary health organizations), medical and dental settings, and communities and community organizations. Even professionals not in the health field may influence health behaviors. Applications in the book offer many examples of different settings, health problems, and the role of theory in addressing them. During the past century, and more specifically during the past few decades, the scope and methods of health behavior change strategies have broadened and diversified dramatically. This section briefly reviews the range of settings and audiences for health behavior change today.</para>
+   <itemizedlist id="ch0013s0000l0001" mark="none" role="none">
+      <listitem id="ch0013s0000li0001">
+         <para>
+            <emphasis>Settings</emphasis>: Health behavior interventions can occur almost anywhere. Seven major settings are particularly relevant to contemporary health behavior: schools, communities, worksites, healthcare settings, where people live, where people worship, the consumer marketplace, and the communications environment. Policy interventions may be delivered at the level of governments and other organizations. Examples of types of interventions in these settings are shown in <anchor id="ch0013s0000a0015"/>
+            <link linkend="ch0013s0000a0018">Table 1.1</link>.</para>
+      </listitem>
+      <listitem id="ch0013s0000li0002">
+         <para>
+            <emphasis>Audiences</emphasis>: For health behavior change interventions to be effective, strategies should be designed with an understanding of the recipients, or audiences, their health, cultural context, and social characteristics, and their beliefs, attitudes, values, skills, and past behaviors. These audiences consist of people who may be reached as individuals, in groups, through organizations, as communities or sociopolitical entities, or through some combination of these. They may be health professionals, clients, people <ulink type="disease" url="link.aspx?id=10304">at risk</ulink> for disease, or patients. <anchor id="ch0013s0000a0016"/>
+            <link linkend="ch0013s0000a0019">Table 1.2</link> describes four dimensions along which the potential audiences can be characterized: social determinants of health (Adler et al., <link linkend="ch0013s0000li0032">2016</link>; Centers for Disease Control, <link linkend="ch0013s0000li0034">2023</link>; World Health Organization, <link linkend="ch0013s0000li0060">2023c</link>), ethnic or racial background, life cycle stage, and disease or at‐risk status.</para>
+      </listitem>
+   </itemizedlist>
+   <anchor id="ch0013s0000a0017"/>
+   <beginpage pagenum="7"/>
+   <table id="ch0013s0000t0001">
+      <title>
+         <emphasis role="figureLabel">
+            <anchor id="ch0013s0000a0018"/>
+            <link linkend="ch0013s0000a0015">
+               <emphasis role="strong">Table 1.1</emphasis>
+            </link>
+         </emphasis> Settings for Health Behavior Interventions
+</title>
+      <tgroup cols="2">
+         <tbody>
+            <row>
+               <entry>Settings</entry>
+               <entry>Key Types of Interventions</entry>
+            </row>
+            <row>
+               <entry>Schools</entry>
+               <entry>
+                  <itemizedlist id="ch0013s0000l0002">
+                     <listitem id="ch0013s0000li0003">
+                        <para>Changes in school environment and policies</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0004">
+                        <para>Capacity‐building among school personnel (e.g., teachers)</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0005">
+                        <para>Inclusion/interventions through existing or new curricula</para>
+                     </listitem>
+                  </itemizedlist>
+               </entry>
+            </row>
+            <row>
+               <entry>Worksites</entry>
+               <entry>
+                  <itemizedlist id="ch0013s0000l0003">
+                     <listitem id="ch0013s0000li0006">
+                        <para>Workplace conditions that constrain or facilitate worker health behaviors</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0007">
+                        <para>Total Worker Health: Integration of workplace safety with health promotion</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0008">
+                        <para>Workplace wellness and well‐being programs to change lifestyles</para>
+                     </listitem>
+                  </itemizedlist>
+               </entry>
+            </row>
+            <row>
+               <entry>Healthcare Settings</entry>
+               <entry>
+                  <itemizedlist id="ch0013s0000l0004">
+                     <listitem id="ch0013s0000li0009">
+                        <para>Programs for high‐risk patients and their families and caregivers</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0010">
+                        <para>In‐service training for healthcare providers</para>
+                     </listitem>
+                  </itemizedlist>
+               </entry>
+            </row>
+            <row>
+               <entry>Communities</entry>
+               <entry>
+                  <itemizedlist id="ch0013s0000l0005">
+                     <listitem id="ch0013s0000li0011">
+                        <para>Community engagement and community mobilization for program design and delivery</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0012">
+                        <para>Examples of community‐based organizations as partners include churches, clubs, recreation centers, and neighborhoods</para>
+                     </listitem>
+                  </itemizedlist>
+               </entry>
+            </row>
+            <row>
+               <entry>Consumer Marketplace</entry>
+               <entry>
+                  <itemizedlist id="ch0013s0000l0006">
+                     <listitem id="ch0013s0000li0013">
+                        <para>Choice architecture to make the easy choice the healthy choice (<ulink url="ch0036">Chapter 20</ulink>)</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0014">
+                        <para>Counter “commercial determinants” such as promotion of unhealthy lifestyles (e.g., fast food or tobacco)</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0015">
+                        <para>Use social marketing to encourage healthy lifestyle (<ulink url="ch0037">Chapter 21</ulink>)</para>
+                     </listitem>
+                  </itemizedlist>
+               </entry>
+            </row>
+            <row>
+               <entry>Communication Environment</entry>
+               <entry>
+                  <itemizedlist id="ch0013s0000l0007">
+                     <listitem id="ch0013s0000li0016">
+                        <para>Advances in information and communication technologies and cyber‐infrastructure provide opportunities to promote health</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0017">
+                        <para>Participatory communication technologies such as social media have been successfully used to promote health (<ulink url="ch0038">Chapter 22</ulink>)</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0018">
+                        <para>Mass media campaigns for countering misinformation, defining health, and promoting healthy behaviors (<ulink url="ch0032">Chapter 17</ulink>)</para>
+                     </listitem>
+                  </itemizedlist>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <table id="ch0013s0000t0002">
+      <title>
+         <emphasis role="figureLabel">
+            <anchor id="ch0013s0000a0019"/>
+            <link linkend="ch0013s0000a0016">
+               <emphasis role="strong">Table 1.2</emphasis>
+            </link>
+         </emphasis> Features of Audiences for Health Behavior Interventions
+</title>
+      <tgroup cols="2">
+         <tbody>
+            <row>
+               <entry>Audience Characteristics</entry>
+               <entry>Examples and Key Considerations</entry>
+            </row>
+            <row>
+               <entry>Social Determinants of Health (SDOH)<?lb?> (Adler et al., <link linkend="ch0013s0000li0032">2016</link>; WHO, <link linkend="ch0013s0000li0060">2023c</link>)</entry>
+               <entry>
+                  <itemizedlist id="ch0013s0000l0008">
+                     <listitem id="ch0013s0000li0019">
+                        <para>Nonmedical factors that influence health outcomes; conditions in which people are born, grow, work, live, and age</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0020">
+                        <para>Wider forces and systems shaping the conditions of daily life</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0021">
+                        <para>Include income, education, housing, access to health care</para>
+                     </listitem>
+                  </itemizedlist>
+               </entry>
+            </row>
+            <row>
+               <entry>Racial and Ethnic Background</entry>
+               <entry>
+                  <itemizedlist id="ch0013s0000l0009">
+                     <listitem id="ch0013s0000li0022">
+                        <para>As social constructs, closely aligned with SDOH</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0023">
+                        <para>Neighborhood racial distribution</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0024">
+                        <para>Segregation, structural racism</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0025">
+                        <para>Inequities in morbidity and mortality, often gender‐specific</para>
+                     </listitem>
+                  </itemizedlist>
+               </entry>
+            </row>
+            <row>
+               <entry>Life‐Cycle Stage</entry>
+               <entry>
+                  <itemizedlist id="ch0013s0000l0010">
+                     <listitem id="ch0013s0000li0026">
+                        <para>Developmental perspectives help guide intervention design and delivery</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0027">
+                        <para>Life‐course perspective is often aligned with determinants of behaviors, e.g., sense of vulnerability/invulnerability</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0028">
+                        <para>In the U.S., the aging population, including the very old, is increasing disproportionately</para>
+                     </listitem>
+                  </itemizedlist>
+               </entry>
+            </row>
+            <row>
+               <entry>At‐Risk and Disease Status</entry>
+               <entry>
+                  <itemizedlist id="ch0013s0000l0011">
+                     <listitem id="ch0013s0000li0029">
+                        <para>Risk factors often prompt greater use of health care</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0030">
+                        <para>Patients’ needs vary depending on the nature of their health problems—for example, acute or chronic, disabling or limiting</para>
+                     </listitem>
+                     <listitem id="ch0013s0000li0031">
+                        <para>Self‐care strategies can help with disease management and maintaining functional status</para>
+                     </listitem>
+                  </itemizedlist>
+               </entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+</sect1>

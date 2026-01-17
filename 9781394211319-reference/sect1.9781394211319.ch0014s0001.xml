@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0014s0001">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0014s0000</risprev>
+         <riscurrent>sect1.9781394211319.ch0014s0001</riscurrent>
+         <risnext>sect1.9781394211319.ch0014s0002</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0014</chapterid>
+         <chaptertitle>CHAPTER 2THEORY, RESEARCH, AND PRACTICE IN HEALTH BEHAVIOR</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>What is Theory?</title>
+   <anchor id="ch0014s0001a0001"/>
+   <anchor id="ch0014s0000a0006"/>
+   <para id="ch0014s0000p0009">A theory is a set of interrelated concepts, definitions, and propositions that present a<emphasis>systematic</emphasis> view of events or situations by specifying relations among variables, to <emphasis>explain</emphasis> and <emphasis>predict</emphasis> the events or situations. The notion of <emphasis>generality</emphasis>, or broad application, is important, as is <emphasis>testability</emphasis> (van Ryn &amp; Heaney, <link linkend="ch0014s0000li0099">1992</link>). Theories are <emphasis>abstract</emphasis>: they do not have a specified content or topic area. Like an empty coffee cup, they have a shape and boundaries but nothing concrete inside. They only come alive in public health and health behavior when they are filled with practical topics, goals, and problems.</para>
+   <para id="ch0014s0000p0010">A <ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=Formal">formal</ulink> theory—more an ideal than a reality—is a completely closed deductive system of propositions that identifies the interrelationships among concepts and is a systematic view of the phenomena (Blalock,<link linkend="ch0014s0000li0042">1969</link>; Kerlinger, <link linkend="ch0014s0000li0070">1986</link>). There is no such system in the social sciences or health promotion and education; it can only be approximated (Blalock, <link linkend="ch0014s0000li0042">1969</link>). Theory has been defined in a variety of ways, each consistent with Kerlinger’s definition. <anchor id="ch0014s0000a0008"/>
+      <link linkend="ch0014s0000a0009">Table 2.1</link> summarizes several definitions of theory. These definitions, put forth in the 1970s and 1980s, have stood the test of time.</para>
+   <anchor id="ch0014s0000a0007"/>
+   <beginpage pagenum="12"/>
+   <table id="ch0014s0000t0001">
+      <title>
+         <emphasis role="figureLabel">
+            <anchor id="ch0014s0000a0009"/>
+            <link linkend="ch0014s0000a0008">
+               <emphasis role="strong">Table 2.1</emphasis>
+            </link>
+         </emphasis> Definitions of Theory
+</title>
+      <tgroup cols="2">
+         <tbody>
+            <row>
+               <entry>Definition</entry>
+               <entry>Source</entry>
+            </row>
+            <row>
+               <entry>A set of interrelated constructs (concepts), definitions, and propositions that present a systematic view of phenomena by specifying relations among variables, with the purpose of explaining and predicting phenomena</entry>
+               <entry>Kerlinger (<link linkend="ch0014s0000li0070">1986</link>), p. 9</entry>
+            </row>
+            <row>
+               <entry>A systematic explanation for the observed facts and laws that relate to a particular aspect of life</entry>
+               <entry>Babbie (<link linkend="ch0014s0000li0039">1989</link>), p. 46</entry>
+            </row>
+            <row>
+               <entry>Knowledge writ large in the form of generalized abstractions applicable to a wide range of experiences</entry>
+               <entry>McGuire (<link linkend="ch0014s0000li0075">1983</link>), p. 2</entry>
+            </row>
+            <row>
+               <entry>A set of relatively abstract and general statements which collectively purport to explain some aspect of the empirical world</entry>
+               <entry>Chafetz (<link linkend="ch0014s0000li0045">1978</link>), p. 2</entry>
+            </row>
+            <row>
+               <entry>An abstract, symbolic representation of what is conceived to be reality—a set of abstract statements designed to “fit” some portion of the real world</entry>
+               <entry>Zimbardo et al. (<link linkend="ch0014s0000li0104">1977</link>), p. 53</entry>
+            </row>
+         </tbody>
+      </tgroup>
+   </table>
+   <para id="ch0014s0000p0011">Theories are useful during the stages of planning, implementing, and evaluating interventions. Program planners can use theories to shape the pursuit of answers to<emphasis>why? what? how?</emphasis> Theories can be used to guide the search for <emphasis>why</emphasis> people are not following public health and medical advice or not caring for themselves in healthy ways. They can help pinpoint <emphasis>what</emphasis> one needs to know before developing and organizing an intervention program. They can provide an insight into <emphasis>how</emphasis> to shape program strategies to reach people and organizations and make an impact on them. They also identify <emphasis>what</emphasis> should be monitored, measured, and/or compared in a program evaluation (Glanz et al., <link linkend="ch0014s0000li0057">1996</link>, <link linkend="ch0014s0000li0059">2002</link>).</para>
+   <para id="ch0014s0000p0012">Thus, theories and models<emphasis>explain</emphasis> behaviors and suggest ways to achieve behavior <emphasis>change</emphasis>. Explanatory theories, often called a <emphasis>theory of the problem</emphasis>, help describe and identify why a problem exists. These theories also predict behaviors under defined conditions. They guide the search for modifiable factors like knowledge, attitudes, self‐efficacy, social support, lack of resources, and so on. Change theories, or <emphasis>theories of action</emphasis>, guide the development of interventions. They also form the basis for evaluation, pushing evaluators to make explicit their assumptions about how a program should work. Implementation theories are change theories that link theory specifically to a given problem, audience, and context (Institute of Medicine, <link linkend="ch0014s0000li0068">2002</link>; see <ulink url="ch0031">Chapter 16</ulink>). Theories of the problem and theories of action often have different foci but are complementary.</para>
+   <para id="ch0014s0000p0013">Even though various theoretical models of health behavior may reflect the same general ideas, each theory employs a specific vocabulary to articulate the factors that define it. The<emphasis>why</emphasis> explains the processes by which changes occur in target variables. Theories vary in the extent to which they have been conceptually developed and empirically tested, and even the extent to which they can be proven.</para>
+   <para id="ch0014s0000p0014">As we discuss later in this chapter, many new theories and models have been and continue to be proposed in health behavior (Michie et al.,<link linkend="ch0014s0000li0080">2014</link>). The proliferation of theories in health behavior poses a challenge: when do we accept a theory as truly advancing understanding of a phenomenon? Sometimes, what appears to be a new theory is merely old wine in new bottles. An established theory should reflect a body of research testing it and supporting it by multiple scientists beyond the original developer(s). A new theory can be considered acceptable if it explains everything that the prior theories explain, provides explanation for phenomena that could <emphasis>not</emphasis> be explained by prior theories, and identifies conditions under which the theory could be falsified (Lakatos &amp; Musgrave, <link linkend="ch0014s0000li0073">1970</link>).</para>
+   <sect2 id="ch0014s0001s0000">
+      <title>Concepts, Constructs, and Variables</title>
+      <anchor id="ch0014s0001a0002"/>
+      <anchor id="ch0014s0000a0010"/>
+      <para id="ch0014s0000p0015">
+         <emphasis>Concepts</emphasis> are the major components of a theory; they are its building blocks or primary elements. Concepts can vary in the extent to which they have meaning and can be understood outside the context of a specific theory. When concepts are developed or adopted for use in a particular theory, they are called <emphasis>constructs</emphasis> (Kerlinger, <link linkend="ch0014s0000li0070">1986</link>). The term <emphasis>subjective normative belief</emphasis> is an example of a construct within Ajzen and Fishbein’s (<link linkend="ch0014s0000li0037">1980</link>) Theory of Reasoned Action (<ulink url="ch0019">Chapter 6</ulink>); the specific construct has a precise definition in the context of that theory. Another example of a construct is <emphasis>perceived susceptibility</emphasis> in the Health Belief Model (<ulink url="ch0018">Chapter 5</ulink>).</para>
+      <para id="ch0014s0000p0016">
+         <emphasis>Variables</emphasis> are the empirical counterparts or operational forms of constructs. They specify how a construct is to be measured in a specific situation. <emphasis>Variables</emphasis> should be matched to <emphasis>constructs</emphasis> when identifying what should be assessed in the evaluation of a theory‐driven program.</para>
+      <anchor id="ch0014s0000a0011"/>
+      <beginpage pagenum="13"/>
+   </sect2>
+   <sect2 id="ch0014s0001s0001">
+      <title>Principles</title>
+      <anchor id="ch0014s0001a0003"/>
+      <anchor id="ch0014s0000a0012"/>
+      <para id="ch0014s0000p0017">Theories go beyond principles. Principles are general guidelines for action, often articulated as assumptions. They are broad and nonspecific. Principles may be based on precedent, history,<emphasis>or</emphasis> on research. At their best, principles are based on accumulated research. In their best form, principles are the basis for hypotheses and serve as informed hunches about how or what we should do to obtain a desired outcome in a population. Principles should not be so broad that they invite multiple interpretations and are therefore unreliable. Nor should they be ambiguous so that they can be all things to all people.</para>
+   </sect2>
+   <sect2 id="ch0014s0001s0002">
+      <title>Models</title>
+      <anchor id="ch0014s0001a0004"/>
+      <anchor id="ch0014s0000a0013"/>
+      <para id="ch0014s0000p0018">Health behavior and guiding concepts for influencing it are far too complex to be explained by a single, unified theory.<emphasis>Models</emphasis> draw on multiple theories to understand a specific problem in a particular setting or context. Several models that support program planning processes are widely used in health promotion and education: Green and Kreuter’s PRECEDE‐PROCEED model (<link linkend="ch0014s0000li0064">2005</link>; see <ulink url="ch0035">Chapter 19</ulink>), social marketing (see <ulink url="ch0037">Chapter 21</ulink>), and ecological models (McLeroy et al., <link linkend="ch0014s0000li0076">1988</link>; see <ulink url="ch0015">Chapter 3</ulink>).</para>
+   </sect2>
+</sect1>

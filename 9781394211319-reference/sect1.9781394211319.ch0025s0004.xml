@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0025s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0025s0003</risprev>
+         <riscurrent>sect1.9781394211319.ch0025s0004</riscurrent>
+         <risnext>sect1.9781394211319.ch0025s0005</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0025</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Discussion and Conclusion</title>
+   <anchor id="ch0025s0004a0001"/>
+   <anchor id="ch0025s0000a0043"/>
+   <para id="ch0025s0000p0062">This brief introduction to SNT and SNA has described the many ways that social networks influence behavior and the challenges inherent in estimating these effects. These effects can be simple, such as being more likely to gain weight when exposed to overweight peers, or complex, such as being resistant to adopting radical innovations when occupying a central position in a centralized network. And, although social network concepts and diagrams can be quite intuitive, often considerable mathematical and computational methods undergird the work. The website for the INSNA can be a helpful starting point (<ulink url="http://www.insna.org">www.insna.org</ulink>).</para>
+   <para id="ch0025s0000p0063">The important takeaway from this chapter is that systems (including human ones) are composed of units that interact and are connected by many varying relations. These relations have patterns and structures that are increasingly well understood and shown to have profound and enduring influences on health behaviors. Studies and programs that ignore these relations miss out on the opportunity to advance the science of human behavior and, for interventions, potentially fall short of their true capacity to improve outcomes. SNT specifies the conditions under which people are more likely to be connected and influence one another. It also makes similar claims for organizations, states, inanimate objects, and many other entities. Applying this theory to other theories and to a vast array of health‐related domains promises to improve our understanding of how we can make populations healthier and more productive.</para>
+   <anchor id="ch0025s0000a0044"/>
+   <beginpage pagenum="149"/>
+   <figure float="0" id="ch0025s0000f0003">
+      <title>
+         <emphasis role="figureLabel">
+            <anchor id="ch0025s0000a0045"/>
+            <link linkend="ch0025s0000a0039">
+               <emphasis role="strong">Figure 11.3</emphasis>
+            </link>
+         </emphasis> (a) Student 191 is a Nonvaper at Time One with Three Reciprocated Friendships with 33% Exposure to Vapers. At Time Two He/She has Become a Vaper and Now has Named Five Friends who all Vape; (b) Student 133 is a Nonvaper at Time One with Four Friendships with 100% Exposure to Vapers. At Time Two He/She has Become a Vaper
+</title>
+      <mediaobject>
+         <imageobject>
+            <imagedata fileref="Ch0025f03.jpg" scalefit="1" width="100%"/>
+         </imageobject>
+         <textobject>
+            <para>Two network diagrams. a. Ego network at T1. b. Ego network at T2. Both diagrams consist of nodes connected by lines, representing relationships in a social network over two different periods, T1 and T2. In diagram a, there is one central node labeled 191 surrounded by four other nodes labeled 297, 276, 122, and 229. In diagram b, the central node 191 is again connected to multiple nodes. Nodes are differentiated by color for non-adopters, adopters, and new adopters.</para>
+         </textobject>
+      </mediaobject>
+   </figure>
+   <para id="ch0025s0000p0064">Much work remains to be done. The COVID‐19 pandemic exposed our limitations in instituting network interventions to slow the spread of the <ulink type="disease" url="link.aspx?id=9711">virus</ulink>, and new pathogens will similarly challenge us in the future. In addition, the widespread use of social and other media to spread misinformation resulted in countless unnecessary infections and subsequent deaths. These experiences suggest that improving public health will require combatting misinformation by making more effective use of social network and social networking interventions.</para>
+   <anchor id="ch0025s0000a0046"/>
+   <beginpage pagenum="150"/>
+   <para id="ch0025s0000p0065">SNT and SNA can also be used more fully to address equity, diversity, and inclusiveness across private and public sectors and help in understanding barriers and opportunities to create a just and equitable society. As our attitudes and behaviors regarding justice are strongly influenced by our social networks, we must tap into these influences to work toward a level playing field for members of disadvantaged communities.</para>
+   <para id="ch0025s0000p0066">Meanwhile, we need to continue basic research in network measures, processes, and effects across new and old public health challenges. For example, a cigarette use has emerged as a major public health threat, and emerging evidence indicates that, as with combustible tobacco use, social networks strongly influence its initiation and continued use. Also desperately needed are network interventions to promote healthcare access to reproductive health services and care being jeopardized in recent years.</para>
+   <para id="ch0025s0000p0067">Finally, we noted that SNT specifies how individual network choices affect macro‐level network structures. The converse, however, is also true: macro‐level policies and forces also have an impact on micro‐level network dynamics. For example, real‐estate racial segregation minimizes opportunities for cross‐racial social ties and can thus increase racial animosity. Macro‐level forces such as segregation policies, climate change, systemic racism, and poverty also have impacts on micro‐level network choices and structures, thus impacting individual health.</para>
+   <para id="ch0025s0000p0068">The road ahead will continue to be challenging, but the new tools of network analysis, combined with ML, AI, NLP, and big data offer opportunities to meet those challenges with tools up to the task.</para>
+</sect1>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0025s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0025s0001</risprev>
+         <riscurrent>sect1.9781394211319.ch0025s0002</riscurrent>
+         <risnext>sect1.9781394211319.ch0025s0003</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0025</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Social Media</title>
+   <anchor id="ch0025s0002a0001"/>
+   <anchor id="ch0025s0000a0032"/>
+   <para id="ch0025s0000p0043">Communities are increasingly being formed on the Internet, which removes the constraints of geography and time by enabling like‐minded people to communicate, share, collaborate, and coordinate on many levels. Technological developments have given rise to a new era of social media and online networks (see<ulink url="ch0038">Chapter 22</ulink>). To understand the role of these developments in SNA, we must first distinguish between the concepts of <emphasis>social networks</emphasis> and <emphasis>social networking</emphasis>. Social networks are the real‐life connections or ties between people or entities, while social networking is interacting with others using social media sites, such as Twitter (now called “X”), Facebook, and Instagram. There is significant overlap between the two terms, however, as most people interact on social media with others they know in real life or use social media to build new connections. One advantage of online social networks is that they are not limited by physical distance or proximity. They offer opportunities for people to connect with others, seek information and advice, and receive social support from virtually any location.</para>
+   <para id="ch0025s0000p0044">SNA tools are useful to study and understand the role of social media in society and its subsequent impact on public health. Several scientists capitalized on the availability of these tools and conducted experiments to determine whether network effects can be replicated online and whether marketers can accelerate diffusion using online networks (Hinz et al.,<link linkend="ch0025s0000li0032">2011</link>). They found that online networks can stimulate behavior changes and that these effects are stronger when influences on behavior come from close friends (Bond et al., <link linkend="ch0025s0000li0013">2012</link>). Although the effect sizes were less than those achieved via face‐to‐face interactions, the scale that is achievable on social media magnifies those effects substantially.</para>
+   <para id="ch0025s0000p0045">SNA can play an important role in characterizing and interpreting the online environment surrounding <ulink type="disease" url="link.aspx?id=10536">public health issues</ulink>. Such analysis, for example, can help us understand the marketing strategies that tobacco companies use on social media platforms to advertise e‐cigarettes and related products (Chu et al.,<link linkend="ch0025s0000li0020">2018</link>). SNA also can use online networks to examine the differences between social networks of smokers and those of nonsmokers (Fu et al., <link linkend="ch0025s0000li0029">2017</link>), provide insight into public perceptions of vaping products (Allem et al., <link linkend="ch0025s0000li0010">2018</link>), and even understand the reasons that people use tobacco or e‐cigarettes (Ayers et al., <link linkend="ch0025s0000li0011">2017</link>). Without physical limitations, online network‐based interventions can be designed to reach a wider audience. Network strategies can be used to design interventions to combat e‐cigarette marketing through targeted public health messaging and education campaigns on social media platforms (Chu et al., <link linkend="ch0025s0000li0019">2019</link>).</para>
+   <para id="ch0025s0000p0046">While social media and other online networks offer many advantages, they can also negatively impact public health by spreading misinformation. A recent systematic review found evidence of online misinformation pertaining to smoking products and drugs, <ulink type="drug" url="link.aspx?id=14154">vaccines</ulink>, diets, and diseases. In this study, Twitter (now “X”) was identified as the site with the highest prevalence of misinformation (Suarez‐Lledo &amp; Alvarez‐Galvez,<link linkend="ch0025s0000li0052">2021</link>). These network problems require network solutions (Young et al., <link linkend="ch0025s0000li0062">2021</link>).</para>
+</sect1>

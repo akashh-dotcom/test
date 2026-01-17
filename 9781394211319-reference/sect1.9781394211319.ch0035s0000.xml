@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0035s0000">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0035s0007</risprev>
+         <riscurrent>sect1.9781394211319.ch0035s0000</riscurrent>
+         <risnext>sect1.9781394211319.ch0035s0001</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0035</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Introduction</title>
+   <anchor id="ch0035s0000a0066"/>
+   <anchor id="ch0035s0000a0006"/>
+   <para id="ch0035s0000p0005">Planning frameworks and models guide program planners in the design of interventions to improve health and quality of life. They provide a series of steps and processes that help planners organize theory, evidence, and new data to inform program planning. These frameworks are particularly relevant in (1) helping planners apply health behavior and organizational theories to improve their understanding of the environmental and behavioral factors that influence health problems; and (2) designing interventions to address them.</para>
+   <para id="ch0035s0000p0006">We use the terms “framework” and “model” interchangeably throughout this chapter to mean a structure that elicits a hypothesized set of relationships among constructs and one or more behavior(s) or environmental factor(s) leading to health outcomes, and a set of processes to follow in the development of a health behavior or health promotion intervention.</para>
+   <para id="ch0035s0000p0007">Unlike<emphasis>theories</emphasis>, planning <emphasis>frameworks</emphasis> do not consist of a set of testable constructs and propositions that describe the relations between these constructs. A planning model is a scaffold or structure that provides an overview, or outline, of categories or concepts (Crosby &amp; Noar, <link linkend="ch0035s0000li0048">2011</link>); and often the steps to create, adapt, and evaluate interventions. Thus, while planning models often help incorporate and organize constructs of various theories, they are typically broader than individual theories, and they guide how theories should be applied to create change. They also help practitioners organize empirical evidence about the influences on health behavior and environment. The purpose of a planning framework, then, is to guide planners in identifying the full range of constructs that may be relevant for changing one or more behavior(s) and outcomes, describing the mechanisms through which change is likely to occur, and guiding the design of intervention components and materials.</para>
+   <para id="ch0035s0000p0008">A benefit of using planning models in intervention design is that they do not dictate the exact theory that should be used but instead, provide guidance about what types of theories<emphasis>can be</emphasis> used, and <emphasis>when</emphasis> and <emphasis>how</emphasis> to use theory. They can enable the use of constructs that are not explicitly theory‐based (Glanz &amp; Bishop, <link linkend="ch0035s0000li0053">2010</link>; Hilliard et al., <link linkend="ch0035s0000li0062">2018</link>) but can inform the planning process, providing guidance on several decisions in the intervention development process.</para>
+   <sect2 id="ch0035s0000s0000">
+      <title>Using Planning Models to Apply Health Behavior Theory</title>
+      <anchor id="ch0035s0000a0067"/>
+      <anchor id="ch0035s0000a0007"/>
+      <para id="ch0035s0000p0009">Public health professionals and researchers interested in developing, implementing, and evaluating<emphasis>interventions</emphasis> approach the use of theory in fundamentally different ways from that of researchers generating new or testing existing <emphasis>theories</emphasis>. In intervention development, the primary goal is to diagnose problems and create programs that influence health outcomes rather than theory‐testing (Bartholomew &amp; Mullen, <link linkend="ch0035s0000li0040">2011</link>); therefore, intervention developers often apply multiple theories and draw on empirical evidence and new research.</para>
+   </sect2>
+   <sect2 id="ch0035s0000s0001">
+      <title>PRECEDE‐PROCEED and Intervention Mapping</title>
+      <anchor id="ch0035s0000a0068"/>
+      <anchor id="ch0035s0000a0008"/>
+      <para id="ch0035s0000p0010">PRECEDE‐PROCEED and IM are among the most widely used planning frameworks across an array of health behaviors, populations, and settings and have been used by people with varying levels of training (Bartholomew et al.,<link linkend="ch0035s0000li0041">2016</link>; Green et al., <link linkend="ch0035s0000li0058">2022</link>). Both emphasize an ecological perspective and community engagement throughout the planning and implementation processes (Green et al., <link linkend="ch0035s0000li0058">2022</link>). PRECEDE‐PROCEED, with a longer history, follows a linear approach, emphasizing behavioral science theories to identify <emphasis>predisposing, enabling, and reinforcing</emphasis> factors that influence health behaviors. IM is an iterative six‐step planning process that integrates multiple theories and models to design a multi‐level intervention (behavioral, organizational, environmental). It places strong emphasis on understanding determinants of behavior, choosing theory‐based methods to create change and developing interventions and implementation strategies based on theory, evidence, and new data.</para>
+   </sect2>
+</sect1>

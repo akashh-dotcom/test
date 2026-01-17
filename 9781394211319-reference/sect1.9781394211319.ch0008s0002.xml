@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0008s0002">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0008s0001</risprev>
+         <riscurrent>sect1.9781394211319.ch0008s0002</riscurrent>
+         <risnext>sect1.9781394211319.</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0008</chapterid>
+         <chaptertitle>AudiencesPREFACE</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Acknowledgments</title>
+   <anchor id="ch0008s0000a0009"/>
+   <para id="ch0008s0000p0015">We owe deep gratitude to all the authors whose work is included in this book. They worked diligently with us to produce an integrated volume, and we greatly appreciate their willingness to tailor their contributions to realize the vision of the book. Their collective depth of knowledge and experience across the broad range of theories and topics far exceeds the expertise that the editors can claim.</para>
+   <para id="ch0008s0000p0016">We acknowledge authors who contributed to the first five editions of this book; although some of them did not write chapters for this edition, their intellectual contributions form an important foundation for this volume.</para>
+   <para id="ch0008s0000p0017">We pay special tribute to Dr. James Prochaska and Dr. Kay Bartholomew, luminaries in our field whose work appeared in earlier editions of this book who passed away since the last edition was published. Their work is an influential foundation for chapters in this edition that were written by their colleagues.</para>
+   <para id="ch0008s0000p0018">The editorial team at Wiley provided valuable support to us for development, production, and marketing of this edition. We also are grateful to Terra Ziporyn for her exceptional technical editing support for this edition.</para>
+   <para id="ch0008s0000p0019">The editors are indebted to their colleagues and students who, over the years, have taught them the importance of both health behavior theories and their cogent and precise representation. They have challenged us to stretch, adapt, and continue to learn through our years of work at the University of Michigan, the University of North Carolina (UNC) at Chapel Hill, the University of Pennsylvania (UPenn), Emory University, Harvard University, the University of Minnesota, Ohio State University, Johns Hopkins University, Temple University, Fox Chase <ulink type="disease" url="link.aspx?id=4181">Cancer</ulink> Center, Duke University, the University of Hawai'i, and the National <ulink type="disease" url="link.aspx?id=4181">Cancer</ulink> Institute (NCI).</para>
+   <para id="ch0008s0000p0020">We thank Daniel Holman and Alisha Suhag from the University of Sheffield (UK), who collaborated on the umbrella review of theory‐behavior change intervention effectiveness that is described in<ulink url="ch0014">Chapter 2</ulink>. We also thank members of the Viswanath Lab at Harvard/Dana‐Farber and the Center for Health Behavior Research team at Penn, who respectively made it possible for Vish Viswanath and Karen Glanz to focus on the book while they ensured progress on active projects. Further, completion of this manuscript would not have been possible without the dedicated assistance of Lisa Warren and Ellie Bernstein at UNC, and Claudia Caponi at UPenn.</para>
+   <para id="ch0008s0000p0021">We also express our thanks to our colleagues, staffs, friends, and families, whose patience, good humor, and encouragement sustained us through our work on this book.</para>
+   <para id="ch0008s0000p0022">January 2024</para>
+   <para role="authorName">Karen Glanz</para>
+   <para role="affiliation">
+      <emphasis>Philadelphia, Pennsylvania</emphasis>
+   </para>
+   <para role="authorName">Barbara K. Rimer</para>
+   <para role="affiliation">
+      <emphasis>Chapel Hill, North Carolina</emphasis>
+   </para>
+   <para role="authorName">K. Viswanath</para>
+   <para role="affiliation">
+      <emphasis>Boston, Massachusetts</emphasis>
+   </para>
+</sect1>

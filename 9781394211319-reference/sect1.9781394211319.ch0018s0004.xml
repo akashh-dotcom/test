@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0018s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.</risprev>
+         <riscurrent>sect1.9781394211319.ch0018s0004</riscurrent>
+         <risnext>sect1.9781394211319.ch0018s0000</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0018</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>KEY POINTS</title>
+   <anchor id="ch0018s0000a0002"/>
+   <anchor id="ch0018s0000a0003"/>
+   <para role="chapterAuthor">
+      <emphasis role="strong">Celette Sugg Skinner</emphasis>
+<?lb?>
+      <emphasis role="strong">Jasmin A. Tiro</emphasis>
+<?lb?>
+      <emphasis role="strong"> Serena A. Rodriguez</emphasis>
+   </para>
+   <anchor id="ch0018s0000a0004"/>
+   <sidebar id="ch0018s0000sb0001">
+      <title>KEY POINTS</title>
+      <para>This chapter will:</para>
+      <itemizedlist id="ch0018s0000l0001">
+         <listitem id="ch0018s0000li0001">
+            <para>Suggest health problems that can be addressed by the Health Belief Model (HBM).</para>
+         </listitem>
+         <listitem id="ch0018s0000li0002">
+            <para>Introduce the HBM’s historical development, key components, supporting evidence, and how its constructs are measured and used in interventions.</para>
+         </listitem>
+         <listitem id="ch0018s0000li0003">
+            <para>Present applications of the HBM to perceptions of <ulink type="disease" url="link.aspx?id=9688">diabetes</ulink> risk and receipt of COVID‐19 vaccination.</para>
+         </listitem>
+      </itemizedlist>
+   </sidebar>
+   <sidebar id="ch0018s0000sb0002">
+      <title>Vignette: “I Thought This Wouldn’t Be a Problem Once We Had a Vaccine”</title>
+      <bridgehead>Vignette: “I Thought This Wouldn’t Be a Problem Once We Had a Vaccine”</bridgehead>
+      <para id="ch0018s0000p0001">The development of effective <ulink type="drug" url="link.aspx?id=14154">vaccines</ulink> has allowed us to address some of the most serious health threats to humans and animals alike. To health professionals and many others, receiving a shot might appear to be a fairly straightforward and discrete behavior, particularly in comparison to more difficult behavior changes, such as <ulink type="disease" url="link.aspx?id=6651">weight loss</ulink> and stopping smoking, that require repeated actions to achieve and maintain desired outcomes. However, <ulink type="drug" url="link.aspx?id=14154">vaccines</ulink>’ potential for prevention has not always translated into swift or sustained acceptance. Adoption by US adolescents of the first and only <ulink type="disease" url="link.aspx?id=4181">cancer</ulink>‐prevention HPV vaccine—first introduced in 2006 and requiring two doses for full coverage—was only 75% for initial vaccination by 2020, with only 58.6% of adolescents fully up‐to‐date in that year (Pingali et al.,<link linkend="ch0018s0000li0062">2021</link>). As of September 2022, when COVID‐19 had taken the lives of over a million people in the United States and 6.5 million worldwide, only 67% of people eligible in the United States and 61% of the world population had received the first two recommended doses of the vaccine (Mathieu et al., <link linkend="ch0018s0000li0058">2022</link>). Health behavior theory can help us understand what’s going on here by elucidating key factors that influence whether people take recommended actions to protect their health.</para>
+      <para id="ch0018s0000p0002">We may feel just as frustrated today explaining these behaviors as the developers of the first widely used health behavior theory—the Health Belief Model (HBM)—back in the 1950s. In those years, <ulink type="disease" url="link.aspx?id=6145">tuberculosis</ulink> (TB) was still a major health threat in the United States. Toward the goal of reducing morbidity and mortality, the US Public Health Service rolled out a program for neighborhood‐based screening via mobile vans. The plan was innovative, and the potential benefits seemed obvious. But even when vans were deployed into people’s neighborhoods, many fewer people than expected came to be screened. That put millions of people <ulink type="disease" url="link.aspx?id=10304">at risk</ulink> for contracting TB—a highly contagious and potentially deadly and debilitating disease.</para>
+      <para id="ch0018s0000p0003">The Public Health Service, wisely, realized a need to involve behavioral scientists who could help to explain the complex decisions influencing adoption of TB screening and, ultimately, other health‐related behaviors. Thus was born the field of modern health behavior theory, and its first product was the HBM (Hochbaum,<link linkend="ch0018s0000li0042">1958</link>).</para>
+   </sidebar>
+   <anchor id="ch0018s0000a0005"/>
+</sect1>

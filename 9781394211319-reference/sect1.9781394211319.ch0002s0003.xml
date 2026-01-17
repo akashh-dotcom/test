@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0002s0003">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0002s0002</risprev>
+         <riscurrent>sect1.9781394211319.ch0002s0003</riscurrent>
+         <risnext>sect1.9781394211319.ch0002s0004</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0002</chapterid>
+         <chaptertitle>Table of Contents</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Guide</title>
+   <anchor id="ch0002s0000a0002"/>
+   <orderedlist continuation="restarts" inheritnum="ignore">
+      <listitem>
+         <para>
+            <ulink url="ch0001">Cover Page</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <link linkend="ch0002">Table of Contents</link>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0003">Title Page</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0004">Copyright Page</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0005">Dedication Page</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0006">Tables and Figures</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0007">Foreword</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0008">Preface</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0009">About the Editors</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0010">About the Contributors</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0011">About the Companion Website</ulink>
+         </para>
+      </listitem>
+      <listitem role="contentsH1">
+         <para>
+            <ulink url="ch0012">Begin Reading</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0039">Name Index</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0040">Subject Index</ulink>
+         </para>
+      </listitem>
+      <listitem>
+         <para>
+            <ulink url="ch0041">WILEY END USER LICENSE AGREEMENT</ulink>
+         </para>
+      </listitem>
+   </orderedlist>
+</sect1>

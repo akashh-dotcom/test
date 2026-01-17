@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0036s0006">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.</risprev>
+         <riscurrent>sect1.9781394211319.ch0036s0006</riscurrent>
+         <risnext>sect1.9781394211319.ch0036s0000</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0036</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 20 BEHAVIORAL ECONOMICS AND HEALTH <?lb?> KEY POINTS</title>
+   <anchor id="ch0036s0000a0002"/>
+   <anchor id="ch0036s0000a0003"/>
+   <para role="chapterAuthor">
+      <emphasis role="strong">Jessica L. Cohen </emphasis>
+      <emphasis role="strong">
+<?lb?> Harsha Thirumurthy</emphasis>
+   </para>
+   <anchor id="ch0036s0000a0004"/>
+   <sidebar id="ch0036s0000sb0001">
+      <title>KEY POINTS</title>
+      <itemizedlist id="ch0036s0000l0001">
+         <listitem id="ch0036s0000li0001">
+            <para>Behavioral economics can provide a better descriptive and predictive model of human behavior than previous economic models that assume fully rational behavior.</para>
+         </listitem>
+         <listitem id="ch0036s0000li0002">
+            <para>The behavior of consumers, patients, healthcare providers, and other individuals often is shaped by biases in decision‐making, reliance on mental shortcuts, and social forces.</para>
+         </listitem>
+         <listitem id="ch0036s0000li0003">
+            <para>Behavioral economics principles can be useful for designing scalable interventions and subtle policy changes that result in better health outcomes.</para>
+         </listitem>
+      </itemizedlist>
+   </sidebar>
+   <sidebar id="ch0036s0000sb0002">
+      <title>Vignette</title>
+      <bridgehead>Vignette</bridgehead>
+      <para id="ch0036s0000p0001">Early in the 21<superscript>st</superscript> century, <ulink type="disease" url="link.aspx?id=3716">malaria</ulink> was the leading cause of child mortality in sub‐Saharan Africa, and <ulink type="disease" url="link.aspx?id=3716">malaria</ulink> deaths had been increasing since the early 1990s. A primary driver of this worrisome trend was the decreasing efficacy of the first‐line treatment for <ulink type="disease" url="link.aspx?id=3716">malaria</ulink>, chloroquine. Chloroquine‐resistant <ulink type="disease" url="link.aspx?id=5669">strains</ulink> of the <ulink type="disease" url="link.aspx?id=3716">malaria</ulink> parasite had gained the advantage, and <ulink type="disease" url="link.aspx?id=3716">malaria</ulink> illness became much more difficult and expensive to treat. But there was reason to be hopeful because new, highly effective antimalarial medications—Artemisinin Combination Therapies (ACTs)—had been developed, and there was strong commitment from agencies like the Global Fund to Fight <ulink type="disease" url="link.aspx?id=66">AIDS</ulink>, <ulink type="disease" url="link.aspx?id=6145">Tuberculosis</ulink> and <ulink type="disease" url="link.aspx?id=3716">Malaria</ulink> to heavily subsidize these medications so that they were widely available and affordable. These medications were sure to save lives. But along with the relief came worry: would the <ulink type="disease" url="link.aspx?id=3716">malaria</ulink> parasite quickly gain resistance to ACTs too? Preserving the efficacy of ACTs for current and future <ulink type="disease" url="link.aspx?id=3716">malaria</ulink> patients would require a major push to improve adherence to antimalarial medications.</para>
+      <para id="ch0036s0000p0002">Patient adherence to medications means that they fill the prescription, take the correct dosage at the right time, in the right way, and finish the full course of the medication for a prescribed period of time. Medication nonadherence undermines the efficacy of treatment for illnesses and, in some cases, can threaten the future efficacy of the treatment itself. Nonadherence to antimicrobials is a known driver of pathogen resistance to effective therapies, threatening our ability to effectively treat infections in the future (Murray et al.,<link linkend="ch0036s0000li0061">2022</link>).</para>
+      <para id="ch0036s0000p0003">Even though ACTs to treat <ulink type="disease" url="link.aspx?id=3716">malaria</ulink> are only a three‐day treatment course, more than 1/3 of patients are nonadherent (Cohen &amp; Saran,<link linkend="ch0036s0000li0022">2018</link>). To make sure that ACTs are truly curing patients’ illnesses, the global health community and national <ulink type="disease" url="link.aspx?id=3716">malaria</ulink> control programs have to ensure that the rollout of ACTs is accompanied by efforts to promote adherence. But what should policymakers do to increase adherence? The correct policy response hinges on having a good understanding of the reasons why people may not adhere to medications. For example, if policymakers assume that patients are not finishing their medication because they do not understand the proper way to take them, then training pharmacists and doctors to counsel patients more thoroughly on adherence is the right approach. On the other hand, if patients are nonadherent because they are forgetting to take their medication, then a different approach such as phone‐based reminders is needed. And if the issue is that people feel fine after a while and stop taking the medications, then a more effective communication strategy about the continued importance of adherence will be useful.</para>
+   </sidebar>
+   <anchor id="ch0036s0000a0005"/>
+</sect1>

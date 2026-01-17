@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0013s0006">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.</risprev>
+         <riscurrent>sect1.9781394211319.ch0013s0006</riscurrent>
+         <risnext>sect1.9781394211319.ch0013s0000</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0013</chapterid>
+         <chaptertitle>CHAPTER 1 THE SCOPE OF HEALTH BEHAVIOR</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>CHAPTER 1 THE SCOPE OF HEALTH BEHAVIOR</title>
+   <anchor id="ch0013s0000a0002"/>
+   <anchor id="ch0013s0000a0003"/>
+   <para role="chapterAuthor">
+      <emphasis role="strong">The Editors</emphasis>
+   </para>
+   <anchor id="ch0013s0000a0004"/>
+   <para id="ch0013s0000p0001">In 2020–2022, the world experienced the COVID‐19 pandemic, which brought about the most profound changes globally since the <ulink type="disease" url="link.aspx?id=3145">influenza</ulink> pandemic of 1918–1919. The SARS‐CoV‐2 <ulink type="disease" url="link.aspx?id=9711">virus</ulink> spread across the world. Conservatively, almost 7 million people died, economies sputtered, governments faltered, and inequities were highlighted in searing ways. Quickly, COVID‐19, the disease caused by the <ulink type="disease" url="link.aspx?id=9711">virus</ulink>, became one of the world’s worst killers in multiple countries, with most of those deaths coming from low‐ and middle‐income countries (LMICs). In tragedy, there also was dramatic progress and innovation as <ulink type="drug" url="link.aspx?id=14154">vaccines</ulink> and treatments for COVID‐19 were developed at lightning speed. The pandemic underlined more acutely than any recent event the centrality of health behavior and the threats of health inequities. In the early days of the pandemic (winter/spring 2020), before there were <ulink type="drug" url="link.aspx?id=14154">vaccines</ulink> and treatments, it was necessary to rely on what was learned in 1918 and since—the importance of masks, physical distancing, and good hygiene, such as handwashing. Unfortunately, these proven, common‐sense activities became highly politicized. Some countries, such as South Korea, were remarkably successful in applying interventions to prevent sickness and death early in the pandemic, though the country proved vulnerable in its later stages. Other countries had leaders who distrusted science and waited too long to adopt proven interventions. Millions became infected and died as a result, and the economies in these countries were hard‐hit. Then, a concerning pattern emerged with the adoption of <ulink type="drug" url="link.aspx?id=14154">vaccines</ulink>: while overall vaccine uptake was relatively high, disadvantaged populations often did not get vaccinated due to mistrust and/or lack of access. COVID also drew attention to an emerging<emphasis>infodemic</emphasis>, or spread of information, often false, at a volume and great speed, affecting health behaviors and challenging people’s and systems’ capacities to cope with the pandemic.</para>
+   <para id="ch0013s0000p0002">The 2020 pandemic is one of the strongest historical cases of why understanding health behavior and applying science‐driven interventions is a matter of life and death. The pandemic also showed that we cannot separate health behaviors from communities and health systems, and that multiple levels of interventions, including policies, are needed to address a deadly viral threat. And it demonstrated that unprepared health systems and communities are not resilient when faced with a pandemic like COVID‐19. To prevent future <ulink type="disease" url="link.aspx?id=1210">infectious disease</ulink> outbreaks on a global scale and improve population health, societal issues, including deeply embedded structural inequities, must be tackled (Lancet Editors,<link linkend="ch0013s0000li0045">2020</link>).</para>
+   <anchor id="ch0013s0000a0005"/>
+   <para id="ch0013s0000p0003">There are many other examples to demonstrate why health behavior is so important to health. More than half the top 10 causes of death worldwide are attributed to unhealthy behaviors (World Health Organization,<link linkend="ch0013s0000li0059">2023b</link>). 30–50% of <ulink type="disease" url="link.aspx?id=4181">cancers</ulink> are preventable, mostly by behavioral means. With 18 million <ulink type="disease" url="link.aspx?id=4181">cancers</ulink> projected in 2023, changing behavior could save millions of lives globally (Shiels et al., <link linkend="ch0013s0000li0048">2023</link>). Infectious and <ulink type="disease" url="link.aspx?id=1125">chronic diseases</ulink> and the factors that drive them—including failure to vaccinate and practice good hygiene, <ulink type="disease" url="link.aspx?id=4356">obesity</ulink>, and physical inactivity, overuse of opioids, and underuse of proven methods to screen and treat diseases when they are early and curable—all contribute to avoidable illness and mortality. <ulink type="disease" url="link.aspx?id=10533">Globalization</ulink> and westernization have accelerated the speed with which diseases of developed countries, such as <ulink type="disease" url="link.aspx?id=9688">diabetes</ulink> and <ulink type="disease" url="link.aspx?id=4181">cancers</ulink>, are increasing in the developing world. Life expectancy is falling for less‐educated groups and is eclipsing racial inequities (Case &amp; Deaton, <link linkend="ch0013s0000li0033">2021</link>). In many parts of the world, increasing affluence has made automobile accidents a growing threat. There is growing recognition that health behavior changes are needed across the world if population health is to improve.</para>
+   <para id="ch0013s0000p0004">Where professionals once might have seen their roles as working at a particular level of intervention (such as changing organizational or individual health behaviors) or employing a specific type of behavior change strategy (such as group interventions or individual counseling), evidence shows that multiple kinds of interventions at different levels often are needed to initiate and sustain behavior change effectively. This is true for tobacco use, physical activity, and <ulink type="disease" url="link.aspx?id=4356">obesity</ulink>. During the pandemic, policy interventions were used to mandate masking and provide special funding and services, such as food assistance, for unemployed and low‐income families. Community interventions were developed for at‐risk groups. Media, pharmacy, and clinical interventions aimed to persuade people to be vaccinated. Environmental approaches, such as wastewater surveillance, were used to understand transmission and provide early warning systems. Any of these alone would have been insufficient to achieve maximal impact. The determinants of health behavior and health are multicomponent and multilevel, and the strategies to improve them are equally complex.</para>
+</sect1>

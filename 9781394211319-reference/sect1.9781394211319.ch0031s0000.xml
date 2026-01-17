@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0031s0000">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0031s0010</risprev>
+         <riscurrent>sect1.9781394211319.ch0031s0000</riscurrent>
+         <risnext>sect1.9781394211319.ch0031s0001</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0031</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Introduction to Dissemination and Implementation Science</title>
+   <anchor id="ch0031s0000a0053"/>
+   <anchor id="ch0031s0000a0006"/>
+   <para id="ch0031s0000p0004">Despite investments by governments, funders, and others, many health‐related EBIs are not widely used across diverse settings. This has major implications for population health. For example, estimates suggest that 44% of global <ulink type="disease" url="link.aspx?id=4181">cancer</ulink> deaths in 2019 could be attributed to a core set of risk factors (e.g., tobacco and <ulink type="drug" url="link.aspx?id=12847">alcohol</ulink> use), highlighting the importance of implementing preventive strategies broadly and equitably (Tran et al.,<link linkend="ch0031s0000li0102">2022</link>). Dissemination and implementation science seeks to understand how to actively increase the adoption, implementation, and continued use of health‐enhancing EBIs and innovations. The designation of EBI can apply to a wide range of entities, such as programs (e.g., behavioral interventions to manage <ulink type="disease" url="link.aspx?id=9688">diabetes</ulink>), practices (e.g., routine screening for social needs in <ulink type="disease" url="link.aspx?id=10343">primary care</ulink>), policies (e.g., smoke‐free indoor spaces), and treatments (e.g., the <ulink type="disease" url="link.aspx?id=3856">meningitis</ulink> vaccine).</para>
+   <para id="ch0031s0000p0005">At the outset, it is essential to distinguish between efforts to establish the effectiveness of interventions from efforts to promote their dissemination and implementation. Often, dissemination and implementation activities begin after an innovation has demonstrated effectiveness for changing health behaviors or health outcomes of interest, highlighted in the example of the nutrition program described in the vignette above. Ideally, innovations in health should be “designed for dissemination,” which can accelerate successful uptake and promote health equity (Kwan et al.,<link linkend="ch0031s0000li0064">2022</link>).</para>
+   <para id="ch0031s0000p0006">
+      <emphasis>Dissemination</emphasis> involves planned efforts to reach audiences and <ulink type="disease" url="link.aspx?id=10321">stakeholders</ulink> with information about EBIs and strategies to facilitate their adoption or uptake (Baumann et al., <link linkend="ch0031s0000li0024">2022</link>). By contrast, <emphasis>implementation</emphasis> refers to active and planned efforts to support adoption and integration of EBIs into routine practice in community, clinical, and public health settings. Effectiveness research is a first step in which innovations are tested and, when successful, considered to be EBIs. Implementation research addresses different core questions: How does context influence EBI implementation? What strategies can help implementers use EBIs? And how can we know if implementation efforts are successful? (Curran, <link linkend="ch0031s0000li0035">2020</link>; Smith et al., <link linkend="ch0031s0000li0098">2020</link>).</para>
+   <para id="ch0031s0000p0007">With roots in sociology, psychology, organizational behavior, agriculture, and development, dissemination, and implementation science emphasizes the application of evidence‐based solutions to public health problems to increase the likelihood of their impact (Brownson et al.,<link linkend="ch0031s0000li0026">2011</link>). Historically, the work of Georg Simmel and Gabriel Tarde catalyzed conversation in the early 1900s about system‐level forces within and across networks and social systems that influence the spread of new ideas and practices (Dearing, <link linkend="ch0031s0000li0043">2008</link>). Action research by Lewin (<link linkend="ch0031s0000li0065">1946</link>), Diffusion of Innovations by Rogers (<link linkend="ch0031s0000li0092">2003</link>), and practice‐based evidence by Green (<link linkend="ch0031s0000li0055">2008</link>) are important influences on dissemination and implementation science. This work underscores the importance of developing evidence with dissemination and implementation in mind, engaging communities and partners to identify solutions, and examining multilevel influences on the spread of evidence‐based solutions.</para>
+   <para id="ch0031s0000p0008">Dissemination and implementation efforts vary in terms of the time it takes for an EBI to become routinely used, the extent to which services are distributed equitably, and the scale of impact. For example, the development of therapeutics and <ulink type="drug" url="link.aspx?id=14154">vaccines</ulink> during the COVID‐19 pandemic showed how innovations can be developed rapidly and disseminated widely; although the underlying science had already been underway for decades, the new <ulink type="drug" url="link.aspx?id=14154">vaccines</ulink> were deployed quickly. The pandemic also highlighted many persistent challenges in facilitating adoption and implementation equitably and at scale (Chambers,<link linkend="ch0031s0000li0033">2020</link>). In contrast to this example of rapid translation, commonly cited estimates of the time lag between establishing effectiveness of clinical <ulink type="disease" url="link.aspx?id=10502">preventive services</ulink> and medical treatments to widespread translation in practice are 15–17 years (Balas &amp; Boren, <link linkend="ch0031s0000li0022">2000</link>; Khan et al., <link linkend="ch0031s0000li0062">2021</link>). Many factors contribute to the time it takes for EBI use to become widely accepted, recommended in guidelines, and part of routine practice. Time to translation (i.e., dissemination and implementation) varies based on the types of EBIs, their costs, and differences in the targets of behavior change and implementation contexts (Morris et al., <link linkend="ch0031s0000li0074">2011</link>). Even with such variation in time to adoption, planning for dissemination and implementation can increase the speed of knowledge translation and the likelihood of equitable delivery. There is no available systematic analysis of the time from development to dissemination of behavioral and community‐based health interventions, which could parallel clinical services or be faster in the age of the Internet and viral social media.</para>
+   <anchor id="ch0031s0000a0007"/>
+   <beginpage pagenum="202"/>
+   <sect2 id="ch0031s0000s0000">
+      <title>What is Accepted Evidence for an EBI?</title>
+      <anchor id="ch0031s0000a0054"/>
+      <anchor id="ch0031s0000a0008"/>
+      <para id="ch0031s0000p0009">With the goal of spreading EBIs at scale and equitably, researchers and practitioners should reflect on the nature of the evidence base (Brownson et al.,<link linkend="ch0031s0000li0030">2022</link>). A critical perspective prompts attention to what “counts” as an EBI and the extent to which context, equity, and stakeholder perspectives influence the existing evidence base. Regarding what counts as evidence, often large‐scale randomized trials, systematic reviews, and meta‐analyses are the basis for determining whether an EBI is effective and ready for widespread dissemination. <emphasis>The Methods Manual for Community Guide Systematic Reviews</emphasis> describes a methodology that considers the strength of evidence and execution of efficacy studies as a basis for public health intervention recommendations (Guide to Community <ulink type="disease" url="link.aspx?id=10502">Preventive Services</ulink>, <link linkend="ch0031s0000li0059">2023</link>). There are also resources to identify EBIs; databases in the United States include the Evidence‐based <ulink type="disease" url="link.aspx?id=4181">Cancer</ulink> Control Programs from the National <ulink type="disease" url="link.aspx?id=4181">Cancer</ulink> Institute (<link linkend="ch0031s0000li0075">2020</link>) and the Evidence‐based Practices Resource Center from the <ulink type="disease" url="link.aspx?id=8412">Substance Abuse</ulink> and Mental Health Services Administration (<link linkend="ch0031s0000li0100">2022</link>).</para>
+      <para id="ch0031s0000p0010">Controlled trials provide strong tests of internal validity (“does it work in a controlled study?”) but are less helpful in understanding its efficacy when implemented in less‐controlled settings. This can limit understanding of where and among whom the EBI is effective and can potentially exclude a range of health issues, populations, and settings. Additionally, most EBIs were not developed and tested in a broad range of settings with variable resources, among diverse populations, and with stakeholder engagement informing the process, which limits the evidence about their potential for broad impact. To attend to these gaps, researchers and program developers can engage early and often with communities so that interventions and implementation strategies are developed and evaluated with an eye toward equity from the outset (Ramanadhan &amp; Viswanath,<link linkend="ch0031s0000li0089">2018</link>; Shelton et al., <link linkend="ch0031s0000li0097">2024</link>). Funders also should assure that researchers are conducting research with socially disadvantaged and low‐resource communities.</para>
+      <para id="ch0031s0000p0011">As with many growing areas of scholarship, varying terminology is used to refer to dissemination and implementation science. Other terms include knowledge translation, translational research, and knowledge transfer.<anchor id="ch0031s0000a0009"/>
+         <link linkend="ch0031s0000a0015">Table 16.1</link> provides key terms and definitions. A glossary by Rabin et al. (<link linkend="ch0031s0000li0088">2008</link>) offers additional detail. Readers may wish to look at additional resources that provide greater detail about the fundamentals of dissemination and implementation research (Brownson et al., <link linkend="ch0031s0000li0029">2018</link>).</para>
+   </sect2>
+</sect1>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0015s0004">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0015s0003</risprev>
+         <riscurrent>sect1.9781394211319.ch0015s0004</riscurrent>
+         <risnext>sect1.9781394211319.ch0015s0005</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0015</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Applications</title>
+   <anchor id="ch0015s0004a0001"/>
+   <anchor id="ch0015s0000a0023"/>
+   <sect2 id="ch0015s0004s0000">
+      <title>Application 1: Using Ecological Models to Conduct Natural Experiments of Large‐scale Changes to Urban Travel Infrastructure Across Different Global Settings</title>
+      <anchor id="ch0015s0004a0002"/>
+      <anchor id="ch0015s0000a0024"/>
+      <para id="ch0015s0000p0033">In this section, we outline two examples of how ecological frameworks helped guide the evaluation of major urban travel infrastructure changes in Houston, United States and Mexico City, Mexico, and their impact on active travel behaviors.</para>
+      <para id="ch0015s0000p0034">Although urban design, planning, and transport play an important role for health behaviors (Boulange et al.,<link linkend="ch0015s0000li0016">2017</link>; Bull et al., <link linkend="ch0015s0000li0019">2010</link>; Frank et al., <link linkend="ch0015s0000li0027">2016</link>; Sallis et al., <link linkend="ch0015s0000li0052">2016</link>), there is a lack of data from controlled, prospective studies quantifying the impact of urban modifications (e.g., adding more parks to a city) on health. Conducting built environment and urban policy interventions is something that is generally out of the control of researchers, leaving traditional randomized controlled trials as a virtually impossible option. Nonetheless, naturally occurring changes in a city’s built environment offer researchers the opportunity to assess their impact, by treating these infrastructure changes as <emphasis>natural experiments</emphasis> (Craig et al., <link linkend="ch0015s0000li0023">2012</link>; Huang et al., <link linkend="ch0015s0000li0035">2017</link>; Leatherdale, <link linkend="ch0015s0000li0038">2019</link>; Ogilvie et al., <link linkend="ch0015s0000li0046">2020</link>). This includes large infrastructure projects funded by governments and/or private investment, which ultimately modify the urban landscape of the city: more and/or better sidewalks, bicycle lanes, transit stations or entirely new transit systems, and public open spaces.</para>
+      <para id="ch0015s0000p0035">Ecological models offer a helpful framework for assessing the impact of natural experiments on health behaviors. Despite their cost and scale, if unaccompanied by complementary strategies like a broad communications campaign, or financial incentives for individuals working in certain locations or residing in certain areas to use the new infrastructure, urban infrastructure modifications are essentially single‐level interventions (built environment). However, when assessing the impact of natural experiments, ecological models can be used as an organizing framework, to account for elements at the same level or at different levels that can influence study outcomes. Indeed, given that natural experiments are in essence<emphasis>quasi‐experimental studies</emphasis>, with lack of random assignment to the intervention versus comparison arms, it is essential to account for any known confounder, at any level of the ecological model (Leatherdale, <link linkend="ch0015s0000li0038">2019</link>). Hence, ecological models can help investigators make decisions about the design, selection of measures, power calculations, and analytical approaches within the context of complex natural experiments. In this section, we outline two examples on how ecological frameworks helped guide the evaluation of major urban travel infrastructure changes in Houston, the United States and Mexico City, Mexico, and their impact on active travel behaviors (see <link linkend="ch0015s0000a0013">Figure 3.1</link>b).</para>
+      <para id="ch0015s0000p0036">Houston and Mexico City are both large, dynamic cities, but also face pressing challenges, including rapid population growth, traffic congestion, air pollution, and high levels of <ulink type="disease" url="link.aspx?id=4356">obesity</ulink> and known comorbidities amongst their populations (Tamayo‐Ortiz et al.,<link linkend="ch0015s0000li0058">2021</link>; Zhang, <link linkend="ch0015s0000li0063">2018</link>). However, while Houston has invested heavily in highway and toll‐way projects (car‐centric infrastructure), Mexico City has a widespread public transit system, including one of the largest subway systems in the world, bus rapid transit, and several types of “feeder buses” (informal transit options). In recent years, both cities have undergone major investments in transformative infrastructure that could potentially increase active travel. In December 2013, Houston began major expansions to its light‐rail system across the city, connecting many low‐income, predominantly minority neighborhoods, to the downtown business core of the city, through 15 miles of new lines including 24 new stations (Gates &amp; United States Department of Transportation, <link linkend="ch0015s0000li0028">2013</link>). On the other hand, since 2018, Mexico City began a massive expansion plan of its bicycling infrastructure plan, including expanding the geographic reach of its already large public bicycle‐sharing program (<emphasis>EcoBici</emphasis>), and the addition of over 50 km of protected bicycle lanes throughout the city, with emphasis in low‐income areas (Mexico City Government, <link linkend="ch0015s0000li0044">2018</link>).</para>
+      <para id="ch0015s0000p0037">Given these major infrastructure investments and expansion plans, research teams in the United States and Mexico secured funds for conducting rigorous, longitudinal assessments of the impacts of these<emphasis>natural experiments</emphasis> on active travel outcomes (transit use in Houston and bicycle ridership in Mexico City). While these two studies were conducted independently of each other, they share many commonalities worth highlighting, as they are a direct result of the investigators’ use of ecological models for guiding study design, implementation, and analytical decisions. For instance, in addition to assessing the exposures (light‐rail access in Houston, and bicycle‐infrastructure access in Mexico City) and outcomes of interest (physical activity as a result of increased transit use and bicycle ridership, respectively), both studies relied on a wide array of instruments to collect data on individual (e.g., sociodemographics, attitudes, and perceptions on active travel), interpersonal (family size, social support for active travel), and community‐level factors (perceived and objective measures of the social and built environment of neighborhoods) (Durand et al., <link linkend="ch0015s0000li0024">2016</link>; Jáuregui et al., <link linkend="ch0015s0000li0036">2020</link>). Both research teams used objective measures to quantify their outcome of interest (accelerometers, GPS monitors), and relied on validated questionnaires, environmental audits, and Geographic Information Systems for assessing the exposure to the natural experiment, and multiple other factors at varying levels of the ecological model.</para>
+      <anchor id="ch0015s0000a0025"/>
+      <beginpage pagenum="30"/>
+      <para id="ch0015s0000p0038">These studies used sample size calculations and analytical approaches that accounted for the clustered nature of data. Similar statistical approaches, consistent with concepts articulated in ecological models, were used in both studies to determine whether any of the individual, societal, or environmental factors interacted with the new urban infrastructure to differentially affect study outcomes.</para>
+   </sect2>
+   <sect2 id="ch0015s0004s0001">
+      <title>Application 2: Using Ecological Models as a Framework to Assess the Bidirectional Relationship of Health Behavior, Human Health, and Planetary Health</title>
+      <anchor id="ch0015s0004a0003"/>
+      <anchor id="ch0015s0000a0026"/>
+      <para id="ch0015s0000p0039">
+         <emphasis>Planetary health</emphasis> is a newer field that focuses on understanding the relationships between humans and the conditions of the planet Earth (Horton &amp; Lo, <link linkend="ch0015s0000li0034">2015</link>). The planetary health approach recognizes that for humans to <ulink type="drug" url="link.aspx?id=14726">lead</ulink> healthy lives, we must achieve and sustain a healthy planet (with all of its natural systems at balance, and with threats like climate change being mitigated). Hence, planetary health is explicit about the bidirectional nature of human and environmental interactions—in full alignment with the ecological model framework and its embrace of the concept of reciprocal determinism. That is, the health status of our planet (e.g., how frequently do extreme weather events occur?) exerts an influence on our health behaviors, which naturally occur at the individual level. Conversely, the collective behaviors of individuals impact the health of the planet. For example, if most residents of a city choose to drive, even for short‐distance trips, this could ensue a series of consequences at the planetary level (bad local air quality due to high traffic and congestion, and ultimately, increased carbon emissions—the main contributor to global warming and climate change).</para>
+      <para id="ch0015s0000p0040">Although traditionally, ecological models have been used almost exclusively to explain the upstream influences of individual‐level health behaviors (i.e., in a unidirectional fashion), there is no reason why they cannot or should not be used to understand the influence of collective behaviors of individuals on societal and environmental/planetary outcomes. That is, an ecological framework, as applied to planetary health, can and should consider that factors occurring within and beyond the individual level can simultaneously be “exposures” (causes) and “outcomes” (effects) of interest. This is arguably a more realistic representation of the world.</para>
+      <para id="ch0015s0000p0041">In 2021, Salvo and colleagues published their findings of a study using an<emphasis>agent‐based model</emphasis> to test the effect of major urban infrastructure changes (built environment interventions) on both health‐related (physical activity behaviors) and planetary outcomes (local air quality, carbon emissions). Agent‐based modeling is a method that uses real‐world data to simulate a given environment (e.g., a real‐world city), its inhabitants (referred to as “agents” in the simulation), and their interactions—based on known ecological determinants of health behavior (Auchincloss &amp; Diez Roux, <link linkend="ch0015s0000li0013">2008</link>). When based on solid empirical evidence and properly calibrated (the process of comparing the way in which agents of a simulated city behave, relative to real residents of the real‐world city under current, known conditions), agent‐based modeling can be a powerful tool to test the impact of the higher levels of the ecological model on multiple outcomes at once. Simulation‐based approaches, such as agent‐based modeling, provide an alternative and complementary approach to traditional empirical (data‐based) methods for testing the effects of complex, multilevel interventions.</para>
+      <para id="ch0015s0000p0042">In their work, Salvo and colleagues designed three simulated cities representing general city typologies in low‐, middle‐, and high‐income countries. Notably, the type of high‐income city that they simulated was meant to represent a sprawling, car‐dependent North American city, rather than a walkable, transit‐oriented European city. After carefully calibrating their model for the three city types, they simulated the following built‐environment interventions: (a) large expansion in coverage and near‐complete reduction in inequities in access to high‐quality, frequently running public transit across the city; (b) large expansion in coverage and near‐complete reduction in inequities in access to pedestrian (sidewalk, walking paths) and bicycling infrastructure (protected bicycle lanes and paths); (c) large expansion in coverage and near‐complete reduction in inequities in access to parks and other public open spaces; (d) scenarios a‐c combined; (e) scenario d, plus an increases cost of driving (via car ownership taxes, gas taxes, and parking restrictions). Outcomes included: proportion of trips in each city done by active travel (walking, cycling), public transit (known to be connected to more walking trips than driving), and car (sedentary travel); proportion of the population engaging regularly in recreational physical activity; air quality (measured by particulate matter); and carbon emissions (main contributor to climate change).<anchor id="ch0015s0000a0028"/>
+         <link linkend="ch0015s0000a0029">Figure 3.2</link> shows the ecological relationships that this study explored, highlighting the fact that it tested the reciprocal determinism principle of ecological models by assessing the effect of population shifts in health‐related behaviors (sedentary versus active travel modes) on planetary outcomes.</para>
+      <anchor id="ch0015s0000a0027"/>
+      <beginpage pagenum="31"/>
+      <figure float="0" id="ch0015s0000f0002">
+         <title>
+            <emphasis role="figureLabel">
+               <anchor id="ch0015s0000a0029"/>
+               <link linkend="ch0015s0000a0028">
+                  <emphasis role="strong">Figure 3.2</emphasis>
+               </link>
+            </emphasis> Reciprocal Determinism in Ecological Models: Example of the Impact of Built Environment Interventions on Health Behavior and Planetary Outcomes, Based on a Modeling Study by Salvo et al. (<link linkend="ch0015s0000li0064">2021</link>)
+</title>
+         <mediaobject>
+            <imageobject>
+               <imagedata fileref="Ch0015f02.jpg" scalefit="1" width="100%"/>
+            </imageobject>
+            <textobject>
+               <para>A flowchart illustrating the relationship between built environment interventions in three city types and planetary outcomes. 
+The chart shows a two-way interaction with arrows pointing both ways between built environment intervention in three city types: Low-, middle-, and high-income country cities and health behaviors, which includes active travel and sedentary travel. From health behaviors, an arrow points to large-scale improvements in coverage and reductions in inequities in access followed by a list including public transit, pedestrian and cycling infrastructure, and public open spaces. The dotted arrows denote the reciprocal determinative effects of the built environment on health behaviors. Another arrow from health behaviors points to planetary outcomes, which include carbon emissions reduction. The flowchart emphasizes that interventions are mediated by changes in population patterns of health behaviors.</para>
+            </textobject>
+         </mediaobject>
+      </figure>
+      <para id="ch0015s0000p0043">Findings revealed that context matters: scenario d (all built environment strategies combined) worked the best for low‐ and middle‐income country cities, simultaneously yielding significant increases in active travel, recreational physical activity, and reductions in particulate matter and carbon emissions. However, in sprawling, high‐income country cities, it was necessary to include bold complementary strategies that increase the cost of driving, alongside all other built‐environment changes, to observe health behavior and planetary benefits.</para>
+      <para id="ch0015s0000p0044">This study, and others using similar methodologies (Kaplan et al.,<link linkend="ch0015s0000li0037">2017</link>), demonstrate the utility of complex systems‐science methods for testing the ecological model across varying settings, and of exploring outcomes at different levels (i.e., reciprocal determinism principle). More importantly, these types of studies provide important evidence in support of the major built‐environment and economic‐policy changes needed across the world to improve the health of humans and of the planet.</para>
+   </sect2>
+</sect1>

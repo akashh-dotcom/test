@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0025s0005">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0025s0004</risprev>
+         <riscurrent>sect1.9781394211319.ch0025s0005</riscurrent>
+         <risnext>sect1.9781394211319.</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0025</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>References</title>
+   <anchor id="ch0025s0005a0001"/>
+   <anchor id="ch0025s0000a0047"/>
+   <orderedlist continuation="restarts" inheritnum="ignore" role="biblioEntryList">
+      <listitem id="ch0025s0000li0008" role="bibliographyEntry">
+         <para>Ahmed, W., Vidal‐Alaball, J., Downing, J., &amp; López Seguí, F. (2020). COVID‐19 and the 5G conspiracy theory: Social network analysis of twitter data.<citetitle>
+               <emphasis>Journal of Medical Internet Research</emphasis>
+            </citetitle>, <emphasis>22</emphasis>(5), e19458. <ulink url="https://doi.org/10.2196/19458">https://doi.org/10.2196/19458</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0009" role="bibliographyEntry">
+         <para>Alexander, C., Piazza, M., Mekos, D., &amp; Valente, T. W. (2001). Peer networks and adolescent cigarette smoking: An analysis of the national longitudinal study of adolescent health.<citetitle>
+               <emphasis>Journal of Adolescent Health</emphasis>
+            </citetitle>, <emphasis>29</emphasis>(1), 22–30.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0010" role="bibliographyEntry">
+         <para>Allem, J. P., Dharmapuri, L., Unger, J. B., &amp; Cruz, T. B. (2018). Characterizing JUUL‐related posts on Twitter.<citetitle>
+               <emphasis>Drug and Alcohol Dependence</emphasis>
+            </citetitle>, <emphasis>190</emphasis>, 1–5. <ulink url="https://doi.org/10.1016/j.drugalcdep.2018.05.018">https://doi.org/10.1016/j.drugalcdep.2018.05.018</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0011" role="bibliographyEntry">
+         <para>Ayers, J. W., Leas, E. C., Allem, J. P., Benton, A., Dredze, M., Althouse, B. M., Cruz, T. B., &amp; Unger, J. B. (2017). Why do people use electronic <ulink type="drug" url="link.aspx?id=3261">nicotine</ulink> delivery systems (electronic cigarettes)? A content analysis of Twitter, 2012‐2015.<citetitle>
+               <emphasis>PLoS One</emphasis>
+            </citetitle>, <emphasis>12</emphasis>(3), e0170702. <ulink url="https://doi.org/10.1371/journal.pone.0170702">https://doi.org/10.1371/journal.pone.0170702</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0012" role="bibliographyEntry">
+         <para>Barrington‐Trimis, J. L., Urman, R., Berhane, K., Unger, J. B., Cruz, T. B., Pentz, M. A., Samet, J. M., Leventhal, A. M., &amp; McConnell, R. (2016). E‐cigarettes and future cigarette use.<citetitle>
+               <emphasis>Pediatrics</emphasis>
+            </citetitle>, <emphasis>138</emphasis>(1), e20160379. <ulink url="https://doi.org/10.1542/peds.2016-0379">https://doi.org/10.1542/peds.2016‐0379</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0013" role="bibliographyEntry">
+         <para>Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D. I., Marlow, C., Settle, J. E., &amp; Fowler, J. H. (2012). A 61‐million‐person experiment in social influence and political mobilization.<citetitle>
+               <emphasis>Nature</emphasis>
+            </citetitle>, <emphasis>489</emphasis>(7415), 295–298.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0014" role="bibliographyEntry">
+         <para>Borgatti, S. P., Everett, M. G. &amp; Johnson, J. C. (2013).<citetitle>
+               <emphasis>Analyzing social networks</emphasis>
+            </citetitle>. London: <ulink type="drug" url="link.aspx?id=14986">Sage</ulink> Publications.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0015" role="bibliographyEntry">
+         <para>Cauchemez, S., Bhattarai, A., Marchbanks, T. L., Fagan, R. P., Ostroff, S., Ferguson, N. M., Swerdlow, D., &amp; Pennsylvania, H. N. w. g. (2011). Role of social networks in shaping disease transmission during a community outbreak of 2009 H1N1 pandemic <ulink type="disease" url="link.aspx?id=3145">influenza</ulink>.<citetitle>
+               <emphasis>Proceedings of the National Academy of Sciences</emphasis>
+            </citetitle>, <emphasis>108</emphasis>(7), 2825–2830. <ulink url="https://doi.org/10.1073/pnas.1008895108">https://doi.org/10.1073/pnas.1008895108</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0016" role="bibliographyEntry">
+         <para>Chetty, R., Jackson, M. O., Kuchler, T., Stroebel, J., Hendren, N., Fluegge, R. B., Gong, S., Gonzalez, F., Grondin, A., Jacob, M., Johnston, D., Koenen, M. Laguna‐Muggenburg, E., Mudekereza, F., Rutter, T., Thor, N., Townsend, W., Zhang, R., Bailey, M., &amp; Wernerfelt, N. (2022). Social capital I: Measurement and associations with economic mobility.<citetitle>
+               <emphasis>Nature</emphasis>
+            </citetitle>, <emphasis>608</emphasis>, 108–121. <ulink url="https://doi.org/10.1038/s41586-022-04996-4">https://doi.org/10.1038/s41586‐022‐04996‐4</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0017" role="bibliographyEntry">
+         <para>Christakis, N., &amp; Fowler, J. (2010). Social network sensors for early detection of contagious outbreaks.<citetitle>
+               <emphasis>PLoS One</emphasis>
+            </citetitle>, <emphasis>5</emphasis>(9), e12948.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0018" role="bibliographyEntry">
+         <para>Christiansen, J., Qualter, P., Friis, K., Pedersen, S. S., Lund, R., Andersen, C. M., Bekker‐Jeppesen, M., &amp; Lasgaard, M. (2021). Associations of loneliness and social isolation with physical and mental health among adolescents and young adults.<citetitle>
+               <emphasis>Perspectives in Public Health</emphasis>
+            </citetitle>, <emphasis>141</emphasis>(4), 226–236.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0019" role="bibliographyEntry">
+         <para>Chu, K. H., Allem, J. P., Unger, J. B., Cruz, T. B., Akbarpour, M., &amp; Kirkpatrick, M. G. (2019). Strategies to find audience segments on Twitter for e‐cigarette education campaigns.<citetitle>
+               <emphasis>Addictive Behaviors</emphasis>
+            </citetitle>, <emphasis>91</emphasis>, 222–226. <ulink url="https://doi.org/10.1016/j.addbeh.2018.11.015">https://doi.org/10.1016/j.addbeh.2018.11.015</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0020" role="bibliographyEntry">
+         <anchor id="ch0025s0000a0048"/>
+         <para>Chu, K. H., Colditz, J. B., Primack, B. A., Shensa, A., Allem, J. P., Miller, E., Unger, J. B., &amp; Cruz, T. B. (2018). JUUL: Spreading online and offline.<citetitle>
+               <emphasis>Journal of Adolescent Health</emphasis>
+            </citetitle>, <emphasis>63</emphasis>(5), 582–586. <ulink url="https://doi.org/10.1016/j.jadohealth.2018.08.002">https://doi.org/10.1016/j.jadohealth.2018.08.002</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0021" role="bibliographyEntry">
+         <para>Chu, K. H., Pitts, S. R., Wipfli, H., Valente, T. W. (2017). Coding communications across time: Documenting changes in interaction patterns across adopter categories.<citetitle>
+               <emphasis>Network Science (Camb Univ Press)</emphasis>
+            </citetitle>, <emphasis>5</emphasis>(4), 441–460. <ulink url="https://doi.org/10.1017/nws.2017.28">https://doi.org/10.1017/nws.2017.28</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0022" role="bibliographyEntry">
+         <para>Chu, K.‐H., Sidani, J., Matheny, S., Rothenberger, S. D., Miller, E., Valente, T., &amp; Robertson, L. (2021). Implementation of a cluster randomized controlled trial: Identifying student peer leaders to <ulink type="drug" url="link.aspx?id=14726">lead</ulink> E‐cigarette interventions.<citetitle>
+               <emphasis>Addictive Behaviors</emphasis>
+            </citetitle>, <emphasis>114</emphasis>, 106726–106726. <ulink url="https://doi.org/10.1016/j.addbeh.2020.106726">https://doi.org/10.1016/j.addbeh.2020.106726</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0023" role="bibliographyEntry">
+         <para>Comfort, A. B., Harper, C. C., &amp; Tsai, A. C., et al. (2021). Social and provider networks and women's contraceptive use: Evidence from Madagascar.<citetitle>
+               <emphasis>Contraception</emphasis>
+            </citetitle>, <emphasis>104</emphasis>(2), 147–154. <ulink url="https://doi.org/10.1016/j.contraception.2021.04.013">https://doi.org/10.1016/j.contraception.2021.04.013</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0024" role="bibliographyEntry">
+         <para>Conway, M., Hu, M., &amp; Chapman, W. W. (2019). Recent advances in using natural language processing to address public health research questions using social media and consumer generated data.<citetitle>
+               <emphasis>Yearbook of Medical Informatics</emphasis>
+            </citetitle>, <emphasis>28</emphasis>(1), 208–217. <ulink url="https://doi.org/10.1055/s-0039-1677918">https://doi.org/10.1055/s‐0039‐1677918</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0025" role="bibliographyEntry">
+         <para>Cooper, M., Park‐Lee, E., Ren, C., Cornelius, M., &amp; Jamal, A., Cullen, K. A. (2022). Notes from the field: E‐cigarette use among middle and high school students—United States, 2022.<citetitle>
+               <emphasis>Morbidity and Mortality Weekly Report</emphasis>
+            </citetitle>, <emphasis>71</emphasis>, 1283–1285. <ulink url="http://dx.doi.org/10.15585/mmwr.mm7140a3">http://dx.doi.org/10.15585/mmwr.mm7140a3</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0026" role="bibliographyEntry">
+         <para>DiMaggio, P., &amp; Garip, F. (2012). Network effects and social inequality.<citetitle>
+               <emphasis>Annual Review of Sociology</emphasis>
+            </citetitle>, <emphasis>38</emphasis>(1), 93–118. <ulink url="https://doi.org/10.1146/annurev.soc.012809.102545">https://doi.org/10.1146/annurev.soc.012809.102545</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0027" role="bibliographyEntry">
+         <para>Freeman, L. (1979). Centrality in social networks: Conceptual clarification.<citetitle>
+               <emphasis>Social Networks</emphasis>
+            </citetitle>, <emphasis>1</emphasis>, 215–239.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0028" role="bibliographyEntry">
+         <para>Freeman, L. (2004).<citetitle>
+               <emphasis>The development of social network analysis: A study in the sociology of science</emphasis>
+            </citetitle>. Vancouver, BC: Empirical Press.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0029" role="bibliographyEntry">
+         <para>Fu, L., Jacobs, M. A., Brookover, J., Valente, T. W., Cobb, N. K., &amp; Graham, A. L. (2017). An exploration of the Facebook social networks of smokers and non‐smokers.<citetitle>
+               <emphasis>PLoS One</emphasis>
+            </citetitle>, <emphasis>12</emphasis>(11), e0187332. <ulink url="https://doi.org/10.1371/journal.pone.0187332">https://doi.org/10.1371/journal.pone.0187332</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0030" role="bibliographyEntry">
+         <para>Gayen, K. &amp; Raeside, R. (2010). Social networks and contraception practice of women in rural Bangladesh.<citetitle>
+               <emphasis>Social Science &amp; Medicine</emphasis>
+            </citetitle>, <emphasis>71</emphasis>(9), 1584–1592.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0031" role="bibliographyEntry">
+         <para>Granovetter, M. S. (1973). The strength of weak ties.<citetitle>
+               <emphasis>American Journal of Sociology</emphasis>
+            </citetitle>, <emphasis>78</emphasis>(6), 1360–1380.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0032" role="bibliographyEntry">
+         <para>Hinz, O., Skiera, B., Barrot, C., &amp; Becker, J. U. (2011). Seeding strategies for viral marketing: An empirical comparison.<citetitle>
+               <emphasis>Journal of Marketing</emphasis>
+            </citetitle>, <emphasis>75</emphasis>(6), 55–71. <ulink url="https://doi.org/10.1509/jm.10.0088">https://doi.org/10.1509/jm.10.0088</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0033" role="bibliographyEntry">
+         <para>Horn, A. L., Jiang, L., Washburn, F., Hvitfeldt, E., de la Haye, K., Nicholas, W., Simon, P., Pentz, M., Cozen, W., Sood, N., &amp; Conti, D. V. (2021). An integrated risk and epidemiological model to estimate risk‐stratified COVID‐19 outcomes for Los Angeles County: March 1, 2020‐March 1, 2021.<citetitle>
+               <emphasis>PLoS One</emphasis>
+            </citetitle>, <emphasis>16</emphasis>(6), e0253549. <ulink url="https://doi.org/10.1371/journal.pone.0253549">https://doi.org/10.1371/journal.pone.0253549</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0034" role="bibliographyEntry">
+         <para>Khubchandani, J., Sharma, S., Price, J. H., Wiblishauser, M. J., &amp; Webb, F. J. (2021). COVID‐19 morbidity and mortality in social networks: Does it influence vaccine hesitancy?<citetitle>
+               <emphasis>International Journal of Environmental Research and Public Health</emphasis>
+            </citetitle>, <emphasis>18</emphasis>(18), 9448. <ulink url="https://www.mdpi.com/1660-4601/18/18/9448">https://www.mdpi.com/1660‐4601/18/18/9448</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0035" role="bibliographyEntry">
+         <para>Kretzschmar, M. E., Rozhnova, G., Bootsma, M. C. J., van Boven, M., van de Wijgert, J., &amp; Bonten, M. J. M. (2020). Impact of delays on effectiveness of contact tracing strategies for COVID‐19: A modelling study.<citetitle>
+               <emphasis>The Lancet Public Health</emphasis>
+            </citetitle>, <emphasis>5</emphasis>(8), e452–<ulink type="drugsynonym" url="/search/search_results_index.aspx?searchterm=E459">e459</ulink>. <ulink url="https://doi.org/10.1016/S2468-2667(20)30157-2">https://doi.org/10.1016/S2468‐2667(20)30157‐2</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0036" role="bibliographyEntry">
+         <para>Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabasi, A.‐L., Brewer, D, Christakis, N., Contractor, N., Fowler, J., Gutmann, M., Jebara, T. King, G., Macy, M., Roy, D., &amp; Van Alstyne, M., (2009). Computational social science.<citetitle>
+               <emphasis>Science</emphasis>
+            </citetitle>, <emphasis>323</emphasis>(5915), 721–723.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0037" role="bibliographyEntry">
+         <para>Lee E. W. J., &amp; Viswanath, K. (2020). Big data in context: Addressing the twin perils of data absenteeism and chauvinism in the context of health disparities research.<citetitle>
+               <emphasis>Journal of Medical Internet Research</emphasis>
+            </citetitle>, <emphasis>22</emphasis>(1), e16377.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0038" role="bibliographyEntry">
+         <para>Manas, S., Young, L. E., Fujimoto, K., Franklin, A., &amp; Myneni, S. (2019). Exploring the social structure of a health‐related online community for tobacco cessation: A two‐mode network approach.<citetitle>
+               <emphasis>Studies in Health Technology and Informatics</emphasis>
+            </citetitle>, <emphasis>264</emphasis>, 1268–1272. <ulink url="https://doi.org/10.3233/shti190430">https://doi.org/10.3233/shti190430</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0039" role="bibliographyEntry">
+         <para>Marsden, P. V. (1987). Core discussion networks of Americans.<citetitle>
+               <emphasis>American Sociological Review</emphasis>
+            </citetitle>, <emphasis>52</emphasis>(1), 122–131.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0040" role="bibliographyEntry">
+         <para>McPherson, M., Smith‐Lovin, L., &amp; Cook, J. M. (2001). Birds of a feather: Homophily in social networks.<citetitle>
+               <emphasis>Annual Review of Sociology</emphasis>
+            </citetitle>, <emphasis>27</emphasis>(1), 415–444. <ulink url="https://doi.org/10.1146/annurev.soc.27.1.415">https://doi.org/10.1146/annurev.soc.27.1.415</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0041" role="bibliographyEntry">
+         <para>Mercken, L., Snijders, T. A. B., Steglich, C., Vertiainen, E., &amp; de Vries, H. (2010). Smoking‐based selection and influence in gender‐segregated friendship networks: A social network analysis of adolescent smoking.<citetitle>
+               <emphasis>Addiction</emphasis>
+            </citetitle>, <emphasis>105</emphasis>(7), 1280–1289.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0042" role="bibliographyEntry">
+         <para>Milgram, S. (1967). The small world problem.<citetitle>
+               <emphasis>Psychology Today</emphasis>
+            </citetitle>, <emphasis>2</emphasis>, 60–67.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0043" role="bibliographyEntry">
+         <para>Moreno, J. L. (1934).<citetitle>
+               <emphasis>Who shall survive? A new approach to the problem of human interrelations</emphasis>
+            </citetitle>. Washington, DC: Nervous and Mental Disease Publishing.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0044" role="bibliographyEntry">
+         <anchor id="ch0025s0000a0049"/>
+         <para>Nishi, A., Dewey, G., Endo, A., &amp; Young, S. D. (2020). Network interventions for managing the COVID‐19 pandemic and sustaining economy.<citetitle>
+               <emphasis>Proceedings of the National Academy of Sciences</emphasis>
+            </citetitle>, <emphasis>117</emphasis>(48), 30285–30294. <ulink url="https://doi.org/10.1073/pnas.2014297117">https://doi.org/10.1073/pnas.2014297117</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0045" role="bibliographyEntry">
+         <para>Robins, G., Pattison, P. Kalish, Y., &amp; Lusher, D. (2007). An introduction to exponential random graph (p*) models for social networks.<citetitle>
+               <emphasis>Social Networks</emphasis>
+            </citetitle>, <emphasis>29</emphasis>(2), 173–191.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0046" role="bibliographyEntry">
+         <para>Rogers, E. M., &amp; Kincaid, D. L. (1981).<citetitle>
+               <emphasis>Communication networks: A new paradigm for research</emphasis>
+            </citetitle>. New York: Free Press.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0047" role="bibliographyEntry">
+         <para>Scott, J. (2017).<citetitle>
+               <emphasis>Network analysis: A handbook</emphasis>
+            </citetitle>. (3rd ed.). Newbury Park, CA: <ulink type="drug" url="link.aspx?id=14986">Sage</ulink>.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0048" role="bibliographyEntry">
+         <para>Shakya, H. B., Darmstadt, G. L., Barker, K. M., Weeks, J., &amp; Christakis, N. A. (2020). Social normative and social network factors associated with adolescent pregnancy: A cross‐sectional study of 176 villages in rural Honduras.<citetitle>
+               <emphasis>Journal of Global Health</emphasis>
+            </citetitle>, <emphasis>10</emphasis>(1), 010706. <ulink url="https://doi.org/10.7189/jogh.10.010706">https://doi.org/10.7189/jogh.10.010706</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0049" role="bibliographyEntry">
+         <para>Shakya, H. B., Weeks, J. R., &amp; Christakis, N. A. (2019). Do village‐level normative and network factors help explain spatial variability in adolescent childbearing in rural Honduras?<citetitle>
+               <emphasis>SSM Population Health</emphasis>
+            </citetitle>, <emphasis>9</emphasis>, 100371. <ulink url="https://doi.org/10.1016/j.ssmph.2019.100371">https://doi.org/10.1016/j.ssmph.2019.100371</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0050" role="bibliographyEntry">
+         <para>Snijders, T. A. B., van de Bunt, G. G., &amp; Steglich, C. E. G. (2010). Introduction to stochastic actor‐based models for network dynamics.<citetitle>
+               <emphasis>Social Networks</emphasis>
+            </citetitle>, <emphasis>32</emphasis>(1), 44–60.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0051" role="bibliographyEntry">
+         <para>Sreeramareddy, C. T., Acharya, K. &amp; Manoharan, A. (2022). Electronic cigarettes use and ‘dual use’ among the youth in 75 countries: Estimates from Global Youth Tobacco Surveys (2014–2019).<citetitle>
+               <emphasis>Scientific Reports</emphasis>
+            </citetitle>
+            <emphasis>12</emphasis>, 20967. <ulink url="https://doi.org/10.1038/s41598-022-25594-4">https://doi.org/10.1038/s41598‐022‐25594‐4</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0052" role="bibliographyEntry">
+         <para>Suarez‐Lledo, V., &amp; Alvarez‐Galvez, J. (2021). Prevalence of health misinformation on social media: Systematic review.<citetitle>
+               <emphasis>Journal of Medical Internet Research</emphasis>
+            </citetitle>, <emphasis>23</emphasis>(1), e17187. <ulink url="https://doi.org/10.2196/17187">https://doi.org/10.2196/17187</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0053" role="bibliographyEntry">
+         <para>Valente, T. W. (1995).<citetitle>
+               <emphasis>Network models of the diffusion of innovations</emphasis>
+            </citetitle>. Cresskill, NJ: Hampton Press.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0054" role="bibliographyEntry">
+         <para>Valente, T. W. (2010).<citetitle>
+               <emphasis>Social networks and health: Models, methods, and applications</emphasis>
+            </citetitle>. New York: Oxford University Press.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0055" role="bibliographyEntry">
+         <para>Valente, T. (2012). Network interventions.<citetitle>
+               <emphasis>Science</emphasis>
+            </citetitle>, <emphasis>337</emphasis>(6090), 49–53.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0056" role="bibliographyEntry">
+         <para>Valente, T. W., &amp; Pitts, S. (2017). An appraisal of social network theory and analysis as applied to public health.<citetitle>
+               <emphasis>Annual Review of Public Health</emphasis>
+            </citetitle>, <emphasis>38</emphasis>, 103–118.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0057" role="bibliographyEntry">
+         <para>Valente, T. W., Pitts, S. R., Wipfli, H., &amp; Yon, G. G. V. (2019). Network influences on policy implementation: Evidence from a global health treaty.<citetitle>
+               <emphasis>Social Science and Medicine</emphasis>
+            </citetitle>, <emphasis>222</emphasis>, 188–197.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0058" role="bibliographyEntry">
+         <para>Valente, T. W., Watkins, S., Jato, M. N., Van der Straten, A., &amp; Tsitsol, L. M. (1997). Social network associations with contraceptive use among Cameroonian women in voluntary associations.<citetitle>
+               <emphasis>Social Science &amp; Medicine</emphasis>
+            </citetitle>, <emphasis>45</emphasis>(5), 677–687.</para>
+      </listitem>
+      <listitem id="ch0025s0000li0059" role="bibliographyEntry">
+         <para>Visweswaran, S., Colditz, J. B., O'Halloran, P., Han, N. R., Taneja, S. B., Welling, J., Chu, K. H., Sidani, J. E., &amp; Primack, B. A. (2020). Machine learning classifiers for twitter surveillance of vaping: Comparative machine learning study.<citetitle>
+               <emphasis>Journal of Medical Internet Research</emphasis>
+            </citetitle>, <emphasis>22</emphasis>(8), e17478. <ulink url="https://doi.org/10.2196/17478">https://doi.org/10.2196/17478</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0060" role="bibliographyEntry">
+         <para>Vogel, E. A., Cho, J., Mcconnell, R. S., Barrington‐Trimis, J. L., &amp; Leventhal, A. M. (2020). Prevalence of electronic cigarette dependence among youth and its association with future use.<citetitle>
+               <emphasis>JAMA Network Open</emphasis>
+            </citetitle>, <emphasis>3</emphasis>(2), e1921513. <ulink url="https://doi.org/10.1001/jamanetworkopen.2019.21513">https://doi.org/10.1001/jamanetworkopen.2019.21513</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0061" role="bibliographyEntry">
+         <para>Wyman, P. A., Rulison, K., Pisani, A. R., Alvaro, E. M., Crano, W. D., Schmeelk‐Cone, K., Keller Elliot, C., Wortzel, J., Pickering, T. A., &amp; Espelage, D. L. (2021). Above the influence of vaping: Peer leader influence and diffusion of a network‐informed preventive intervention.<citetitle>
+               <emphasis>Addictive Behaviors</emphasis>
+            </citetitle>, <emphasis>113</emphasis>, 106693. <ulink url="https://doi.org/10.1016/j.addbeh.2020.106693">https://doi.org/10.1016/j.addbeh.2020.106693</ulink>
+         </para>
+      </listitem>
+      <listitem id="ch0025s0000li0062" role="bibliographyEntry">
+         <para>Young, L. E., Sidnam‐Mauch, E., Twyman, M., Wang, L., Xu, J. J., Sargent, M., Valente, T. W., Ferrara, E., Fulk, J., &amp; Monge, P. (2021). Disrupting the COVID‐19 misinfodemic with network interventions: Network solutions for network problems.<citetitle>
+               <emphasis>American Journal of Public Health</emphasis>
+            </citetitle>, <emphasis>111</emphasis>(3), 514–519. <ulink url="https://doi.org/10.2105/ajph.2020.306063">https://doi.org/10.2105/ajph.2020.306063</ulink>
+         </para>
+      </listitem>
+   </orderedlist>
+</sect1>

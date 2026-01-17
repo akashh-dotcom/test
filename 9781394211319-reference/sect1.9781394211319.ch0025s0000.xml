@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="ch0025s0000">
+   <sect1info>
+      <risinfo>
+         <risprev>sect1.9781394211319.ch0025s0006</risprev>
+         <riscurrent>sect1.9781394211319.ch0025s0000</riscurrent>
+         <risnext>sect1.9781394211319.ch0025s0001</risnext>
+         <booktitle>HEALTH BEHAVIOR</booktitle>
+         <isbn>9781394211319</isbn>
+         <chapternumber/>
+         <chapterid>ch0025</chapterid>
+         <chaptertitle>KEY POINTS</chaptertitle>
+         <authorgroup>
+            <author>
+               <personname>
+                  <firstname>Karen</firstname>
+                  <surname>Glanz</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>Barbara K.</firstname>
+                  <surname>Rimer</surname>
+               </personname>
+            </author>
+            <author>
+               <personname>
+                  <firstname>K.</firstname>
+                  <surname>Viswanath</surname>
+               </personname>
+            </author>
+         </authorgroup>
+         <publisher>
+            <publishername>John Wiley &amp; Sons, Inc</publishername>
+         </publisher>
+         <pubdate>2024</pubdate>
+      </risinfo>
+      <primaryauthor>
+         <personname>
+            <firstname>Karen</firstname>
+            <surname>Glanz</surname>
+         </personname>
+      </primaryauthor>
+   </sect1info>
+   <title>Introduction</title>
+   <anchor id="ch0025s0000a0050"/>
+   <anchor id="ch0025s0000a0006"/>
+   <para id="ch0025s0000p0005">Evidence that people’s relationships with friends, family members, colleagues, and others—collectively known as<emphasis>social networks</emphasis>—act as important conduits for health information, sources of support, and determinants (both good and ill) of health behaviors has come from many studies and decades of empirical research. Whether these social networks are in‐person or online, they are both important influences on, as well as influenced by, many health behaviors.</para>
+   <para id="ch0025s0000p0006">Whether research about social networks constitutes a theory or a method to measure other theoretical constructs is a subject of debate. The word theory is used when describing the mechanisms by which networks influence behavior, and when describing endogenous network processes, such as the tendency for friends of friends to become friends. Social Network Theory (SNT) <ulink type="disease" url="link.aspx?id=5714">stresses</ulink> the importance of connections or relations for understanding health and/or behaviors of individuals (Valente,<link linkend="ch0025s0000li0054">2010</link>). Researchers might thus use SNT to model health outcomes as a function of network processes.</para>
+   <para id="ch0025s0000p0007">Social Network Analysis (SNA) is used when network methods are incorporated into other health behavior theories, sometimes, as a central component, such as in the diffusion of innovations (Valente,<link linkend="ch0025s0000li0053">1995</link>) and, sometimes, peripherally, as in efforts to understand how networks influence normative beliefs. Social network methods have proliferated across the physical and social sciences. This rapidly expanding research paradigm shifts the focus of study from individuals to their relationships with others (Borgatti, et al., <link linkend="ch0025s0000li0014">2013</link>; Valente, <link linkend="ch0025s0000li0054">2010</link>). Relationships vary widely, including friendships among adolescents in schools, trade among nations, and communications over social media. These relational data are analyzed using models and tools distinct from those traditionally employed by statisticians and epidemiologists, though the approaches may converge (Valente, <link linkend="ch0025s0000li0054">2010</link>). Network data, aided by visualization, mathematical algorithms, and computational tools, typically provide an in‐depth view of how communities, organizations, settings, and systems are structured and relate to each other. SNA enables researchers to conduct a mathematical ethnography—that is, a quantitative description—of the behavior or system(s) being studied. Consequently, network research is simultaneously deceptively simple and maddeningly complex.</para>
+   <para id="ch0025s0000p0008">This chapter focuses on how networks influence health behaviors and reviews the research to date that shows a strong and powerful influence of networks on individual, organizational, community, and system‐related health behavior and outcomes. It focuses only on social networks and not on social support, a branch of social network research that measures the support resources individuals have in their social networks. These resources typically are classified as the emotional, cognitive, tangible, and physical support that an individual receives from others (see<ulink url="ch0024">Chapter 10</ulink>). SNA, in contrast, measures relationships, such as friendships or other task‐ or work‐oriented relationships (which may or may not provide support) and treats these directional ties themselves as objects of study (Valente, <link linkend="ch0025s0000li0054">2010</link>; Valente &amp; Pitts, <link linkend="ch0025s0000li0056">2017</link>). Throughout this chapter, social networks will be described as relationships (ties) among people, but most statements also apply to networks of organizations, governments, websites, and any other unit or “actors” (nodes) as well.</para>
+   <para id="ch0025s0000p0009">
+      <anchor id="ch0025s0000a0007"/>
+      <link linkend="ch0025s0000a0009">Table 11.1</link> at the end of the chapter defines key terms used throughout this chapter.</para>
+   <sect2 id="ch0025s0000s0000">
+      <title>History</title>
+      <anchor id="ch0025s0000a0051"/>
+      <anchor id="ch0025s0000a0008"/>
+      <para id="ch0025s0000p0010">Many social scientists employed network research methods and the use of mathematics and graph theory in their research prior to 1930 (Freeman,<link linkend="ch0025s0000li0028">2004</link>). Most scholars, however, trace the beginning of modern social network research to Jacob Moreno (<link linkend="ch0025s0000li0043">1934</link>) who was one of the first to develop a program of research studying social networks and outcomes, usually among elementary school students (Moreno, <link linkend="ch0025s0000li0043">1934</link>). By the 1950s, various research groups had begun to create a field called SNA or Sociometry. The group dynamics center at the University of Michigan Institute for Social Research is credited with training scholars on early uses of graph theory to understand social networks. Several noted social psychologists, such as Heider, Cartwright, Homans, Festinger, and many others, conducted studies on social networks in workplaces and communities.</para>
+      <table id="ch0025s0000t0001">
+         <title>
+            <emphasis role="figureLabel">
+               <anchor id="ch0025s0000a0009"/>
+               <link linkend="ch0025s0000a0007">
+                  <emphasis role="strong">Table 11.1</emphasis>
+               </link>
+            </emphasis> Social Network Analysis Terms
+</title>
+         <tgroup cols="2">
+            <tbody>
+               <row>
+                  <entry>Key Term</entry>
+                  <entry>Definition</entry>
+               </row>
+               <row>
+                  <entry>Social Networks</entry>
+                  <entry>The connections or relationships among people, organizations, political entities, or other units.</entry>
+               </row>
+               <row>
+                  <entry>Social Network Theory</entry>
+                  <entry>A theoretical perspective for understanding the connections in social networks and their impact on behaviors.</entry>
+               </row>
+               <row>
+                  <entry>Social Network Analysis</entry>
+                  <entry>Using network methods and analytic techniques to understand the role of networks in the social and physical sciences. (for example, integrating social networks into health behavior research.)</entry>
+               </row>
+               <row>
+                  <entry>Node</entry>
+                  <entry>The actors in a network. Actors are usually people, organizations, agencies, or states but can be anything.</entry>
+               </row>
+               <row>
+                  <entry>Tie</entry>
+                  <entry>A link or relationship between two nodes.</entry>
+               </row>
+               <row>
+                  <entry>Dyad</entry>
+                  <entry>A pair of nodes with a tie.</entry>
+               </row>
+               <row>
+                  <entry>Ego</entry>
+                  <entry>The focal individual in a network study. Typically, egos are the respondents in a network study but also a term used to refer a focal individual.</entry>
+               </row>
+               <row>
+                  <entry>Alter</entry>
+                  <entry>A person named by a respondent in response to a network question. A person’s direct tie.</entry>
+               </row>
+               <row>
+                  <entry>Influence</entry>
+                  <entry>When an individual changes their behavior to be the same as their network partners.</entry>
+               </row>
+               <row>
+                  <entry>Selection</entry>
+                  <entry>When an individual changes their network to be compatible with their behavior.</entry>
+               </row>
+               <row>
+                  <entry>Opinion Leader</entry>
+                  <entry>Those who influence others in the network, which is measured as those high in centrality. In‐degree centrality is the preferred measure.</entry>
+               </row>
+               <row>
+                  <entry>Semantic Network</entry>
+                  <entry>A network of relations among words or phrases, often from the text in documents and/or manuscripts.</entry>
+               </row>
+               <row>
+                  <entry>Individual measures</entry>
+               </row>
+               <row>
+                  <entry>Bridge</entry>
+                  <entry>A person or link that spans different groups or subsections of a network.</entry>
+               </row>
+               <row>
+                  <entry>Centrality</entry>
+                  <entry>The degree to which a person occupies a prominent or significant position in a network. There are three main centrality scores.</entry>
+               </row>
+               <row>
+                  <entry>
+                     <itemizedlist id="ch0025s0000l0002">
+                        <listitem id="ch0025s0000li0005">
+                           <para>Degree</para>
+                        </listitem>
+                     </itemizedlist>
+                  </entry>
+                  <entry>Number of ties a person has. Out‐degree is the number of outgoing ties and in‐degree the number of incoming ties for each person (or node).</entry>
+               </row>
+               <row>
+                  <entry>
+                     <itemizedlist id="ch0025s0000l0003">
+                        <listitem id="ch0025s0000li0006">
+                           <para>Betweenness</para>
+                        </listitem>
+                     </itemizedlist>
+                  </entry>
+                  <entry>Extent to which a node lies on the shortest path connecting other nodes in the network.</entry>
+               </row>
+               <row>
+                  <entry>
+                     <itemizedlist id="ch0025s0000l0004">
+                        <listitem id="ch0025s0000li0007">
+                           <para>Closeness</para>
+                        </listitem>
+                     </itemizedlist>
+                  </entry>
+                  <entry>The inverse of the distance each node is to all other nodes.</entry>
+               </row>
+               <row>
+                  <entry>Network Exposure</entry>
+                  <entry>Percentage or count of the people in an individual’s personal network who have some behavioral property.</entry>
+               </row>
+               <row>
+                  <entry>Threshold</entry>
+                  <entry>The theoretical level of exposure in one's network that an individual would need to have before adopting a behavior.</entry>
+               </row>
+               <row>
+                  <entry>Network Structural Properties</entry>
+               </row>
+               <row>
+                  <entry>Homophily</entry>
+                  <entry>The tendency for people connected in networks to have similar characteristics. Example: boys are more likely to name other boys as friends.</entry>
+               </row>
+               <row>
+                  <entry>Heterophily</entry>
+                  <entry>The tendency for people connected in networks to have different characteristics. Example: a tendency of boys to name girls as friends.</entry>
+               </row>
+               <row>
+                  <entry>Reciprocity</entry>
+                  <entry>A link in one direction implies it exists in the other direction.</entry>
+               </row>
+               <row>
+                  <entry>Density</entry>
+                  <entry>The number of links in a network expressed as a proportion of the number possible.</entry>
+               </row>
+               <row>
+                  <entry>Centralization</entry>
+                  <entry>The degree links in the network are focused around one or a few nodes.</entry>
+               </row>
+               <row>
+                  <entry>Transitivity</entry>
+                  <entry>A link from A to B and one from B to C implies one from A to C.</entry>
+               </row>
+               <row>
+                  <entry>Small World Property</entry>
+                  <entry>The phenomenon by which distance between any two people in a network is less than what would be expected in a random network of the same size and density. This network property was demonstrated in the classic Milgram study which coined the term “six degrees of separation.”</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <para id="ch0025s0000p0011">Two SNA research communities emerged by the beginning of the 1960s (Scott,<link linkend="ch0025s0000li0047">2017</link>): the Manchester Anthropologists (from Manchester, United Kingdom) and the Harvard structuralists (centered around sociologist Harrison White). By the mid‐1970s, two academic meetings were held in Hawaii to bring together the various scholars interested in studying social networks. These meetings culminated in the launch of the International Network for Social Network Analysis (INSNA) and a commitment to hold an annual meeting starting in 1981. The journal <emphasis>Social Networks</emphasis> was launched and a bulletin/journal, <emphasis>Connections</emphasis>, was created. INSNA provided a venue to develop SNA methods, theories, and applications, and support the growth of network scholarship. At least a few more social network journals have been created since then: <emphasis>Journal of Social Structure</emphasis>, <emphasis>Network Science</emphasis>, and <emphasis>Social Network Analysis and Mining</emphasis>.</para>
+      <anchor id="ch0025s0000a0010"/>
+      <beginpage pagenum="139"/>
+      <para id="ch0025s0000p0012">By the mid‐to‐late 1980s, SNA scholars had begun to develop a library of social network algorithms for measuring key constructs and a culture of scientific exchange, collegiality, and cooperation. UCINET, a widely used computer program for SNA, was first released in the mid‐1980s. The advent of the <ulink type="disease" url="link.aspx?id=66">AIDS</ulink> epidemic and an influx of public health researchers eager to use these tools for investigating important <ulink type="disease" url="link.aspx?id=10536">public health issues</ulink> helped bolster the viability of the network science community in the early 1990s. Now, no longer a nascent community, the SNA field began to develop more powerful and user‐friendly computer tools and programs. The explosive growth of the worldwide web, Internet, and computer communications made networks and networking both explicit and ubiquitous, bringing even more attention to SNA from many different disciplines. Consequently, there was a dramatic growth in applications of SNA, outpacing theoretical developments.</para>
+      <anchor id="ch0025s0000a0011"/>
+      <beginpage pagenum="140"/>
+   </sect2>
+   <sect2 id="ch0025s0000s0001">
+      <title>Recent Developments</title>
+      <anchor id="ch0025s0000a0052"/>
+      <anchor id="ch0025s0000a0012"/>
+      <sect3 id="ch0025s0000s0001s0000">
+         <title>
+            <emphasis>Importance of Networks and Disease Transmission</emphasis>
+         </title>
+         <anchor id="ch0025s0000a0053"/>
+         <anchor id="ch0025s0000a0013"/>
+         <para id="ch0025s0000p0013">SNA is critical to understanding infectious (communicable) disease transmission. <ulink type="disease" url="link.aspx?id=1210">Infectious diseases</ulink> can be spread by person‐to‐person contact or through vectors that carry diseases. SNA has been used to study the transmission of many communicable diseases, including <ulink type="disease" url="link.aspx?id=9659">HIV</ulink>/STIs, <ulink type="disease" url="link.aspx?id=2751">hepatitis</ulink>, and H1N1 <ulink type="disease" url="link.aspx?id=3145">influenza</ulink> (Cauchemez et al.,<link linkend="ch0025s0000li0015">2011</link>). The dynamics of COVID‐19 transmission have been studied on multiple levels using SNA, from close personal networks to global networks. Most people are now familiar with the concept that social contact/social networks directly affect the risk of disease transmission or infection, as illustrated in this chapter’s opening vignette. Having a larger network or more frequent social contact increases risk of contracting or spreading COVID‐19.</para>
+         <para id="ch0025s0000p0014">Contact tracing is an important public health tool based in SNT for controlling the spread of disease during pandemics, especially in its early phases when spread can be controlled. With contact tracing, individuals who test positive for an <ulink type="disease" url="link.aspx?id=1210">infectious disease</ulink>, such as COVID‐19, are asked for information about their contacts within a certain period prior to their positive test result. These individuals are then contacted about their potential exposure, tested, and quarantined if positive. Research suggests that timely and thorough contact tracing has important potential for disease containment (Kretzschmar et al.,<link linkend="ch0025s0000li0035">2020</link>).</para>
+      </sect3>
+      <sect3 id="ch0025s0000s0001s0001">
+         <title>
+            <emphasis>Networks for Disseminating Accurate Information and Misinformation</emphasis>
+         </title>
+         <anchor id="ch0025s0000a0054"/>
+         <anchor id="ch0025s0000a0014"/>
+         <para id="ch0025s0000p0015">In addition to the spread of disease, social networks have played a critical role in the spread of information (and misinformation) regarding COVID‐19. Information can spread in a way that mimics viral transmission. People often are influenced by the opinions and behaviors of individuals in their personal networks. This has led to the diffusion of behaviors, information, and beliefs surrounding COVID‐19 by social networks. A study examining vaccine hesitancy in the United States, for example, found that people were significantly more likely to refuse vaccination if they had not known anyone who was infected by, hospitalized for, or had died of COVID‐19 (Khubchandani et al.,<link linkend="ch0025s0000li0034">2021</link>). Social networks via social media also play an important role in the diffusion of ideas and beliefs. Misinformation regarding disease contagion, <ulink type="drug" url="link.aspx?id=14154">vaccines</ulink>, and even conspiracy theories can spread rapidly through online platforms (Ahmed et al., <link linkend="ch0025s0000li0008">2020</link>). The widespread dissemination of misinformation is both problematic and concerning for public health officials. At the same time, however, network interventions can be used to combat the spread of misinformation and connect individuals with trusted information sources (Young et al., <link linkend="ch0025s0000li0062">2021</link>).</para>
+      </sect3>
+      <sect3 id="ch0025s0000s0001s0002">
+         <title>
+            <emphasis>Agent‐based Models and Simulations of Social Networks</emphasis>
+         </title>
+         <anchor id="ch0025s0000a0055"/>
+         <anchor id="ch0025s0000a0015"/>
+         <para id="ch0025s0000p0016">Network simulation models can model network dynamics to understand how networks form and grow; and how health behavior interventions may impact, and be impacted by, social networks. Agent‐based simulation models have been used during the COVID‐19 pandemic, for example, to model the impact of nonpharmaceutical interventions, such as mask‐wearing, social distancing, and other policy measures. Such simulation studies have shown that network interventions can be effective in reducing the spread of COVID‐19. One simulation study demonstrated that dividing (having different groups of people accessing school or work on different days or times) and balancing (redirecting individuals or setting occupancy limits at stores to reduce physical contact) networks can reduce transmission while still sustaining economic activity (Nishi et al.,<link linkend="ch0025s0000li0044">2020</link>). This simulation also showed that combining these strategies would effectively reduce the COVID‐19 disease spread to a tolerable level.</para>
+         <para id="ch0025s0000p0017">Another series of models using real COVID‐19 data from Los Angeles County showed that the risk of severe illness and death from COVID‐19 varies both between and within age groups, based on other comorbidities, such as <ulink type="disease" url="link.aspx?id=4356">obesity</ulink> and smoking status, thus demonstrating significant differences in risk probabilities across subpopulations (Horn et al.,<link linkend="ch0025s0000li0033">2021</link>). This research examined individual attributes, such as age, ethnicity, and socioeconomic status (SES), to show how health inequities interact with social networks in contributing to COVID‐19 risk. These types of models are important both in identifying high‐risk groups and in informing policy decisions and population‐level interventions during disease outbreaks (Valente et al., <link linkend="ch0025s0000li0057">2019</link>).</para>
+         <anchor id="ch0025s0000a0016"/>
+         <beginpage pagenum="141"/>
+      </sect3>
+      <sect3 id="ch0025s0000s0001s0003">
+         <title>
+            <emphasis>Social Networks and Technological Developments</emphasis>
+         </title>
+         <anchor id="ch0025s0000a0056"/>
+         <anchor id="ch0025s0000a0017"/>
+         <para id="ch0025s0000p0018">In the first decade of the 21<superscript>st</superscript> century, SNT and SNA were applied to substantive issues in many disciplines. Today big data (Lazer et al., <link linkend="ch0025s0000li0036">2009</link>) and powerful new computing technologies mean that network research is no longer confined to small groups and communities, but rather can be applied to whole populations and large, naturally occurring communities. Researchers now can study social networks through the lens of health inequities as well. The concept of big data and refinement of visualization tools to understand data have made analysis of social networks more feasible and meaningful. Nonetheless, researchers should be conscious of the problem of data absenteeism that occurs when there is inadequate representation from disadvantaged or vulnerable groups (Lee &amp; Viswanath, <link linkend="ch0025s0000li0037">2020</link>).</para>
+         <para id="ch0025s0000p0019">Research methods in network analysis are evolving rapidly alongside other technological advances, such as artificial intelligence (AI), natural language processing (NLP), and machine learning (ML). These evolving methods extract meaning from massive, passive data sources and often rely on SNA techniques to display and analyze the data.</para>
+      </sect3>
+      <sect3 id="ch0025s0000s0001s0004">
+         <title>
+            <emphasis>Artificial Intelligence</emphasis>
+         </title>
+         <anchor id="ch0025s0000a0057"/>
+         <anchor id="ch0025s0000a0018"/>
+         <para id="ch0025s0000p0020">There is no one definition of AI, but most agree that it consists of a constellation of technologies that enable machines to analyze data and apply algorithms to make sense of data. There are multiple applications of AI for public health and health promotion. For example, AI allows researchers to analyze Google search terms to monitor disease prevalence, monitor search terms used by different people to send them targeted health promotion messages, or detect individual trends such as <ulink type="drug" url="link.aspx?id=12285">blood</ulink> pressure variations using data captured from wearable sensors.</para>
+      </sect3>
+      <sect3 id="ch0025s0000s0001s0005">
+         <title>
+            <emphasis>Natural Language Processing</emphasis>
+         </title>
+         <anchor id="ch0025s0000a0058"/>
+         <anchor id="ch0025s0000a0019"/>
+         <para id="ch0025s0000p0021">NLP is the act of numerically analyzing text documents (such as books, plays, and narratives) to quantify them both in terms of sentiment and the interrelationship of words/phrases. NLP can be used to analyze social media data sources such as Twitter, Reddit, Facebook, and online health forums and has already been applied to explore communicable diseases, mental health, and the use of substances including tobacco, <ulink type="drug" url="link.aspx?id=12847">alcohol</ulink>, marijuana, and opioids (Conway et al.,<link linkend="ch0025s0000li0024">2019</link>). Using NLP to examine text‐based communication and conduct semantic analysis between members of an online network, for example, can identify community structures in that network. ML algorithms can also be used to classify posts, identify themes, and extract meaningful information in online communications. One such study used ML on Twitter data for its relevance to vaping, commercial nature, and sentiment (pro‐vaping or not) (Visweswaran et al., <link linkend="ch0025s0000li0059">2020</link>). Implementing ML methods for Twitter surveillance can provide insight into the effects of tobacco control policies. A study of a tobacco‐cessation online community, for example, integrated behavior change theory with SNA to understand which user characteristics were associated with certain behavior change techniques when members tried to quit (Manas et al., <link linkend="ch0025s0000li0038">2019</link>)—providing information potentially useful in designing technology‐based interventions as well as in connecting users with one another to share strategies and social support.</para>
+         <para id="ch0025s0000p0022">These techniques are not limited to analyzing social media data or communications between individuals. They also can be applied to examine communication patterns between organizations, governments, and other entities. One study used NLP, for example, to examine how countries adopting the <ulink type="disease" url="link.aspx?id=10051">WHO</ulink> Framework Convention on Tobacco Control treaty interacted, and how these interactions influenced each country’s ratification of the treaty. Text‐based analysis using data from GLOBALink, an international online discussion forum of tobacco control advocates, showed how countries in different adoption stages interacted with one another. Semantic network analysis was used to identify common themes and topics in the online discussions. There was evidence of supportive information‐sharing between countries but also unshared ideas that did not spread between countries, potentially slowing treaty diffusion (Chu et al.,<link linkend="ch0025s0000li0021">2017</link>).</para>
+         <para id="ch0025s0000p0023">Today, network research is one of the most vibrant and exciting scientific fields, with potential to contribute substantially to scientific knowledge. These developments have enabled SNA researchers to craft specific axioms that have led to an identifiable SNT.</para>
+         <anchor id="ch0025s0000a0020"/>
+         <beginpage pagenum="142"/>
+      </sect3>
+   </sect2>
+</sect1>
