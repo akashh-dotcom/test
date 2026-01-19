@@ -1,0 +1,129 @@
+{
+  "pdf": {
+    "file_name": "9780989163286.pdf",
+    "file_size": 10905369,
+    "file_size_mb": 10.4
+  },
+  "zip": {
+    "file_name": "9780989163286_rittdoc (3).zip",
+    "file_size": 54070741,
+    "file_size_mb": 51.57,
+    "total_files": 321,
+    "file_list": [
+      "Book.XML",
+      "ch0001.xml",
+      "multimedia/ch0001_img_0001.jpg",
+      "multimedia/ch0002_img_0001.jpg",
+      "multimedia/ch0002_img_0002.jpg",
+      "multimedia/ch0002_img_0003.jpg",
+      "multimedia/ch0002_img_0004.jpg",
+      "multimedia/ch0002_img_0005.jpg",
+      "multimedia/ch0002_img_0006.jpg",
+      "multimedia/ch0002_img_0007.jpg",
+      "multimedia/ch0002_img_0008.jpg",
+      "multimedia/ch0002_img_0009.jpg",
+      "multimedia/ch0002_img_0010.jpg",
+      "multimedia/ch0002_img_0011.jpg",
+      "multimedia/ch0002_img_0012.jpg",
+      "multimedia/ch0002_img_0013.jpg",
+      "multimedia/ch0002_img_0014.jpg",
+      "multimedia/ch0002_img_0015.jpg",
+      "multimedia/ch0002_img_0016.jpg",
+      "multimedia/ch0002_img_0017.jpg"
+    ],
+    "xml_files_count": 1,
+    "image_files_count": 318,
+    "book_xml_error": "undefined entity &ch0001;: line 64, column 2",
+    "ch0001_size": 1490714,
+    "ch0001_sample": "<?xml version='1.0' encoding='UTF-8'?>\n<chapter id=\"ch0001\" label=\"1\">\n  <title>Untitled Book</title>\n  <sect1 id=\"ch0001s01\">\n    <title>Preface</title>\n    <para>\u00a9 2022 by Biomedical Research Publishing Group and Shellock R &amp; D Services, Inc., Los Angeles, CA. All rights are reserved. This book is protected by copyright. No part of it may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the written permission of the Biomedical Research Publishing Group and Shellock R &amp; D Services, Inc.</para>\n    <para>Made in the United States of America</para>\n    <para>\n      <emphasis role=\"bold\">Library of Congress Cataloging-in-Publication Data</emphasis>\n    </para>\n    <para>Frank G. Shellock and John V. Crues, III</para>\n    <para>MRI Bioeffects, Safety, and Patient Management: Second Edition</para>\n    <orderedlist>\n      <listitem>\n        <para>cm.</para>\n      </listite",
+    "ch0001_root_tag": "chapter",
+    "ch0001_element_count": 10554,
+    "ch0001_unique_tags": [
+      "itemizedlist",
+      "superscript",
+      "tbody",
+      "orderedlist",
+      "sect1",
+      "sect4",
+      "sect5",
+      "sect3",
+      "mediaobject",
+      "thead",
+      "imageobject",
+      "subscript",
+      "imagedata",
+      "figure",
+      "sect2",
+      "colspec",
+      "entry",
+      "para",
+      "title",
+      "tgroup"
+    ],
+    "sample_images": [
+      {
+        "name": "ch0002_img_0016.jpg",
+        "size": 72652,
+        "path": "multimedia/ch0002_img_0016.jpg"
+      },
+      {
+        "name": "ch0023_img_0003.jpg",
+        "size": 99826,
+        "path": "multimedia/ch0023_img_0003.jpg"
+      },
+      {
+        "name": "ch0022_img_0002.jpg",
+        "size": 148752,
+        "path": "multimedia/ch0022_img_0002.jpg"
+      },
+      {
+        "name": "ch0033_img_0009.jpg",
+        "size": 193732,
+        "path": "multimedia/ch0033_img_0009.jpg"
+      },
+      {
+        "name": "ch0002_img_0015.jpg",
+        "size": 33433,
+        "path": "multimedia/ch0002_img_0015.jpg"
+      },
+      {
+        "name": "ch0014_img_0002.jpg",
+        "size": 705017,
+        "path": "multimedia/ch0014_img_0002.jpg"
+      },
+      {
+        "name": "ch0027_img_0017.jpg",
+        "size": 107276,
+        "path": "multimedia/ch0027_img_0017.jpg"
+      },
+      {
+        "name": "ch0007_img_0011.jpg",
+        "size": 111565,
+        "path": "multimedia/ch0007_img_0011.jpg"
+      },
+      {
+        "name": "ch0011_img_0003.jpg",
+        "size": 170466,
+        "path": "multimedia/ch0011_img_0003.jpg"
+      },
+      {
+        "name": "ch0007_img_0001.jpg",
+        "size": 175619,
+        "path": "multimedia/ch0007_img_0001.jpg"
+      }
+    ]
+  },
+  "comparison": {
+    "size_ratio": 0.2,
+    "size_difference_mb": 41.17,
+    "pdf_is_rendered": true,
+    "zip_is_source": true,
+    "notes": [
+      "PDF is 0.2x smaller than ZIP",
+      "ZIP contains 321 source files",
+      "ZIP includes 1 XML files and 318 images",
+      "PDF is the rendered/compiled version of the XML source in ZIP",
+      "ZIP contains structured data (XML) and multimedia assets"
+    ]
+  }
+}
