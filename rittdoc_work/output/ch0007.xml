@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter id="ch0007" label="7">
+    <title>Chapter 7</title>
+    <para><emphasis role="bold">Chapter 7</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power </emphasis> <emphasis role="bold">Deposition Associated With MRI </emphasis></para>
+    <sect1 id="ch0007s01">
+      <title>DANIEL J. SCHAEFER, PH.D.</title>
+      <para>Visiting Professor  Department of Electrical and Computer Engineering  Duke University  Durham, NC</para>
+    </sect1>
+    <sect1 id="ch0007s02">
+      <title>INTRODUCTION</title>
+      <para>Radiofrequency (RF) energy is defined as nonionizing electromagnetic radiation in the  frequency range of 3-kHz to 300-GHz, as distinguished from the very high photon energies  and frequencies associated with ionizing electromagnetic radiation (e.g., gamma and X- rays). The RF spectrum includes radar, ultra-high frequency (UHF), and very high frequency  (VHF) television, AM and FM radio, and microwave communication frequencies. Resonant  radiofrequency (RF) magnetic fields are used in magnetic resonance (MR) for imaging and  spectroscopy procedures (1).</para>
+      <para>This chapter will present and discuss various important aspects of RF power deposition  associated with magnetic resonance imaging (MRI) procedures with an emphasis on non- clinical, physical factors, calculations, and measurements used to characterize this electro- magnetic field.</para>
+    </sect1>
+    <sect1 id="ch0007s03">
+      <title>RADIO FREQUENCY MAGNETIC FIELDS AND MRI PROCEDURES</title>
+      <para>During an MRI procedure, the patient absorbs a portion of the transmitted RF energy,  which may result in tissue heating (2-16). Thus, whole-body and localized heating are the  primary safety concerns associated with the absorption of RF energy. Notably, the elevation  of core body temperatures to sufficiently high levels may be life-threatening (2, 17, 18).  With local transmit RF coils, the primary safety concern is to prevent burns by limiting lo- calized heating.</para>
+      <para>The specific absorption rate, or SAR, is the RF power absorbed per unit mass of tissue  and is the metric for RF power deposition typically reported in W/kg. SAR is believed to  serve as a crude measure of heating potential. It is essential for patient safety to limit whole-</para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 208</para>
+      <para>body-averaged and localized temperatures to appropriate SAR levels (2, 18-23). Therefore,  national and international safety standards (2, 19-21) appropriately limit or recommend  SAR levels for clinical MRI examinations. Heating experienced by the patient during an  MRI examination depends on the RF power deposited per unit mass (or SAR), ambient  temperature, relative humidity, airflow rate, blood flow, sweating rate, and patient insula- tion.</para>
+      <para>Resonant frequency scales with the static magnetic field strength and nuclei of interest.  For hydrogen protons, the resonant RF frequency is 42-MHz/Tesla (1). The tip angle is pro- portional to the area under the envelope of the RF waveform. Typically, the amplitude of  the RF pulse (i.e., the tip angle) is adjusted to maximize the received signal. For a given  waveform, RF energy is proportional to the square of the tip angle. Only the magnetic com- ponent of the RF field is useful in MRI. Designs usually reduce electric field coupling to  patients. Since RF power deposition is mostly through magnetic induction, the distribution  of the RF power deposition associated with an MRI procedure tends to be mostly peripheral  or on the surface of the subject’s body (9-11). Plane wave exposures (in non-MRI applica- tions) may lead to higher heating at greater depths (18, 24).</para>
+      <para>The average RF power (and SAR) is proportional to the number of images per unit time  and peak RF power. Peak RF power depends on patient dimensions, the RF waveform, flip  angle, and whether the MR system’s transmit RF coil is operating in a linear or quadrature  (i.e., has a circularly polarized magnetic field vector) mode during the transmission of RF  energy. Notably, quadrature excitation lowers RF peak power requirements and SAR by a  factor of two and “stirs” any field inhomogeneities (10). For a given static magnetic field  strength and RF waveform, SAR is independent of the type of nucleus.</para>
+    </sect1>
+    <sect1 id="ch0007s04">
+      <title>MR SAFETY STANDARDS</title>
+      <para>The United States, Food and Drug Administration (FDA) published &quot;Non-Significant  Risk Criteria&quot; for MR systems (22). These criteria state that clinical MRI examinations need  Investigational Device Exemption (IDE) if the SAR exceeds the following levels:</para>
+      <para>(1) 4-W/kg (averaged over the whole body over any 15-min. period) or</para>
+      <para>(2) 3.2-W/kg (averaged over the head over in any 10-min. period).</para>
+      <para>Notably, the FDA’s significant risk criteria also include limits that are unrelated to RF  power deposition.</para>
+      <para>The International Electrotechnical Commission (IEC) developed the international MRI  safety standard IEC 60601-2-33 (23). The IEC MRI safety standard is three-tiered. The first  tier is referred to as the <emphasis role="italics">Normal Operating Mode</emphasis> and is for routine scanning of patients.  The second tier is designated as the <emphasis role="italics">First Level Controlled Operating Mode</emphasis>. The MR system  operator must take a deliberate action (usually using an “accept” button on the MR system  console) to enter the <emphasis role="italics">First Level Controlled Operating Mode</emphasis>. This mode provides higher  MR system performance, but requires the MRI healthcare worker to closely monitor the  patient during the MRI examination. Finally, the third tier is the <emphasis role="italics">Second Level Controlled </emphasis> <emphasis role="italics">Operating Mode</emphasis>, which is used only for research purposes under limits controlled by an  Investigational Review Board (IRB).</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">209</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 209</para>
+      <para><emphasis role="bold">210</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para>When the environmental temperature is ≤ 25˚C, the current IEC MRI safety standard  for RF energy during an MRI procedure permits (assuming SAR averaged over any 10-sec- ond period ≤ 2 times the 6-min. average SAR limit) the following limits for volume transmit  RF coils:</para>
+      <para>a) Whole-body SAR (averaged over any 6-min period):   1) The Normal Operating Mode - SAR ≤ 2-W/kg;  2) The First Level Controlled Operating Mode - SAR ≤ 4-W/kg;  3) The Second Level Controlled Operating Mode - SAR &lt; IRB limit.  b) Partial Body SAR (averaged over any 6-min. period):  1) The Normal Operating Mode - SAR ≤ 10 W/kg - (8-W/kg * exposed patient mass /  patient mass);  2) The First Level Controlled Operating Mode - SAR ≤ 10-W/kg - (6-W/kg * exposed  patient mass / patient mass);   3) The Second Level Controlled Operating Mode - SAR &lt; IRB limit.  c) Head SAR (averaged over any 6-min. period):  1) The Normal Operating Mode - SAR ≤ 3.2-W/kg;  2) The First Level Controlled Operating Mode - SAR ≤ 3.2-W/kg;  3) The Second Level Controlled Operating Mode - SAR &lt; IRB limit.  The maximum energy limit is to be determined by the risk management file (note, pre- viously this was equivalent to 4-W/kg for one hour). Whole-body SAR limits are de-rated  by 0.25-W/kg for each degree C that the environmental temperature exceeds 25˚C for the  First Level Controlled Operating Mode, only.</para>
+      <para>For local transmit RF coils, local SAR limits (averaged over the worst-case 10-grams  for 6- min.) are:</para>
+      <para>a) The Normal Operating Mode   1) SAR ≤ 10-W/kg in the head or trunk (provided local temperature rise in the orbits is  limited to a 1˚C).  2) SAR ≤ 20-W/kg in the extremities;  b) The First Level Controlled Operating Mode- SAR ≤ 3.2-W/kg;  1) SAR ≤ 20-W/kg in the head or trunk (provided local temperature rise in the orbits is  limited to a 1˚C).  2) SAR ≤ 40-W/kg in the extremities;  c) The Second Level Controlled Operating Mode - SAR &lt; IRB limit.</para>
+      <para>Note that the third edition of IEC 60601-2-33 is current as this is written. Work is con- tinuing on improving the scientific basis for local SAR limits or some equivalent criterion.</para>
+      <para>The IEC 60601-2-33 does not require local SAR limits for volume transmit RF coils,  but does require local SAR limits for local transmit RF coils that may produce inhomoge- neous RF electromagnetic fields.  For 3-Tesla MR systems and higher, MR image “shading”  can be a concern.  This issue is apparently associated with the standing waves interfering  at field strengths where electrical lengths in the body that approach, or are less than, the di- mensions of the body.  There are now efforts (known as dual drive, parallel transmit, ellip- tical drive, or RF shimming; parallel transmit will be used here to represent these techniques)  to minimize shading by adjusting excitations on two or more RF channels to improve the  quadrature uniformity in the body (not necessarily in air) for a particular field of view.   These techniques are intended to improve quadrature uniformity in the body and reduce or</para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 210</para>
+      <para>at least not increase the local SAR over that caused by conventional quadrature (in air) ex- citation.  The local SAR level could increase if the excitation is not properly controlled.  Since there is a long safety record associated with conventional quadrature excitation, there  generally is no concern provided that parallel transmit does not generate a local SAR higher  than conventional quadrature imaging for similar tissues. However, the scientific basis for  local SAR limits (i.e., RF power averaged over the worst case 10 grams) is currently unclear.</para>
+      <para>Moritz and Henriques (25, 26) found that the thresholds for local thermal damage to  skin depended non-linearly on local tissue temperature and its duration. Comparisons of  the effectiveness of microwave hyperthermia protocols for cancer therapy with various tem- perature-time courses have been modeled in terms of the equivalent cumulative exposure  minutes at 43 degrees C (27). These values are known as CEM43. A proposal has been  made to use CEM43-derived limits to replace existing SAR safety limits (28). The proposed  CEM43 estimates tissue viability through Arrhenius equations based on temperature due to  local SAR from numerical simulations, duration, mass blood flow, and most sensitive ex- posed tissue type (29, 30).  It is not yet certain whether approximations made in deriving  CEM43 limits to determine thermal safety for MRI and spectroscopy are accurate. Safety  based on whole-body, head, and local SAR limits has been effective for the approximately  35-year history of MRI (30, 31). In addition, a vast array of implants and devices potentially  used in patients undergoing MRI examinations are classified as “MR Conditional” meaning  that they are safe for patients as long as certain specified conditions are followed, which  typically include a particular whole-body-averaged SAR level (32). It is of interest that in  2011 the Health Council of the Netherlands decided there was no need to change their elec- tromagnetic field exposure limits from SAR to time-temperature (33). Perhaps CEM43 or  something similar might find at least indirect use in studying appropriate RF safety limits  for local SAR values.</para>
+      <para>Another IEC safety standard, IEC 60601-1, establishes additional safety criteria for  medical devices including electrical, mechanical, and thermal safety (34).  Surface contact  temperatures are limited to 41.0°C (34). Note that during an MRI examination using a high  SAR, the average skin temperature of a human subject approaches 37.0°C (for a 4.0°C mar- gin for temperature rise). During an MRI examination using very low SAR, the average  skin temperature is typically 33.0°C (for a temperature rise margin of 8.0°C).</para>
+      <para>In 2013, the American College of Radiology published a useful paper for MRI safety  guidance (35).  This paper is not a regulatory document but, instead, it has various recom- mendations and suggestions for safety procedures for MRI facilities, some of which pertain  to the topic of this chapter.</para>
+      <para>The Technical Specification, ISO/TS 10974:2011 (36), is a trial standard available for  active medical implants to aid in determining whether they are MR Conditional devices.  MR Conditional devices are acceptable for patients undergoing MRI examinations only if  certain conditions apply. There are also several American Society for Testing and Materials  (ASTM) International test standards used to determine safe conditions for use for MR Con- ditional implants and devices (32, 37-41). Note that the ASTM International heating test  implicitly assumes quadrature excitation for the RF energy.  Importantly, parallel transmit  excitation might produce different heating results.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">211</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 211</para>
+      <para><emphasis role="bold">CALCULATION OF MAGNETIC AND ELECTRIC FIELDS ASSOCIATED </emphasis> <emphasis role="bold">WITH THE SPECIFIC ABSORPTION RATE (SAR)   </emphasis></para>
+      <para>The patient’s RF power absorption during an MRI procedure can be approximated from  quasi static analysis for homogeneous objects, assuming that electric field coupling to the  patient can be neglected as well as the RF phase (42, 43). In practice, quasi-static approxi- mations for whole-body SAR in homogeneous spheres appear to be adequate for MR sys- tems operating up to 1.5-T/64-MHz. Calculation of actual SAR levels at 3-T/128-MHz and  above, and for local SAR at all static magnetic field strengths and frequencies, requires nu- merical techniques. Many commercially available software packages exist at this time.   Quasi-static methods will usually overestimate whole-body and local SARs (under homo- geneous conditions and for certain shapes) when conductor dimensions approach a wave- length.</para>
+      <para>Assume a line segment of length, dl, carries current, I, and is located a vector, r', from  the origin, O, (<emphasis role="bold">Figure 1</emphasis>). The magnetic vector potential, A, at a point located a vector r (x2  ,y2, z2) from the origin may be expressed as (24, 43, 44):</para>
+      <para>The radiofrequency magnetic field, B1, may then be found from the magnetic vector  potential:</para>
+      <para>(1)</para>
+      <para><emphasis role="bold">212</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para><emphasis role="bold">Figure 1.</emphasis> Calculation of the magnetic vector potential, A.</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0204.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 212</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0205.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>Note that B1 scales with current. Coil current is scaled until the desired B1 is produced  at the appropriate site. Usually, the 180-degree pulse centers on the site resulting in the  greatest total return signal. The signal distribution, S (x, y, z), might be approximated as:</para>
+      <para>The total signal is the sum of the signal from all locations. Magnetic vector components  are scaled by the coil current required to produce the 180-degree (or whatever is desired)  flip angle.</para>
+      <para>Let ω be the radian frequency and let Φ be the electrostatic potential due to electric  charges at electrical conductivity discontinuities. Neglecting currents induced from capac- itive coupling, the electric field, E, may be expressed as:</para>
+      <para>While it is generally necessary to use numerical techniques to find the electrostatic po- tential, for certain ideal geometries such as conductive spheres the electrostatic potential  term vanishes.</para>
+    </sect1>
+    <sect1 id="ch0007s05">
+      <title>QUASI-STATIC ESTIMATION OF WHOLE-BODY SAR</title>
+      <para>The specific absorption rate, SAR, is defined above as the power absorbed per unit  mass. Let <emphasis role="italics">DC</emphasis> be the ratio of average to peak power over the pulse repetition period. Let σ  be the electrical conductivity and ρ be the density of the surrounding tissue. SAR at a point  in a sphere may be expressed as:</para>
+      <para>For RF coils that produce homogeneous B1 fields, it is possible to investigate the whole- body averaged and peak SARs theoretically for certain object shapes. The patient’s RF</para>
+      <para>(2)</para>
+      <para>(3)</para>
+      <para>(4)</para>
+      <para>(5)</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">213</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 213</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0206.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0207.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0208.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0209.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>power absorption during an MRI examination can be approximated from quasi static analy- sis assuming electric field coupling to patients can be neglected (15, 43, 44). Consider a  homogeneous, tissue sphere of radius <emphasis role="italics">R</emphasis>. Assume that this sphere is placed in a uniform RF  electromagnetic field of strength B1. The total average RF power, Ptotal, deposited in the  sphere may be expressed as:</para>
+      <para>The average Specific Absorption Rate, SARave, may be expressed as:</para>
+      <para>The highest spatial peak SAR, SARpeak, for a homogeneous sphere may be found, as  follows:</para>
+      <para>RF energy-induced heating during an MRI procedure is by magnetic induction. Power  deposition in homogeneous spheres immersed in uniform RF electromagnetic fields, in- creases with the fifth power of the radius, <emphasis role="italics">R</emphasis> [see Equation (6)]. Because heating is largely  peripheral and little deep body heating occurs in a human subject, the body may more easily  dissipate the additional heat load. The RF power, <emphasis role="italics">P</emphasis>, deposited between a smaller radius, r  = α * <emphasis role="italics">R</emphasis> (where α&lt;1), and the outer radius, <emphasis role="italics">R</emphasis>, normalized to the total power deposited is <emphasis role="italics">n</emphasis>:</para>
+      <para>Equation (8) shows that peak power deposition for homogeneous spheres is 2.5 times  the average (15), consistent with the peripheral nature of RF deposition during the MRI ex- amination. From Equation (9) it is clear that, at least for homogeneous spheres, 87% of the  total RF power deposition is in the outer third of the sphere.</para>
+      <para>RF pulses are used in MRI examinations to flip the macroscopic magnetization vectors  through desired angles. Recall that nuclei with magnetic moments precess about the static  magnetic field vector in accordance with the right hand rule. Linearly polarized waves may</para>
+      <para>(6)</para>
+      <para>(7)</para>
+      <para>(8)</para>
+      <para>(9)</para>
+      <para><emphasis role="bold">214</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 214</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0210.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0211.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0212.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0213.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>be treated as the superposition of left and right handed circularly polarized waves. Only  that portion of the RF that is circularly polarized in the same sense as the nuclear precession  influences the nuclei (<emphasis role="bold">Figure 2</emphasis>). The other RF component contributes noise and increases  RF power requirements. During the MRI examination, transmit RF coils may be driven lin- early (linearly polarized RF electromagnetic vector) or they may be driven in quadrature  (circularly polarized RF electromagnetic vector). Quadrature RF transmit systems reduce  patient heating during the MRI procedure by a factor of two, and spatially stir any RF “hot- spots” (9).</para>
+      <para>Let γ be the magnetogyric ratio for a given type of nucleus. Note that the energy, W,  deposited per pulse depends on the square of the RF tip angle, θ, the square of the static  field strength, B0, and inversely on RF pulse width, τ, and a waveform factor, η:</para>
+      <para>It is important to note that, for a given field strength and RF waveform, SAR is inde- pendent of the nucleus species.</para>
+      <para>(10)</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">215</emphasis></para>
+      <para><emphasis role="bold">Figure 2.</emphasis> Comparison of quadrature and linear RF excitation of spins. Note that linear  excitation wastes half the applied power.</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0214.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 215</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0215.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+    </sect1>
+    <sect1 id="ch0007s06">
+      <title>SAR “HOT-SPOTS”</title>
+      <para>Next, consider localized regions of RF power deposition that might lead to heating,  commonly referred to as SAR &quot;hot spots&quot;. Inhomogeneties in the electrical properties of  tissue may result in high local SAR levels. RF-induced biological effects appear to depend  upon temperature rather than on RF power deposition. A region of high local SAR may not  be a region of high temperature due to blood flow or diffusion or other cooling mechanisms.  The distinction between temperature hot spots and SAR hot spots is often ignored or mis- understood.</para>
+      <para>What effect do inhomogeneities have on the distribution of RF power deposition? Using  spherical models, Schenck and Hussain (45) demonstrated that production of power depo- sition “hot spots” depends upon both the dielectric constants and the conductivities of the  media. The model was later reformulated and used to investigate several problems involving  worst-case conditions and magnitudes of local power deposition (10). Assume that there is  a small, homogeneous sphere (sphere 1) with permittivity ε1 and conductivity σ1 (Figure  3). Let sphere 2 be a much larger, homogeneous sphere of “standard tissue” representing  the body. Sphere 2 has a permittivity ε2 and conductivity σ2. Sphere 1 may be placed outside  sphere 2 at the pole (tangential electric field location) or at the equator (normal electric field  location). In addition, sphere 1 may be placed inside sphere 2. When sphere 1 is placed near  the pole of sphere 2, the local power deposition is amplified by a factor, Ap, which may be  expressed as:</para>
+      <para><emphasis role="bold">216</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para><emphasis role="bold">Figure 3.</emphasis> Effect of inhomogeneities on RF power deposition. To model the effect, a  small, homogeneous sphere is placed either inside a larger tissue sphere or at the pole or  equator of the larger tissue sphere (with respect to the RF electric field vector).</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0216.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 216</para>
+      <para>When sphere 1 is placed near the equator of sphere 2, the local power deposition am- plification factor, Ae, may be expressed as:</para>
+      <para>Finally, if sphere 1 is placed inside sphere 2, the local power deposition amplification  factor, As, may be represented as:</para>
+      <para>All the terms in equations (11), (12), and (13) are positive. The electrical properties of  sphere 1 are treated as variables so conditions for maximum amplification of local power  deposition may be determined.</para>
+      <para>When sphere 1 is near the pole, amplification of local power deposition, Ap, is greatest  when sphere 1 is a perfect conductor (σ1 ≈ ∞). A perfectly conducting small sphere at the  pole will result in a local amplification factor of Ap = 9. Recall that the spatial peak SAR in  a homogeneous sphere is already 2.5 times average SAR for the sphere. Combining these  results, the peak SAR at the pole is = 22.5 times the SAR averaged over sphere 2. Conduc- tive leads (e.g., used with electrocardiogram monitoring equipment) placed in contact with  the skin of patients may simulate this situation. Note that there is almost no amplification  of local power deposition if sphere 1 is a radius or more from sphere 2. Spacing conductors  well away from patients can dramatically reduce the local heating potential.</para>
+      <para>Assume sphere 1 is placed near the equator of sphere 2. Then the greatest amplification  of local power deposition takes place when sphere 1 electrical properties are minimal; i.e.,  σ1 = 0 and ε1 = ε0 (free space value). So for a void, such as an air bubble, Ae = 2.25. Fat or  bone at the equator produces slightly smaller amplifications (10, 37). When a low conduc- tivity sphere is located near the outer edge of the equator of a larger (conductive) sphere,  the local SAR is highest and is limited to 5.625 times the average SAR.</para>
+      <para>Finally, assume sphere 1 is placed inside the large sphere. This situation may simulate  an implanted prostheses. While local SAR is amplified the most when σ1 = 2σ2 and ε1 =  2ε2 (not a likely situation), the amplification factor is only As = 1.125. The highest local  SAR works out to 2.8125 times the local average SAR.</para>
+      <para>(13)</para>
+      <para>(12)</para>
+      <para>(11)</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">217</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 217</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0217.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0218.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0219.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>The analyses above assume linearly polarized RF magnetic fields. Notably, if the trans- mit RF coil produces quadrature excitation, then the amplification of local power deposition  is reduced. The reduction in local power deposition results from rotating eddy current loops  during quadrature excitation. Sphere 1 alternates between the equator and the pole of the  larger sphere during quadrature excitation. So, worst-case quadrature local SAR amplifica- tion (assuming inhomogeneous biology) is 0.5 * (2.5 + 2.8125) = 2.66. For maximum SAR  amplification at the equator, the electrical properties of sphere 1 approach those of a void.</para>
+      <para>Similarly, for an infinitely conducting sphere 1, during quadrature RF excitation, the  worst-case local power deposition amplification would be 0.5 * (2.5 + 22.5) = 12.5. How- ever, the presence of a conductor may complicate the production of a perfect quadrature  RF field by setting up difficult boundary conditions.</para>
+      <para>Currently, many useful electromagnetic simulation packages are commercially available  that can calculate whole-body average, head average, partial body average, and local SAR  (averaged over the worst-case contiguous 10-grams).  As mentioned under the MRI safety  standards section above, it turns out that, in the transmit body RF coil, the ratio of peak  local SAR to the whole-body average SAR may be high (as high as about 13 times) (38).</para>
+      <para>Transmit RF body coils induce electric fields in patients during MRI procedures. RF- induced electric fields are largest near RF coil conductors (<emphasis role="bold">Figure 4</emphasis>). Transmit RF coils  may have high electric fields near capacitors on the coil as well. During high SAR MRI ex- aminations, placing patients well away from transmit body RF coil conductors may reduce</para>
+      <para><emphasis role="bold">218</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para><emphasis role="bold">Figure 4.</emphasis> Electric fields inside a low-pass, RF birdcage coil. Note that the electric fields  reach their maximum magnitude at the coil and fall to zero along the coil axis. Capacitors  along the coil wall may also give rise to high electric fields, locally. Any conductors  should be routed along regions of the low electric field or orthogonal to the electric field  to prevent problems or issues.</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0220.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 218</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">219</emphasis></para>
+      <para><emphasis role="bold">Figure 5.</emphasis> Receive-only RF surface coil with blocking network. During body RF coil  transmission, the blocking network, Z, becomes a high impedance to prevent high-in- duced currents from flowing in the coil. Such currents could lead to extremely high, local  SAR levels. During surface RF coil reception, the blocking network becomes a very low  impedance to improve the image signal-to-noise ratio.</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0221.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">Figure 6.</emphasis> Any loop whose axis is parallel to the RF electromagnetic field may produce  high currents and voltages by Faraday induction. Conductive loops of a relatively large  size should be avoided in the MR system.</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0222.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 219</para>
+      <para>local power deposition and heating. The axis of birdcage RF coils is nearly a virtual ground.  Conductors that must be introduced into the bore will minimally affect local SAR if they  are placed along this virtual ground.</para>
+      <para>Receive-only RF coils, including most surface coils, typically use transmit body RF  coils to transmit RF excitation pulses. Receive-only coils are resonant during RF reception.  However, if these RF coils were resonant during transmission of RF energy, then large cur- rents may be produced in the receive-only coils. These large currents would, by Lenz’s law,  induce opposing RF magnetic fields. Flip angle profiles could be altered by the opposing  RF magnetic fields, degrading image quality. The opposing RF magnetic fields may induce  large electric fields in the body leading to large local SAR levels. Manufacturers use high  impedance blocking networks to detune surface coils and limit surface coil current during  body coil transmit (<emphasis role="bold">Figure 5</emphasis>).</para>
+      <para>If conductive loops (e.g., associated with the use of monitoring equipment or even a  coiled transmission line) are introduced into the MR system, high local SAR levels may re- sult (39, 40) (<emphasis role="bold">Figure 6</emphasis>). Even straight conductors may increase local SAR significantly (41- 44) (<emphasis role="bold">Figure 7</emphasis>). Therefore, for patient safety, fiber optic-based devices should be used instead  of conductors, when possible.</para>
+      <para>Local temperature rise typically does not correlate well with local power deposition in  a human subject. Thermal diffusion, blood flow, thermal radiation, sweating, and airflow  may influence the local temperature rise. Consider a region with a small mass, <emphasis role="italics">m</emphasis>, cooled  by blood flowing from a cooler, more massive region. Under steady-state conditions, the  SAR that is dumped to the more massive region depends upon an energy constant, <emphasis role="italics">K</emphasis>, the  specific heat, C, the temperature difference between the massive and small region, Δ<emphasis role="italics">T</emphasis>, and  the mass rate of blood flow, <emphasis role="italics">dM/dt</emphasis>, and may be expressed as:</para>
+      <para><emphasis role="bold">220</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para><emphasis role="bold">Figure 7.</emphasis> Even straight conductors may act as antennas and couple to the RF electric  field (which is highest near the wall of the body RF coil). Loops may also short out a  mode of quadrature coils, resulting in linear excitation.</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0223.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 220</para>
+      <para>The SAR required for a 1°C temperature rise in various organs may be estimated using  Equation (14). Blood flow rates per unit mass vary from 128-ml/kg/min for the cutaneous  circulation to 4200-ml/kg/min for the kidneys. <emphasis role="bold">Table 1</emphasis> lists local SAR levels required to  produce a local temperature rise of one degree C for various organs (23). <emphasis role="bold">Table 1</emphasis> demon- strates the homogenizing property of blood flow to limit temperature &quot;hot-spots&quot; in the  body. Resulting steady-state (maximum) temperature rises for each organ exposed locally  to 4-W/kg is also presented in <emphasis role="bold">Table 1</emphasis>. Athey (53) has shown similar theoretical results  demonstrating that significant thermal “hot spots” are not probable for typical head expo- sures.</para>
+    </sect1>
+    <sect1 id="ch0007s07">
+      <title>RF POWER DEPOSTION IN BIRDCAGE COILS AND NEAR   CONDUCTORS</title>
+      <para>Ideally, birdcage coils would produce uniform B1 fields.  Perfectly uniform B1 requires  an infinitely long birdcage coil (or a spherical current density). Components of <emphasis role="italics">A</emphasis> (and thus  <emphasis role="italics">E</emphasis>) must be parallel to the current density on the conductors that produced them.  The B1  field is related to magnetic vector potential:</para>
+      <para>(14)</para>
+      <para>(15)</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">221</emphasis></para>
+      <para><emphasis role="bold">Organ</emphasis> <emphasis role="bold">Mass (kg)</emphasis> <emphasis role="bold">Blood Flow </emphasis> <emphasis role="bold">(ml/kg/min)</emphasis></para>
+      <para><emphasis role="bold">Maximum SAR </emphasis> <emphasis role="bold">(W/kg)*</emphasis></para>
+      <para><emphasis role="bold">Maximum </emphasis><emphasis role="bold">Δ</emphasis><emphasis role="bold">T </emphasis> <emphasis role="bold">(°C)**</emphasis></para>
+      <para><emphasis role="bold">Brain</emphasis> 1.4 540 31 0.13</para>
+      <para><emphasis role="bold">Heart (Muscle)</emphasis> 0.3 840 48.3 0.08</para>
+      <para><emphasis role="bold">Liver</emphasis> 2.6 577 33.4 0.12</para>
+      <para><emphasis role="bold">Kidneys</emphasis> 0.3 4200 243.2 0.02</para>
+      <para><emphasis role="bold">Skin (normal)</emphasis> 3.6 128 7.4 0.54</para>
+      <para><emphasis role="bold">Skin (vasodilation)</emphasis> 3.6 1500 86.9 0.05</para>
+      <para><emphasis role="bold">Table 1.</emphasis> Maximum local SAR level for local temperature rise of 1˚Celsius for various  perfused organs (data calculated from Reference 60).</para>
+      <para>*Maximum local SAR level which would cause a local temperature rise of 1˚C, ignoring  vasodilatation and changes in cardiac output.  **Maximum local temperature rise for local SAR exposures of 4.0-W/Kg, assuming no  vasodilatation and no change in cardiac output.</para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 221</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0224.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0225.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>Assume that (at the moment of time we look) <emphasis role="italics">B</emphasis><emphasis role="italics">1</emphasis> = <emphasis role="italics">B</emphasis><emphasis role="italics">1x</emphasis>  (<emphasis role="italics">B</emphasis><emphasis role="italics">1y</emphasis> = <emphasis role="italics">B</emphasis><emphasis role="italics">1z</emphasis> = 0).  Assume that  RF coil conductors lie only along the <emphasis role="italics">z</emphasis> direction, then <emphasis role="italics">A</emphasis><emphasis role="italics">y</emphasis> = <emphasis role="italics">A</emphasis><emphasis role="italics">x</emphasis> = 0 (remember that <emphasis role="italics">B</emphasis><emphasis role="italics">1</emphasis> is  constant).</para>
+      <para>Let “a” be the radius of the birdcage coil.  Without significant coupling, equation (16)  becomes:</para>
+      <para>Note that the z-component of the RF electric field inside an ideal birdcage coil depends  linearly on the radial position.  Suppose, for example, that at ω = 2π (63.86-MHz), <emphasis role="italics">a</emphasis> = 0.3- m, and <emphasis role="italics">B</emphasis><emphasis role="italics">1</emphasis> = 14.7-μT, then <emphasis role="italics">E</emphasis><emphasis role="italics">z</emphasis> = (- 5898-v/m<superscript>2</superscript>) <emphasis role="italics">y</emphasis> and <emphasis role="italics">E</emphasis><emphasis role="italics">max</emphasis> = 1,769-v/m.</para>
+      <para>Equation (16) predicts that the electric fields (and currents) in a birdcage coil of radius,  <emphasis role="italics">a</emphasis>, need to be sinusoidal to produce a uniform magnetic field:</para>
+      <para>Assume that the “duty cycle” (ratio of average to peak RF power), <emphasis role="italics">DC</emphasis>, is 5%. Assume  the RF coil length, <emphasis role="italics">h</emphasis>, is 0.6-m. Then a conductor of length, <emphasis role="italics">L</emphasis>, (where <emphasis role="italics">L</emphasis> ≤ <emphasis role="italics">h</emphasis>) making an  angle φ with the z-axis, will (ignoring RF electrical length and matching issues) experience  a voltage, <emphasis role="italics">V</emphasis>, induced on it in the birdcage coil:</para>
+      <para>If the conductor, whose impedance is <emphasis role="italics">Z</emphasis>, contacts a patient through a cross section of  area, α, the current density, <emphasis role="italics">J</emphasis>, may be expressed as:</para>
+      <para>(17)</para>
+      <para>(16)</para>
+      <para>(18)</para>
+      <para>(19)</para>
+      <para>(20)</para>
+      <para><emphasis role="bold">222</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 222</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0226.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0227.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0228.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0229.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0230.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>If the patient conductivity is σ, then the local electric field, <emphasis role="italics">E'</emphasis>, in the patient (at the  point of conductor contact) is <emphasis role="italics">E'</emphasis> = <emphasis role="italics">J/</emphasis>σ. Assume the patient density is ρ. Then the local SAR  at the point of contact may be written as:</para>
+      <para>Therefore, the SAR from conductors in the bore of an MR system may be limited by  making the impedance to the body large (<emphasis role="italics">Z</emphasis> = ∞). SAR from conductors may also be limited  by keeping conductors very short (<emphasis role="italics">L</emphasis> = 0). Additionally, the SAR from conductors may be  minimized by routing the conductors down the center of the bore (<emphasis role="italics">y</emphasis> = 0) or by routing them  along φ = π/2. Note that the analysis above was for a linear coil in the homogeneous region  (away from coil conductors) for simplicity.</para>
+    </sect1>
+    <sect1 id="ch0007s08">
+      <title>WHOLE-BODY SAR MEASUREMENTS</title>
+      <para>By measuring the RF peak forward, reflected, and (possibly) dummy load power levels  required for 180-degree pulses (<emphasis role="bold">Figure 8</emphasis>) with a known waveform, it is possible to measure  the energy absorbed per pulse by the patient. Note that these measurements may be made  while exposing human subjects to very low SAR levels. This information may be used to  calculate whole-body SAR for any pulse with that patient in the same location. Details are  in a National Electrical Manufacturers Association (NEMA) Standard (54).</para>
+      <para>(21)</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">223</emphasis></para>
+      <para><emphasis role="bold">Figure 8.</emphasis> Experimental measurement of the whole-body-averaged specific absorption  rate (SAR).</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0231.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 223</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0232.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+    </sect1>
+    <sect1 id="ch0007s09">
+      <title>TRANSMIT/RECEIVE SURFACE COILS AND LOCAL SAR</title>
+      <para>Planar, surface transmit RF coils are often used in MR spectroscopy studies. The pri- mary safety concern with transmit/receive surface coils involves local SAR issues. While  it is straightforward to calculate local RF power deposition in volume transmit RF coils,  estimation of spatial peak specific absorption rate (SAR) for planar transmit surface coils  is complex. To prevent excessive local RF power deposition, it is imperative to at least es- timate an upper bound for the local SAR. The local SAR is highest near the coil conductors.  For such cases, simplifying assumptions may be made to calculate appropriate design limits  (55). Assume there is an anti-parallel pair of infinitely long conductors of width, <emphasis role="italics">d</emphasis>, with a  return a distance 2 * <emphasis role="italics">a</emphasis><emphasis role="italics">1</emphasis> apart. Schenck, et al. (56) showed that the in-plane magnetic vector  potential at a distance <emphasis role="italics">r</emphasis> from one conductor for the case where <emphasis role="italics">d</emphasis> &lt;&lt; <emphasis role="italics">a</emphasis><emphasis role="italics">1</emphasis> (and where quasi- static conditions apply) may be expressed as:</para>
+      <para>The local SAR may be calculated by inserting <emphasis role="italics">A</emphasis><emphasis role="italics">z</emphasis> from Equation (22) into Equation (5).  It is necessary to scale current to levels that produce the desired <emphasis role="italics">B</emphasis><emphasis role="italics">1</emphasis> at the desired location.  Equations (2) and (22) may be used to find <emphasis role="italics">B</emphasis><emphasis role="italics">1</emphasis>:</para>
+      <para>(22)</para>
+      <para><emphasis role="bold">224</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para><emphasis role="bold">Figure 9.</emphasis> Normalized local SAR and B1 versus distance for a circular RF coil. B1 is cal- culated along the coil axis. The local SAR is calculated from under the coil conductor.</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0233.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 224</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0234.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>Note that the local SAR falls off much faster than <emphasis role="italics">B</emphasis><emphasis role="italics">1</emphasis> (or signal) with distance to the  patient. In <emphasis role="bold">Figure 9</emphasis>, normalized <emphasis role="italics">B</emphasis><emphasis role="italics">1</emphasis> and normalized local SAR are plotted against the nor- malized distance from a planar, circular coil. A seven-fold reduction in local SAR may be  achieved at the expense of a 5% reduction in <emphasis role="italics">B</emphasis><emphasis role="italics">1</emphasis>.  Equations (5), (22), and (23) should permit  coil designers to theoretically estimate the local SAR. Quasi-static calculations could also  be done using Equations (1) through (5).</para>
+    </sect1>
+    <sect1 id="ch0007s10">
+      <title>MEASUREMENT OF LOCAL SAR IN PHANTOMS</title>
+      <para>It is possible to experimentally measure local SAR in phantoms using materials with  electrical properties and density similar to muscle (24, 57-59). To accomplish this, it is  useful to use fiber-optic (non-conductive) temperature probes under the transmit RF coil  conductors in contact with the tissue-phantom and thermally isolated from the RF coil. The  local SAR may be calculated from the early (linear) portion of the heating curve:</para>
+      <para>In the equation above, <emphasis role="italics">C</emphasis> is the specific heat of the tissue and <emphasis role="italics">T</emphasis> is the temperature. Equa- tion (24) is expressed in MKS units. Other loss mechanisms (convection, radiation, and  conduction) must be minimized during the experiment. Convection may be limited by using  a gel-filled phantom (49). Conduction losses may be minimized by keeping materials insu- lated and by starting with the coil and the “tissue/phantom” at room temperature.</para>
+    </sect1>
+    <sect1 id="ch0007s11">
+      <title>SAFETY CONSIDERATION OF RECEIVE-ONLY RF SURFACE COILS</title>
+      <para>Exceptionally large surface coil currents may flow if receive-only RF surface coils were  resonant while RF excitation pulses are played out on the transmit body RF coil (59-61).  These currents may result in extremely high local SAR levels near the surface coil. In ad- dition, the surface coil reaction currents would destroy <emphasis role="italics">B</emphasis><emphasis role="italics">1</emphasis> homogeneity, by generating op- posing magnetic fields. To prevent such problems, a blocking network in the surface coil  presents a high impedance to limit surface coil currents during RF excitation (<emphasis role="bold">Figure 5</emphasis>).  The blocking impedance required depends on the area of the RF coil, frequency, and how  large an opposing field is to be allowed. Typical blocking impedances are a few hundred  ohms. Note that in the case of phased array receive coils, special care must be exercised to  avoid the development of high local electric fields from differential voltages on adjacent  conductors.</para>
+      <para>(24)</para>
+      <para>(23)</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">225</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 225</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0235.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0236.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>Unfortunately, surface coil blocking networks may become warm. IEC 60601-1 sets a  surface temperature limit (<emphasis role="italics">T</emphasis><emphasis role="italics">limit</emphasis> = 41°C) for objects that may touch human subjects (34).  Skin temperature under normal, non-MRI or low SAR conditions is approximately 33.0°C.  However, during an MRI procedure involving a high SAR level, skin blood vessels dilate,  the cutaneous circulation increases, and skin temperatures may approach the level of the  core temperature. In tests with phantoms initially at ambient temperature, a 4.0°C rise should  be the limit for systems capable of high SAR. For low SAR systems, the surface coil tem- perature rise may be limited to 8.0°C above ambient temperature.</para>
+    </sect1>
+    <sect1 id="ch0007s12">
+      <title>POTENTIAL MECHANISMS FOR RF BIOEFFECTS</title>
+      <para>Thermal effects arise from the temperature dependence of most biological functions.  Chemical reaction rates approximately double with each 10˚C rise in temperature (62). Pro- tein denaturation takes place at temperatures of approximately 45˚C (18). The fluidity of  cell membranes is also affected by temperature. Thermal effects may be caused by whole  body heating of the organism or by localized heating of tissues. During an MRI examination,  while only the body parts inside of the transmit RF coil are exposed to RF power deposition,  the entire body may be affected by thermal reactions.</para>
+      <para>The mechanisms behind non thermal effects are unclear. The energy of a single photon  at 85-MHz or 2-Tesla is 5.304 x 10<superscript>26</superscript> Joules (63). The energy of chemical bonds is much  larger. In fact, even relatively weak hydrogen bonds between groups in protein structures  have energies of 3.125 x 10<superscript>20</superscript> Joules (62). Notably, thermal energy at body temperature is  4.28 x 10<superscript>21</superscript> Joules, five orders of magnitude greater than the energy of RF photons at 2- Tesla (85-MHz).</para>
+    </sect1>
+    <sect1 id="ch0007s13">
+      <title>LITERATURE REVIEW: THERMAL PHYSICS AND PHYSIOLOGY</title>
+      <para>RF fields are too high in frequency to electrically stimulate excitable tissues (64). Thus,  as previously mentioned, the only well-established mechanism for RF energy-related bio- effects is heating (18). Guy, et al. (65) showed that the SAR threshold for cataractogenesis  is 100-W/kg. The highest safe core temperature for workers is considered to be 39.4°C (24,  66, 67). The threshold core temperature for teratogenic effects in pregnant women is 38.9°C  (60). During the day, core temperature fluctuates approximately 1°C or more (17, 68). Skin  temperature fluctuates over a range of 15°C (17). The skin pain threshold is 43°C (69). Fi- nally, the resting metabolic rate is 1.3-W/kg, while during vigorous exercise, in highly  trained athletes, may be as high as 18-W/kg (24).</para>
+      <para>Consider an insulated tissue section. In one hour, the insulated tissue will, when exposed  to an SAR of 1.0-W/kg, rise approximately 1.0°C. Insulated tissue would rise to infinite  temperature in infinite time at any finite SAR. In use, physiologic heat dissipation mecha- nisms of the human body limit temperature rise to a steady-state value. A body, whose outer  surface temperature, <emphasis role="italics">T</emphasis><emphasis role="italics">sk</emphasis>, is warmer than the ambient temperature, <emphasis role="italics">T</emphasis><emphasis role="italics">a</emphasis>, will radiate to the sur- roundings (17). When exposed to RF power deposition, the body temperature will increase  until steady-state conditions prevail. In a steady state, the body dissipates energy to the en- vironment at the same rate that it gains energy from RF power deposition. Temperature in-</para>
+      <para><emphasis role="bold">226</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 226</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">227</emphasis></para>
+      <para>creases initially, and then asymptotically approaches the final steady state value. The tem- perature time course may be expressed as:</para>
+      <para>In equation (25), τ is a constant, Δ<emphasis role="italics">T</emphasis>, is the temperature rise at any time, t, and Δ<emphasis role="italics">T</emphasis><emphasis role="italics">0</emphasis><emphasis role="italics"> , </emphasis>is  the steady state temperature rise. Note that an infinite duration RF exposure results in a fi- nite, non-linear temperature rise. If σs is taken as the Stefan-Boltzmann constant, and <emphasis role="italics">A</emphasis> is  the surface area of the body, then the radiated power, <emphasis role="italics">P</emphasis>, may be expressed as:</para>
+      <para>Consider a hypothetical, uninsulated human subject (70-kg) who is constrained to lose  energy to the environment only by radiation. Assume that the ambient temperature is 25°C</para>
+      <para>(25)</para>
+      <para>(26)</para>
+      <para><emphasis role="bold">Figure 10.</emphasis> Effects of specific absorption rate (SAR, W/kg) and ambient temperature on  human core temperature during 60-minute MRI procedures (i.e., based on Adair thermal  model assuming a relative humidity of 50%, clothing = 0.2 clo, and a 40% impairment of  blood flow at various SAR levels and ambient temperatures).</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0237.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 227</para>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0238.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title/>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0239.png" width="100%" scalefit="1"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>and the thermal neutral (steady state) temperature of the skin is 33 °C. In a steady state, the  hypothetical human would radiate about 1.4-W/kg, which is replaced by his own metabolic  energy at the same rate. The result is no change in deep body or core temperature.</para>
+      <para>Next consider the same hypothetical human, but this time the skin temperature has risen  to 38°C (vasodilatation of skin blood vessels may permit the skin to reach core temperature).  Now the hypothetical human radiates energy at a rate of 2.4-W/kg, 1-W/kg above his meta- bolic rate. This hypothetical human might experience a 1.0°C rise in temperature in one  hour when exposed to 2-W/kg, demonstrating the importance of ambient temperature to  the core temperature rise.</para>
+      <para>Adair and Bergulund (70, 71) utilized a mathematical thermal model of the body, based  on the Gagge model (72), to predict the effects of SAR, ambient temperature, impairment  of blood flow, relative humidity, clothing, and scan time on core temperature rise. Their  summarized results can be approximated with a simple program (71). The Adair program  was used to predict the effect of ambient temperature on core temperature rise (10) (<emphasis role="bold">Figure </emphasis> <emphasis role="bold">10</emphasis>). For the plot, it was assumed that clothing = 0.2 clo, relative humidity was 50%, blood  flow impairment was 40%, and the scan duration was 60 minutes. A 40% reduction in car- diac output is life threatening (73). From the plot, it is evident that an exposure to 4-W/kg  for an hour should result in only a 1°C core temperature rise when <emphasis role="italics">T</emphasis><emphasis role="italics">a</emphasis> = 19°C. However, if  <emphasis role="italics">T</emphasis><emphasis role="italics">a</emphasis> = 25°C, then 3-W/kg is needed. A one hour exposure to 1 W/kg even at <emphasis role="italics">T</emphasis><emphasis role="italics">a</emphasis> = 27°C should  result in no temperature rise. Of course, ambient temperature plays an important role in  core temperature rise.</para>
+    </sect1>
+    <sect1 id="ch0007s14">
+      <title>SUMMARY AND CONCLUSIONS</title>
+      <para>A variety of physical factors affect the manner in which the RF fields used for MRI ex- aminations impact patients. Both whole body and localized depositions of RF energy may  result in tissue heating. In consideration of this primary safety concern, regulatory agencies  have provided guidelines based on whole-body-averaged and/or peak SARs to ensure the  safe operation of MR systems. In this chapter, various techniques of calculating and esti- mating SARs associated with MRI procedures have been described. Additionally, there has  been a discussion of the possible mechanisms responsible for observed RF bioeffects and  a review of the thermal physics and mathematical models used to predict human thermal  responses to absorption of RF energy. This work served as the basis for characterizing the  RF fields used during MRI examinations and helps to estimate the thermophysiologic al- terations in patients.</para>
+    </sect1>
+    <sect1 id="ch0007s15">
+      <title>REFERENCES</title>
+      <para>1. Mansfield P, Morris PG. Advances in Magnetic Resonance. In: Waugh JS, Editor. NMR Imaging in Bio- medicine. Academic Press, New York, 1982. pp. 310-314.</para>
+      <para>2. Athey TW. Current FDA guidance for MR patient exposure and considerations for the future. Ann New  York Acad Sci 1992;649:242-257.</para>
+      <para>3. Bernhardt JH. Non-ionizing radiation safety: Radio-frequency radiation, electric and magnetic fields. Phys  Med Biol 1992;4:807-844.</para>
+      <para><emphasis role="bold">228</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 228</para>
+      <para>4. Budinger TF, Cullander C. Health Effects of In vivo Nuclear Magnetic Resonance. In: Margulis AR, Hig- gins CB, Kaufman L, Crooks LE, Editors. Clinical Magnetic Resonance Imaging. Radiological Research  and Education Foundation, San Francisco, 1983.</para>
+      <para>5. Budinger TF. Emerging nuclear magnetic resonance technologies: Health and safety. Ann New York Acad  Sci 1992;649:1-18.</para>
+      <para>6. Kanal E. An overview of electromagnetic safety considerations associated with magnetic resonance imag- ing. Ann New York Acad Sci 1992;649:204-224.</para>
+      <para>7. Persson BRR, Stahlberg F. Seminars on Biomedical Applications of Nuclear Magnetic Resonance. In: Po- tential Health Hazards and Safety Aspects of Clinical NMR Examinations.  Sweden: Radiation Physics  Department. 1984.</para>
+      <para>8. Saunders RD, Smith H. Safety aspects of NMR clinical imaging. Br Med Bull 1984;40:148-154.</para>
+      <para>9. Schaefer DJ. Safety aspects of magnetic resonance imaging. In: Wehrli FW, Shaw D, Kneeland JB, Editors.  Biomedical Magnetic Resonance Imaging: Principles, Methodology and Applications. VCH Publishers,  New York. 1988. pp. 553-578.</para>
+      <para>10. Schaefer DJ. Dosimetry and effects of MR exposure to RF and switched magnetic fields. Ann New York  Acad Sci 1992;649:225-236.</para>
+      <para>11. Schaefer DJ. Bioeffects of MRI and patient safety. Amer Assoc Phys Med 1993;649:607-647.</para>
+      <para>12. Shellock FG. Biological effects and safety aspects of magnetic resonance imaging. Magn Reson Quarterly  1989;5:243-261.</para>
+      <para>13. Tenforde TS, Budinger TF. Biological Effects and Physical Safety Aspects of NMR Imaging and In-Vivo  Spectroscopy. In: Thomas SR, Dixon RL, Editors. NMR in Medicine: Instrumentation and Clinical Appli- cations, Medical Monograph. No. 14. Amer Assoc Phys Med; 1986. pp. 493-548.</para>
+      <para>14. Schaefer DJ. Safety aspects of radio frequency power deposition in magnetic resonance. Magn Reson Im- aging Clin N Am 1998;6:775-789.</para>
+      <para>15. Bottomley PA, Andrew ER. RF electromagnetic field penetration, phase shift and power dissipation in bi- ological tissue: Implications for NMR imaging. Phys Med Biol 1978;23:630-643.</para>
+      <para>16. Shellock FG, Kanal E. Bioeffects of Radiofrequency Electromagnetic Fields. In: Magnetic Resonance:  Bioeffects, Safety, and Patient Management. 2nd Edition. Lippincott-Raven Press, New York, 1996. pp.  25-48.</para>
+      <para>17. Carlson LD, Hsieh ACL. Control of Energy Exchange. Macmillan, London. 1982.</para>
+      <para>18. Elder JE. Special Senses. In: Elder JE, Cahill DF, Editors. Biological Effects of Radio-Frequency Radiation.  North Carolina: US Environmental Protection Agency; 1984. pp. 64-78.</para>
+      <para>19. U.S. Department of Health and Human Services, Food and Drug Administration. Magnetic resonance di- agnostic device. Panel recommendation and report on petitions for MR reclassification. Fed Reg  1988;53:7575-7579.</para>
+      <para>20. U.S. Department of Health and Human Services, Food and Drug Administration. Recommendation and  report on petitions for magnetic resonance reclassification and codification of reclassification, final rule,  21 CFR Part 892. Fed Reg 1989;54:5077-5088.</para>
+      <para>21. U.S. Department of Health and Human Services, Food and Drug Administration, Center for Devices and  Radiological Health, Radiological Devices Branch, Division of Reproductive, Abdominal, and Radiological  Devices, Office of Device Evaluation, Guidance for Industry and FDA Staff: Criteria for Significant Risk  Investigations of Magnetic Resonance Diagnostic Devices. Issued July 14, 2003.</para>
+      <para>22. U.S. Department of Health and Human Services, Food and Drug Administration. Criteria for Significant  Risk Investigations of Magnetic Resonance Diagnostic Devices Guidance for Industry and Food and Drug  Administration Staff. Issued June 13, 2014</para>
+      <para>23.  IEC 60601-2-33, Medical electrical equipment - Part 2: Particular requirements for the safety of magnetic  resonance equipment for medical diagnosis. International Electrotechnical Commission (IEC), 2015.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">229</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 229</para>
+      <para>24. Durney CH, Johnson CC, Barber PW, et al. Radiofrequency Radiation Dosimetry Handbook. 2nd Edition.  1978; pp. 8-126.</para>
+      <para>25. Henriques, FC, and Moritz, AR. Studies of thermal injury. I. The conduction of heat to and through skin  and the temperatures attained therein. A theoretical and an experimental investigation. Am J Pathol 1947;  23:1–549.</para>
+      <para>26. Moritz AR, Henriques FC. Studies of thermal Injury. II. The relative importance of time and surface tem- perature in the causation of cutaneous burns. Am J Pathol 1947;23:695–720.</para>
+      <para>27. Sapareto, DA and Dewey, WC, Thermal dose determinations in cancer therapy, International Journal of  Radiation Oncology 1984;10:87–800.</para>
+      <para>28. Van Rhoon GC, Samaras T, Yarmolenko PS, Dewhirst MW, Neufeld E, Kuster N. CEM43°C thermal dose  thresholds: A potential guide for magnetic resonance radiofrequency exposure levels? Eur Radiol  2013:2215-27.</para>
+      <para>29. Pennes HH. Analysis of tissue and arterial blood temperatures in the resting human forearm. 1948, J Appl  Physiol (1985). 1998;85:5-34.</para>
+      <para>30. Van den Brink  JS. Thermal effects associated with RF exposures in diagnostic MRI: Overview of existing  and emerging concepts of protection. Concepts in Magnetic Resonance 2019:1-17</para>
+      <para>31. Sienkiewicz Z, Van Rongen E, Croft R, Ziegelberger G, Veyret B. A closer look at the thresholds of thermal  damage: Workshop Report by an ICNIRP Task Group. Health Phys 2016;111:300–306.</para>
+      <para>32. American Society for Testing and Materials (ASTM) International, F2503 Practice for marking medical  devices and other items for safety in the magnetic resonance environment. West Conshohocken, PA.</para>
+      <para>33. Van Rhoon GC, Aleman A, Kelfkens G, et al. No need to change from SAR to time-temperature relation  in electromagnetic fields exposure limits, International Journal of Hyperthermia. 2011;27:399-404.</para>
+      <para>34. IEC 60601-1-1, Medical electrical equipment - Part 1: General requirements for safety; safety requirements  for medical electrical systems, 2005-12, International Electrotechnical Commission (IEC), 2005.</para>
+      <para>35. Kanal E, Barkovich AJ, Bell C. et al. ACR guidance document on MR safe practices: 2013. J Magn Reson  Imaging 2013;37:501-530.</para>
+      <para>36. ISO/TS 10974:2011, Assessment of the safety of magnetic resonance imaging for patients with an active  implantable medical device. ISO, Case postale 56 CH-1211 Geneva 20, 2011.</para>
+      <para>37. American Society for Testing and Materials (ASTM) International, F1542 Specification for the require- ments and disclosure of self-closing aneurysm clips.West Conshohocken, PA.</para>
+      <para>38. American Society for Testing and Materials (ASTM) International, F2052 Test method for measurement  of magnetically induced displacement force on medical devices in the magnetic resonance environment.  West Conshohocken, PA.</para>
+      <para>39. American Society for Testing and Materials (ASTM) International, F2119 Test method for evaluation of  MR image artifacts from passive implants. West Conshohocken, PA.</para>
+      <para>40. American Society for Testing and Materials (ASTM) International, F2182 Measurement of radio frequency  induced heating near passive implants during magnetic resonance imaging. West Conshohocken, PA.</para>
+      <para>41. American Society for Testing and Materials (ASTM) International, F2213 Measurement of Magnetically  Induced Torque on Medical Devices in the Magnetic Resonance Environment. West Conshohocken, PA.</para>
+      <para>42. Bottomley PA, Roemer PB. Homogeneous tissue model estimates of RF power deposition in human NMR  studies. Local elevations predicted in surface coil decoupling. Ann N Y Acad Sci 1992;649:144-59.</para>
+      <para>43. Ramo S, Whinnery JR, Van Duzer T. Fields and Waves in Communication Electronics. 3rd Edition. New  York: J Wiley &amp; Sons; 1965. pp. 108-124.</para>
+      <para>44. Plonus MA. Applied Electromagnetics. New York: McGraw-Hill; 1984. pp.  290-299, 453.</para>
+      <para>45. Schenck JF, Hussain MA. Power deposition during magnetic resonance: The effects of local electrical in- homogeneities and field exclusion. General Electric Corporate Research and Development Labs. 1984.</para>
+      <para><emphasis role="bold">230</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 230</para>
+      <para>46. Collins CM, Mao W, Liu W, Smith MB. Calculated local and average SAR in comparison with regulatory  limits. Proc Intl So Mag Reson Med 2006;14:2044.</para>
+      <para>47. Davis PL, Crooks L, Arakawa M, et al. Potential hazards in NMR imaging: heating effects of changing  magnetic fields and RF fields on small metallic implants. Am J Roentgenol 1981;137:857-860.</para>
+      <para>48. Chou CK, McDougall JA, Chan KW. RF heating of implanted spinal fusion stimulator during magnetic  resonance imaging. IEEE Trans Biomed Eng 1997;44:367-373.</para>
+      <para>49. Lemieux L, Allen PJ, Franconi F, et al. Recording of EEG during fMRI experiments: Patient safety. Magn  Reson Med 1997;38:943-952.</para>
+      <para>50. Hofman MB, de Cock CC, van der Linden JC, et al. Transesophageal cardiac pacing during magnetic res- onance imaging: Feasibility and safety considerations. Magn Reson Med 1996;35:413-422.</para>
+      <para>51. Hess T, Stepanow B, Knopp MV. Safety of intrauterine contraceptive devices during MR imaging. Eur  Radiol 1996;6:66-68.</para>
+      <para>52. Shellock FG. Reference Manual for Magnetic Resonance Safety, Implants, and Devices: 2020 Edition.  Biomedical Research Publishing Group, Los Angeles, CA, 2020.</para>
+      <para>53. Athey TW. A model of the temperature rise in the head due to magnetic resonance imaging procedures.  Magn Reson Med 1989:177-184.</para>
+      <para>54. NEMA MS 8-1993. Characterization of the specific absorption rate for magnetic resonance imaging sys- tems. National Electrical Manufacturers Association, 2008.</para>
+      <para>55. Schaefer DJ. Estimation of current limits for RF power deposition from planar, transmit surface coils. New  York: Abstracts of the Society of Magnetic Resonance Imaging; 1996. pp. 1446.</para>
+      <para>56. Schenck JF, Boskamp EB, Schaefer DJ, Barber WD, Vander Heiden RH. Estimating local SAR produced  by RF transmitter coils: examples using the birdcage coil. Berkeley: Abstracts of the International Society  of Magnetic Resonance in Medicine; 1998. pp. 649.</para>
+      <para>57. Chou CK, Chen GW, Guy AW, Luk KH. Formulas for preparing phantom muscle tissue at various radiofre- quencies. Bioelectromagnetics 1984;5:435-441.</para>
+      <para>58. Gandhi OP, Chien, JY. Absorption and distribution patterns of RF fields. Ann New York Acad Sci  1992;649:131-143.</para>
+      <para>59. Grandolfo M, Polichetti A, Vecchia P, Gandhi OP. Spatial distribution of RF power in critical organs during  magnetic resonance imaging. Ann New York Acad Sci 1992;649:178.</para>
+      <para>60. Buchli R, Saner M, Meier D, Boskamp EB, Boesiger P. Increased RF power absorption in MR imaging  due to RF coupling between body coil and surface coil. Magn Reson Med 1989;9:105-112.</para>
+      <para>61. Boesigner P, Buchli R, Saner M, Meier D. An overview of electromagnetic safety considerations associated  with magnetic resonance imaging. Ann New York Acad Sci 1992;649:160-165.</para>
+      <para>62. Lehninger AL. Biochemistry. New York: Worth; 1972.</para>
+      <para>63. Halliday D, Resnick R. Physics. New York: John Wiley; 1966.</para>
+      <para>64. Kennelly AE, Alexanderson EFW. The physiological tolerance of alternating current strengths up to fre- quencies of 100,000 cycles per second. Electrical World 1910;56:154 156.</para>
+      <para>65. Guy AW, Lin JC, Kramer PO, Emery AF. Effect of 2450 MHz radiation on the rabbit eye. IEEE Trans Mi- crowave Theory Tech 1975;23:492 498.</para>
+      <para>66. Goldman RF, Green EB, Iampietro PF. Tolerance of hot wet environments by resting men. J Appl Physiol  1965;20:271 277.</para>
+      <para>67. Smith DA, Clarren SK, Harvey MAS. Hyperthermia as a possible teratogenic agent. Pediatrics  1978;92:878-883.</para>
+      <para>68. Ganong WF. Review of Medical Physiology. 6th Edition. Los Altos: Lange Medical Publications; 1973.  pp. 193-197, pp. 474-476.</para>
+      <para>69. Benjamin FB. Pain reaction to locally applied heat. J Appl Physiol 1952;52:250-263.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">231</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 231</para>
+      <para>70. Adair ER, Berglund LG. On the thermoregulatory consequences of NMR imaging. Magn Reson Imaging  1986;4:321-333.</para>
+      <para>71. Adair ER, Berglund LG. Thermoregulatory consequences of cardiovascular impairment during NMR im- aging in warm/humid environments. Magn Reson Imaging 1989;7:25-35.</para>
+      <para>72. Gagge AP. The New Effective Temperature (ET)   An Index of Human Adaptation to Warm Environments.  In: Horvath S, Yousef M, Editors. Environmental Physiology: Aging, Heat, and Altitude. 1980. pp. 9 77.</para>
+      <para>73. Hurst J, Willis ED. The Heart. McGraw-Hill, New York, 1978.</para>
+      <para><emphasis role="bold">232</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 232</para>
+    </sect1>
+</chapter>
