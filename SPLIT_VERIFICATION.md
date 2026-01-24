@@ -59,7 +59,7 @@ Created **37 XML files** in `/home/user/test/split_output_final/`:
 
 ### Additional Files
 - `ch000_frontmatter.xml` - Front matter (Preface, Editors, Contributors, Dedications, Acknowledgments)
-- `Book.XML` - Book metadata file
+- `Book.XML` - Book metadata file **UPDATED with all 37 ENTITY declarations (ch000-ch036)**
 - `multimedia/` - Directory containing all multimedia files (images)
 
 ## Key Features Preserved
@@ -100,6 +100,19 @@ The following duplicate files were detected and removed:
 - **Location**: `/home/user/test/`
 - **Contents**: All 36 chapters + front matter + multimedia + Book.XML
 
+## Book.XML ENTITY References Updated
+
+**Original Book.XML had only 11 chapter references:**
+- ENTITY declarations for ch001 through ch011 only
+
+**Updated Book.XML now includes all chapters:**
+- Added ENTITY declaration for ch000 (front matter)
+- Added ENTITY declarations for ch012 through ch036
+- Total: 37 ENTITY declarations (ch000 + ch001-ch036)
+- All entity references properly added to book body
+
+This ensures the Book.XML can properly include all split chapters when the book is compiled.
+
 ## Verification Steps Performed
 1. ✓ Checked all 36 chapters are present (ch001-ch036)
 2. ✓ Verified chapter titles match expected content
@@ -107,6 +120,7 @@ The following duplicate files were detected and removed:
 4. ✓ Validated XML structure of sample chapters
 5. ✓ Verified image references are intact
 6. ✓ Confirmed no content was lost or modified
+7. ✓ Updated Book.XML with all 37 ENTITY declarations
 
 ## Notes
 - Front matter from original `ch001.xml` is preserved as `ch000_frontmatter.xml`
