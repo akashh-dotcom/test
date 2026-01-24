@@ -8,3 +8,6 @@ split_output_final/
 docbook_output/
 docbook_merged/
 docbook_single/
+docbook_proper_fixed/
+docbook_merged_fixed/
+docbook_single_fixed/
