@@ -2,3 +2,7 @@
 # Temporary extraction and merge directories
 extracted_rittdoc/
 merged_output/
+split_work/
+split_output/
+split_output_final/
+docbook_output/
