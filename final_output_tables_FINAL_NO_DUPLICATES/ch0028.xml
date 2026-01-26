@@ -17,7 +17,20 @@
     <sect1 id="ch0028s04">
       <title>INTRODUCTION</title>
       <para>A well-designed safety program to protect medical personnel and patients is mandatory  for all centers performing clinical medical imaging. However, due to unique inherent risks,  specific requirements must be stipulated for the outpatient magnetic resonance imaging  (MRI) facility (1, 2). <emphasis role="bold">Table 1</emphasis> lists safety concerns relevant to all medical imaging proce- dures. All outpatient imaging departments must have a written safety program, properly  implemented and maintained by management, technologists, and radiologists.</para>
-      <para>This chapter provides the requirements for a safety program to help ensure protection  of employees, patients, and others while complying with regulatory obligations. Thus, this  chapter should assist new and existing facilities in developing and/or revising safety, health,  environment, and loss control programs while establishing consistency in operations and  medical delivery with particular attention focused on proper policies and procedures.</para>
+      <table frame="all"><title>Safety requirements shared by all diagnostic imaging modalities.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Equipment</entry><entry /></row></thead><tbody><row><entry>MRI, CT, PET,
+NM, US, MM</entry><entry>A performance evaluation is performed annually by a medical physicist and includes all
+required testing.</entry></row><row><entry>All modalities</entry><entry>Quality control and maintenance activities are identified and time frames are established
+for how often they are to be performed and documented.</entry></row><row><entry>CT</entry><entry>The radiation dose, CTDI, is measured annually for commonly used protocols and veri-
+fied by a medical physicist to be within 20% of the displayed dose.</entry></row><row><entry>CT</entry><entry>Incidents where radiation dose indices are exceeded are reviewed and analyzed and
+compared to external benchmarks.</entry></row><row><entry>All modalities</entry><entry>Data is collected on all equipment related injuries and sentinel events are reported, as re-
+quired.</entry></row><row><entry>MRI</entry><entry>Adequate patient padding is provided and regularly inspected for integrity and burn pro-
+tection techniques are implemented for all patients.</entry></row><row><entry>MRI</entry><entry>Hearing protection is provided to all patients.</entry></row><row><entry>All radiation
+modalities</entry><entry>Lead shielding is readily available and tested no less than annually for integrity.</entry></row><row><entry>All modalities</entry><entry>Emergency response equipment is readily available and routinely checked for integrity
+and expiration dates.</entry></row><row><entry>Facility</entry><entry /></row><row><entry>All radiation
+facilities</entry><entry>A structural radiation shielding design assessment is conducted prior to imaging equip-
+ment installation or room modification.</entry></row><row><entry>All radiation
+facilities</entry><entry>A radiation protection survey is conducted after installation of imaging equipment or
+construction, prior to clinical use of the room.</entry></row><row><entry>MRI</entry><entry>Access to the MRI suite is restricted by screening, warning signage, barrier controls.</entry></row><row><entry>CMS sites</entry><entry>ACR Consumer Complaint Notice is posted in view of patients.</entry></row><row><entry>All facilities</entry><entry>Disaster protocols are in place and evacuation drills are conducted.</entry></row></tbody></tgroup></table><para>This chapter provides the requirements for a safety program to help ensure protection  of employees, patients, and others while complying with regulatory obligations. Thus, this  chapter should assist new and existing facilities in developing and/or revising safety, health,  environment, and loss control programs while establishing consistency in operations and  medical delivery with particular attention focused on proper policies and procedures.</para>
       </sect1>
     <sect1 id="ch0028s05">
       <title>PERSONNEL: RESPONSIBILITIES AND DUTIES</title>

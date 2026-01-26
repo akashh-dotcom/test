@@ -197,6 +197,56 @@ cannot be compared.</entry><entry>Most critical: Fast pulse sequences with
 high slew rates and high slew percentage,
 for example, echo planar imaging. Criti-
 cal conditions are not indicated by the
+MR scanner.</entry></row></tbody></tgroup></table><table frame="all"><title>Qualitative comparison of RF-induced and gradient field-induced heating in terms of the implant</title><tgroup cols="3"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><thead><row><entry>Parameter</entry><entry>RF-Induced Heating</entry><entry>Gradient-Induced Heating</entry></row></thead><tbody><row><entry>Implant Size</entry><entry>Most critical: Lengths approximately one-
+quarter to one-half the RF wave-length in
+tissue.</entry><entry>Most critical: Bulky implants.</entry></row><row><entry>Implant Shape</entry><entry>Most critical: One-dimensional, pointed
+ends, multiple implants with short gaps
+between them.</entry><entry>Most critical: Large cross-sections.</entry></row><row><entry>Implant
+Material</entry><entry>Electrical conductivity is less relevant,
+higher thermal conductivity reduces
+temperature hotspots.</entry><entry>Higher electrical conductivity gives
+higher eddy currents. For example,
+CoCrMo alloy creates ~60% more gradi-
+ent heating than the alloy, Ti-6Al-4V.
+Thermal conductivity is less relevant.</entry></row><row><entry>Implant
+Position</entry><entry>Most critical: Regions of highest back-
+ground E-field. In a conventional transmit
+body RF coil, this field increases radially
+with distance from the RF coil axis
+(where it vanishes). Axially, the field is
+uniformly high within the footprint of the
+RF coil; substantial field tails beyond the
+end of the coil can exist.</entry><entry>Not critical: Isocenter.
+Critical: Locations in the MR system’s
+bore where B -fields are highest, which is
+G
+towards the ends of the gradient coil, that
+is, outside the imaging region (Figure 2).
+Radially, B increases monotonically
+G
+with distance from the magnet axis; axi-
+ally, a maximum is reached at |z|≈30 to 50
+cm from the isocenter (Table 2).</entry></row><row><entry>Implant
+Orientation</entry><entry>Most critical: Implant aligned with the
+background E-field vector (i.e., parallel to
+the magnet axis for conventional body RF
+coils).</entry><entry>Most critical: Large implant cross-section
+perpendicular to the direction of the
+switched B -fields with high amplitudes.
+G</entry></row><row><entry>MRI Sequence
+Parameters</entry><entry>Most critical: Fast pulse sequences with
+high density of large flip-angle RF pulses,
+such as Turbo or Fast Spin Echo. Higher
+(local and whole-body averaged) SAR as
+indicated by the scanner corresponds to
+more critical pulse sequences, but the
+readings do not account for the implant
+and different exposure conditions (e.g.,
+scanner, RF coil, subject, position, etc.)
+cannot be compared.</entry><entry>Most critical: Fast pulse sequences with
+high slew rates and high slew percentage,
+for example, echo planar imaging. Criti-
+cal conditions are not indicated by the
 MR scanner.</entry></row></tbody></tgroup></table><para><emphasis role="bold">Implant  </emphasis> <emphasis role="bold">Orientation</emphasis></para>
       <para>Most critical: Implant aligned with the  background <emphasis role="italics">E</emphasis>-field vector (i.e., parallel to  the magnet axis for conventional body RF  coils).</para>
       <para>Most critical: Large implant cross-section  perpendicular to the direction of the  switched <emphasis role="italics">B</emphasis><emphasis role="italics">G</emphasis>-fields with high amplitudes.</para>

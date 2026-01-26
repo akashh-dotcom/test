@@ -8,21 +8,75 @@
     <para>ing physiological effects of 
 static magnetic fields on biological tissues have not been sufficiently quantified because 
 the observable effects on tissues are relatively small and it is difficult to estimate the static 
-magnetic field strengths at which these may become substantial hazards (Table 1</para><para>However, since the development and manufacturing of powerful magnets, scientists 
+magnetic field strengths at which these may become substantial hazards (Table 1</para><table frame="all"><title>Comparison of the physical effects of the various fields applied to patients dur-</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Type of Field</entry><entry>Physical Limitation on Human Exposure</entry></row></thead><tbody><row><entry>Static Magnetic Fields</entry><entry>Unknown</entry></row><row><entry>Gradient Magnetic Fields</entry><entry>Peripheral Nerve Stimulation1,2</entry></row><row><entry>Radiofrequency Fields</entry><entry>Tissue Heating1</entry></row></tbody></tgroup></table><para>However, since the development and manufacturing of powerful magnets, scientists 
 have begun to understand the mechanisms of interactions with biological tissues at different 
 levels. To date, the strongest of these effects is the attractive force on ferromagnetic materials 
 which demonstrates the m</para><para>y requirement of MR systems.   
 Cylindrical superconducting geometries are the most abundant form of “closed” scan-
 ners, while permanent and hybrid magnets are often used for “open” MR systems. An ac-
 count of the dates when MR systems with various magnetic fields were debuted is listed in 
-Table 2</para><para>eases in field strength has been 
+Table 2</para><table frame="all"><title>Historical development of MRI-related static magnetic field strengths (Data</title><tgroup cols="5"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><thead><row><entry>Field
+Strength
+(Tesla)</entry><entry>Date of
+Introduction</entry><entry>Institution</entry><entry>Type</entry><entry>Comments</entry></row></thead><tbody><row><entry>0.05 to 0.10</entry><entry>1977</entry><entry>State University
+of New York,
+Brooklyn</entry><entry>Superconducting</entry><entry>This MR system pro-
+duced an early image
+of the human thorax.</entry></row><row><entry>0.7</entry><entry>1977</entry><entry>University of
+Nottingham</entry><entry>Iron core
+electromagnet</entry><entry>This machine, with a
+13-cm gap,
+produced an early
+wrist image.</entry></row><row><entry>0.04</entry><entry>1980</entry><entry>Aberdeen</entry><entry>Air core
+electromagnet</entry><entry>This machine was
+used for the first clin-
+ical MRI studies.</entry></row><row><entry>0.35</entry><entry>1981</entry><entry>Hammersmith,
+Diasonics</entry><entry>Whole-body,
+superconducting</entry><entry>These MR systems
+were the first whole-
+body superconduct-
+ing scanners.</entry></row><row><entry>1.5</entry><entry>1982</entry><entry>General Electric</entry><entry>Whole-body,
+superconducting</entry><entry>Whole-body MR sys-
+tems at 1.5-T have
+been in widespread
+clinical use since the
+mid-1980s.</entry></row><row><entry>3.0, 4.0</entry><entry>1987</entry><entry>Siemens, General
+Electric, Philips</entry><entry>Whole-body,
+superconducting</entry><entry>During the late 1990s
+3-T and 4-T scanners
+became widely avail-
+able at research
+institutions.</entry></row><row><entry>8</entry><entry>1998</entry><entry>Ohio State
+University</entry><entry>Whole-body,
+superconducting</entry><entry>MR system was used
+for UHF safety
+studies.</entry></row><row><entry>9.4</entry><entry>2004</entry><entry>University of
+Illinois</entry><entry>Whole-body,
+superconducting</entry><entry>MR system used for
+research.</entry></row><row><entry>10.5</entry><entry>2018</entry><entry>University of
+Minnesota</entry><entry>Whole-body,
+superconducting</entry><entry>MR system used for
+research.</entry></row><row><entry>11.7</entry><entry>2020</entry><entry>National Institutes of
+Health, Bethesda,
+MD and NeuroSpin,
+Orsay, France</entry><entry>Whole-body,
+superconducting</entry><entry>MR system used for
+research.</entry></row></tbody></tgroup></table><para>eases in field strength has been 
 presented but it is not meant to be a catalogue of improvement in all aspects of magnet tech-
 nology.   
 In assimilation of new MRI technology, three factors have dominated the introduction 
 of new scanners: engineering innovation, safety, and an advantage in clinic</para><para>Risks Posed By Translational Forces And Torques 
 Since ellipsoids of revolution illustrate most of the important features of magnetic in-
 teraction with matter, a summary of the expressions for the quantities derived in this chapter 
-including magnetic energy, force and torque are listed in Table 3.</para><para>of these expressions for extreme values of the susceptibility predict behaviors that are qual-
+including magnetic energy, force and torque are listed in Table 3.</para><table frame="all"><title>Also, the asymptotic limits</title><tgroup cols="4"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><thead><row><entry>Qty</entry><entry>Full Expression</entry><entry>Soft Magnetic
+Materials
+χDa, χDr &gt;&gt; 1</entry><entry>“Non-Magnetic”
+Materials
+|χ| &lt;&lt; 1</entry></row></thead><tbody><row><entry>U</entry><entry /><entry /><entry /></row><row><entry>F
+z</entry><entry /><entry /><entry /></row><row><entry>M
+x</entry><entry /><entry /><entry /></row><row><entry>M
+z</entry><entry /><entry /><entry /></row><row><entry>τ
+y</entry><entry /><entry /><entry /></row></tbody></tgroup></table><para>of these expressions for extreme values of the susceptibility predict behaviors that are qual-
 itatively different from one other. Designating the demagnetizing factor along the axis of 
 symmetry of the object as Da and the radial demagnetizing factor in the transverse direction 
 as Dr from the earl</para><para>ndence and a 

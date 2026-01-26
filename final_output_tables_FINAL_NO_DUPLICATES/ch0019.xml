@@ -14,7 +14,13 @@
       <para><emphasis role="bold">SAFETY CHALLENGES OF PERFORMING MRI IN PATIENTS WITH ACTIVE </emphasis> <emphasis role="bold">IMPLANTABLE MEDICAL DEVICES  </emphasis></para>
       <para><emphasis role="bold">Implant Movement </emphasis></para>
       <para>The MRI environment poses multiple challenges to safe scanning in a patient with an  AIMD (<emphasis role="bold">Table 1</emphasis>). First, ferromagnetic content in the device is subject to translational at- traction and torque from magnetic field interactions. Of note is that, typically, only limited  ferromagnetic material remains in today’s AIMDs, primarily associated with the power  source (e.g., batteries). As the patient enters the MR system and moves through the spatial  gradient magnetic field, nonferromagnetic metals are subjected to Lorentz forces that can  produce slight displacement and vibration of the implanted metallic object. As such, it can  be helpful for MRI staff members to alert the patient with an AIMD of this non-harmful  possibility prior to entering the MR scanner to allay any concerns or fears if such minor  movement is perceived. The potential mobility of the device is related to the degree to which  it is encased by fibrous scar tissue or surgically fixed in place. Particularly for devices that  are implanted off the central axis of the body, there is increasing tendency for these to be</para>
-      <para><emphasis role="bold">500</emphasis> <emphasis role="bold">Active Implanted Medical Devices: Safety</emphasis></para>
+      <table frame="all"><title>Potential implant risks associated with MRI and the test performed to character-</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Risk to Patient</entry><entry>Testing*</entry></row></thead><tbody><row><entry>Force</entry><entry>B -induced force
+0</entry></row><row><entry>Torque</entry><entry>B -induced torque
+0</entry></row><row><entry>Heat</entry><entry>RF field-induced heating of the AIMD
+Gradient field-induced heating of the AIMD</entry></row><row><entry>Vibration</entry><entry>Gradient field-induced vibration</entry></row><row><entry>Extrinsic Electric Potential</entry><entry>Gradient field-induced lead voltage</entry></row><row><entry>Rectification</entry><entry>RF field-induced rectified lead voltage</entry></row><row><entry>Malfunction</entry><entry>B -induced device malfunction
+0
+RF field-induced device malfunction
+Gradient field-induced device malfunction</entry></row></tbody></tgroup></table><para><emphasis role="bold">500</emphasis> <emphasis role="bold">Active Implanted Medical Devices: Safety</emphasis></para>
       <para><emphasis role="bold">Risk to Patient</emphasis> <emphasis role="bold">Testing*</emphasis></para>
       <para>Force B0-induced force</para>
       <para>Torque B0-induced torque</para>

@@ -526,5 +526,66 @@
       <para>115. Yutzy SR, Duerk JL. Pulse sequences and system interfaces for interventional and real-time MRI. J Magn  Reson Imaging 2008;27:267-75.</para>
       <para>116. Cernicanu A, Lepetit-Coiffe M, Roland J, et al. Validation of fast MR thermometry at 1.5 T with gradi- ent-echo echo planar imaging sequences: Phantom and clinical feasibility studies. NMR Biomed  2008;21:849-58.</para>
       <para><emphasis role="bold">868</emphasis> <emphasis role="bold">Safety Issues for Interventional MR Systems</emphasis></para>
-      </sect1>
+      <table frame="all">
+          <title>Untitled</title>
+          <tgroup cols="3">
+            <colspec colname="c1" />
+            <colspec colname="c2" />
+            <colspec colname="c3" />
+            <thead>
+              <row>
+                <entry>ACTION</entry>
+                <entry />
+                <entry>Verified</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Patient screened at Metrasens stand up screener in CVBR</entry>
+                <entry>MR Tech/RN</entry>
+                <entry />
+              </row>
+              <row>
+                <entry>Confirm patient is on MR safe stretcher</entry>
+                <entry>MR Tech/RN</entry>
+                <entry />
+              </row>
+              <row>
+                <entry>MR patient screening form completed</entry>
+                <entry>MR Tech/RN</entry>
+                <entry />
+              </row>
+              <row>
+                <entry>Jewelry &amp; ferrous items removed</entry>
+                <entry>MR Tech/RN</entry>
+                <entry />
+              </row>
+              <row>
+                <entry>Eyeglasses Dentures&amp;lt;/emphasis&amp;gt; Hearing-aid ___</entry>
+                <entry>MR Tech/RN</entry>
+                <entry />
+              </row>
+              <row>
+                <entry>Medication Patch ___ removed</entry>
+                <entry />
+                <entry />
+              </row>
+              <row>
+                <entry>Shaving completed</entry>
+                <entry>MR Tech/RN</entry>
+                <entry />
+              </row>
+              <row>
+                <entry>All staples/paperclips removed from chart/forms that will enter room</entry>
+                <entry>MR Tech/RN</entry>
+                <entry />
+              </row>
+              <row>
+                <entry>OR Staff have signed in to front desk; All ferrous items have been removed (pager, phone etc) and obtained orange hat; Self pat-down completed</entry>
+                <entry>MR Tech/RN</entry>
+                <entry />
+              </row>
+            </tbody>
+          </tgroup>
+        </table></sect1>
 </chapter>

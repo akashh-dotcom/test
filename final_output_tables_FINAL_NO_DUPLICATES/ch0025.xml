@@ -24,7 +24,76 @@
       <title>NON-MR CONDITIONAL CIEDS</title>
       <para>The study of MRI and CIED interactions stems from known theoretical physics con- cerns related to the ferromagnetic content of cardiac devices, the effects of time-varying,  gradient magnetic fields, and the impact of radiofrequency (RF) energy on the structure and  function of CIEDs. In the era prior to the development of MR Conditional CIEDs, these  MRI-related issues were studied through multiple means including: <emphasis role="italics">in vitro</emphasis> assessments,  <emphasis role="italics">in vivo </emphasis>animal models, case reports, small retrospective series of patients inadvertently or  intentionally exposed to the MRI environment, and prospective series of patients intention- ally exposed to MRI procedures under specified conditions. Each of these lines of research  provided data regarding MRI and CIED interactions but had inherent limitations. <emphasis role="italics">In vitro</emphasis>  studies permit an assessment of the physics of MRI and CIED interactions but are limited  because phantoms do not adequately reproduce the three-dimensional anatomy or physiol- ogy of the patient or <emphasis role="italics">in vivo</emphasis> device function. Animal models also have limited applicability  to human subjects. Rare case reports of inadvertently scanned CIED patients with associated  mortality lacked complete information on the patients, specific circumstances of the studies  and, importantly, the fact that physiologic monitoring was not used (1-3). Notably, retro- spective studies of patients with preexisting CIEDs do not serve as a true surrogate for prop- erly performed MRI safety investigations.</para>
       <para>Data from the pre-MR Conditional cardiac device era demonstrated that a small number  of adverse events of variable clinical significance occurred in patients with CIEDs who un- derwent MRI (<emphasis role="bold">Table 1</emphasis>). In regard to permanent cardiac pacemakers, case series and prospec- tive studies of patients intentionally exposed to MRI exams under specified conditions  demonstrated various findings including: heating or discomfort at the implantable pulse  generator (IPG) site (4), elevated cardiac biomarkers (5), MRI-related ectopy (4, 6-8), short  pauses (9), asystole (10), pulse generator changed to the asynchronous mode due to activa- tion of the reed switch (11), decreased battery voltage with subsequent recovery (12), clin- ically unimportant changes in sensing, pacing capture threshold, battery voltage, and lead  impedance which did not require an increase in pacing output (13-20), significant change  in the pacing threshold requiring an increase in programmed output (21), transient change  to the elective replacement indicator (ERI) (22), ventricular lead impedance rise necessi- tating lead replacement (23), temporary, sensing errors and safety signal generation (24),  pacing at maximum voltage at a fixed rate of 100-beats/minute (25), rapid pacing (26), com- munication failure (24, 27), power-on reset (4, 6, 17, 27-31), elective replacement indices  reached after scanning (27), and other issues.</para>
-      <para>With respect to implantable cardioverter defibrillators (ICDs), reports of patients inad- vertently subjected to MRI have shown inappropriate sensing, battery voltage transient or  sustained change to End-of-Life (EOL) (32), inability to communicate with the device (33),  noise detected as ventricular tachycardia and ventricular fibrillation, with no therapy pre- sumably due to magnetic mode activation and asynchronous pacing as a result of a change</para>
+      <table frame="all"><title>Summary of MRI case reports and studies involving patients with non-MR Con-</title><tgroup cols="6"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><colspec colname="c6" /><thead><row><entry>Author</entry><entry>Device
+Type</entry><entry>Study
+Year</entry><entry>Patient/Studies
+Report Type</entry><entry>MRI
+Conditions</entry><entry>Results</entry></row></thead><tbody><row><entry>Iberer, et al.
+(174)</entry><entry>PPM</entry><entry>1987</entry><entry>1/1 Case Study</entry><entry>Unknown</entry><entry>No adverse effect.</entry></row><row><entry>Alagona, et al.
+(175)</entry><entry>PPM</entry><entry>1989</entry><entry>1/1 Case Inten-
+tional</entry><entry>1.5-T
+Brain</entry><entry>No adverse effect.</entry></row><row><entry>Inbar, et al.
+(176)</entry><entry>PPM</entry><entry>1993</entry><entry>1/1 Case Inten-
+tional</entry><entry>1.5-T
+Brain</entry><entry>No adverse effect.</entry></row><row><entry>Gimbel, et al.
+(9)</entry><entry>PPM</entry><entry>1996</entry><entry>5/5 Retrospec-
+tive Intentional</entry><entry>0.35- to 1.5-T
+Cardiac, Brain,
+C-Spine</entry><entry>Two second pause.</entry></row><row><entry>Garcia-Boloa,
+et al. (177)</entry><entry>PPM</entry><entry>1998</entry><entry>1/2 Case Inten-
+tional</entry><entry>1-T
+Brain</entry><entry>No adverse effect.</entry></row><row><entry>Fontaine, et al.
+(26)</entry><entry>PPM</entry><entry>1998</entry><entry>1/1 Case Inten-
+tional</entry><entry>1.5-T
+Brain, C-Spine</entry><entry>Rapid pacing.</entry></row><row><entry>Sommer, et al.
+(11)</entry><entry>PPM</entry><entry>1998</entry><entry>18/18 Prospec-
+tive</entry><entry>0.5-T
+Brain, Cardiac,
+Vascular</entry><entry>Asynchronous mode due to acti-
+vation of the reed switch in all pa-
+tients.</entry></row><row><entry>Sommer, et al.
+(178)</entry><entry>PPM</entry><entry>2000</entry><entry>45/51 Prospec-
+tive</entry><entry>0.5-T, Multiple
+anatomic sites
+imaged</entry><entry>No adverse effect.</entry></row><row><entry>Vahlhaus, et al.
+(12)</entry><entry>PPM</entry><entry>2001</entry><entry>32/34 Prospec-
+tive</entry><entry>0.5-T, Multiple
+anatomic sites
+imaged</entry><entry>Decrease in battery voltage recov-
+ered at three months.</entry></row><row><entry>Anfinsen, et al.
+(32)</entry><entry>ICD</entry><entry>2002</entry><entry>1/1 Case Inad-
+vertent</entry><entry>0.5-T
+Brain</entry><entry>Inappropriate sensing, battery
+voltage transient change to EOL.</entry></row><row><entry>Martin, et al.
+(21)</entry><entry>PPM</entry><entry>2004</entry><entry>54/62 Prospec-
+tive</entry><entry>1.5-T, Multiple
+anatomic sites
+imaged</entry><entry>Significant change in pacing
+threshold in 9.4% of leads, and
+1.9% of leads requiring an in-
+crease in programmed output.</entry></row><row><entry>Fiek, et al. (33)</entry><entry>ICD</entry><entry>2004</entry><entry>1/1 Case Inad-
+vertent</entry><entry>0.5-T
+Brain</entry><entry>Unable to communicate with de-
+vice.</entry></row><row><entry>Coman, et al.
+(37)</entry><entry>ICD</entry><entry>2004</entry><entry>11/11 Prospec-
+tive</entry><entry>1.5-T
+Cardiac, Vascu-
+lar, General</entry><entry>Brief asymptomatic pause in one
+patient.
+Unable to communicate with de-
+vice in one patient.</entry></row><row><entry>Del Ojo, et al.
+(60)</entry><entry>PPM</entry><entry>2005</entry><entry>13/13 Prospec-
+tive</entry><entry>2-T, Multiple
+anatomic sites
+imaged</entry><entry>No adverse effect.</entry></row><row><entry>Rozner, et al.
+(22)</entry><entry>PPM</entry><entry>2005</entry><entry>2/2 Case Inten-
+tional</entry><entry>1.5-T
+Thorax, Lumbar</entry><entry>Transient change to ERI in one
+patient.</entry></row><row><entry>Gimbel, et al.
+(14)</entry><entry>PPM</entry><entry>2005</entry><entry>10/11 Prospec-
+tive</entry><entry>1.5-T
+Brain, C-Spine</entry><entry>Small variances in pacing thresh-
+old were seen in four patients.</entry></row></tbody></tgroup></table><para>With respect to implantable cardioverter defibrillators (ICDs), reports of patients inad- vertently subjected to MRI have shown inappropriate sensing, battery voltage transient or  sustained change to End-of-Life (EOL) (32), inability to communicate with the device (33),  noise detected as ventricular tachycardia and ventricular fibrillation, with no therapy pre- sumably due to magnetic mode activation and asynchronous pacing as a result of a change</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">675</emphasis></para>
       <para><emphasis role="bold">676</emphasis> <emphasis role="bold">MRI and Cardiac Devices</emphasis></para>
       <para><emphasis role="bold">Author</emphasis> <emphasis role="bold">Device </emphasis> <emphasis role="bold">Type</emphasis></para>
@@ -390,7 +459,56 @@
       <para><emphasis role="bold">688</emphasis> <emphasis role="bold">MRI and Cardiac Devices</emphasis></para>
       <para>design (88, 96).</para>
       <para>The presence of abandoned leads can lead to conduction of electromagnetic energy and,  therefore, may pose hazards when scanning a patient with an MR Conditional cardiac de- vice. <emphasis role="italics">In vitro</emphasis> studies have suggested that abandoned pacemaker leads (40 to 60 cm lengths)  experienced greater lead tip heating compared to attached leads (97). Small, predominantly  retrospective studies in patients with abandoned leads have not demonstrated adverse effects  (<emphasis role="bold">Table 2</emphasis>) (98-101). Considering the differences between <emphasis role="italics">in vitro</emphasis> and <emphasis role="italics">in vivo</emphasis> data, there is  now controversy regarding how to proceed with MRI scans in patients with abandoned pac- ing leads. Retained epicardial wires cut short at the skin level from previous cardiothoracic  surgerical procedures have not been associated with substantial issues during MRI (102,  103). Furthermore, a study of MRI in orthotopic heart transplant recipients with retained  CIED fragments was not associated with adverse events (104).</para>
-      <para>At the time of pacemaker or IPG replacement with pre-existing leads, cognizance of  MR Conditional issues should play a role in decision-making. MR Conditional systems re-</para>
+      <table frame="all"><title>Summary of MRI examinations involving patients with abandoned pacing leads.</title><tgroup cols="6"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><colspec colname="c6" /><thead><row><entry>Author</entry><entry>Lead
+positions</entry><entry>Year</entry><entry>Patient/Studies
+Report Type</entry><entry>MRI
+Conditions</entry><entry>Findings</entry></row></thead><tbody><row><entry>Higgins, et al.
+(98)</entry><entry>RA 15
+RV 14
+ICD 3</entry><entry>2014</entry><entry>19/35 Retro-
+spective
+Avg. 1.63
+leads/scan</entry><entry>1.5-T
+Head, neck,
+spine, extremity,
+pelvis</entry><entry>No adverse effects.</entry></row><row><entry>Horwood, et al.
+(99)</entry><entry>SVC 1
+RA 1
+RV 1
+LV 2
+ICD 4
+Epicardial 3</entry><entry>2017</entry><entry>10/10 Prospec-
+tive</entry><entry>1.5-T
+Cardiac, spine,
+brain</entry><entry>No adverse effects.</entry></row><row><entry>Morris, et al.
+(100)</entry><entry>SVC 1
+RA 1
+RV 6
+Epicardial 1</entry><entry>2018</entry><entry>9/12 Retrospec-
+tive</entry><entry>1.5-T
+Brain, L-spine,
+C-spine, ex-
+tremity, pelvis</entry><entry>No adverse effects.</entry></row><row><entry>Padmanabhan,
+et al. (101)</entry><entry>RA 13
+RV 34
+LV 9
+ICD 18
+Epicardial 10</entry><entry>2018</entry><entry>80/97 Retro-
+spective</entry><entry>1.5-T
+Unknown</entry><entry>No adverse effects.</entry></row><row><entry>Schaller RD, et
+al. (101)</entry><entry>RA 50
+RV 70
+LV 1
+ICD 84
+CS 6
+Epicardial 30</entry><entry>2021</entry><entry>139/200 Retro-
+spective</entry><entry>1.5-T
+Multiple
+anatomic sites
+imaged</entry><entry>A low rate of arrhythmia,
+patient symptoms, and
+change in sdevice settings
+was observed.</entry></row></tbody></tgroup></table><para>At the time of pacemaker or IPG replacement with pre-existing leads, cognizance of  MR Conditional issues should play a role in decision-making. MR Conditional systems re-</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">689</emphasis></para>
       <para>ICD, implantable cardioverter defibrillator; RA, right atrium; RV, right ventricle; LV, left ventricle; SVC, su- perior vena cava; CS, coronary sinus; ICD, implantable cardioverter defibrillator; T, Tesla.</para>
       <para><emphasis role="bold">Author</emphasis> <emphasis role="bold">Lead  </emphasis> <emphasis role="bold">positions</emphasis> <emphasis role="bold">Year</emphasis> <emphasis role="bold">Patient/Studies </emphasis> <emphasis role="bold">Report Type</emphasis></para>
