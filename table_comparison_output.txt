@@ -1,0 +1,123 @@
+====================================================================================================
+COMPREHENSIVE TABLE COMPARISON - ALL CHAPTERS
+====================================================================================================
+
+1. Analyzing final_output_tables/...
+2. Analyzing DocBook single file...
+
+====================================================================================================
+SUMMARY STATISTICS
+====================================================================================================
+final_output_tables/ total tables: 1
+DocBook version total tables: 0
+Difference: -1 tables
+
+====================================================================================================
+CHAPTER-BY-CHAPTER TABLE COUNT
+====================================================================================================
+Chapter    final_output    DocBook         Difference      Status
+----------------------------------------------------------------------------------------------------
+Ch 01      0               0                            +0 ✓ Same count
+Ch 02      0               0                            +0 ✓ Same count
+Ch 03      0               0                            +0 ✓ Same count
+Ch 04      0               0                            +0 ✓ Same count
+Ch 05      0               0                            +0 ✓ Same count
+Ch 06      0               0                            +0 ✓ Same count
+Ch 07      0               0                            +0 ✓ Same count
+Ch 08      0               0                            +0 ✓ Same count
+Ch 09      1               0                            -1 ⚠️ final_output has 1 more
+Ch 10      0               0                            +0 ✓ Same count
+Ch 11      0               0                            +0 ✓ Same count
+Ch 12      0               0                            +0 ✓ Same count
+Ch 13      0               0                            +0 ✓ Same count
+Ch 14      0               0                            +0 ✓ Same count
+Ch 15      0               0                            +0 ✓ Same count
+Ch 16      0               0                            +0 ✓ Same count
+Ch 17      0               0                            +0 ✓ Same count
+Ch 18      0               0                            +0 ✓ Same count
+Ch 19      0               0                            +0 ✓ Same count
+Ch 20      0               0                            +0 ✓ Same count
+Ch 21      0               0                            +0 ✓ Same count
+Ch 22      0               0                            +0 ✓ Same count
+Ch 23      0               0                            +0 ✓ Same count
+Ch 24      0               0                            +0 ✓ Same count
+Ch 25      0               0                            +0 ✓ Same count
+Ch 26      0               0                            +0 ✓ Same count
+Ch 27      0               0                            +0 ✓ Same count
+Ch 28      0               0                            +0 ✓ Same count
+Ch 29      0               0                            +0 ✓ Same count
+Ch 30      0               0                            +0 ✓ Same count
+Ch 31      0               0                            +0 ✓ Same count
+Ch 32      0               0                            +0 ✓ Same count
+Ch 33      0               0                            +0 ✓ Same count
+Ch 34      0               0                            +0 ✓ Same count
+Ch 35      0               0                            +0 ✓ Same count
+Ch 36      0               0                            +0 ✓ Same count
+
+====================================================================================================
+DETAILED TABLE ANALYSIS BY CHAPTER
+====================================================================================================
+
+====================================================================================================
+CHAPTER 9
+====================================================================================================
+
+📊 final_output_tables/ch0009.xml - 1 table(s)
+----------------------------------------------------------------------------------------------------
+
+  Table 1:
+    ID: no-id
+    Title: 
+    Dimensions: 9 rows × 7 columns = 63 cells
+    Frame: all
+    Headers (7):
+      1. Reference and Year of Publication
+      2. Number of Subjects
+      3. Exposure Type
+      4. Dosimetry
+      5. SAR and Duration
+      6. Max Core Temperature Increase
+      7. Mean Core Temperature Increase
+    Sample rows (showing first 3):
+      Row 1:
+        Col 1: (137) (1986)
+        Col 2: 25 Patients
+        Col 3: ambient temperature 20 to 24°C whole body
+        Col 4: No
+        Col 5: 0.5 to 1.3 W/kg per sequence 40 to 90 min
+        Col 6: 0.6°C
+        Col 7: -
+      Row 2:
+        Col 1: (140) 1986
+        Col 2: 15 Patients
+        Col 3: ambient temperature 20 to 24°C head
+        Col 4: No
+        Col 5: 0.8 to 1.2 W/kg
+        Col 6: 0.2°C
+        Col 7: 0.4 °C
+      Row 3:
+        Col 1: (46) (1987)
+        Col 2: 50 Patients
+        Col 3: ambient temperature 20 to 24°C whole body
+        Col 4: No
+        Col 5: 0.6 to 1 W/kg per sequence
+        Col 6: 0.5°C
+        Col 7: 0.2 °C
+
+📚 DocBook version (Chapter 9) - 0 tables
+
+====================================================================================================
+CHAPTERS WITH MOST TABLES
+====================================================================================================
+
+Top 10 chapters by table count (DocBook version):
+Rank   Chapter    Tables     Total Cells    
+--------------------------------------------------
+
+====================================================================================================
+TABLE STRUCTURE ANALYSIS
+====================================================================================================
+
+====================================================================================================
+ANALYSIS COMPLETE
+====================================================================================================
