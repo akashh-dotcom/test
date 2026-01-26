@@ -2,30 +2,6 @@
 
 <preface id="pr0003">
     <title>The Editors</title>
-    <sect1 id="pr0003s01">
-        <title>Frank G. Shellock, Ph.D.</title>
-        <figure>
-            <title/>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="Ch0000f01.png" width="100%" scalefit="1"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-        <para><emphasis role="bold">Frank G. Shellock, Ph.D.</emphasis> is a physiologist with more than 35 years of experience conducting laboratory and clinical investigations in the field of magnetic resonance imaging (MRI). He is the Director of MRI Safety at the USC Steven Neuroimaging and Informatics Institute and an Adjunct Clinical Professor of Radiology and Medicine at the Keck School of Medicine, University of Southern California.</para>
-        <para>Dr. Shellock has authored or co-authored more than 260 publications in the peer-reviewed literature. He is a member and Fellow of the American College of Radiology, the International Society for Magnetic Resonance in Medicine, the American College of Cardiology, and the American College of Sportsmedicine.</para>
-    </sect1>
-    <sect1 id="pr0003s02">
-        <title>John V. Crues, III, M.D., M.S.</title>
-        <figure>
-            <title/>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="Ch0000f02.png" width="100%" scalefit="1"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-        <para><emphasis role="bold">John V. Crues, III, M.D., M.S.</emphasis> is a radiologist with more than 30 years experience in magnetic resonance imaging (MRI). He is the Medical Director and former MRI Fellowship Director for Radnet, Inc., the largest owner and operator of outpatient imaging centers in the United States.</para>
-        <para>Dr. Crues has authored more than 100 papers in the medical literature, 13 textbooks and CDs, 27 book chapters, and over 100 abstracts. He is a past President of the International Society for Magnetic Resonance in Medicine (ISMRM).</para>
-    </sect1>
+    <para><emphasis role="bold">Frank G. Shellock, Ph.D.</emphasis> is a physiologist with more than 35 years of experience conducting laboratory and clinical investigations in the field of magnetic resonance imaging (MRI).</para>
+    <para><emphasis role="bold">John V. Crues, III, M.D., M.S.</emphasis> is a radiologist with more than 30 years experience in magnetic resonance imaging (MRI).</para>
 </preface>
