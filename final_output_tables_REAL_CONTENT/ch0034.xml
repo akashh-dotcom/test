@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<chapter id="ch0034" label="34">
+    <title>Chapter 34</title>
+    <para><emphasis role="bold">Chapter 34</emphasis> <emphasis role="bold">MRI Standards and Safety  </emphasis> <emphasis role="bold">Guidelines in Europe </emphasis></para>
+    <sect1 id="ch0034s01">
+      <title>STEPHEN F. KEEVIL, PH.D.</title>
+      <para>Head of Medical Physics  Department of Medical Physics  Guy’s and St Thomas’ NHS Foundation Trust  London, England  United Kingdom  and  Professor of Medical Physics  School of Biomedical Engineering and Imaging Sciences  King’s College London  London, England  United Kingdom</para>
+    <table frame="all"><title>). In the case of MRI, a projectile incident, for example, might be categorized as</title><tgroup cols="2"><thead><row><entry>One of the most important</entry><entry>of the “general safety and performance requirements” set</entry></row></thead><tbody><row><entry>out in the MDR is that “Devices…shall not compromise the clinical condition or the safety</entry><entry /></row><row><entry>of patients, or the safety and health of users or, where applicable, other persons”. Demon-</entry><entry /></row><row><entry>strating safety is therefore a key aspect of the CE marking process and, hence, a prerequisite</entry><entry /></row><row><entry>for marketing a medical device in Europe.</entry><entry /></row><row><entry>Consequences (severity of injury / financial loss / reputational damage)</entry><entry /></row><row><entry>Likelihood</entry><entry /></row><row><entry>(within a</entry><entry /></row><row><entry>year)</entry><entry /></row><row><entry>Minimal</entry><entry /></row><row><entry>Minor</entry><entry /></row><row><entry>Moderate</entry><entry /></row><row><entry>Major</entry><entry /></row><row><entry>Catastrophic</entry><entry /></row><row><entry>Almost</entry><entry /></row><row><entry>certain</entry><entry /></row><row><entry>Moderate risk</entry><entry /></row><row><entry>Significant</entry><entry /></row><row><entry>risk</entry><entry /></row><row><entry>High risk</entry><entry /></row><row><entry>Extreme risk</entry><entry /></row><row><entry>Extreme risk</entry><entry /></row><row><entry>Likely</entry><entry /></row><row><entry>Low risk</entry><entry /></row><row><entry>Moderate risk</entry><entry /></row><row><entry>Significant</entry><entry /></row><row><entry>risk</entry><entry /></row><row><entry>High risk</entry><entry /></row><row><entry>Extreme risk</entry><entry /></row><row><entry>Possible</entry><entry /></row><row><entry>Low risk</entry><entry /></row><row><entry>Low risk</entry><entry /></row><row><entry>Moderate risk</entry><entry /></row></tbody></tgroup></table><table frame="all"><title>A simple risk assessment matrix. Performance of risk assessments in all workplaces, including MRI</title><tgroup cols="7"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><colspec colname="c6" /><colspec colname="c7" /><thead><row><entry /><entry>Consequences (severity of injury / financial loss / reputational damage)</entry><entry /><entry /><entry /><entry /><entry /></row></thead><tbody><row><entry>Likelihood (within a year)</entry><entry /><entry>Minimal</entry><entry>Minor</entry><entry>Moderate</entry><entry>Major</entry><entry>Catastrophic</entry></row><row><entry /><entry>Almost certain</entry><entry>Moderate risk</entry><entry>Significant risk</entry><entry>High risk</entry><entry>Extreme risk</entry><entry>Extreme risk</entry></row><row><entry /><entry>Likely</entry><entry>Low risk</entry><entry>Moderate risk</entry><entry>Significant risk</entry><entry>High risk</entry><entry>Extreme risk</entry></row><row><entry /><entry>Possible</entry><entry>Low risk</entry><entry>Low risk</entry><entry>Moderate risk</entry><entry>Significant risk</entry><entry>High risk</entry></row><row><entry /><entry>Unlikely</entry><entry>Low risk</entry><entry>Low risk</entry><entry>Low risk</entry><entry>Moderate risk</entry><entry>Significant risk</entry></row><row><entry /><entry>Rare</entry><entry>Low risk</entry><entry>Low risk</entry><entry>Low risk</entry><entry>Low risk</entry><entry>Moderate risk</entry></row></tbody></tgroup></table><table frame="all"><title>They apply</title><tgroup cols="6"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><colspec colname="c6" /><thead><row><entry /><entry>Static magnetic field</entry><entry>Switched gradients*</entry><entry>Radiofrequency field**</entry><entry /><entry /></row></thead><tbody><row><entry /><entry /><entry>Gradient output as a percentage of directly determined mean PNS threshold level</entry><entry>Maximum core temperature (oC)</entry><entry>Maximum local tissue temperature (oC)</entry><entry>Maximum rise in core temperature (oC)</entry></row><row><entry>Normal Operating Mode</entry><entry>≤ 3-T</entry><entry>≯ 80%</entry><entry>39</entry><entry>39</entry><entry>0.5</entry></row><row><entry>First Level Controlled Operating Mode</entry><entry>&gt; 3-T, ≤ 8-T</entry><entry>≯ 100%</entry><entry>40</entry><entry>40</entry><entry>1</entry></row><row><entry>Second Level Controlled Operating Mode</entry><entry>&gt; 8-T</entry><entry>&gt; 100%</entry><entry>&gt; 40</entry><entry>&gt; 40</entry><entry>&gt;1</entry></row><row><entry>*Default limits are also defined, in terms of induced electric field strength and gradient switching rate, as an alternative to direct determination. **Various specific absorption rate (SAR) limits are also defined to ensure compliance with these temperature limits.</entry><entry /><entry /><entry /><entry /><entry /></row></tbody></tgroup></table><table frame="all"><title>Exposure limits for patients and MRI workers according to the IEC standard 60601-2-33.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Description</entry></row></thead><tbody><row><entry>Table 2</entry><entry>See original PDF</entry></row></tbody></tgroup></table><table frame="all"><title>ICNIRP basic restrictions for occupational exposure to electromagnetic fields relevant to MRI.</title><tgroup cols="4"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><thead><row><entry>Static magnetic field</entry><entry>Movement in static magnetic field (&lt; 1-Hz representative frequency)</entry><entry>Switched gradients (1-kHz representative frequency)</entry><entry>Radiofrequency field</entry></row></thead><tbody><row><entry>1994 - Time average: 200-mT - Head and trunk: 2-T - Limbs: 5-T 2009 - Controlled environment: 8-T</entry><entry>1998 Induced current density (RMS) - Head and trunk: 40-mA m-2 (≈ 200-mV m-1) 2014 Maximum change in magnetic flux density over any 3 s period: 2-T Induced electric field (controlled environment): 1.1 Vm-1</entry><entry>1998 Induced current density (RMS) - Head and trunk: 10-mA m-2 (≈ 50-mV m-1) 2010 Induced electric field - Head and body: 800-mV m-1</entry><entry>1998 and 2020 SAR* - Whole body: 0.4-W kg-1 - Localized, head and trunk: 10-W kg-1 - Localized, limbs: 20-W kg-1</entry></row><row><entry>*SAR values averaged over 6-minutes, except whole body SAR in 2020 guidance averaged over 30-minutes; Localized SAR values averaged over 10-g of tissue.</entry><entry /><entry /><entry /></row></tbody></tgroup></table><table frame="all"><title>ICNIRP recommended limits for patient exposures during MRI.</title><tgroup cols="7"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><colspec colname="c6" /><colspec colname="c7" /><thead><row><entry /><entry>Static magnetic field</entry><entry>Switched gradients</entry><entry>Radiofrequency field</entry><entry /><entry /><entry /></row></thead><tbody><row><entry /><entry /><entry>Gradient switching rate (dB/dt) as a percentage of mean perception threshold for PNS*</entry><entry>Maximum core temperature rise (oC)</entry><entry>Maximum local tissue temperature (oC)</entry><entry /><entry /></row><row><entry /><entry /><entry /><entry /><entry>Head</entry><entry>Trunk</entry><entry>Extremities</entry></row><row><entry>Normal Operating Mode</entry><entry>≤ 4-T</entry><entry>≯ 80%</entry><entry>0.5</entry><entry>38</entry><entry>39</entry><entry>40</entry></row><row><entry>Controlled Operating Mode</entry><entry>&gt; 4-T, ≤ 8-T</entry><entry>≯ 100%</entry><entry>1</entry><entry>38</entry><entry>39</entry><entry>40</entry></row><row><entry>Experimental Operating Mode</entry><entry>&gt;8-T</entry><entry>&gt; 100%</entry><entry>&gt;1</entry><entry>&gt;38</entry><entry>&gt;39</entry><entry>&gt;40</entry></row><row><entry>*The peripheral nerve stimulation (PNS) mean perception threshold is derived from an empirical equation.</entry><entry /><entry /><entry /><entry /><entry /><entry /></row></tbody></tgroup></table></sect1>
+    <sect1 id="ch0034s02">
+      <title>INTRODUCTION</title>
+      <para>In the period from 2003 to 2013, the magnetic resonance imaging (MRI) community  in Europe was engaged in a campaign related to a portion of the European Union (EU) oc- cupational health and safety legislation, the Physical Agents (Electromagnetic Fields, EMF)  Directive (1), which appeared to pose a substantial threat to the use of MRI in clinical prac- tice and research (2, 3, 4). This contentious debate served to highlight the question of how  MRI safety issues are currently regulated in Europe. Although there is no single piece of  European legislation concerned expressly with MRI safety, there are a number of sets of  regulations and official guidance that are relevant in this area and which staff members  working with MRI should be aware of to ensure they remain legally compliant and, impor- tantly, to promote a safe environment for both patients and staff members.</para>
+      <para>In this chapter, the body of the EU safety legislation, international standards and guide- lines that impact the use of MRI in Europe are discussed. Although Europe and the European  Union are neither synonymous nor coterminous, this chapter will be concerned mainly with  the situation in the EU. Notably, in some policy areas, including occupational health and  safety, EU legislation also applies in the wider European Economic Area (EEA) (encom- passing Iceland, Liechtenstein, and Norway), often also in Switzerland, and in some in-</para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 911</para>
+      <para>stances even more widely (e.g., the legislation of medical devices as it is applied in Turkey,  see below). Since there will be considerable discussion of EU legislation in this chapter,  background information is needed for readers outside the EU (and for many within it).</para>
+      <para><emphasis role="bold">NATIONAL AND SUPRANATIONAL LEGISLATION IN THE EUROPEAN </emphasis> <emphasis role="bold">UNION </emphasis></para>
+      <para>Currently, the EU is a partnership of 27 sovereign countries<superscript>1</superscript>, each with its own inde- pendent government, legislature, and body of law. However, under the treaties establishing  the EU, these “member states” have conferred certain powers on the EU collectively, in- cluding the power to make laws that are binding on all of them in order to advance the ob- jectives of the treaties. The mechanism by which EU law is made varies between different  policy areas but, in general, it involves the European Commission, the European Parliament,  and the Council of the EU. The Commission is composed of permanent officials and pro- vides the EU’s “civil service”. It is headed by the College of Commissioners, a group of  politicians forming the “cabinet” of the EU. There is one Commissioner from each member  state, each having different policy responsibilities. Only the Commission has the power to  propose new legislation, which is then passed to the Parliament and Council for amendment  and approval. The European Parliament is composed of members (MEPs) directly elected  by citizens of EU member states for terms of five years. Like most national legislatures, it  contains a variety of political groupings and carries out much of its work through a system  of committees focusing on different policy areas. The Council of the EU is made up of gov- ernment ministers from each member state, with the attending minister changing depending  on the area of policy under discussion. In practice, much of its work is carried out in com- mittees and working parties made up of civil servants and diplomats. The overall political  direction of the EU is set by a separate body, rather confusingly called the European Council,  made up of member state heads of government. (Even more confusingly, there is also an  international organization called the Council of Europe, which is entirely distinct from the  EU.)</para>
+      <para>Most EU legislation (for our purposes) takes the form of <emphasis role="italics">directives</emphasis> and <emphasis role="italics">regulations</emphasis>,  which become law in member states in different ways. Once the Parliament and Council  have adopted a directive, all member state governments are required to implement its pro- visions in their domestic law (a process known as “transposition”) by a fixed date. If a mem- ber state fails to meet the transposition deadline, the Commission may take “infraction  proceedings” against that country in the Court of Justice of the EU. A regulation, by contrast,  is legally binding in all member states as soon as it comes into force, without the need for  transposition. EU law takes priority over individual national law, although member states  are able to introduce more stringent laws in some policy areas, including worker protection.</para>
+      <table frame="all">
+          <title>Untitled</title>
+          <tgroup cols="7">
+            <colspec colname="c1" />
+            <colspec colname="c2" />
+            <colspec colname="c3" />
+            <colspec colname="c4" />
+            <colspec colname="c5" />
+            <colspec colname="c6" />
+            <colspec colname="c7" />
+            <thead>
+              <row>
+                <entry />
+                <entry namest="c2" nameend="c6">Consequences (severity of injury / financial loss / reputational damage)</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>Minimal</entry>
+                <entry>Minor</entry>
+                <entry>Moderate</entry>
+                <entry>Major</entry>
+                <entry>Catastrophic</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry morerows="4">Likelihood (within a year)</entry>
+                <entry>Almost certain</entry>
+                <entry>Moderate risk</entry>
+                <entry>Significant risk</entry>
+                <entry>High risk</entry>
+                <entry>Extreme risk</entry>
+                <entry>Extreme risk</entry>
+              </row>
+              <row>
+                <entry>Likely</entry>
+                <entry>Low risk</entry>
+                <entry>Moderate risk</entry>
+                <entry>Significant risk</entry>
+                <entry>High risk</entry>
+                <entry>Extreme risk</entry>
+              </row>
+              <row>
+                <entry>Possible</entry>
+                <entry>Low risk</entry>
+                <entry>Low risk</entry>
+                <entry>Moderate risk</entry>
+                <entry>Significant risk</entry>
+                <entry>High risk</entry>
+              </row>
+              <row>
+                <entry>Unlikely</entry>
+                <entry>Low risk</entry>
+                <entry>Low risk</entry>
+                <entry>Low risk</entry>
+                <entry>Moderate risk</entry>
+                <entry>Significant risk</entry>
+              </row>
+              <row>
+                <entry>Rare</entry>
+                <entry>Low risk</entry>
+                <entry>Low risk</entry>
+                <entry>Low risk</entry>
+                <entry>Low risk</entry>
+                <entry>Moderate risk</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table><para>Several EU directives have implications for MRI safety. The most significant of these  are discussed below, but others that may need to be taken into account in the context of  MRI include the Physical Agents (Noise) Directive (2003/10/EC) and the Pressure Equip- ment Directive (97/23/EC), as well as more general legislation dealing with issues such as  electrical and mechanical safety, manual handling, use of display screens, and others. Most  of these issues will not be discussed further in this chapter, where the focus is primarily on</para>
+      <para><emphasis role="bold">912</emphasis> <emphasis role="bold">MRI Standards and Safety Guidelines in Europe</emphasis></para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 912</para>
+      <para>the management of hazards arising from electromagnetic fields (EMF) with an emphasis  on MRI.</para>
+      <para><emphasis role="bold">THE PURPOSE OF STANDARDS AND GUIDELINES:  </emphasis> <emphasis role="bold">DIRECT AND INDIRECT HAZARDS ASSOCIATED WITH MRI </emphasis></para>
+      <para>The hazards of MRI are discussed in detail elsewhere in this textbook. Briefly, MRI  safety discussions often focus on direct and indirect hazards of EMF. <emphasis role="italics">Direct hazards</emphasis> are  those arising directly from exposure of the human body to EMF (the static magnetic field,  time-varying magnetic fields and radiofrequency radiation), primarily peripheral nerve stim- ulation (PNS) and radiofrequency (RF) heating. There are also transient sensory effects  such as magnetic field-induced vertigo and (rarely in MRI) magnetophosphenes. There has  been some debate as to whether or not these phenomena should be regarded as adverse  health effects. Most in the MRI community would take the view that they should not, but  some commentators argue that the World Health Organization (WHO) definition of health  as “complete physical, mental and social well-being...” (5) implies that transient distur- bances of this kind do constitute adverse effects. Direct hazards are often addressed by set- ting exposure limits in order to avoid or to minimize the effect in question. These limits  may be specific to MRI, or may apply to all sources of EMF exposure.</para>
+      <para><emphasis role="italics">Indirect hazards</emphasis> arise when electromagnetic fields interact with an object or device in  such a way that it then poses a hazard to patients or workers. Examples are ferromagnetic  projectiles attracted by the strong static magnetic field and effects on biomedical implants.  By far, these are the more serious type of hazards associated with MRI that are best pre- vented through the adoption of rules for safe working, worker training, and by other means  rather than by imposing exposure limits. This may be an entirely local matter, but in some  countries there are national guidelines on MRI safety to provide more effective and uniform  protection. Both types of hazard may also be minimized through proper equipment and fa- cility design.</para>
+      <para><emphasis role="bold">THE EU HEALTH AND SAFETY FRAMEWORK DIRECTIVE:  </emphasis> <emphasis role="bold">RULES AND RESPONSIBILITIES </emphasis></para>
+      <para>Most European countries do not have specific laws addressing MRI safety. However,  generic legislation to protect worker health and safety exists in each EU member state, based  on the health and safety framework directive (89/391/EEC) (6). Under this legislation, em- ployers (which in this context would encompass hospitals, private clinics and universities)  have a duty to ensure the safety and health of workers in every aspect related to the work.  For example, they must conduct risk assessments of each work process, adopt appropriate  protective measures, and provide workers with adequate training. There are also require- ments placed on workers to take care of their own health and safety, and that of other per- sons, and to make correct use of work equipment. However, this is explicitly dependent on  the training and instructions received so, again, the primary responsibility rests with the  employer. These provisions apply to MRI just as much as to any other occupational setting.  In the United Kingdom (UK), the Health and Safety Executive (HSE), the government  agency responsible for occupational health and safety, has in recent years conducted in-</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">913</emphasis></para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 913</para>
+      <para><emphasis role="bold">914</emphasis> <emphasis role="bold">MRI Standards and Safety Guidelines in Europe</emphasis></para>
+      <para>spections of MRI facilities, requiring risk assessment documentation and other evidence of  safe working practices.</para>
+      <table frame="all">
+          <title>Untitled</title>
+          <tgroup cols="6">
+            <colspec colname="c1" />
+            <colspec colname="c2" />
+            <colspec colname="c3" />
+            <colspec colname="c4" />
+            <colspec colname="c5" />
+            <colspec colname="c6" />
+            <thead>
+              <row>
+                <entry />
+                <entry>Static magnetic field</entry>
+                <entry>Switched gradients*</entry>
+                <entry namest="c4" nameend="c6">Radiofrequency field**</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>Gradient output as a percentage of directly determined mean PNS threshold level</entry>
+                <entry>Maximum core temperature (°C)</entry>
+                <entry>Maximum local tissue temperature (°C)</entry>
+                <entry>Maximum rise in core temperature (°C)</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Normal Operating Mode</entry>
+                <entry>≤ 3-T</entry>
+                <entry>≤ 80%</entry>
+                <entry>39</entry>
+                <entry>39</entry>
+                <entry>0.5</entry>
+              </row>
+              <row>
+                <entry>First Level Controlled Operating Mode</entry>
+                <entry>&gt; 3-T, ≤ 8-T</entry>
+                <entry>≤ 100%</entry>
+                <entry>40</entry>
+                <entry>40</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>Second Level Controlled Operating Mode</entry>
+                <entry>&gt; 8-T</entry>
+                <entry>&gt; 100%</entry>
+                <entry>&gt; 40</entry>
+                <entry>&gt; 40</entry>
+                <entry>&gt;1</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table><para>Risk assessment is an important aspect of compliance with the framework directive. A  variety of approaches exist for assessing and quantifying risk and the impact of risk miti- gation, often taking the form of a matrix in which the risk of an event is categorized (and  sometimes quantified) according to its likelihood and the potential severity of its outcome  (<emphasis role="bold">Table 1</emphasis>). In the case of MRI, a projectile incident, for example, might be categorized as  an “extreme risk” event in the absence of appropriate safety procedures and training, but  with that mitigation in place might then be downgraded to a “moderate risk”.</para>
+    </sect1>
+    <sect1 id="ch0034s03">
+      <title>THE MEDICAL DEVICES REGULATION</title>
+      <para>EU legislation relating to “medical devices” (a broad term that encompasses everything  from bandages to MR systems) also creates health and safety responsibilities for both man- ufacturers and users of MR scanners. Many classes of product require a “CE mark” before  they can be placed on the market in the EU. These include products as diverse as gas appli- ances, refrigerators, weighing instruments, fireworks, and toys. The process of obtaining a  CE mark requires the manufacturer to ensure that the product conforms to the requirements  of applicable EU regulations and directives. In the case of medical devices, regulation has  hitherto taken the form of a series of medical device directives, requiring transposition in  each member state and hence providing scope for a degree of nuancing to meet local cir- cumstances. However, in 2017 the EU adopted the Medical Devices Regulation (Regulation  (EU) No 2017/745) (MDR) (7) in order to create a more robust and uniform regulatory en- vironment across the Union. This regulation was due to come fully into force in May 2020,  but has now been delayed until May 2021 due to the Covid-19 pandemic.</para>
+      <para>One of the most important  of the “general safety and performance requirements” set  out in the MDR is that “Devices…shall not compromise the clinical condition or the safety  of patients, or the safety and health of users or, where applicable, other persons”. Demon- strating safety is therefore a key aspect of the CE marking process and, hence, a prerequisite  for marketing a medical device in Europe.</para>
+      <para><emphasis role="bold">Consequences (severity of injury / financial loss / reputational damage)</emphasis></para>
+      <para><emphasis role="bold">Likelihood </emphasis> <emphasis role="bold">(within a </emphasis> <emphasis role="bold">year)</emphasis></para>
+      <para><emphasis role="bold">Minimal</emphasis> <emphasis role="bold">Minor</emphasis> <emphasis role="bold">Moderate</emphasis> <emphasis role="bold">Major</emphasis> <emphasis role="bold">Catastrophic</emphasis></para>
+      <para><emphasis role="bold">Almost  </emphasis> <emphasis role="bold">certain</emphasis> Moderate risk Significant  risk High risk Extreme risk Extreme risk</para>
+      <para><emphasis role="bold">Likely</emphasis> Low risk Moderate risk Significant  risk High risk Extreme risk</para>
+      <para><emphasis role="bold">Possible</emphasis> Low risk Low risk Moderate risk Significant  risk High risk</para>
+      <para><emphasis role="bold">Unlikely</emphasis> Low risk Low risk Low risk Moderate risk Significant  risk</para>
+      <para><emphasis role="bold">Rare</emphasis> Low risk Low risk Low risk Low risk Moderate risk</para>
+      <para><emphasis role="bold">Table 1.</emphasis> A simple risk assessment matrix. Performance of risk assessments in all workplaces, including MRI  facilities, is a requirement of the EU health and safety framework directive (89/391/EEC).</para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 914</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">915</emphasis></para>
+      <para>Previous medical device directives contained a provision whereby manufacture or mod- ification of devices within the same health institution in which they were to be used was  exempt from all requirements of the directive (known as the health institution exemption,  HIE). The term “health institution” in this context includes research laboratories “that sup- port the healthcare system” (e.g., university laboratories). This situation has changed under  the new MDR, and such devices will now be required to comply with the general safety  and performance requirements of the MDR. In practice, this should not be a major issue,  since quite apart from medical device legislation there is already a more general legal re- quirement for institutions to ensure that devices they manufacture are safe and fit for pur- pose. However, the MDR also creates a requirement for manufacture <emphasis role="italics">and use</emphasis> of such  devices to take place within “appropriate quality management systems”. At the time of writ- ing, regulators in member states are still drawing up guidelines as to how this should be in- terpreted. The new HIE requirements clearly apply to development of new MR systems or  components (e.g., RF coils) in research laboratories, but they also affect modification of  commercial systems, potentially including pulse programming if this takes the system out- side the scope of its original CE mark.</para>
+    </sect1>
+    <sect1 id="ch0034s04">
+      <title>THE IEC/EN 60601 STANDARD SERIES</title>
+      <para>The International Electrotechnical Commission (IEC) 60601 standard series provides  the usual means whereby medical device manufacturers demonstrate compliance with pre- vious medical device directives and with the new MDR. The European Commission recog- nizes these standards as harmonized standards for this purpose, so that satisfying their  requirements gives a “presumption of conformity” with relevant legislative requirements.  These are global standards, not specific to Europe. They underpin the design and manufac- ture of MR systems sold throughout the world and are recognized by many national medical  device regulatory agencies, including the United States (U.S.) Food and Drug Administra- tion (FDA). However, they have a particular importance in Europe because of their close  relationship to the MDR and, therefore, are discussed in some detail here. Strictly speaking,  it is the version of the IEC standard adopted by the European Committee for Electrotechnical  Standardization (CENELEC), known as an EN standard, that is harmonized to the MDD  but this is practically identical to the IEC original.</para>
+      <para>The IEC/EN 60601 series consists of a general medical device safety standard (60601- 1) (8), “collateral standards” covering specific aspects of device performance, some of  which are relevant to MRI such as electromagnetic compatibility (60601-1-2) and usability  (60601-1-6), and “particular standards” in the 60601-2 series dealing with specific device  types. Standard 60601-2-33 is the particular standard for MR systems (9) and is maintained  by a group of MRI experts drawn from industry, clinical users, regulators and the academic  community.</para>
+      <para>IEC/EC 60601-2-33 sets out criteria for equipment safety and details of measurement  procedures for manufacturers to demonstrate compliance. Importantly, it also describes the  “Instructions for Use” that manufacturers must provide to purchasers of scanners. These  include mandatory safety information and create obligations for the end user in areas such  as safe system operation, worker training, control of access to the scanner, and patient han- dling. Much of this material is intended to manage indirect hazards.</para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 915</para>
+      <para>Unusually for a standard of this type, 60601-2-33 also contains EMF exposure limit  values, addressing direct hazards. These limits are summarized in <emphasis role="bold">Table 2</emphasis>. They apply  equally to patients and to MRI workers, with the rationale that the intention to avoid adverse  effects in patients ensures that workers are also protected. The standard adopts a tiered ap- proach to EMF exposure limitation, with three operating modes defined by exposure thresh- olds. In the <emphasis role="italics">Normal Operating Mode</emphasis>, there is considered to be no risk of “physiological  stress” to patients. In the <emphasis role="italics">First Level Controlled Operating Mode</emphasis>, the threshold for physi- ological effects may be approached, and medical supervision is recommended. In the <emphasis role="italics">Second </emphasis> <emphasis role="italics">Level Controlled Operating Mode</emphasis>, there may be significant risk and local regulatory ap- proval is required (e.g., from a research ethics committee or institutional review board,  IRB), which should explicitly state the permitted levels of exposure. The instructions for  use passed to the end user must refer to the hazards associated with EMF and to these ex- posure limits. They must also give advice on worker training to mitigate transient effects,  such as vertigo, that may occur at higher exposure levels, and explain that national laws  may set lower exposure limits for workers in some countries, as is discussed later in this  chapter.</para>
+      <para>One point worthy of particular note is that the main approach to limiting exposures to  time-varying magnetic fields focuses on direct determination of the physiological threshold  for peripheral nerve stimulation (PNS) (which is merely a tactile sensation at the onset level)  in a group of healthy volunteers, with the <emphasis role="italics">Normal Operating Mode</emphasis> limit set at 80% of this  threshold. This differs from most other guidelines in avoiding the unwanted physiological</para>
+      <para><emphasis role="bold">916</emphasis> <emphasis role="bold">MRI Standards and Safety Guidelines in Europe</emphasis></para>
+      <para><emphasis role="bold">Table 2.</emphasis> Exposure limits for patients and MRI workers according to the IEC standard 60601-2-33.</para>
+      <para><emphasis role="bold">Static  </emphasis> <emphasis role="bold">magnetic  </emphasis> <emphasis role="bold">field</emphasis></para>
+      <para><emphasis role="bold">Switched  </emphasis> <emphasis role="bold">gradients*</emphasis> <emphasis role="bold">Radiofrequency field**</emphasis></para>
+      <para><emphasis role="bold">Gradient  </emphasis> <emphasis role="bold">output as a  </emphasis> <emphasis role="bold">percentage of </emphasis> <emphasis role="bold">directly  </emphasis> <emphasis role="bold">determined  </emphasis> <emphasis role="bold">mean PNS  </emphasis> <emphasis role="bold">threshold level</emphasis></para>
+      <para><emphasis role="bold">Maximum core  </emphasis> <emphasis role="bold">temperature  </emphasis> <emphasis role="bold">(</emphasis><emphasis role="bold"><superscript>o</superscript></emphasis><emphasis role="bold">C)</emphasis></para>
+      <para><emphasis role="bold">Maximum  </emphasis> <emphasis role="bold">local tissue  </emphasis> <emphasis role="bold">temperature  </emphasis> <emphasis role="bold">(</emphasis><emphasis role="bold"><superscript>o</superscript></emphasis><emphasis role="bold">C)</emphasis></para>
+      <para><emphasis role="bold">Maximum  </emphasis> <emphasis role="bold">rise in core  </emphasis> <emphasis role="bold">temperature  </emphasis> <emphasis role="bold">(</emphasis><emphasis role="bold"><superscript>o</superscript></emphasis><emphasis role="bold">C)</emphasis></para>
+      <para>Normal   Operating   Mode ≤ 3-T ≯ 80%  39 39 0.5</para>
+      <para>First Level   Controlled   Operating Mode &gt; 3-T, ≤ 8-T ≯ 100%  40 40 1</para>
+      <para>Second Level  Controlled   Operating Mode &gt; 8-T &gt; 100%  &gt; 40 &gt; 40 &gt;1</para>
+      <para>*Default limits are also defined, in terms of induced electric field strength and gradient switching rate, as an  alternative to direct determination.</para>
+      <table frame="all">
+        <title>Untitled</title>
+        <tgroup cols="4">
+          <colspec colname="c1" />
+          <colspec colname="c2" />
+          <colspec colname="c3" />
+          <colspec colname="c4" />
+          <thead>
+            <row>
+              <entry>Static magnetic field</entry>
+              <entry>Movement in static magnetic field (≤ 1-Hz representative frequency)</entry>
+              <entry>Switched gradients (1-kHz representative frequency)</entry>
+              <entry>Radiofrequency field</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>1994- Time average: 200-mT- Head and trunk: 2-T- Limbs: 5-T2009- Controlled environment: 8-T</entry>
+              <entry>1998Induced current density (RMS)- Head and trunk: 40-mA m-2(≈ 200-mV m-1)2014Maximum change in magnetic flux density over any 3 s period: 2-TInduced electric field (controlled environment): 1.1 Vm-1</entry>
+              <entry>1998Induced current density (RMS)- Head and trunk: 10-mA m-2(≈ 50-mV m-1)2010Induced electric field- Head and body: 800-mV m-1</entry>
+              <entry>1998 and 2020SAR*- Whole body: 0.4-W kg-1- Localized, head and trunk: 10-W kg-1- Localized, limbs: 20-W kg-1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table><para>**Various specific absorption rate (SAR) limits are also defined to ensure compliance with these temperature  limits.</para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 916</para>
+      <para>effect directly, rather than by means of an exposure limit expressed in terms of physical  quantities that is inevitably a conservative proxy. There are also default limits on induced  electric field and gradient switching rates for use when direct determination has not been  employed, but these are also derived from an empirical equation describing PNS thresh- olds.</para>
+    </sect1>
+    <sect1 id="ch0034s05">
+      <title>ICNIRP GUIDELINES ON EMF EXPOSURE</title>
+      <para>The EMF exposure limits contained in IEC/EN standard 60601-2-33 are designed  specifically for use in MRI and, as far as possible, they are incorporated into MR scanners  in the form of hardware and software interlocks and other safety features. There are also  international guidelines on EMF exposure of more generally applicability. The International  Commission on Non-Ionizing Radiation Protection (ICNIRP) is the main organization active  in this area and its guidelines have significant influence in Europe.</para>
+      <para>The ICNIRP develops guidelines and exposure limits to address adverse health effects  of exposure to all forms of non-ionizing radiation, including EMF. The ICNIRP issued guid- ance on static magnetic field exposure in 1994 (10), which was updated in 2009 (11). Guid- ance on time-varying magnetic fields in the frequency range up to 300-GHz was published  in 1998 (12), and updated in 2010 for the frequency range 1-Hz to 100-kHz (13), and in  2020 for the frequency range 100-kHz to 300-GHz (14). In 2014 ICNIRP issued new guid- ance on exposure to time-varying magnetic fields with frequencies below 1-Hz (primarily  to prevent sensory effects associated with movement in and around static magnetic fields  associated with MRI) (15). With the exception of (15), all of these guidelines contain ex- posure limits for workers, and also lower limits for members of the general public, which  do not concern us directly here. There is also a specific statement from the ICNIRP on pro- tection of patients in MRI, published in 2004 (16) and revised in 2009 (17).</para>
+      <para>The ICNIRP bases its exposure limits, known as “basic restrictions”, on the thresholds  for “established adverse effects”, determined by critical review of the literature (18). The  biological effects of EMF on the human body vary dramatically with frequency. In the low  frequency range relevant to the switched gradients in MRI (around 1-kHz), the relevant ef- fect is stimulation of nervous tissue. The obvious manifestation of this is PNS, but histori- cally there has been a tendency to regard magnetophosphenes (which only occur over a  narrow frequency range around 10- to 50-Hz) as a possible indication of EMF interactions  with the central nervous system over a much wider frequency range (19), resulting in much  lower exposure limits than are justified by the desire to avoid PNS alone. This is more of  an issue with the 1998 guidelines than with those issued in 2010, where a helpful distinction  has been drawn between adverse effects (PNS) and transient disturbances (magne- tophosphenes). In the radiofrequency range the critical effect is tissue heating and setting a  limit is simply a matter of deciding how much heating is acceptable. Basic restrictions are  often expressed in terms of quantities that cannot be readily determined, such as the electric  field or current density induced in the body by a time-varying magnetic field, so the ICNIRP  also defines “reference levels” in terms of quantities that are easier to measure, such as  static magnetic field strength. These are derived from the basic restrictions using conserva- tive models, so that complying with the reference level ensures that the relevant basic re- striction is satisfied.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">917</emphasis></para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 917</para>
+      <para>The ICNIRP’s basic restrictions on occupational exposure are often more restrictive  than the exposure limits contained in the IEC standard. This is mainly because the ICNIRP  applies reduction factors to adverse effect thresholds in order to arrive at the basic restric- tions. The rationale is that this reflects uncertainties in scientific knowledge about adverse  effects and their thresholds, and also accounts for biological variations in effect thresholds  that may exist between individuals. Also, the ICNIRP adopts a broad definition of health,  based on that of the WHO (5), so that effects resulting in annoyance or discomfort, affecting  a person’s wellbeing but otherwise harmless, may be regarded as potential health hazards  (18). To add to this, because it is often impractical to demonstrate compliance with the basic  restrictions, there is a tendency to treat the more conservative reference levels as default  exposure limits.</para>
+      <para><emphasis role="bold">Table 3</emphasis> summarizes the ICNIRP basic restrictions for workers, insofar as they are rel- evant to MRI. For clarity, reference levels, general public limits and the complexities of  frequency dependence have been omitted. Where guidelines allow, it has been assumed that  MRI is a “controlled environment” in which workers have been adequately trained. In some  instances higher limits apply in such circumstances. In the case of switched gradients, which  have complex non-sinusoidal waveforms, the ICNIRP limits at a representative frequency  of 1-kHz have been used. Values from the superseded 1994 and 1998 guidelines are in- cluded, for reasons that will become clear later.</para>
+      <para><emphasis role="bold">Table 4</emphasis> summarizes the ICNIRP guidance on exposure limits for MRI patients. In its  MRI statements, the ICNIRP takes a similar approach to that adopted in IEC 60601-2-33.  Three tiers of exposure are defined: <emphasis role="italics">Normal Operating Mode</emphasis>, <emphasis role="italics">Controlled Operating Mode</emphasis>  (requiring medical supervision) and <emphasis role="italics">Experimental Operating Mode</emphasis> (requiring institutional  review board, IRB, approval). The gradient exposure limits are based on PNS perception</para>
+      <para><emphasis role="bold">918</emphasis> <emphasis role="bold">MRI Standards and Safety Guidelines in Europe</emphasis></para>
+      <para><emphasis role="bold">Table 3.</emphasis> ICNIRP basic restrictions for occupational exposure to electromagnetic fields relevant to MRI.</para>
+      <para><emphasis role="bold">Static magnetic field</emphasis></para>
+      <table frame="all">
+          <title>Untitled</title>
+          <tgroup cols="7">
+            <colspec colname="c1" />
+            <colspec colname="c2" />
+            <colspec colname="c3" />
+            <colspec colname="c4" />
+            <colspec colname="c5" />
+            <colspec colname="c6" />
+            <colspec colname="c7" />
+            <thead>
+              <row>
+                <entry />
+                <entry>Static magnetic field</entry>
+                <entry>Switched gradients</entry>
+                <entry namest="c4" nameend="c7">Radiofrequency field</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>Gradient switching rate (dB/dt) as a percentage of mean perception threshold for PNS*</entry>
+                <entry>Maximum core temperature rise (°C)</entry>
+                <entry namest="c5" nameend="c7">Maximum local tissue temperature (°C)</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry />
+                <entry />
+                <entry>Head</entry>
+                <entry>Trunk</entry>
+                <entry>Extremities</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Normal Operating Mode</entry>
+                <entry>≤ 4-T</entry>
+                <entry>≠ 80%</entry>
+                <entry>0.5</entry>
+                <entry>38</entry>
+                <entry>39</entry>
+                <entry>40</entry>
+              </row>
+              <row>
+                <entry>Controlled Operating Mode</entry>
+                <entry>&gt; 4-T; ≤ 8-T</entry>
+                <entry>≠ 100%</entry>
+                <entry>1</entry>
+                <entry>38</entry>
+                <entry>39</entry>
+                <entry>40</entry>
+              </row>
+              <row>
+                <entry>Experimental Operating Mode</entry>
+                <entry>&gt;8-T</entry>
+                <entry>&gt; 100%</entry>
+                <entry>&gt;1</entry>
+                <entry>&gt;38</entry>
+                <entry>&gt;39</entry>
+                <entry>&gt;40</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table><para><emphasis role="bold">Movement in static </emphasis> <emphasis role="bold">magnetic field </emphasis> <emphasis role="bold">(&lt; 1-Hz representative </emphasis> <emphasis role="bold">frequency)</emphasis></para>
+      <para><emphasis role="bold">Switched gradients  </emphasis> <emphasis role="bold">(1-kHz representative </emphasis> <emphasis role="bold">frequency)</emphasis> <emphasis role="bold">Radiofrequency field </emphasis></para>
+      <para>1994  - Time average: 200-mT  - Head and trunk: 2-T  - Limbs: 5-T  2009  - Controlled      environment: 8-T</para>
+      <para>1998  Induced current density  (RMS)   - Head and trunk:    40-mA m<superscript>-2</superscript>     (≈ 200-mV m<superscript>-1</superscript>)  2014  Maximum change in  magnetic flux density  over any 3 s period: 2-T  Induced electric field  (controlled environment):  1.1 Vm<superscript>-1</superscript></para>
+      <para>1998  Induced current density  (RMS)   - Head and trunk:     10-mA m<superscript>-2</superscript>     (≈ 50-mV m<superscript>-1</superscript>)  2010  Induced electric field   - Head and body:     800-mV m<superscript>-1</superscript></para>
+      <para>1998 and 2020  SAR*  - Whole body:      0.4-W kg<superscript>-1</superscript>   - Localized, head and    trunk: 10-W kg<superscript>-1</superscript>    - Localized, limbs:      20-W kg<superscript>-1</superscript></para>
+      <para>*SAR values averaged over 6-minutes, except whole body SAR in 2020 guidance averaged over 30-minutes;  Localized SAR values averaged over 10-g of tissue.</para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 918</para>
+      <para>thresholds derived from the same equation as is used to generate the IEC default limit values.  Thus, they are based on actual effect thresholds, although direct determination is not em- braced. RF heating limitations are also similar to those in the IEC standard and, again, there  are a number of derived SAR limits. However, crucially, these limits apply only to patients  undergoing MRI. MRI workers remain subject to the ICNIRP occupational basic restrictions  shown in <emphasis role="bold">Table 3</emphasis>.</para>
+    </sect1>
+    <sect1 id="ch0034s06">
+      <title>THE EU EMF DIRECTIVE</title>
+      <para>Article 16 (1) of the framework directive (6) envisages adoption of additional individual  directives to address specific health and safety hazards. In this context, the Physical Agents  (EMF) Directive (2004/40/EC) (1) was adopted by the European Parliament and Council  on 29<superscript>th</superscript> April 2004, with a deadline of 30<superscript>th</superscript> April 2008 for member state transposition. Its  objective was to protect workers from the “known short-term adverse effects in the human  body” of exposure to EMF. This document was concerned only with occupational exposure,  not exposure of MRI patients or of the general public.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">919</emphasis></para>
+      <para><emphasis role="bold">Table 4.</emphasis> ICNIRP recommended limits for patient exposures during MRI.</para>
+      <para><emphasis role="bold">Static  </emphasis> <emphasis role="bold">magnetic  </emphasis> <emphasis role="bold">field</emphasis></para>
+      <para><emphasis role="bold">Switched  </emphasis> <emphasis role="bold">gradients</emphasis> <emphasis role="bold">Radiofrequency field</emphasis></para>
+      <para><emphasis role="bold">Gradient  </emphasis> <emphasis role="bold">switching  </emphasis> <emphasis role="bold">rate (dB/dt) </emphasis> <emphasis role="bold">as a  </emphasis> <emphasis role="bold">percentage  </emphasis> <emphasis role="bold">of mean  </emphasis> <emphasis role="bold">perception  </emphasis> <emphasis role="bold">threshold  </emphasis> <emphasis role="bold">for PNS*</emphasis></para>
+      <para><emphasis role="bold">Maximum </emphasis> <emphasis role="bold">core  </emphasis> <emphasis role="bold">temperature  </emphasis> <emphasis role="bold">rise  </emphasis> <emphasis role="bold">(</emphasis><emphasis role="bold"><superscript>o</superscript></emphasis><emphasis role="bold">C)</emphasis></para>
+      <para><emphasis role="bold">Maximum local tissue temperature (</emphasis><emphasis role="bold"><superscript>o</superscript></emphasis><emphasis role="bold">C)</emphasis></para>
+      <para><emphasis role="bold">Head</emphasis> <emphasis role="bold">Trunk</emphasis> <emphasis role="bold">Extremities</emphasis></para>
+      <para>Normal   Operating   Mode ≤ 4-T ≯ 80%  0.5 38 39 40</para>
+      <para>Controlled   Operating   Mode &gt; 4-T, ≤ 8-T ≯ 100%  1 38 39 40</para>
+      <para>Experimental   Operating   Mode &gt;8-T &gt; 100%  &gt;1 &gt;38 &gt;39 &gt;40</para>
+      <para>*The peripheral nerve stimulation (PNS) mean perception threshold is derived from an empirical equation.</para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 919</para>
+      <para>The directive incorporated the 1998 ICNIRP exposure limits for time-varying magnetic  fields, with the intention of making the ICNIRP basic restrictions into legally binding limits  throughout the EU.</para>
+      <para>Members of the European MRI community became aware of the directive shortly before  it was adopted. It was quickly realized that the proposed exposure limits are exceeded in a  number of situations in MRI and that the directive would have serious consequences for  both clinical and research activity. A lengthy lobbying campaign followed, led by the Eu- ropean Society of Radiology (ESR). There were also campaigns in individual member states  and a parliamentary inquiry in the United Kingdom (UK) (20). After considerable effort  and the publication of research showing that the limits are indeed exceeded by MRI workers  (21, 22), the community’s argument about the impact of the directive was accepted. Specif- ically, research showed that the limit for frequencies below 1-Hz was exceeded by a factor  of up to 10 for workers moving through the static magnetic field near the MR system (21),  and the ELV in the gradient frequency range by a factor of 20 or more for workers standing  close to the scanner during imaging (22) (note, RF exposure is rarely, if ever, a problem).  Thus, providing clinical care to a patient during MRI, all forms of interventional MRI, cer- tain research activities, or even walking at a normal speed close to an MR system, would  have become illegal throughout the EU following transposition of the directive.</para>
+      <para>Of course, this does not mean that workers in these situations are placing themselves at  risk of direct EMF effects: IEC 60601-2-33 ensures that this is not the case. The problem  is the large safety factors built into the ICNIRP basic restrictions, particularly in the gradient  frequency range. These may have a place in industrial settings with highly variable EMF  outputs, but are unnecessary and highly problematic in the context of MRI, where EMF  outputs are precisely controlled and adverse effects are already addressed under the more  specific IEC standard.</para>
+      <para>The deadline for transposition of the directive was delayed in 2007 and again in 2012.  In 2011, the European Commission proposed a new directive, based on the new 2009 and  2010 ICNIRP recommendations but also incorporating a “derogation” to exclude MRI work- ers from the exposure limits, subject to certain conditions. After further lengthy negotiations,  this proposal was adopted, and the 2004 directive was repealed (23).</para>
+      <para>The MRI derogation in the 2013 directive allows workers to exceed the exposure limit  values, when this can be justified, during work related to “installation, testing, use, devel- opment, maintenance of or research related to magnetic resonance imaging (MRI) equip- ment for patients in the health sector”. This rather cumbersome wording was arrived at  during negotiation in order to encompass as wide a range of activities as possible. There is  a requirement for a risk assessment (already necessary under the framework directive), and  for a range of other factors to be taken into account. It must be shown that workers’ health  and safety is still protected by other means (such as the IEC standards, safe working prac- tices and appropriate training). There is also a provision for member state governments to  introduce additional derogations on a time-limited (but renewable) basis where this can be  justified.</para>
+      <para>Even in this modified form the directive remains controversial. A report produced for  the European Commission in 2015 (prior to the 2016 deadline for national transposition)</para>
+      <para><emphasis role="bold">920</emphasis> <emphasis role="bold">MRI Standards and Safety Guidelines in Europe</emphasis></para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 920</para>
+      <para>recommended that the rationale for retaining the directive should be reconsidered, and that  it might be repealed in its entirety (24).</para>
+    </sect1>
+    <sect1 id="ch0034s07">
+      <title>EXPOSURE LIMITS AND GUIDELINES IN INDIVIDUAL COUNTRIES</title>
+      <para>The transposition deadline for the 2013 EMF directive was July 2016. The aim of the  directive was that from that date onwards there should be a uniform approach to EMF ex- posure limitation across the EU. However, historically individual European countries have  taken a variety of approaches to EMF exposure limitations. In some cases, 1994 and/or  1998 ICNIRP limits were enforced legally, or there were even more restrictive limits. Whilst  no definitive summary of current legislation exists, there was no requirement for these coun- tries to relax their more stringent regulations following adoption of the new directive. To  add to the confusion, some EU member states transposed the 2004 directive before it was  repealed, although by 2015 some had reversed this process or were simply not enforcing  the legislation (24). Other countries had introduced additional requirements in relation to  risk assessment or health surveillance, going beyond the requirements of the directive (24).  On the other hand, in the UK the HSE adopted as flexible and helpful an approach as pos- sible, with the MRI derogation and associated conditions re-worded in a simplified way in  national legislation (25), and the power of derogation at national level exercised to include  any MRI activities that were not already encompassed. A commentary on implementation  of the UK regulations in the context of MRI has been published (26), and at the time of  writing more extensive professional body guidance is awaited.</para>
+      <para>In addition to implementing the new EU legislation, some countries have adopted spe- cific guidance on MRI safety. The UK Medicines and Healthcare Products Regulatory  Agency (MHRA) guidance covers issues such as safety infrastructure, safe working prac- tices, worker training, and control of access to MRI facilities (27). In the Netherlands, safe  working guidance was issued in 2008 with the support of the relevant professional bodies  and government agencies (28). The prospect of harmonized EU-wide MRI safety guidelines  in the wake of the amended EMF directive has triggered initiatives such as development of  standards on the role and training of MRI safety officers in Austria (29, 30).</para>
+    </sect1>
+    <sect1 id="ch0034s08">
+      <title>SUMMARY AND CONCLUSIONS</title>
+      <para>Protection of patients and workers from hazards associated with EMF related to MRI  requires both appropriate equipment design and use to ensure that the thresholds for direct  effects are not exceeded and appropriate working practices and training to minimize the  probability of indirect effects. The combination of the Medical Devices Regulation, sup- ported by the IEC 60601 series standards, and the framework health and safety directive  should be sufficient to ensure that these conditions are met in Europe. In practice, however,  it is unclear how uniformly the obligations created by the framework directive are applied  in MRI facilities. The ICNIRP occupational exposure guidelines are a blunt instrument in  our context, designed to apply across very wide frequency ranges and incorporating safety  factors that are both unnecessary and problematic. A critical difference between the IEC  and ICNIRP approaches is that the IEC standard recognizes that MR systems designed to  ensure patient safety are also safe for workers at the same exposure levels, whereas the IC-</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">921</emphasis></para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 921</para>
+      <para>NIRP applies different exposure limits for patients and workers. After a lengthy lobbying  campaign, the derogation for MRI in the revised EMF directive ensures that MRI activities  can continue in Europe, while workers remain protected by the IEC standard and by guide- lines on safe working and training.</para>
+      <para>[<superscript>1</superscript>In June 2016, an advisory referendum was held in which citizens of the United King- dom (UK) voted by a narrow margin that the country should leave the European Union.  The government decided to implement this and Brexit took place on 31st January 2020. EU  laws remain in place during a ‘transition period’ lasting until the end of 2020. After that,  existing legislation means that there will at least ini tially be a high degree of regulatory  alignment between the United Kingdom and the Euro pean Union.]</para>
+    </sect1>
+    <sect1 id="ch0034s09">
+      <title>REFERENCES</title>
+      <para>1.  Directive 2004/40/EC of the European Parliament and of the council of 29 April 2004 on the minimum  health and safety requirements regarding the exposure of workers to the risks arising from physical agents  (electromagnetic fields). Official Journal of the European Union. Available at: http://eur-lex.europa.eu/Lex- UriServ/LexUriServ.do?uri=OJ:L:2004:159:0001:0026:EN:PDF. Accessed March 2020.</para>
+      <para>2.  Keevil SF, Gedroyc W, Gowland P, et al. Electromagnetic field exposure limitation and the future of MRI.  Br J Radiol 2005;78:973-975.</para>
+      <para>3.  Keevil SF, Krestin GP. EMF directive still poses a risk to MRI research in Europe. Lancet 2010;376:1124- 1125.</para>
+      <para>4.  Keevil SF. The European union EMF directive and MRI: Is a solution in sight at last? Diagnostic Imaging  Europe 2012;28:8-12.</para>
+      <para>5.  Preamble to the Constitution of the World Health Organization as adopted by the International Health Con- ference. New York: 1946.</para>
+      <para>6.  Council Directive 89/391/EEC of 12<superscript>th</superscript> June 1989 on the introduction of measures to encourage improve- ments in the safety and health of workers at work. Official Journal of the European Communities. Available  at: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:1989:183:0001:0008:EN:PDF. Accessed  December 2012.</para>
+      <para>7.  Regulation (EU) 2017/745 of 5<superscript>th</superscript> April 2017 on medical devices, amending Directive 2001/83/EC, Regu- lation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC  and 93/42/EEC Official Journal of the European Union. Available at: https://eur-lex.europa.eu/legal-con- tent/EN/TXT/PDF/?uri=CELEX:32017R0745. Accessed March 2020.</para>
+      <para>8.  International Electrotechnical Commission (IEC). Medical electrical equipment – Part 1: general require- ments for basic safety and essential performance, IEC 60601-1:2005, Edition 3.1 Geneva: IEC, 2012.</para>
+      <para>9.  International Electrotechnical Commission. Medical electrical equipment – Part 2-33: particular require- ments for the safety of magnetic resonance equipment for medical diagnosis, IEC 60601-2-33:2010, Edition  3.2. Geneva: IEC, 2015.</para>
+      <para>10. International Commission on Non-Ionizing Radiation Protection. Guidelines on limits of exposure to static  magnetic fields. Health Physics 1994;66:100-106.</para>
+      <para>11. International Commission on Non-Ionizing Radiation Protection. Guidelines on limits of exposure to static  magnetic fields. Health Physics 2009;96:504-514.</para>
+      <para>12. International Commission on Non-Ionizing Radiation Protection. Guidelines for limiting exposure to time- varying electric, magnetic, and electromagnetic fields (up to 300 GHz). Health Physics 1998;74:494-522.</para>
+      <para>13. International Commission on Non-Ionizing Radiation Protection. Guidelines for limiting exposure to time- varying electric and magnetic fields (1 Hz - 100 kHz). Health Physics 2010;99:818-836.</para>
+      <para><emphasis role="bold">922</emphasis> <emphasis role="bold">MRI Standards and Safety Guidelines in Europe</emphasis></para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 922</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">923</emphasis></para>
+      <para>14. International Commission on Non-Ionizing Radiation Protection. Guidelines for limiting exposure to elec- tromagnetic fields (100 kHz to 300 GHz). Health Physics 2020;118:483–524.</para>
+      <para>15. International Commission on Non-Ionizing Radiation Protection. Guidelines for limiting exposure to elec- tric fields induced by movement of the human body in a static magnetic field and by time-varying magnetic  fields below 1 Hz. Health Physics 2014;106:418-425.</para>
+      <para>16. International Commission on Non-Ionizing Radiation Protection. Statement on medical magnetic resonance  (MR) procedures: protection of patients. Health Physics 2004;87:197-216.</para>
+      <para>17. International Commission on Non-Ionizing Radiation Protection. Amendment to the ICNIRP “Statement  on medical magnetic resonance (MR) procedures: protection of patients”. Health Physics 2009;97:259- 261.</para>
+      <para>18. International Commission on Non-Ionizing Radiation Protection. General approach to protection against  non-ionizing radiation. Health Physics 2002;82:545-548.</para>
+      <para>19. Attwell D. Interaction of low frequency electric fields with the nervous system: The retina as a model sys- tem. Radiat Protect Dosimetr 2003;106:341-348.</para>
+      <para>20. House of Commons Science and Technology Committee. Watching the directives: scientific advice on the  EU Physical Agents (Electromagnetic Fields) Directive. London: The Stationery Office Limited; 2006.  pp.140. Available at: http://www.publications.parliament.uk/pa/cm200506/cmselect/cmsctech/1030/  1030.pdf. Accessed March 2020.</para>
+      <para>21. Crozier S, Trakic A, Wang H, Liu F. Numerical study of currents in workers induced by body-motion  around high-ultrahigh field MRI magnets. J Magn Reson Imaging 2007;26:1261-1277.</para>
+      <para>22. Crozier S, Wang H, Trakic A, Liu F. Exposure of workers to pulsed gradients in MRI.  J Magn Reson Im- aging 2007;26:1236-1254.</para>
+      <para>23. Directive 2013/35/EU of the European Parliament and of the Council of 26 June 2013 on the minimum  health and safety requirements regarding the exposure of workers to the risks arising from physical agents  (electromagnetic fields). Official Journal of the European Union. Available at https://eur- lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_. 2013.179.01.0001.01.ENG&amp;toc=OJ:L:2013:179:  TOC https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX: 32013L0035&amp;from=EN. Ac- cessed March 2020.</para>
+      <para>24. Evaluation of the Practical Implementation of the EU Occupational Safety and Health (OSH) Directives  in EU Member States. Report by Directive: Directive 2004/40/EC on the Minimum Health and Safety Re- quirements Regarding the Exposure of Workers to the Risks Arising from Physical Agents (Electromagnetic  Fields). Kongens Lyngby: COWI A/S, 2015. Available at: https://ec.europa.eu/social/keyDocuments.jsp?ad- vSearchKey=electromagnetic+fields&amp;policyArea=&amp;subCategory=&amp;year=&amp;country=&amp;type=&amp;mode=ad- vancedSubmit&amp;langId=en&amp;searchType=&amp;search=Search. Accessed March 2020.</para>
+      <para>25. The Control of Electromagnetic Fields at Work Regulations 2016. London: The Stationery Office, 2016.  Available at: http://www.legislation.gov.uk/uksi/2016/588/pdfs/uksi_20160588_en.pdf. Accessed March  2020.</para>
+      <para>26. Keevil SF, Lomas DJ. The control of electromagnetic fields at work regulations 2016 and medical MRI.  Br J Radiol 2017;90:20160813.</para>
+      <para>27. Medicines and Healthcare Products Regulatory Agency. Device bulletin DB2007(03). Safety guidelines  for magnetic resonance imaging equipment in clinical use, version 4.2. London: MHRA, 2015. Available  at: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/  476931/MRI_guidance_2015_-_4-02d1.pdf . Accessed March 2020.</para>
+      <para>28. MRI Working Group. Using MRI safely: Practical rules for employees. Available at: Ministerie van Sociale  Zaken  en  Werkgelegenheid.  Available  at:  http://www.ismrm.org/smrt/files/20081210_  Dutch_Guidelines_on_MR_Safety.pdf. Accessed March 2020.</para>
+      <para>29. Austrian Standards Institute. ÖNORM S 1125-1: Safety officer for magnetic resonance equipment for med- ical diagnosis - part 1: Responsibilities and competences. Vienna: Austrian Standards Institute, 2009.  Avail- able at: https://www.astandis.at/shopV5/Preview.action;jsessionid=5411938848EBC85559C0D51F  240F6DDE?preview=&amp;dokkey=305935&amp;selectedLocale=de. Accessed March 2020.</para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 923</para>
+      <para>30. Austrian Standards Institute. ÖNORM S 1125-2: Safety officer for magnetic resonance equipment for med- ical diagnosis - part 2: Requirements on training. Vienna: Austrian Standards Institute, 2009. Available at:  https://www.astandis.at/shopV5/Preview.action;jsessionid=5164FB96391EEFCEA351D097601A8EE1?pr eview=&amp;dokkey=305936&amp;selectedLocale=de. Accessed March 2020.</para>
+      <para><emphasis role="bold">924</emphasis> <emphasis role="bold">MRI Standards and Safety Guidelines in Europe</emphasis></para>
+      <para>BioRef 2021 V10 749-1002_Layout 1  12/5/2021  3:45 PM  Page 924</para>
+    </sect1>
+</chapter>
