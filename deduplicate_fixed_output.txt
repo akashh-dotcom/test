@@ -1,0 +1,121 @@
+====================================================================================================
+REMOVING DUPLICATE TABLES (FIXED)
+====================================================================================================
+
+Creating output directory...
+✓ Created: /home/user/test/final_output_tables_FINAL_CLEANED
+
+  Chapter 01: Found 2 duplicate(s)
+    Removed: ). The value of T2 is unique for every kind of tis
+    Removed: , it is shown that this range is in the radiofrequ
+
+  Chapter 04: Found 6 duplicate(s)
+    Removed: ). Notably, the previous
+    Removed: Possible MRI-related risks for active implants.
+    Removed: and Table 5, include infor-
+    Removed: Suitable premedication regimens (adapted from Refe
+    Removed: Type and severity of acute adverse reactions to ga
+    Removed: , demonstrates that the magnitude of the torque ac
+
+  Chapter 06: Found 2 duplicate(s)
+    Removed: Sound pressure level for some typical sources of a
+    Removed: displays a range of sound pressure levels for some
+
+  Chapter 08: Found 6 duplicate(s)
+    Removed: It is predictable that the dissociation of the gad
+    Removed: Safety of non-gadolinium-based MRI contrast agents
+    Removed: ) and (56-64) (Table 7)]. Thus,
+    Removed: Safety of gadolinium-based MRI contrast agents in 
+    Removed: Currently approved MRI contrast agents.
+    Removed: Safety of MRI in pregnancy:  Non-adverse outcomes 
+
+  Chapter 09: Found 1 duplicate(s)
+    Removed: (3-5, 7, 9, 11, 12,
+
+  Chapter 13: Found 3 duplicate(s)
+    Removed: Center for Medicaid & Medicare Services (CMS) Guid
+    Removed: Clinical MRI studies in the setting of standard IC
+    Removed: Clinical findings for the diagnosis of nephrogenic
+
+  Chapter 14: Found 2 duplicate(s)
+    Removed: Personal dosimetry measurements from MRI workers.
+    Removed: summarizes the results from various studies. The a
+
+  Chapter 17: Found 1 duplicate(s)
+    Removed: Monitoring Equipment and Support Devices
+
+  Chapter 21: Found 1 duplicate(s)
+    Removed: ), Tier 3 modeling re-
+
+  Chapter 22: Found 1 duplicate(s)
+    Removed: lists measured and calculated tem-
+
+  Chapter 24: Found 3 duplicate(s)
+    Removed: ). In regard to permanent cardiac pacemakers, case
+    Removed: Maximum temperature elevation ΔTmax versus positio
+    Removed: Qualitative comparison of RF-induced and gradient 
+
+  Chapter 26: Found 7 duplicate(s)
+    Removed: Precision Montage MRI Spinal Cord Stimulator (SCS)
+    Removed: Proclaim XR Recharge-Free Spinal Cord Stimulation 
+    Removed: describes the MRI-related information for one such
+    Removed: Responsive Neurostimulation System, RNS, NeuroPace
+    Removed: Spinal Cord Stimulation Systems
+    Removed: Full-Body Deep Brain Stimulation (DBS) System, Mod
+    Removed: Head-Only Deep Brain Stimulation (DBS) System, Act
+
+  Chapter 27: Found 1 duplicate(s)
+    Removed: Responsibilities of employees.
+
+  Chapter 34: Found 3 duplicate(s)
+    Removed: shows the SAR limits for local
+    Removed: shows the SAR limits for vol-
+    Removed: 1987 Health Canada safety code 26 patient exposure
+
+  Chapter 35: Found 2 duplicate(s)
+    Removed: Canadian temperature limits for different operatio
+    Removed: Canadian SAR limits for local transmit RF coils.
+
+====================================================================================================
+FINAL TABLE COUNT
+====================================================================================================
+  Chapter 01: 6 table(s)
+  Chapter 02: 2 table(s)
+  Chapter 03: 1 table(s)
+  Chapter 04: 10 table(s)
+  Chapter 05: 4 table(s)
+  Chapter 06: 5 table(s)
+  Chapter 07: 2 table(s)
+  Chapter 08: 3 table(s)
+  Chapter 09: 4 table(s)
+  Chapter 10: 2 table(s)
+  Chapter 11: 6 table(s)
+  Chapter 12: 5 table(s)
+  Chapter 13: 7 table(s)
+  Chapter 14: 5 table(s)
+  Chapter 16: 1 table(s)
+  Chapter 17: 4 table(s)
+  Chapter 18: 9 table(s)
+  Chapter 19: 1 table(s)
+  Chapter 20: 2 table(s)
+  Chapter 21: 8 table(s)
+  Chapter 22: 1 table(s)
+  Chapter 23: 1 table(s)
+  Chapter 24: 11 table(s)
+  Chapter 25: 10 table(s)
+  Chapter 26: 19 table(s)
+  Chapter 27: 3 table(s)
+  Chapter 28: 10 table(s)
+  Chapter 31: 1 table(s)
+  Chapter 32: 7 table(s)
+  Chapter 34: 6 table(s)
+  Chapter 35: 1 table(s)
+  Chapter 36: 3 table(s)
+
+====================================================================================================
+SUMMARY
+====================================================================================================
+Duplicates removed: 41
+Final table count: 160
+
+✓ Output: /home/user/test/final_output_tables_FINAL_CLEANED

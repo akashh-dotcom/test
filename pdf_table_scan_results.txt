@@ -1,0 +1,185 @@
+DETAILED TABLE LISTING
+====================================================================================================
+
+Total labeled tables: 149
+
+Page   21: Table   1 - lists the approximate
+Page   21: Table   1 - Frequencies associated with different types of electromagnetic radiation.
+Page   25: Table   2 - MZ recovery fractions at different multiples of T1 times.
+Page   27: Table   3 - MXY residual fractions at different multiples of T2 times.
+Page   42: Table   4 - International Electrotechnical Commission (IEC) guidelines on SAR.
+Page   53: Table   1 - below gives the suscepti-
+Page   53: Table   1 - Magnetic susceptibility and density of common materials.
+Page   61: Table   2 - gives
+Page   61: Table   2 - Force index of common objects.
+Page   98: Table   1 - provides a brief overview of properties that change with increasing static mag-
+Page   98: Table   1 - Properties that change with increasing static magnetic field strength.
+Page  103: Table   2 - gives an overview of safety assessments of passive implants
+Page  104: Table   2 - Overview of various implants that have been tested under certain conditions in
+Page  114: Table   1 - Comparison of the physical effects of the various fields applied to patients dur-
+Page  116: Table   2 - (106-115). In this table, the timing of major increases in field strength has been
+Page  117: Table   2 - Historical development of MRI-related static magnetic field strengths (Data
+Page  128: Table   3 - Also, the asymptotic limits
+Page  128: Table   3 - Magnetic properties of ellipsoids of revolution.
+Page  164: Table   1 - Given the range of combinations of
+Page  164: Table   1 - Literature results for gradient coil PNS perception thresholds and chronaxies
+Page  165: Table   2 - shows a summary of PNS studies using this alternative gradient formulation
+Page  165: Table   2 - Literature results for gradient coil PNS perception thresholds and chronaxies
+Page  175: Table   1 - MR system-related acoustic noise will interfere with the communication of activation
+Page  175: Table   1 - A summary of potential issues with unwanted acoustic noise in fMRI (14). Re-
+Page  176: Table   2 - displays a range of sound pressure levels for some typical sources
+Page  178: Table   2 - Sound pressure level for some typical sources of acoustic noise.
+Page  188: Table   3 - The International Commission on Non-Ionizing Radiation Pro-
+Page  188: Table   3 - Occupational noise action values and limits (adapted from reference 80).  Repro-
+Page  238: Table   1 - lists local SAR levels required to
+Page  238: Table   1 - demon-
+Page  238: Table   1 - Athey (53) has shown similar theoretical results
+Page  238: Table   1 - Maximum local SAR level for local temperature rise of 1˚Celsius for various
+Page  271: Table   1 - BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:22 PM  Page 254
+Page  272: Table   1 - Limits to RF exposure in MRI equipment (2). For global exposure or protection
+Page  276: Table   2 - provides an overview of
+Page  276: Table   2 - Overview of experimental data for core temperature rise in relation to RF energy
+Page  280: Table   2 - (estimated 1 clo, room temperature not specified but likely close to 23°C).
+Page  309: Table   1 - (3-5, 7, 9, 11, 12,
+Page  309: Table   1 - Recommended techniques for managing patients with claustrophobia or emo-
+Page  315: Table   1 - should be attempted for these patients before electing to
+Page  326: Table   1 - Spontaneous adverse outcomes of pregnancy.
+Page  326: Table   2 - Safety of MRI in pregnancy: Non-adverse outcomes in animals.
+Page  327: Table   3 - Safety of MRI in pregnancy: Adverse outcomes in animals and human cell cul-
+Page  327: Table   4 - Safety of MRI in pregnancy:  Non-adverse outcomes in humans.
+Page  328: Table   5 - Currently approved MRI contrast agents.
+Page  329: Table   6 - Safety of gadolinium-based MRI contrast agents in pregnancy*.
+Page  330: Table   6 - and Table 7.
+Page  330: Table   7 - Safety of non-gadolinium-based MRI contrast agents in pregnancy (data from
+Page  331: Table   6 - It is predictable that the dissociation of the gadolinium chelate
+Page  351: Table   1 - Most acute reactions to GBCAs are mild, self-limiting, and do not require specific
+Page  351: Table   1 - Type and severity of acute adverse reactions to gadolinium-based contrast agents
+Page  354: Table   2 - Suitable premedication regimens (adapted from Reference 15).
+Page  355: Table   3 - Equipment and medications supply list for patient examination room
+Page  357: Table   4 - and Table 5, include infor-
+Page  358: Table   4 - Management of acute reactions to gadolinium-based contrast agents in adult
+Page  360: Table   5 - Management of acute reactions to gadolinium-based contrast agents in pediatric
+Page  375: Table   1 - Clinical findings for the diagnosis of nephrogenic systemic fibrosis.
+Page  444: Table   1 - It is interesting to note that although the patients in each of
+Page  445: Table   1 - Summary of patient screening studies using FMD device technology. All studies
+Page  454: Table   1 - summarizes the types
+Page  454: Table   1 - Types of patients that may require physiological monitoring and support during
+Page  457: Table   2 - List of manufacturers and suppliers of physiological monitors and support de-
+Page  461: Table   3 - Recommendations to prevent excessive heating and possible burns in associa-
+Page  462: Table   3 - Monitoring Equipment and Support Devices
+Page  462: Table   3 - (Continued)
+Page  480: Table   1 - and Table 2.
+Page  480: Table   2 - Possible MRI-related risks for active implants.
+Page  480: Table   1 - Possible MRI-related risks for passive implants.
+Page  486: Table   3 - presents techniques that may be used to reduce
+Page  486: Table   3 - Techniques to reduce artifacts associated with metallic implants.
+Page  494: Table   4 - Guidelines for the management of patients with coronary artery stents
+Page  497: Table   5 - Guidelines for the management of patients with heart valve prostheses and annu-
+Page  499: Table   6 - In consideration of this, it is often necessary to involve the radiologist whenever
+Page  499: Table   6 - Adjusting pulse sequence parameters to lower SAR values.
+Page  502: Table   7 - Guidelines for the management of patients with vascular access ports.
+Page  517: Table   1 - Potential implant risks associated with MRI and the test performed to character-
+Page  538: Table   1 - Qualitative comparison of RF-induced and gradient field-induced heating in terms of the implant
+Page  538: Table   2 - Maximum temperature elevation ΔTmax versus position z of a total hip prosthesis made of CoCrMo
+Page  539: Table   1 - A graphical illus-
+Page  573: Table   1 - Figure 2 also illustrates
+Page  574: Table   1 - Potential patient hazards and corresponding test methods.  Each “Clause” or
+Page  575: Table   2 - includes a detailed view on one way an
+Page  575: Table   2 - List of examples of MRI-related AIMD safety hazards, each of which generates
+Page  576: Table   2 - (continued)
+Page  577: Table   3 - Evaluation of the AIMDs for MRI Hazards Involves Bench-Top Testing, Modeling,
+Page  577: Table   3 - Categorization of MRI safety assessments based on whether or not electromag-
+Page  610: Table   1 - lists measured and calculated rises for the three leads in the straight-line path
+Page  610: Table   2 - lists measured and calculated tem-
+Page  611: Table   1 - Measured and calculated temperature rises for the vagus nerve stimulation
+Page  612: Table   2 - Measured and calculated temperature rises for the vagus nerve stimulation lead
+Page  619: Table   3 - provide information on electrical skin depths at different fre-
+Page  621: Table   3 - Electrical skin depths for medical alloys.  270-Hz is the default (Tier 1) fre-
+Page  624: Table   1 - and Table 2 were the same transfer function yields calculated temperature rises
+Page  649: Table   1 - summarizes the main characteristics of the four models of the VF.
+Page  649: Table   1 - Main characteristics of the four models of the first generation of the Virtual
+Page  657: Table   2 - Evaluation of an AIMD for these hazards involves some combination of testing and mod-
+Page  657: Table   2 - Potential patient hazards and corresponding test requirements, as described in
+Page  677: Table   1 - At our institution, the Johns Hopkins Hospital, we began the process of performing MRI
+Page  677: Table   2 - During our in vitro testing of ICDs, we found several pulse generators
+Page  678: Table   1 - Clinical studies of MRI in the setting of standard permanent cardiac pacemakers.
+Page  679: Table   1 - and Table 2). A noteworthy study is the MagnaSafe Registry, a
+Page  679: Table   1 - (Continued)
+Page  680: Table   2 - Clinical MRI studies in the setting of standard ICD systems.
+Page  681: Table   2 - (Continued)
+Page  685: Table   3 - (39).
+Page  686: Table   3 - Center for Medicaid & Medicare Services (CMS) Guidelines for 1.5 T MRI fa-
+Page  693: Table   1 - Summary of MRI case reports and studies involving patients with non-MR Con-
+Page  694: Table   1 - (Continued) Summary of MRI examinations involving patients with cardiac
+Page  695: Table   1 - (Continued) Summary of MRI examinations involving patients with cardiac
+Page  696: Table   1 - (Continued) Summary of MRI examinations involving patients with cardiac
+Page  697: Table   1 - (Continued) Summary of MRI examinations involving patients with cardiac
+Page  698: Table   1 - (Continued) Summary of MRI examinations involving patients with cardiac
+Page  699: Table   1 - (Continued) Summary of MRI examinations involving patients with cardiac
+Page  700: Table   1 - (Continued) Summary of MRI examinations involving patients with cardiac
+Page  701: Table   1 - (Continued) Summary of MRI examinations involving patients with cardiac
+Page  706: Table   2 - Summary of MRI examinations involving patients with abandoned pacing leads.
+Page  730: Table   1 - (3-7, 9, 14-28). Importantly, each of these variables must be taken into
+Page  732: Table   1 - Important variables that impact MRI-related heating of a medical implant.
+Page  740: Table   2 - Head-Only Deep Brain Stimulation (DBS) System, Activa SC Model 37602,
+Page  741: Table   3 - Full-Body Deep Brain Stimulation (DBS) System, Model B35200, Medtronic,
+Page  742: Table   4 - Full-Body Vercise Gevia Deep Brain Stimulation (DBS) System, Boston Scien-
+Page  743: Table   5 - Spinal Cord Stimulation Systems
+Page  744: Table   5 - Responsive Neurostimulation System, RNS, NeuroPace, Inc.
+Page  745: Table   8 - describes the MRI-related information for one such system, the Freedom-8A
+Page  745: Table   6 - Proclaim XR Recharge-Free Spinal Cord Stimulation (SCS) System, Abbott.
+Page  746: Table   7 - Precision Montage MRI Spinal Cord Stimulator (SCS) System, Model SC-1200,
+Page  747: Table   9 - summarizes the MRI-related information for the Nalu Neurostimula-
+Page  747: Table   8 - Freedom-8A (FR8A) Stimulator Receiver for Spinal Cord Stimulator (SCS),
+Page  748: Table   9 - Nalu Neurostimulation System for Peripheral Nerve Stimulation (PNS), Nalu
+Page  749: Table  12 - 732
+Page  750: Table  10 - Interstim II Sacral Nerve Stimulation System, Medtronic, Inc.
+Page  751: Table  11 - Axonics Sacral Nerve Stimulation (SNM) Neurostimulator, Axonics Modula-
+Page  752: Table  12 - SenTiva Vagus Nerve Stimulation (VNS) System, Model 1000, LivaNova, Inc.
+Page  756: Table  13 - HiRes Ultra 3D Cochlear Implant, Advanced Bionics, LLC.
+Page  757: Table  14 - Mi1200 SYNCHRONY Cochlear Implant, MED-EL Corporation.
+Page  759: Table  15 - Prometra II Programmable Pump, Flowonix Medical.
+Page  759: Table  16 - SynchroMed II Implantable Drug Infusion Pump, Model 8637, Medtronic, Inc.
+Page  769: Table   1 - Basic policies and procedures for a hospital or medical center. This table provides a list of
+Page  770: Table   1 - Continued
+Page  782: Table   1 - lists safety concerns relevant to all medical imaging proce-
+Page  783: Table   1 - Safety requirements shared by all diagnostic imaging modalities.
+Page  784: Table   1 - (Continued) Safety requirements shared by all diagnostic imaging modalities.
+Page  785: Table   2 - Responsibilities of the management team.
+Page  785: Table   3 - Responsibilities of the MRI Safety Committee.
+Page  785: Table   4 - Responsibilities of the MR Safety Officer.
+Page  785: Table   5 - Responsibilities of employees.
+Page  786: Table   6 - Determination of the appropriateness of the requested examination should be performed
+Page  786: Table   6 - Examination ordering requirements for outpatient MRI services.
+Page  789: Table   7 - outlines the indications for performing MRI
+Page  789: Table   7 - Documentation required when managing pregnant patients referred for MRI.
+Page  792: Table   8 - lists screening ques-
+Page  792: Table   8 - Screening questions for determining risk for nephrogenic systemic fibrosis
+Page  890: Table   1 - Static magnetic field limits for occupational exposure. All values are peak lev-
+Page  891: Table   1 - The ICNIRP has a 2-T limit
+Page  893: Table   3 - Induced
+Page  893: Table   4 - summarizes the results from various studies. The average instan-
+Page  894: Table   3 - RF limits for occupational exposure as applicable to MRI.  All time-averaged
+Page  895: Table   4 - Personal dosimetry measurements from MRI workers.
+Page  896: Table   5 - shows peak B, dB/dt and per-
+Page  896: Table   5 - does not support this assertion.
+Page  898: Table   6 - summarize these results and those from other studies (24-28, 30,
+Page  898: Table   5 - Static magnetic field (B0) and magnetic fringe field values and percent (%) limit
+Page  901: Table   6 - Peak static magnetic field (B), dB/dt and average RF field (B1) for various activ-
+Page  931: Table   1 - A simple risk assessment matrix. Performance of risk assessments in all workplaces, including MRI
+Page  933: Table   2 - They apply
+Page  933: Table   2 - Exposure limits for patients and MRI workers according to the IEC standard 60601-2-33.
+Page  935: Table   3 - summarizes the ICNIRP basic restrictions for workers, insofar as they are rel-
+Page  935: Table   4 - summarizes the ICNIRP guidance on exposure limits for MRI patients. In its
+Page  935: Table   3 - ICNIRP basic restrictions for occupational exposure to electromagnetic fields relevant to MRI.
+Page  936: Table   3 - THE EU EMF DIRECTIVE
+Page  936: Table   4 - ICNIRP recommended limits for patient exposures during MRI.
+Page  944: Table   1 - The levels cited in the safety code were never meant to
+Page  945: Table   1 - 1987 Health Canada safety code 26 patient exposure limits.
+Page  947: Table   2 - shows the SAR limits for vol-
+Page  947: Table   3 - shows the SAR limits for local
+Page  948: Table   4 - outline the temperature
+Page  948: Table   2 - SAR limits for volume transmit RF coils.
+Page  948: Table   3 - Canadian SAR limits for local transmit RF coils.
+Page  949: Table   4 - Canadian temperature limits for different operation modes of the MR system.
+Page  996: Table   1 - Key Australian exposure limits for MRI. *
