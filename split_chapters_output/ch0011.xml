@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter id="ch0011"><title>Chapter 11    MRI Procedures and Pregnancy</title>
+    <para>PATRICK M. COLLETTI, M.D. FACNM, FSNMMI</para>
+    <para>Professor of Radiology</para>
+    <para>Professor of Medicine</para>
+    <para>Professor of Biokinesiology</para>
+    <para>Professor of Pharmacology and Pharmaceutical Sciences</para>
+    <para>Division Chief, Nuclear Medicine</para>
+    <para>Keck School of Medicine of USC</para>
+    <para>Los Angeles, CA</para>
+    <para>INTRODUCTION</para>
+    <para>Medical imaging remains a common requirement in pregnant patients. Because of the increased scrutiny for possible radiation effects associated with pregnancy (1-4), it is not surprising that the question of whether a patient should undergo a magnetic resonance imaging (MRI) examination during pregnancy frequently arises. While a 1988 survey by Kanal, et al. (5) showed that 36% of sites did not perform MRI procedures in pregnant patients, a subsequent publication by De Wilde, et al. (6) indicated that 91% of 352 MRI facilities in the United Kingdom performed MRI examinations in second and third trimester patients, and 8% had protocols for selective fetal imaging (6). Of further note is that Kwan, et al. (7) reported that "magnetic resonance imaging rates increased steadily from 1.0/1,000 pregnancies in 1996 to 11.9/1,000 pregnancies in 2016 in the United States and from 0.5/1,000 pregnancies in 1996 to 9.8/1,000 pregnancies in 2016 in Ontario, surpassing CT rates in 2013 in the United States and in 2007 in Ontario."</para>
+    <para>Although advice from regulatory agencies such as the United States Food and Drug Administration (FDA) is limited, the International Society for Magnetic Resonance Imaging (ISMRM), the American College of Radiology (ACR), and other organizations have provided useful clarifications, as follows (8-13):</para>
+    <itemizedlist>
+      <listitem><para>1989, FDA: "The safety of MRI when used to image fetuses and infants has not been established" (8).</para>
+      </listitem>
+      <listitem><para>1991, Safety Committee for the Society of Magnetic Resonance Imaging (SMRI): "MR imaging may be used in pregnant women if other non-ionizing forms of diagnostic imaging are inadequate or if the examination provides important information that would otherwise require exposure to ionizing radiation" (9).</para>
+      </listitem>
+    </itemizedlist>
+    <para>tant information that would otherwise require exposure to ionizing radiation...", and there is "... no indication that the use of clinical MR imaging during pregnancy has produced deleterious effects" (9). This policy adopted by the American College of Radiology was considered a "standard of care" with reference to pregnant patients (10).</para>
+    <itemizedlist>
+      <listitem><para>2002, the American College of Radiology (ACR) White Paper on MR Safety: "Pregnant patients can ... undergo MR scans at any stage of pregnancy if, in the determination of a Level Two MR Personnel–designated attending radiologist, the risk–benefit ratio to the patient warrants that the study be performed" (11).</para>
+      </listitem>
+      <listitem><para>2007, the ACR Guidance Document for Safe MR Practices: "Present data have not conclusively documented any deleterious effects of MR imaging exposure on the developing fetus", and; "... no special consideration is recommended for the first, versus any other, trimester in pregnancy" (12). It is, therefore, "prudent" to document pregnancy and consult with the patient and her physician regarding the clinical urgency for immediate MRI versus waiting for MRI until after delivery.</para>
+      </listitem>
+      <listitem><para>2013, the ACR updated the information for the use of MRI in pregnancy, as follows: "Present data have not conclusively documented any deleterious effects of MR imaging exposure on the developing fetus. Therefore, no special consideration is recommended for the first, versus any other, trimester in pregnancy. Nevertheless, as with all interventions during pregnancy, it is prudent to screen females of reproductive age for pregnancy before permitting them access to MR imaging environments. If pregnancy is established consideration should be given to reassessing the potential risks versus benefits of the pending study in determining whether the requested MR examination could safely wait to the end of the pregnancy before being performed.</para></listitem>
+    </itemizedlist>
+    <orderedlist>
+      <listitem><para>Pregnant patients can be accepted to undergo MR scans at any stage of pregnancy if, in the determination of a Level 2 MR Personnel-designated attending radiologist, the risk–benefit ratio to the patient warrants that the study be performed. The radiologist should confer with the referring physician and document the following in the radiology report or the patient's medical record:</para>
+      </listitem>
+      <listitem><para>The information requested from the MR study cannot be acquired by means of nonionizing means (e.g., ultrasonography).</para>
+      </listitem>
+      <listitem><para>The data is needed to potentially affect the care of the patient or fetus during the pregnancy.</para>
+      </listitem>
+      <listitem><para>The referring physician believes that it is not prudent to wait until the patient is no longer pregnant to obtain this data.</para>
+      </listitem>
+      <listitem><para>MR contrast agents should not be routinely provided to pregnant patients. This decision too, is one that must be made on a case-by-case basis by the covering Level 2 MR Personnel-designated attending radiologist who will assess the risk–benefit ratio for that particular patient." Notably, the 2013 document from the ACR does not indicate that there is a need for informed consent for the use of MRI in pregnant patients (13).</para>
+      </listitem>
+    </orderedlist>
+      <sect1 id="ch0011s0000s0001">
+        <title>MRI Procedures and Pregnancy</title>
+    <itemizedlist>
+      <listitem><para>2018, the ACR Manual On Contrast Media Version 10.3 states that if GBCAs are to be given to a pregnant patient: "It is recommended that informed consent be obtained from the patient after discussion with the referring physician (14)."</para>
+      </listitem>
+    </itemizedlist>
+        <sect2 id="ch0011s0000s0001s0001">
+          <title>SAFETY</title>
+          <sect3 id="ch0011s0000s0001s0001s0001">
+            <title>Basic Research and Animal Studies</title>
+    <para>MRI exposes the patient and fetus to a powerful static magnetic field, rapidly changing, gradient magnetic fields, acoustic noise, and radiofrequency (RF) radiation. The effects of these electromagnetic fields on the human fetus are not easily determined. Consider the following:</para>
+    <itemizedlist>
+      <listitem><para>The strength of the static magnetic field is well known (e.g., 1.5-Tesla, 3-Tesla, etc.).</para>
+      </listitem>
+      <listitem><para>The gradient amplitude (e.g., 20-mT/m) and slew rate, dB/dt (i.e., 3-T/s) can be determined at the location of the fetus for a given pulse sequence.</para>
+      </listitem>
+      <listitem><para>RF energy power deposition or the specific absorption rate (SAR) level (e.g., whole body averaged SAR, 2.0-W/kg with the MR system operating in the Normal Operating Mode) will vary considerably with the type of transmit RF coil that is used and system configuration, as well as the pulse sequences that are selected for the procedure. Popular sequences for fast fetal imaging, such as fast spin echo, employ multiple rapid RF pulses, and would be expected to deposit more RF energy compared to gradient echo techniques.</para>
+      </listitem>
+      <listitem><para>Using computer modeling, Murbach, et al. (15) described the potential risks associated with the use of two-port radiofrequency (RF) shimming when examining a pregnant woman at 3-T. They stated: "Although RF shimmed configurations may lower the local RF exposure for the mother, they can increase the thermal load on the fetus. In worst-case configurations, whole-body exposure and local peak temperatures-up to 40.8°C-are equal in fetus and mother". Of course, this finding has not been verified in human subjects undergoing MRI and there are well-known issues when using modeling to predict temperature elevations in patients in association with MRI.</para>
+      </listitem>
+      <listitem><para>RF power deposition varies considerably with the body part undergoing MRI. While Schaefer (16) concluded that approximately 87% of the RF energy would likely be deposited in the outer 1/3 of the body (16), Hand, et al. (17) predicted that the fetus would be exposed to a peak of approximately 40 to 60% of the maternal peak value at 64-MHz (1.5-Tesla), increasing to approximately 50 to 70% at 128-MHz (3-Tesla). Thus, in most instances, the embryo or fetus would receive relatively small RF exposures (18-20).</para>
+      </listitem>
+      <listitem><para>Heating is the only well-established mechanism for bioeffects related to RF energy (21). Interestingly, the fetus may be heat energy tolerant due to a large fetal surface area-to-volume ratio. In addition, amniotic fluid, with its relatively high heat capacity, would be expected to sufficiently absorb heat transferred by convection. Kikuchi, et al. (22) used a thermal model to predict that 40-minutes of</para>
+      </listitem>
+    </itemizedlist>
+          </sect3>
+        </sect2>
+        <sect2 id="ch0011s0000s0001s0002">
+          <title>MRI Bioeffects, Safety, and Patient Management     309</title>
+<table frame="all">
+  <title/>
+  <tgroup cols="3">
+    <colspec colname="c1"/>
+    <colspec colname="c2"/>
+    <colspec colname="c3"/>
+    <thead>
+      <row>
+        <entry>Period</entry>
+        <entry>Risk</entry>
+        <entry>Spontaneous Occurrence Rate</entry>
+      </row>
+    </thead>
+    <tbody>
+      <row>
+        <entry>Day 1 to 10</entry>
+        <entry>Reabsorption</entry>
+        <entry>30%</entry>
+      </row>
+      <row>
+        <entry>Day 10 to 50</entry>
+        <entry>Abnormal Organogenesis</entry>
+        <entry>4 to 6%</entry>
+      </row>
+      <row>
+        <entry>&gt;Day 50</entry>
+        <entry>Intra-uterine Growth Retardation</entry>
+        <entry>4%</entry>
+      </row>
+    </tbody>
+  </tgroup>
+</table>
+<table frame="all">
+  <title/>
+  <tgroup cols="2">
+    <colspec colname="c1"/>
+    <colspec colname="c2"/>
+    <thead>
+      <row>
+        <entry>Study</entry>
+        <entry>Findings</entry>
+      </row>
+    </thead>
+    <tbody>
+      <row>
+        <entry>McRobbie and Foster (24) 1985</entry>
+        <entry>No change in litter number or growth rate in mice exposed to gradients ranging from 3.5- to 12-kT/s.</entry>
+      </row>
+      <row>
+        <entry>Teskey, et al. (25) 1987</entry>
+        <entry>No change in stress reactivity or survivability in rats repeatedly exposed in-utero.</entry>
+      </row>
+      <row>
+        <entry>Heinrichs, et al. (26) 1988</entry>
+        <entry>No embryo toxicity or teratogenesis with prolonged exposure (BLB/c mice, midgestation, 0.35-T.</entry>
+      </row>
+      <row>
+        <entry>Kay, et al. (27) 1988</entry>
+        <entry>No adverse effects (Xenopus laevis embryo, long-term exposure, 1.5-T).</entry>
+      </row>
+      <row>
+        <entry>Tyndall (28) 1990</entry>
+        <entry>MRI exposure does not add to low level x-ray irradiation induced teratogenesis in C57B1/6J mice at 1.5-T.</entry>
+      </row>
+      <row>
+        <entry>Murkami, et al. (29) 1992</entry>
+        <entry>No change in pregnancy outcomes for mice exposed to 6.3-T for 1-hour per day from day 7 to 14.</entry>
+      </row>
+      <row>
+        <entry>Malko, et al. (30) 1994</entry>
+        <entry>No change in cell density (yeast cells grown at 1.5-T).</entry>
+      </row>
+      <row>
+        <entry>Yip, et al. (31) 1994 and Yip, et al. (32) 1995</entry>
+        <entry>No change in survival, migration, and proliferation and no effect on axonal growth in chick embryos exposed to simulated imaging conditions at 1.5-T.</entry>
+      </row>
+      <row>
+        <entry>Tablado, et al. (33) 2000</entry>
+        <entry>No testicular abnormalities in mice continually exposed in-utero from day 7 to birth at 0.7-T.</entry>
+      </row>
+      <row>
+        <entry>Ruckhaberle E, et al. (34) 2008</entry>
+        <entry>No significant amniotic fluid temperature or acoustic noise changes in pregnant ewes at 1.5-T. Intrauterine peak acoustic levels did not exceed 100.0-dB.</entry>
+      </row>
+    </tbody>
+  </tgroup>
+</table>
+    <para>scanning at a whole-body averaged SAR of 2-W/kg may increase fetal temperature more than the 0.5°C, as recommended by the International Commission on Non-Ionizing Radiation Protection, but less than the proposed teratogenic cutoff value of 1.5 °C (22).</para>
+    <itemizedlist>
+      <listitem><para>The anatomically "deep" position of the fetus and the surrounding amniotic fluid could reduce the effects of gradient field-related, acoustic noise.</para>
+      </listitem>
+      <listitem><para>While the stage of pregnancy may be important with regard to the potential risk to the embryo or fetus, it should be noted that spontaneous adverse outcomes are common (23) (Table 1).</para>
+      </listitem>
+    </itemizedlist>
+    <para>A number of biological studies have assessed the effects of MRI in pregnancy. Most of these studies show no evidence for fetal harm (24-40) (Tables 2 and 3). However, there</para>
+        </sect2>
+      </sect1>
+      <sect1 id="ch0011s0000s0002">
+        <title>MRI Procedures and Pregnancy</title>
+<table frame="all">
+  <title/>
+  <tgroup cols="2">
+    <colspec colname="c1"/>
+    <colspec colname="c2"/>
+    <thead>
+      <row>
+        <entry>Study</entry>
+        <entry>Findings</entry>
+      </row>
+    </thead>
+    <tbody>
+      <row>
+        <entry>Tyndall and Sulik (35) 1991</entry>
+        <entry>At least two-fold increased incidence of eye malformations (C57B16J mice, 10% spontaneous eye malformations, gestational day 7, 1.5-T for 36-minutes).</entry>
+      </row>
+      <row>
+        <entry>Tyndall (36) 1993</entry>
+        <entry>Increased teratogenicity with reduced crown-rump length and craniofacial size in C57B1/6J mice exposed to clinically realistic MRI at 1.5-T.</entry>
+      </row>
+      <row>
+        <entry>Yip, et al. (37) 1994</entry>
+        <entry>"Trend toward higher abnormality and mortality rates..." in chick embryos exposed simulated imaging conditions at 1.5-T.</entry>
+      </row>
+      <row>
+        <entry>Carnes, et al. (38) 1996</entry>
+        <entry>Fetal weight reduction (11%) in mice exposed to 8 hours in midgestation at 4.7-T</entry>
+      </row>
+      <row>
+        <entry>Narra, et al. (39) 1996</entry>
+        <entry>Reduced spermatogenesis and embryogenesis in Webster mice exposed in-utero to 1.5-T for 30-minutes.</entry>
+      </row>
+      <row>
+        <entry>Lee, et al. (40) 2011</entry>
+        <entry>3-T MRI induces genotoxic effects (significant increase in the frequency of micronuclei and single-strand DNA breaks) in cultured human lymphocytes proportional to exposure time.</entry>
+      </row>
+    </tbody>
+  </tgroup>
+</table>
+<table frame="all">
+  <title/>
+  <tgroup cols="2">
+    <colspec colname="c1"/>
+    <colspec colname="c2"/>
+    <thead>
+      <row>
+        <entry>Study</entry>
+        <entry>Findings</entry>
+      </row>
+    </thead>
+    <tbody>
+      <row>
+        <entry>Johnson, et al. (41) 1990</entry>
+        <entry>No change in fetal heart rate or Doppler-determined umbilical artery blood flow (humans, 10 to 20 weeks, 0.5-T).</entry>
+      </row>
+      <row>
+        <entry>Kanal, et al. (42) 1993</entry>
+        <entry>No increase in adverse reproductive outcomes (280 pregnant female MR imaging workers).</entry>
+      </row>
+      <row>
+        <entry>Baker, et al. (43) 1994</entry>
+        <entry>No increase in disease or disability, no hearing loss in 20 children at 3 years after in-utero exposure to echo-planar MRI at 0.5-T.</entry>
+      </row>
+      <row>
+        <entry>Myers, et al. (44) 1998</entry>
+        <entry>No significant decrease vs. matched controls in fetal growth in 74 volunteers exposed in-utero to echo-planar MRI up to 5 times at 0.5-T.</entry>
+      </row>
+      <row>
+        <entry>Vadeyar, et al. (45) 2000</entry>
+        <entry>No change in fetal heart rate in human volunteers at term (37 to 41 weeks), echo-planar MRI at 0.5-T.</entry>
+      </row>
+      <row>
+        <entry>Kok, et al. (46) 2004</entry>
+        <entry>No harmful effects of prenatal 1.5-T MR exposure in the third trimester of pregnancy were detected in 35 children at 1 to 3 years and in 9 children at 8-9 years.</entry>
+      </row>
+      <row>
+        <entry>Reeves, et al. (47) 2010</entry>
+        <entry>Second and third trimester fetal exposure to 1.5-T MR imaging is not associated with an increased risk of substantial neonatal hearing impairment.</entry>
+      </row>
+      <row>
+        <entry>Bouyssi-Kobar, et al. (48) 2015</entry>
+        <entry>Second and third trimester fetal exposure to 1.5-T MR imaging is not associated with disturbances in functional outcomes or hearing impairment at preschool age. N = 72.</entry>
+      </row>
+      <row>
+        <entry>Strizek, et al. (49) 2015</entry>
+        <entry>No adverse effects of exposure to 1.5-T MR imaging in utero on neonatal hearing function or birth weight percentiles. N = 751.</entry>
+      </row>
+      <row>
+        <entry>Jaimes, et al. (50) 2019</entry>
+        <entry>The increase in noise associated with 3-T does not increase the rate of clinically detectable hearing abnormalities when compared to in utero exposure to 1.5-T. N = 62 in each group, p = 0.8.</entry>
+      </row>
+      <row>
+        <entry>Chartier, et al. (51) 2019</entry>
+        <entry>No adverse effects regarding neonatal hearing or fetal growth in healthy neonates who were variably exposed to 3-T MR in utero for clinical maternal or fetal indications at any gestational age. N = 81.</entry>
+      </row>
+    </tbody>
+  </tgroup>
+</table>
+        <sect2 id="ch0011s0000s0002s0001">
+          <title>MRI Bioeffects, Safety, and Patient Management     311</title>
+<table frame="all">
+  <title/>
+  <tgroup cols="5">
+    <colspec colname="c1"/>
+    <colspec colname="c2"/>
+    <colspec colname="c3"/>
+    <colspec colname="c4"/>
+    <colspec colname="c5"/>
+    <thead>
+      <row>
+        <entry>Agent</entry>
+        <entry>Molecular Weight</entry>
+        <entry>Charge</entry>
+        <entry>Relative Stability</entry>
+        <entry>Excess Free Ligand in Formulation</entry>
+      </row>
+    </thead>
+    <tbody>
+      <row>
+        <entry namest="c1" nameend="c5">Gadolinium-based contrast agents</entry>
+      </row>
+      <row>
+        <entry>Gadopentetate dimeglumine (Magnevist, Bayer Healthcare, Wayne, NJ) (56)</entry>
+        <entry>938</entry>
+        <entry>Linear-ionic</entry>
+        <entry>Moderate</entry>
+        <entry>0.4-mg/ml</entry>
+      </row>
+      <row>
+        <entry>Gadobenate (MultiHance, Gd-BOPTA, Bracco, Milan, Italy) (57)</entry>
+        <entry>1058</entry>
+        <entry>Linear-ionic</entry>
+        <entry>Moderate</entry>
+        <entry>0.4-mg/ml</entry>
+      </row>
+      <row>
+        <entry>Gadodiamide (Omniscan, Nycomed Amersham, Princeton, NJ) (58)</entry>
+        <entry>574</entry>
+        <entry>Linear-nonionic</entry>
+        <entry>Low</entry>
+        <entry>12-mg/ml</entry>
+      </row>
+      <row>
+        <entry>Gadoversetamide (OptiMARK, Mallinkrodt, St. Louis) (59)</entry>
+        <entry>661</entry>
+        <entry>Linear-nonionic</entry>
+        <entry>Low</entry>
+        <entry>28.4-mg/ml</entry>
+      </row>
+      <row>
+        <entry>Gadoteridol (ProHance, Bracco, Princeton, NJ) (60)</entry>
+        <entry>559</entry>
+        <entry>Macro-cyclic-nonionic</entry>
+        <entry>High</entry>
+        <entry>Not applicable</entry>
+      </row>
+      <row>
+        <entry>Gadobutrol Gd-BT-DO3A (Gadovist, Bayer Schering Pharma, Berlin, Germany) (61)</entry>
+        <entry>605</entry>
+        <entry>Macro-cyclic-nonionic</entry>
+        <entry>High</entry>
+        <entry>Not applicable</entry>
+      </row>
+      <row>
+        <entry>Gadoterate Gd-DOTA (Dotarem, Guerbet, Roissy, France) (62)</entry>
+        <entry>558</entry>
+        <entry>Macro-cyclic-nonionic</entry>
+        <entry>High</entry>
+        <entry>Not applicable</entry>
+      </row>
+      <row>
+        <entry>Gadofosveset trisodium (Ablavar, Lantheus Pharmaceuticals, Boston, MA) (63)</entry>
+        <entry>976</entry>
+        <entry>Linear-ionic; binds reversibly to serum albumin</entry>
+        <entry>High</entry>
+        <entry>Not applicable</entry>
+      </row>
+      <row>
+        <entry>Gadoxetic acid (Eovist, Bayer Healthcare, Wayne, NJ; Primovist, Bayer Healthcare, Berlin, Germany) (64)</entry>
+        <entry>725</entry>
+        <entry>Linear-ionic</entry>
+        <entry>High</entry>
+        <entry>Not applicable</entry>
+      </row>
+      <row>
+        <entry namest="c1" nameend="c5">Non-gadolinium-based contrast agents</entry>
+      </row>
+      <row>
+        <entry namest="c1" nameend="c5">*FDA approved or discontinued</entry>
+      </row>
+      <row>
+        <entry>Mangafodipir (Teslascan, Nycomed Amersham, Princeton, NJ) (65)</entry>
+        <entry>757</entry>
+        <entry>Manganese</entry>
+        <entry/>
+        <entry>fodipir, 0.25-mg/ml</entry>
+      </row>
+      <row>
+        <entry>Ferumoxide (Feridex IV, Berlex, Wayne, NJ) (66)</entry>
+        <entry>83, in 80 to 160-nm particles</entry>
+        <entry>Super-paramagnetic oxide particles</entry>
+        <entry/>
+        <entry>mannitol 61.3-mg, dextran 5.6- to 9.1-mg/ml</entry>
+      </row>
+    </tbody>
+  </tgroup>
+</table>
+    <para>has been little clinical follow-up for humans exposed to MRI, <emphasis role="italics">in-utero</emphasis> (41-52) (Table 4). A survey of reproductive health among 280 pregnant MRI healthcare workers performed by Kanal, et al. (42), showed no substantial increase in common adverse reproductive outcomes. Baker, et al. (43) showed no demonstrable increase in disease, disabilities, or hearing loss in 20 children examined <emphasis role="italics">in-utero</emphasis> with echo-planar MRI performed to assess suspected</para>
+        </sect2>
+      </sect1>
+    </chapter>
