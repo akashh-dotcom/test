@@ -8,8 +8,7 @@
     </sect1>
     <sect1 id="ch0026s02">
       <title>FRANK G. SHELLOCK, PH.D.</title>
-      <para>Director of MRI Safety  USC Stevens Neuroimaging and Informatics Institute  Adjunct Clinical Professor of Radiology and Medicine  Keck School of Medicine  University of Southern California  Los Angeles, CA</para>
-    </sect1>
+      </sect1>
     <sect1 id="ch0026s03">
       <title>INTRODUCTION</title>
       <para>Magnetic resonance imaging (MRI) has been utilized in the clinical setting for more  than 35 years. During this time, the technology has continued to evolve to improve image  quality, acquisition time, and patient comfort. These changes resulted in MR systems with  more powerful static magnetic fields, faster and stronger time-varying gradient magnetic  fields, and improved radiofrequency (RF) transmission coils. The short-term exposures to  the electromagnetic fields used for MRI at the levels recommended in the governing MRI  standard from the International Electrotechnical Commission, IEC 60601-2-33 and by the  United States (U.S.) Food and Drug Administration have resulted in relatively few problems  for the hundreds of millions of MRI examinations performed to date (1-7). MRI-related in- juries and the few fatalities that have occurred in patients without and with implants have  been mostly due to not following recommended user guidelines related to the safety aspects  of the MR scanners and medical implants.</para>
@@ -18,9 +17,7 @@
     </sect1>
     <sect1 id="ch0026s04">
       <title>WHAT IS NEUROMODULATION?</title>
-      <para>Neuromodulation utilizes a medical device to relieve symptoms through alteration or  modulation of nerve system function via the targeted delivery of a stimulus, such as elec- trical stimulation or a chemical agent, to a specific neurological site in the body (7-12).  Neuromodulation therapies have been available since the 1960s and are an essential tool  for healthcare professionals. The field of neuromodulation encompasses a wide range of  therapeutic applications from chronic pain to neurological conditions, such as epilepsy, dys- tonia, and Parkinson’s disease, with the goal of supporting the recovery of abilities such as  hearing, vision, and mobility, as well as the control of bladder or bowel function (7-12). In  many instances, neuromodulation therapies improve the lives of patients because they pro- vide an alternative to long-term drug therapy for the symptomatic relief of persistent or  chronic conditions, which is especially important when existing medications are ineffective  or become problematic for chronic use due to development of tolerance, addiction, adverse  side-effects, or toxicity (10).</para>
-      <para>Technological advances in neuroscience combined with neuromodulation systems that  were miniaturized to feasibly permit implantation contributed to the exponential growth of  neuromodulation applications, including those used for deep brain stimulation, peripheral  nerve stimulation, spinal cord stimulation, sacral nerve stimulation, vagus nerve stimulation,  as well as the administration of drugs for pain management (7-12). Notably, neuromodula- tion systems are the fastest growing segment of the overall medical device industry.</para>
-    </sect1>
+      </sect1>
     <sect1 id="ch0026s05">
       <title>MRI SAFETY ISSUES FOR NEUROMODULATION SYSTEMS</title>
       <para><emphasis role="bold">Static Magnetic Field-Related Issues  </emphasis></para>

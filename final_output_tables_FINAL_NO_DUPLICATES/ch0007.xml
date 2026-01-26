@@ -177,10 +177,6 @@
     </sect1>
     <sect1 id="ch0007s06">
       <title>SAR “HOT-SPOTS”</title>
-      <para>Next, consider localized regions of RF power deposition that might lead to heating,  commonly referred to as SAR "hot spots". Inhomogeneties in the electrical properties of  tissue may result in high local SAR levels. RF-induced biological effects appear to depend  upon temperature rather than on RF power deposition. A region of high local SAR may not  be a region of high temperature due to blood flow or diffusion or other cooling mechanisms.  The distinction between temperature hot spots and SAR hot spots is often ignored or mis- understood.</para>
-      <para>What effect do inhomogeneities have on the distribution of RF power deposition? Using  spherical models, Schenck and Hussain (45) demonstrated that production of power depo- sition “hot spots” depends upon both the dielectric constants and the conductivities of the  media. The model was later reformulated and used to investigate several problems involving  worst-case conditions and magnitudes of local power deposition (10). Assume that there is  a small, homogeneous sphere (sphere 1) with permittivity ε1 and conductivity σ1 (Figure  3). Let sphere 2 be a much larger, homogeneous sphere of “standard tissue” representing  the body. Sphere 2 has a permittivity ε2 and conductivity σ2. Sphere 1 may be placed outside  sphere 2 at the pole (tangential electric field location) or at the equator (normal electric field  location). In addition, sphere 1 may be placed inside sphere 2. When sphere 1 is placed near  the pole of sphere 2, the local power deposition is amplified by a factor, Ap, which may be  expressed as:</para>
-      <para><emphasis role="bold">216</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
-      <para><emphasis role="bold">Figure 3.</emphasis> Effect of inhomogeneities on RF power deposition. To model the effect, a  small, homogeneous sphere is placed either inside a larger tissue sphere or at the pole or  equator of the larger tissue sphere (with respect to the RF electric field vector).</para>
       <figure>
         <title />
         <mediaobject>
@@ -189,16 +185,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>When sphere 1 is placed near the equator of sphere 2, the local power deposition am- plification factor, Ae, may be expressed as:</para>
-      <para>Finally, if sphere 1 is placed inside sphere 2, the local power deposition amplification  factor, As, may be represented as:</para>
-      <para>All the terms in equations (11), (12), and (13) are positive. The electrical properties of  sphere 1 are treated as variables so conditions for maximum amplification of local power  deposition may be determined.</para>
-      <para>When sphere 1 is near the pole, amplification of local power deposition, Ap, is greatest  when sphere 1 is a perfect conductor (σ1 ≈ ∞). A perfectly conducting small sphere at the  pole will result in a local amplification factor of Ap = 9. Recall that the spatial peak SAR in  a homogeneous sphere is already 2.5 times average SAR for the sphere. Combining these  results, the peak SAR at the pole is = 22.5 times the SAR averaged over sphere 2. Conduc- tive leads (e.g., used with electrocardiogram monitoring equipment) placed in contact with  the skin of patients may simulate this situation. Note that there is almost no amplification  of local power deposition if sphere 1 is a radius or more from sphere 2. Spacing conductors  well away from patients can dramatically reduce the local heating potential.</para>
-      <para>Assume sphere 1 is placed near the equator of sphere 2. Then the greatest amplification  of local power deposition takes place when sphere 1 electrical properties are minimal; i.e.,  σ1 = 0 and ε1 = ε0 (free space value). So for a void, such as an air bubble, Ae = 2.25. Fat or  bone at the equator produces slightly smaller amplifications (10, 37). When a low conduc- tivity sphere is located near the outer edge of the equator of a larger (conductive) sphere,  the local SAR is highest and is limited to 5.625 times the average SAR.</para>
-      <para>Finally, assume sphere 1 is placed inside the large sphere. This situation may simulate  an implanted prostheses. While local SAR is amplified the most when σ1 = 2σ2 and ε1 =  2ε2 (not a likely situation), the amplification factor is only As = 1.125. The highest local  SAR works out to 2.8125 times the local average SAR.</para>
-      <para>(13)</para>
-      <para>(12)</para>
-      <para>(11)</para>
-      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">217</emphasis></para>
       <figure>
         <title />
         <mediaobject>
@@ -223,12 +209,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>The analyses above assume linearly polarized RF magnetic fields. Notably, if the trans- mit RF coil produces quadrature excitation, then the amplification of local power deposition  is reduced. The reduction in local power deposition results from rotating eddy current loops  during quadrature excitation. Sphere 1 alternates between the equator and the pole of the  larger sphere during quadrature excitation. So, worst-case quadrature local SAR amplifica- tion (assuming inhomogeneous biology) is 0.5 * (2.5 + 2.8125) = 2.66. For maximum SAR  amplification at the equator, the electrical properties of sphere 1 approach those of a void.</para>
-      <para>Similarly, for an infinitely conducting sphere 1, during quadrature RF excitation, the  worst-case local power deposition amplification would be 0.5 * (2.5 + 22.5) = 12.5. How- ever, the presence of a conductor may complicate the production of a perfect quadrature  RF field by setting up difficult boundary conditions.</para>
-      <para>Currently, many useful electromagnetic simulation packages are commercially available  that can calculate whole-body average, head average, partial body average, and local SAR  (averaged over the worst-case contiguous 10-grams).  As mentioned under the MRI safety  standards section above, it turns out that, in the transmit body RF coil, the ratio of peak  local SAR to the whole-body average SAR may be high (as high as about 13 times) (38).</para>
-      <para>Transmit RF body coils induce electric fields in patients during MRI procedures. RF- induced electric fields are largest near RF coil conductors (<emphasis role="bold">Figure 4</emphasis>). Transmit RF coils  may have high electric fields near capacitors on the coil as well. During high SAR MRI ex- aminations, placing patients well away from transmit body RF coil conductors may reduce</para>
-      <para><emphasis role="bold">218</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
-      <para><emphasis role="bold">Figure 4.</emphasis> Electric fields inside a low-pass, RF birdcage coil. Note that the electric fields  reach their maximum magnitude at the coil and fall to zero along the coil axis. Capacitors  along the coil wall may also give rise to high electric fields, locally. Any conductors  should be routed along regions of the low electric field or orthogonal to the electric field  to prevent problems or issues.</para>
       <figure>
         <title />
         <mediaobject>
@@ -237,8 +217,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">219</emphasis></para>
-      <para><emphasis role="bold">Figure 5.</emphasis> Receive-only RF surface coil with blocking network. During body RF coil  transmission, the blocking network, Z, becomes a high impedance to prevent high-in- duced currents from flowing in the coil. Such currents could lead to extremely high, local  SAR levels. During surface RF coil reception, the blocking network becomes a very low  impedance to improve the image signal-to-noise ratio.</para>
       <figure>
         <title />
         <mediaobject>
@@ -247,7 +225,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para><emphasis role="bold">Figure 6.</emphasis> Any loop whose axis is parallel to the RF electromagnetic field may produce  high currents and voltages by Faraday induction. Conductive loops of a relatively large  size should be avoided in the MR system.</para>
       <figure>
         <title />
         <mediaobject>
@@ -257,11 +234,6 @@
         </mediaobject>
       </figure>
       <para>local power deposition and heating. The axis of birdcage RF coils is nearly a virtual ground.  Conductors that must be introduced into the bore will minimally affect local SAR if they  are placed along this virtual ground.</para>
-      <para>Receive-only RF coils, including most surface coils, typically use transmit body RF  coils to transmit RF excitation pulses. Receive-only coils are resonant during RF reception.  However, if these RF coils were resonant during transmission of RF energy, then large cur- rents may be produced in the receive-only coils. These large currents would, by Lenz’s law,  induce opposing RF magnetic fields. Flip angle profiles could be altered by the opposing  RF magnetic fields, degrading image quality. The opposing RF magnetic fields may induce  large electric fields in the body leading to large local SAR levels. Manufacturers use high  impedance blocking networks to detune surface coils and limit surface coil current during  body coil transmit (<emphasis role="bold">Figure 5</emphasis>).</para>
-      <para>If conductive loops (e.g., associated with the use of monitoring equipment or even a  coiled transmission line) are introduced into the MR system, high local SAR levels may re- sult (39, 40) (<emphasis role="bold">Figure 6</emphasis>). Even straight conductors may increase local SAR significantly (41- 44) (<emphasis role="bold">Figure 7</emphasis>). Therefore, for patient safety, fiber optic-based devices should be used instead  of conductors, when possible.</para>
-      <para>Local temperature rise typically does not correlate well with local power deposition in  a human subject. Thermal diffusion, blood flow, thermal radiation, sweating, and airflow  may influence the local temperature rise. Consider a region with a small mass, <emphasis role="italics">m</emphasis>, cooled  by blood flowing from a cooler, more massive region. Under steady-state conditions, the  SAR that is dumped to the more massive region depends upon an energy constant, <emphasis role="italics">K</emphasis>, the  specific heat, C, the temperature difference between the massive and small region, Δ<emphasis role="italics">T</emphasis>, and  the mass rate of blood flow, <emphasis role="italics">dM/dt</emphasis>, and may be expressed as:</para>
-      <para><emphasis role="bold">220</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
-      <para><emphasis role="bold">Figure 7.</emphasis> Even straight conductors may act as antennas and couple to the RF electric  field (which is highest near the wall of the body RF coil). Loops may also short out a  mode of quadrature coils, resulting in linear excitation.</para>
       <figure>
         <title />
         <mediaobject>
@@ -270,11 +242,7 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>The SAR required for a 1°C temperature rise in various organs may be estimated using  Equation (14). Blood flow rates per unit mass vary from 128-ml/kg/min for the cutaneous  circulation to 4200-ml/kg/min for the kidneys. <emphasis role="bold">Table 1</emphasis> lists local SAR levels required to  produce a local temperature rise of one degree C for various organs (23). <emphasis role="bold">Table 1</emphasis> demon- strates the homogenizing property of blood flow to limit temperature "hot-spots" in the  body. Resulting steady-state (maximum) temperature rises for each organ exposed locally  to 4-W/kg is also presented in <emphasis role="bold">Table 1</emphasis>. Athey (53) has shown similar theoretical results  demonstrating that significant thermal “hot spots” are not probable for typical head expo- sures.</para>
-    <table frame="all"><title>Athey (53) has shown similar theoretical results</title><tgroup cols="5"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><thead><row><entry>Organ</entry><entry>Mass (kg)</entry><entry>Blood Flow
-(ml/kg/min)</entry><entry>Maximum SAR
-(W/kg)*</entry><entry>Maximum ΔT
-(°C)**</entry></row></thead><tbody><row><entry>Brain</entry><entry>1.4</entry><entry>540</entry><entry>31</entry><entry>0.13</entry></row><row><entry>Heart (Muscle)</entry><entry>0.3</entry><entry>840</entry><entry>48.3</entry><entry>0.08</entry></row><row><entry>Liver</entry><entry>2.6</entry><entry>577</entry><entry>33.4</entry><entry>0.12</entry></row><row><entry>Kidneys</entry><entry>0.3</entry><entry>4200</entry><entry>243.2</entry><entry>0.02</entry></row><row><entry>Skin (normal)</entry><entry>3.6</entry><entry>128</entry><entry>7.4</entry><entry>0.54</entry></row><row><entry>Skin (vasodilation)</entry><entry>3.6</entry><entry>1500</entry><entry>86.9</entry><entry>0.05</entry></row></tbody></tgroup></table></sect1>
+      </sect1>
     <sect1 id="ch0007s07">
       <title>RF POWER DEPOSTION IN BIRDCAGE COILS AND NEAR   CONDUCTORS</title>
       <para>Ideally, birdcage coils would produce uniform B1 fields.  Perfectly uniform B1 requires  an infinitely long birdcage coil (or a spherical current density). Components of <emphasis role="italics">A</emphasis> (and thus  <emphasis role="italics">E</emphasis>) must be parallel to the current density on the conductors that produced them.  The B1  field is related to magnetic vector potential:</para>
@@ -364,10 +332,6 @@
     </sect1>
     <sect1 id="ch0007s08">
       <title>WHOLE-BODY SAR MEASUREMENTS</title>
-      <para>By measuring the RF peak forward, reflected, and (possibly) dummy load power levels  required for 180-degree pulses (<emphasis role="bold">Figure 8</emphasis>) with a known waveform, it is possible to measure  the energy absorbed per pulse by the patient. Note that these measurements may be made  while exposing human subjects to very low SAR levels. This information may be used to  calculate whole-body SAR for any pulse with that patient in the same location. Details are  in a National Electrical Manufacturers Association (NEMA) Standard (54).</para>
-      <para>(21)</para>
-      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">223</emphasis></para>
-      <para><emphasis role="bold">Figure 8.</emphasis> Experimental measurement of the whole-body-averaged specific absorption  rate (SAR).</para>
       <figure>
         <title />
         <mediaobject>
@@ -568,5 +532,8 @@
       <para>72. Gagge AP. The New Effective Temperature (ET)   An Index of Human Adaptation to Warm Environments.  In: Horvath S, Yousef M, Editors. Environmental Physiology: Aging, Heat, and Altitude. 1980. pp. 9 77.</para>
       <para>73. Hurst J, Willis ED. The Heart. McGraw-Hill, New York, 1978.</para>
       <para><emphasis role="bold">232</emphasis> <emphasis role="bold">Bioeffects of Radiofrequency Power Deposition</emphasis></para>
-      </sect1>
+      <table frame="all"><title>Athey (53) has shown similar theoretical results</title><tgroup cols="5"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><thead><row><entry>Organ</entry><entry>Mass (kg)</entry><entry>Blood Flow
+(ml/kg/min)</entry><entry>Maximum SAR
+(W/kg)*</entry><entry>Maximum ΔT
+(°C)**</entry></row></thead><tbody><row><entry>Brain</entry><entry>1.4</entry><entry>540</entry><entry>31</entry><entry>0.13</entry></row><row><entry>Heart (Muscle)</entry><entry>0.3</entry><entry>840</entry><entry>48.3</entry><entry>0.08</entry></row><row><entry>Liver</entry><entry>2.6</entry><entry>577</entry><entry>33.4</entry><entry>0.12</entry></row><row><entry>Kidneys</entry><entry>0.3</entry><entry>4200</entry><entry>243.2</entry><entry>0.02</entry></row><row><entry>Skin (normal)</entry><entry>3.6</entry><entry>128</entry><entry>7.4</entry><entry>0.54</entry></row><row><entry>Skin (vasodilation)</entry><entry>3.6</entry><entry>1500</entry><entry>86.9</entry><entry>0.05</entry></row></tbody></tgroup></table></sect1>
 </chapter>

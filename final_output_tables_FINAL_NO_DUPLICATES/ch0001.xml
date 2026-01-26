@@ -5,41 +5,7 @@
     <sect1 id="ch0001s01">
       <title>MORIEL NESSAIVER, PH.D.</title>
       <para>Simply Physics  Baltimore, MD</para>
-    <para>frequency ranges for different types of electromagnetic radiation. As will be discussed in 
-detail shortly, MRI uses radio waves with frequencies around 107-Hz (cycles per second). 
-Most other radiology imaging techniques (e.g., X-ray, computed tomography, and nuclear 
-medicine) use ionizing radiati</para><para>om. For a simple 
-proton, γ = 42.56-MHz/T. As before, BØ represents the externally applied static magnetic 
-field. At the magnetic field strengths used in clinical MR systems, 0.2 to 7 T, the resonance 
-frequency of hydrogen ranges from 8.5-MHz to 298-MHz (8.5 x 106-Hz to 2.98 x 108-Hz). 
-In Table 1</para><table frame="all"><title>Frequencies associated with different types of electromagnetic radiation.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Types of Radiation</entry><entry>Approximate Frequency in Hz</entry></row></thead><tbody><row><entry>Radio Waves</entry><entry>107</entry></row><row><entry>Visible Light</entry><entry>1014</entry></row><row><entry>Ultraviolet</entry><entry>1016</entry></row><row><entry>X-Rays</entry><entry>1018</entry></row><row><entry>Gamma Rays</entry><entry>&gt;1019</entry></row></tbody></tgroup></table><para>ency (RF) portion of the electro-
-magnetic spectrum.  
-As such, it is now apparent how Figure 1B was slightly inaccurate. The spins do align 
-roughly with (or against) the static magnetic field but, if you could take a freeze frame snap-
-shot of all of the protons in a voxel, you would see that each</para><para>The Editors 
-Frank G. Shellock, Ph.D. is a physiolo-
-gist with more than 35 years of experience 
-conducting laboratory and clinical investiga-
-tions in the field of magnetic resonance im-
-aging (MRI</para><para>He is the Director of MRI 
-Safety at the USC Steven Neuroimaging and 
-Informatics Institute which utilizes research 
-and clinical 3-Tesla and 7-Tesla scanners, and 
-an Adjunct Clinical Professor of Radiology 
-and Medicine at the Keck School of Medi-
-cine, University of Southern California. As a 
-com</para><para>. 
- 
-The value T2 is the time after excitation when the signal amplitude has been reduced to 
-36.8% of its original value or has lost 63.2%. This is the opposite of T1 where 63.2% of Mz 
-is recovered in one T1 period. By three times T2 there is less than 5% of the original signal 
-remaining (Table 3</para><table frame="all"><title>MZ recovery fractions at different multiples of T1 times.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>t/T
-1</entry><entry>M
-Z</entry></row></thead><tbody><row><entry>-1</entry><entry>0.6321</entry></row><row><entry>-2</entry><entry>0.8646</entry></row><row><entry>-3</entry><entry>0.9502</entry></row><row><entry>-4</entry><entry>0.9816</entry></row><row><entry>-5</entry><entry>0.9932</entry></row></tbody></tgroup></table><para>sue and is determined 
-primarily by its chemical environment with little relation to field strength. This uniqueness 
-in T2 decay rates is one of the other mechanisms that enables MRI to differentiate between 
-different types of tissue. 
-Key Definition: T2 Decay. The exponential loss of signal resul</para></sect1>
+    </sect1>
     <sect1 id="ch0001s02">
       <title>INTRODUCTION</title>
       <para>Most medical professionals today are well aware of the fact that magnetic resonance  imaging (MRI) technology uses systems with powerful magnets that make considerable  amounts of noise and that you generally cannot bring ferromagnetic objects or patients with  certain implants into the scanner room. However, these individuals may not be aware that  MR systems use relatively safe radiofrequency (RF) radiation instead of ionizing radiation  (e.g., X-rays, gamma rays, etc.) to create images and they may not understand just how  powerful the magnets are, why they may always be “on” and why they make so much noise.  This chapter provides simple explanations for these matters by presenting information per- taining to basic MRI physics.</para>
@@ -98,7 +64,7 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para></sect1>
         </mediaobject>
       </figure>
       <para>Where <emphasis role="bold"><emphasis role="italics">h</emphasis></emphasis> is known as Planck’s constant. In simple words, the energy of electromagnetic  radiation goes up directly with the frequency of the radiation. <emphasis role="bold">Table 1</emphasis> lists the approximate  frequency ranges for different types of electromagnetic radiation. As will be discussed in  detail shortly, MRI uses radio waves with frequencies around 10<superscript>7</superscript>-Hz (cycles per second).  Most other radiology imaging techniques (e.g., X-ray, computed tomography, and nuclear  medicine) use ionizing radiation with frequencies in the 10<superscript>18</superscript>- to 10<superscript>19</superscript>-Hz range or roughly  10<superscript>12</superscript> larger than those used in MRI. Accordingly, X-rays are roughly a trillion times more  “energetic” (and potentially damaging) than radio waves. MRI is able to provide such great  images not because of the high energy involved (like computed tomography) but because  of the large number of protons found in the body, primarily in water and fat.</para>
-    </sect1>
+    <table frame="all"><title>Frequencies associated with different types of electromagnetic radiation.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Types of Radiation</entry><entry>Approximate Frequency in Hz</entry></row></thead><tbody><row><entry>Radio Waves</entry><entry>107</entry></row><row><entry>Visible Light</entry><entry>1014</entry></row><row><entry>Ultraviolet</entry><entry>1016</entry></row><row><entry>X-Rays</entry><entry>1018</entry></row><row><entry>Gamma Rays</entry><entry>&gt;1019</entry></row></tbody></tgroup></table></sect1>
     <sect1 id="ch0001s04">
       <title>MAGNETIC RESONANCE</title>
       <para><emphasis role="bold">Spinning Protons Act Like Dreidles </emphasis></para>
@@ -125,10 +91,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para></sect1>
     </sect1>
     <sect1 id="ch0001s05">
       <title>APPLY AN RF EXCITATION PULSE</title>
-      <para>If an electromagnetic radiofrequency (RF) pulse is applied at the resonance (Larmor,  precession, wobble) frequency, then the protons can absorb that energy. At the quantum  level, a single proton “jumps” to a higher energy state. At the macro or classical level, to an  observer in the external or laboratory frame of reference, the magnetization vector, <emphasis role="bold">M</emphasis><emphasis role="bold">Ø</emphasis>,  (roughly a million billion protons) spirals down towards the XY plane (<emphasis role="bold">Figure 4A</emphasis>). If you  could somehow jump aboard <emphasis role="bold">M</emphasis><emphasis role="bold">Ø</emphasis>, just like onto a merry-go-round, the laboratory would be  seem to be rotating around you. In this rotating frame of reference, <emphasis role="bold">M</emphasis><emphasis role="bold">Ø</emphasis> would seem to  smoothly tip down (<emphasis role="bold">Figure 4B</emphasis>). The tip angle is a function of the strength and duration of  the RF pulse. The absorption of the energy from the applied RF excitation pulse can be</para>
-      <para>(2)</para>
-      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">5</emphasis></para>
-      <para><emphasis role="bold">Figure 4.</emphasis> Radiofrequency (RF)  energy is absorbed. <emphasis role="bold">(A)</emphasis> An ob- server in the surrounding labora- tory will see <emphasis role="bold">M</emphasis><emphasis role="bold">Ø</emphasis> spiral down to  the XY-plane (or even down to the  negative Z-axis.) <emphasis role="bold">(B) </emphasis>An observer  riding on the <emphasis role="bold">M</emphasis><emphasis role="bold">Ø</emphasis> vector sees the  external world rotating about him.  The <emphasis role="bold">M</emphasis><emphasis role="bold">Ø</emphasis> vector tips α° (alpha de- grees) towards the Y’-axis.</para>
       <figure>
         <title />
         <mediaobject>
@@ -153,9 +115,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para></sect1>
           </imageobject>
         </mediaobject>
       </figure>
-      <para>roughly compared to shining a light onto phosphorescent paint. The stronger the light or  the longer it is applied, the more energy is absorbed (up to a point, that is).</para>
-      <para><emphasis role="bold">Key Definition:</emphasis> Laboratory Frame. The viewpoint of an observer in the laboratory.  The laboratory is stationary, the protons are spinning.</para>
-      <para><emphasis role="bold">Key Definition:</emphasis> Rotating Frame. The viewpoint of an observer riding along on the pro- tons. The protons appear stationary, the laboratory is rotating.</para>
       <para><emphasis role="bold">Key Definition:</emphasis> <emphasis role="bold">M</emphasis><emphasis role="bold">Z</emphasis>. The component of the net magnetization vector that points in the  <emphasis role="bold">Z</emphasis> or <emphasis role="bold">B</emphasis><emphasis role="bold">Ø</emphasis> direction.</para>
       <para><emphasis role="bold">Key Definition:</emphasis> <emphasis role="bold">M</emphasis><emphasis role="bold">XY</emphasis>. The component of the net magnetization vector that resides in  or projects onto the XY-plane.</para>
     </sect1>
@@ -271,7 +230,9 @@ xy</entry></row></thead><tbody><row><entry>-0.5</entry><entry>0.6065</entry></ro
       <para><emphasis role="bold">Key Definition:</emphasis> Spin-Spin Relaxation. The temporary and random interaction between  two spins that causes a cumulative loss in-phase resulting in an overall loss of signal, also  known as transverse or T2 relaxation.</para>
       <para>Similar to T1 relaxation, the signal decay resulting from transverse or spin-spin relax- ation is described mathematically by an exponential curve, identical in concept to radioac- tive decay with a half-life measured in tens of milliseconds [Equation (4)] (<emphasis role="bold">Figure 12</emphasis>).</para>
       <para>The value <emphasis role="bold">T</emphasis><emphasis role="bold">2</emphasis> is the time after excitation when the signal amplitude has been reduced to  36.8% of its original value or has lost 63.2%. This is the opposite of T1 where 63.2% of <emphasis role="bold">M</emphasis><emphasis role="bold">z</emphasis>  is <emphasis role="italics">recovered</emphasis> in one T1 period. By three times T2 there is less than 5% of the original signal  remaining (<emphasis role="bold">Table 3</emphasis>). The value of T2 is unique for every kind of tissue and is determined  primarily by its chemical environment with little relation to field strength. This uniqueness  in T2 decay rates is one of the other mechanisms that enables MRI to differentiate between  different types of tissue.</para>
-      <para><emphasis role="bold">Key Definition:</emphasis> T2 Decay. The exponential loss of signal resulting from purely random  spin-spin interactions in the transverse or XY-plane. In general, T2 values are unrelated to  field strengths (unlike T1 values).</para>
+      <table frame="all"><title>MZ recovery fractions at different multiples of T1 times.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>t/T
+1</entry><entry>M
+Z</entry></row></thead><tbody><row><entry>-1</entry><entry>0.6321</entry></row><row><entry>-2</entry><entry>0.8646</entry></row><row><entry>-3</entry><entry>0.9502</entry></row><row><entry>-4</entry><entry>0.9816</entry></row><row><entry>-5</entry><entry>0.9932</entry></row></tbody></tgroup></table><para><emphasis role="bold">Key Definition:</emphasis> T2 Decay. The exponential loss of signal resulting from purely random  spin-spin interactions in the transverse or XY-plane. In general, T2 values are unrelated to  field strengths (unlike T1 values).</para>
       <para>(4)</para>
       <para><emphasis role="bold">10</emphasis> <emphasis role="bold">Basic MRI Physics: Implications for MRI Safety</emphasis></para>
       <para><emphasis role="bold">Figure 12.</emphasis> Graphs depicting the  exponential loss of signal from two  different tissues with T2 time con- stants. Similar to the T1 recovery  curve (<emphasis role="bold">Figure 8</emphasis>) where 63% of  magnetization is recovered in one  T1 time period, here 63% of mag- netization is dephased or lost dur- ing one T2 time period.</para>
