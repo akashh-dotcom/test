@@ -38,7 +38,7 @@
       <para>scanning at a whole-body averaged SAR of 2-W/kg may increase fetal tempera- ture more than the 0.5°C, as recommended by the International Commission on  Non-Ionizing Radiation Protection, but less than the proposed teratogenic cutoff  value of 1.5 °C (22).</para>
       <para>The anatomically “deep” position of the fetus and the surrounding amniotic fluid  • could reduce the effects of gradient field-related, acoustic noise.</para>
       <para>While the stage of pregnancy may be important with regard to the potential risk  • to the embryo or fetus, it should be noted that spontaneous adverse outcomes are  common (23) (<emphasis role="bold">Table 1</emphasis>).</para>
-      <para>A number of biological studies have assessed the effects of MRI in pregnancy.  Most  of these studies show no evidence for fetal harm (24-40) (<emphasis role="bold">Tables 2</emphasis> and <emphasis role="bold">3</emphasis>).  However, there</para>
+      <table frame="all"><title>Spontaneous adverse outcomes of pregnancy.</title><tgroup cols="3"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><thead><row><entry>Period</entry><entry>Risk</entry><entry>Spontaneous Occurrence Rate</entry></row></thead><tbody><row><entry>Day 1 to 10</entry><entry>Reabsorption</entry><entry>30%</entry></row><row><entry>Day 10 to 50</entry><entry>Abnormal Organogenesis</entry><entry>4 to 6%</entry></row><row><entry>&gt;Day 50</entry><entry>Intra-uterine Growth Retardation</entry><entry>4%</entry></row></tbody></tgroup></table><para>A number of biological studies have assessed the effects of MRI in pregnancy.  Most  of these studies show no evidence for fetal harm (24-40) (<emphasis role="bold">Tables 2</emphasis> and <emphasis role="bold">3</emphasis>).  However, there</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">309</emphasis></para>
       <para><emphasis role="bold">Period</emphasis> <emphasis role="bold">Risk</emphasis> <emphasis role="bold">Spontaneous Occurrence Rate</emphasis></para>
       <para>Day 1 to 10 Reabsorption 30%</para>
@@ -83,7 +83,15 @@
       <para>Jaimes, et al. (50) 2019 The increase in noise associated with 3-T does not increase the rate of clinically de- tectable hearing abnormalities when compared to in utero exposure to 1.5-T. N = 62  in each group, p = 0.8.</para>
       <para>Chartier, et al. (51) 2019 No adverse effects regarding neonatal hearing or fetal growth in healthy neonates  who were variably exposed to 3-T MR in utero for clinical maternal or fetal indica- tions at any gestational age. N = 81.</para>
       <para>has been little clinical follow-up for humans exposed to MRI, <emphasis role="italics">in-utero</emphasis> (41-52) (<emphasis role="bold">Table 4</emphasis>).  A survey of reproductive health among 280 pregnant MRI healthcare workers performed  by Kanal, et al. (42), showed no substantial increase in common adverse reproductive out- comes. Baker, et al. (43) showed no demonstrable increase in disease, disabilities, or hearing  loss in 20 children examined <emphasis role="italics">in-utero</emphasis> with echo-planar MRI performed to assess suspected</para>
-      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">311</emphasis></para>
+      <table frame="all"><title>Safety of MRI in pregnancy: Non-adverse outcomes in humans.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Study</entry><entry>Findings</entry></row></thead><tbody><row><entry>Tyndall and Sulik (35) 1991</entry><entry>At least two-fold increased incidence of eye malformations (C57B16J
+mice, 10% spontaneous eye malformations, gestational day 7, 1.5-T for 36-
+minutes).</entry></row><row><entry>Tyndall (36) 1993</entry><entry>Increased teratogenicity with reduced crown-rump length and craniofacial
+size in C57B1/6J mice exposed to clinically realistic MRI at 1.5-T.</entry></row><row><entry>Yip, et al. (37) 1994</entry><entry>“trend toward higher abnormality and mortality rates..” in chick embryos
+exposed simulated imaging conditions at 1.5-T.</entry></row><row><entry>Carnes, et al. (38) 1996</entry><entry>Fetal weight reduction (11%) in mice exposed to 8 hours in midgestation at
+4.7-T</entry></row><row><entry>Narra, et al. (39) 1996</entry><entry>Reduced spermatogenesis and embryogenesis in Webster mice exposed in-
+utero to 1.5-T for 30-minutes.</entry></row><row><entry>Lee, et al. (40) 2011</entry><entry>3-T MRI induces genotoxic effects (significant increase in the frequency of
+micronuclei and single-strand DNA breaks) in cultured human lymphocytes
+proportional to exposure time.</entry></row></tbody></tgroup></table><para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">311</emphasis></para>
       <para><emphasis role="bold">Agent</emphasis> <emphasis role="bold">Molecular  </emphasis> <emphasis role="bold">Weight</emphasis> <emphasis role="bold">Charge</emphasis> <emphasis role="bold">Relative  </emphasis> <emphasis role="bold">Stability</emphasis></para>
       <para><emphasis role="bold">Excess Free  </emphasis> <emphasis role="bold">Ligand in  </emphasis> <emphasis role="bold">Formulation</emphasis></para>
       <para><emphasis role="bold">Gadolinium-based contrast agents</emphasis></para>
@@ -139,7 +147,42 @@
       <para>Bird, et al. (52) have “identified 1.2 gadolinium-based contrast agent (GBCA) exposures  per 1,000 live births, or one exposure for every 860 pregnancies especially during the first  few weeks of pregnancy compared with the later weeks of pregnancy, suggesting inadvertent  exposure to GBCAs might occur before pregnancy is recognized (52).”</para>
       <para>While some moieties are transferred across the placenta by active transporters located  on both the fetal and maternal side of the trophoblast layer, most substances administered  during pregnancy will, to a certain degree, traverse the placenta and enter the fetus via pas- sive diffusion. Transplacental passive diffusion is affected by molecular properties such as  molecular weight, the acid dissociation constant (pKa), lipid solubility, and plasma protein  binding (53, 54). Polar molecules with a molecular weight of less than 500-D are more  likely to traverse the placenta. Significant plasma protein binding favors maternal blood  pool compartmentalization and placental blood pool localization without transplacental dif- fusion.</para>
       <para>Most currently approved gadolinium-based MRI contrast agents have a relatively low  molecular weight and, thus, would be expected to readily cross the placental barrier (52- 72) (<emphasis role="bold">Table 5</emphasis>).  Massive doses of these agents have been shown to cause post-implantation  fetal loss, delayed development, increased locomotive activity, and skeletal as well as vis- ceral abnormalities in experimental animals [(56-66) (<emphasis role="bold">Table 6</emphasis>) and (56-64) (<emphasis role="bold">Table 7</emphasis>)]. Thus,  the Food and Drug Administration (FDA) generally lists MRI contrast agents as “PREG- NANCY CATEGORY C”.  Statements such as “adequate and controlled studies in pregnant  woman have not been conducted” and <emphasis role="italics">this agent </emphasis>“should only be used during pregnancy if  the potential benefit justifies the potential risk to the fetus” are typically noted in the package  inserts for these products (56-66).</para>
-      <table frame="all"><title>Safety of gadolinium-based MRI contrast agents in pregnancy*.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 6</entry><entry>See PDF</entry></row></tbody></tgroup></table><table frame="all"><title>After intravenous administration of a gadolinium-based contrast agent, a portion of this</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 7</entry><entry>See PDF</entry></row></tbody></tgroup></table><para>Because some of the effects described in animal experiments may be caused by a  generic contrast agent, transmetallated gadolinium, or disassociated ligand moieties, for the  purpose of this presentation, specific product names are presented rather than a generic con- trast agent component, but only for the adverse effects presented in <emphasis role="bold">Table 6</emphasis> and <emphasis role="bold">Table 7</emphasis>.</para>
+      <table frame="all"><title>Currently approved MRI contrast agents.</title><tgroup cols="5"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><thead><row><entry>Agent</entry><entry>Molecular
+Weight</entry><entry>Charge</entry><entry>Relative
+Stability</entry><entry>Excess Free
+Ligand in
+Formulation</entry></row></thead><tbody><row><entry>Gadolinium-based contrast agents</entry><entry /><entry /><entry /><entry /></row><row><entry>Gadopentetate dimeglumine
+(Magnevist, Bayer Healthcare,
+Wayne, NJ) (56)</entry><entry>938</entry><entry>Linear-ionic</entry><entry>Moderate</entry><entry>0.4-mg/ml</entry></row><row><entry>Gadobenate (MultiHance, Gd-
+BOPTA, Bracco, Milan, Italy)
+(57)</entry><entry>1058</entry><entry>Linear-ionic</entry><entry>Moderate</entry><entry>0.4-mg/ml</entry></row><row><entry>Gadodiamide (Omniscan, Ny-
+comed Amersham, Princeton,
+NJ) (58)</entry><entry>574</entry><entry>Linear-nonionic</entry><entry>Low</entry><entry>12-mg/ml</entry></row><row><entry>Gadovesetamide (OptiMARK,
+Mallinkrodt, St. Louis) (59)</entry><entry>661</entry><entry>Linear-nonionic</entry><entry>Low</entry><entry>28.4-mg/ml</entry></row><row><entry>Gadoteridol (ProHance, Bracco,
+Princeton, NJ) (60)</entry><entry>559</entry><entry>Macro-cyclic-
+nonionic</entry><entry>High</entry><entry>Not applicable</entry></row><row><entry>Gadobutrol Gd-BT-DO3A
+(Gadovist, Bayer Schering
+Pharma, Berlin, Germany) (61)</entry><entry>605</entry><entry>Macro-cyclic-
+nonionic</entry><entry>High</entry><entry>Not applicable</entry></row><row><entry>Gadoterate Gd-DOTA (Dotarem,
+Guerbet, Roissy, France) (62)</entry><entry>558</entry><entry>Macro-cyclic-
+nonionic</entry><entry>High</entry><entry>Not applicable</entry></row><row><entry>Gadofosveset trisodium
+(Ablavar, Lantheus Pharmaceu-
+ticals, Boston, MA) (63)</entry><entry>976</entry><entry>Linear-ionic;
+binds reversibly
+to serum albumin</entry><entry>High</entry><entry>Not applicable</entry></row><row><entry>Gadoxetic acid (Eovist, Bayer
+Healthcare, Wayne, NJ; Primo-
+vist, Bayer Healthcare, Berlin,
+Germany) (64)</entry><entry>725</entry><entry>Linear-ionic</entry><entry>High</entry><entry>Not applicable</entry></row><row><entry>Non-gadolinium-based contrast agents
+*FDA approved or discontinued</entry><entry /><entry /><entry /><entry /></row><row><entry>Mangafodipar (Teslascan, Ny-
+comed Amersham, Princeton,
+NJ) (65)</entry><entry>757</entry><entry>Manganese</entry><entry /><entry>fodipir, 0.25-mg/ml</entry></row><row><entry>Ferumoxide (Feridex IV, Berlex,
+Wayne, NJ) (66)</entry><entry>83, in 80 to
+160-nm parti-
+cles</entry><entry>Super-para-
+magnetic oxide
+particles</entry><entry /><entry>mannitol 61.3-mg,
+dextran 5.6– to 9.1-
+mg/ml</entry></row></tbody></tgroup></table><table frame="all"><title>Safety of gadolinium-based MRI contrast agents in pregnancy*.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 6</entry><entry>See PDF</entry></row></tbody></tgroup></table><table frame="all"><title>After intravenous administration of a gadolinium-based contrast agent, a portion of this</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 7</entry><entry>See PDF</entry></row></tbody></tgroup></table><para>Because some of the effects described in animal experiments may be caused by a  generic contrast agent, transmetallated gadolinium, or disassociated ligand moieties, for the  purpose of this presentation, specific product names are presented rather than a generic con- trast agent component, but only for the adverse effects presented in <emphasis role="bold">Table 6</emphasis> and <emphasis role="bold">Table 7</emphasis>.</para>
       <para>After intravenous administration of a gadolinium-based contrast agent, a portion of this  substance will localize in the placental blood pool (67-72) (<emphasis role="bold">Figure 1</emphasis>).  From there, a small  portion will reach the fetus. If the fetal kidneys are developed (i.e., beyond seven weeks),  the gadolinium chelate will be excreted into the fetal bladder (<emphasis role="bold">Figure 2</emphasis>), where it would be</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">313</emphasis></para>
       <para>Animal studies have shown that <superscript>54</superscript>Mn manganese crosses the placenta and locates in fetal liver and bones  (65).</para>
@@ -528,5 +571,13 @@
       <para>144. Glover PM, Cavin I, Qian W, Bowtell R, Gowland PA. Magnetic-field-induced vertigo: a theoretical and  experimental investigation. Bioelectromagnetics 2007;28:349-361.</para>
       <para>145. Mervak BM, Altun E, McGinty KA, Hyslop WB, Semelka RC, Burke LM. MRI in pregnancy: Indications  and practical considerations. J Magn Reson Imaging  2019;49:621-631.</para>
       <para><emphasis role="bold">332</emphasis> <emphasis role="bold">MRI Procedures and Pregnancy</emphasis></para>
-      </sect1>
+      <table frame="all"><title>Safety of MRI in pregnancy: Non-adverse outcomes in animals.</title><tgroup cols="3"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><thead><row><entry>Period</entry><entry>Risk</entry><entry>Spontaneous Occurrence Rate</entry></row></thead><tbody><row><entry>Day 1 to 10</entry><entry>Reabsorption</entry><entry>30%</entry></row><row><entry>Day 10 to 50</entry><entry>Abnormal Organogenesis</entry><entry>4 to 6%</entry></row><row><entry>&gt;Day 50</entry><entry>Intra-uterine Growth Retardation</entry><entry>4%</entry></row></tbody></tgroup></table><table frame="all"><title>Safety of MRI in pregnancy: Adverse outcomes in animals and human cell cul-</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Study</entry><entry>Findings</entry></row></thead><tbody><row><entry>Tyndall and Sulik (35) 1991</entry><entry>At least two-fold increased incidence of eye malformations (C57B16J
+mice, 10% spontaneous eye malformations, gestational day 7, 1.5-T for 36-
+minutes).</entry></row><row><entry>Tyndall (36) 1993</entry><entry>Increased teratogenicity with reduced crown-rump length and craniofacial
+size in C57B1/6J mice exposed to clinically realistic MRI at 1.5-T.</entry></row><row><entry>Yip, et al. (37) 1994</entry><entry>“trend toward higher abnormality and mortality rates..” in chick embryos
+exposed simulated imaging conditions at 1.5-T.</entry></row><row><entry>Carnes, et al. (38) 1996</entry><entry>Fetal weight reduction (11%) in mice exposed to 8 hours in midgestation at
+4.7-T</entry></row><row><entry>Narra, et al. (39) 1996</entry><entry>Reduced spermatogenesis and embryogenesis in Webster mice exposed in-
+utero to 1.5-T for 30-minutes.</entry></row><row><entry>Lee, et al. (40) 2011</entry><entry>3-T MRI induces genotoxic effects (significant increase in the frequency of
+micronuclei and single-strand DNA breaks) in cultured human lymphocytes
+proportional to exposure time.</entry></row></tbody></tgroup></table></sect1>
 </chapter>

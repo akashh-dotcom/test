@@ -16,7 +16,26 @@ Changes in cochlear perception of
 auditory stimuli (intensity and fre-
 quency). Confined to auditory 
 fMRI.
-Table 1.</para><para> Patient Management
+Table 1.</para><table frame="all"><title>MR system-related acoustic noise will interfere with the communication of activation</title><tgroup cols="3"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><thead><row><entry>Mechanism</entry><entry /><entry>Characteristics</entry></row></thead><tbody><row><entry>Direct confounding</entry><entry>Intra-acquisition response</entry><entry>Activation by scanner noise within
+same volume acquisition. Prima-
+rily interfering with auditory
+fMRI.</entry></row><row><entry /><entry>Inter-acquisition response</entry><entry>Activation by scanner noise of
+preceding volume acquisition.
+Primarily interfering with auditory
+fMRI.</entry></row><row><entry>Indirect confounding</entry><entry>Attention</entry><entry>Increased activation in attention-
+related cortical areas.</entry></row><row><entry /><entry>Distraction</entry><entry>Decreased activation in cortical
+areas by (inter-modal) distraction.</entry></row><row><entry /><entry>Habituation</entry><entry>Slowly developing adaption-re-
+lated loss of attention. May be ad-
+vantageous in noisy environments.</entry></row><row><entry /><entry>Motion artifacts</entry><entry>Not substantially related to scan-
+ner noise.</entry></row><row><entry /><entry>Masking</entry><entry>Overlap of spectral components of
+scanner noise and auditory stimuli.
+Confined to auditory fMRI.</entry></row><row><entry /><entry>Stapedial muscle reflex</entry><entry>Changes in cochlear perception of
+auditory stimuli (intensity and fre-
+quency). Confined to auditory
+fMRI.</entry></row><row><entry /><entry>Temporary hearing loss</entry><entry>Changes in cochlear perception of
+auditory stimuli (intensity and fre-
+quency). Confined to auditory
+fMRI.</entry></row></tbody></tgroup></table><para> Patient Management
 161
 Sound Pressure Level (dB)
 Typical Sound Sources
@@ -40,7 +59,7 @@ Typical office
 Whisper
 0
 Threshold of hearing
-Table 2.</para><para>on  
+Table 2.</para><table frame="all"><title>Sound pressure level for some typical sources of acoustic noise.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Sound Pressure Level (dB)</entry><entry>Typical Sound Sources</entry></row></thead><tbody><row><entry>140</entry><entry>Threshold of pain</entry></row><row><entry>130</entry><entry>Pneumatic drill</entry></row><row><entry>120</entry><entry>Chainsaw</entry></row><row><entry>110 -120</entry><entry>Car horn at 1-meter</entry></row><row><entry>80 - 90</entry><entry>Inside a bus</entry></row><row><entry>70 - 80</entry><entry>Traffic at street corner</entry></row><row><entry>60 - 70</entry><entry>Normal voice</entry></row><row><entry>50 - 60</entry><entry>Typical office</entry></row><row><entry>30</entry><entry>Whisper</entry></row><row><entry>0</entry><entry>Threshold of hearing</entry></row></tbody></tgroup></table><para>on  
  
 where teff is the duration of the dB/dt pulse (Figure 19). Alternatively, an E-field 
 rheobase of 2.2-V/m may be used. 
@@ -239,7 +258,8 @@ where AP, HF, and</para></sect1>
       <para>The management of exposure to acoustic noise for the <emphasis role="bold"><emphasis role="italics">general public</emphasis></emphasis> is covered by the  Management of Health and Safety at Work (1999) (81), but, since the general public does  not have access to the controlled area or MR system room, again, the risks are low. European  guidance is published as directive 2013/35/EU (82) and has similar limits and action levels  to those in the UK.</para>
       <para>In the United States (U.S.), occupational limits are mandated by the Occupational Safety  and Health Authority (OSHA) (83) and have also been adopted by the Food and Drug Ad- ministration (FDA) (84). OSHA guidance is geared towards traditional ‘heavy’ industries  where there are very noisy environments and medium-to-high risk to hearing. Their list of  affected industries does not include MRI/Healthcare. Now somewhat outdated, the OSHA  guidelines apply to a slightly raised action level of 90-dBA (daily or eight-hour average) in  line with the older UK guidance (85).</para>
       <para>Current UK guidance on noise exposure limits for MRI <emphasis role="bold"><emphasis role="italics">patients and volunteer subjects</emphasis></emphasis>  (including staff members) is presented in the MHRA guidelines (86). For patients and vol- unteer subjects, it suggests hearing protection should always be offered unless noise levels  are proven to be below 80-dBA. Hearing protection should reduce levels at the ear to below  85-dBA. The recommended action levels are based on the noise at work regulations (72)  and are shown in <emphasis role="bold">Table 3</emphasis>. The International Commission on Non-Ionizing Radiation Pro- tection (ICNIRP) (87, 88) notes the range of guidance from the International Electrotech- nical Commission (IEC) (89), but accepts the need for a conservative approach to protect  vulnerable patient groups, also recommending the MHRA action levels. The MHRA docu- ment shows the relationship between the acoustic noise level and time necessary to reach  the daily action level (86) (<emphasis role="bold">Table 3</emphasis>). Recommendations for acoustic noise and hearing pro- tection are, as follows (86):</para>
-      <para>The use of hearing protection is highly recommended. Protection should be avail- • able and all patients and volunteers should be encouraged to use it. Protection  should always be worn by vulnerable patients.</para>
+      <table frame="all"><title>The International Commission on Non-Ionizing Radiation Pro-</title><tgroup cols="3"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><thead><row><entry>Action Level</entry><entry>Daily or Weekly Personal
+Exposure dB(A) (average value)</entry><entry>Peak Sound Pressure, dB</entry></row></thead><tbody><row><entry>Lower exposure value</entry><entry>80</entry><entry>135</entry></row><row><entry>Upper exposure value</entry><entry>85</entry><entry>137</entry></row><row><entry>Exposure limit values</entry><entry>87</entry><entry>140</entry></row></tbody></tgroup></table><para>The use of hearing protection is highly recommended. Protection should be avail- • able and all patients and volunteers should be encouraged to use it. Protection  should always be worn by vulnerable patients.</para>
       <para>Protection should reduce noise level at the ear to below 85 dBA. For the nosiest  • circumstances, earplugs and muffs can be used together.</para>
       <para>Staff should be trained in the selection and fitting of hearing protection. Protec- • tion should be selected to match the noise frequency spectrum of the scanner. Im- plicitly, this must, therefore, be known.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">171</emphasis></para>

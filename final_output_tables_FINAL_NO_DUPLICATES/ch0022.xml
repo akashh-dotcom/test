@@ -496,7 +496,27 @@
       </figure>
       <para><emphasis role="bold">Comparison of Calculated Rises in the Phantom Tests </emphasis></para>
       <para><emphasis role="bold">Table 1</emphasis> lists measured and calculated rises for the three leads in the straight-line path  in the phantom. The calculated rises are based on the transfer functions in <emphasis role="bold">Figure 14</emphasis> and  the <emphasis role="italics">E</emphasis><emphasis role="italics">tan</emphasis> along the lead that is shown in <emphasis role="bold">Figure 7</emphasis>. <emphasis role="bold">Table 2</emphasis> lists measured and calculated tem- perature rises for the leads in the U-path in the rectangular phantom. The difference between  the calculated and measured rises is less that 5% of the rise Δ<emphasis role="italics">T</emphasis><emphasis role="italics">max</emphasis> that would occur if the  transfer function and incident electric field were in phase conjugation.</para>
-      <para><emphasis role="bold">Discussion on </emphasis><emphasis role="bold"><emphasis role="italics">In-vitro</emphasis></emphasis><emphasis role="bold"> Tests for Determination of the Transfer Function </emphasis></para>
+      <table frame="all"><title>Measured and calculated temperature rises for the vagus nerve stimulation</title><tgroup cols="5"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><thead><row><entry>Termination</entry><entry>Measured
+ΔT Straight
+°C</entry><entry>Calculated
+ΔT Straight
+°C</entry><entry>Calculated
+ΔT
+max
+°C</entry><entry>Measured vs.
+Calculated ΔT %
+of ΔT
+max</entry></row></thead><tbody><row><entry>Capped Lead</entry><entry>*77.0</entry><entry>76.3</entry><entry>109.3</entry><entry>0.6</entry></row><row><entry>Uncapped Lead</entry><entry>24.8</entry><entry>24.5</entry><entry>74.6</entry><entry>0.4</entry></row><row><entry>Pulse Generator</entry><entry>10.8</entry><entry>13.9</entry><entry>69.6</entry><entry>-4.4</entry></row></tbody></tgroup></table><table frame="all"><title>Measured and calculated temperature rises for the vagus nerve stimulation lead</title><tgroup cols="5"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><thead><row><entry>Termination</entry><entry>Measured
+ΔT U-Path
+°C</entry><entry>Calculated
+ΔT U-Path
+°C</entry><entry>Calculated
+ΔT
+max
+°C</entry><entry>Measured vs.
+Calculated ΔT %
+of ΔT
+max</entry></row></thead><tbody><row><entry>Capped Lead</entry><entry>24.7</entry><entry>24.3</entry><entry>89.0</entry><entry>0.4</entry></row><row><entry>Uncapped Lead</entry><entry>47.0</entry><entry>47.0</entry><entry>69.3</entry><entry>0.0</entry></row><row><entry>Pulse Generator</entry><entry>*59.0</entry><entry>58.6</entry><entry>72.6</entry><entry>0.5</entry></row></tbody></tgroup></table><para><emphasis role="bold">Discussion on </emphasis><emphasis role="bold"><emphasis role="italics">In-vitro</emphasis></emphasis><emphasis role="bold"> Tests for Determination of the Transfer Function </emphasis></para>
       <para>The tests described herein provide a robust assessment of the transfer function for the  Model 303 lead and the three termination conditions. Three of the tests provide independent</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">593</emphasis></para>
       <para><emphasis role="bold">Figure 13.</emphasis> The solid line is the calculated magnitude of the transfer function from the S21  tests. The points are the transfer function magnitude measured from temperature rises at  the electrodes of the lead (Cyberonics, Inc. and LivaNova).</para>
@@ -670,7 +690,14 @@
       <para>At sufficiently high frequency, the incident dB/dt does not completely penetrate the im- plant due to the induced reaction eddy currents in the implant. The depth of the penetration  is of the order of the electrical skin depth, <emphasis role="italics">δ</emphasis>, a concept that is discussed in many standard  textbooks on electromagnetism.  The formula for the skin depth is</para>
       <para>where f is the frequency, <emphasis role="italics">µ</emphasis> is the magnetic permeability, and <emphasis role="italics">σ</emphasis> is the electrical conduc- tivity. For paramagnetic medical grade implants, <emphasis role="italics">µ</emphasis> is essentially equal to the permeability  of free space = 4 π x 10<superscript>-7</superscript> <emphasis role="italics">H / m</emphasis>.</para>
       <para><emphasis role="bold">Figure 23</emphasis> and <emphasis role="bold">Table 3</emphasis> provide information on electrical skin depths at different fre- quencies for alloys typically used for medical implants. Skin depth, δ, is generally compa- rable to or greater than implant dimensions at gradient frequencies but tends to be smaller  than implant dimensions at the RF frequencies.</para>
-      <figure>
+      <table frame="all"><title>Electrical skin depths for medical alloys. 270-Hz is the default (Tier 1) fre-</title><tgroup cols="6"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><colspec colname="c6" /><thead><row><entry>Material</entry><entry>Electrical
+conductivity
+(S/m)</entry><entry>δ @ 270 Hz
+(mm)</entry><entry>δ @ 1750 Hz
+(mm)</entry><entry>δ @ 64 MHz
+(mm)</entry><entry>δ @ 128 MHz
+(mm)</entry></row></thead><tbody><row><entry>Ti 6Al 4 V</entry><entry>5.9 x 105</entry><entry>39.9</entry><entry>15.7</entry><entry>0.082</entry><entry>0.058</entry></row><row><entry>CoCr L605</entry><entry>9.8 x 105</entry><entry>30.9</entry><entry>12.2</entry><entry>0.064</entry><entry>0.045</entry></row><row><entry>Stainless Steel 316
+LVM</entry><entry>1.35 x 106</entry><entry>26.4</entry><entry>10.4</entry><entry>0.054</entry><entry>0.038</entry></row><row><entry>CP Ti</entry><entry>2.0 x 106</entry><entry>21.7</entry><entry>8.5</entry><entry>0.044</entry><entry>0.031</entry></row></tbody></tgroup></table><figure>
         <title />
         <mediaobject>
           <imageobject>
