@@ -65,7 +65,6 @@
             <publishername>Biomedical Research Publishing Group</publishername>
         </publisher>
         <pubdate>2022</pubdate>
-        <edition>Second Edition</edition>
         <copyright>
             <year>2022</year>
             <holder>Biomedical Research Publishing Group and Shellock R &amp; D Services, Inc.</holder>
@@ -73,14 +72,14 @@
     </bookinfo>
     
     &toc;
-    
+
     &pr0001;
     &pr0002;
     &pr0003;
     &pr0004;
     &pr0005;
     &pr0006;
-    
+
     &ch0001;
     &ch0002;
     &ch0003;
