@@ -1,0 +1,1079 @@
+<?xml version='1.0' encoding='utf-8'?>
+<chapter id="ch0004" label="4">
+    <title>Chapter 4</title>
+    <para><emphasis role="bold">Chapter 4</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields  </emphasis></para>
+    <sect1 id="ch0004s01">
+      <title>ALAYAR KANGARLU, PH.D.</title>
+      <para>Director of MRI Physics  Columbia University  New York, NY</para>
+    <para>ing physiological effects of 
+static magnetic fields on biological tissues have not been sufficiently quantified because 
+the observable effects on tissues are relatively small and it is difficult to estimate the static 
+magnetic field strengths at which these may become substantial hazards (Table 1</para><para>However, since the development and manufacturing of powerful magnets, scientists 
+have begun to understand the mechanisms of interactions with biological tissues at different 
+levels. To date, the strongest of these effects is the attractive force on ferromagnetic materials 
+which demonstrates the m</para><table frame="all"><title>) (3).</title><tgroup cols="4"><tbody><row><entry>ducted on UHF MR systems (5-10).</entry><entry>Importantly, as the number of high-field (HF) scanners</entry><entry /><entry /></row><row><entry>(i.e., less than 3-T) increases in clinical settings and the number of UHF MR systems (higher</entry><entry /><entry /><entry /></row><row><entry>than 4-T) increases in research and clinical facilities, the opportunity is created for more</entry><entry /><entry /><entry /></row><row><entry>MRI Bioeffects, Safety, and Patient Management</entry><entry /><entry /><entry /></row><row><entry>97</entry><entry /><entry /><entry /></row><row><entry>Table 1. Comparison of the physical effects of the various fields applied to patients dur-</entry><entry /><entry /><entry /></row><row><entry>ing MRI.</entry><entry /><entry /><entry /></row><row><entry>Type of Field</entry><entry /><entry /><entry /></row><row><entry>Physical Limitation on Human Exposure</entry><entry /><entry /><entry /></row><row><entry>Static Magnetic Fields</entry><entry /><entry /><entry /></row><row><entry>Unknown</entry><entry /><entry /><entry /></row><row><entry>Gradient Magnetic Fields</entry><entry /><entry /><entry /></row><row><entry>Peripheral Nerve Stimulation1,2</entry><entry /><entry /><entry /></row><row><entry>Radiofrequency Fields</entry><entry /><entry /><entry /></row><row><entry>Tissue Heating1</entry><entry /><entry /><entry /></row><row><entry>1 The origin of both effects can be attributed to the electric field that accompanies all time-dependent mag-</entry><entry /><entry /><entry /></row><row><entry>netic fields and not the static magnetic field, itself.</entry><entry /><entry /><entry /></row><row><entry>2 Both the rate of change of the field and the duration of the change must be above threshold values for stimu-</entry><entry /><entry /><entry /></row><row><entry>lation to occur.</entry><entry /><entry /><entry /></row><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:16 PM</entry><entry>Page 97</entry></row></tbody></tgroup></table><para>y requirement of MR systems.   
+Cylindrical superconducting geometries are the most abundant form of “closed” scan-
+ners, while permanent and hybrid magnets are often used for “open” MR systems. An ac-
+count of the dates when MR systems with various magnetic fields were debuted is listed in 
+Table 2</para><para>eases in field strength has been 
+presented but it is not meant to be a catalogue of improvement in all aspects of magnet tech-
+nology.   
+In assimilation of new MRI technology, three factors have dominated the introduction 
+of new scanners: engineering innovation, safety, and an advantage in clinic</para><para>Risks Posed By Translational Forces And Torques 
+Since ellipsoids of revolution illustrate most of the important features of magnetic in-
+teraction with matter, a summary of the expressions for the quantities derived in this chapter 
+including magnetic energy, force and torque are listed in Table 3.</para><para>of these expressions for extreme values of the susceptibility predict behaviors that are qual-
+itatively different from one other. Designating the demagnetizing factor along the axis of 
+symmetry of the object as Da and the radial demagnetizing factor in the transverse direction 
+as Dr from the earl</para><table frame="all"><title>Also, the asymptotic limits</title><tgroup cols="4"><tbody><row><entry>as Dr from the earlier discussion, we have Da + 2 Dr = 1.</entry><entry>The relative values of Da and Dr</entry><entry /><entry /></row><row><entry>offer simple results with powerful implications. For needle-like ellipsoids with one very</entry><entry /><entry /><entry /></row><row><entry>long axis of symmetry and isotropic radial directions, Da → 0 and Dr → ½. For a sphere,</entry><entry /><entry /><entry /></row><row><entry>Da = Dr = 1/3. For flat ellipsoids, Da → 1 and Dr → 0. These case examples are useful to</entry><entry /><entry /><entry /></row><row><entry>MRI Bioeffects, Safety, and Patient Management</entry><entry /><entry /><entry /></row><row><entry>111</entry><entry /><entry /><entry /></row><row><entry>Table 3. Magnetic properties of ellipsoids of revolution.</entry><entry /><entry /><entry /></row><row><entry>Qty</entry><entry /><entry /><entry /></row><row><entry>Full Expression</entry><entry /><entry /><entry /></row><row><entry>Soft Magnetic</entry><entry /><entry /><entry /></row><row><entry>Materials</entry><entry /><entry /><entry /></row><row><entry>χDa, χDr &gt;&gt; 1</entry><entry /><entry /><entry /></row><row><entry>“Non-Magnetic”</entry><entry /><entry /><entry /></row><row><entry>Materials</entry><entry /><entry /><entry /></row><row><entry>|χ| &lt;&lt; 1</entry><entry /><entry /><entry /></row><row><entry>U</entry><entry /><entry /><entry /></row><row><entry>Fz</entry><entry /><entry /><entry /></row><row><entry>Mx</entry><entry /><entry /><entry /></row><row><entry>Mz</entry><entry /><entry /><entry /></row><row><entry>τy</entry><entry /><entry /><entry /></row><row><entry>The first column gives the complete expression for the magnetic potential energy (U), force (Fz), magnetiza-</entry><entry /><entry /><entry /></row><row><entry>tion (Mx and Mz) and torque (Ty) for an ellipsoid of revolution in a magnetic field along the z-axis. The sym-</entry><entry /><entry /><entry /></row><row><entry>metry axis is in the x-direction and θ is the angle between this axis and the magnetic field. The second</entry><entry /><entry /><entry /></row><row><entry>column gives approximations appropriate for soft magnetic materials and the third column gives approxima-</entry><entry /><entry /><entry /></row><row><entry>tions appropriate to materials, such as biological tissues, with very small susceptibilities. For objects inside a</entry><entry /><entry /><entry /></row><row><entry>medium of uniform susceptibility, such as water or tissue with χ = χH2O, χ should be replaced by</entry><entry /><entry /><entry /></row><row><entry>Δχ = χ - χH2O . It is assumed that Bz is the only non-zero component of Bo at the location of the object and</entry><entry /><entry /><entry /></row><row><entry>that the spatial derivatives of the transverse components,</entry><entry /><entry /><entry /></row><row><entry>, etc. are all zero. This is the case</entry><entry /><entry /><entry /></row><row><entry>along the central axis of the magnets commonly used in MRI. At other points in the field, there may be non-</entry><entry /><entry /><entry /></row><row><entry>zero force components in addition to Fz, but the qualitative physical principles are unchanged.</entry><entry /><entry /><entry /></row><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:16 PM</entry><entry>Page 111</entry></row></tbody></tgroup></table><para>ndence and a 
+maximum value occurs near the center of the magnet, where the axis of the paper clip is at 
+a direction of 45-degrees with respect to the z-axis of the magnetic field. 
+A close examination of the behavior of biological tissues, with |χ| &lt;&lt; 1 by using the ex-
+pressions listed in Table 3</para><para>ting on these 
+tissues is proportional to χ2. Due to the opposite signs of the susceptibilities of diamagnetic 
+and paramagnetic materials, they are expected to point in opposite directions when lined 
+114
+Bioeffects of Static Magnetic Fields
+BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="all"><title>, this list includes but is not</title><tgroup cols="4"><tbody><row><entry>IM = intramuscular; IV = intravenous; SC =</entry><entry>subcutaneous</entry><entry /><entry /></row><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/8/2021</entry><entry>3:53 AM</entry><entry>Page 338</entry></row></tbody></tgroup></table><table frame="all"><title>Comparison of the physical effects of the various fields applied to patients dur-</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Column 1</entry><entry>Column 2</entry></row></thead><tbody><row><entry>Table 1</entry><entry>See PDF for complete content</entry></row></tbody></tgroup></table><table frame="all"><title>Historical development of MRI-related static magnetic field strengths (Data</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Column 1</entry><entry>Column 2</entry></row></thead><tbody><row><entry>Table 2</entry><entry>See PDF for complete content</entry></row></tbody></tgroup></table><table frame="all"><title>Magnetic properties of ellipsoids of revolution.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Column 1</entry><entry>Column 2</entry></row></thead><tbody><row><entry>Table 3</entry><entry>See PDF for complete content</entry></row></tbody></tgroup></table></sect1>
+    <sect1 id="ch0004s02">
+      <title>INTRODUCTION</title>
+      <para>Among the three different electromagnetic fields associated with magnetic resonance  imaging (MRI), the static magnetic field has always been a primary focus of safety consid- erations. The need for intermittent exposure to the powerful static magnetic field of the MR  system is at the base of safety concerns, from the pioneers working on developing nuclear  magnetic resonance (NMR), to the diagnostic imaging technique that is currently used today,  as MRI. Since the early 1970s, when Raymond Damadian’s pioneering work on animal  tumor imaging and Paul Lauterbur’s application of gradient magnetic fields in combination  with a strong magnetic field to generate images marked the birth of MRI (1, 2), the safety  implications for human subjects have been a constant preoccupation of practitioners (1, 2).   This is the case even though there have been no unpreventable safety incidents for patients  and others in the MRI environment (3). The safety record of scanning hundreds of millions  of human subjects imaged in MR systems worldwide indicates a relative lack of inherent  risk associated with MRI.</para>
+      <para>Although the static magnetic field (B0) is not the only source of safety concern, the  other two, that is, the gradient magnetic fields (dB/dt) and the radiofrequency (RF) fields  (B1), warrant their own safety evaluations. Considering that all three of these electromag- netic fields act simultaneously on the human body during MRI, understanding their inter- actions constitutes the first order of business in quantifying safety implications. In so doing,  in the present chapter, there will be an exclusive focus on the task of understanding the in- teractions of static magnetic fields with the human body. The other two, radiofrequency  fields and gradient magnetic fields, are easier to quantify since a large part of their interac- tions is a manifestation of Faraday’s Law of Induction. These effects are functions of easily  controlled characteristics of transmit RF coils and the gradient magnetic fields, such as am- plitude and frequency.  It is inherently easier to build a transmit RF coil operating at high  frequencies greater than 300-MHz and gradients operating at greater than 50-mT/m with  slew rates of higher than 200-T/m/s than to build a whole-body magnet operating at greater</para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 96</para>
+      <para>than 7-Tesla (T). Furthermore, computations of specific absorption rate (SAR) and con- comitant RF-induced tissue heating or gradient field-induced voltage and associated neu- rostimulation are readily carried out. By comparison, the limiting physiological effects of  static magnetic fields on biological tissues have not been sufficiently quantified because  the observable effects on tissues are relatively small and it is difficult to estimate the static  magnetic field strengths at which these may become substantial hazards (<emphasis role="bold">Table 1</emphasis>) (3).</para>
+      <para>However, since the development and manufacturing of powerful magnets, scientists  have begun to understand the mechanisms of interactions with biological tissues at different  levels. To date, the strongest of these effects is the attractive force on ferromagnetic materials  which demonstrates the most ominous of all safety risks to the life and wellbeing of patients  and other individuals (4, 5). Notably, this effect, also known as the projectile or missile ef- fect, is a secondary effect meaning that it is easily avoidable and is not inherent to the in- teraction of the static magnetic field with the human body. As far as the hazards associated  with intrinsic interactions, the scientific community has yet to establish an upper limit for  the static magnetic field designed for exposure of human subjects. Considering the difficulty  of building whole-body magnets operating at field strengths much higher than currently  recommended by the United States Food and Drug Administration (FDA), presently stand- ing at 8-Tesla (5), it is conceivable that there would be many opportunities and available  hardware to characterize such effects. Proliferation of 7-T whole-body magnets (subsequent  to the success of the 8-T scanner, designed by the team at the Ohio State University in 1998)  has offered a fertile ground to study the interactions of static magnetic fields with biological  tissues using all available techniques, in addition to the imaging capabilities that such scan- ners afford the scientists and clinicians. The safe operation of the more than eighty 7-T re- search and clinical MR systems around the world has encouraged scientists to dream of  even higher field strengths. NeuroSpin in Orsay, France, and the National Institutes of  Health (NIH) now have 11.7-T, whole-body MR systems. The successful move to the ultra- high-field (UHF), 11.7-T scanner was undoubtedly the result of the invaluable information  that was gained from the exposure of thousands of human subjects to 7-, 8-, 9.4-, and 10.5- T static magnetic fields since 1998. To date, numerous safety investigations have been con- ducted on UHF MR systems (5-10).  Importantly, as the number of high-field (HF) scanners  (i.e., less than 3-T) increases in clinical settings and the number of UHF MR systems (higher  than 4-T) increases in research and clinical facilities, the opportunity is created for more</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">97</emphasis></para>
+      <para><emphasis role="bold">Table 1.</emphasis> Comparison of the physical effects of the various fields applied to patients dur- ing MRI.</para>
+      <table frame="all">
+            <title>Untitled</title>
+            <tgroup cols="2">
+              <colspec colname="c1" />
+              <colspec colname="c2" />
+              <thead>
+                <row>
+                  <entry>Type of Field</entry>
+                  <entry>Physical Limitation on Human Exposure</entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry>Static Magnetic Fields</entry>
+                  <entry>Unknown</entry>
+                </row>
+                <row>
+                  <entry>Gradient Magnetic Fields</entry>
+                  <entry>Peripheral Nerve Stimulation1,2</entry>
+                </row>
+                <row>
+                  <entry>Radiofrequency Fields</entry>
+                  <entry>Tissue Heating1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table><para><emphasis role="bold">Type of Field</emphasis> <emphasis role="bold">Physical Limitation on Human Exposure</emphasis></para>
+      <para>Static Magnetic Fields Unknown</para>
+      <para>Gradient Magnetic Fields Peripheral Nerve Stimulation<superscript>1,2</superscript></para>
+      <para>Radiofrequency Fields Tissue Heating<superscript>1</superscript></para>
+      <para>1 The origin of both effects can be attributed to the electric field that accompanies all time-dependent mag- netic fields and not the static magnetic field, itself.  2 Both the rate of change of the field and the duration of the change must be above threshold values for stimu- lation to occur.</para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 97</para>
+      <para>complex safety studies to investigate the interactions of powerful magnets with matter at  molecular, cellular, tissue, and systems levels.</para>
+    <table frame="all">
+            <title>Untitled</title>
+            <tgroup cols="5">
+              <colspec colname="c1" />
+              <colspec colname="c2" />
+              <colspec colname="c3" />
+              <colspec colname="c4" />
+              <colspec colname="c5" />
+              <thead>
+                <row>
+                  <entry>Field Strength (Tesla)</entry>
+                  <entry>Date of Introduction</entry>
+                  <entry>Institution</entry>
+                  <entry>Type</entry>
+                  <entry>Comments</entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry>0.05 to 0.10</entry>
+                  <entry>1977</entry>
+                  <entry>State University of New York, Brooklyn</entry>
+                  <entry>Superconducting</entry>
+                  <entry>This MR system produced an early image of the human thorax.</entry>
+                </row>
+                <row>
+                  <entry>0.7</entry>
+                  <entry>1977</entry>
+                  <entry>University of Nottingham</entry>
+                  <entry>Iron core electromagnet</entry>
+                  <entry>This machine, with a 13-cm gap, produced an early wrist image.</entry>
+                </row>
+                <row>
+                  <entry>0.04</entry>
+                  <entry>1980</entry>
+                  <entry>Aberdeen</entry>
+                  <entry>Air core electromagnet</entry>
+                  <entry>This machine was used for the first clinical MRI studies.</entry>
+                </row>
+                <row>
+                  <entry>0.35</entry>
+                  <entry>1981</entry>
+                  <entry>Hammersmith, Diasonics</entry>
+                  <entry>Whole-body, superconducting</entry>
+                  <entry>These MR systems were the first whole-body superconducting scanners.</entry>
+                </row>
+                <row>
+                  <entry>1.5</entry>
+                  <entry>1982</entry>
+                  <entry>General Electric</entry>
+                  <entry>Whole-body, superconducting</entry>
+                  <entry>Whole-body MR systems at 1.5-T have been in widespread clinical use since the mid-1980s.</entry>
+                </row>
+                <row>
+                  <entry>3.0, 4.0</entry>
+                  <entry>1987</entry>
+                  <entry>Siemens, General Electric, Philips</entry>
+                  <entry>Whole-body, superconducting</entry>
+                  <entry>During the late 1990s 3-T and 4-T scanners became widely available at research institutions.</entry>
+                </row>
+                <row>
+                  <entry>8</entry>
+                  <entry>1998</entry>
+                  <entry>Ohio State University</entry>
+                  <entry>Whole-body, superconducting</entry>
+                  <entry>MR system was used for UHF safety studies.</entry>
+                </row>
+                <row>
+                  <entry>9.4</entry>
+                  <entry>2004</entry>
+                  <entry>University of Illinois</entry>
+                  <entry>Whole-body, superconducting</entry>
+                  <entry>MR system used for research.</entry>
+                </row>
+                <row>
+                  <entry>10.5</entry>
+                  <entry>2018</entry>
+                  <entry>University of Minnesota</entry>
+                  <entry>Whole-body, superconducting</entry>
+                  <entry>MR system used for research.</entry>
+                </row>
+                <row>
+                  <entry>11.7</entry>
+                  <entry>2020</entry>
+                  <entry>National Institutes of Health, Bethesda, MD and NeuroSpin, Orsay, France</entry>
+                  <entry>Whole-body, superconducting</entry>
+                  <entry>MR system used for research.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table></sect1>
+    <sect1 id="ch0004s03">
+      <title>HISTORICAL PERPECTIVE</title>
+      <para>Over more than a century of recorded research on the effect of static magnetic fields  on human subjects, there have been many publications (11-98). These works have shown  that no verifiable harmful effect can be attributed to exposure to strong static magnetic  fields. This is predominantly attributed to the diamagnetic nature of human tissues and the  small number of paramagnetic elements present in the human body. Nevertheless, the fact  that, following the introduction of MRI as a dominant medical imaging device, an even  larger segment of the human population is being exposed to powerful magnetic fields each  year, warranting additional research in this field. It is conceivable that, as MRI becomes  available to more developing countries, there will come a time that most human beings will  be exposed to strong magnetic fields at some point in their lives.</para>
+      <para>There have been few reports of deaths associated with the MRI environment (99-101).  A close examination of these fatalities reveals that they were all caused by controllable fac- tors and involved implanted or other extraneous devices that interacted strongly with the  MR system’s static magnetic field. Knowing that life on our planet is formed in the magnetic  field of about 0.5-Gauss indicates that the probable interaction of molecules building life  with the magnetic field at this field strength is incorporated into the structure and function  of biological tissues. Although the earth’s magnetic field is relatively weak, it is sufficient  to put a proton of hydrogen into a precession of approximately 2-kHz. Thus, the Larmor  precession that takes into account the torque imparted on nuclear spins and formulates their  rotational motion will allow the use of the gyromagnetic ratio (γ) of a hydrogen proton to  yield its frequency of rotation. This magnetic effect is the basis of the mechanism of signal  generation in MRI.</para>
+      <para>Attraction by natural magnets had been discovered and cited in many ancient treatises  (11). Chinese, Greek, and Persian scientists discovered the unique properties of magnets  and offered various treatments for diseases more than a thousand years ago (102, 103).  However, since natural ores can produce magnets with a field strength of less than 0.5-T,  these materials do not have very high magnetic polarization. Furthermore, the field distri- butions of natural magnets are inhomogeneous, producing a strong field in small regions  unsuitable for observation of any effects that would otherwise require establishing strong  fields in larger areas. This is why magnets were not used in many tools before the 19<superscript>th</superscript> cen- tury. Electromagnets provided the opportunity of manufacturing magnets stronger than 1- T, but the resistive heat in these magnets placed an upper limit on their applications.</para>
+      <para>At the present time, the most powerful electromagnet in the world generates a contin- uous magnetic field of 35-T, which is a Bitter magnet located at the U.S. National High  Magnetic Field Laboratory in Tallahassee, Florida. Such magnets allow scientists to study  exotic effects exhibited by matter only under extreme conditions. The possibility that metal- lic hydrogen may be a superconductor at room temperature was put forward in 1968, and  its potential technological applications initiated interest in even stronger magnets. Because  compact high field magnets made of high temperature superconductors may offer highly</para>
+      <para><emphasis role="bold">98</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 98</para>
+      <para>efficient transportation systems and quantum leaps in the computational power of comput- ers, research on the health implications of strong magnets go well beyond their application  to MR scanners. Today, the magnets used for MR systems utilize special Niobium-Titanium  alloys, which are capable of producing magnetic fields up to approximately 10-Tesla at liq- uid helium temperatures (104). These so-called type II superconductors are only one class  of alloys that reveal superconductivity at cryogenic temperatures. Other materials, such as  bismuth alloys, have been used to construct test coils that can achieve 32-Tesla. While strong  magnets have been built for research in charged particle accelerators and in electromagnetic  ore extraction, their use has not produced a widespread exposure of human subjects to such  magnetic fields. The introduction of MRI as the standard of medical diagnosis started the  era of pervasive human exposure to strong magnetic fields in the early 1980s.</para>
+      <para>From the time of magnetotherapy, when magnets were used for therapeutic purposes,  some scientists believed in the treatment capability of magnetic effects on the body. Cen- turies ago, magnets were used for their presumed effectiveness in remedying headache,  pain, and other conditions (105). However, in considertion of the diamagnetic property of  human tissues, the interaction with magnetic fields is negligible for most tissues. Because  of its iron content and different susceptibility state between oxyhemoglobin and deoxyhe- moglobin, there is a slight magnetic interaction with hemoglobin. However, this effect has  not been large enough for bulk measurement other than its effect on functional MR images,  or fMRI. The need for a high static magnetic field and high homogeneity in MR systems  requires that these magnets be much larger to simply produce a given field strength. MR  scanner magnets are designed to produce a field homogeneity on the order of 10 parts per  million (ppm) over the diameter of spherical volumes (DSV) of 50-cm. Producing a highly  homogeneous DSV50 with a solenoid magnet is the primary requirement of MR systems.</para>
+      <para>Cylindrical superconducting geometries are the most abundant form of “closed” scan- ners, while permanent and hybrid magnets are often used for “open” MR systems. An ac- count of the dates when MR systems with various magnetic fields were debuted is listed in  <emphasis role="bold">Table 2 </emphasis>(106-115). In this table, the timing of major increases in field strength has been  presented but it is not meant to be a catalogue of improvement in all aspects of magnet tech- nology.</para>
+      <para>In assimilation of new MRI technology, three factors have dominated the introduction  of new scanners: engineering innovation, safety, and an advantage in clinical diagnostics.  The complexity of scientific, financial, and technical factors involved in justifying, funding,  and manufacturing whole-body scanners with ever higher field strengths is indicated by the  eleven years that were required from the installation of the first 4-T human scanners to the  introduction of the first 8-T whole-body MR system (98).</para>
+      <para>Currently, a 9.4-T whole-body MR system is located at the University of Illinois and a  10.5-T whole-body scanner exists at the University of Minnesota. The most powerful MR  systems in the world, which operate at 11.7-T, have been installed at the National Institutes  of Health and at NeuroSpin in Orsay, France. Thus, the increasing the range of proton fre- quency for the use of MR scanners in human subjects has moved towards 500-MHz. The  economics of magnet technology and the scientific capabilities and image resolution of MR  systems are on the opposite sides of the trend toward higher field strengths. In one analysis</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">99</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 99</para>
+      <para>published in 2002 that was based on sales activity at that time, it was predicted that 3-T  would displace 1.5-T MR systems and become the dominant field strength by 2012 (115).  This prediction has only been realized to a certain degree, as approximately one-quarter of  new installations in 2012 were at 3-T. By the same token, UHF units are being installed in  more research facilities and, as their technological challenges are met, they will provide the</para>
+      <para><emphasis role="bold">100</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para><emphasis role="bold">Table 2.</emphasis> Historical development of MRI-related static magnetic field strengths (Data  adapted from references 63, 65, 76, 77, 93-101).</para>
+      <para><emphasis role="bold">Field </emphasis> <emphasis role="bold">Strength  </emphasis> <emphasis role="bold">(Tesla)</emphasis></para>
+      <para><emphasis role="bold">Date of  </emphasis> <emphasis role="bold">Introduction</emphasis> <emphasis role="bold">Institution</emphasis> <emphasis role="bold">Type</emphasis> <emphasis role="bold">Comments</emphasis></para>
+      <para>0.05 to 0.10 1977</para>
+      <para>State University   of New York,   Brooklyn</para>
+      <para>Superconducting</para>
+      <para>This MR system pro- duced an early image  of the human thorax.</para>
+      <para>0.7 1977 University of   Nottingham</para>
+      <para>Iron core   electromagnet</para>
+      <para>This machine, with a  13-cm gap,   produced an early  wrist image.</para>
+      <para>0.04 1980 Aberdeen Air core   electromagnet</para>
+      <para>This machine was  used for the first clin- ical MRI studies.</para>
+      <para>0.35 1981 Hammersmith,   Diasonics</para>
+      <para>Whole-body,   superconducting</para>
+      <para>These MR systems  were the first whole- body superconduct- ing scanners.</para>
+      <para>1.5 1982 General Electric Whole-body,   superconducting</para>
+      <para>Whole-body MR sys- tems at 1.5-T have  been in widespread  clinical use since the  mid-1980s.</para>
+      <para>3.0, 4.0 1987 Siemens, General  Electric, Philips</para>
+      <para>Whole-body,   superconducting</para>
+      <para>During the late 1990s  3-T and 4-T scanners  became widely avail- able at research   institutions.</para>
+      <para>8 1998 Ohio State   University</para>
+      <para>Whole-body,   superconducting</para>
+      <para>MR system was used  for UHF safety   studies.</para>
+      <para>9.4 2004 University of   Illinois</para>
+      <para>Whole-body,   superconducting</para>
+      <para>MR system used for  research.</para>
+      <para>10.5 2018 University of   Minnesota</para>
+      <para>Whole-body,   superconducting</para>
+      <para>MR system used for  research.</para>
+      <para>11.7 2020</para>
+      <para>National Institutes of  Health, Bethesda,  MD and NeuroSpin,  Orsay, France</para>
+      <para>Whole-body,   superconducting</para>
+      <para>MR system used for  research.</para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 100</para>
+      <para>incentive for pushing field strength beyond 3-T for clinical applications during the next  decade.</para>
+      <para>At this point, it is worth remembering the prediction of early MRI pioneers that declared  MRI a safe modality for scanning humans. That no major, unavoidable incidents have oc- curred in association with MRI is a testimony to the sound basis of analyzing the interactions  of static magnetic fields with human subjects (35-37). Similar studies have been conducted  at UHF ranges, indicating that the magnetic interactions with biological tissues are safe up  to and including 8-T (98). However, it should be noted that the consequence of taking fer- romagnetic materials into the fringe fields of a UHF MR system will create more serious  problems than predicted by many authors (57, 62, 63, 66, 83). Similar facts are at work re- garding medical implants in patients within fringe fields of MR scanners.</para>
+    </sect1>
+    <sect1 id="ch0004s04">
+      <title>INTERACTIONS WITH HUMAN TISSUE</title>
+      <para>The mechanisms of interactions between static magnetic fields and biological tissues  can be used as the basis for assessing the potential damage in human subjects. Understanding  these mechanisms will allow the use of the benefits of MRI while avoiding the possible  hazards of exposure to strong magnetic fields. The major effects that have been researched  to date are described below.</para>
+      <para><emphasis role="bold">Magnetic Forces  </emphasis></para>
+      <para>High magnetic fields will exert an attractive force on tissues with permanent magnetic  dipoles. Tissues with higher magnetic susceptibilities than water will repel diamagnetic ma- terials (116-117). High field regions are centers of attraction and this is a way for separating  tissues with higher paramagnetic susceptibilities. But, this effect is too weak for practical  use in living tissues even in high static magnetic fields. The absence of permanently mag- netized tissues in the human body makes this force of lesser concern in assessing the safety  of these fields, except where materials with permanent magnetic properties are present (e.g.,  ferromagnetic foreign bodies), because they may experience displacement forces in regions  of the spatial gradient magnetic fields.</para>
+      <para>Magnetic forces can produce torque on permanently magnetized materials with an elon- gated shape that will tend to rotate them to align their magnetic moment with the direction  of the magnetic field. As such, magnetic torque will rotate magnetic materials to make the  long axis of the object parallel to the applied field. Foreign bodies that are ferromagnetic  may experience sizable torque, posing even a greater potential hazard than the translational  forces on such materials. For materials with different paramagnetic susceptibilities in dif- ferent directions with respect to the magnetizing field, the anisotropic susceptibility will  lead to torque on the axis of the most positive susceptibility, tending to align it with the  magnetic field. Diamagnetic susceptibility anisotropy (DSA) observed in some materials  has the effect of rotating them to align the axis of least negative susceptibility with the field.  Observation of DSA can only be made <emphasis role="italics">in vitro</emphasis> because the effect is too weak <emphasis role="italics">in vivo</emphasis> for  quantitative measurement.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">101</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 101</para>
+      <para><emphasis role="bold">Flow and Its Consequences </emphasis></para>
+      <para>In the human body, electric fields are normally produced by processes such as the de- polarization of the heart tissue that produces current flow, which is the basis of the electro- cardiogram (ECG). In addition to the normal static field currents producing the ECG, any  motion by the tissue will produce an additional term in the expression for the current density,   <emphasis role="bold">J = </emphasis><emphasis role="bold">σ</emphasis><emphasis role="bold"> (E + v x B)</emphasis> where <emphasis role="bold">v</emphasis> is the velocity of the moving tissue relative to the static magnetic  field. The term, <emphasis role="bold">v x B</emphasis>, is the consequence of motion and can be viewed as a motion-induced  electric field.</para>
+      <para>Motion of conductive tissues within a magnetic field will produce a force perpendicular  to the direction of motion. There are many different types of motions by internal organs in  the human body, including those associated with the respiration, peristalsis, the beating  heart, and blood flow. The currents produced by blood flow in the presence of powerful  magnetic fields are large enough that their effects on body surface potentials have been pro- posed to be used for a flow meter (118-119).</para>
+      <para>The electromotive force (emf) induced as a result of blood flow in the heart produces  a large signal during the T-wave phase of the cardiac cycle. In the 1960s, it was shown that  electrocardiograms of monkey hearts in strong magnetic fields displayed a field-induced  amplified T-wave (44). Subsequent studies have shown this T-wave amplification is the re- sult of blood flow and not from a direct magnetic field effect on cardiac muscle (120-121).  This effect is easily demonstrated in patients in clinical, high-field MR systems and con- tributes to the difficulty in obtaining acceptable electrocardiograms during MRI procedures.</para>
+      <para>Dependence of the induced emf on the velocity of blood flow and the strength of the  static magnetic has been visualized in humans at field strengths as high as 8-Tesla (98). Im- portantly, there is no evidence of flow-induced nerve or muscle stimulation for fields as  high as 9.4-T because the induced emf is below the threshold levels required for such stim- ulations to occur (122). As the magnetic field strengths of MR scanners increase, the flow- induced currents near blood vessels could eventually reach levels capable of inducing nerve  stimulation, and this may determine the upper limit of human tolerance for exposure to ex- tremely high static magnetic fields (87-88). However, all currently planned research and  clinical MR systems operate well below these levels.</para>
+      <para><emphasis role="bold">Interactions with Metabolic Reactions </emphasis></para>
+      <para>Chemical reactions are at the core of the metabolic function of tissues. The massive  number of chemical reactions required for normal function indicates that any external factor,  such as an applied static magnetic field capable of altering the rate of these reactions, could  affect their equilibrium positions (123-130). This condition prevails, for example, in those  chemical reactions in which the products are more paramagnetic than the reactants. Such  reactions will respond to the presence of a magnetic field by shifting the reaction equilibrium  towards an increase in the concentration of the products, thus, displacing the equilibrium  position of the reaction.</para>
+      <para>The presence of molecules of different magnetic properties on opposite sides of a reac- tion is among the class of reactions that will be affected by magnetic fields. For example,</para>
+      <para><emphasis role="bold">102</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 102</para>
+      <para>the dissociation of oxygen from hemoglobin as oxyhemoglobin is diamagnetic, and both  oxygen and hemoglobin are paramagnetic. However, although the applied field will lower  the energy barrier for the dissociation of diamagnetic molecules to paramagnetic molecules,  calculations show that the free energy barrier to dissociation of oxyhemoglobin (approxi- mately 64,000-J/mol) will only be changed by about 1-J/mol at a field strength of 4-T. Such  disturbances of oxygen dissociation are comparable to a temperature change of only 0.01°C,  making it unable to significantly modify the reaction equilibrium (87).</para>
+      <para>Another possible magnetic field effect on a chemical reaction involves the dissociation  of a binary molecule, AB (124-130). If the bond between A and B is nonmagnetic (elec- tron-pair bond) but the dissociated radicals A and B have unpaired electrons, then the mag- netic field will favor dissociation of the bound state, as the two electrons in the bond will  have opposite spins and a total spin of zero, while the free spins of individual radicals will  be nonzero. Precession of the A and B spins subsequent to dissociation will limit to some  extent the tendency toward re-bonding. However, no significant effects on reactions of bio- chemical significance have been reported from this effect.</para>
+      <para><emphasis role="bold">Ferromagnetic Tissue Components </emphasis></para>
+      <para>The magnitude of interaction of materials with magnetic fields is directly proportional  to their magnetic susceptibility (35). The human body is diamagnetic which makes its in- teraction with external magnetic fields inherently weak. However, there are small amounts  of tissue components that are paramagnetic, which allows them to couple more strongly  with magnetic fields (131-136). There is about 3.7-grams of iron in the body of a 70-kg  adult human. Fortunately, the iron in the human body is in weak paramagnetic form incor- porated in various chemical compounds such as hemoglobin, ferritin and hemosiderin that  are spread throughout the body, preventing strong interactions with applied fields. The small  concentration of these paramagnetic substances is insufficient to make the overall suscep- tibility of the tissues, including blood, paramagnetic (90). Obviously, exogenous paramag- netic materials can enter the human body, causing interaction with a magnetic field. For  example, studies involving coal miners exposed to rock dust have detected small amounts  of particulate magnetite in their lungs (132). Other forms of the deliberate addition of iron  oxide-based compounds applied to the body, such as in tattooing involving iron oxide-based  pigments, will similarly increase the possibility of magnetic interactions.</para>
+      <para>The presence of particles of iron oxides less than 500-angstroms in diameter has been  reported in the human brain and other tissues using electron microscopy in autopsy studies  (136). The source and function of such particles are unclear and determination of their origin  requires further investigations. The small size of these particles makes their artifacts on MR  images too small to be detected at the range of field strengths used for human MR imaging.  Perhaps at higher field strengths, susceptibility enhanced pulse sequences would permit vi- sualization of these particles. However, such “artifacts” will most likely induce sub-voxel  signal dropout and require rigorous quantification methods to measure their interactions  with magnetic fields.</para>
+      <para>MRI examinations performed in patients with tattoos or permanent eye makeup using  iron oxide-based pigments have shown artifacts around those regions as well as local edema  in some cases. This effect does not appear to be caused by the static magnetic field but,</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">103</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 103</para>
+      <para>rather, results from interactions with the RF fields used during MRI (65, 68, 70-72). How- ever, it may be possible that irregularly shaped, iron oxide particles in the implanted pig- ments experience torque in the magnetic field that rotates them, making their long axis  move parallel to the direction of the static magnetic field. The image artifact is caused by  the magnetic fields of these particles resulting in signal losses or voids, while the torque  that forces their alignment with that static magnetic field may be the cause of tissue irritation,  resulting in localized edema. Such tissue irritation could be exacerbated by patient move- ment inside the static magnetic field of the MR system (i.e., if the patient moves his/her  head side-to-side).</para>
+      <para><emphasis role="bold">Magnetoresistance </emphasis></para>
+      <para>The magnitude of electrical resistance of a material will change when it is placed in an  external magnetic field. This phenomenon, called magnetoresistance, is caused by the forces  exerted on ions in solutions moving through strong magnetic fields. Depolarizing currents  associated with the propagation of nerve and muscle action potentials could be modified  by such a field-dependent effect. However, since electrical resistance is a function of dy- namics of current-carrying particles, the mean free path (MFP) of these carriers and the  time between their collisions plays an important role in determining the size of the magne- toresistance effect.</para>
+      <para>For a sufficiently long MFP, an electric field perpendicular to the direction of current  will be established, increasing the effective resistivity of the conductors when they are  placed in a magnetic field. This phenomenon is called the Hall Effect and, in nerve and  muscle tissues, could modify the transmission of currents. However, ions whose flow de- termines the action potentials of nerve and muscle tissue have an extremely short mean  MFP (~ 1-angstrom) and collision times (10<superscript>-12</superscript>-seconds), drastically reducing the effect of  magnetoresistance on the associated action potentials (60). Interestingly, neurocognitive  studies inside magnetic fields of up to 8-T have not detected a decrease in the performance  of motor, sensory, and cognitive tasks (10).</para>
+      <para><emphasis role="bold">Magnetohydrodynamics (MHD) </emphasis></para>
+      <para>Currents flowing in tissues experience a body force. The resulting pressures and forces  are transmitted to the tissues. These forces can be substantial in flowing liquid metals such  as mercury. However, flowing physiological fluids such as blood have much lower electrical  conductivities than mercury, and MHD forces on flowing blood are relatively small com- pared to the naturally occurring hemodynamic forces in the vascular system. Therefore,  contrary to early speculations, there is no requirement for increased heart activity to maintain  the cardiac output in the presence of a strong static magnetic field. On the other hand, it  may be that very small MHD forces operating on the endolymphatic tissues of the inner ear  are the source of sensations of nausea and vertigo sometimes reported by human subjects  in the presence of higher static magnetic fields (86, 87). Recently, the feasibility of using  MHD effects at 7-T for synchronization of MRI with the cardiac cycle has been reported  (137).</para>
+      <para><emphasis role="bold">104</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 104</para>
+      <para><emphasis role="bold">Magnetostriction </emphasis></para>
+      <para>A substantial force acting on an object can change its size and shape. Among the three  types of magnetic properties, ferromagnetism produces by far the largest magnetostrictive  forces.  Therefore, in consideration of the range of susceptibility of biological tissues, their  size and shape change only slightly when exposed to strong magnetic fields (138, 139).  Since human tissues do not normally contain ferromagnetic materials, magnetostriction is  negligible. Furthermore, compared to the naturally occurring forces (i.e., thermal expansion  and mechanical stresses), any effect in human tissue would be insignificant.</para>
+    </sect1>
+    <sect1 id="ch0004s05">
+      <title>CALCULATION OF STATIC MAGNETIC FIELD EFFECTS</title>
+      <para>Magnetic susceptibility is the term used to define the quantification of the effect of  static magnetic fields on matter. Analysis of the magnetic response of tissues through the  concept of magnetic susceptibility is a simple method that will be discussed in this section.  This analysis will show that the large differences between the magnetic properties of bio- logical tissues and those of ferromagnetic materials govern their different responses to mag- netic fields. This difference is so profound that, in many cases, it makes their response to  applied magnetic fields qualitatively different. This is why extrapolation of our daily expe- riences with ferromagnetic materials has been the source of the many concerns with the  safety of powerful static magnetic fields in predicting the response of tissues to such fields.  In this section, the concept of magnetic susceptibility is discussed and the calculations of  magnetic forces and torque are presented. The quantitative response of tissues to applied  magnetic fields will then be formulated in these terms.</para>
+      <para><emphasis role="bold">Magnetic Susceptibility </emphasis></para>
+      <para>Magnetic susceptibility is a quantity that describes the response of materials that are  not permanently magnetized to applied magnetic fields (90). The discussion will not con- sider permanent magnets, such as bar magnets, because their strong interaction with mag- netic fields makes them extremely hazardous in the MRI environment. Thus, except in rare  situations, permanent magnets are not allowed in the MR system room. Biological tissues  have very small magnetic susceptibilities, so they do not interact strongly with applied mag- netic fields. This fact is supported by noting the high quality of MR images due to the highly  uniform magnetic field inside the human body, as it is situated within the MR scanner (i.e.,  due to the slight variation in susceptibility in biological tissues).</para>
+      <para>Polarization of materials in an applied magnetic field is measured by a quantity called  the magnetization, defined as the magnetic dipole moment per unit volume. To provide a  quantitative account of the response to magnetic fields in terms of magnetization, System  International (SI) units are used along with the standard mathematical convention of using  bold face symbols to designate vector quantities. If matter of susceptibility, χ, is placed in  magnetic field <emphasis role="bold">H</emphasis>, it will develop a magnetization <emphasis role="bold">M</emphasis> given by the equation <emphasis role="bold">M </emphasis>= χ<emphasis role="bold"> H</emphasis>.  The  susceptibility, χ, is a dimensionless quantity as both <emphasis role="bold">M</emphasis> and <emphasis role="bold">H</emphasis> represent the strength of mag- netic fields, <emphasis role="bold">H</emphasis> for the external field and <emphasis role="bold">M</emphasis> for the induced field. <emphasis role="bold">B</emphasis>, the magnetic flux density  is given by <emphasis role="bold">B</emphasis> = <emphasis role="italics">μ</emphasis><emphasis role="italics">0</emphasis> (<emphasis role="bold">H</emphasis> + <emphasis role="bold">M</emphasis>). The induced field is a property of the magnetized object, while  the applied field only modulates that property. Interaction between them is best managed if</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">105</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 105</para>
+      <para>we designate the total field with <emphasis role="bold">B</emphasis> and the applied field with the symbol <emphasis role="bold">B</emphasis>o=μrμo<emphasis role="bold">H</emphasis>, where  μr is called the relative permeability.</para>
+      <para>In an isotropic material, χ is a scalar quantity, meaning that it has the same value in all  directions. This is the case in most materials. In isotropic materials, the induced magneti- zation <emphasis role="bold">M</emphasis> is parallel to <emphasis role="bold">H</emphasis>, which makes <emphasis role="bold">M</emphasis>, <emphasis role="bold">B</emphasis>, and <emphasis role="bold">H</emphasis> all parallel to each other. If matter has  a preferred direction in which it magnetizes more easily than in other directions, the resultant  magnetization is not necessarily parallel to the magnetic field. Such materials are repre- sented by an anisotropic χ in the form of a symmetric tensor.</para>
+      <para>Aside from discussing the weak torque formed in certain biological crystals, the analysis  is limited to isotropic materials. For materials with large susceptibilities, magnetization is  found by taking into account the induced and applied field effects in a self-consistent way.  This is due to the fact that in the definition of χ, <emphasis role="bold">H</emphasis> is the sum of the applied and induced  fields. The example of ellipsoidal objects using demagnetizing coefficients is worked out  in this section to demonstrate such calculations. For biological tissues with very low sus- ceptibility, however, the fields induced by the magnetization are much smaller than the ap- plied field, which makes them negligible. For such material, the magnetization is determined  entirely by the applied field, and the more complex self-consistent method is not necessary  for their calculations.</para>
+      <para>In isotropic material, <emphasis role="bold">M</emphasis>, <emphasis role="bold">H</emphasis>, and <emphasis role="bold">B</emphasis> are parallel and, as shown in the following discussion,  no torque will be formed to align the object with local fields. In reality, the negligible mag- nitude of torque due to the applied field compared to other biological forces acting on the  tissue component allows us to ignore it in our calculations.</para>
+      <para>The magnitude and sign of χ determines the extent of the interaction with the applied  field. In this regard, materials are classified into three large groups: diamagnetic, paramag- netic and ferromagnetic. Conservation of energy requires that only χ with values &gt; -1 are  possible (140). Diamagnetic materials have negative susceptibilities (i.e., -1.0 &lt; χ &lt; 0). This  property causes them to be magnetized in the opposite direction of the applied magnetic  field, causing them to be repelled from regions of strong magnetic fields. All materials have  diamagnetic properties if they do not possess components, such as the magnetic ions in  transition elements, which make a larger positive contribution to χ. Paramagnetic materials  have positive χ that makes them attracted to regions of strong magnetic fields. Materials  with |χ| &lt; 0.01 do not respond to weak sources of magnetic fields such as handheld magnets  and are therefore classified as nonmagnetic. Most common materials including all living  beings, with the exception of magnetotactic bacteria, are in this group.</para>
+      <para>Ferromagnetic materials with |χ| ≥ 0.01 constitute the third group of materials to which  we will refer as ferromagnetic or magnetic. These materials exhibit a strong response to an  applied magnetic field, and the large attractive force induced on them poses the biggest dan- ger if taken into the vicinity of an MR system. Some ferromagnetic materials do not appear  magnetic until they are exposed to an external field. They are called “soft magnets” to dis- tinguish them from permanent magnets or “hard” magnetic materials.</para>
+      <para>The enormous range of susceptibility values of all matter in nature is shown in <emphasis role="bold">Figure </emphasis> <emphasis role="bold">1</emphasis> (90). As is seen in this figure, the vast majority of materials have susceptibility values</para>
+      <para><emphasis role="bold">106</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 106</para>
+      <para>much less than 0.001, making the magnetic forces on such materials very weak and, there- fore, not easily observable.  Relevant to this discussion are the vast majority of biological  tissues with susceptibilities very close to the susceptibility of water, χH2O = -9.05 x 10<superscript>-6</superscript> in SI  units. In fact, χ of most biological tissues differs from that of water by about ± 20%. This  narrow range of variation of χ is the primary reason why exquisite MR images are acquired  from biological tissues. In regions of the human body where large variation in susceptibility  is present (e.g., the air/tissue interfaces between the sinuses and the orbitofrontal regions of  the brain), high field MRI causes large position-dependent variations in the Larmor fre- quency that results in severe signal losses.</para>
+      <para>Because of diamagnetism, small forces act on the patients as they are inserted into MR  systems. This force is so small that it cannot be perceived. Normal magnetic materials, on  the other hand, have susceptibility values much larger than those of diamagnetic materials,  usually a factor of 1000 or more, that lead to much stronger responses in the presence of  magnetic fields. The large variation in the magnitude of susceptibility causes qualitatively</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">107</emphasis></para>
+      <para><emphasis role="bold">Figure 1.</emphasis> Spectrum of magnetic susceptibilities. The upper diagram uses a logarithmic  scale to indicate the full range of observed magnetic susceptibility values: it extends from  χ = -1.0 for superconductors to χ &gt; 100,000 for soft ferromagnetic materials. The bottom  diagram uses a linear scale (in ppm) to indicate the properties of some materials with |χ| &lt;  20 ppm. The susceptibilities of most human tissues are in the range from -7.0 to -11.0  ppm (Adapted from Reference 90).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0090.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 107</para>
+      <para>differing responses by ferromagnetic and diamagnetic materials to applied fields, as dis- cussed later in this section.</para>
+      <para>A demonstration of the existence of repulsive diamagnetic forces exerted on living be- ings by strong magnets has been made by suspending small frogs and other diamagnetic  objects in midair in the vertical bore of a magnet operating at 16-T (116, 117). In achieving  such suspension, the diamagnetic force counters the weight of the frog. It is worth noting  that even in the presence of very high magnetic fields, no harm was done to the frog.</para>
+      <para><emphasis role="bold">Magnetic Energy </emphasis></para>
+      <para>The force of the magnetic field on matter could cause two types of motion, translational  and rotational. An object, like a ferrogmagnetic aneurysm clip with a long blade, if placed  in a strong magnetic field, experiences a magnetic force that could cause measurable trans- lational and rotational motions. In the human body, depending on its shape, the object could  experience translational attraction and torque that could cause it to move and rotate with  respect to the direction of the static magnetic field. The size of the translational forces and/or  torque depends on the applied field strength, the susceptibility, and the shape of the material.  This could vary from no observable effect to forces large enough to produce serious injury  or even lethal consequences. Typically, to understand whether these translational forces and  torque will be at a level to significantly alter the structure or function of tissues, we need to  develop rigorous mathematical expressions based on the physical properties of the material.</para>
+      <para>The work required to move magnetic dipoles within a magnetic field is independent of  its path. Therefore, a magnetic potential energy function, U, can be defined that depends  on the field strength (position), magnetic dipole moment of the object, the relative angle  between the direction of the field and the dipole orientation, and the magnetic properties of  the medium (139-142). For magnetization, <emphasis role="bold">M</emphasis>, the total dipole moment of a volume, <emphasis role="italics">V</emphasis>, for  a uniformly magnetized object is <emphasis role="bold">m</emphasis> = <emphasis role="bold">M</emphasis> <emphasis role="italics">V</emphasis>. The energy required to bring an object with  permanent dipole moment, <emphasis role="bold">m,</emphasis> to a point within a magnetic field <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis> is <emphasis role="italics">U</emphasis> = <emphasis role="bold">m</emphasis> ● <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis>. To assess  the energy of a non-permanently magnetized object, as is the case for the human body in  an MR system, we have to take into account the fact that biological tissues within a static  magnetic field acquire a magnetic moment that is proportional to the applied field. If bio- logical tissues are brought within a magnetic field, <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis>, they acquire an induced moment,</para>
+      <para><emphasis role="bold">m</emphasis>, and an energy  .  The reason for the presence of the factor 1/2 for the sec-</para>
+      <para>ond case, with all other variables held constant, is that when biological tissues with no per- manent magnetic dipole (the second case) are brought into the magnetic field, their magnetic  moment increases from zero (where the magnetic field is zero) to <emphasis role="bold">m</emphasis> (where the magnetic  field is <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis>). This is in contrast with the case of permanently magnetized objects, in which  magnetization is <emphasis role="bold">m</emphasis> all along the path. The magnetic field energy increases through the work  of forces and torque on objects introduced in them. Magnetic forces attract paramagnetic  materials and repel diamagnetic ones. Also, if <emphasis role="bold">m</emphasis> is not aligned with <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis>, the magnetic field  will produce torque on it to make it parallel to <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis>. Therefore, using the expression for the</para>
+      <para><emphasis role="bold">108</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 108</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0091.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>force,   and torque   where <emphasis role="bold">u</emphasis> is the unit vector perpendicular</para>
+      <para>to the plane of <emphasis role="bold">M</emphasis> and <emphasis role="bold">B</emphasis> and θ is the angle between <emphasis role="bold">M</emphasis> and <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis>, the expression for energy for  an  object  of  volume  <emphasis role="bold">V</emphasis>  and  susceptibility  χ  is  then  found  to  be</para>
+      <para>and   This expression ap-</para>
+      <para>plies to situations where the magnitude of the susceptibility is much less than one and <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis> is  uniform over the volume of the object. The square dependence of energy on <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis> has impli- cations on both energy deposition and the magnitude of the attractive or repulsive force that  magnetic fields exert on diamagnetic objects within them.</para>
+      <para><emphasis role="bold">Demagnetizing Factor </emphasis></para>
+      <para>This chapter is concerned with the effect of magnetic fields on biological tissues, which  do not have fixed dipole moments. For these materials, the evaluation of the translational  attraction and torque must take into account the fact that magnetization is induced by the  applied field. This makes it necessary to determine the field-induced dipole moment that  must be inserted back into the above formulas to find translational force and torque. In gen- eral, this is a complex mathematical process. However, for certain simple shapes, such as  ellipsoids, the math is simple. Once results for ellipsoids, such as spheres, cylinders, and  flat plates are calculated, they offer a good estimate of this effect for more objects with a  more complex shape. A simple analysis for ellipsoids is presented below.</para>
+      <para>If an ellipsoid object with isotropic susceptibility is placed in a field along its principal  axis, an internal field parallel to the applied field will be induced in the object. This field,  called the demagnetization field, <emphasis role="bold">H</emphasis>dm, is given by <emphasis role="bold">H</emphasis>dm = - <emphasis role="italics">D</emphasis> <emphasis role="bold">M</emphasis> where the demagnetizing  factor, <emphasis role="italics">D</emphasis>, is a number that depends on the shape of the object, and it varies between zero  and one (90-138). In general, the sum of the three demagnetizing factors along all axes of  an object is equal to one. Spherical objects for which the three principal axes of a sphere  are equivalent, making the demagnetizing factor for any direction equal to one-third con- stitutes the simplest case. In contrast, ellipsoids have three distinct principal axes. For a  cylinder placed in a magnetic field so that its long axis is parallel to this field, <emphasis role="italics">D</emphasis> = 0. How- ever, if the long axis is perpendicular to the applied field, <emphasis role="italics">D</emphasis> = 1/2. To find the total internal  field <emphasis role="bold">H</emphasis> the demagnetizing field, <emphasis role="bold">H</emphasis>dm must be added to the applied field, <emphasis role="bold">H</emphasis>o = <emphasis role="bold">B</emphasis>0/μo. Re- placing the expression for magnetization, <emphasis role="bold">M</emphasis> = χ <emphasis role="bold">H</emphasis>, in the formula for magnetic flux, <emphasis role="bold">B</emphasis> =  μo (<emphasis role="bold">H</emphasis> + <emphasis role="bold">M</emphasis>), the total internal fields can be found in terms of the applied field <emphasis role="bold">B</emphasis>0, as follows:</para>
+      <para><emphasis role="bold">B</emphasis> = μo<emphasis role="bold">H</emphasis> (1 +χ),   <emphasis role="bold">H</emphasis> = <emphasis role="bold">H</emphasis>o + <emphasis role="bold">H</emphasis>dm = <emphasis role="bold">H</emphasis>o - <emphasis role="italics">D</emphasis> <emphasis role="bold">M</emphasis>= <emphasis role="bold">H</emphasis>o - <emphasis role="italics">D</emphasis> χ <emphasis role="bold">H</emphasis>,    <emphasis role="bold">H</emphasis>o = <emphasis role="bold">H</emphasis> + D χ <emphasis role="bold">H</emphasis>= <emphasis role="bold">H</emphasis> (1 + Dχ),    <emphasis role="bold">H</emphasis> = <emphasis role="bold">H</emphasis>o/(1 + Dχ),    <emphasis role="bold">B</emphasis> = μo<emphasis role="bold">H</emphasis> (1 +χ) = <emphasis role="bold">B</emphasis>0 (1 +χ) / (1 + <emphasis role="italics">D</emphasis>χ),    μo <emphasis role="bold">H</emphasis> = <emphasis role="bold">B</emphasis>0 / (1 + <emphasis role="italics">D</emphasis>χ),   μo <emphasis role="bold">M</emphasis> = <emphasis role="bold">B</emphasis>0 χ/ (1 + <emphasis role="italics">D</emphasis>χ).</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">109</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 109</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0092.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0093.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0094.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0095.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>To derive these results, <emphasis role="italics">D</emphasis> is assumed to be the demagnetizing factor for the principal  axes parallel to <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis>. This result can be extended to cases where <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis> is not along a principal  axis by resolving it into components along these axes to find the resulting field, which is  the sum of the fields along each axis. These expressions for the magnetic response of the  object to an applied field work well because they take into account the interaction of <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis>  with both the shape of an object, as is represented by <emphasis role="italics">D</emphasis>, and the magnetic properties, as is  represented by χ.</para>
+      <para>Ellipsoids of revolution, with two equivalent axes and two identical demagnetization  factors, are a simpler form of the more general ellipsoids that have three independent prin- cipal axes and three different demagnetizing factors. For most cases, it is adequate to con- sider only ellipsoids of revolution. Deduction of important trends for the behavior of  non-isotropic objects in a magnetic field is evidence to the utility of the above results. For  example, it can be stated that for strongly magnetic materials with χ &gt; 1, to the first order,  the internal field <emphasis role="bold">B</emphasis> and the magnetization are independent of the susceptibility and only de- pend on the shape of the object, <emphasis role="italics">D</emphasis>.  However, for materials with |χ| &lt;&lt; 1, magnetization  <emphasis role="bold">M</emphasis>=χ<emphasis role="bold">B</emphasis>0/μo, which makes it parallel to the applied field and independent of the shape of the  ellipsoid. Thus, translational forcesand torque acting on ferromagnetic objects in a magnetic  field critically depend on the object’s shape. For biological tissues with tiny susceptibilities,  these same equations predict that the force and torque associated with the magnetic field  will be independent of the shape of the tissues.</para>
+      <para><emphasis role="bold">Quantification of Forces </emphasis></para>
+      <para>If a magnetic force induces magnetization in a direction, say along the z-axis, an</para>
+      <para>isotropic object’s magnitude will be given by  . For paramagnetic</para>
+      <para>materials with positive χ, the force will be in the direction of increasing <emphasis role="bold">B</emphasis>0 and for diamag- netic material with negative χ, force will be in the direction of decreasing <emphasis role="bold">B</emphasis>0. This means  that in MR systems, paramagnetic materials are pushed towards the center of the magnet  where the field is most homogenous, while diamagnetic materials are pushed out of the  magnet. This effect could have implications on the signal-to-noise ratio for a functional  MRI (fMRI) examination in which the signal is largely determined by the replacement of  paramagnetic deoxyhemoglobin with diamagnetic oxyhemoglobin. This force will have an  impeding effect on the direction of flow for both oxyhemoglobin into the brain and deoxy- hemoglobin out of the brain, thereby reducing the fMRI signal. For medical implants, such  as  ferromagnetic  aneurysm  clips  that  have  high  magnetic  susceptibility,</para>
+      <para>and for weakly magnetic objects  .   Torque, <emphasis role="bold">τ</emphasis>, is</para>
+      <para>given by <emphasis role="bold">τ</emphasis> = <emphasis role="bold">M</emphasis> x <emphasis role="bold">B</emphasis>o or, if the y-axis is perpendicular to <emphasis role="bold">B</emphasis>o and <emphasis role="bold">M</emphasis> ,</para>
+      <para>, where, θ, is the angle between <emphasis role="bold">M</emphasis> and <emphasis role="bold">B</emphasis>o.</para>
+      <para><emphasis role="bold">110</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 110</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0096.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0097.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0098.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0099.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">Risks Posed By Translational Forces And Torques </emphasis></para>
+      <table frame="all">
+              <title>Untitled</title>
+              <tgroup cols="4">
+                <colspec colname="c1" />
+                <colspec colname="c2" />
+                <colspec colname="c3" />
+                <colspec colname="c4" />
+                <thead>
+                  <row>
+                    <entry>Qty</entry>
+                    <entry>Full Expression</entry>
+                    <entry>Soft Magnetic MaterialsχDa, χDr &gt;&gt; 1</entry>
+                    <entry>"Non-Magnetic" Materials|χ| &lt;&lt; 1</entry>
+                  </row>
+                </thead>
+                <tbody>
+                  <row>
+                    <entry>U</entry>
+                    <entry>χVBz2/2μo [cos2 θ/(1+χDa) + sin2 θ/(1+χDr)]</entry>
+                    <entry>VBz2/2μo [cos2 θ/Da + sin2 θ/Dr]</entry>
+                    <entry>χVBz2/2μo</entry>
+                  </row>
+                  <row>
+                    <entry>Fz</entry>
+                    <entry>χV/μo Bz ∂Bz/∂z [cos2 θ/(1+χDa) + sin2 θ/(1+χDr)]</entry>
+                    <entry>V/μo Bz ∂Bz/∂z [cos2 θ/Da + sin2 θ/Dr]</entry>
+                    <entry>χV/μo Bz ∂Bz/∂z</entry>
+                  </row>
+                  <row>
+                    <entry>Mx</entry>
+                    <entry>χBz/μo [(Dr - Da)/((1+χDa)(1+χDr))] cos θ sin θ</entry>
+                    <entry>Bz (Dr - Da)/μo DaDr cos θ sin θ</entry>
+                    <entry>χ2 Bz/μo (Dr - Da) cos θ sin θ</entry>
+                  </row>
+                  <row>
+                    <entry>Mz</entry>
+                    <entry>χBz/μo [cos2 θ/(1+χDa) + sin2 θ/(1+χDr)]</entry>
+                    <entry>Bz/μo [cos2 θ/Da + sin2 θ/Dr]</entry>
+                    <entry>χBz/μo</entry>
+                  </row>
+                  <row>
+                    <entry>τy</entry>
+                    <entry>χ2VBz2/μo [(Dr - Da)/((1+χDa)(1+χDr))] cos θ sin θ</entry>
+                    <entry>VBz2 (Dr - Da)/μo DaDr cos θ sin θ</entry>
+                    <entry>χ2VBz2/μo (Dr - Da) cos θ sin θ</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table><para>Since ellipsoids of revolution illustrate most of the important features of magnetic in- teraction with matter, a summary of the expressions for the quantities derived in this chapter  including magnetic energy, force and torque are listed in <emphasis role="bold">Table 3</emphasis>. Also, the asymptotic limits  of these expressions for extreme values of the susceptibility predict behaviors that are qual- itatively different from one other. Designating the demagnetizing factor along the axis of  symmetry of the object as <emphasis role="italics">D</emphasis>a and the radial demagnetizing factor in the transverse direction  as <emphasis role="italics">D</emphasis>r from the earlier discussion, we have <emphasis role="italics">D</emphasis>a + 2 <emphasis role="italics">D</emphasis>r = 1.  The relative values of <emphasis role="italics">D</emphasis>a and <emphasis role="italics">D</emphasis>r  offer simple results with powerful implications. For needle-like ellipsoids with one very  long axis of symmetry and isotropic radial directions, <emphasis role="italics">D</emphasis>a → 0 and <emphasis role="italics">D</emphasis>r → ½. For a sphere,  <emphasis role="italics">D</emphasis>a = <emphasis role="italics">D</emphasis>r = 1/3. For flat ellipsoids, <emphasis role="italics">D</emphasis>a → 1 and <emphasis role="italics">D</emphasis>r → 0. These case examples are useful to</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">111</emphasis></para>
+      <para><emphasis role="bold">Table 3.</emphasis> Magnetic properties of ellipsoids of revolution.</para>
+      <para><emphasis role="bold">Qty</emphasis> <emphasis role="bold">Full Expression</emphasis></para>
+      <para><emphasis role="bold">Soft Magnetic </emphasis> <emphasis role="bold">Materials </emphasis> χDa, χDr &gt;&gt; 1</para>
+      <para><emphasis role="bold">“Non-Magnetic”  </emphasis> <emphasis role="bold">Materials </emphasis> |χ| &lt;&lt; 1</para>
+      <para><emphasis role="italics">U</emphasis></para>
+      <para><emphasis role="italics">F</emphasis><emphasis role="italics">z</emphasis></para>
+      <para><emphasis role="italics">M</emphasis><emphasis role="italics">x</emphasis></para>
+      <para><emphasis role="italics">M</emphasis><emphasis role="italics">z</emphasis></para>
+      <para>τy</para>
+      <para>The first column gives the complete expression for the magnetic potential energy (<emphasis role="italics">U</emphasis>), force (<emphasis role="italics">F</emphasis><emphasis role="italics">z</emphasis>), magnetiza- tion (<emphasis role="italics">M</emphasis><emphasis role="italics">x</emphasis> and <emphasis role="italics">M</emphasis><emphasis role="italics">z</emphasis>) and torque (<emphasis role="italics">T</emphasis><emphasis role="italics">y</emphasis>) for an ellipsoid of revolution in a magnetic field along the z-axis. The sym- metry axis is in the <emphasis role="italics">x</emphasis>-direction and θ is the angle between this axis and the magnetic field. The second  column gives approximations appropriate for soft magnetic materials and the third column gives approxima- tions appropriate to materials, such as biological tissues, with very small susceptibilities. For objects inside a  medium of uniform susceptibility, such as water or tissue with χ = χH2O, χ should be replaced by   Δχ = χ - χH2O . It is assumed that <emphasis role="italics">B</emphasis><emphasis role="italics">z</emphasis> is the only non-zero component of <emphasis role="bold">B</emphasis>o at the location of the object and</para>
+      <para>that the spatial derivatives of the transverse components,  , etc. are all zero. This is the case</para>
+      <para>along the central axis of the magnets commonly used in MRI. At other points in the field, there may be non- zero force components in addition to <emphasis role="italics">F</emphasis><emphasis role="italics">z</emphasis>, but the qualitative physical principles are unchanged.</para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 111</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0100.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0101.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0102.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0103.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0104.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0105.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0106.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0107.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0108.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0109.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0110.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0111.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0112.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0113.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0114.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0115.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>provide an insight in the behavior of biological tissues in magnetic fields. Expressions for  demagnetization factors for a broad range of ellipsoids of revolution are available in the  published literature (90).</para>
+      <para>Certain metallic implants have magnetic properties that could put the patient at risk  from translational force and torque in association with exposure to the powerful static mag- netic field of an MR system. If the combination of the geometrical and magnetic properties  produces substantial translational force, then the object could move in the presence of a  strong static magnetic field. If the same combination results in torque, then the object could  be rotated into alignment with the direction of the static magnetic field. The factors deter- mining the relative strength of these two effects are magnetic susceptibility and the shape  of the object as well as its position in the magnetic field that determines the magnitude and  the field’s spatial gradient magnetic field. Notice that the force does not just depend on the  field strength but the product of field’s spatial gradient by field strength, B∂B / ∂dz. There- fore, in the regions of a homogeneous magnetic field where ∂B/∂dz ~0, the translational  forces are negligible. This does not mean that such metallic devices are safe, because the  patient has to pass through the entry region of the MR system where B∂B/∂dz is large and  the object could experience a large translational force during this time. As expressions for  torque reveal, even for metallic devices with low translational force, torque could pose a  greater hazard than the translational force in some cases. A discussion of such cases is war- ranted here.</para>
+      <para>A cylindrical magnet, such as that often used in a high-field MR scanner, offers an op- portunity to look in more detail at the analysis of magnetic forces because regions near its  central axis have a uniform magnetic field and small field spatial gradients. For spherically  symmetrical objects, there is no torque acting on the object. So, the translational forces are  caused by the induced magnetization, which is parallel to the applied magnetic field. In the  cases of non-isotropic objects like long, thin needles or thin and flat plates, large torque  may be formed on these objects. The forces will rotate elongated objects, to make the long  axis of the object parallel to the direction of the magnetic field. On a flat object, however,  the magnetic field will exert torque, turning it parallel to the field lines of the magnet. The  following quantitative analysis is meant to support these predictions.</para>
+      <para>The large disparity between demagnetizing factors along axial (a) and radial (r) axes of  a needle-like object (<emphasis role="italics">D</emphasis>r &gt;&gt;<emphasis role="italics">D</emphasis>a) when placed in the magnet, with the long axis of the object  parallel to the <emphasis role="italics">z</emphasis>-axis of the magnet, produces the maximum translational force when the</para>
+      <para>needle is aligned with the field (θ = 0) and at a location where the product   is max-</para>
+      <para>imum. Regions at the isocenter of MR system’s magnet (i.e, where MR imaging occurs)</para>
+      <para>have a very homogenous magnetic field ( =0), although the magnitude of the magnetic</para>
+      <para>field in these regions is highest. No translational forces will form on the objects in the cen-</para>
+      <para>tral, homogenous regions of the magnet where   is zero.  These conditions are cre-</para>
+      <para><emphasis role="bold">112</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 112</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0116.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0117.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0118.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>ated in two distinct regions, one outside and far from the magnet where B = 0 and, another,</para>
+      <para>in the central regions where  = 0. The product of the magnetic field with the spatial gra-</para>
+      <para>dient magnetic field decreases to zero at the center of the magnet and regions far outside  the magnet, and goes through a maximum near the openings (i.e., front and back) of the  MR system’s bore, at <emphasis role="italics">z</emphasis>max. These conditions cause the attractive translational force to reach  a maximum value at <emphasis role="italics">z</emphasis>max.</para>
+      <para>A plot of   for an 8-Tesla MR system with a 90-cm bore diameter and 3.4-meter</para>
+      <para>length is shown in <emphasis role="bold">Figure 2</emphasis>. If magnetic objects get pulled into the magnet of the MR sys- tem, they will be lodged at the center of the magnet, where the force drops to zero. To dis- lodge such objects, the maximum force needs to be overcome, which could be enormous  depending on the magnitude of the variables determining the force. The maximum value of</para>
+      <para>the quantity   determines the maximum value of the translational force for</para>
+      <para>a needle-like object when it resides on the axis of the magnet and is given by</para>
+      <para>.  To determine the torque on the same object, the strength</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">113</emphasis></para>
+      <para><emphasis role="bold">Figure 2.</emphasis> Force by magnetic field spatial gradient. The product of the spatial gradient of  the magnetic and the magnetic field (BdB/dz) produces a large force that rises to a maxi- mum value around the entry point on either end of the magnet of the MR system. A plot  of BdB/dz for the 8-T whole-body magnetic field is shown here. The origin corresponds to  the center of the magnet.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0119.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 113</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0120.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0121.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0122.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0123.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>of the force couple applied to both ends of the symmetry axis, say <emphasis role="italics">F</emphasis><emphasis role="italics">torque</emphasis>, can be defined as  the force necessary to prevent the ellipsoid from being twisted and aligned with <emphasis role="bold">B</emphasis><emphasis role="bold">0</emphasis>. The  maximum torque along the main axis of the magnet (<emphasis role="italics">z</emphasis>-axis) will occur at the isocenter,</para>
+      <para>when the angle between the long axis of the ellipsoid and the magnet is  . If the total</para>
+      <para>length of the ellipsoid is 2 L, then the absolute value of the forces creating the torque is</para>
+      <para>. Therefore, the rotational force and translation force will be</para>
+      <para>. For the 8-T whole-body MR system (5) these values</para>
+      <para>are  . The ratio (R) of</para>
+      <para>for this magnet was 1.5/m, while for most superconducting cylindrical magnets, regardless  of their field strengths, this ratio will be comparable to that of the 8-T scanner. For an ellip-</para>
+      <para>soid of length <emphasis role="italics">L</emphasis> = 1-cm in this magnet the  .  Since the 8-T magnet was un-</para>
+      <para>shielded, for shielded magnets, the ratio, R, would be smaller because the value</para>
+      <para>is larger for such magnets.  The large ratio of rotational and translational</para>
+      <para>force indicates that elongated ferromagnetic implants must be tightly anchored to or retained  in the patient’s tissues because a much larger force is required to prevent rotation as opposed  to translational attraction. This is particularly true for implants such as a ferromagnetic  aneurysm clip with one dimension longer than the other (i.e., an aneurysm clip with a long  blade). These calculations indicate that the possibility of patient injury from aneurysm clips  in magnetic fields is much higher due to rotational force than by translational motion. This  is notable, because estimations of the effect of magnetic fields have traditionally been fo- cused on translational forces.</para>
+      <para>Hairpins or paper clips are occasionally lodged inside the MR system. Since the clip is  being pulled out of the magnet, the small attractive translational force is at a maximum near  the opening of the magnet (i.e., the opening of the bore the scanner) where the patient is in- serted for the MRI exam. Torque, however, has a different positional dependence and a  maximum value occurs near the center of the magnet, where the axis of the paper clip is at  a direction of 45-degrees with respect to the <emphasis role="italics">z</emphasis>-axis of the magnetic field.</para>
+      <para>A close examination of the behavior of biological tissues, with |χ| &lt;&lt; 1 by using the ex- pressions listed in <emphasis role="bold">Table 3</emphasis>, demonstrates that the magnitude of the torque acting on these  tissues is proportional to χ<superscript>2</superscript>. Due to the opposite signs of the susceptibilities of diamagnetic  and paramagnetic materials, they are expected to point in opposite directions when lined</para>
+      <para><emphasis role="bold">114</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 114</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0124.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0125.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0126.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0127.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0128.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0129.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0130.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>up in a uniform magnetic field. However, the χ<superscript>2</superscript> -dependence of torque means that the di- rection of alignment would be the same for both types of materials. A more important con- sequence of the χ<superscript>2</superscript>-dependence of torque is that, for very small values of χ, the alignment  torque that is caused by the shape-dependence is negligible. As shown by the above analysis,  materials with high susceptibility and those of very low susceptibilities show qualitatively  different responses to magnetic fields. Thus, powerful fmagnetic fields apply strong forces  on flat ferromagnetic objects, such as magnetic washers, that could align their “face” parallel  to the field. Since red blood cells basically have the same geometry as washers, they were  expected to experience torque large enough to align them with their flat side parallel to the  magnetic field. But, due to the small magnitude of their susceptibility, χ<superscript>2</superscript> ≈ 10<superscript>-10</superscript>, the torque  acting on red blood cells is exceedingly low and unable to cause any measurable, shape- dependent effect.</para>
+      <para><emphasis role="bold">Diamagnetic Susceptibility Anisotropy </emphasis></para>
+      <para>The shape-dependence of torque due to field inhomogeneity and demagnetizing factors  has been demonstrated to be negligible for biological materials due to χ<superscript>2</superscript>-dependence of the  torque expression. However, another mechanism through which magnetic fields can interact  with biological tissues is referred to as diamagnetic susceptibility anisotropy (DSA). This  effect has been observed in the assembly of large numbers of macromolecules when they  are bound together in a crystalline structure. This effect is present when all the molecules  in a crystal are twisted in the same orientation by the applied magnetic field. Such conditions  allow the torque on individual elements in all the molecules or cells in a volume <emphasis role="italics">V</emphasis> to add  up to a measurable level. If susceptibility is anisotropic in a tissue, then we can designate  its magnitude in one direction of this tissue as χ1 and the angle between this direction and  the applied field as θ. For tissues in which susceptibility in both orthogonal directions is  the same and equal to χ2, we can assume that for diamagnetic tissues |χ1|, |χ2| &lt;&lt; 1. For such</para>
+      <para>tissues, the magnetic energy is given by</para>
+      <para>and the expression of torque will be  .</para>
+      <para>Biological materials usually have negative χ1 and χ2 of the order of -10<superscript>-5</superscript> that in magnetic  fields will experience torque that tends to rotate the object in a direction that aligns the axis  with the least negative value of χ with the field. The difference of susceptibility between  the two axes is Δχ = χ1 - χ2 that is approximately 1% to 10% of the average susceptibility,  (χ1 + 2 χ2)/3. For biological tissues, Δχ is of the range of 10<superscript>-7</superscript> to 10<superscript>-6</superscript>, which is much larger  than the shape-dependent torque that has an order of magnitude of 10<superscript>-10</superscript>. Prediction of the  analysis presented here (i.e., the four order of magnitude larger value of anisotropy-depen- dent torque than shape-dependent torque) is confirmed by observation in biological mate- rials (143). Another important factor governing the size of torque in the expressions derived  in this chapter is the volume, <emphasis role="italics">V</emphasis>, of the tissue, which indicates that aggregation of anisotropic  molecules to form larger assemblies will increase the torque that can, in turn, enhance the  effect of the magnetic field on these tissues.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">115</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 115</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0131.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0132.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>Among biological tissues, red blood cells of sickle cell anemia patients have received  much attention, as they have been shown that they align in a field of 0.5-T, <emphasis role="italics">in vitro</emphasis> (45, 46).   The lack of observation of alignment of the hemoglobin molecules in normal red blood  cells is due to the fact that they are free in solution and randomly oriented. However, the  hemoglobin S molecules in sickle cell red blood cells have a tendency to “stick” together.  This binding tendency makes them aggregate, polymerize, form fibers and gel-like struc- tures that are made up of similarly oriented hemoglobin molecules that are bound together.  The anisotropic molecules in these structures and their binding in an aligned formation in- crease the anisotropy of the overall structure that have revealed anisotropy-dependent ori- entation in these studies (45, 46). However, this effect has only been reported based on  laboratory studies. Unlike the conditions <emphasis role="italics">in vitro</emphasis>, where there is no force competing with  magnetic force, the forces experienced by red blood cells in flowing blood are much larger  than the magnetic forces of orientation (61, 74, 77, 85).   Experiments allowing the obser- vation of magnetic orientation in the presence of flow, however slow, would shed light on  the necessary conditions for red blood cell orientation, <emphasis role="italics">in vivo</emphasis>.</para>
+      <para>Other structures, such as retinal rod cells, nucleic acid solutions, and fibrin gels have  revealed similar orientation effects, <emphasis role="italics">in vitro</emphasis> (144-149). Similar to red blood cells, we are  unaware of a report of magnetic orientation effects by these structures, <emphasis role="italics">in vivo</emphasis>, for the same  reason that flow forces overwhelm the magnetic orientation forces preventing alignment.  The size of the magnetic torque, however, as is shown by our equations, depends on <emphasis role="italics">B</emphasis>o 2.  This fact points to a rapidly growing orientation torque as the magnetic field strength in- creases. Since the trend in MRI is relentlessly pushing for higher static magnetic fields,  studies of orientation effects at these higher field strengths are warranted to reveal them, <emphasis role="italics">in </emphasis> <emphasis role="italics">vivo</emphasis>, and to incorporate them into plans for safe exposure of human subjects to such high  static magnetic fields. In fact, experiments have already been performed in which 16-T  magnets were used to demonstrate that cleavage planes of developing frog embryos orient  in powerful magnetic fields (150). Anisotropy-dependent alignment of tubulin molecules  has been presented as the cause of this observation (151). Independent confirmation of these  effects would validate the effect and the explanation, because many magnetic field effects  on biological tissues have proven difficult to reproduce.</para>
+      <para><emphasis role="bold">Alignment of Water Molecules  </emphasis></para>
+      <para>We need to be aware of the magnetic field strength required to align water molecules,  <emphasis role="italics">in vivo</emphasis>. Although not reported, the far-reaching consequence of such effect on life justifies  the vigilance. The possibility of aligning of water molecules in magnetic fields and its ability  to alter the biological and physiological processes in tissues are already proposed as a ra- tionale for magnetotherapy, a commercial venture with some success in convincing its fol- lowers of its therapeutic efficacy. This is in consideration of the fact that physics allows us  to estimate the extent of alignment of water molecules inside magnetic fields. The random  orientation of water molecules is the cause of its small magnetic susceptibility of   χ = -9.05 x 10<superscript>-6</superscript>. A variation of about one-percent in χ along the principal axes of the mole- cule is caused by the asymmetry of the water molecule (152). As previously discussed, sus- ceptibility anisotropy is the basis of the development of magnetic torque. Therefore, we  need to calculate the magnetic alignment energy of a water molecule. Here, we will present  such calculations for an applied field of 10-Tesla as is presently close to the upper range of</para>
+      <para><emphasis role="bold">116</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 116</para>
+      <para>field strengths of research scanners to which human subjects have been exposed. Inserting  the susceptibility of water and field strength of B = 10-T in the expression for magnetization</para>
+      <para>yields   This is the magnetization, which is the sum of mag-</para>
+      <para>netic dipole moments of 3.34 x 10 28 water molecules per cubic meter. The average dipole  moment per water molecule in a field of 10-Tesla is calculated to be <emphasis role="italics">m</emphasis> = -2.16 x 10<superscript>-27</superscript> J/T.  The implication of 1% anisotropy of the molecular magnetization is that a maximum mag- netic energy change due to change in molecular orientation is calculated to be Δ<emphasis role="italics">E</emphasis> = 2.16 x  10<superscript>-29</superscript> J. To compare this magnetic energy with thermal energy of the human body at 38°C</para>
+      <para>yields <emphasis role="italics">kT</emphasis> = 4.28 x 10<superscript>-21</superscript> J and a ratio of   for a 10-T magnet. This indi-</para>
+      <para>cates that the magnetic energy is 200 million times smaller than thermal energy at 10-Tesla.  Such minimal energy is unlikely to cause significant biological or physiological changes in  water molecules, <emphasis role="italics">in vivo</emphasis>.</para>
+      <para>These results indicate that for a 0.01% deviation from random orientation of water mol- ecules, a static magnetic field strength of 450-Tesla is needed. This is in spite of the B<superscript>2</superscript>-de- pendence of the magnetic energy. By comparison, the expected alignment within the fields  of even ultra-high-field-strength MR systems is negligible. To our knowledge, to date, no  observation of magnetic field-induced alignment of water molecules has been reported at  the static magnetic field strengths used for research or clinical scanners. This is in agreement  with the model presented above for magnetic alignment of diamagnetic molecules in strong  magnetic fields.</para>
+      <para><emphasis role="bold">Translational Forces </emphasis></para>
+      <para>Injury can be caused by the application of forces on tissues. For tissue components with  large differences in magnetic properties, such forces could develop in nonuniform magnetic  fields. As it was shown earlier, diamagnetic tissue components tend to move toward lower  fields and paramagnetic tissue components will be forced to higher field regions. The for- mation of such opposing forces on components of the same tissue could interfere with the  physiological function of the tissue and lead to injury. It is conceivable that under normal  circumstances, biological structures have greater internal forces, such as electric forces in- volved in chemical reactions, than magnetic forces due to susceptibility variations (34, 87).  Furthermore, gravitational forces and forces produced by acceleration and other motions  during routine activities produce considerable forces on tissue components. The evolution  of life under the gravitational action of Earth and routine life activities must have resulted  in development of the “means” to incorporate these forces in the inner workings of living  beings. These “means” will be unable to identify the source of the force and end up pre- venting tissue function from being substantially affected by magnetic forces.</para>
+      <para>As it was shown in the examples above for UHF magnets, for magnetic torque acting  on water molecules, the differential magnetic forces can be much smaller than differential  gravitational forces. This is important since even the larger differential gravitational forces  are too small to disturb physiological processes. Here, too, red blood cells can be used to</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">117</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 117</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0133.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0134.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>as a quantitative analysis of the role of magnetic translational forces. Behavior of red blood  cells in the blood is affected by its higher density than plasma, making them sink in the  blood in the absence of larger hemodynamic forces. This effect, called erythrocyte sedi- mentation rate (ESR), is used in the laboratory to test for abnormalities of blood proteins.  While gravitational forces are useful for separation of blood ingredients in test tubes, they  are too small to make red blood cells sink, <emphasis role="italics">in vivo</emphasis>.</para>
+      <para>The molecule, hemoglobin, has four iron atoms in each molecule that reduce the dia- magnetic properties of red blood cells, making it slightly less than that of surrounding  plasma.  This pushes red blood cells toward regions of strong magnetic fields relative to  the plasma. Using the expression for magnetic force from <emphasis role="bold">Table 3</emphasis>, the magnitude of this</para>
+      <para>differential force is given by  . Working this example for the</para>
+      <para>8-T whole body scanner, the maximum value of   is 42.6-T<superscript>2</superscript>/m. To find the sus-</para>
+      <para>ceptibility of deoxygenated hemoglobin, participation of four iron atoms per molecule is  taken into account to get χrbc = -6.53 x 10<superscript>-6</superscript>. Take the susceptibility of plasma to be the same  as water, -9.05 x 10<superscript>-6</superscript>. In addition, the mass densities of red blood cells and plasma are given  by ρrbc = 1.093 g/cc and ρplasma = 1.027-g/cc. Inserting these quantities in the equation will  give the ratio of the magnetic and gravitational forces at 8-T to be</para>
+      <para>where gravitational acceleration is taken to be</para>
+      <para><emphasis role="italics">g</emphasis> = 9.8-m/s<superscript>2</superscript>. As is seen from these calculations, even at the highest static magnetic field  strength available for MRI research, the maximum magnetic force capable of separating  the red blood cells from the plasma is about 13 percent of the gravitational forces. Consid- ering that gravitational forces have negligible effects, <emphasis role="italics">in vivo</emphasis>, the effect of magnetic forces  is even smaller by almost an order of magnitude for static magnetic fields of up to 8-T.</para>
+      <para>Discussions and calculations in this section show that, while finite magnetic effects act  on tissues in magnetic fields, their magnitude for field strengths available for MRI exami- nations in human subjects is relatively small when compared to other known forces, such  as gravitational and routine physical activities, and these forces are clearly incapable of  causing injury to biological tissues. Importantely, forces maintaining the integrity of mo- lecular and cellular structures of biological tissues appear to be orders of magnitude larger  than the forces that magnetic fields can exert on living beings.</para>
+    </sect1>
+    <sect1 id="ch0004s06">
+      <title>SENSORY EFFECTS OF STATIC MAGNETIC FIELDS</title>
+      <para>Static magnetic effects acting on stationary tissues were presented in previous sections.  Here, we will analyze the interaction of sensory tissues with magnetic fields. Research in  this area has revealed that motion in strong magnetic fields could induce mild sensory effects  that are transient and not harmful (44, 48, 80, 86). These reports rely on a subjective de- scription of sensory stimulations and, as such, their effects have to be interpreted with great</para>
+      <para><emphasis role="bold">118</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 118</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0135.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0136.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0137.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>caution because the number of studies of these effects is limited. On the issue of subjectivity  of this effect, reports have documented static magnetic field-induced sensory effects expe- rienced by staff members working around superconducting magnets, even during the time  when the magnets were “off” (89). Nevertheless, comparisons of incidents at different field  strengths show that human subjects exposed to higher fields (e.g., 9.4-Tesla) reported higher  rates of sensory stimulation than those subjected to a 0.5-Tesla field (5, 86, 153). Field-de- pendence of sensory effects has been both expected and reported by workers on high field  strength scanners. Particularly, sensations of nausea, vertigo, and metallic taste related to  exposures to static magnetic fields operating at 4-, 8-, and 9.4-Tesla have been reported (5,  86, 153). However, effects such as headache, tinnitus, vomiting, hiccups, and numbness  that have sometimes been attributed to static magnetic field exposures have not been con- sistently observed for the same field strengths.</para>
+      <para>Magnetophosphenes, sensations of light flashing when the eyes are moved rapidly while  inside the magnetic field in a dark room, have been reported at static magnetic field strengths  of up to 9.4-Tesla. Computational results have confirmed the factors involved in the obser- vation of magnetophosphenes and have provided quantitative models for this phenomenon  (154).</para>
+      <para>Sensory experiences in static magnetic fields from 0.5- to 9.4-Tesla have been reported  and shown that avoiding rapid body movements inside these magnetic fields may reduce  these sensations. In addition, lower field strengths are associated with reduced sensations  of peripheral nerve stimulation. However, there is substantial evidence that magnetic field- induced sensory effects are caused by activation of highly excitable sensory systems by  weak electrical currents that can be induced by moving certain body parts inside magnetic  fields (154-156). Sensations such as nausea have been reported, which are probably caused  by magnetic forces exciting motion sensors in the semicircular canals of the inner ear (98).  This specific effect may be created due to a conflict in the position information supplied by  the visual systems and vestibular position-sensing system. A possible source of vertigo could  be magnetic forces caused by diamagnetic anisotropy of the inner ear receptors. Small  amounts of torque acting on these receptors could induce a small level of sensory effects.  Notably, the slow movement of the patient inside or around a very strong magnetic field  drastically reduces sensory stimulations and provides comfort in association with the per- formance of an MRI examination using a UHF MR system. For this reason, the 7-Tesla MR  system that is approved for clinical use (Terra, Siemens Healthineers) has a table that moves  the patient slowly into the scanner, thus, avoiding the afore-mentioned issues related to  rapid movements in a powerful static magnetic field.</para>
+    </sect1>
+    <sect1 id="ch0004s07">
+      <title>HEATING EFFECTS</title>
+      <para>Studies using laboratory animals have reported the effect of static magnetic fields on  body and skin temperatures (157-162). However, these investigations do not offer an un- equivocal conclusion about this issue. One report indicated that exposure to static magnetic  fields can change body temperature depending on the orientation of the animal with respect  to the magnetic field (157). Another report presented measurements performed on small  animals and made specific comments about their mechanism of action (161). Still other</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">119</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 119</para>
+      <para>studies of mammals, including those involving human subjects, reported the absence of an  effect of static magnetic fields on skin and body temperatures (158-160).</para>
+      <para>Most reports of temperature changes related to static magnetic fields have not proposed  a plausible mechanism for these observations. The choice of animals as well as the temper- ature measuring devices could affect the results of such studies because, in some of the re- ports of static magnetic field-induced temperature changes, the investigations used  temperature-labile mammals or problematic instrumentation. Also, the possibility of the  strong static magnetic fields causing erroneous readings on the temperature recording de- vices was not addressed.</para>
+      <para>Various investigations performed using laboratory animals and human subjects exposed  to high static magnetic fields have reported that there are no changes in skin or body tem- peratures (6, 158-160). Utilizing a fluoroptic thermometry system known to be impervious  to strong magnetic fields to record temperatures in laboratory animals and human studies  ensures that accurate temperature readings are achieved inside the bore of the MR system.  In consideration of the above, to date, exposure to static magnetic fields is not believed to  alter human body temperatures.</para>
+    </sect1>
+    <sect1 id="ch0004s08">
+      <title>SAFETY REGULATIONS</title>
+      <para>The safety of human exposure to MR systems is the responsibility of the Food and Drug  Administration (FDA) in the United States (U.S.) and other similar agencies outside of the  U.S. The FDA provides guidelines for the limits of safe exposures to static magnetic fields  as well as the other electromagnetic fields used for MRI (i.e., gradient magnetic fields and  radiofrequency power deposition). The FDA’s assessment of the health risks associated with  exposure to static magnetic fields was last updated in 2014, with the upper limit set at 8- Tesla (4). The World Health Organization (WHO) also established health criteria for static  magnetic fields within the Environmental Health Criteria Program (163). The International  Commission on Non-Ionizing Radiation Protection (ICNIRP) reports, along with other sim- ilar documents, offers insight and regulatory guidelines pertaining to the biological effects  of exposure to static magnetic fields (163-176). The regulatory body in the United Kingdom  for medical device safety is the National Radiological Protection Board (NRPB) and in the  European Union, this task is carried out by the International Electrotechnical Commission  (IEC). All of these regulatory bodies evaluate the available scientific databases and develop  the rationale for updated guidelines as new data and technology become available (169- 179).</para>
+      <para>The Medical Devices Act passed by the U.S. Congress in 1977 required MRI to demon- strate its viability as an imaging modality and safety for the first time. Subsequent to the  discovery of MRI as an important medical imaging device, major manufacturers introduced  their products and applied for FDA approval. Rapid success in demonstrating its safe oper- ation led to the 1987 FDA designation of a static magnetic field strength of 2-T as the limit  below which MR systems will pose a non-significant risk to human subjects. Proliferation  of MR scanners and research systems helped to support an increase in the non-significant  field strength risk to 4-T in 1996 and 8-T in 2003 (note, this document was updated in  2014)(4). Accordingly, since 2003, exposure of research subjects to static magnetic fields</para>
+      <para><emphasis role="bold">120</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 120</para>
+      <para>above 8-T in the U.S. requires approval of the research protocol by an Institutional Review  Board (IRB) with informed consent of the subjects.</para>
+      <para><emphasis role="bold">Occupational Exposure </emphasis></para>
+      <para>Exposure to strong magnetic fields is often greater from a time consideration for work- ers involved with manufacturing and testing magnet-based instruments and devices than it  is for patients. In addition to workers involved in the manufacturing process for MR systems,  MRI researchers, MRI technologists/radiographers working in research, medical center, and  out-patient settings, as well as experimental high-energy physicists are among the popula- tions with chronic exposures to strong static magnetic fields. To regulate chronic exposures,  guidelines have been developed by certain countries. Proposed in Europe, a time-weighted- average field exposure of 0.20-T/8-hour would limit the workers to 0.2-T field for an eight- hour day or 8-T for 12-minutes. A higher limit of 2-T/8-hour limit was proposed for the  extremities by these guidelines. The lack of confirmed evidence for harmful cumulative ef- fects of exposures to static magnetic fields has made these limits less consequential than  the limit on the highest static magnetic field strength applied to human subjects. This is es- pecially true as the fields outside the magnets are highly inhomogeneous. The strong spatial  variation of the magnetic fields is not usually specified for MR systems, and because of  this (i.e., the fringe field), workers are not constantly exposed to the magnetic field, making  it difficult to measure the effect over a workday period. For these workers, the most ominous  potential hazard remains to be the inadvertent introduction of ferromagnetic tools or other  objects into areas with high fringe fields.</para>
+      <para>Researchers are continuing to investigate the chronic effects of any mechanism of tissue  injury at the static magnetic field strengths currently available for human magnets (i.e.,  whole-body MR scanners). Expanding the number of controlled studies that involve long- term exposures of animals and human subjects to strong magnetic fields may offer valuable  insight into the safety of chronic magnetic field exposures. Furthermore, the collection of  safety data from MR system manufacturers, researchers, and medical staff will be helpful  for the analysis of the effects of static magnetic fields on human subjects.</para>
+    </sect1>
+    <sect1 id="ch0004s09">
+      <title>CONCLUSIONS</title>
+      <para>According to health data published by the Organization for Economic Co-operation and  Development (OECD) in 2009, the average number of MRI examinations performed per  1,000-population per year for the thirty countries of the OECD was forty-one. Considering  the population of the OECD to be 1.2 billion means that approximately 54 million MRI  exams were performed in the thirty OECD countries each year (180). In the United States,  91.2 MRI procedures per 1,000-population equates to about 28 million examinations annu- ally. Nevertheless, no unpreventable harm to the patients from exposure to the static mag- netic field has been reported. As previously indicated, all serious accidents associated with  MR systems, to date, have been caused by the involuntary introduction of ferromagnetic  materials or medical devices into the magnetic field. In addition to clinical scanners, research  scanners operating at fields of up to 11.7-Tesla for human subjects and over 20-T for animals  have shown no major safety incidents, which has laid the foundation for clinical scanners  to be designed for operation at higher field strengths. There is still considerable fertile</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">121</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 121</para>
+      <para>ground for research in studying the interaction of biological tissues with stronger magnetic  fields, regardless of how safe the record of operation at high static magnetic fields is at the  present time.</para>
+      <para>Keeping in mind that the spatial gradient magnetic field will be larger for higher field  strength magnets, more stringent measures to exclude the presence of ferromagnetic objects  from MRI suites will be needed. In spite of the existence of more than eighty 7-T research  and clinical MR systems around the world, a number of technological issues such as RF in- homogeneity, susceptibility artifacts, and RF power deposition (i.e., SAR) issues will con- tinue to present challenges (178). Nevertheless, the relentless drive for higher fields is  achieving new milestones, such as the 21.1-T, 105-mm magnet located at the National High  Magnetic Field Laboratory in Tallahassee, Florida (which currently is the strongest MR sys- tem in the world used for small animal imaging). Nuclear magnetic resonance (NMR) de- vices operating at 23.5-T with a hydrogen proton Larmor frequency of 1-GHz and a bore  size of 54-mm are now commercially available. This trend will continue and the safety in- vestigations involving small animals will add valuable information for our understanding  of the interactions of these fields with living beings.</para>
+      <para>Research on the effect of strong magnetic fields on tissues, cells, and molecules has not  produced evidence for its harm to human life. The magnetic forces analyzed in many pub- lications have proven to be insignificant compared to the natural forces that maintain the  structural integrity of the tissues and the routine forces to which the human body is exposed  to during everyday activities.</para>
+      <para>Regulatory bodies have justifiably taken the attitude of requiring verification of any  claim of adverse effects to static magnetic fields before limits are incorporated into safety  guidelines. This is a reasonable approach that has demonstrated attention to scientific find- ings, while preventing unnecessary impediments to research and exploration of benefits of  magnetic fields for the good of society.</para>
+      <para>Fortunately, the physics of such interactions are straightforward and simple calculations  provide insight into the order of magnitude of magnetic field effects. To date, such calcu- lations have indicated that forces exerted on diamagnetic materials, of which biological tis- sue are overwhelmingly made, are insignificant compared to other forces involved in  maintaining their structure and function. It seems that all of the major revisions in the FDA  guidelines for assessing non-significant risk involved in the exposure of human subjects to  static magnetic fields have followed this course of action. The present FDA guidelines rec- ommend 8-T as the strongest magnetic field with non-significant risk. As the field strengths  are increasing for whole body scanners, it is conceivable that sensory effects such as vertigo,  metallic taste, magnetophosphenes, and possibly other responses may become more preva- lent. However, no permanent harm from these effects has been presented. Transient effects  caused by movement inside the magnetic field can be minimized through MRI operator  training. Notably, the long-term, cumulative effect of exposures to static magnetic fields is  a topic requiring additional research.</para>
+      <para>As the field strength of MR systems increases, it is conceivable that eventually, one of  the forces of interaction will become large enough to require limiting its effect on human  life. Diamagnetic susceptibility is unlikely to be the limiting factor. However, the effect of</para>
+      <para><emphasis role="bold">122</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 122</para>
+      <para>field inhomogeneity and the magnetic effect on blood flow could limit the persistent drive  towards higher fields. For now, even research magnets seem to be far from that limit and  we are fortunate to be able to safely explore the benefits of higher static magnetic fields in  order to visualize the structure and function of the human body. If more complex safety  studies continue to confirm that there are no substantial adverse effects, then much higher  magnetic fields could become available for human MR imaging to continuously enhance  our ability to observe otherwise opaque biological structures and functions. Such observa- tions may lead to better healthcare for future generations and offer an understanding of the  mysteries of life.</para>
+      <para>(Portions this chapter were excerpted from Kangarlu A, Schenck JF. Chapter 2, Bio- logical Effects of Static Magnetic Fields. In: Shellock FG, Crues JV, Editors. Bioeffects,  Safety, and Patient Management. Biomedical Research Publishing Group, Los Angeles,  CA, 2014.)</para>
+    </sect1>
+    <sect1 id="ch0004s10">
+      <title>REFERENCES</title>
+      <para>1.  Damadian R. Tumor detection by nuclear magnetic resonance. Science 1971;171:1151-1153.</para>
+      <para>2.   Lauterbur PC. Image formation by induced local interactions: Examples employing nuclear magnetic  resonance. Nature 1973;242:190 -191.</para>
+      <para>3.  McRobbie DW. Occupational exposure in MRI. Br J Radiol 2012;85:293-312.</para>
+      <para>4.   U.S. Department of Health and Human Services, Food and Drug Administration, Center for Devices  and Radiological Health. Criteria for Significant Risk Investigations of Magnetic Resonance Diagnostic  Devices - Guidance for MRI Industry and FDA Staff. Issued June 20, 2014.</para>
+      <para>5.  Kangarlu A, Robitaille PML. Biological effects and health implications in magnetic resonance imaging.  Concepts in Magnetic Resonance 2000;12:321–359.</para>
+      <para>6.  Kangarlu A, Shellock FG, Chakeres DW. 8.0-Tesla human MR system: Temperature changes associated  with radiofrequency-induced heating of a head phantom. J Magn Reson Imaging 2003;17:220-6.</para>
+      <para>7.  Kangarlu A, Shellock FG. Aneurysm clips: Evaluation of magnetic field interactions with an 8.0 T MR  system. J Magn Reson Imaging 2000;12:107-11.</para>
+      <para>8.  Heinrich A, Szostek A, Meyer P, et al. Cognition and sensation in very high static magnetic fields: A  randomized case-crossover study with different field strengths. Radiology 2013;266:236-45.</para>
+      <para>9.  Chakeres DW, Kangarlu A, Boudoulas H, Young DC. Effect of static magnetic field exposure of up to  8 Tesla on sequential human vital sign measurements. J Magn Reson Imaging 2003;18:346-52.</para>
+      <para>10.  Chakeres DW, Bornstein R, Kangarlu A. Randomized comparison of cognitive function in humans at 0  and 8 Tesla. J Magn Reson Imag 2003;18:342-5.</para>
+      <para>11.  Mottelay PF. Bibliographical History of Electricity and Magnetism Chronologically Arranged. London:  Charles Griffin &amp; Co.; 1922.</para>
+      <para>12.  Davis LD, Pappajohn K, Plavnieks IM, Spiegler PE, Jacobius AJ. Bibliography of the biological effects  of magnetic fields. Fed Proc Suppl 1962;2:1-38.</para>
+      <para>13.  Gross L. Bibliography of the Biological Effects of Static Magnetic Fields. In: Barnothy MF, Editor. Bi- ological Effects of Magnetic Fields. New York: Plenum Press; 1964. pp. 297-311.</para>
+      <para>14.  Gartrell RG. Electricity, Magnetism, and Animal Magnetism: A Checklist of Printed Sources, 1600- 1850. Wilmington, DE: Scholarly Resources, Inc.; 1975.</para>
+      <para>15.  Mourino MR. From Thales to Lauterbur, or from the lodestone to MR imaging: Magnetism and medicine.  Radiology 1991;180;593-612.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">123</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 123</para>
+      <para>16.  Binet A, Féré C. Animal Magnetism. Kegan Paul, Editor. London: 1887. Reprinted, New York: Gryphon  Editions; 1993.</para>
+      <para>17.  Barnothy MF. Editor, Biological Effects of Magnetic Fields. New York: Plenum Press; 1964.</para>
+      <para>18.  Kholodov YA. The effect of electromagnetic and magnetic fields on the central nervous system. NASA  Technical Translation F-465, Clearing House for Federal Scientific and Technical Information, Spring- field, VA: 1967.</para>
+      <para>19.  Barnothy MF. Editor, Biological Effects of Magnetic Fields. Volume 2. New York: Plenum Press; 1969.</para>
+      <para>20.  Pressman AS. Electromagnetic Fields and Life. Sinclair FL, Brown FA Jr, Translators. New York: Plenum  Press; 1970.</para>
+      <para>21.  Kholodov YA. Editor, Influence of Magnetic Fields on Biological Objects. Springfield, VA: JPRS 63038,  National Technical Information Service; 1974.</para>
+      <para>22.  Llaurado JG, Sances A, Battocletti AJH, Editors. Biologic and Clinical Effects of Low-Frequency Mag- netic and Electric fields. Springfield, IL: Thomas; 1974.</para>
+      <para>23.  Buranelli V. The Wizard from Vienna: Franz Anton Mesmer. New York: Coward, McCann and Geoha- gen; 1975.</para>
+      <para>24.  Tenforde TS. Editor. Magnetic Field Effect on Biological Systems. New York: Plenum Press; 1979.</para>
+      <para>25.  Herlach F. Editors, Strong and Ultrastrong Magnetic Fields and Their Applications. Berlin: Springer- Verlag; 1985.</para>
+      <para>26.  Maret G, Boccara N, Kiepenheuer J, Editors. Biophysical Effects of Steady Magnetic Fields. Berlin:  Springer-Verlag;1986.</para>
+      <para>27.  Polk C, Postow E. Handbook of Biological Effects of Electromagnetic Fields. Boca Raton, FL: CRC  Press; 1986.</para>
+      <para>28.  Crabtree A. From Mesmer to Freud: Magnetic Sleep and the Roots of Psychological Healing. New  Haven: Yale University Press; 1993.</para>
+      <para>29.  Shellock FG, Kanal E, Magnetic Resonance: Bioeffects, Patient Safety, and Patient Management. Second  Edition. Philadelphia, PA: Lippincott-Raven; 1996.</para>
+      <para>30.  Whitaker J, Adderly B. The Pain Relief Breakthrough: The Power of Magnets to Relieve Backaches,  Arthritis, Menstrual Cramps, Carpal Tunnel Syndrome, Sports Injuries and More, Boston: Little Brown;  1998.</para>
+      <para>31.  Quinan JR. The use of the magnet in medicine: A historical study. Maryland Med J 1886;14:460-465.</para>
+      <para>32.  Schaefer DJ. Safety Aspects of Magnetic Resonance Imaging. In: Wehrli FW, Shaw D, Kneeland JB,  Editors. Biomedical Magnetic Resonance Imaging: Principles, Methodology and Applications. Wein- heim: VCH Verlagsgesellschaft; 1988. pp. 553-578.</para>
+      <para>33.  Shellock FG, Kanal E, Moscatel M. Bioeffects and Safety Considerations. In: Atlas SW, Editor. Magnetic  Resonance Imaging of the Brain and Spine. Second Edition. Philadelphia, PA: Lippincott-Raven; 1996.  pp. 109-148.</para>
+      <para>34.  Schenck JF. MR Safety at High Magnetic Field Strengths. In: Kanal E. Editor. Magnetic Resonance Im- aging Clinics of North America: MR Safety. Volume 6. Philadelphia, PA: Saunders; 1998. pp. 715-730.</para>
+      <para>35.  Hermann L. Hat das magnetische Feld directe physiologische Wirkungen? Pflügers Arch Gesammte  Physiol Menschen Thiere 1888;43:217-234.</para>
+      <para>36.  Peterson F, Kennelly AE. Some physiological experiments with magnets at the Edison Laboratory. NY  Med J 1892;56:729-734.</para>
+      <para>37.  Drinker CK, Thomson RM. Does the magnetic field constitute an industrial hazard? J Ind Hyg  1921;3:117-129.</para>
+      <para>38.  American Medical Association. Theronoid and vitrona: The magic horse collar campaign continues.  JAMA 931;96:1718-1719.</para>
+      <para><emphasis role="bold">124</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 124</para>
+      <para>39.  Barnothy MF, Barnothy JM, Boszormenyi-Nagy I. Influence of magnetic field upon the leucocytes of  the mouse. Nature 1956;177: 577-578.</para>
+      <para>40.  Barnothy MF, Barnothy JM. Biological effect of a magnetic field and the radiation syndrome. Nature  1958;181:1785-1786.</para>
+      <para>41.  Freeman MW, Arrott A, Watson JHL. Magnetism in medicine. J Appl Phys 1960;31:404S-405S.</para>
+      <para>42.  Eiselein TE, Boutell HM, Biggs MW. Biological effects of magnetic fields – negative results. Aerospace  Medicine 1961;32:383-386.</para>
+      <para>43.  Beischer DE. Human tolerance to magnetic fields. Astronautics 1962;7:24-25.</para>
+      <para>44.  Beischer DE, Knepton Jr JC. Influence of strong magnetic fields on the electrocardiogram of squirrel  monkeys (Saimiri sciureus). Aerospace Medicine 1964;35: 939-944.</para>
+      <para>45.  Murayama M. Orientation of sickled erythrocytes in a magnetic field. Nature 1965;206:420-422.</para>
+      <para>46.  Murayama M. Molecular mechanism of red cell “sickling”. Science 1966;153:145-149.</para>
+      <para>47.  Malinin GI, Gregory WD, Morelli L, Sharma VK, Houck JC. Evidence of morphological and physio- logical transformation of mammalian cells by strong magnetic fields. Science 1976;194:844-846.</para>
+      <para>48.  St. Lorant SJ. Biomagnetism: A Review. In: SLAC Publication, 1984. Stanford, CA: Stanford Linear  Accelerator; 1977. pp. 1-9.</para>
+      <para>49.  Ketchen EE, Porter WE, Bolton NE. The biological effects of magnetic fields on man. Am Ind Hyg  Assoc J 1978;39:1-11.</para>
+      <para>50.  Budinger TF. Threshold for physiological effects due to RF and magnetic fields used in NMR imaging.  IEEE Trans Nucl Sci 1979;NS-26:2821-2825.</para>
+      <para>51.  Saunders RD. Biological Hazards of NMR. In: Witcofski RL, Karstaedt N, Partain CL, Editors. Pro- ceedings of an International Symposium on Nuclear Magnetic Resonance Imaging. Winston-Salem, NC:  Bowman Gray School of Medicine; 1981. pp. 65-71.</para>
+      <para>52.  Battocletti JH, Salles-Cunha S, Halbach RE, et al. Exposure of rhesus monkeys to 20000 G steady mag- netic field: Effect on blood parameters. Med Phys 1981;8:115-118.</para>
+      <para>53.  Budinger TF. Nuclear magnetic resonance (NMR) <emphasis role="italics">in vitro</emphasis> studies: Known thresholds for health effects.  J Comput Assisted Tomog 1981;5:800-811.</para>
+      <para>54.  Hong C-Z, Lin JC, Bender LF, et al. Magnetic necklace: Its therapeutic effectiveness on neck and shoul- der pain. Arch Phys Med Rehabil 1982;63:462-466.</para>
+      <para>55.  Budinger TF. Hazards from DC and AC Magnetic Fields. In: Book of Abstracts. Berkeley, CA: Society  of Magnetic Resonance in Medicine; 1982. pp. 29-30.</para>
+      <para>56.  Milham S. Mortality from leukemia in workers exposed to electrical and magnetic fields (Letter). N  Engl J Med 1982;307:249.</para>
+      <para>57.  New PF, Rosen BR, Brady TJ, et al. Potential hazards and artifacts of ferromagnetic and nonferromag- netic surgical and dental materials and devices in nuclear magnetic resonance imaging. Radiology  1983;147:139-148.</para>
+      <para>58.  Saunders RD, Smith H. Safety aspects of NMR clinical imaging. Br Med Bull 1984;40:148-154.</para>
+      <para>59.  Budinger TF, Bristol KS, Yen CK, Wong P. Biological Effects of Static Magnetic Fields. In: Book of  Abstracts. Berkeley, CA: Society of Magnetic Resonance in Medicine; 1984. pp. 113-114.</para>
+      <para>60.  Budinger TF, Cullander C. Health Effects of <emphasis role="italics">In Vivo</emphasis> Nuclear Magnetic Resonance. In: Biomedical Mag- netic Resonance. James CE, Margulis A. Editors. San Francisco: Radiology Research and Education  Foundation; 1984. pp. 421-441.</para>
+      <para>61.  Brody AS, Sorette MP, Gooding CA, et al. Induced alignment of flowing sickle erythrocytes in a mag- netic field: A preliminary report. Invest Radiol 1985;20:560-566.</para>
+      <para>62.  Kelly WM, Paglen PG, Pearson JA, San Diego AG, Soloman MA. Ferromagnetism of intraocular foreign  body causes unilateral blindness after MR study. Am J Roentgenol 1986;7:243-245.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">125</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 125</para>
+      <para>63.  Gleick J. Man hurt as medical magnet attracts forklift. New York Times 1986;A21.</para>
+      <para>64.  von Klitzing L. Do static magnetic fields of NMR influence biological signals? Clin Phys Physiol Meas  1986;7:157-160.</para>
+      <para>65.  Lund G, Nelson JD, Wirtschafter JD, et al. Tattooing of eyelids: Magnetic resonance imaging artifacts.  Ophthalmic Surg 1986;17:550-553.</para>
+      <para>66.  Fowler JR, Ter Penning B, Syverud SA, Levy RC. Magnetic field hazard (Letter). N Engl J Med  1986;314:1517.</para>
+      <para>67.  Miller G. Exposure guidelines for magnetic fields. Am Ind Hyg Assoc J 1987;48:957-968.</para>
+      <para>68.  Weiss RA, et al. Mascara and eye-lining tattoos: MRI artifacts. Ann Ophthalmology 1989;21:129-131.</para>
+      <para>69.  Budinger TF. Magnetohydrodynamic Retarding Effect on Blood Flow Velocity at 4.7 Tesla Found to be  Insignificant. In: Book of Abstracts. Berkeley, CA: Society of Magnetic Resonance in Medicine; 1987.  pp.183.</para>
+      <para>70.  Tope WD, Shellock FG. Magnetic resonance imaging and permanent cosmetics (tattoos): Survey of  complications and adverse events. J Magn Reson Imag 2002;15:180-184.</para>
+      <para>71.  Sacco DC, Steiger DA, Bellon EM, et al. Artifacts caused by cosmetics in MR imaging of the head. Am  J Roentgenol 1987;148:1001-1004.</para>
+      <para>72.  Wolfley DE, Flynn KJ, Cartwright J. Eyelid pigment implantation: Early and late histopathology. Plast  Reconstr Surg 1988;82:770-774.</para>
+      <para>73.  Schenck JF, Dumoulin CL, Mueller OM, et al. Proton Imaging of Humans at 4.0 Tesla. In: Book of Ab- stracts. Berkeley, CA: Society of Magnetic Resonance in Medicine; 1988. pp. 153.</para>
+      <para>74.  Brody AS, Embury SH, Mentzer WC, Winkler M, Gooding CA. Preservation of sickle cell bloodflow  patterns during MR imaging: An <emphasis role="italics">in vivo</emphasis> study. Am J Roentgenol 1988;151:139-141.</para>
+      <para>75.  Redington RW, Dumoulin CL, Schenck JF, et al. MR Imaging and Bio-effects in a Whole-Body 4.0  Tesla Imaging System. In: Book of Abstracts. Berkeley, CA: Society of Magnetic Resonance in Medi- cine; 1988. pp. 20.</para>
+      <para>76.  Wahlund L-O, Agartz, I, Almqvist, O, et al. The brain in healthy aged individuals. Radiology  1990;174:674-679.</para>
+      <para>77.  Mankad VN, Williams JP, Harpen MD, et al. Magnetic resonance imaging of bone marrow in sickle cell  disease: clinical, hematological, and pathologic correlations. Blood 1990;75:274-283.</para>
+      <para>78.  Hong C-Z, Shellock F. Short term exposure to a 1.5 Tesla static magnetic field does not affect somato- sensory-evoked potentials in man. Magn Reson Imaging 1990;8:65-69.</para>
+      <para>79.  Muller S, Hotz M. Human brainstem auditory evoked potentials (BAEP) before and after MR examina- tions. Magn Reson Med 1990;16:476-480.</para>
+      <para>80.  Schenck JF, Dumoulin CL, Souza SP. Health and Physiological effects of human exposure to whole- body 4 Tesla magnetic fields during magnetic resonance scanning. In: Book of Abstracts. Berkeley, CA:  Society of Magnetic Resonance in Medicine; 1990. pp. 277.</para>
+      <para>81.  Keltner JR, Roos MS, Brakeman PR, Budinger TF. Magnetohydrodynamics of blood flow. Magn Reson  Med 1990;16:139-149.</para>
+      <para>82.  Phillips ME. Industrial hygiene investigation of static magnetic fields in nuclear magnetic resonance fa- cilities. Appl Occup Environ Hyg 1990;5:353-358.</para>
+      <para>83.  Kelsey CA, King JN, Keck GM, et al. Ocular hazard of metallic fragments during MR imaging at 0.06  T. Radiology 1991;180:282-283.</para>
+      <para>84.  Buettner UW. Human Interactions with Ultra High Fields. In: Magin RL, Liburdy RP, Persson B, Editors.  Biological and Safety Aspects of Nuclear Magnetic Resonance Imaging and Spectroscopy. Annals of  the New York Academy of Sciences, Volume 649. New York: New York Academy of Sciences; 1992.  pp. 59-66.</para>
+      <para><emphasis role="bold">126</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 126</para>
+      <para>85.  Schenck JF. Quantitative Assessment of the magnetic forces and torques in red rlood cells: Implications  for patients with sickle cell anemia. In: Book of Abstracts. Berkeley, CA: Society of Magnetic Resonance  in Medicine; 1992. pp. 3405.</para>
+      <para>86.  Schenck JF, Dumoulin CL, Redington RW, et al. Human exposure to 4.0-Tesla magnetic fields in a  whole-body scanner. Med Phys 1992;19:1089-1098.</para>
+      <para>87.  Schenck JF. Health and Physiological Effects of Human Exposure to Whole-Body Four-Tesla Magnetic  Fields During MRI. In: Magin RL, Liburdy RP, Persson B. Editors. Biological and Safety Aspects of  Nuclear Magnetic Resonance Imaging and Spectroscopy. Annals of the New York Academy of Sciences,  Volume 649. New York: New York Academy of Sciences; 1992. pp 285-301.</para>
+      <para>88.  Macklis RM. Magnetic healing, quackery, and the debate about the health effects of electromagnetic  fields. Ann Int Med 1993;118:376-383.</para>
+      <para>89.  Erhard P, Chen W, Lee J-H, Ugurbil K. A study of effects reported by subjects at high magnetic fields.  In: Book of Abstracts. Berkeley, CA: Society of Magnetic Resonance in Medicine; 1995. pp. 1219.</para>
+      <para>90.  Schenck JF. The role of magnetic susceptibility in magnetic resonance imaging: Magnetic field com- patibility of the first and second kinds. Med Phys 1996;23:815-850.</para>
+      <para>91.  Shermer M, Salas C, Salas D. Testing the claims of mesmerism: Commissioned by King Louis XVI:  Designed, conducted and written by Benjamin Franklin, Antoine Lavoisier and others. Translation of  the 1784 report of the commissioners charged by the King to examine animal magnetism. Skeptic  1996;4:66-83.</para>
+      <para>92.  Minczykowski A, Wlodzimierz P, Smielecki J, et al. Effects of magnetic resonance imaging on poly- morphonuclear neutrophil functions. Acad Radiol 1996;3:97-102.</para>
+      <para>93.  Vallbona C, Hazlewood CF, Jurida G. Response of pain to static magnetic fields in postpolio patients:  A double-blind pilot study. Arch Phys Med Rehabil 1997;78:1200-1203.</para>
+      <para>94.  Horstman J. Explorations: Magnets. Arthritis Today 1988;12:48-51.</para>
+      <para>95.  Ramey DW. Magnetic and electromagnetic therapy. Sci Rev Alt Med 1998;2:13-19.</para>
+      <para>96.  Kinouchi Y, Yamaguchi H, Tenforde TS. Theoretical analysis of magnetic field interactions with aortic  blood flow. Bioelectromagnetics 1996;17:21-32.</para>
+      <para>97.  Feingold L. Magnet therapy. Sci Rev Alt Med 1999;3:26-33.</para>
+      <para>98.  Kangarlu A, Burgess RE, Zhu H, et al. Cognitive, cardiac, and physiological safety studies in ultra high  field magnetic resonance imaging. Magn Reson Imaging 1990;17:1407-1416.</para>
+      <para>99.  Klucznik RP, Carrier DA, Pyka R, et al. Placement of a ferromagnetic intracerebral aneurysm clip with  a fatal outcome. Radiology 1993;187:587-599.</para>
+      <para>100.  Kanal E, Shellock FG. MR imaging of patients with intracranial aneurysm clips. Radiology  1993;187:612-614.</para>
+      <para>101.  Gimbel JR, Johnson D, Levine PA, et al. Safe performance of magnetic resonance imaging on five pa- tients with permanent cardiac pacemakers. Pacing Clin Electrophysiol 1996;19:913-919.</para>
+      <para>102.  Becker RO. Cross Currents. The Promise of Electromedicine, the Perils of Electropollution. Torcher.  Los Angeles: 1990.</para>
+      <para>103.  Davis AR, Rawls WC. Magnetism and Its Effects on the Living System. Smithtown, NY: Exposition  Press; 1975.</para>
+      <para>104.  Wilson MN. Superconducting Magnets. Oxford: Clarendon Press; 1983.</para>
+      <para>105.  Vallbona C, Richards T. Evolution of magnetic therapy from alternative to traditional medicine. Phys  Med Rehabil Clin N Am 1999;10:729-54.</para>
+      <para>106.  Hinshaw WS, Bottomley PA, Holland GN. Radiographic thin-section image of the human wrist by nu- clear magnetic resonance. Nature 1977;270:722-723.</para>
+      <para>107.  Hinshaw WS, Andrew ER, Bottomley PA, et al. Display of cross sectional anatomy by nuclear magnetic  resonance imaging. Br J Radiol 1978;51:273-280.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">127</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 127</para>
+      <para>108.  Damadian R, Minkoff L, Goldsmith M. Field-focusing nuclear magnetic resonance (FONAR). Natur- wissenschaften 1978;65:250-252.</para>
+      <para>109.  Edelstein WA, Hutchison JMS, Johnson G, et al. Spin warp NMR imaging and applications to human  whole-body imaging. Phys Med Biol 1980;25:751-756.</para>
+      <para>110.  Vetter J, Siebold H, Söldner L. A 4 -T Superconducting Whole-Body Magnet for MR-Imaging and Spec- troscopy. In: Book of Abstracts. Berkeley, CA: Society of Magnetic Resonance in Medicine; 1987. pp.  181.</para>
+      <para>111.  Vetter J, Ries G, Reichert T. A 4-Tesla superconducting whole-body magnet for MR imaging and spec- troscopy. IEEE Trans Magn 1988;24:1285-1287.</para>
+      <para>112.  Barfuss H, Fischer H, Hentschel D, et al. Whole-body MR imaging and spectroscopy with a 4-T system.  Radiology 1988;169: 811-816.</para>
+      <para>113.  Barfuss H, Fischer H, Hentschel D, et al. <emphasis role="italics">In vivo</emphasis> magnetic resonance imaging and spectroscopy of hu- mans with a 4T whole-body magnet. NMR in Biomed 1990;3:31-45.</para>
+      <para>114.  Chu SC. The development of a 4T whole body system for clinical research. Jap J Magn Reson Med  1990:10:63-64.</para>
+      <para>115.  Bell RA. Economics of MRI technology. J Magn Reson Imaging 1996;6:10-25.</para>
+      <para>116.  Berry MV, Geim AK. Of flying frogs and levitrons. Eur J Phys 1997;18:307-313.</para>
+      <para>117.  Geim AK, Simon MD, Boamfa MI, Heflinger LO. Magnet levitation at your fingertips. Nature  1999;400:323-324.</para>
+      <para>118.  Kolin A. Improved apparatus and technique for electromagnetic determination of blood flow. Rev Sci  Instr 1952;23:235-242.</para>
+      <para>119.  Kanai H, Yamano E, Nakayama K, Kawamura N, Furuhata H. Transcutaneous blood flow measurement  by electromagnetic induction. IEEE Trans Biomed Eng 1974;21:144-151.</para>
+      <para>120.  Togawa T, Okai O, Ohima M. Observation of blood flow e.m.f. in externally applied strong magnetic  fields by surface electrodes. Med Biol Engineer 1967;5:169-170.</para>
+      <para>121.  Tenforde TS, Gaffey CT, Moyer BR, Budinger TF. Cardiovascular alterations in Macaca monkeys ex- posed to stationary magnetic fields: Experimental observations and theoretical analysis. Bioelectromag- netics 1983;4:1-9.</para>
+      <para>122.  Winfrey AT. The electrical thresholds of ventricular myocardium. J Cardiovascular Physiol 1990;1:393- 410.</para>
+      <para>123.  Haberditzl W. Enzyme activity in high magnetic fields. Nature 1967;213:72-73.</para>
+      <para>124.  Atkins PW. Magnetic field effects. Chem Brit 1976;12:214-218.</para>
+      <para>125.  Atkins PW, Lambert TP. The effect of a magnetic field on chemical reactions. Ann Rep Prog Chem  1976;A72:67-88.</para>
+      <para>126.  Brocklehurst B. Spin correlation in the geminate recombination of radical ions in hydrocarbons. Part I  - theory of the magnetic field effect. J Chem Soc Faraday Trans 1976;72:1869-1864.</para>
+      <para>127.  McLauchlan KA. The effects of magnetic fields on chemical reactions. Sci Prog (Oxford) 1981;67:509- 529.</para>
+      <para>128.  Turro NJ. Influence of nuclear spin on chemical reactions: Magnetic isotope and magnetic field effects  (a review). Proc Natl Acad Sci 1983;80:609-621.</para>
+      <para>129.  Gould IR, Turro NJ, Zimmt MB. Magnetic Field and Magnetic Isotope Effects on the Products of Organic  Reactions. In: Gold V, Bethel D, Editors. Advances in Physical Organic Chemistry, Volume 20. New  York: Academic Press; 1984.</para>
+      <para>130.  Steiner UE, Ulrich T. Magnetic field effects in chemical kinetics and related phenomena. Chem Rev  1989;89:51-147.</para>
+      <para>131.  Cohen C. Ferromagnetic contamination in the lungs and other organs of the body. Science 1973;180:745- 748.</para>
+      <para><emphasis role="bold">128</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 128</para>
+      <para>132.  Freedman AP, Robinson SE, Johnston RJ. Non-invasive magnetopneumographic estimation of lung dust  loads and distribution in bituminous coal workers. J Occupational Med 1980;22:613-618.</para>
+      <para>133.  Cohen D, Nemoto I. Ferrimagnetic particles in the lung part 1: The magnetizing process. IEEE Trans  Biomed Engineer 1984;31:261-273.</para>
+      <para>134.  Cohen D, Nemoto I, Kaufman L, et al. Ferrimagnetic particles in the lung part II: The relaxation process.  IEEE Trans Biomed Engineer 1984;31:274-284.</para>
+      <para>135.  Moatamed F, Johnson FB. Identification and significance of magnetite in human tissues. Arch Pathol  Lab Med 1986;110:618-621.</para>
+      <para>136.  Kirschvink JL, Kobayishi-Kirschvink A, Woodford BJ. Magnetite biomineralization in the human brain.  Proc Natl Acad Sci 1992;89:7683-7687.</para>
+      <para>137.  Frauenrath T, Fuchs K, Dieringer MA, et al. Detailing the use of magnetohydrodynamic effects for syn- chronization of MRI with the cardiac cycle: A feasibility study. J Magn Reson Imaging 2012;36:364- 72.</para>
+      <para>138.  Bozorth RM. Ferromagnetism. New York: Van Nostrand; 1951. Reprinted, Piscataway, NJ: IEEE; 1993.  pp. 627-699.</para>
+      <para>139.  Scott WT. The Physics of Electricity and Magnetism. Second Edition. New York: Wiley; 1966. pp. 323- 368.</para>
+      <para>140.  Landau LD, Lifshitz EM, Pitaevskii LP. Electrodynamics of Continuous Media, Second Edition, Oxford:  Pergamon Press; 1984. pp. 105-128; 217-222.</para>
+      <para>141.  Bleaney BI, Bleaney B. Electricity and Magnetism. Third Edition. Oxford: Oxford University Press;  1976. pp. 101-107.</para>
+      <para>142.  Jackson JD. Classical Electrodynamics. Third Edition. New York: Wiley; 1999. pp. 214.</para>
+      <para>143.  Hong FT. Magnetic anisotropy of the visual pigment rhodopsin. Biophysical Journal  1980;29:343-346.</para>
+      <para>144.  Torbet J, Freyssinet J-M, Hudry-Clergeon G. Oriented fibrin gels formed by polymerization in strong  magnetic fields. Nature 1981;289;91-93.</para>
+      <para>145.  Maret G, von Schickfus M, Mayer A, Dransfeld K. Orientation of nucleic acids in high magnetic fields.  Phys Rev Lett 1975;35:397-400.</para>
+      <para>146.  Worcester DL. Structural origins of diamagnetic anisotropy in proteins. Proc Natl Acad Sci 1978;75:  5475-547.</para>
+      <para>147.  Hong FT. Photoelectric and magneto-orientation effects in pigmented biological membranes. J Colloid  Interface Sci 1977;58:471-497.</para>
+      <para>148.  Geacintov NE, Van Nostrand F, Becker JF, Tinkel JB. Magnetic field orientation of photosynthetic sys- tems. Biochem Biophys Acta 1972;267:65-79.</para>
+      <para>149.  Hong FT, Mauzerall D, Mauro A. Magnetic anisotropy and the orientation of retinal rods in a homoge- neous magnetic field. Proc Natl Acad Sci 1971;68:1283-1285.</para>
+      <para>150.  Denegre JM, Valles JM, Lin K, Jordan WB, Mowry KL. Cleavage planes in frog eggs altered by strong  magnetic fields. Proc Natl Acad Sci 1998;95:14729-14732.</para>
+      <para>151.  Bras W, Diakun GP, Diaz JF, et al. The susceptibility of pure tubulin to high magnetic fields: A magnetic  birefringence and x-ray fiber diffraction study. Biophys J 1998;74:1509-1521.</para>
+      <para>152.  Kern CW, Karplus M. The Water Molecule. In: Franks F, Editor. Water: A Comprehensive Treatise. Vol- ume 1. The Physics and Physical Chemistry of Water. New York: Plenum Press; 1972. pp. 21-91.</para>
+      <para>153.  Patel M, Williamsom RA, Dorevitch S, Buchanan S. Pilot study investigating the effect of the static  magnetic field from a 9.4-T MRI on the vestibular system. J Occup Environ Med 2008;50:576-83.</para>
+      <para>154.  Laakso I, Hirata A. Computational analysis of thresholds for magnetophosphenes. Phys Med Biol  2012;57:6147-6165.</para>
+      <para>155.  Jokela K, Saunders RD. Physiologic and dosimetric considerations for limiting electric fields induced  in the body by movement in a static magnetic field. Health Phys 2011;100:641-653.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">129</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 129</para>
+      <para>156.  Hirata A, Takano Y, Fujiwara O, Dovan T, Kavet R. An electric field induced in the retina and brain at  threshold magnetic flux density causing magnetophosphenes. Phys Med Biol 2011;6:4091-4101.</para>
+      <para>157.  Gemmel H, Wendhausen H, Wunsch F. Biologische effekte statischer magnetfelder bei NMR-tomogra- phie am menschen. Radiologische Klinik Wiss Mitt Univ Kiel: 1983.</para>
+      <para>158.  Shellock F, Schaefer D, Crues JV. Exposure to a 1.5 T static magnetic fields does not alter body and  skin temperatures in man. Magn Reson Med 1989;11:371-375.</para>
+      <para>159.  Shellock F, Schaefer D, Gordon C. Effect of a 1.5-T static magnetic field on body temperature of man.  Magn Reson Med 1986;3:644-647.</para>
+      <para>160.  Tenforde T, Levy L. Thermoregulation in rodents exposed to homogeneous (7.55 Tesla and gradient (60  Tesla/per second) DC magnetic fields. Proceedings of the Bioelectromagnetics Society. Seventh Annual  Meeting Abstract: 1985. pp. 7.</para>
+      <para>161.  László JF, Hernádi L. Whole body static magnetic field exposure increases thermal nociceptive threshold  in the snail, Helix pomatia. Acta Biol Hung 2012;63:441-452.</para>
+      <para>162.  Yan Y, Shen G, Xie K, et al. Wavelet analysis of acute effects of static magnetic field on resting skin  blood flow at the nail wall in young men. Microvasc Res 2011;82:277-83.</para>
+      <para>163.  Environmental Health Criteria, Static fields, Geneva: World Health Organization, Monograph, Vol. 232:  2006.</para>
+      <para>164.  Noble D, McKinlay A, Repacholi M. Effects of static magnetic fields relevant to human health. Prog  Biophys Mol Biol 2005;87:171–372.</para>
+      <para>165.  McKinlay AF, Allen SG, Cox R, et al. Review of the scientific evidence for limiting exposure to elec- tromagnetic fields (0–300 GHz). Chilton: National Radiological Protection Board (NRPB) 15;2004.</para>
+      <para>166.  Goyan JE. Medical devices. Procedures for investigational device exemptions. Fed Regist 1980;45:3732- 3759.</para>
+      <para>167.  National Radiological Protection Board (NRPB). Exposure to nuclear magnetic resonance clinical im- aging. Radiography 1980;47:258-260.</para>
+      <para>168.  Gundaker WE, Guidelines for Evaluating Electromagnetic Risk for Trials of Clinical NMR Systems.  Rockville, MD: U.S. Food and Drug Administration; 1982.</para>
+      <para>169.  National Radiological Protection Board (NRPB). Revised guidance on acceptable limits of exposure  during nuclear magnetic resonance clinical imaging. Br J Radiology 1982;56:974-977.</para>
+      <para>170.  Villforth JC. Guidelines for Evaluating Electromagnetic Exposure Risk for Trials of Clinical NMR Sys- tems. Rockville, MD: U.S. Food and Drug Administration; 1982.</para>
+      <para>171.  Medicine and Healthcare Products Medical Agency (MHRA) Safety Guidelines for Magnetic Resonance  Imaging Equipment in Clinical Use, DB2007 (03): 2007.</para>
+      <para>172.  U.S. Food and Drug Administration. Magnetic resonance diagnostic device. Panel recommendation and  report on petitions for MR reclassification. Fed Regist 1988;53:7575-7579.</para>
+      <para>173.  International Commission on Non-Ionizing Radiation Protection. ICNIRP statement on medical magnetic  resonance procedures: Protection of Patients. Health Physics 2004;87:197-216.</para>
+      <para>174.  International Commission on Non-Ionizing Radiation Protection. ICNIRP guidelines on limits of expo- sure to static magnetic fields. Health Physics 2009;96:504-519.</para>
+      <para>175.  National Health and Medical Research Council, Safety Guidelines for Magnetic Resonance Diagnostic  Facilities: Radiation Health Series, Number 34. Canberra: Australian Government Publishing Service;  1991.</para>
+      <para>176.  International Electrotechnical Commission:  IEC 60601-2-33 Medical electrical equipment – Part 2-33:  Particular requirements for the basic safety and essential performance of magnetic resonance equipment  for medical diagnosis, Edition 3.2, 2015.</para>
+      <para>177.  Normile D. Race for stronger magnets turns into marathon. Science 1998;281:164-165.</para>
+      <para><emphasis role="bold">130</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 130</para>
+      <para>178.  Kraff O, Quick HH. 7T: Physics, safety, and potential clinical applications. J Magn Reson Imag  2017;46:1573–1589.</para>
+      <para>179.  Budinger TF, Bird MD. MRI and MRS of the human brain at magnetic fields of 14T to 20T: Technical  feasibility, safety, and neuroscience horizons. Neuroimage 2018;168:509-531.</para>
+      <para>180.  Organization for Economic Cooperation and Development, Total Population. In: OECD Factbook 2010  Economic, Environmental and Social Statistics. OECD Publishing, 2010.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">131</emphasis></para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 131</para>
+    </sect1>
+</chapter>
