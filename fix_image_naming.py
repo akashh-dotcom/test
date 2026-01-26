@@ -1,196 +1,117 @@
 #!/usr/bin/env python3
 """
-Fix image naming in final_output_tables to match the COMPLETE.zip convention.
-Changes from: fig0001.png -> Ch0002f01.jpg (chapter-based naming)
+Fix image naming convention from fig0001.png to Ch0001f01.png format.
 """
 
 import os
 import re
 import shutil
 from pathlib import Path
-from collections import defaultdict
 
-# Configuration
-FINAL_OUTPUT_DIR = Path('/workspace/final_output_tables')
-COMPLETE_DIR = Path('/workspace/complete_work/docbook_complete')
-BACKUP_DIR = Path('/workspace/final_output_tables_backup')
+SOURCE_DIR = Path('/workspace/final_output_tables_FINAL_NO_DUPLICATES')
+OUTPUT_DIR = Path('/workspace/final_output_tables_FIXED_IMAGES')
 
+def get_chapter_images(xml_file):
+    """Extract image references from XML file."""
+    with open(xml_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    # Find all image references
+    images = re.findall(r'fileref="(fig\d+\.png)"', content)
+    return images
 
-def analyze_xml_files():
-    """Analyze XML files to find figure references per chapter."""
+def create_image_mapping():
+    """Create mapping from old names to new names."""
+    mapping = {}
     
-    chapter_figures = defaultdict(list)  # chapter_num -> list of fig names
-    
-    xml_files = sorted(FINAL_OUTPUT_DIR.glob('ch*.xml'))
-    
-    for xml_file in xml_files:
-        # Extract chapter number from filename (ch0002.xml -> 2)
-        match = re.match(r'ch(\d+)\.xml', xml_file.name)
-        if not match:
-            continue
+    # Process each chapter
+    for xml_file in sorted(SOURCE_DIR.glob('ch*.xml')):
+        chapter_name = xml_file.stem  # e.g., 'ch0001'
+        chapter_num = chapter_name[2:]  # e.g., '0001'
         
-        chapter_num = int(match.group(1))
+        images = get_chapter_images(xml_file)
         
-        # Read XML and find all figure references
-        with open(xml_file, 'r', encoding='utf-8') as f:
-            content = f.read()
-        
-        # Find all fig references
-        fig_refs = re.findall(r'fileref="(fig\d+\.png)"', content)
-        
-        for fig_ref in fig_refs:
-            chapter_figures[chapter_num].append(fig_ref)
-    
-    return chapter_figures
-
-
-def create_mapping(chapter_figures):
-    """Create mapping from old fig names to new Ch####f## names."""
-    
-    mapping = {}  # old_name -> new_name
-    
-    for chapter_num in sorted(chapter_figures.keys()):
-        figures = chapter_figures[chapter_num]
-        
-        # Track figure numbers per chapter
-        fig_counter = 1
-        seen_figs = set()
-        
-        for fig_name in figures:
-            if fig_name in seen_figs:
-                continue
-            seen_figs.add(fig_name)
-            
-            # Create new name: Ch0002f01.png
-            new_name = f"Ch{chapter_num:04d}f{fig_counter:02d}.png"
-            mapping[fig_name] = new_name
-            fig_counter += 1
+        # Create mapping for each image in this chapter
+        for i, old_name in enumerate(images, 1):
+            if old_name not in mapping:
+                new_name = f"Ch{chapter_num}f{i:02d}.png"
+                mapping[old_name] = new_name
     
     return mapping
 
-
-def update_xml_files(mapping):
-    """Update XML files with new image references."""
+def fix_xml_references(xml_file, mapping, output_file):
+    """Update image references in XML file."""
+    with open(xml_file, 'r', encoding='utf-8') as f:
+        content = f.read()
     
-    xml_files = list(FINAL_OUTPUT_DIR.glob('ch*.xml'))
-    xml_files.extend(FINAL_OUTPUT_DIR.glob('*.XML'))
-    
-    updated_count = 0
-    
-    for xml_file in xml_files:
-        with open(xml_file, 'r', encoding='utf-8') as f:
-            content = f.read()
-        
-        original_content = content
-        
-        # Replace all figure references
-        for old_name, new_name in mapping.items():
-            content = content.replace(f'fileref="{old_name}"', f'fileref="{new_name}"')
-        
-        if content != original_content:
-            with open(xml_file, 'w', encoding='utf-8') as f:
-                f.write(content)
-            updated_count += 1
-            print(f"  Updated: {xml_file.name}")
-    
-    return updated_count
-
-
-def rename_image_files(mapping):
-    """Rename image files in multimedia directory."""
-    
-    multimedia_dir = FINAL_OUTPUT_DIR / 'multimedia'
-    
-    renamed_count = 0
-    missing_count = 0
-    
+    # Replace all image references
     for old_name, new_name in mapping.items():
-        old_path = multimedia_dir / old_name
-        new_path = multimedia_dir / new_name
-        
-        if old_path.exists():
-            # Rename the file
-            shutil.move(str(old_path), str(new_path))
-            renamed_count += 1
-        else:
-            missing_count += 1
+        content = content.replace(f'fileref="{old_name}"', f'fileref="{new_name}"')
     
-    return renamed_count, missing_count
-
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(content)
 
 def main():
-    print("=" * 70)
-    print("FIX IMAGE NAMING IN final_output_tables")
-    print("Converting: fig####.png -> Ch####f##.png")
-    print("=" * 70)
+    print("Fixing image naming convention\n")
     
-    # Create backup
-    print("\n1. Creating backup...")
-    if BACKUP_DIR.exists():
-        shutil.rmtree(BACKUP_DIR)
-    shutil.copytree(FINAL_OUTPUT_DIR, BACKUP_DIR)
-    print(f"   Backup created at: {BACKUP_DIR}")
+    # Create output directory
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     
-    # Analyze XML files
-    print("\n2. Analyzing XML files...")
-    chapter_figures = analyze_xml_files()
+    # Create image mapping
+    print("Creating image mapping...")
+    mapping = create_image_mapping()
+    print(f"Found {len(mapping)} images to rename")
     
-    total_refs = sum(len(figs) for figs in chapter_figures.values())
-    print(f"   Found {len(chapter_figures)} chapters with figure references")
-    print(f"   Total figure references: {total_refs}")
+    # Show some examples
+    print("\nExamples:")
+    for i, (old, new) in enumerate(list(mapping.items())[:5]):
+        print(f"  {old} -> {new}")
     
-    # Show sample per chapter
-    print("\n   Figures per chapter:")
-    for ch_num in sorted(chapter_figures.keys()):
-        unique_figs = len(set(chapter_figures[ch_num]))
-        print(f"     Chapter {ch_num}: {unique_figs} unique figures")
+    # Copy and rename images
+    print("\nRenaming images...")
+    multimedia_src = SOURCE_DIR / 'multimedia'
+    multimedia_dst = OUTPUT_DIR / 'multimedia'
+    multimedia_dst.mkdir(parents=True, exist_ok=True)
     
-    # Create mapping
-    print("\n3. Creating name mapping...")
-    mapping = create_mapping(chapter_figures)
-    print(f"   Created mapping for {len(mapping)} unique figures")
+    renamed = 0
+    for old_name, new_name in mapping.items():
+        src_file = multimedia_src / old_name
+        dst_file = multimedia_dst / new_name
+        
+        if src_file.exists():
+            shutil.copy2(src_file, dst_file)
+            renamed += 1
+        else:
+            print(f"  Warning: {old_name} not found")
     
-    # Show sample mappings
-    print("\n   Sample mappings:")
-    for i, (old, new) in enumerate(list(mapping.items())[:10]):
-        print(f"     {old} -> {new}")
-    if len(mapping) > 10:
-        print(f"     ... and {len(mapping) - 10} more")
+    # Copy any remaining images that weren't mapped
+    for img_file in multimedia_src.glob('*.png'):
+        if img_file.name not in mapping:
+            dst_file = multimedia_dst / img_file.name
+            if not dst_file.exists():
+                shutil.copy2(img_file, dst_file)
     
-    # Rename image files
-    print("\n4. Renaming image files...")
-    renamed, missing = rename_image_files(mapping)
-    print(f"   Renamed: {renamed} files")
-    if missing > 0:
-        print(f"   Missing: {missing} files (not found in multimedia)")
+    print(f"Renamed {renamed} images")
     
     # Update XML files
-    print("\n5. Updating XML files...")
-    updated = update_xml_files(mapping)
-    print(f"   Updated: {updated} XML files")
+    print("\nUpdating XML references...")
+    for xml_file in sorted(SOURCE_DIR.glob('*.xml')):
+        output_file = OUTPUT_DIR / xml_file.name
+        
+        if xml_file.name == 'Book.XML':
+            shutil.copy(xml_file, output_file)
+        else:
+            fix_xml_references(xml_file, mapping, output_file)
     
-    # Verify
-    print("\n6. Verification...")
-    multimedia_dir = FINAL_OUTPUT_DIR / 'multimedia'
-    remaining_figs = list(multimedia_dir.glob('fig*.png'))
-    new_ch_files = list(multimedia_dir.glob('Ch*.png'))
+    print(f"\nDone! Output in {OUTPUT_DIR}")
     
-    print(f"   Old-style files remaining: {len(remaining_figs)}")
-    print(f"   New-style files created: {len(new_ch_files)}")
-    
-    # Summary
-    print("\n" + "=" * 70)
-    print("SUMMARY")
-    print("=" * 70)
-    print(f"  Chapters processed: {len(chapter_figures)}")
-    print(f"  Figures renamed: {renamed}")
-    print(f"  XML files updated: {updated}")
-    print(f"  Backup location: {BACKUP_DIR}")
-    
-    if remaining_figs:
-        print(f"\n  Note: {len(remaining_figs)} fig*.png files remain")
-        print(f"  These may be unused or referenced from other locations")
-
+    # Show verification
+    print("\nVerification (ch0001.xml):")
+    with open(OUTPUT_DIR / 'ch0001.xml', 'r') as f:
+        content = f.read()
+    refs = re.findall(r'fileref="([^"]+)"', content)[:5]
+    for ref in refs:
+        print(f"  {ref}")
 
 if __name__ == '__main__':
     main()
