@@ -1,0 +1,211 @@
+====================================================================================================
+DEDUPLICATION AND CONTENT RESTORATION
+====================================================================================================
+
+Step 1: Creating output directory...
+✓ Created: /home/user/test/final_output_tables_FINAL_NO_DUPLICATES
+
+Step 2: Finding duplicate tables...
+
+  Chapter 01: Found 4 duplicate table pair(s)
+
+  Chapter 02: Found 1 duplicate table pair(s)
+
+  Chapter 04: Found 9 duplicate table pair(s)
+
+  Chapter 05: Found 1 duplicate table pair(s)
+
+  Chapter 06: Found 2 duplicate table pair(s)
+
+  Chapter 08: Found 6 duplicate table pair(s)
+
+  Chapter 09: Found 3 duplicate table pair(s)
+
+  Chapter 11: Found 1 duplicate table pair(s)
+
+  Chapter 13: Found 5 duplicate table pair(s)
+
+  Chapter 14: Found 3 duplicate table pair(s)
+
+  Chapter 17: Found 3 duplicate table pair(s)
+
+  Chapter 18: Found 1 duplicate table pair(s)
+
+  Chapter 21: Found 2 duplicate table pair(s)
+
+  Chapter 22: Found 1 duplicate table pair(s)
+
+  Chapter 24: Found 6 duplicate table pair(s)
+
+  Chapter 25: Found 2 duplicate table pair(s)
+
+  Chapter 26: Found 21 duplicate table pair(s)
+
+  Chapter 27: Found 2 duplicate table pair(s)
+
+  Chapter 32: Found 1 duplicate table pair(s)
+
+  Chapter 34: Found 3 duplicate table pair(s)
+
+  Chapter 35: Found 2 duplicate table pair(s)
+
+  Chapter 36: Found 1 duplicate table pair(s)
+
+✓ Total duplicates removed: 0
+
+Step 3: Checking for content loss around tables...
+(This will take a few minutes...)
+
+  Chapter 01: Checking 8 table(s)
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+
+  Chapter 02: Checking 2 table(s)
+    ✓ Restored content AFTER table
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+
+  Chapter 03: Checking 1 table(s)
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+
+  Chapter 04: Checking 16 table(s)
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+
+  Chapter 05: Checking 4 table(s)
+
+  Chapter 06: Checking 7 table(s)
+    ✓ Restored content BEFORE table
+    ✓ Restored content BEFORE table
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+
+  Chapter 07: Checking 2 table(s)
+
+  Chapter 08: Checking 9 table(s)
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+
+  Chapter 09: Checking 5 table(s)
+
+  Chapter 10: Checking 2 table(s)
+
+  Chapter 11: Checking 6 table(s)
+
+  Chapter 12: Checking 5 table(s)
+
+  Chapter 13: Checking 10 table(s)
+
+  Chapter 14: Checking 7 table(s)
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+
+  Chapter 16: Checking 1 table(s)
+
+  Chapter 17: Checking 5 table(s)
+    ✓ Restored content BEFORE table
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+
+  Chapter 18: Checking 9 table(s)
+    ✓ Restored content BEFORE table
+    ✓ Restored content AFTER table
+
+  Chapter 19: Checking 1 table(s)
+
+  Chapter 20: Checking 2 table(s)
+
+  Chapter 21: Checking 9 table(s)
+
+  Chapter 22: Checking 2 table(s)
+
+  Chapter 23: Checking 1 table(s)
+
+  Chapter 24: Checking 14 table(s)
+
+  Chapter 25: Checking 10 table(s)
+
+  Chapter 26: Checking 26 table(s)
+
+  Chapter 27: Checking 4 table(s)
+
+  Chapter 28: Checking 10 table(s)
+
+  Chapter 31: Checking 1 table(s)
+
+  Chapter 32: Checking 7 table(s)
+
+  Chapter 34: Checking 9 table(s)
+
+  Chapter 35: Checking 3 table(s)
+
+  Chapter 36: Checking 3 table(s)
+
+✓ Content pieces restored: 38
+
+Step 4: Counting final tables...
+  Chapter 01: 8 table(s)
+  Chapter 02: 2 table(s)
+  Chapter 03: 1 table(s)
+  Chapter 04: 16 table(s)
+  Chapter 05: 4 table(s)
+  Chapter 06: 7 table(s)
+  Chapter 07: 2 table(s)
+  Chapter 08: 9 table(s)
+  Chapter 09: 5 table(s)
+  Chapter 10: 2 table(s)
+  Chapter 11: 6 table(s)
+  Chapter 12: 5 table(s)
+  Chapter 13: 10 table(s)
+  Chapter 14: 7 table(s)
+  Chapter 16: 1 table(s)
+  Chapter 17: 5 table(s)
+  Chapter 18: 9 table(s)
+  Chapter 19: 1 table(s)
+  Chapter 20: 2 table(s)
+  Chapter 21: 9 table(s)
+  Chapter 22: 2 table(s)
+  Chapter 23: 1 table(s)
+  Chapter 24: 14 table(s)
+  Chapter 25: 10 table(s)
+  Chapter 26: 26 table(s)
+  Chapter 27: 4 table(s)
+  Chapter 28: 10 table(s)
+  Chapter 31: 1 table(s)
+  Chapter 32: 7 table(s)
+  Chapter 34: 9 table(s)
+  Chapter 35: 3 table(s)
+  Chapter 36: 3 table(s)
+
+====================================================================================================
+SUMMARY
+====================================================================================================
+
+Original tables: 201
+Duplicates removed: 0
+Final table count: 201
+Chapters with tables: 32
+Content pieces restored: 38
+
+✓ Output saved to: /home/user/test/final_output_tables_FINAL_NO_DUPLICATES
+
+====================================================================================================
+COMPLETE
+====================================================================================================
