@@ -5,7 +5,7 @@
     <sect1 id="ch0021s01">
       <title>LOUAI AL-DAYEH, M.D., PH.D.</title>
       <para>Research and Development Fellow  Boston Scientific Neuromodulation Corporation  Valencia, CA</para>
-    <table frame="all"><title>Figure 2 also illustrates</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:32 PM</entry><entry>Page 556</entry></row></tbody></tgroup></table><table frame="all"><title>Potential patient hazards and corresponding test methods.  Each “Clause” or</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:32 PM</entry><entry>Page 557</entry></row></tbody></tgroup></table><table frame="all"><title>includes a detailed view on one way an</title><tgroup cols="2"><thead><row><entry>Medical Devices for Safety in the Magnetic Resonance Environment (24).</entry><entry>Among other</entry></row></thead><tbody><row><entry>guidances, this document includes recommendations on how acceptance criteria should be</entry><entry /></row><row><entry>established based on the anatomical location of a medical device, using scientific rationale</entry><entry /></row><row><entry>558</entry><entry /></row><row><entry>MRI Test Methods for MR Conditional AIMDs</entry><entry /></row><row><entry>Table 2. List of examples of MRI-related AIMD safety hazards, each of which generates</entry><entry /></row><row><entry>requirements that an AIMD manufacturer must assess using appropriate test methods and</entry><entry /></row><row><entry>rationale (35).</entry><entry /></row><row><entry>Requirement</entry><entry /></row><row><entry>ISO/TS</entry><entry /></row><row><entry>10974</entry><entry /></row><row><entry>Clause</entry><entry /></row><row><entry>Details of Meeting Requirement</entry><entry /></row><row><entry>Rationale/Source</entry><entry /></row><row><entry>RF-induced lead</entry><entry /></row><row><entry>heating patient</entry><entry /></row><row><entry>harm limit</entry><entry /></row><row><entry>8</entry><entry /></row><row><entry>When exposed to RF fields, heating</entry><entry /></row><row><entry>of the lead shall not exceed XX CEM</entry><entry /></row><row><entry>43ºC (28).</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>ISO/TS 10974</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>Tissue(s) around lead heating</entry><entry /></row><row><entry>acceptance criteria</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>MRI environment exposure</entry><entry /></row><row><entry>durations, levels.</entry><entry /></row><row><entry>Device (IPG)</entry><entry /></row><row><entry>heating patient</entry><entry /></row><row><entry>harm limit:</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>G r a d i e n t -</entry><entry /></row><row><entry>induced</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>RF-induced</entry><entry /></row><row><entry>8</entry><entry /></row><row><entry>9</entry><entry /></row><row><entry>When exposed to combined RF and</entry><entry /></row><row><entry>gradient fields, the thermal exposure</entry><entry /></row><row><entry>of tissue surrounding the pocket shall</entry><entry /></row><row><entry>not exceed XX CEM 43ºC.</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>ISO/TS 10974</entry><entry /></row><row><entry>•</entry><entry /></row></tbody></tgroup></table><table frame="all"><title>Evaluation of the AIMDs for MRI Hazards Involves Bench-Top Testing, Modeling,</title><tgroup cols="2"><thead><row><entry>deemed acceptable for patients undergoing MRI examinations.</entry><entry>However, if the force is</entry></row></thead><tbody><row><entry>greater, it still could be acceptable with the justification of an appropriate acceptance crite-</entry><entry /></row><row><entry>560</entry><entry /></row><row><entry>MRI Test Methods for MR Conditional AIMDs</entry><entry /></row><row><entry>Table 3. Categorization of MRI safety assessments based on whether or not electromag-</entry><entry /></row><row><entry>netic modeling is involved.</entry><entry /></row><row><entry>Six MR Safety Assessments That Rely on</entry><entry /></row><row><entry>Bench-Top Testing and/or MR Systems</entry><entry /></row><row><entry>Without Modeling</entry><entry /></row><row><entry>Three MR Safety Assessments That</entry><entry /></row><row><entry>Rely on Modeling In Addition to</entry><entry /></row><row><entry>Measurement-Based Testing</entry><entry /></row><row><entry>1.</entry><entry /></row><row><entry>Static magnetic field-induced force</entry><entry /></row><row><entry>2.</entry><entry /></row><row><entry>Static magnetic field-induced torque</entry><entry /></row><row><entry>3.</entry><entry /></row><row><entry>Gradient magnetic field-induced vibration</entry><entry /></row><row><entry>4.</entry><entry /></row><row><entry>Gradient magnetic field-induced device (e.g.,</entry><entry /></row><row><entry>IPG) heating</entry><entry /></row><row><entry>5.</entry><entry /></row><row><entry>Device (IPG) malfunction (static magnetic</entry><entry /></row><row><entry>field and/or gradient magnetic field-induced</entry><entry /></row><row><entry>and/or RF field-induced)</entry><entry /></row><row><entry>6.</entry><entry /></row><row><entry>Combined fields test</entry><entry /></row><row><entry>7.</entry><entry /></row><row><entry>RF field-induced heating of the AIMD (i.e., the</entry><entry /></row><row><entry>IPG and/or leads)</entry><entry /></row><row><entry>8.</entry><entry /></row></tbody></tgroup></table><table frame="all"><title>), Tier 3 modeling re-</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:32 PM</entry><entry>Page 564</entry></row></tbody></tgroup></table></sect1>
+    </sect1>
     <sect1 id="ch0021s02">
       <title>MIZAN RAHMAN, PH.D.</title>
       <para>Electrical Engineering Fellow  Boston Scientific Neuromodulation Corporation  Valencia, CA</para>
@@ -17,111 +17,11 @@
     <sect1 id="ch0021s04">
       <title>INTRODUCTION</title>
       <para>Magnetic resonance imaging (MRI), through a well-orchestrated manipulation of elec- tromagnetic fields, manages to create tomographic images of patients without exposure to  ionizing radiation. However, MRI still exposes the patient inside the MR scanner to three  different types of electromagnetic fields (a static magnetic field, time-varying gradients,  and radiofrequency fields). Because these electromagnetic fields interact with the human  body, MRI safety standards, such as the document from the International Electrotechnical  Commission (IEC), IEC60601-2-33 (1), provide limits for field exposure levels and char- acteristics to reduce patient risks from hazards including: radiofrequency (RF)-induced  burns, local and whole-body heating, peripheral nerve stimulation, and cardiac stimulation,  among others. While these risks are mostly mitigated through the exposure limits, and MR  systems have a strong history of safe use, there continues to be reports of adverse events,  including in the Manufacturer and User Facility Device Experience (MAUDE) database  from the Food and Drug Administration (2).</para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 552</para>
       <para>There are additional safety concerns related to implantable medical devices in patients  undergoing MRI examinations due to the interactions of electromagnetic fields with the im- plants.  These potential hazards, along with several unfortunate patient injuries related to  interactions between MR scanners and implanted devices that occurred during the early  days of the use of MRI technology historically led to conservative default consideration of  implantable devices as being contraindicated for MRI (3-8).  In the mid-1990s, passive  medical devices (i.e., an implant without an internal power source), such as vascular stents  and heart valve prostheses, began to undergo testing and received MR Conditional labeling  following guidelines from the American Society for Testing and Materials (ASTM) Inter- national (9-13) and recommended MRI safety procedures presented in publications on this  topic subject (14, 15).</para>
-      <table frame="all">
-  <title />
-  <tgroup cols="2">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <thead>
-      <row>
-        <entry>Six MR Safety Assessments That Rely on Bench-Top Testing and/or MR Systems Without Modeling</entry>
-        <entry>Three MR Safety Assessments That Rely on Modeling In Addition to Measurement-Based Testing</entry>
-      </row>
-    </thead>
-    <tbody>
-      <row>
-        <entry>1. Static magnetic field-induced force</entry>
-        <entry>7. RF field-induced heating of the AIMD (i.e., the IPG and/or leads)</entry>
-      </row>
-      <row>
-        <entry>2. Static magnetic field-induced torque</entry>
-        <entry>8. Unintended stimulation from RF field-induced lead voltage</entry>
-      </row>
-      <row>
-        <entry>3. Gradient magnetic field-induced vibration</entry>
-        <entry>9. Unintended stimulation from gradient magnetic field-induced lead voltage (i.e., extrinsic electric potential)</entry>
-      </row>
-      <row>
-        <entry>4. Gradient magnetic field-induced device (e.g., IPG) heating</entry>
-        <entry />
-      </row>
-      <row>
-        <entry>5. Device (IPG) malfunction (static magnetic field and/or gradient magnetic field-induced and/or RF field-induced)</entry>
-        <entry />
-      </row>
-      <row>
-        <entry>6. Combined fields test</entry>
-        <entry />
-      </row>
-    </tbody>
-  </tgroup>
-</table><para>An active implantable medical device (AIMD), which is an implant relying on a source  of electrical energy or any source of power other than that directly generated by the human  body or gravity for its function (16), continued to be contraindicated for MRI throughout  the 1990s and into the early 2000s due to the presence of the many different types of inter- actions and potential patient harms. In 2002, the neurosurgeon, Ali R. Rezai, and the group  based at the Cleveland Clinic conducted multiple investigations focused on characterizing  MRI-issues for deep brain stimulation (DBS) systems (17-20). This research contributed  to the first successful MR Conditional labeling of an AIMD, the DBS system from  Medtronic, Inc. nearly two decades ago. Despite the somewhat restrictive MRI operating  conditions for this AIMD (i.e., 1.5 Tesla, only; use of a transmit/receive RF head coil was  required; maximum whole body averaged specific absorption rate of 0.1 W/kg), patients  were able to receive “on-label” MRI examinations for the first time.</para>
+      <para>An active implantable medical device (AIMD), which is an implant relying on a source  of electrical energy or any source of power other than that directly generated by the human  body or gravity for its function (16), continued to be contraindicated for MRI throughout  the 1990s and into the early 2000s due to the presence of the many different types of inter- actions and potential patient harms. In 2002, the neurosurgeon, Ali R. Rezai, and the group  based at the Cleveland Clinic conducted multiple investigations focused on characterizing  MRI-issues for deep brain stimulation (DBS) systems (17-20). This research contributed  to the first successful MR Conditional labeling of an AIMD, the DBS system from  Medtronic, Inc. nearly two decades ago. Despite the somewhat restrictive MRI operating  conditions for this AIMD (i.e., 1.5 Tesla, only; use of a transmit/receive RF head coil was  required; maximum whole body averaged specific absorption rate of 0.1 W/kg), patients  were able to receive “on-label” MRI examinations for the first time.</para>
       <para>AIMD manufacturers have come a long way in designing their implants with MRI-re- lated issues in mind and with consideration given to what conditions of the MRI examination  (e.g., level of the static magnetic field, limits of gradient fields and/or RF power level, etc.)  permit the procedure to take place without compromising patient safety.  In 2011, the first  successful FDA labeling of an MR Conditional cardiac pacemaker (Medtronic, Inc.) oc- curred in the United States (21), which marked the beginning of the recent era in which  many more patients with AIMDs from manufacturers across the industry can now have ac- cess to MRI through MR Conditional labeling.</para>
       <para>The achievement of the current state of MR Conditional devices today, especially in- cluding the many industry-standard test methods that are the subject of this chapter, may  not have been possible without an effort that started in 2006 across the MRI safety commu- nity, which included representatives from implanted device manufacturers, MR system man- ufacturers, safety test houses, and regulatory bodies. These experts came together as a Joint  Working Group (JWG), convened under the International Standards Organization (ISO)  and incorporated contributors to the existing MR system standards-making groups from the  International Electrotechnical Commission (IEC) and ASTM International, with leadership  from across the various stakeholders.  A major outcome of this effort was the publication  of an international Technical Specification (TS), ISO/TS 10974, documenting guidelines  pertaining to the assessment of MRI safety for patients with AIMDs. The first version of  this TS was published in 2012 (22) and the second updated version was published in 2018</para>
-      <table frame="all">
-  <title />
-  <tgroup cols="4">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <colspec colname="c3" />
-    <colspec colname="c4" />
-    <thead>
-      <row>
-        <entry>Requirement</entry>
-        <entry>ISO/TS 10974 Clause</entry>
-        <entry>Details of Meeting Requirement</entry>
-        <entry>Rationale/Source</entry>
-      </row>
-    </thead>
-    <tbody>
-      <row>
-        <entry>Static magnetic field-induced torque patient harm limit</entry>
-        <entry>12</entry>
-        <entry>When exposed to the static magnetic field,• Torque on the IPG shall not exceed XX Nm.• Torque on all implanted system components shall not exceed the weight times the length of the longest side of the component.</entry>
-        <entry>• ASTM F2213• MRI force torque acceptance criterion.• MRI environment exposure durations, levels.</entry>
-      </row>
-      <row>
-        <entry>Electric potential patient harm limit• Gradient-induced, extrinsic• RF-induced and RF rectification</entry>
-        <entry>1315</entry>
-        <entry>When exposed to combined RF and gradient fields,• The current conducted by the IPG shall not exceed a Pulse Charge Limit of XX μC in each electrode.• Amplitude of the current pulse shall not exceed XX μA in IPG stimulation-off condition. And amplitude of the current pulse shall be within specified tolerances in IPG stimulation-on condition.</entry>
-        <entry>• ISO/TS 10974• MRI environment exposure durations, levels.</entry>
-      </row>
-      <row>
-        <entry>RF-induced device malfunction limit</entry>
-        <entry>15</entry>
-        <entry>When exposed to RF field, the IPG shall pass EMC criteria during and following exposure.</entry>
-        <entry>• ISO/TS 10974• MRI environment exposure durations, levels.• MRI EMC acceptance criterion.</entry>
-      </row>
-      <row>
-        <entry>Static magnetic field-induced device malfunction limit</entry>
-        <entry>14</entry>
-        <entry>When exposed to static magnetic field, the IPG shall pass EMC criteria during and following exposure.</entry>
-        <entry>• ISO/TS 10974• MRI environment exposure durations, levels.• MRI EMC acceptance criterion.</entry>
-      </row>
-      <row>
-        <entry>Gradient-induced device malfunction limit</entry>
-        <entry>16</entry>
-        <entry>When exposed to gradient magnetic fields, the IPG shall pass EMC criteria during and following exposure.</entry>
-        <entry>• ISO/TS 10974• MRI environment exposure durations, levels.• MRI EMC acceptance criterion.</entry>
-      </row>
-      <row>
-        <entry>Combined fields - induced device malfunction limit</entry>
-        <entry>17</entry>
-        <entry>When exposed to combined static magnetic, RF, and gradient magnetic fields, the IPG shall:• Pass EMC criteria during and following exposure.• Retain its complete functionality during and following exposure.</entry>
-        <entry>• ISO/TS 10974• MRI environment exposure durations, levels.• MRI EMC acceptance criterion.</entry>
-      </row>
-      <row>
-        <entry>Combined fields - image artifacts or distortion.</entry>
-        <entry>N/A</entry>
-        <entry>Image artifacts due to the presence of IPG plus lead(s) shall be evaluated per ASTM F2219.</entry>
-        <entry>• ASTM F2119</entry>
-      </row>
-    </tbody>
-  </tgroup>
-</table><para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">553</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 553</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">553</emphasis></para>
       <para>(23). Notably, this work is continuing and the group is presently updating and transitioning  the TS into an International Standard.</para>
       <para>The tests and methods presented in this chapter are directly related to those within the  2018 version of ISO/TS 10974 and they are generally consistent with the FDA guidance on  the same topic (24).  To have a specific focus, this chapter primarily addresses AIMDs with  extended leads, for example, an implantable pulse generator (IPG) plus one or more leads  (<emphasis role="bold">Figure 1</emphasis>).</para>
       <para><emphasis role="bold">Important Notes About MRI Safety Testing of AIMDs </emphasis></para>
@@ -137,7 +37,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 554</para>
       <para>• The vast majority of implants that permit MRI examinations to be performed in patients   are “MR Conditional” (i.e., a medical device with demonstrated safety in the MR envi- ronment with defined conditions including conditions for the static magnetic field, time- varying gradient magnetic fields, and radiofrequency fields) (24). Because all AIMDs  contain metal, there is no, “MR Safe” (i.e., a medical device that poses no known hazards  resulting from exposure to any MR environment) AIMD. Thus, if the implant has metallic  components, it is either MR Conditional or MR Unsafe (i.e., a device which poses unac- ceptable risks to the patient, medical staff or other persons in the MR environment) (24).</para>
       <para>• What can be considered MR Conditional is a specific device or system (e.g., a specific  IPG plus a specific lead) according the device’s formal MRI safety labeling conditions  listed in its Instructions for Use or Clinician’s Manual.  These conditions, based on the  field exposure conditions a device will experience within a patient in the MR scanner, are  derived from the methods and results of the rigorous testing that was conducted by the  device manufacturer or a test house.</para>
       <para>○ According to this rule, the MR Conditional status is a “system tag” that is not practi- cally applicable to one component of the system.</para>
@@ -147,84 +46,16 @@
       <para>• Fractured leads, abandoned leads, and other damaged or non-functional implants are typi- cally not assessed for safety, although the test methods in ISO/TS 10974 could potentially  be applied to such circumstances. Recent research suggests that excessive heating may  occur under certain MRI conditions for these situations (25, 26).</para>
       <para>• There are no generally accepted test methods or appropriate guidelines on how to safely  scan a patient with multiple AIMDs (e.g., a cardiac pacemaker and a spinal cord stimula- tion system). Even if each device or system is MR Conditional by itself, the multi-system  combination is not labeled for MR Conditional safety because of the lack of testing on  such combinations. Of note is that there is a suggestion that lead electrode heating char- acteristics can change when another implant is present in close proximity (27).</para>
       <para>• Almost all present safety testing and MR Conditional labeling of implants is for either 1.5  Tesla or 3 Tesla cylindrical bore, horizontal field MR systems, or both.  Open-bore scan- ners that are either lower- or higher-field MR scanners typically are not yet included in  testing standards or in MR Conditional labeling.</para>
-      <table frame="all">
-  <title />
-  <tgroup cols="3">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <colspec colname="c3" />
-    <thead>
-      <row>
-        <entry>Hazard</entry>
-        <entry>Test Method</entry>
-        <entry>ISO/TS 10974 Clause</entry>
-      </row>
-    </thead>
-    <tbody>
-      <row>
-        <entry morerows="1">Heat</entry>
-        <entry>RF field-induced heating of the AIMD</entry>
-        <entry>8</entry>
-      </row>
-      <row>
-        <entry>Gradient magnetic field-induced device heating</entry>
-        <entry>9</entry>
-      </row>
-      <row>
-        <entry>Vibration</entry>
-        <entry>Gradient magnetic field-induced vibration</entry>
-        <entry>10</entry>
-      </row>
-      <row>
-        <entry>Force</entry>
-        <entry>Static magnetic field-induced force</entry>
-        <entry>11</entry>
-      </row>
-      <row>
-        <entry>Torque</entry>
-        <entry>Static magnetic field-induced torque</entry>
-        <entry>12</entry>
-      </row>
-      <row>
-        <entry morerows="1">Unintended Stimulation</entry>
-        <entry>Gradient magnetic field-induced lead voltage (i.e., extrinsic electric potential)</entry>
-        <entry>13</entry>
-      </row>
-      <row>
-        <entry>RF field-induced rectified lead voltage</entry>
-        <entry />
-      </row>
-      <row>
-        <entry morerows="3">Malfunction</entry>
-        <entry>Static magnetic field-induced device malfunction</entry>
-        <entry>14</entry>
-      </row>
-      <row>
-        <entry>RF field-induced device malfunction</entry>
-        <entry>15</entry>
-      </row>
-      <row>
-        <entry>RF field-induced device malfunction</entry>
-        <entry>16</entry>
-      </row>
-      <row>
-        <entry>Combined fields test</entry>
-        <entry>17</entry>
-      </row>
-    </tbody>
-  </tgroup>
-</table><para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">555</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 555</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">555</emphasis></para>
       <para>• For testing related to RF field interactions, if an MR Conditional device or system is  tested for safety in a specific static magnetic field strength and frequency (say 1.5  Tesla/64 MHz), there is no implication on MRI safety of the device within other field  strengths and frequencies (e.g., lower fields such as 1 Tesla/42 MHz or higher field such  as 3 Tesla/128 MHz or 7 Tesla/298 MHz)(15). No presumption of safety can be made at  any field strength/frequency other than the specific ones at which the safety assessment  was performed, because the RF fields-dependent properties of the system change substan- tially (e.g., RF field wavelength, current deposition in the leads, exposure fields in the pa- tient due to scanner design differences, etc.) and could be either more safe or unsafe.</para>
       <para>• In general, accessories of devices or systems (e.g., remote control, charger, etc.) are not  MR Conditional, because they are neither designed nor tested for safety.  Many such ac- cessories are MR Unsafe and, therefore, cannot be brought safely into MR system rooms.</para>
       <para><emphasis role="bold">MRI AND AIMD INTERACTIONS: POTENTIAL SAFETY HAZARDS  </emphasis> <emphasis role="bold">ACCORDING TO ISO/TS 10974 </emphasis></para>
       <para>The demonstration of the MR Conditional status for an AIMD by device manufacturers,  for example to achieve FDA labeling, involves testing in numerous (hundreds or thousands)  different exposure conditions along with modeling of many thousands (or millions) of such  potential exposure conditions.  This includes exposure in realistic MRI environments,  benchtop injection testing, and the development of appropriate risk assessments though  physical experiments and modeling. This section of the chapter describes the full range of  proper test methods according to established standards that collectively form the “testing  package” regulatory bodies review for a given MR Conditional device label.</para>
       <para>Importantly, while there are some abbreviated methods used by some researchers to  preliminarily assess device safety through testing of a handful of configurations of a device  within a phantom of tissue simulating medium (which was common in past decades, and  still finds its way into the literature) such methods are simply insufficient for establishing  the MR Conditional safety for AIMDs.  While such tests can be a helpful first step, or po- tentially useful in demonstrating hazards, they unfortunately do not meaningfully evaluate  safety in a comprehensive manner.</para>
       <para>According to ISO/TS 10974:2018 (23), the potential safety hazards due to the MR sys- tem and the interactions with an AIMD are presented in <emphasis role="bold">Table 1</emphasis>. <emphasis role="bold">Figure 2</emphasis> also illustrates  these possible risks. As indicated, each of the three different types of electromagnetic fields  associated with an MR scanner (static magnetic field, time-varying gradient magnetic fields,  and RF fields) generate specific interactions and potential safety hazards for patients, as do  the different combinations of the fields (e.g., device vibration is a result of the combination  of the static magnetic field and time-varying gradient fields).</para>
-      <para><emphasis role="bold">Acceptance Criteria </emphasis></para>
+      <table frame="all"><title>Figure 2 also illustrates</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 1</entry><entry>See PDF</entry></row></tbody></tgroup></table><para><emphasis role="bold">Acceptance Criteria </emphasis></para>
       <para>Most test methods described in the various standards do not include explicit acceptance  criteria (e.g., how many degrees of temperature rise is acceptable for electrode heating).   Since the risk level depends on the nature and location of the implant, as well as the tissues  surrounding it, each device manufacturer must set and justify acceptance criteria for each  potential hazard according to their internal risk management procedures, which is subject</para>
       <para><emphasis role="bold">556</emphasis> <emphasis role="bold">MRI Test Methods for MR Conditional AIMDs</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 556</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">557</emphasis></para>
       <para><emphasis role="bold">Figure 2.</emphasis> The relationship between MR system’s output for the static magnetic field  (B0), the time-varying gradient magnetic fields (G) and RF fields and the associated haz- ards (ISO/TS 10974 test method clause numbers are in parentheses). (Adapted from Ref- erence 23.)</para>
       <figure>
@@ -235,7 +66,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para><emphasis role="bold">Table 1.</emphasis> Potential patient hazards and corresponding test methods.  Each “Clause” or  chapter of the test method document defines the specific conditions for the testing to en- sure proper coverage in the MRI environment (23).</para>
       <para><emphasis role="bold">Hazard</emphasis> <emphasis role="bold">Test Method</emphasis> <emphasis role="bold">ISO/TS 10974 Clause</emphasis></para>
       <para>Heat</para>
       <para>RF field-induced heating of the AIMD 8</para>
@@ -245,64 +75,18 @@
       <para>Torque Static magnetic field-induced torque 12</para>
       <para>Unintended  Stimulation</para>
       <para>Gradient magnetic field-induced lead voltage   (i.e., extrinsic electric potential)  RF field-induced rectified lead voltage</para>
-      <para>13</para>
       <para>Malfunction</para>
-      <table frame="all">
-  <title />
-  <tgroup cols="4">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <colspec colname="c3" />
-    <colspec colname="c4" />
-    <thead>
-      <row>
-        <entry>Requirement</entry>
-        <entry>ISO/TS 10974 Clause</entry>
-        <entry>Details of Meeting Requirement</entry>
-        <entry>Rationale/Source</entry>
-      </row>
-    </thead>
-    <tbody>
-      <row>
-        <entry>RF-induced lead heating patient harm limit</entry>
-        <entry>8</entry>
-        <entry>When exposed to RF fields, heating of the lead shall not exceed XX CEM 43°C (28).</entry>
-        <entry>• ISO/TS 10974• Tissue(s) around lead heating acceptance criteria• MRI environment exposure durations, levels.</entry>
-      </row>
-      <row>
-        <entry>Device (IPG) heating patient harm limit:• Gradient-induced• RF-induced</entry>
-        <entry>89</entry>
-        <entry>When exposed to combined RF and gradient fields, the thermal exposure of tissue surrounding the pocket shall not exceed XX CEM 43°C.</entry>
-        <entry>• ISO/TS 10974• Tissue(s) around stimulator heating acceptance criteria• MRI environment exposure durations, levels.• MRI EMC acceptance criterion.</entry>
-      </row>
-      <row>
-        <entry>Gradient-induced vibration patient harm limit</entry>
-        <entry>10</entry>
-        <entry>When exposed to combined static magnetic and gradient magnetic fields, the pressure exerted by implanted IPG or lead(s) on the tissue shall not exceed XX PSI.</entry>
-        <entry>• ISO/TS 10974• MRI vibration tissue damage acceptance criteria• MRI environment exposure durations, levels.</entry>
-      </row>
-      <row>
-        <entry>Static magnetic field-induced force patient harm limit</entry>
-        <entry>11</entry>
-        <entry>When exposed to the static magnetic field:• Translational force on the IPG shall not exceed XX N.• Translational force on any implantable system components shall not exceed the weight of the component.</entry>
-        <entry>• ASTM F2052• MRI force torque acceptance criterion.• MRI environment exposure durations, levels.</entry>
-      </row>
-    </tbody>
-  </tgroup>
-</table><para>Static magnetic field-induced device malfunction 14</para>
+      <para>Static magnetic field-induced device malfunction 14</para>
       <para>RF field-induced device malfunction 15</para>
       <para>RF field-induced device malfunction 16</para>
       <para>Combined fields test 17</para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 557</para>
       <para>to review by regulatory authorities.  Typically, this includes using internal company data  from a combination of relevant history of safe use, human trials, or animal studies, as well  as accepted peer-reviewed literature. AIMD manufacturers are also working on creating  vertical standards such as the document from the Association for the Advancement of Med- ical Instrumentation, AAMI PC76:2021 (36) and the one from the International Organization  for Standardization, ISO 14708-3:2017 (37) focused on a specific type of implant with rel- evant acceptance criteria for these hazards. <emphasis role="bold">Table 2</emphasis> includes a detailed view on one way an  AIMD manufacturer might consider and address the wide variety of potential safety hazards  and acceptance criteria.</para>
       <para>Notably, in May 2021, the FDA released a guidance document on Testing and Labeling  Medical Devices for Safety in the Magnetic Resonance Environment (24).  Among other  guidances, this document includes recommendations on how acceptance criteria should be  established based on the anatomical location of a medical device, using scientific rationale</para>
       <para><emphasis role="bold">558</emphasis> <emphasis role="bold">MRI Test Methods for MR Conditional AIMDs</emphasis></para>
-      <para><emphasis role="bold">Table 2.</emphasis> List of examples of MRI-related AIMD safety hazards, each of which generates  requirements that an AIMD manufacturer must assess using appropriate test methods and  rationale (35).</para>
       <para><emphasis role="bold">Requirement</emphasis></para>
       <para><emphasis role="bold">ISO/TS  </emphasis> <emphasis role="bold">10974 </emphasis> <emphasis role="bold">Clause</emphasis></para>
       <para><emphasis role="bold">Details of Meeting Requirement</emphasis> <emphasis role="bold">Rationale/Source</emphasis></para>
       <para>RF-induced lead  heating patient  harm limit</para>
-      <para>8</para>
       <para>When exposed to RF fields, heating  of the lead shall not exceed XX CEM  43ºC (28).</para>
       <para>• ISO/TS 10974  • Tissue(s) around lead heating  acceptance criteria  • MRI environment exposure   durations, levels.</para>
       <para>Device (IPG)  heating patient  harm limit:  • G r a d i e n t -  induced   • RF-induced</para>
@@ -310,22 +94,17 @@
       <para>When exposed to combined RF and  gradient fields, the thermal exposure  of tissue surrounding the pocket shall  not exceed XX CEM 43ºC.</para>
       <para>• ISO/TS 10974  • Tissue(s) around stimulator heat- ing acceptance criteria  • MRI environment exposure dura- tions, levels.  • MRI EMC acceptance criterion.</para>
       <para>Gradient-induced  vibration patient  harm limit</para>
-      <para>10</para>
       <para>When exposed to combined static  magnetic and gradient magnetic fields,  the pressure exerted by implanted IPG  or lead(s) on the tissue shall not   exceed XX PSI.</para>
       <para>• ISO/TS 10974  • MRI vibration tissue damage ac- ceptance criteria  • MRI environment exposure dura- tions, levels.</para>
       <para>Static magnetic  field-induced  force patient harm  limit</para>
-      <para>11</para>
       <para>When exposed to the static magnetic  field,  • Translational force on the IPG  shall not exceed XX N.  • Translational force on any im- plantable system components  shall not exceed the weight of  the component.</para>
       <para>• ASTM F2052  • MRI force torque acceptance cri- terion.  • MRI environment exposure dura- tions, levels.</para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 558</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">559</emphasis></para>
-      <para><emphasis role="bold">Table 2. (continued)</emphasis></para>
       <para>[CEM 43ºC, cumulative number of equivalent minutes at 43ºC temperature; PSI, pound- force per square inch (pressure unit); N, Newton (force unit); Nm, Newton meter (torque  unit); μC: micro Coulomb (charge unit); μA, micro Ampère (current unit).]</para>
       <para><emphasis role="bold">Requirement</emphasis></para>
       <para><emphasis role="bold">ISO/TS  </emphasis> <emphasis role="bold">10974 </emphasis> <emphasis role="bold">Clause</emphasis></para>
       <para><emphasis role="bold">Details of Meeting Requirement</emphasis> <emphasis role="bold">Rationale/Source</emphasis></para>
       <para>Static magnetic  field-induced  torque patient  harm limit</para>
-      <para>12</para>
       <para>When exposed to the static magnetic  field,   • Torque on the IPG shall not exceed  XX Nm.  • Torque on all implanted system  components shall not exceed the  weight times the length of the  longest side of the component.</para>
       <para>• ASTM F2213  • MRI force torque acceptance cri- terion.  • MRI environment exposure dura- tions, levels.</para>
       <para>Electric potential  patient harm limit  • Gradient-in- duced,   extrinsic  • RF-induced  and RF   rectification</para>
@@ -333,19 +112,15 @@
       <para>When exposed to combined RF and  gradient fields,   • The current conducted by the IPG  shall not exceed a Pulse Charge  Limit of XX μC in each electrode.  • Amplitude of the current pulse  shall not exceed XX μA in IPG  stimulation-off condition. And am- plitude of the current pulse shall be  within specified tolerances in IPG  stimulation-on condition.</para>
       <para>• ISO/TS 10974  • MRI environment exposure dura- tions, levels.</para>
       <para>RF-induced   device malfunc- tion limit</para>
-      <para>15</para>
       <para>When exposed to RF field, the IPG  shall pass EMC criteria during and fol- lowing exposure.</para>
       <para>• ISO/TS 10974  • MRI environment exposure dura- tions, levels.  • MRI EMC acceptance criterion.</para>
       <para>Static magnetic  field-induced de- vice malfunction  limit</para>
-      <para>14</para>
       <para>When exposed to static magnetic  field, the IPG shall pass EMC criteria  during and following exposure.</para>
       <para>• ISO/TS 10974  • MRI environment exposure dura- tions, levels.  • MRI EMC acceptance criterion.</para>
       <para>Gradient-induced  device malfunc- tion limit</para>
-      <para>16</para>
       <para>When exposed to gradient magnetic  fields, the IPG shall pass EMC crite- ria during and following exposure.</para>
       <para>• ISO/TS 10974  • MRI environment exposure dura- tions, levels.  • MRI EMC acceptance criterion.</para>
       <para>Combined fields - induced device  malfunction limit</para>
-      <para>17</para>
       <para>When exposed to combined static  magnetic, RF, and gradient magnetic  fields, the IPG shall:  • Pass EMC criteria during and fol- lowing exposure.  • Retain its complete functionality  during and following exposure.</para>
       <para>• ISO/TS 10974  • MRI environment exposure dura- tions, levels.  • MRI EMC acceptance criterion.</para>
       <para>Combined fields – image artifacts or  distortion.</para>
@@ -356,7 +131,6 @@
     </sect1>
     <sect1 id="ch0021s06">
       <title>• ASTM F2119</title>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 559</para>
       <para>or existing peer-reviewed literature.  It also includes, for the first time, some specific tis- sue-specific temperature safety thresholds.</para>
     </sect1>
     <sect1 id="ch0021s07">
@@ -368,12 +142,10 @@
       <para>The concept of testing is to measure the magnetically-induced displacement force of  the implant where the “patient accessible” spatial gradient magnetic field is greatest (near  the opening of the bore) and compare against value the gravitational force acting on the de- vice (since all implanted devices are subjected to the force due to gravity without patient  harm)(29). One version of this test is to suspend the device by a light-weight string at that  location and measure the deflection angle. If the device deflects less than 45°, its magnetic  force is less than that of gravity.</para>
       <para>Implants with a displacement force less than the force of gravity are automatically  deemed acceptable for patients undergoing MRI examinations.  However, if the force is  greater, it still could be acceptable with the justification of an appropriate acceptance crite-</para>
       <para><emphasis role="bold">560</emphasis> <emphasis role="bold">MRI Test Methods for MR Conditional AIMDs</emphasis></para>
-      <para><emphasis role="bold">Table 3.</emphasis> Categorization of MRI safety assessments based on whether or not electromag- netic modeling is involved.</para>
       <para><emphasis role="bold">Six MR Safety Assessments That Rely on  </emphasis> <emphasis role="bold">Bench-Top Testing and/or MR Systems  </emphasis> <emphasis role="bold">Without Modeling</emphasis></para>
       <para><emphasis role="bold">Three MR Safety Assessments That  </emphasis> <emphasis role="bold">Rely on Modeling In Addition to  </emphasis> <emphasis role="bold">Measurement-Based Testing</emphasis></para>
       <para>1. Static magnetic field-induced force  2. Static magnetic field-induced torque  3. Gradient magnetic field-induced vibration  4. Gradient magnetic field-induced device (e.g.,  IPG) heating  5. Device (IPG) malfunction (static magnetic  field and/or gradient magnetic field-induced  and/or RF field-induced)  6. Combined fields test</para>
       <para>7. RF field-induced heating of the AIMD (i.e., the  IPG and/or leads)  8. Unintended stimulation from RF field-induced  lead voltage  9. Unintended stimulation from gradient mag- netic field-induced lead voltage (i.e., extrinsic  electric potential)</para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 560</para>
       <para>rion to maintain patient safety. For example, during the intended use of the device, counter- forces associated tissue ingrowth, scarring, granulation, or other mechanisms (i.e., fixation  of the device by sutures or other means) can prevent the device from presenting a risk or  hazard to a patient with regard to movement or dislodgement (30).</para>
       <para>For most AIMDs with extended leads, since the main magnetic components that are  implanted subcutaneously tend to be positioned far from vulnerable anatomical structures,  static magnetic field-induced force is not considered a high-risk hazard.</para>
       <para><emphasis role="italics">2.</emphasis> <emphasis role="italics">Static Magnetic Field-Induced Torque </emphasis></para>
@@ -385,7 +157,6 @@
       <para>Vibration is sensitive to the static magnetic field and the time-varying gradient magnetic  fields. This test is described in ISO/TS 10974:2018 (23). It is measurement-based and is  conducted using an MR system or using a “shaker” table.</para>
       <para>There are two methods for testing. One method requires the use of an MR scanner and  provides higher accuracy with an increase in test burden, while the other method employs  a shaker table and uses conservative approximations to reduce test burden after initial cal- ibration testing utilizing an MR system. Because most conceived failures are due to fatigue  fractures of internal components, the concept of testing is to expose the implant to extended  periods of vibration and confirm full device functionality afterwards.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">561</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 561</para>
       <para>The test duration represents the cumulative patient scan time over the lifetime of a typ- ical AIMD.  Guidelines in the standard establish, based on prior clinical experience, that  conservative total MRI examination time exposure ranges from 2.5 hours to 7.5 hours, if  considering at the top 0.8% of the population to the top 0.01% of the population, respec- tively.</para>
       <para>For small- or medium-sized IPGs, and non-life-sustaining devices, vibration is not con- sidered a high-risk hazard. Notably, larger devices (e.g., IPGs associated with implantable  cardioverter defibrillators or implantable infusion pumps) typically vibrate more, with po- tentially greater likelihood of device damage.</para>
       <para><emphasis role="italics">4.</emphasis> <emphasis role="italics">Gradient Field-Induced Device (IPG) Heating </emphasis></para>
@@ -398,7 +169,6 @@
       <para><emphasis role="italics">5.</emphasis> <emphasis role="italics">Device (IPG) Malfunction: Static Magnetic Field, Gradient Magnetic Field, or RF Field-</emphasis> <emphasis role="italics">Induced </emphasis></para>
       <para>Exposure to the MR scanners static magnetic field and/or gradient magnetic field, and/or  RF Field could have certain effects on an AIMD such as, but not limited to:</para>
       <para><emphasis role="bold">562</emphasis> <emphasis role="bold">MRI Test Methods for MR Conditional AIMDs</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 562</para>
       <para>○ Static Magnetic Field: Device reset, re-programming, magnetic remanence, prema- ture battery discharge, and temporary or permanent damage.</para>
       <para>○ Gradient Magnetic Fields: Failure to deliver intended therapy, memory corruption,  and temporary or permanent loss of device programmed settings.</para>
       <para>○ RF Field: Failure to deliver the intended therapy, re-programming, device reset, tem- porary or permanent damage, and tissue stimulation due to RF rectification.</para>
@@ -412,7 +182,6 @@
       <para>This measurement-based assessment is conducted in an MR system and is sensitive to  or is a function of the field strength of the static magnetic field, the peak value for the time- varying gradient magnetic fields, and the peak RF field. The test is described in ISO/TS  10974:2018 (23).</para>
       <para>The Combined Fields Test is performed using an AIMD (i.e., the IPG and lead(s)) po- sitioned in a tissue-simulating media phantom and placed inside of an MR scanner. The</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">563</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 563</para>
       <para>AIMD is exposed to a series of MRI pulse sequences that represent various common and  clinically relevant protocols. Imaging is performed at different imaging landmarks or sim- ulated patient positions within the MR system. The concept of testing is to expose the im- plant to the clinical combined fields and confirm expected device functionality during and  after the exposure.</para>
       <para>This test can be viewed as redundant to device (IPG) malfunction testing. However, it  is required to make sure that the device is actually tested in a radiated environment under  clinical conditions. In addition, bench-top exposure tests are typically more stringent, be- cause they can apply higher-than-expected injection levels.</para>
       <para><emphasis role="bold">MRI Safety Assessments With Electromagnetic Modeling </emphasis></para>
@@ -424,7 +193,6 @@
       <para>The Second Element Needed for Modeling, the Transfer Function:</para>
       <para>For RF energy, the first two of the three assessments shown in <emphasis role="bold">Table 3</emphasis>, the Transfer  Function (31) is needed, which is really a characterization of how a particular AIMD (i.e.,  a specific IPG plus lead combination) behaves as an RF antenna in the MR scanner envi- ronment. For safety purposes benefiting the patient, the AIMD is favorable when it is a “bad  antenna” in the electromagnetic environment of the MR scanner.</para>
       <para><emphasis role="bold">564</emphasis> <emphasis role="bold">MRI Test Methods for MR Conditional AIMDs</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 564</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">565</emphasis></para>
       <para><emphasis role="bold">Figure 3.</emphasis> Left, Human model with one deep brain stimulation (DBS) and two spinal cord  stimulation (SCS) lead routings (pathways). Upper right, RF field E-tan (tangential elec- trical field) magnitude of one DBS routing. Lower right, RF field E-tan magnitude of one  SCS routing (Note, for both, the magnitude scale is not relevant to a specific RF energy  level). (Adapted from Reference 35.)</para>
       <figure>
@@ -444,7 +212,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 565</para>
       <para>The Transfer Function of an AIMD, when exposed to a uniform E-tan excitation, can  be measured using a benchtop RF injected setup (<emphasis role="bold">Figure 4</emphasis>) or simulated. The Transfer  Function is a one-dimensional vector having the length of the lead undergoing the test with  complex values (i.e., the term <emphasis role="italics">S</emphasis> in Equations 1 and 2), whose magnitude shows the reso- nance length(s) of the AIMD (<emphasis role="bold">Figure 5</emphasis>), which is the frequencies at which the AIMD is a  “good” antenna.</para>
       <para>Three MR safety assessments that rely on modeling are, as follows:</para>
       <para>1. RF Field-Induced Heating of the AIMD (i.e., Lead Electrode Heating)</para>
@@ -461,7 +228,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 566</para>
       <para>○ Simulation: Using simulation of this benchtop setup, <emphasis role="italics">in vitro</emphasis>, the E-tans are extracted  for all clinically relevant lead pathways.</para>
       <para>○ Benchtop or simulation: The Transfer Function of the AIMD is measured using a  benchtop injected setup or simulated.</para>
       <para>○ A predictive model of heating (and/or power) is established using the dot product of  E-tans and Transfer Function according to the following formula (23, 31):</para>
@@ -476,7 +242,6 @@
       <para>The concept of this assessment is:</para>
       <para>(1)</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">567</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 567</para>
       <figure>
         <title />
         <mediaobject>
@@ -499,7 +264,6 @@
       <para>○ The injection voltage assessment is established using the extracted E-tans of the  human <emphasis role="italics">in vivo</emphasis> gradient simulations (23):</para>
       <para>(2)</para>
       <para><emphasis role="bold">568</emphasis> <emphasis role="bold">MRI Test Methods for MR Conditional AIMDs</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 568</para>
       <figure>
         <title />
         <mediaobject>
@@ -521,7 +285,6 @@
       <para>• For those implants with an RF limit of B1+RMS (and its corresponding SAR limit), using  the B1+RMS-based limit is less restrictive, provided that the MR system provides the  B1+RMS value. This is because the SAR limit is the minimum value for the range of SAR  values corresponding to this one particular B1+RMS limit. That is, for each B1+RMS value,  the corresponding SAR is a range of values since SAR is a function of the patient’s body  weight and the imaging landmark.</para>
       <para>(3)</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">569</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 569</para>
       <figure>
         <title />
         <mediaobject>
@@ -541,7 +304,6 @@
       <title>CONCLUSIONS</title>
       <para>MR Conditional labels for AIMDs are developed through rigorous testing by im- plantable device manufacturers or test houses using methods and guidelines that were de- veloped with contributions from experts in various fields including MR system  manufacturers, implant manufacturers, test houses, MRI physicists and other scientists, and  regulatory agencies. Formal Instructions for Use information for MR Conditional implants  are the proper source for the MR scanning conditions and parameters that will ensure patient</para>
       <para><emphasis role="bold">570</emphasis> <emphasis role="bold">MRI Test Methods for MR Conditional AIMDs</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 570</para>
       <para>safety because they derive directly from rigorous test methods. The MRI safety community  is gaining expertise from the use of more MR Conditional AIMDs and reflecting these ex- periences with collaborations from experts in the field for the benefit and safety of scanning  patients with implants and devices.</para>
       <para>Patients and clinicians have also benefitted from efforts by MR system manufacturers  to design more advanced software, including those with options for limiting exposure to  MRI-related electromagnetic fields. These have already helped clinicians to provide access  to MRI technology for patients with implanted devices. Furthermore, there are exciting op- portunities for improving patient access to MRI examinations in a safe manner in the future  through advancing technologies and continued collaboration in the development of safety  testing methods and standards.</para>
     </sect1>
@@ -562,7 +324,6 @@
       <para>13.  American Society of Testing and Materials International, ASTM F2119-07 (2013). Standard Test Method  for Evaluation of MR Image Artifacts from Passive Implants, 2013.</para>
       <para>14. Shellock FG, Crues, JV. Editors. MRI Bioeffects, Safety, and Patient Management. Biomedical Research  Publishing Group, Los Angeles, CA, 2014.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">571</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 571</para>
       <para>15.  Shellock FG. Reference Manual for Magnetic Resonance Safety, Implants, and Devices: 2020 Edition.  Biomedical Research Publishing Group, Los Angeles, CA, 2020.</para>
       <para>16. International Organization for Standardization, ISO 14708-1:2014. Implants for surgery — Active im- plantable medical devices — Part 1: General requirements for safety, marking and for information to be  provided by the manufacturer.</para>
       <para>17.  Rezai AR, Finelli D, Nyenhuis JA, et al. Neurostimulator for deep brain stimulation: <emphasis role="italics">Ex vivo</emphasis> evaluation  of MRI-related heating at 1.5-Tesla. J Magn Reson Imaging 2002;15:241-250.</para>
@@ -586,9 +347,7 @@
       <para>35.  Aldayeh L, Rahman M, Venook R. Practical Aspects of MR imaging safety test methods for MR Con- ditional active implantable medical devices. Magn Reson Imaging Clin N Am 2020;28:559-571.</para>
       <para>36.  Association for the Advancement of Medical Instrumentation, AAMI PC76:2021. Active implantable  medical devices - Requirements and test protocols for safety of patients with pacemakers and ICDs ex- posed to magnetic resonance imaging.</para>
       <para><emphasis role="bold">572</emphasis> <emphasis role="bold">MRI Test Methods for MR Conditional AIMDs</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 572</para>
       <para>37.  International Organization for Standardization, ISO 14708-3:2017. Implants for surgery - Active im- plantable medical devices - Part 3: Implantable neurostimulators</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">573</emphasis></para>
-      <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:32 PM  Page 573</para>
-    </sect1>
+      </sect1>
 </chapter>

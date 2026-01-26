@@ -16,11 +16,7 @@ Changes in cochlear perception of
 auditory stimuli (intensity and fre-
 quency). Confined to auditory 
 fMRI.
-Table 1.</para><table frame="all"><title>A summary of potential issues with unwanted acoustic noise in fMRI (14). Re-</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:19 PM</entry><entry>Page 158</entry></row></tbody></tgroup></table><para>ower.  
-The sound level that is measured depends not only on the source, but also the environ-
-ment (e.g., the proximity of surfaces that may reflect sound). Thus, sound levels are usually 
-quoted in terms of sound pressure level (SPL), which accounts for the environment of the 
-measurement. Table 2</para><table frame="all"><title>displays a range of sound pressure levels for some typical sources</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:19 PM</entry><entry>Page 159</entry></row></tbody></tgroup></table><para> Patient Management
+Table 1.</para><para> Patient Management
 161
 Sound Pressure Level (dB)
 Typical Sound Sources
@@ -44,8 +40,7 @@ Typical office
 Whisper
 0
 Threshold of hearing
-Table 2.</para><para>coustic noise.
-BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 161</para><table frame="all"><title>Sound pressure level for some typical sources of acoustic noise.</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:19 PM</entry><entry>Page 161</entry></row></tbody></tgroup></table><para>on  
+Table 2.</para><para>on  
  
 where teff is the duration of the dB/dt pulse (Figure 19). Alternatively, an E-field 
 rheobase of 2.2-V/m may be used. 
@@ -54,43 +49,11 @@ search mode, subject to Institutional Review Board (IRB) or ethics committee app
 operational modes in a similar manner with identical limits (57). 
 Gradient weighting-factors are applied to the scanner’s stimulation prediction monitor 
 to account for the different sensitivities of each axis: WAP = 1.0, WLR = 0.8, WHF = 0.7 
-where AP, HF, and</para><table frame="all"><title>The International Commission on Non-Ionizing Radiation Pro-</title><tgroup cols="4"><tbody><row><entry>Table 3. Occupational noise action values and limits (adapted from reference 80).</entry><entry>Repro-</entry><entry /><entry /></row><row><entry>duced by permission, HMSO (Open Government License).</entry><entry /><entry /><entry /></row><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:19 PM</entry><entry>Page 171</entry></row></tbody></tgroup></table></sect1>
+where AP, HF, and</para></sect1>
     <sect1 id="ch0006s02">
       <title>INTRODUCTION</title>
       <para>During the operation of the magnetic resonance (MR) system, various types of acoustic  noises are produced. The problems associated with acoustic noise for patients and healthcare  workers are wide ranging, from simple annoyance and difficulties in verbal communication  between staff and patients, to heightened anxiety or discomfort, and even potentially per- manent hearing impairment (1-9). Acoustic noise may pose a particular problem for specific  patient groups that may be at increased risk. For example, patients with head injuries or  psychiatric disorders, the elderly, young children, and infants may be confused or suffer  from heightened anxiety during MRI procedures (2). Patients taking medications may ex- perience increased hearing sensitivity (3). Additionally, neonates with immature anatomical  development may be at increased risk for adverse effects associated with acoustic noise.  For example, significant fluctuations in vital signs of newborns have been reported during  magnetic resonance imaging (MRI) examinations, which may partly be attributable to  acoustic noise (4). High levels of acoustic noise may also impact the quality of the MRI  procedure by causing distress in the patient.</para>
-      <table frame="all">
-  <title />
-  <tgroup cols="3">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <colspec colname="c3" />
-    <thead>
-      <row>
-        <entry>Action Level</entry>
-        <entry>Daily or Weekly Personal Exposure dB(A) (average value)</entry>
-        <entry>Peak Sound Pressure, dB</entry>
-      </row>
-    </thead>
-    <tbody>
-      <row>
-        <entry>Lower exposure value</entry>
-        <entry>80</entry>
-        <entry>135</entry>
-      </row>
-      <row>
-        <entry>Upper exposure value</entry>
-        <entry>85</entry>
-        <entry>137</entry>
-      </row>
-      <row>
-        <entry>Exposure limit values</entry>
-        <entry>87</entry>
-        <entry>140</entry>
-      </row>
-    </tbody>
-  </tgroup>
-</table><para>Due to several of the issues listed above and the more specific issues discussed below,  acoustic noise levels also pose a significant problem for one particular area of MRI: the in- creasing amount of research in functional MRI (fMRI) studies of brain activation. Typically,  patients and volunteer subjects will be provided earplugs to wear during fMRI. However,  these may impair vocal communication with staff members and also the perception of study  stimuli. The acoustic noise associated with fMRI procedures can often be comparatively  loud, as the use of fast acquisition sequences (e.g., echo planar imaging, EPI) are normally  used. Acoustic noise can often lead to motion-related artifacts and degraded image quality.  Furthermore, acoustic noise has been reported to interfere with auditory functional studies,</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 157</para>
+      <para>Due to several of the issues listed above and the more specific issues discussed below,  acoustic noise levels also pose a significant problem for one particular area of MRI: the in- creasing amount of research in functional MRI (fMRI) studies of brain activation. Typically,  patients and volunteer subjects will be provided earplugs to wear during fMRI. However,  these may impair vocal communication with staff members and also the perception of study  stimuli. The acoustic noise associated with fMRI procedures can often be comparatively  loud, as the use of fast acquisition sequences (e.g., echo planar imaging, EPI) are normally  used. Acoustic noise can often lead to motion-related artifacts and degraded image quality.  Furthermore, acoustic noise has been reported to interfere with auditory functional studies,</para>
       <para>and more broadly, with cross modal neural activity (10-14). A summary of the potential is- sues related to the acoustic noise that is associated with fMRI is shown in <emphasis role="bold">Table 1</emphasis>.</para>
       <para>MR system-related acoustic noise will interfere with the communication of activation  task instructions that often must be provided during scanning. One area of particular interest  is the study of auditory and language function (13). In this work, the response to pure tone  stimuli is analyzed. Therefore, any background levels of unwanted or uncontrolled acoustic  noise can interfere with the delivery of these sound stimuli and affect experimental integrity.  Solutions specific to controlling acoustic noise exposure during fMRI are generally se- quence-related and a full discussion of this topic is presented later in this chapter.</para>
       <para>Acoustic noise levels during echo planar imaging have been reported to significantly  increase pure tone hearing thresholds in the optimal frequency hearing range (0- to 8-kHz)  (15). These effects vary across the frequency range and the threshold changes depend on  the characteristics of the sequence-generated acoustic noise. It may be possible to take into  account, or adjust for, the MR system-induced auditory activation by using a control series</para>
@@ -110,63 +73,7 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>Stapedial muscle reflex</para>
       <para>Changes in cochlear perception of  auditory stimuli (intensity and fre- quency). Confined to auditory  fMRI.</para>
       <para>Temporary hearing loss</para>
-      <table frame="all">
-  <title />
-  <tgroup cols="2">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <thead>
-      <row>
-        <entry>Sound Pressure Level (dB)</entry>
-        <entry>Typical Sound Sources</entry>
-      </row>
-    </thead>
-    <tbody>
-      <row>
-        <entry>140</entry>
-        <entry>Threshold of pain</entry>
-      </row>
-      <row>
-        <entry>130</entry>
-        <entry>Pneumatic drill</entry>
-      </row>
-      <row>
-        <entry>120</entry>
-        <entry>Chainsaw</entry>
-      </row>
-      <row>
-        <entry>110 -120</entry>
-        <entry>Car horn at 1-meter</entry>
-      </row>
-      <row>
-        <entry>80 - 90</entry>
-        <entry>Inside a bus</entry>
-      </row>
-      <row>
-        <entry>70 - 80</entry>
-        <entry>Traffic at street corner</entry>
-      </row>
-      <row>
-        <entry>60 - 70</entry>
-        <entry>Normal voice</entry>
-      </row>
-      <row>
-        <entry>50 - 60</entry>
-        <entry>Typical office</entry>
-      </row>
-      <row>
-        <entry>30</entry>
-        <entry>Whisper</entry>
-      </row>
-      <row>
-        <entry>0</entry>
-        <entry>Threshold of hearing</entry>
-      </row>
-    </tbody>
-  </tgroup>
-</table><para>Changes in cochlear perception of  auditory stimuli (intensity and fre- quency). Confined to auditory  fMRI.</para>
-      <para><emphasis role="bold">Table 1.</emphasis> A summary of potential issues with unwanted acoustic noise in fMRI (14). Re- produced by permission, Wiley - John Wiley and Son Publishers, NY</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 158</para>
+      <para>Changes in cochlear perception of  auditory stimuli (intensity and fre- quency). Confined to auditory  fMRI.</para>
       <para>of scans during task paradigms. Results have been reported on mapping auditory activation  induced by MR system-induced acoustic noise (16).</para>
       <para>The problem of acoustic noise may also have implications for the operational costs of  an MRI facility. Notably, there can be a potential decrease in image quality due to patient  movement resulting from the patient being startled or uncomfortable in association with  acoustic noise. This may add to the need to repeat scans or to interrupt studies that can ad- versely impact the efficiency of an MRI facility. For all the above reasons, it is important  that the MRI-related acoustic noise is quantified and characterized as part of a safety and  quality assurance program. Furthermore, any exposure to acoustic noise that is excessive  must be controlled or alleviated.</para>
       <para>Acoustic noise experienced during routine clinical MRI examinations can generally be  confined to levels within permissible limits with relatively little effort by using passive  hearing protection (e.g., disposable earplugs). Several more sophisticated methods are also  under investigation by researchers, offering more comprehensive and elegant solutions with- out the disadvantages of passive methods. This chapter will discuss acoustic noise and hear- ing, describe the common characteristics of MRI-related acoustic noise, explain the current  permissible levels for acoustic noise, and present the main methods used for measurement  and control of this potential hazard.</para>
@@ -178,7 +85,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>At high sound intensities, the muscles that control the motion of the ossicles alter their  tension creating the acoustic reflex to protect the ear from damage. However, this reflex  occurs approximately 0.5-milliseconds after the insult, such that the ear is particularly vul- nerable to impact noise of high intensity. The human ear does not tend to discern sound  powers in absolute terms, but assesses how much greater one power is than another. Re- flecting the very wide range of powers that exist, the logarithmic decibel scale, dB, is used  when referring to sound power.</para>
       <para>The sound level that is measured depends not only on the source, but also the environ- ment (e.g., the proximity of surfaces that may reflect sound). Thus, sound levels are usually  quoted in terms of sound pressure level (SPL), which accounts for the environment of the  measurement. <emphasis role="bold">Table 2</emphasis> displays a range of sound pressure levels for some typical sources  of acoustic noise.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">159</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 159</para>
       <para><emphasis role="bold">160</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
       <para><emphasis role="bold">Figure 2.</emphasis> The frequency response of the human ear. The dashed line shows the relative  frequency response of the human ear and the solid line shows the A-weighted filter ap- proximation to this response (18). Reproduced by permission through the HMSO Open  Government License.</para>
       <figure>
@@ -198,7 +104,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 160</para>
       <para>The sensitivity of the ear is also frequency dependent, as shown is <emphasis role="bold">Figure 2</emphasis> (18). Peak  hearing sensitivity occurs in the region of 4-kHz. This is also the region where potential  maximum hearing loss will occur, with damage spreading into neighboring frequencies.  Since the ear is not equally sensitive to all frequencies, measured data may be weighted  using the dBA measurement or “A-weighted” scale, which biases the meter to respond sim- ilarly to the human ear. The quality, or efficiency of hearing, is defined by the audible thresh- old, which is the SPL at which one can just begin to detect a sound. This is normally defined  as 0 (zero)-dB.</para>
       <para>Acoustic noise is defined in terms of frequency spectrum (measured and indicated in  Hz), intensity (indicated in decibels or dB), and duration (or time). Additionally, noise may  be steady state, intermittent, impulsive, or explosive. Time-varying noise is reported in  terms of Leq, which is defined as the continuous SPL that contains the same sound energy  as the time-varying sound over the measurement period. This can be considered as the av- erage noise level. Stimulation of the ear by acoustic noise has three potential effects: 1)  Adaptation, 2) Temporary threshold shift (TTS) (post-stimulation fatigue), and 3) Permanent  threshold shift (PTS) (permanent impairment).</para>
       <para>In hearing adaption, loud sounds cause a small muscle attached to one of the bones of  the inner ear to contract. This attenuates the transmission of sound vibration to the inner  ear, which is a protective mechanism that does not work well for short duration, very intense  sounds. Transient hearing loss may occur following loud noise (&gt;100-dBA), resulting in a  temporary threshold shift (i.e., a shift in audible threshold). With a TTS, subjects may ex- perience a dulling in hearing at the end of the noise and tinnitus in some cases. Recovery  typically occurs quickly (1). However, full recovery can take up to several weeks if the  noise insult is particularly severe. Intense impulsive noises at 650-Hz with cut-offs at 300-  and 1-kHz have also been shown to generate substantial TTS (19). Noise above 100-dBA  can cause disturbances of the microcirculation in the cortical organ and short impulsive  noise at levels of 120- to 130-dBA can lead to mechanical damage in this organ.</para>
@@ -215,62 +120,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>50 - 60 Typical office</para>
       <para>30 Whisper</para>
       <para>0 Threshold of hearing</para>
-      <para><emphasis role="bold">Table 2.</emphasis> Sound pressure level for some typical sources of acoustic noise.</para>
-      <table frame="all">
-  <title />
-  <tgroup cols="3">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <colspec colname="c3" />
-    <thead>
-      <row>
-        <entry>Mechanism</entry>
-        <entry />
-        <entry>Characteristics</entry>
-      </row>
-    </thead>
-    <tbody>
-      <row>
-        <entry morerows="1">Direct confounding</entry>
-        <entry>Intra-acquisition response</entry>
-        <entry>Activation by scanner noise within same volume acquisition. Primarily interfering with auditory fMRI.</entry>
-      </row>
-      <row>
-        <entry>Inter-acquisition response</entry>
-        <entry>Activation by scanner noise of preceding volume acquisition. Primarily interfering with auditory fMRI.</entry>
-      </row>
-      <row>
-        <entry morerows="6">Indirect confounding</entry>
-        <entry>Attention</entry>
-        <entry>Increased activation in attention-related cortical areas.</entry>
-      </row>
-      <row>
-        <entry>Distraction</entry>
-        <entry>Decreased activation in cortical areas by (inter-modal) distraction.</entry>
-      </row>
-      <row>
-        <entry>Habituation</entry>
-        <entry>Slowly developing adaption-related loss of attention. May be advantageous in noisy environments.</entry>
-      </row>
-      <row>
-        <entry>Motion artifacts</entry>
-        <entry>Not substantially related to scanner noise.</entry>
-      </row>
-      <row>
-        <entry>Masking</entry>
-        <entry>Overlap of spectral components of scanner noise and auditory stimuli. Confined to auditory fMRI.</entry>
-      </row>
-      <row>
-        <entry>Stapedial muscle reflex</entry>
-        <entry>Changes in cochlear perception of auditory stimuli (intensity and frequency). Confined to auditory fMRI.</entry>
-      </row>
-      <row>
-        <entry>Temporary hearing loss</entry>
-        <entry>Changes in cochlear perception of auditory stimuli (intensity and frequency). Confined to auditory fMRI.</entry>
-      </row>
-    </tbody>
-  </tgroup>
-</table><para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 161</para>
       <para>of inner ear damage. That is, destruction of the hair cells that convert acoustic energy to  electrical impulses transmitted via the nervous system to the brain. These cells cannot re- generate and, therefore, the damage is irreversible. This damage is similar to age-related  hearing loss (presbycusis) in that it progresses slowly, with the affected hearing threshold  rising. Mean hearing loss is a function of noise frequency and duration (20). Permanent  damage is primarily a risk for prolonged daily exposure to loud (&gt;85-dB) occupational noise  or short impulsive noise around 140-dB. Excessive noise is known to be one of the most  common causes of hearing loss (20). The risk of hearing damage increases with the noise  level, duration of the noise, the number of exposures to the noise, and the susceptibility of  the individual (20, 21). Along with sensitive groups, children have a lower threshold for  hearing damage and, therefore, restricting exposure levels to around 120-dB or lower is  recommended (22). It is generally accepted that exposure to noise levels up to a maximum  of 75-dBA will not result in PTS irrespective of the duration of exposure (22). Over the  years, several instances of noise-related incidents have been reported in the literature (see  below).</para>
       <para><emphasis role="bold">Noise That Is Not Perceived By the Ear Canal </emphasis></para>
       <para>The ear canal is not the only path for transmission of sound to the cochlea. Sound may  be conducted via air and bone conduction, through the ear canal, head, and body. Protection  of the ear canal via earplugs will, thus, never lead to silence, due to the remaining sound  conduction via the other paths. Sound can be conducted directly to the cochlea, to the middle  ear and then to the cochlea, or through the walls of the middle ear, along the ear canal to  the middle ear, and then to the cochlea (23). When the ear canal is relatively unprotected,  this path will be the dominant one for perception of sound. However, as noise is attenuated  along the ear canal, the other paths become increasingly dominant and further hearing pro- tection measures will have little effect on the residual noise. Using a helmet in addition to  conventional earplugs and “defenders”, Ravicz and Melcher, (24) studied the impact of iso- lating the head and ear canal from sound. Isolating the head enabled the original noise at- tenuation of 39- to 41-dB to increase to 55- to 63-dB.</para>
@@ -278,8 +127,7 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>By around the twentieth week of gestation, the outer, middle, and inner ear of the fetus  appear to be fully formed. The fetus can then begin to detect sounds (25). Indeed, Hepper  and Shahidullah, (26) reported that the responsiveness of the fetus to audio stimuli occurs  between 19 to 35 weeks, with initial responses being to sounds at low frequencies. They  measured an initial response at 20 weeks to a 500-Hz pure tone. As the pregnancy pro- gressed, there was a significant reduction (20- to 30-dB) in the intensity of sound required  to elicit a response. Studies report that maternal tissues and fluid surrounding the fetal head  act as efficient low-pass filters for sound (27-31).</para>
       <para>Acoustic noise is known to be a concern for neonates who generally have sensitive  hearing. Aside from artifacts introduced from involuntary motion related to startle reflexes,  the noise can provoke adverse responses such as autonomic instability (32-36). Neonatal  intensive care unit guidelines often suggest minimizing the risk of physiological stress by  adhering to a limit for exposure to acoustic noise (see below ).</para>
       <para><emphasis role="bold">162</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 162</para>
-    </sect1>
+      </sect1>
     <sect1 id="ch0006s04">
       <title>CHARACTERISTICS OF MRI-RELATED ACOUSTIC NOISE</title>
       <para>Early measurements of MRI-related acoustic noise offered little more than an assess- ment of intensity levels. Over time, researchers began to investigate the noise in more detail  and to characterize it in terms of frequency components, variability with pulse sequences,  and the contribution of individual gradients.</para>
@@ -290,7 +138,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>Various factors have been shown to affect the acoustic noise generated during MRI, in- cluding the strength of the static magnetic field (mentioned above) and alteration of the gra- dient output (i.e., rise time and amplitude). Interestingly, Price, et al. (39) reported that there  is greater impact on acoustic noise levels generated from imaging parameters than the field  strength. Acoustic noise is enhanced by decreases in section thickness, field of view, repe- tition time, and echo time. The physical features of the MR system and its environment as  well as the material and construction of the gradient coils and support structures also affect  the transmission of the acoustic noise and its perception by the patient and MR system op- erators.</para>
       <para>(1)</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">163</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 163</para>
       <figure>
         <title />
         <mediaobject>
@@ -305,7 +152,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>Price, et al. (39) surveyed fifteen MR scanners, with static magnetic field strengths from  0.2-T to 3-T, reporting worst case noise levels in the range 82.5- to 118.3-dBA, but for two- dimensional MRI techniques, only. They reported the lowest noise levels for the lowest  static field strength scanner and the highest noise recorded for the highest field strength  scanner, but noted low levels of acoustic noise recorded for a 1.5-T scanner fitted with vac- uum-encased gradient coils. Higher acoustic noise levels have been reported by Ravicz, et  al. (52) (up to 138-dB for 3-T) and More, et al. (53) (130-dB for 4-T).</para>
       <para>Foster, et al. (54) reported EPI-related acoustic noise levels of 123- to 132-dBA for a  3-T research scanner. Since EPI sequences are significantly shorter in duration than con- ventional sequences, in terms of acoustic noise exposure, higher sound exposure levels are  possible for the shorter times involved. However, these levels, when converted to eight hour  equivalent values (Leq = 108-dBA), are higher than the limits for occupational acoustic  noise exposure used in the United Kingdom (UK) and in the United States (U.S.). Therefore,  hearing protection must be used for patients undergoing MRI procedures under these cir- cumstances. Conventional EPI sequences generally comprise constant readout gradients  and a train of very short high level trapisoidal phase encode gradient ‘blips’. It is not sur- prising that the blipped gradient contributes the larger proportion of the sequence-related  acoustic noise (55). As the gradient blips are at higher frequency than the readout gradient,  the resultant acoustic noise will have a larger proportion of high frequencies.</para>
       <para><emphasis role="bold">164</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 164</para>
       <para>Measurements of sound pressure levels offer a limited amount of information with re- gard to the quality of the noise and its impact on hearing. In addition to measurements of  noise level, several groups have recorded and analyzed the acoustic noise. Similar noise  levels and characteristics are found when comparing different clinical MR systems. Fre- quency analysis of the noise shows that noise is pseudo-periodic, with variations in the de- gree of periodicity depending on the pulse sequence used and the vibrational characteristics  of the gradient coils (46).</para>
       <para>For conventional pulse sequences used for MRI, peak noise levels are found at the low  frequency region of the spectra. <emphasis role="bold">Figure 3</emphasis> shows an example of the octave band spectra for  a 1.0-T and 1.5-T MR systems (44, 45). Spectral peaks in the sound levels were found in  the range of 0.2- to 1.5-kHz (22). Cho, et al. (48) have also reported that pre-scan noise  generated high levels (100-dB, C-weighted scale) across a wide spectral range up to 4-kHz  with peaks around 2.4-kHz.</para>
       <para>More, et al. (53) noted that repetition time (TR) had a minimal impact on overall SPL,  while increasing the echo time (TE) increased attenuation, in agreement with Price, et al.  (39). Unlike the use of conventional sequences, EPI-related sound levels have been reported  to contain a larger fraction of high frequency noise (around 4-kHz) with most noise com- prising the fundamental frequency and harmonics in the frequency range of 0.5- to 4-kHz  (52). For EPI sequences, More, et al. (53) also noted considerable non-harmonic noise flank- ing the harmonics. The acoustic noise was also noted to contain a higher proportion of broad  frequency spectrum noise (<emphasis role="bold">Figure 4</emphasis>). For their pulse sequence, More, et al. (53) found the  even harmonics to be associated with the phase-encoding gradient, the frequency encoding  gradient generated the odd harmonics and non-harmonic acoustic noise, while the slice-se- lective gradients generated the broad spectrum noise (<emphasis role="bold">Figure 5</emphasis>).</para>
@@ -319,7 +165,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 165</para>
       <para>In addition to the dependence on pulse sequence parameters, MR system hardware and  construction, acoustic noise is dependent on the immediate environment. Spatially, the  acoustic noise will vary along the bore of the scanner. However, how it varies will depend  on the MR system’s structure and design. Price, et al. (39) presents acoustic noise measure- ments across a range of scanner geometries and designs, systems ranging from static mag- netic field strengths of 0.2 to 3-T. Reports providing values of acoustic noise tend to disagree  because of differences related to whether the maximum acoustic noise levels were measured  at the isocenter of the bore or not (39, 47, 49). The noise distributions along radial and axial  directions are also likely to be asymmetric, due to standing wave effects in the scanner’s  bore (53).</para>
       <para>Furthermore, noise levels have been found to vary by as much as 10-dB as a function  of the patient’s position inside the MR system (47) such that the presence and size of the  patient affects the level of acoustic noise. For example, an increase of 1- to 3-dB has been  measured with a patient present inside of the MR system (47), which may be due to pressure  doubling (i.e., the increase in sound pressure close to a solid object, caused when sound  waves reflect and undergo in-phase enhancement).</para>
       <para><emphasis role="bold">Acoustic Noise and Ultra-High-Field MRI </emphasis></para>
@@ -334,7 +179,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 166</para>
       <para>increase significantly for UHF scanners. When increasing the static magnetic field strength  from 1.5-T to 11.7-T, a simple linear model predicts an increase in the acoustic noise level  by approximately 22-dB. But, in fact, in line with earlier results (38), this has not been ob- served in practice (57). Applying a logarithmic scale, changing from 7-T to 20-T, a 9-dB  increase in acoustic noise level would be predicted. However, building in additional effects  such as Lorentz damping (58), results in increases in acoustic noise levels that are actually  lower than expected, and in some cases very similar to reported noise levels at 3-T (59-60).</para>
       <para>Notably, one practical difference (61) is that head coils at 7-T are generally more tightly  fitting that those used at 3-T because they are comprise of a multi-channel insert. This makes  using double passive hearing protection (earplugs and earmuffs) impractical and, thus, the  acoustic noise is only attenuated by earplugs alone.</para>
       <para>Presently, findings obtained at 7-T remain sparse (61-64). Costagli, et al. (62) reported  acoustic noise levels of 89.9 -/+ 0.7-dBA for conventional T1-weighted, fast spoiled gradient  recalled (FSPGR) pulse sequences at 7-T. Speck, et al. (64) reported acoustic noise levels  of 101-dBA for a standard EPI sequence, also at 7-T. Importantly, these levels are consid- erably lower than early measurements recorded on 3- and 4-T scanners. Therefore, there</para>
@@ -348,7 +192,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 167</para>
       <para>appears to be little concern for substantial increases in risks for acoustic noise-related issues  associated with the currently used UHF MR systems.</para>
       <para><emphasis role="bold">Analysis, Simulation and Modeling of MR System Acoustic Noise </emphasis></para>
       <para>Hedeen and Edelstein (47) demonstrated the similarity between the gradient pulse spec- trum and the acquired noise spectrum, which are affected by additional system acoustic res- onances (<emphasis role="bold">Figure 6</emphasis>). There was a good qualitative match between the input signal and  resulting acoustic noise spectrum. Hedeen and Edelstein (47) derived an acoustic transfer  function that is independent of input, and which once determined, may be applied to any  input impulse function and will then predict the generated acoustic noise.</para>
@@ -363,7 +206,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 168</para>
       <para>Hedeen and Edelstein (47) applied this analysis to a fast spin echo (FSE) pulse sequence  and achieved an agreement between measured and predicted acoustic noise level to within  0.4-dB (<emphasis role="bold">Figure 7</emphasis>). Other authors, such as More, et al. (53) and Rizzo-Sierra, et al. (65) have  used similar approaches in deriving simple acoustic transfer or impulse response functions  with considerable success in predicting the acoustic noise associated with the MR system’s  gradient behavior.</para>
       <para>Interestingly, Hamaguschi, et al. (66) applied an acoustic transfer function approach to  compare the acoustic noise characteristics of several clinical MR systems. This group as- sessed 10 scanners, finding results (higher acoustic response at high frequency) that con- tradict those reported by others (22, 44, 45).</para>
       <para>A number of investigators reported detailed acoustic analysis and modeling of the  acoustic noise from commercial and purpose-built gradient coil systems. Researchers have  made a significant contribution to this field, reporting on a number of approaches to gradient  modeling as well as conducting evaluations and testing on noise reduction techniques (67-</para>
@@ -378,7 +220,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 169</para>
       <figure>
         <title />
         <mediaobject>
@@ -395,7 +236,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>Several of the available guidance documents discussed below adopt a similar frame- work, referring back to the same source for action levels and permissible limits. Much of  the international guidance is based on occupational exposure limits that assume chronic ex- posures. These are not entirely satisfactory for application to patient exposures associated  with MRI, which can be short but with potentially intense noise, causing discomfort. When  time-averaged, these types of exposures can fall below action levels but still present a haz- ard. For normal individuals, the typical threshold for discomfort related to acoustic noise is  approximately 120-dB in the 1- to 5-kHz range (78), however, those with particular sensi- tivity can experience discomfort at much lower acoustic noise levels (79).</para>
       <para>For acoustic noise exposure involving <emphasis role="bold"><emphasis role="italics">staff members</emphasis></emphasis>, the current UK occupational  guidelines are based on the Control of Noise at Work legislation, published in 2005 (80).  This document sets out the responsibilities of the employer and makes a number of recom- mendations based on a small set of action levels. Acoustic noise is graded to that which is  below 80-dBA, a lower action level at 80-dBA daily or weekly exposure (peak 135-dBC),  and upper action level at 85-dBA daily or weekly exposure (peak 135-dBC). It should be  noted that values for lower and upper action levels have been reduced by 5-dBA, compared  to previous Noise at Work action levels published in 1989. This document also recommends  that hearing protection should be available for all staff members, and that its use be manda- tory for noise above the upper action level. For MRI healthcare workers, there is generally  little need to be in the MR system room during scanning. Because the acoustic noise levels  that exist outside the scanner’s bore are relatively low, the risks are similarly low.</para>
       <para><emphasis role="bold">170</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 170</para>
       <para>The management of exposure to acoustic noise for the <emphasis role="bold"><emphasis role="italics">general public</emphasis></emphasis> is covered by the  Management of Health and Safety at Work (1999) (81), but, since the general public does  not have access to the controlled area or MR system room, again, the risks are low. European  guidance is published as directive 2013/35/EU (82) and has similar limits and action levels  to those in the UK.</para>
       <para>In the United States (U.S.), occupational limits are mandated by the Occupational Safety  and Health Authority (OSHA) (83) and have also been adopted by the Food and Drug Ad- ministration (FDA) (84). OSHA guidance is geared towards traditional ‘heavy’ industries  where there are very noisy environments and medium-to-high risk to hearing. Their list of  affected industries does not include MRI/Healthcare. Now somewhat outdated, the OSHA  guidelines apply to a slightly raised action level of 90-dBA (daily or eight-hour average) in  line with the older UK guidance (85).</para>
       <para>Current UK guidance on noise exposure limits for MRI <emphasis role="bold"><emphasis role="italics">patients and volunteer subjects</emphasis></emphasis>  (including staff members) is presented in the MHRA guidelines (86). For patients and vol- unteer subjects, it suggests hearing protection should always be offered unless noise levels  are proven to be below 80-dBA. Hearing protection should reduce levels at the ear to below  85-dBA. The recommended action levels are based on the noise at work regulations (72)  and are shown in <emphasis role="bold">Table 3</emphasis>. The International Commission on Non-Ionizing Radiation Pro- tection (ICNIRP) (87, 88) notes the range of guidance from the International Electrotech- nical Commission (IEC) (89), but accepts the need for a conservative approach to protect  vulnerable patient groups, also recommending the MHRA action levels. The MHRA docu- ment shows the relationship between the acoustic noise level and time necessary to reach  the daily action level (86) (<emphasis role="bold">Table 3</emphasis>). Recommendations for acoustic noise and hearing pro- tection are, as follows (86):</para>
@@ -407,8 +247,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>Lower exposure value 80 135</para>
       <para>Upper exposure value 85 137</para>
       <para>Exposure limit values 87 140</para>
-      <para><emphasis role="bold">Table 3.</emphasis> Occupational noise action values and limits (adapted from reference 80).  Repro- duced by permission, HMSO (Open Government License).</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 171</para>
       <para>Staff should be offered hearing protection if acoustic noise levels are above the  • lower action level and use is mandatory for noise at the upper action level.</para>
       <para>Particular care should be taken with vulnerable patient groups, such as pediatric  • and unconscious patients.</para>
       <para>Pregnant staff members are advised not to remain in the MR system room during  • scanning. Sites should undertake a risk assessment to evaluate staff time and mo- tion around the scanner in order to minimize exposure to the MRI setting.</para>
@@ -419,13 +257,11 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>Due to lack of data and a full understanding of response, UK guidance (86) suggests a  cautious approach to scanning the fetus and pregnant patients. Scanning during the first  trimester is discouraged unless justified by a critical risk assessment. Because acoustic noise  is known to be a concern for neonates who have sensitive hearing, neonatal intensive care  unit (NICU) guidelines suggest minimizing the risk of physiological stress by adhering to  a limit for noise exposure to 65-dBA (92).</para>
       <para>Fetal MRI has become increasingly important, particularly in diagnosis of fetal abnor- malities and for the management of the mother. Although discouraged, if necessary MRI  procedures may be performed during the first trimester of pregnancy. In a survey conducted  by De Wilde, et al. (93), 83% of the clinics that responded suggested that they would scan  patients during the first trimester in cases of clinical need. While the mother may wear hear- ing protection, the fetus is protected only by the attenuation provided by the intra-uterine  fluid and the maternal abdomen. Thus acoustic noise has the ability to impact the fetus (94).  To minimize motion-related artifacts, fast imaging techniques are required for fetal MRI  examinations, which results in the potential for exposures to comparatively high levels of  acoustic noise. Glover, et al. (95) investigated acoustic noise absorption through the ab-</para>
       <para><emphasis role="bold">172</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 172</para>
       <para>domen using a hydrophone in the stomach of a (male) volunteer. For scans performed at  0.5-T, these researchers reported a reduction of approximately 30-dB in acoustic noise lev- els. However, this study was a very limited approximation to scanning a pregnant patient  and the associated sound absorption. The strength of the static magnetic field of the MR  system, which directly affects acoustic noise levels generated, was also low (0.5-T) com- pared to the majority of clinical scanners in current use. Certain research has reported high  frequency hearing loss, shortened gestation, and decreased birth weight following exposure  to high levels of acoustic noise (&gt;99-dBA) (96).</para>
       <para>To investigate this particular safety issue, there have been a number of follow-up studies  (97-106). For example, Reeves, et al. (97) investigated the rates of cochlear impairment for  a cohort of second and third trimester neonates who had been exposed to acoustic noise  during 1.5-T MRI examinations. Their data showed no association between exposure to  noise and an increased risk of hearing impairment. General guidelines for managing expo- sure to acoustic noise produced by the United Kingdom (UK), Medicines and Healthcare  products Regulatory Agency (MHRA) (86) and based on evidence in several reports (98- 100) suggest that the data on the effects of noise on the health of the fetus is inconclusive.</para>
       <para>Bouissant-Kobar, et al. (101) followed-up (i.e., at approximately 24 months) on a cohort  of 72 pre-school children scanned at 1.5-T during their mothers’ pregnancies (mean gesta- tional age at scanning, 30 weeks). All children were born at term and achieved age-appro- priate scores in the Vineland Adaptive Behaviour Scale (VABS) tests. In addition, all study  subjects passed their new-born otoacoustic tests and demonstrated normal hearing at pre- school age. These findings confirmed a lack of MRI-related impact on functional outcomes  or hearing impairment at pre-school age. De vita, et al. (102) and Jaimes, et al. (103) inves- tigated the effects of higher field strength scanning on pre-terms (4.7-T and 3-T, respectiv).  Both groups noted no increase in risks in moving to a higher field strength MR system.  Clements, et al. (104) report similar normal findings, in this case for a smaller cohort (20  cases) whose mothers had been exposed to echo planar imaging (EPI) at 0.5-T four times  between 20 weeks and term. Thus, the current data appears to provide general reassurance  in that there is low risk present when applying MRI in prenatal and neonatal patients (101- 106). An optimized solution for neonatal imaging with clear benefits was reported by Tkach,  et al. (107, 108). This group scanned 15 non-sedated neonates in an adapted small-bore (di- ameter 22- cm) 1.5 -T orthopedic MR system. Although the scanner has approximately  twice the gradient strength (70-mT/m) and slew rate (300-mT/m/s) of conventional full- size MR systems, the gradient coil was smaller and shorter, leading to lower levels of  acoustic noise or equivalent pulse sequences (107). Using specifically designed hearing  protection,, high quality images were obtained for and all MRI examinations that were com- pleted successfully, suggesting minimal impact of the acoustic noise. Of further note is that  De Vita, et al. (102) reported successful imaging of nine ventilated neonates at 4.7-T without  any acute adverse effects.</para>
       <para>Overall, the use of a combination of hearing protection (e.g., earplugs and earmuffs or  headphones) and the additional attenuation of having the neonate placed inside the transmit  RF coil, mean that the acoustic noise at the ear is likely to be lower for neonates than for  adults, which may explain why no adverse effects have been reported, to date. The anatom-</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">173</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 173</para>
       <para>ical attenuation afforded to fetuses also seems to be sufficiently effective to enable safe  scanning with current clinical static magnetic field strengths and protocols.</para>
       <para><emphasis role="bold">Adverse Incidents Associated with Exposure to MRI-Related Acoustic Noise </emphasis></para>
       <para><emphasis role="bold"><emphasis role="italics">(A) Temporary Threshold Shifts (TTS) </emphasis></emphasis></para>
@@ -438,7 +274,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <title>ACOUSTIC NOISE CONTROL TECHNIQUES</title>
       <para>Controlling acoustic noise is generally accomplished in one of three simple ways: con- trol of noise at the receiver (e.g., using earplugs, or anti-noise interference), control along  the path of the noise, or control of the noise at the source (e.g., redesigned gradients, or</para>
       <para><emphasis role="bold">174</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 174</para>
       <para>pulse sequences). Once acoustic energy has been generated in the air, it can be difficult to  control, so the control of noise at the source is considered to be the preferred method.</para>
       <para><emphasis role="bold">Passive Hearing Protection </emphasis></para>
       <para>The simplest, most convenient, and least expensive means of preventing problems as- sociated with acoustic noise during MRI procedures is to use disposable earplugs and/or  headphones. Earplugs, when properly fitted can abate noise by 10- to 30-dB (depending on  the frequency), which is usually an adequate amount of sound attenuation for the MRI en- vironment. <emphasis role="bold">Figure 8</emphasis> shows examples of the octave band spectra of some commercially  available earplugs and other hearing protection devices, demonstrating typical noise atten- uation values. The use of earmuffs, headphones, or disposable earplugs has been shown to  provide a sufficient decrease in acoustic noise that, in turn, would be capable of preventing  the potential temporary hearing loss associated with MRI procedures (1).</para>
@@ -453,7 +288,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 175</para>
       <para>regularly assessed for wear to the seals and replaced, as needed. Current guidelines suggest  staff members should have training in the selection and fitting of hearing protection (86).</para>
       <para>Unfortunately, earplugs, earmuffs, and headphones suffer from a number of problems.  These devices tend to hamper verbal communication with the patient during the operation  of the MR system. In certain circumstances, these devices can also create discomfort or im- pair immobilization of the patient’s head, which is problematic when optimal immobiliza- tion is required for certain studies that are particularly sensitive to patient movement (e.g.,  diffusion and phase-sensitive studies).</para>
       <para>Standard foam-based earplugs are often too large for the ear canal of infants. Some  small sizes are available from certain MRI accessory companies, although snug fit is es- sential if acoustic noise is to be efficiently attenuated. Neonates present a particular chal- lenge when trying to use conventional earplugs or other similar devices. Nordell, et al. (111)  reported on a patient-independent device constructed from absorbent padding, which can  be placed over the neonate during the MRI examination. Reductions in peak noise levels of  16- to 22-dBA averaged over the hearing spectrum of 4- to 13-dBA were reported. Spe- cially-designed small earplugs or earmuffs (e.g. MiniMuffs Neonatal Noise Attenuators,  Natus Newborn Care, www,newborncare.natus.com) can be used in these cases.</para>
@@ -462,7 +296,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para><emphasis role="bold">Methods Using Anti-Phase Noise: Active Noise Control </emphasis></para>
       <para>A significant reduction in the level of acoustic noise caused by MRI procedures has  been accomplished by implementing the use of a noise cancellation, or “anti-phase” noise  technique (41, 114, 115). Unlike many other noise control solutions that result in compro- mised performance of the MRI examination or hardware, this technique should have no im-</para>
       <para><emphasis role="bold">176</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 176</para>
       <para>pact on the performance of the MR system. The principle is simply to generate noise, which  will interfere destructively with the scanner noise incident at the patient’s ear.</para>
       <para>The loudspeaker producing this anti-phase noise can be built into the scanner bore or  built into a pair of headphones for the patient (thus, harnessing passive protection as well).  A major disadvantage of this technique is that, if it performs poorly at certain frequencies  or in some spatial regions, noise levels may be enhanced rather than attenuated by the su- perposition of the additional anti-noise.</para>
       <para>Controlling acoustic noise from a particular source by introducing anti-phase noise to  interfere destructively with the noise source is by no means a new idea (116, 117) (<emphasis role="bold">Figure </emphasis> <emphasis role="bold">9</emphasis>). For use in the MRI environment, conventional active-noise control (ANC) systems re- quire some modification. Notably, loudspeakers and microphones designed to be utilized  in the MRI setting must be used to acquire scanner noise and to transmit control anti-noise  and, secondly, the ANC controller must be optimized and synchronized to the scanner.</para>
@@ -477,14 +310,12 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 177</para>
       <para>Advances in digital signal processing (DSP) technology permit efficient modern ANC  systems to be realized at a modest cost (118). The essence of an anti-noise system involves  either a continuous feed-forward or feedback loop with continuous sampling of the sounds  in the noise environment so that the gradient magnetic field-induced noise is attenuated.  Thus, it is possible to attenuate the pseudo-periodic MR system-related noise while allowing  the transmission of vocal communication or music to be maintained. The feedback loop  uses a sampling microphone placed close to the ear, where noise reduction is required. It  will attempt to attenuate all noise propagating into the ear. A feed-forward algorithm uses  a sampling microphone close to the problematic noise source, offering a potentially more  selective cancellation of noise source. Frequently, time limitations in anti-noise getting from  the loudspeaker to the subject as well as stability requirements set a practical upper fre- quency limit for ANC systems. This problem of poorer high frequency attenuation perform- ance is mitigated by building the systems into complementary passive ear defenders,  resulting in a better broad frequency noise reduction.</para>
       <para>Similar to Goldman, et al. (41), commercial manufacturers have offered ANC systems  based on delivering anti-noise to patient headphones (42), however, the long tubing imposes  a time delay in getting noise to the ear, limiting the performance of such a system. In 1995,  Pla, et al. (119) reported improved results using a system based on an x-filtered least mean  squares (LMS) algorithm, driving piezoelectric speakers near the patient’s ears. These re- searchers achieved noise attenuation up to 25-dB for frequencies below 1.2-kHz and for  the first few harmonics only. In 1997, McJury, et al. (114) reported on the performance of  a multichannel filtered U-least mean squares algorithm for acoustic noise control. Acoustic  noise was recorded digitally from a series of typical clinical MRI protocols performed on  a 1.0-T Siemens Impact. This noise was then replayed through a bench-top adaptive real- time DSP ANC system (Motorola DSP 56001). A typical peak sound attenuation of approx- imately 30-dB was achieved over the frequency range from 0- to 700-Hz (<emphasis role="bold">Figure 10</emphasis>).</para>
       <para>In 1999, Chen, et al. (115) published results using an ANC system based on a modified  feedback method with a second order cascaded neural network architecture, with loud- speaker mounted in a headset. For acoustic noise up to 3-kHz, they achieved an average at- tenuation of 19-dB. This study was also based on recorded scanner noise attenuated with a  lab-based ANC system.</para>
       <para>More recently, Chambers, et al. (120) demonstrated improved results over a wide fre- quency range using an ANC system that was based on an LMS feed-forward algorithm and  built into a set of ear defenders (i.e., headphones). From 600-Hz to 4-kHz, peak attenuation  of around 40-dB was measured for scanner noise. Importantly, the use of feed-forward  methodology allows cancellation of scanner noise with less attenuation of any noise stimuli  introduced during the use of fMRI protocols. However, this system did not acquire its ref- erence noise in real-time, but required a recording phase to obtain reference data.</para>
       <para>To date, some of the most successful solutions for acoustic noise reductions were the  results from Li, et al. (121) and Lee, et al. (122). Li, et al. (121) reported results with a  patented, ANC system based on a feed-forward, x-LMS algorithm that uses multiple refer- ence signals. The ANC system was built into a headset to also benefit from the passive at- tenuation of noise at higher frequencies. Impressive acoustic noise reductions of up to 55-dB</para>
       <para><emphasis role="bold">178</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 178</para>
       <para>at a harmonic frequency were achieved, with an average of 21-dB (30-dBA) over the entire  spectrum. As for passive noise control, bone conduction remains a residual issue, limiting  noise control. Lee, et al. (122) achieved improved results on a 3-T MR system for standard  spin echo and gradient echo pulse sequences. They reported approximately 35-dB attenua- tion over the frequency range 80- to 160-Hz.</para>
       <para><emphasis role="bold">Active Vibration Control (AVC) </emphasis></para>
       <para>Aeronautical engineers, amongst others, have an interest in noise reduction inside cylin- drical shells. In their case, the cylindrical models represent airplane cabins. Results from  their studies show that a significant amount of low frequency noise is associated with shell  vibration (123, 124), which is directly applicable to an MR system with a similar cylindrical  geometry. Their methods of using active vibration control are also transferrable, however,  until more recently (40, 125), they received little attention from the MRI community. These  methods aim for global control of the entire gradient loudspeaker, not just the noise impact- ing on the ear canal, and would also control noise from bone conduction.</para>
@@ -499,7 +330,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 179</para>
       <para>(&lt;1.2-kHz) noise, where passive hearing protection performs poorly. They achieved an av- erage reduction in vibrational amplitudes of 20-dB with an optimized system (<emphasis role="bold">Figure 11</emphasis>).  Roozen, et al. (40) also designed an AVC system based on seismic mass piezoelectric actu- ators. However, for a gradient coil driven by FE-EPI, their system comprising only four ac- tuators achieved a more modest averaged vibrational amplitude reduction of 3-dB over the  frequency range 0.5- to 1.5-kHz. Recently, Oeisi and Nestorovic (127) reported on methods  for vibration suppression based on a combination of uncertainty modelling and robust con- troller design.</para>
       <para><emphasis role="bold">Optimizing MRI Pulse Sequences </emphasis></para>
       <para>Using a software-based approach to minimize acoustic noise may be the least expensive  and most easily implemented technique that could be applied to current scanners. However,  it may also be the least efficient because, simplistically, it involves individually optimizing  each pulse sequence that is to be used on a given patient. Considering the fact that most  clinical MR systems offer literally hundreds of scanning sequences, this would seem an un- attractive approach.</para>
@@ -514,7 +344,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 180</para>
       <para>proach has been highly successful with some solutions creating sequences that are almost  “silent”.</para>
       <para><emphasis role="bold"><emphasis role="italics">(A) Basic Reductions in Gradient Activity to Reduce Acoustic Noise </emphasis></emphasis></para>
       <para><emphasis role="bold"><emphasis role="italics">Minimizing Conventional Gradient Levels  </emphasis></emphasis></para>
@@ -527,7 +356,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>An obvious optimization of the pulse sequence is to “smooth” or “soften” gradient  waveforms to lower activity and acoustic noise. This is one of the most popular techniques</para>
       <para>(3)</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">181</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 181</para>
       <figure>
         <title />
         <mediaobject>
@@ -550,7 +378,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 182</para>
       <para>(3) Minimize the number of ramps (merge consecutive gradients on the same channel).</para>
       <para>The use and efficiency of soft pulses are shown in <emphasis role="bold">Figure 12</emphasis>. With the sinusoidal ramp- ing, high frequency acoustic components above 500-Hz are severely attenuated. Acoustic  noise levels, averaged over 1-second, were measured for spin echo and gradient echo se- quences as a function of echo time (<emphasis role="bold">Figure 13</emphasis>). Good quality MR images may be acquired  with sound levels dropping as echo time (TE) increases. At echo times of 30- to 50-msec,  good quality images are still possible and acoustic noise levels are below the ambient room  noise (i.e., with the air-conditioning running, room sound levels approach 45-dBA). Three  main limitations were identified with the initial implementation of this technique, as follows:  1) there was an increased sensitivity of the pulse sequences to vascular flow, 2) the high- speed MRI pulse sequences tended to be unsuitable for clinical applications, and 3) in- creased voltages by factor of two were needed to produce sinusoidal ramps instead of linear  ramps.</para>
       <para>The pulse sequence strategy was extended to fast imaging sequences (FLASH and  RARE) in 2001 (134). Noise reductions of 20- to 40-dBA were reported compared to stan- dard sequences (<emphasis role="bold">Figure 14</emphasis>). However, acquisition time remained at around one second per  slice, which is unsuitable for an fMRI examination. Loenneker, et al. (135) also extended  the technique, by integrating into a T2* pulse sequence, and improving the volume coverage</para>
@@ -564,7 +391,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 183</para>
       <para>by using simultaneous multi-slice excitation with SIMEX (i.e., a modem statistical technique  that estimates bias by tracking measurement error as a function of added noise) pulses. This  enabled the technique to be applied to fMRI. Oesterle, et al. (136) also reported on an im- proved technique utilizing “soft” gradient pulses. In this case, the limitation due to long ac- quisition times was minimized using interleaved spiral gradient, read-out trajectories. Using</para>
       <para><emphasis role="bold">184</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
       <para><emphasis role="bold">Figure 14.</emphasis> Optimized use of soft gradient pulses for two fast imaging sequences: (Top)  FLASH sequence, (Bottom) RARE sequence. In each case, three types of gradient wave- form are compared: (a) hard trapezoidal, (b) older style soft waveforms designed accord- ing to (133), and (c) new soft waveforms designed according to (134).  Reproduced by  permission, Wiley - John Wiley and Son Publishers, NY.</para>
@@ -576,7 +402,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 184</para>
       <figure>
         <title />
         <mediaobject>
@@ -595,7 +420,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para><emphasis role="bold"><emphasis role="italics">(E) Minimizing the MR System Acoustic Response Function</emphasis></emphasis></para>
       <para>For each separate gradient (x-, y-, and z-gradient), Tomasi, et al. (145) compared the  current waveforms and resulting vibrational response. This group demonstrated, that by al- tering the read-out frequency of the EPI gradient (and, hence, the bandwidth) to avoid  known vibrational resonances, significant reductions in acoustic noise could be achieved.  Altering the read-out frequency from 720-Hz to 920-Hz resulted in a noise reduction of 12- dB.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">185</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 185</para>
       <para>A similar approach was reported by Schmitter, et al. in 2008 (138). These researchers  devised the so-called “sEPI” technique, which is a low noise EPI pulse sequence for use  with fMRI. This sequence produces a narrow acoustic frequency spectrum by using a sinu- soidal read-out gradient waveform with smooth ramps and constant phase encode gradient.  By varying the switching frequency of the read-out gradient, this narrow band can be shifted  in frequency to match the minima of the scanner frequency response function, avoiding  major resonance modes and minimizing acoustic noise. These researchers reported that the  average SPL of the standard EPI, 82.5-dBA, was reduced to 61.7-dBA. This sequence did  not include optimization of the slice selection gradient, and so this work was extended in  2010 with the introduction of noise-optimized “VERSE” pulses, and a parallel imaging ap- proach.(139). Zapp, et al. (139) further expanded sEPI with the use of parallel imaging.  Segbers, et al. (146) and Ott, et al. (147) have also used a combination of methodologies,  including frequency-shifting, to avoid acoustic noise resonance modes.</para>
       <para><emphasis role="bold"><emphasis role="italics">(F) Ultrashort and Zero TE methods</emphasis></emphasis></para>
       <para>In recent years, imaging tissues with very short T2 (for example cortical bone or lung)  has been improved by the emergence of ultrashort TE (UTE) or zero TE sequences (ZTE)  (148, 149). UTE sequences offer effective TE reductions of 10-200 times that offered by  more conventional sequences. In ZTE sequences, the readout gradient starts simultaneously  with signal excitation (ramping up prior to the excitation pulse), producing an effective TE  of zero. Measurement times are short, but acquisition is inherently three dimensional.</para>
@@ -604,7 +428,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>GE were early implementers of UTE methods, basing their Silenz<superscript>TM</superscript> product on the  RUFIS sequence (152). A prototype Silenz implementation on a 3-T scanner and running  neuro sequences, produced acoustic noise levels which were similar to room ambient noise  (68.8-dB) (153). Ohlmann-Knaufo, et al. (154) reported on a comparison of the image qual- ity of Silenz T1-w and T2-w scans versus non-Silenz versions at 3-T for neuro patients. The  Silenz scan quality compared well, with the main drawback being the significantly longer  scan times for the T1-w sequences. Others reported on UTE variants for quiet MR, for fast  imaging applications (155, 156).</para>
       <para>Due to the acquisition of signal from free induction decays (FIDs) rather echoes,  UTE/ZTE methods are less sensitive to motion. The long readout time can also cause image  blurring. Holdsworth, et al. (157) compared Silenz-based and conventional MR angiography</para>
       <para><emphasis role="bold">186</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 186</para>
       <para>(MRA) sequences. Silenz-based sequences scored poorly, with only 40% being rated as di- agnostic quality.</para>
       <para>A further variant of these methods, is pointwise encoding time reduction with radial  acquisition (PETRA) (<emphasis role="bold">Figure 15</emphasis>)(158). This forms the basis of sequences in the Quiet   Suite<superscript>TM</superscript> product from Siemens. Reports have assessed silent PETRA sequences for neurog- ical (159) and pediatric applications (160).</para>
       <para><emphasis role="bold"><emphasis role="italics">(G) Using Gradient Cancellation Pulses </emphasis></emphasis></para>
@@ -619,13 +442,11 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 187</para>
       <para>Segbers, et al. (146) took a hybrid approach to optimizing the gradient pulse sequence,  based on using soft gradient pulses, cancellation pulses, and frequency shifting to avoid  resonance modes. These researchers ran versions of EPI and turbo spin echo sequences with  optimized gradient pulse sequences on a 3-T MR system. The gradient coil had a maximum  gradient strength of 21-mT/m and slew rate of 200-mT/m/ms. Using a combination of single  and double follow-on trapezoidal gradient pulses, Segbers, et al. (146) managed to suppress  several of the main acoustic noise spectral frequencies and achieved a maximum noise re- duction of 12-dB.</para>
       <para><emphasis role="bold"><emphasis role="italics">(H) Application-Specific Methods </emphasis></emphasis></para>
       <para><emphasis role="italics">1) fMRI Methods.</emphasis> As mentioned above, MRI-related acoustic noise can interfere  with the presentation and processing of functional stimuli and generate blood oxygen  level dependent (BOLD)-related contrast in the auditory cortex. Passive hearing pro- tection may not offer sufficiently quiet conditions for psychological studies of hearing  (164). Unfortunately, residual noise can often be loud enough to mask the perception  of experimental sound stimuli (11). Due the inherent requirement for ultrafast image  acquisition, quiet MRI sequences employing shallow gradient ramps or soft gradient  pulses frequently cannot easily be applied to fMRI without compromising data quality.  Marcar, et al. (165) modified a fMRI acquisition using soft gradient pulses (133 ) at 2- T. In achieving a silent sequence, the time penalty results in a 24 sec acquisition time  for a set of 4 slices. Rather than using the approach of Hennel, et al. (133), using sinu- soidal readout gradient switching and continuous phase gradients is popular and effec- tive (139, 166). It is common to manage these issues using different types of  sequence-related solutions: (1) sparse imaging (167-169) and (2) using event-related  strategies (170).</para>
       <para><emphasis role="italics">i) Modified Block Designs for fMRI.</emphasis> These sequences (also called clustered vol- ume acquisition, flat car design, sparse, and behavior interleaved gradients), involve  using a TR that is longer that the acquisition time, allowing time for interleaving  short (1- to 4-seconds) silent gaps within fMRI sequences. In the brain, the peak  hemodynamic response to noise occurs after a time delay of around 5-seconds fol- lowing stimulation. Knowing this, it is possible to present stimuli in these silent  gaps where the scanner is silent and then to acquire the subsequent images when  the peak response will occur. This cycle is then repeated for the entire block. The  duration of the gap is dependent on the number of slices acquired and the repetition  time (TR) used. Therefore, care is needed to avoid extending the sequence length,  which can have penalties in terms of patient motion and image quality. An under- lying assumption is also made with simple modified block designs, that any BOLD  response to scanner noise during acquisition will apply equally when stimulus is  on and when it is off. Optimization of the block design involves two additional cri- teria. If the silent gap is extended to 9- to 10-seconds, enough time will have elapsed  to allow any hemodynamic response produced by the previous acquisition to return  to baseline. Sampling of any BOLD signal relating to acoustic noise from the pre- vious acquisition will then be minimized. Lastly, keeping the acquisition time under  2-seconds will prevent measurement of any hemodynamic response (HR) from the  current acquisition.</para>
       <para><emphasis role="bold">188</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 188</para>
       <para>Interleaved silent steady-state imaging (ISSS) (171) is a popular variation of  sparse imaging. This sequence uses continuous excitation pulses (which maintain  a steady state longitudinal magnetization) and variable readout gradients. Like  sparse imaging, stimuli are presented in the quiet gaps, but longer data acquisition  is used for multiple volumes, improving the sequence temporal resolution. As the  data sampling rate is not consistent, it can be challenging to analyze ISSS data.  Andoh, et al. (172) reported encouraging results with a comparison of a resting- state version of ISSS and conventional resting-state fMRI (rs-fMRI).</para>
       <para><emphasis role="italics">ii) Event-Related Designs for fMRI.</emphasis> This method involves sampling the peak  of the stimulus HR, followed by a waiting period to avoid acquisition during scan- ner noise HR. When scanner HR has dissipated, baseline sampling then occurs. The  speed of data collection directly determines study data quality and the repetition  time should be kept to a minimum. This type of sequence typically allows one meas- urement every 20-seconds (173).</para>
       <para>Peele, et al. (166) reported on a comparison of four differing fMRI acquisitions:  (1) <emphasis role="bold"><emphasis role="italics">STD</emphasis></emphasis> - standard EPI, and versions based on (2) <emphasis role="bold"><emphasis role="italics">Sparse</emphasis></emphasis> – sparse-based sequence,  (3) <emphasis role="bold"><emphasis role="italics">Quiet</emphasis></emphasis> - sinusoidal readout and continuous phase gradients (137). Aside from  gradient changes, the Quiet sequence also differs from STD in having a longer TE  and narrower bandwidth. To separate out these confounding issues, an additional  sequence was also generated, 4) <emphasis role="bold"><emphasis role="italics">Matched</emphasis></emphasis> - which is a version of (1) with the band- width matching (3). They noted the Quiet sequence had the highest SNR (27%  greater, p&lt;0.001), which was balanced by a reduction BOLD sensitivity.</para>
@@ -633,7 +454,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>As mentioned above, early work includes Schmitter, et al. (138) who replaced trape- zoidal gradient waveforms with sinusoidal readout and a constant phase encode gradi- ent. They further avoided acoustic resonance modes, by varying the frequency of the  readout gradient. Zapp, et al. (139) successfully combined sinusoidal gradients with  parallel imaging for fMRI. As mentioned above, Tomasi, et al. (145) achieved 12-dB  noise reduction by increasing the readout gradient frequency to avoid acoustic resonance  modes.</para>
       <para>Hutter, et al. (175) more recently investigated methods of acoustic noise reduction  for diffusion applications. They also extended the basic sinusoidal read and constant  phase gradients, to include multiband acceleration (176), and the effect of CAIPRINHA  shift gradient blips (177), and optimization of diffusion gradient crushers. Tested on  adults and fetal subjects at 3-T, they succeeded in maintaining diffusion MR image  quality whilst reducing acoustic noise by 12-dB.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">189</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 189</para>
       <para>Liebig, et al. (178) also recently reported on similar EPI-modified solutions. They  have modified k-space sampling, including acceleration with parallel imaging via re- constructing with Cartesian (179) and non-Cartesian (180) methods. Rather than re- porting acoustic noise levels, they report on modest gains in efficiency for some  sequences.</para>
       <para>Ott, et al. (147) used a conventional approach for dMRI, comprising lower gradient  levels, reduced slew rates, and frequency adjustment to avoid acoustic noise resonance  modes. They implemented solutions on 1.5-T and 3-T scanners, achieving noise reduc- tions of up to 20-dBA.</para>
       <para><emphasis role="bold">Methods Involving Hardware Design and Optimization </emphasis></para>
@@ -642,7 +462,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para><emphasis role="italics">Stiffness and Damping.</emphasis> As suggested above, greater gradient coil stiffness should reduce  mechanical vibration and associated noise. Stiffness is dependent on material properties  and geometrical factors. Altering gradient coil dimensions or materials to increase Young’s  modulus will help reduce acoustic noise due to vibration. Lin, et al. (181) reported on the  use of a variety of reinforcements to increase the gradient coil stiffness, reduce vibration,  and the associated acoustic noise. These investigators found that increasing the stiffness of  the gradient coil former reduced the amplitude of the forced vibration response of the gra- dient coil at low frequencies and the noise generated by the coil. In addition, the gradient  coil demonstrated a reduced number of resonance modes in the low and medium frequency  ranges, in turn, reducing the chance of the system being excited into resonance and gener- ating high levels of acoustic noise.</para>
       <para>Damping the gradient coil may also attenuate the mechanical vibration. This can be  achieved by using particular materials for construction or by mounting the coil in such a  way that an acoustic absorber surrounds it. Damping is most efficient at or near resonance  and, unfortunately, will reduce the overall stiffness of the coil structure. Several commercial  manufacturers use damping techniques for their gradient coil systems (46, 51). A reduction  of around 3-dBA due to the use of acoustically damped commercial gradient systems have  been reported (46). Mechefske, et al. (182) reported improved results by mounting an  acoustic liner inside the bore of a 4-Tesla research scanner, with damping material applied  to the back. The bore of this MR system was also fitted with an “endcap”. Running an EPI  sequence, acoustic attenuation of around 20-dB was possible, however the scanner did not</para>
       <para><emphasis role="bold">190</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 190</para>
       <para>have a body RF coil, <emphasis role="italics">in situ</emphasis>, at the time of the experiments, and the liner may be difficult  to use in a commercial scanner.</para>
       <para>In 2005, Shao, et al. (70) reported on the development of an analytic model that pre- dicted the acoustic noise generated by an MRI gradient coil with finite acoustic impedance,  which was based on initial work by Kuijpers, et al. (75). This group modeled the use of an  absorptive liner inside the gradient coils and tested predictions with measurements made in  a 4-Tesla MR system. They found that an acoustic noise reduction of the order of 10-dB at  the low frequency end of the spectrum was possible, but the practicality of using thick ma- terials in limited space is doubtful.</para>
       <para><emphasis role="italics">Isolation/Evacuation/Enclosure.</emphasis> Some groups tried to isolate the gradient coil to prevent  the transmission of vibrations to other structures (183-5). As acoustic waves can only travel  in a medium, mounting or encasing the gradient coil in a vacuum should avoid transmission  of any generated noise (183-186). Edelstein, et al. (185) controlled acoustic noise by using  a combination of evacuating the gradient coil structure and using a magnet with a non-con- ducting inner cryostat bore. They achieved total reduction in acoustic noise of around 20- dB (peak). Their results showed that eddy currents caused by gradient shielding leakage  can generate significant Lorentz forces on the inner cryostat bore. These forces contribute  a significant level of the total scanner acoustic noise. Edelstein, et al. (185) reported that is</para>
@@ -656,7 +475,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 191</para>
       <para>it important to provide electromagnetic isolation. In 2005, based on finite element modeling,  they redesigned standard active gradient shielding to include an additional passive copper  layer (187). This added passive shield prevented power deposition in the warm bore, which  resulted in an efficient hybrid active-passive shielding system. <emphasis role="bold">Figure 16</emphasis> shows examples  of typical configurations for such a strategy. The modeled power reductions associated with  the system predicted a reduction in acoustic noise of approximately 25-dB.</para>
       <para>Tkach, et al. (108) reported on the acoustic noise levels generated by a purpose-designed  neonatal 1.5-T MR system. One of the design features was a cantilevered patient couch.  The couch effectively suspends the patient inside the scanner bore, isolating or decoupling  the patient from vibration from the gradient coils and bore panels. For a range of 6 clinical  sequences, they recorded noise levels of 77.3- to 88.0-dB, representing an average reduction  of 11-dB for this system compared to typical adult scanners running similar clinical se- quences.</para>
       <para>Katsunuma, et al. (183), evacuated the area surrounding the gradient coil system so that  insulation would prevent propagation of sound and a separate mount (i.e., floor mounting  the gradient coil former) that prevented transmission of vibration from other structures.  Acoustic noise reduction levels of around 30-dB (peak) were possible, but this is an expen- sive solution and not suited for retrofit. “Enclosure” is a traditional technique used in noise  control, which involves enclosing the noise source in an airtight skin, damping the source  side of the enclosure, and decoupling the enclosure from the source (51).</para>
@@ -665,7 +483,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para><emphasis role="bold"><emphasis role="italics">(B) Design of Gradient Coil Windings: Force-Balanced Coils (Active Acoustic  </emphasis></emphasis> <emphasis role="bold"><emphasis role="italics">Shielding)</emphasis></emphasis></para>
       <para>In theory, it is possible to design gradient coil windings such that all Lorentz forces  generated by current pulsing are balanced (i.e., each force is effectively cancelled by one  of equal magnitude at a conjugate position relative to the coil center) (37, 192-195). This  is, in essence, similar to using anti-phase noise to cancel a noise source. For example, ac-</para>
       <para><emphasis role="bold">192</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 192</para>
       <para>tively-shielded gradient coils are intrinsically force-balanced to a degree. They are designed  to have a secondary coil operate in opposition to the main primary to minimize Lorentz  forces on the primary. The combination of coil design and a consideration of construction  methods and materials are essential for efficient results.</para>
       <para>Rather than trying to mount a vibrating gradient coil to a heavy and immovable former  or somehow damp the coil, if the coil is considered as a harmonic oscillator and coupled to  another, back-to-back, and if masses and spring constants are equal, the center of mass of  the system will be constant without the need for a heavy mount (192, 193). This is the prin- ciple of active force balancing which may be applied to gradient coil design (<emphasis role="bold">Figure 17</emphasis>).</para>
       <para>All solids have visco-elastic properties and this will result in residual movement of the  conductors, limiting the ideal noise cancellation suggested above. These movements will  result in compression waves propagating through the material with velocity,</para>
@@ -679,7 +496,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 193</para>
       <para>Where, <emphasis role="italics">E</emphasis>, is Young’s modulus and ρ is the density of the material. Knowing that wave  velocity and frequency are related by <emphasis role="italics">v</emphasis> = <emphasis role="italics">f</emphasis> λ, a slow wave velocity will result in low fre- quency, above which progressive phase effects will be expected which will interfere with  noise cancellation.</para>
       <para>For optimal acoustic noise cancellation, strut material should have a large value for <emphasis role="italics">E</emphasis>  and small value for ρ, resulting in a high compressional wave velocity. Thus, a light coupling  structure of high strength may perform as well as a heavier structure. Composite materials  have been tested and found to perform well with a frequency response up to 20-kHz (single  loop coil of dimensions 30-cm x 20-cm) (125). Using a bench-top prototype 2-coil system  (a square coil design measuring 40-cm along each size, powered by a 10-A sinusoidal cur- rent), the reported noise attenuation, when powered in balanced mode, was approximately  40-dB at 100-Hz, dropping to 0-dB at 3.5-Hz (<emphasis role="bold">Figure 18</emphasis>). The results of attenuation levels  agree reasonably well with a theoretical prediction (curve D) (192).</para>
       <para>Designs have also been extended and tailored to include the capability of current bal- ancing, acoustic screening and magnetic field screening in one coil (195). A head gradient  coil has been designed analytically using co-axial return paths to minimize localized Lorentz  forces and acoustic noise. When performing EPI (3-mm slice thickness, gradient switching  frequency 830-Hz, current 207-A) in a 3-T MR system, noise levels of 102-dB (root mean  square) have been reported (192).</para>
@@ -689,7 +505,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>Researchers have devised an analytical approach to the design of quiet gradient coils  (196-198). This work, which is a form of target field approach, uses an inverse method for  designing winding paths, explicitly accounting for finite coil length. It treats the Biot-Savart  law as a first kind integral equation for the current density on the gradient coil, once the  magnetic field has been specified, and uses Tikhonov regularization to handle the inherent</para>
       <para>(4)</para>
       <para><emphasis role="bold">194</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 194</para>
       <figure>
         <title />
         <mediaobject>
@@ -711,7 +526,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 195</para>
       <para>gap region where the patients will be accommodated. In the gap region, using FE analysis,  their asymmetric designs incorporating bore-end optimization, resulted in acoustic noise  attenuation levels of up to 7.4-dB.</para>
     </sect1>
     <sect1 id="ch0006s07">
@@ -724,7 +538,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para><emphasis role="bold">Noise from Subsidiary Systems </emphasis></para>
       <para>Room air conditioners, fans for patient comfort, and cryogen reclamation systems as- sociated with superconducting magnets are the main sources of ambient acoustic noise  found in the MRI environment. Cryogen reclamation systems are devices that are effectively  used to minimize the loss of cryogens and function on a continuous basis, producing sounds  that are considerably less than those associated with the activation of the gradient magnetic  fields during MRI procedures. Therefore, this acoustic noise may, at the very most, be a</para>
       <para><emphasis role="bold">196</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 196</para>
       <para>mild annoyance to patients or MR system operators in the MRI environment. Some authors  reported ambient room noise levels to be 60- to 70-dB (52, 146).</para>
     </sect1>
     <sect1 id="ch0006s08">
@@ -738,7 +551,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>A solution that presents a minimal impact on the performance of the MR system is  active noise control using anti-noise (114-122). This is a promising technique but an optimal  system has yet to be fully implemented on clinical scanners.</para>
       <para>Over the last decade, the most effective solutions reported, are those involving sequence  optimization. UTE-type sequences which incorporate spiral k-space trajectory acquisition,  and very low gradient activity produce almost silent MR scanning (148-160). Gradient fil-</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">197</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 197</para>
       <para>tering or re-shaping has also been proven to be very effective. It is no coincidence that two  commercial solutions (Silenz<superscript>TM</superscript>, and Quiet Suite<superscript>TM</superscript>) are based on these approaches.</para>
       <para>These solutions (UTE methods in particular) have not been applied to every MR se- quence, and are not suited to certain applications, such as ultrafast MR. However, given the  comparative low cost and ease of install for these acoustic noise solutions, coupled with  their efficiency, it seems likely that ongoing research in these directions will prove fruitful  and silent MR sequences will multiply on clinical scanners over time.</para>
       <para>Current trends in MRI include increasing static magnetic field strengths and improved  gradient performance for rapid clinical imaging applications. The need for ultrafast se- quences for fMRI and other advanced techniques continues. These developments will result  in increases in MRI-generated acoustic noise levels. This will mean a continuing interest  and evolution in acoustic noise control methods that warrant continued investigation, de- velopment, and commercial implementation of these techniques.</para>
@@ -761,7 +573,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>14.  Moelker A, Pattynama MT. Acoustic noise concerns in functional magnetic resonance imaging. Human  Brain Mapping 2003;20:123-141.</para>
       <para>15.  Strainer JC, Ulmer JL, et al. Functional MR of the primary auditory cortex: An analysis of pure tone ac- tivation and tone discrimination. Am J Neuroradiol 1997;18:601-610.</para>
       <para><emphasis role="bold">198</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 198</para>
       <para>16.  Ulmer JL, Biswal BB, et al. Acoustic echo-planar scanner noise and pure tone hearing thresholds: The  effects of sequence repetition times and acoustic noise rates. J Comp Assist Tomog 1998;22:480-486.</para>
       <para>17.  Bess FH, Humes LE. Audiology: The Fundamentals. 4<superscript>th</superscript> Edition. Baltimore: Williams and Wilkins;1995.</para>
       <para>18.  Department of Health. Acoustics: design considerations, HTM 2045. London: HMSO;1996.</para>
@@ -787,7 +598,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>38.  Moelker A, Wielopolski PA, Pattynama PMT. Relationship between magnetic field strength and magnetic  resonance-related acoustic noise. Magn Reson Mater Phys Biol 2003;16:52-55.</para>
       <para>39.  Price DL, De Wilde JP, Papadaki AM, Curran JS, Kitney RI. Investigation of acoustic noise on 15 MRI  scanners from 0.2 to 3 T. J Magn Reson Imaging 2001;13:288-293.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">199</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 199</para>
       <para>40.  Roozen NB, Koevoets AH, den Hamer AJ. Active vibration control of gradient coils to reduce acoustic  noise of MRI systems. IEEE Trans Mechatronics 2008;13:325-334.</para>
       <para>41.  Goldman AM, Gossman WE, Friedlander PC. Reduction of sound levels with antinoise in MR imaging.  Radiology 1989;173:549-550.</para>
       <para>42.  Hurwitz R, Lane SR, Bell RA, Brant-Zawadzki MN. Acoustic analysis of gradient-coil noise in MR im- aging. Radiology 1989;173:545-48.</para>
@@ -811,7 +621,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>60.  Schmitter S, Mueller M, Semmler W, Bock M. Maximum sound pressure levels at 7 Tesla—What’s all  this fuss about? Proceedings of the International Society of Magnetic Resonance in Medicine. 2014;3029.</para>
       <para>61.  van Osch MJP, Webb AG. Safety of ultra-high-field MRI: What are the specific risks? Curr Radiol Rep  2014;2:1-8.</para>
       <para><emphasis role="bold">200</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 200</para>
       <para>62.  Costagli M, Symms MR, Angeli L, et al. Assessment of Silent T1-weighted head imaging at 7 T. Eur  Radiol 2016;26:1879–1888.</para>
       <para>63.  Hoff MN, McKinney IV A, Shellock FG, et al. Safety considerations of 7-T MRI in Clinical Practice.  Radiology 2019;00:1–10.</para>
       <para>64.  Speck O, Stadler J, Zaitsev M. High resolution single-shot EPI at 7T. Magn Reson Mater Phy  2008;21:73–86.</para>
@@ -838,7 +647,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>85.  Department of Health, Guidelines for Magnetic Resonance Diagnostic Equipment in Clinical Use. Lon- don: HMSO; 1993.</para>
       <para>86.  Medicines and Healthcare Products Regulatory Authority (MHRA). Safety Guidelines for Magnetic  Resonance Imaging Equipment in Clinical Use. 2015.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">201</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 201</para>
       <para>87.  International Commission on Non-Ionizing Radiation (ICNIRP). Guidelines on limits of static magnetic  fields. Health Physics 1994;66:100-106.</para>
       <para>88.  International Commission on Non-Ionizing Radiation (ICNIRP). Statement on MR procedures: Protec- tion of patients. Health Physics 2004;87:197-216.</para>
       <para>89.  International Electrotechnical Commission (IEC). Particular requirements for the safety of magnetic  resonance equipment for medical diagnosis. Geneva: IEC;60601-2-33;2001.</para>
@@ -862,7 +670,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>107.  Tkach JA, Merhar SL, Kline-Fath BM, et al. MRI in the neonatal ICU: Initial experience using a small- footprint 1.5-T system. AJR Am J Roentgenol 2013;202:W95–W105.</para>
       <para>108.  Tkach JA, Li Y, Pratt RG, et al. Characterization of acoustic noise in a neonatal intensive care unit MRI  system. Pediatr Radiol 2014;44:1011–1019.</para>
       <para><emphasis role="bold">202</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 202</para>
       <para>109.  Wagner W, Staud I, Frank G, et al. Noise in magnetic resonance imaging: No risk for sensorineural func- tion but increased amplitude variability of otoacoustic emissions. Laryngoscope 2003;113:1216-23.</para>
       <para>110.  Govindaraju R, Omar R, Rajagopalan R, Norlisah R, Kwan-Hoong N. Hearing loss after noise exposure.  Auris Nasus Larynx 2011;38:319-322.</para>
       <para>111.  Nordell A, Lundh M, Horsch S, et al. The acoustic hood: A patient-independent device for improving  acoustic noise protection during neonatal magnetic resonance imaging. Acta Paed 2009;98:1278-1283.</para>
@@ -889,7 +696,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>132.  Frahm J, Merboldt K, Hanicke W, Haase A. Stimulated echo imaging. J Magn Reson Imag- ing1985;64:81-93.</para>
       <para>133.  Hennel F, Giard F, Loenneker T. Silent MRI with soft gradient pulses. Magn Reson Med 1999;42:6-10.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">203</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 203</para>
       <para>134.  Hennel F. Fast spin echo and fast gradient echo MRI with low acoustic noise. J Magn Reson Imaging  2001;13:960-966.</para>
       <para>135.  Loenneker T, Hennel F, Ludwig U, Hennig J. Silent BOLD imaging. Magn Reson Mater Phys Biol Med  2001;13:76-81.</para>
       <para>136.  Osterle C, Hennel F, Hennig J. Quiet imaging with interleaved spiral read-out. Magn Reson Imaging  2001;19:1333-1337.</para>
@@ -915,7 +721,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>156.  Wiesinger F, Menini A, Solana AB. Looping star. Magn Reson Med 2019;81:57–68.</para>
       <para>157.  Holdsworth SJ, Macpherson SJ, Yeom KW, Wintermark M, Zaharchuk G. Clinical evaluation of silent  T1-weighted MRI and silent MR angiography of the brain. Am J Radiol 2018;210:404–411.</para>
       <para><emphasis role="bold">204</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 204</para>
       <para>158.  Grodzki DM, Jakob PM, Heismann B. Ultrashort echo time imaging using pointwise encoding time re- duction with radial acquisition (PETRA). Magn Reson Med 2012;67:510–518.</para>
       <para>159.  Ida M, Wakayama T, Nielsen ML, Abe T, Grodzki DM. Quiet T1-weighted imaging using PETRA:  Initial clinical evaluation in intracranial tumor patients. J Magn Reson Imaging 2015;41:447–453.</para>
       <para>160.  Aida N, Niwa T, Fujii Y, et al. Quiet T1-weighted pointwise encoding time teduction with radial acqui- sition for assessing myelination in the pediatric brain. Am J Neuroradiol 2016;37:1528–34.</para>
@@ -939,7 +744,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>178.  Liebig P, Heidemann RM, Hensel B, Porter DA. Accelerated silent echo-planar imaging. Magn Reson  Imaging 2019;55:81–85.</para>
       <para>179.  Griswold MA, Jacob PM, Heidemann RM, et al. Generalized autocalibrating partially parallel acquisi- tions (GRAPPA). Magn Reson Med 2002;47:1202–10.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">205</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 205</para>
       <para>180.  Uecker M, Lia P, Murphy MJ, et al. ESPIRiT–an eigenvalue approach to autocalibrating parallel MRI:  Where SENSE meets GRAPPA. Magn Reson Med 2014;71:990–1001.</para>
       <para>181.  Lin TR, O’Shea P, Mechefske CK. Reducing MRI gradient coil vibration with rib stiffeners. Concepts  in Magn Reson Part B 2009;35B:198-209.</para>
       <para>182.  Mechefske CK, Geris R, Gati JS, Rutt BK. Acoustic noise reduction in a 4T MRI scanner. Magn Reson  Mater Phys Med Biol 2002;13:172-176.</para>
@@ -964,7 +768,6 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>201.  DeMeester G, Morich M, Byrne A, et al. Challenges of short magnet design. MAGMA 2002;13:193– 198.</para>
       <para>202. Liu F, Wei R, Crozier S, Open-bore magnet for use in magnetic resonance imaging. U.S.  Patent;20120258862A1,2012.</para>
       <para><emphasis role="bold">206</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 206</para>
       <para>203.  Zhao H, Crozier S, Doddrell DM. Asymmetric MRI magnet design using a hybrid numerical method. J  Magn Reson Imaging 1999;141:340–346.</para>
       <para>204.  Rim M, Kim YH. Narrowband noise attenuation characteristics of in-duct acoustic screens. J Sound  Vibr 2000;234:737–759.</para>
       <para>205.  Selamet A, Ji ZL. Acoustic attenuation performance of circular expansion chambers with extended  inlet/outlet. J Sound Vibr 1999;223:197–212.</para>
@@ -978,6 +781,5 @@ where AP, HF, and</para><table frame="all"><title>The International Commission o
       <para>213.  Elder JA. Special senses. In: Biological Effects of Radio Frequency Radiation. United States Environ- mental Protection Agency, Health Effects Research Laboratory, EPA-600/8-83-026F, Research Triangle  Park 1984. pp. 570.</para>
       <para>214.  Postow E, Swicord ML. Modulated fields and “window” effects. In: Polk C, Postow E, Editors. CRC  Handbook of Biological Effects of Electromagnetic Fields. Boca Raton: CRC Press Inc.;1989. pp. 425.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">207</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 207</para>
-    </sect1>
+      </sect1>
 </chapter>

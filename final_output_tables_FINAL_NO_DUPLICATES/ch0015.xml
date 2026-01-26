@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='utf-8'?>
 <chapter id="ch0015" label="15">
     <title>Chapter 15</title>
     <para><emphasis role="bold">Chapter 15</emphasis> <emphasis role="bold">MRI Screening for Patients and  </emphasis> <emphasis role="bold">Individuals </emphasis></para>
@@ -14,7 +13,6 @@
     <sect1 id="ch0015s03">
       <title>INTRODUCTION</title>
       <para>The clinical applications of magnetic resonance imaging (MRI) have expanded rapidly  in recent years, resulting in a greater percentage of the patient population undergoing diag- nostic imaging using this modality. In addition, the number of patients and individuals pos- sessing implantable devices continues to grow, as does the variation and complexity of these  devices.  Non-medical implants and materials such as body piercings, tattoos, and permanent  cosmetics (e.g., eyeliner) have also increased in popularity. This progressive array of im- planted patients and individuals, combined with the implementation of scanners with higher  static magnetic fields (i.e., 3- and 7-Tesla) presents particular challenges for screening in  the MRI environment.  Indeed, accidents and injuries have increased over the years along  with the increased use of MRI. Accordingly, this has captured the attention of various or- ganizations and entities including the United States (U.S.) Food and Drug Administration  (FDA), the Joint Commission, and the American College of Radiology (ACR). Public  awareness of MRI-related hazards has heightened as well, particularly due to the fatality of  a young boy in 2001. The majority of accidents and injuries that have occurred in the MRI  setting have been the result of insufficient or no screening procedures.  Unfortunately, con- siderable subjectivity remains among the policies and procedures implemented by MRI fa-</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 379</para>
       <para>cilities, despite screening recommendations presented as far back as 1987 and periodically  revised and updated to the present day (1-23).</para>
       <para>This chapter presents the purpose of comprehensive MRI screening concepts and dis- cusses proper procedures. The recommended written screening forms to be used for indi- viduals and patients are displayed and reviewed.  Each section of these forms is explained,  and justifications are given for the questions asked. Verbal MRI screening procedures are  also reviewed, and the use of ferromagnetic detection systems as part of the screening  process is discussed.  Finally, secondary purposes and advantages of MRI screening are  presented.</para>
     </sect1>
@@ -30,58 +28,52 @@
       <title>SAFETY QUESTIONS AND INFORMATION</title>
       <para>The upper section on the first page of the screening form (<emphasis role="bold">Figure 1</emphasis>) asks for patient  identification (ID) and demographics.  This section must be completed and double checked  for correct patient ID and MRI order or request.  An incorrect patient or examination prob- lem can easily occur during the fervor of an over-booked clinical schedule. The referring  physician’s name and telephone number should also be filled out, but this information may</para>
       <para><emphasis role="bold">380</emphasis> <emphasis role="bold">MRI Screening for Patients and Individuals</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 380</para>
       <para>also be available at different information systems and may be different than the “ordering”  physician. The rest of the first page of the screening form lists various medical and surgical  history questions for the patient (note: certain questions pertain to female patients, only).   Explanations of the questions and their importance to MRI screening are provided below.</para>
       <para>Question #1 asks about previous surgeries or procedures.  Many patient safety concerns  in MRI are impacted by the response to this question, so it cannot be left unanswered.  If  the answer to Question #1 is “yes”, additional information must be given on types and dates  of all surgeries and/or related procedures. Accuracy is paramount here, since information  on potential implants, devices, and materials can be discovered. If the patient is a minor or  is not fully aware of this information, a parent, guardian or other knowledgeable caregiver  must assist in providing and verifying this information. Further review of the patient’s chart  or medical records may be necessary. If previous surgery or other procedural information  is not available at the time of the MRI examination, as with an outpatient who has arrived  with a limited history, MRI must be postponed or rescheduled until this information can be  captured and verified.</para>
       <para>Question #2 asks about previous diagnostic imaging studies (MRI, computed tomogra- phy or CT, X-ray, ultrasound, nuclear medicine, etc.). The results of these examinations can  help verify the patient’s surgical or other procedural history and assist in identifying the  presence of an implant, device, or foreign body that may be of concern.</para>
       <para>Question #3 asks the patient about problems related to a prior MRI examination.  If the  answer to this question is “yes”, the patient is asked to describe the problem, prompting the  MRI technologist to investigate and otherwise consider this matter further. Notably, if the  answer to this question is “no”, the patient cannot simply bypass the MRI screening process.  A written screening form must still be completed, in case the patient that had a previous  MRI exam performed had the placement of an implant, device, material, or encountered a  foreign body.  Assumptions should not be made that non-incidental; previous MRI exami- nations permit subsequent incident-free MRI procedures. Factors related to the MRI exam- ination such as the orientation (i.e., vertical versus horizontal) and strength of the static  magnetic field, maximum spatial gradient magnetic field, time-varying gradient magnetic  fields, type of RF coil used, amount of RF power (specific absorption rate, SAR) and pulse  sequence parameters can vary significantly among different MR systems. Careful investi- gation is required for implants or devices assumed to be “MR Safe” for a previous scanner,  because this can change to “MR Conditional” or even “MR Unsafe” based on the MR sys- tem-related factors indicated above (15). The MRI technologist or radiologist can refer to  the latest version of the <emphasis role="italics">Reference Manual for Magnetic Resonance Safety, Implants, and </emphasis> <emphasis role="italics">Devices</emphasis> (16), or visit the website, www.MRIsafety.com, for specific information pertaining  to information for implants and devices.  Notably, it may be necessary to consult the man- ufacturer of the implant or device for more information, especially if an electronically-ac- tivated implant is encountered (16).</para>
       <para>Questions #4 and #5 ask the patient about personal injury involving a metallic object  or foreign body. If the answer to either question is “yes”, further questioning must be con- ducted as to whether the object was removed entirely, and if not, the location and compo- sition of the object must be investigated further. In the case of injuries involving the eyes,</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">381</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 381</para>
       <para><emphasis role="bold">382</emphasis> <emphasis role="bold">MRI Screening for Patients and Individuals</emphasis></para>
       <para><emphasis role="bold">Figure 1.</emphasis> The MRI Screening Form used to screen patients, page one.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0277.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0277.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 382</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">383</emphasis></para>
       <para><emphasis role="bold">Figure 2.</emphasis> The MRI Screening Form used to screen patients, page two.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0278.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0278.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:54 AM  Page 383</para>
       <para><emphasis role="bold">384</emphasis> <emphasis role="bold">MRI Screening for Patients and Individuals</emphasis></para>
       <para><emphasis role="bold">Figure 3.</emphasis> The MRI Screening Form used to screen patients, Spanish language version,  page one.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0279.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0279.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:54 AM  Page 384</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">385</emphasis></para>
       <para><emphasis role="bold">Figure 4.</emphasis> The MRI Screening Form used to screen patients, Spanish language version,  page two.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0280.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0280.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:54 AM  Page 385</para>
       <para><emphasis role="bold">386</emphasis> <emphasis role="bold">MRI Screening for Patients and Individuals</emphasis></para>
       <para>������������������������������������������</para>
       <para>��������� � �� �� � ��� � �� � ���������������������������� ���������������� � ��� ��������������� �������������������������� ���� ����������� �</para>
@@ -97,131 +89,130 @@
       <para>� <emphasis role="bold">�������������������</emphasis> <emphasis role="bold">���</emphasis> <emphasis role="bold">���</emphasis> <emphasis role="bold">��</emphasis> <emphasis role="bold">�</emphasis> <emphasis role="bold">��</emphasis> <emphasis role="bold">��</emphasis> <emphasis role="bold">������</emphasis> <emphasis role="bold">���������������������������������������������</emphasis> <emphasis role="bold">�</emphasis> <emphasis role="bold">������</emphasis> <emphasis role="bold">��</emphasis> <emphasis role="bold">��������</emphasis> <emphasis role="bold">�</emphasis></para>
       <para><emphasis role="bold">Figure 5.</emphasis> The MRI Screening Form used to screen patients, Arabic language version,  page one.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0281.png" width="100%" scalefit="1"/>
-          </imageobject>
-        </mediaobject>
-      </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:54 AM  Page 386</para>
-      <figure>
-        <title/>
-        <mediaobject>
-          <imageobject>
-            <imagedata fileref="fig0282.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0281.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0283.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0282.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0284.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0283.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0285.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0284.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0286.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0285.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0287.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0286.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0288.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0287.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0289.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0288.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0290.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0289.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0291.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0290.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0292.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0291.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0293.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0292.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0294.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0293.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0295.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0294.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0296.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0295.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0296.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -240,115 +231,114 @@
       <para><emphasis role="bold">�������������������</emphasis> <emphasis role="bold">�</emphasis> <emphasis role="bold">������������������������</emphasis> <emphasis role="bold">���������������������������������������������</emphasis> <emphasis role="bold">�����������������������������������������������</emphasis> <emphasis role="bold">�������������������������������������</emphasis> <emphasis role="bold">����������</emphasis> <emphasis role="bold">����������������������������������������������</emphasis> <emphasis role="bold">�������������������������������������������</emphasis> <emphasis role="bold">�</emphasis> <emphasis role="bold">�����������������������������������������</emphasis> <emphasis role="bold">���������������������</emphasis> <emphasis role="bold">��������������������������</emphasis> <emphasis role="bold">�����</emphasis> <emphasis role="bold">�����������</emphasis> <emphasis role="bold">��</emphasis> <emphasis role="bold">���������</emphasis> <emphasis role="bold">��</emphasis> <emphasis role="bold">�������������������������������������������</emphasis> <emphasis role="bold">����������������������������</emphasis> <emphasis role="bold">�</emphasis> <emphasis role="bold">����������������</emphasis> <emphasis role="bold">����������������������������</emphasis> <emphasis role="bold">��</emphasis></para>
       <para><emphasis role="bold">Figure 6.</emphasis> The MRI Screening Form used to screen patients, Arabic language version,  page two.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0297.png" width="100%" scalefit="1"/>
-          </imageobject>
-        </mediaobject>
-      </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:54 AM  Page 387</para>
-      <figure>
-        <title/>
-        <mediaobject>
-          <imageobject>
-            <imagedata fileref="fig0298.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0297.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0299.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0298.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0300.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0299.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0301.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0300.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0302.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0301.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0303.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0302.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0304.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0303.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0305.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0304.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0306.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0305.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0307.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0306.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0308.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0307.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0309.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0308.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0310.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0309.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0310.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -358,7 +348,6 @@
       <para>Question #9 asks about anemia or other blood diseases, renal or hepatic disease, dia- betes, and seizures. Importantly, MRI contrast agents may be contraindicated for some of  these conditions. For example, the use of GBCAs has emerged as an MRI safety concern  in patients with renal insufficiency because certain GBCAs have been implicated in causing  nephrogenic systemic fibrosis (NSF) and some gadolinium may be retained in the patient’s  body (16). Hence, the results of a glomerular filtration rate (GFR) test must be obtained  prior to a GBCA administration in patients with suspected renal insufficiency. This important  topic is discussed in considerable detail in another chapter of this textbook.</para>
       <para>Questions #10 through #14 pertain to female patients, asking about possible pregnancy,  menstrual cycle, and breastfeeding. Prior to entering the MRI environment, any patient who  is unsure about pregnancy must undergo a pregnancy test. If the patient is pregnant, a con-</para>
       <para><emphasis role="bold">388</emphasis> <emphasis role="bold">MRI Screening for Patients and Individuals</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:54 AM  Page 388</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">389</emphasis></para>
       <para><emphasis role="bold">*NOTE: If you are a patient preparing to undergo an MR examination, you are required to fill out a different form. </emphasis> Date _____/_____/_____   Name ____________________________________________________       Age _______           month      day         year    Last Name   First Name  Middle Initial  Address __________________________________________   Telephone (home) (_____) _____-________  City   __________________________________________   Telephone (work)  (_____) _____-________  State   ____________________      Zip Code ___________   1.  Have you had prior surgery or an operation (e.g., arthroscopy, endoscopy, etc.) of any kind?  � No � Yes         If yes, please indicate date and type of surgery:  Date ____/____/____     Type of surgery________________  2.  Have you had an injury to the eye involving a metallic object (e.g., metallic slivers, foreign body)?  � No � Yes         If yes, please describe: _____________________________________________________________________  3.  Have you ever been injured by a metallic object or foreign body (e.g., BB, bullet, shrapnel, etc.)?   � No � Yes         If yes, please describe: _____________________________________________________________________  4. Are you pregnant or suspect that you are pregnant?   � No � Yes</para>
       <para><emphasis role="bold">Please indicate if you have any of the following:  </emphasis> � Yes  �  No   Aneurysm clip(s)  � Yes  �  No   Cardiac pacemaker  � Yes  �  No   Implanted cardioverter defibrillator (ICD)  � Yes  �  No   Electronic implant or device   � Yes  �  No   Magnetically-activated implant or device   � Yes  �  No   Neurostimulation system  � Yes  �  No   Spinal cord stimulation system  � Yes  �  No   Cochlear implant or implanted hearing aid  � Yes  �  No   Insulin or infusion pump  � Yes  �  No   Implanted drug infusion device   � Yes  �  No   Any type of prosthesis or implant  � Yes  �  No   Artificial or prosthetic limb   � Yes  �  No   Any metallic fragment or foreign body  � Yes  �  No   Are you going into the MRI system room?  � Yes  �  No   Any external or internal metallic object  � Yes  �  No   Hearing aid               <emphasis role="italics">(Remove before entering the MR system room)</emphasis><emphasis role="bold"><emphasis role="italics"> </emphasis></emphasis> � Yes  �  No   Other<emphasis role="bold"> </emphasis>implant<emphasis role="bold">______________________</emphasis><emphasis role="bold"> </emphasis></para>
@@ -372,27 +361,26 @@
       <para><emphasis role="bold">WARNING:</emphasis>  Certain implants, devices, or objects may be hazardous to you in the MR environment or   MR system room. Do not enter the MR environment or MR system room if you have any question or concern  regarding an implant, device, or object.</para>
       <para><emphasis role="bold">Figure 7.</emphasis> The MRI Screening Form used to screen individuals (i.e., nonpatients).</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0311.png" width="100%" scalefit="1"/>
-          </imageobject>
-        </mediaobject>
-      </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:55 AM  Page 389</para>
-      <figure>
-        <title/>
-        <mediaobject>
-          <imageobject>
-            <imagedata fileref="fig0312.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0311.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0313.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0312.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0313.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -402,15 +390,13 @@
       <para>The middle section of the second page, the screening form lists thirty-five implant or  device categories of potential concern.  The patient or individual filling out the form is  asked to indicate whether he or she possesses any implant or device by checking a “Yes” or  “No” box.  By doing so, the patient or individual may recall previous forgotten surgeries or  procedures that involved the implants or devices listed. If the patient has an implant or de- vice not listed, the patient is asked to write it down at the bottom of the list.  If the patient  or individual does possess an implant, device, object, or metal on or in the body, he or she  is instructed to indicate the location(s) on the diagrams of the human body (anterior and  posterior views) provided on the form.</para>
       <para>Below the body sketch diagrams, the patient or individual is reminded to remove all  metal objects such as hearing aids, dentures, jewelry, eyeglasses, keys, cell phones, belts,  and other objects before entering the MR system room. Articles of clothing containing metal  such as buttons, zippers and wires should also be removed. Some clothing manufacturers  have recently been incorporating anti-microbial silver, copper microfibers, or other metallic  components in sportswear and undergarments. These metallic fibers are often not detectable  in the fabric and product labeling is often unreliable. The metal in the clothing may be non- ferromagnetic but can still degrade image quality if located proximal to the region being  scanned. More importantly, the metallic components found in fabric are conductive and,</para>
       <para><emphasis role="bold">390</emphasis> <emphasis role="bold">MRI Screening for Patients and Individuals</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:55 AM  Page 390</para>
       <para>thus, may excessively heat during certain MRI conditions, causing burn injuries in patients.  As a critical policy, MRI facilities should require patients to remove all clothing and change  into a gown or scrubs that have no pockets as part of the screening process. Lockers must  be provided to secure the belongings of patients and other individuals. Without harsh inter- rogation or inappropriate searching, the MRI technologist must always check the patient or  individual to verify that all metal of concern has been removed prior to entering the MR  system room. Some facilities refer to this second check as the “Full Stop and Final Check”  (22, 23).</para>
       <para>During the screening process, questions may be asked about breathing problems, move- ment disorders, or claustrophobia.  These questions are used to assess the patient’s general  ability to hold still and tolerate the MRI procedure.  These issues are not too critical for  safety, but may determine whether the patient needs extra attention or sedation, which will  dictate scheduling times and different MRI facility staffing needs.</para>
       <para>Hearing protection for the patient or individual is also recommended on the MRI screen- ing form, which reflects many early guidelines pertaining to this matter as well as current  ACR recommendations (15, 23). In the distribution of hearing protection such as disposable  earplugs, the MRI technologist or trained healthcare worker should assist the patient or in- dividual in placement of the disposable earplugs. Some individuals will have difficulty in  properly positioning the earplugs, especially if the ear canal is curved. At times, it may be  necessary to immobilize the earplugs in place by using hypoallergenic tape to prevent them  from loosening during the exam. The ear canals of small infants often will not accommodate  conventional foam earplugs, but the earplugs can easily be cut to fit (any cutting with tools  such as scissors or knives must of course be done outside the MRI environment) or alter- native hearing protection devices can be used in these cases.</para>
       <para>The last section on the second page of the MRI screening form provides a place for the  person completing the form to sign, print name, and date the form. When signing, the patient  attests that the information provided on the form is correct. For a minor, a parent or legal  guardian should print their name and sign the form. If the patient is unable to sign the form,  an authorized relative or knowledgeable healthcare professional may need to sign (<emphasis role="bold">Figure </emphasis> <emphasis role="bold">8</emphasis>). The MRI technologist, or other appropriately trained staff who reviewed the form and  conducted the verbal interview must also print their name and sign this document (<emphasis role="bold">Figure </emphasis> <emphasis role="bold">9</emphasis>). If the completed form is handed off to another MRI technologist to perform the MRI  examination, care must be taken that the scanning MRI technologist checks the form to be  sure that it was reviewed and signed. This final step must be done prior to escorting the pa- tient or individual into the MR system room (<emphasis role="bold">Figure 10</emphasis>).</para>
       <para>In the event that the patient is comatose or for whatever reason unable to verbally com- municate, the written screening form should be completed by the most qualified individual  (e.g., physician, family member, etc.) that has knowledge about the patient’s medical history  and present condition. If the screening information is inadequate, it is advisable to look for  surgical scars on the patient and/or to obtain plain films of the skull and/or chest to search  for implants that may be particularly hazardous in the MRI environment (e.g., aneurysm  clips, cardiac pacemakers, neuromodulation systems, etc.) (15, 16, 23).</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">391</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:55 AM  Page 391</para>
-    </sect1>
+      </sect1>
     <sect1 id="ch0015s08">
       <title>WRITTEN SCREENING FORM AND PROCEDURES FOR INDIVIDUALS</title>
       <para>As stated previously, any individual other than the patient that needs to enter the MRI  environment for any reason must also complete a written screening form (<emphasis role="bold">Figure 7</emphasis>). This  form is basically an abbreviated version of the patient MRI screening form. Whether the  MRI facility is in a hospital, clinic, or free-standing imaging center, a certain amount of  employee turnover is inevitable. New physicians or house staff, MRI technologists, nurses,  anesthesia staff, medical assistants, students, and other staff members will rotate through  the MRI center, some of which will need to enter the MRI environment. MRI screening is  also required for caregivers, security personnel, fire fighters, and others. No one is exempt  from completing the screening form and going through the screening process prior to en- tering the MRI environment. For individuals that must frequently enter the MRI environ- ment as part of their duty, such as an MRI technologist, the screening form can be completed  initially and kept on file. Any subsequent changes to an individual’s medical or physical  history such as a surgical procedure with placement of an implant, pregnancy, exposure to  shrapnel or other similar matter will void the prior MRI clearance on file. It is the individ- ual’s responsibility to make this known so that the re-screening and/or updating of screening  history can take place.</para>
@@ -418,15 +404,14 @@
       <para><emphasis role="bold">392</emphasis> <emphasis role="bold">MRI Screening for Patients and Individuals</emphasis></para>
       <para><emphasis role="bold">Figure 8.</emphasis> Patient in Zone II prepar- ing for MRI exam by filling out the  written screening form in the pres- ence of an MRI technologist.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0314.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0314.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:55 AM  Page 392</para>
-    </sect1>
+      </sect1>
     <sect1 id="ch0015s09">
       <title>VERBAL SCREENING PROCEDURES</title>
       <para>Equally important to the completion of the MRI screening forms for both patients and  other individuals is the verbal screening procedure or interview (<emphasis role="bold">Figure 9</emphasis>). Additional in- formation or clarification of information about prior surgeries, procedures, or incidents is  often obtained during this time. The interview provides a mechanism for clarification or  confirmation of the answers to the questions posed to the patient so that there is no mis- communication regarding important MRI safety issues. In addition, because the patient may  not be fully aware of the medical terminology used for a particular implant or device, it is  imperative that this particular information on the form be discussed during the verbal inter- view. Additionally, a patient might be reluctant to indicate a pregnancy or foreign body on  the written form in the presence of family or friends, but honesty might prevail in a private  interview with the MRI technologist or MRI safety-trained healthcare worker. Due to cul- tural or religious reasons, some patients may ask for a male or female MRI technologist to  conduct the interview. Questions, misconceptions, and fears that the patient might harbor  can also be discussed and answered.  Both the stress of the patient and the difficulty of the  MRI examination can be reduced as a result of a satisfactorily performed, verbal screening  procedure.</para>
@@ -434,36 +419,34 @@
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">393</emphasis></para>
       <para><emphasis role="bold">Figure 9.</emphasis> The MRI technologist conducts a verbal interview and helps the patient prepare  for the MRI examination by doing final preparations and checks.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0315.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0315.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:55 AM  Page 393</para>
       <para>ency, or level of literacy. Therefore, an appropriate accompanying family member or other  individual (e.g., referring physician) should be involved in the screening process to verify  information that may impact patient safety. Versions of the screening form (<emphasis role="bold">Figures 3</emphasis> to <emphasis role="bold">6</emphasis>)  should be available in other languages, as needed (i.e., specific to the demographics of the  MRI facility).</para>
       <para><emphasis role="bold">394</emphasis> <emphasis role="bold">MRI Screening for Patients and Individuals</emphasis></para>
       <para><emphasis role="bold">Figure 11.</emphasis> Typical location of a mounted  ferromagnetic detection system in Zone III  (outside of the MR system room).</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0316.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0316.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <para><emphasis role="bold">Figure 10.</emphasis> Following the completion of  MRI screening, the MRI technologist es- corts the patient through a ferromagnetic  detection system in Zone III, and into the  Zone IV, the MR system room.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0317.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0317.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:55 AM  Page 394</para>
-    </sect1>
+      </sect1>
     <sect1 id="ch0015s10">
       <title>THE USE OF FERROMAGNETIC DETECTION SYSTEMS IN MRI  SCREENING</title>
       <para>The use of conventional metal detectors as a MRI screening tool has not been recom- mended in the past mainly as a result of false positive and false negative alarms, resulting  in “alarm fatigue”. Such detectors have exhibited inconsistent sensitivities, operator error,  and the inability to distinguish between ferrous and non-ferrous metals. In recent years,  many new designs of ferromagnetic detection systems have emerged that have proven help- ful in the screening process.  These ferromagnetic detection systems are typically installed  prior to the entrance into the scanner room (or Zone III, according to the zone scheme de- scribed by the ACR) (<emphasis role="bold">Figure 11</emphasis>).</para>
@@ -479,7 +462,6 @@
       <para><emphasis role="bold">Stronger Translational, Rotational, and Lenz’s Forces at 7-Tesla </emphasis></para>
       <para>Because the 7-Tesla scanner is substantially stronger than the more common 1.5- or 3- Tesla MR system, translational attraction and rotational (torque) forces become an increased  concern. In MRI environment, Faraday’s law of induction and related Lenz’s law may play  an important role for metallic implants, as well.  An increase in Lenz’s forces at 7-T is worth</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">395</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:55 AM  Page 395</para>
       <para>noting. A brief explanation is, as follows: when an electrical conductor moves through a  changing magnetic field such as the spatial gradient magnetic field at the entrance of the  scanner, an electrical current will be generated that induces an additional magnetic field  that opposes the spatial gradient magnetic field and the static magnetic field. Thus, the mo- tion of any metallic implant, device, or object (made from ferromagnetic or nonferromag- netic material), will be opposed.  This phenomenon may be manifested as a “tugging”  sensation that patients with large metallic implants or devices may experience as they move  into the bore of the MR system. Although this sensation is transient and harmless, it can be  unsettling to patients, compelling them to bring it to the attention of the MRI technologist.  Fortunately, Lenz’s forces can be markedly reduced by slowly moving the patient into a 7- T scanner,With further regard to Lenz’s forces at 7-T, it is a good practice to explain to a  patient with a larger metallic implant that there is the possibility of a tugging sensation prior  to the MRI exam to avoid undue issues (21-23).</para>
     </sect1>
     <sect1 id="ch0015s12">
@@ -491,7 +473,6 @@
       <para>A physician ordering a clinical MRI examination must state a “reason for exam”.  Based  on this information, the attending MRI-trained physician will then select an appropriate  protocol (i.e., with consideration given to the type of transmit/receive RF coil to be used,  pulse sequences, etc.), which is unique for the desired outcome for that specific patient. Ad- ditional communication between the ordering/referring physician and the radiologist may  be necessary if this information and justification for the MRI procedure is vague.</para>
       <para>If the patient arrives for the MRI appointment with a limited history, and the ordering  physician is not available for consultation, the screening information that is obtained may  be helpful to the radiologist. For instance, if the reason for the examination simply indicates  “headache”, and the screening procedure reveals that the patient has not had a prior MRI  procedure, the radiologist may optimize the scan protocol with more diagnostic emphasis.  Conversely, if MRI screening reveals previous MRI studies, and the present MRI exam is  for surgical planning, the radiologist may optimize the scan protocol with this in mind. Oth-</para>
       <para><emphasis role="bold">396</emphasis> <emphasis role="bold">MRI Screening for Patients and Individuals</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:55 AM  Page 396</para>
       <para>erwise, the radiologist may simply protocol “repeat prior study” or the MRI protocol may  involve performing additional sequences, possibly with an injection of an MRI contrast  agent.</para>
     </sect1>
     <sect1 id="ch0015s13">
@@ -506,7 +487,6 @@
       <para><emphasis role="bold">Anticipation and Preparation of the MRI Facility’s Staffing Needs </emphasis></para>
       <para>Patients who need special assistance, sedation, or high-risk patients who may need gen- eral anesthesia require specific and additional staff at the time of the MRI examinations.  Furthermore, additional time will likely be needed to complete the MRI procedure and, pos- sibly, to manage the patient after the exam (e.g., in the case of needing to recover a patient  after general anesthesia).  Initial MRI screening information is particularly beneficial for  managing the afore-mentioned patients, because the MRI facility will need to prepare and  schedule these patients, accordingly.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">397</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:55 AM  Page 397</para>
       <para><emphasis role="bold">“No Show” Rate Reduction </emphasis></para>
       <para>Initial MRI screening (i.e., using verbal or written methods) can help reduce the “no  show” rate of an MRI facility. During the initial screening process, certain patients may re- fuse the MRI examination, despite the physician’s recommendation. Common MRI con- traindications are limitations are also exposed during this time. Thus, it may not be possible  to schedule such patients right away. Frequently, MRI facilities dedicate a staff member to  review the MRI screening information while placing “reminder” telephone calls to patients  a few days before their appointments. At the time of the call, the patient may indicate that  he or she is unable to honor the appointment, and the appointment will need to be re-sched- uled or canceled. In either case, a likely “no show” can be averted by following simple tasks  involved in initial MRI screening.</para>
     </sect1>
@@ -523,7 +503,6 @@
       <para>5.  Elster AD, Link KM, Carr JJ. Patient screening prior to MR imaging: A practical approach synthesized  from protocols at 15 U.S. medical centers. AJR Am J Roentgenol 1994;162:195-9.</para>
       <para>6.  Shellock FG, Kanal E. Magnetic Resonance: Bioeffects, Safety, and Patient Management. New York: Lip- pincott-Raven Press: 1996.</para>
       <para><emphasis role="bold">398</emphasis> <emphasis role="bold">MRI Screening for Patients and Individuals</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:55 AM  Page 398</para>
       <para>7.  Sawyer-Glover AM, Shellock FG. Pre-MRI procedure screening: Recommendations and safety consider- ations for biomedical implants and devices. J Magn Reson Imaging 2000;12:510-515.</para>
       <para>8.  Shellock FG. New recommendations for screening patients for suspected orbital foreign bodies. Signals  2001;36:8-9.</para>
       <para>9.  Sawyer-Glover A, Shellock FG. Pre-Magnetic Resonance Procedure Screening. In: Magnetic Resonance  Procedures: Health Effects and Safety. Shellock FG, Editor. Boca Raton: CRC Press, LLC; 2001.</para>
@@ -542,6 +521,5 @@
       <para>22. ACR Committee on MR Safety: Greenberg TD, Hoff MN, et al. ACR guidance document on MR safe  practices: Updates and critical information. Magn Reson Imaging 2020;51:331-338.</para>
       <para>23. ACR Manual on MR Safety, ACR Committee on MR Safety, Version 1.0, 2020 https://www.acr.org/Clin- ical-Resources/Radiology-Safety/MR-Safety.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">399</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:55 AM  Page 399</para>
-    </sect1>
+      </sect1>
 </chapter>
