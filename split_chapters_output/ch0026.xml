@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter id="ch0026"><title>Chapter 26 MRI Safety Issues for Neuromodulation Systems</title>
-    <para><emphasis role="bold">MIZAN RAHMAN, PH.D.</emphasis></para>
+<chapter id="ch0026"><title>Chapter 26 MRI Safety Issues for Neuromodulation Systems</title><para><emphasis role="bold">MIZAN RAHMAN, PH.D.</emphasis></para>
     <para>Electrical Engineering Fellow</para>
     <para>Research &amp; Development</para>
     <para>Boston Scientific Neuromodulation Corporation</para>
@@ -830,7 +829,7 @@
         </sect2>
         <sect2 id="ch0026s0000s0011s0002">
           <title>Figure 14. The SenTiva Vagus Nerve Stimulation System, Model 1000, LivaNova, Inc. Note the lead with helical cuff electrodes that are used to securely attach them to the vagus nerve at the cervical level.</title>
-        </sect2>
+        <para></para></sect2>
         <sect2 id="ch0026s0000s0011s0003">
           <title>734 MRI Safety Issues for Neuromodulation Systems</title>
 <table frame="all">

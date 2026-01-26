@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter id="ch0024"><title>Chapter 24 Performing MRI in Patients with Conventional (Non-MR Conditional) Cardiac Devices</title>
-    <para><emphasis role="bold">EUNICE YANG, M.D.</emphasis></para>
+<chapter id="ch0024"><title>Chapter 24 Performing MRI in Patients with Conventional (Non-MR Conditional) Cardiac Devices</title><para><emphasis role="bold">EUNICE YANG, M.D.</emphasis></para>
     <para>Postdoctoral Clinical Fellow</para>
     <para>Cardiac Electrophysiology</para>
     <para>Johns Hopkins Hospital</para>
@@ -284,7 +283,7 @@
         </sect2>
         <sect2 id="ch0024s0000s0003s0006">
           <title>MRI Bioeffects, Safety, and Patient Management    665</title>
-        </sect2>
+        <para></para></sect2>
       </sect1>
       <sect1 id="ch0024s0000s0004">
         <title>Our Institutional Safety Protocol for MRI of Patients with CIEDs</title>

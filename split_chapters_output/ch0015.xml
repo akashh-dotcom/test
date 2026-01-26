@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter id="ch0015"><title>Chapter 15 MRI Screening for Patients and Individuals</title>
-    <para>ASHOK K. SARASWAT, M.S., B.ED., R.T. (R)(MR)</para>
+<chapter id="ch0015"><title>Chapter 15 MRI Screening for Patients and Individuals</title><para>ASHOK K. SARASWAT, M.S., B.ED., R.T. (R)(MR)</para>
     <para>Emeritus MRI Educational Program Director</para>
     <para>Ohio State University</para>
     <para>Wexner Medical Center</para>
@@ -126,7 +125,7 @@
     <para><emphasis role="bold">Figure 11.</emphasis> Typical location of a mounted ferromagnetic detection system in Zone III (outside of the MR system room).</para>
           <sect3 id="ch0015s0000s0001s0006s0001">
             <title>MRI Bioeffects, Safety, and Patient Management     395</title>
-          </sect3>
+          <para></para></sect3>
         </sect2>
         <sect2 id="ch0015s0000s0001s0007">
           <title>THE USE OF FERROMAGNETIC DETECTION SYSTEMS IN MRI SCREENING</title>
