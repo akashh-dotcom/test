@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='utf-8'?>
 <chapter id="ch0004" label="4">
     <title>Chapter 4</title>
     <para><emphasis role="bold">Chapter 4</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields  </emphasis></para>
@@ -12,7 +11,7 @@ the observable effects on tissues are relatively small and it is difficult to es
 magnetic field strengths at which these may become substantial hazards (Table 1</para><para>However, since the development and manufacturing of powerful magnets, scientists 
 have begun to understand the mechanisms of interactions with biological tissues at different 
 levels. To date, the strongest of these effects is the attractive force on ferromagnetic materials 
-which demonstrates the m</para><para>y requirement of MR systems.   
+which demonstrates the m</para><table frame="all"><title>) (3).</title><tgroup cols="4"><tbody><row><entry>ducted on UHF MR systems (5-10).</entry><entry>Importantly, as the number of high-field (HF) scanners</entry><entry /><entry /></row><row><entry>(i.e., less than 3-T) increases in clinical settings and the number of UHF MR systems (higher</entry><entry /><entry /><entry /></row><row><entry>than 4-T) increases in research and clinical facilities, the opportunity is created for more</entry><entry /><entry /><entry /></row><row><entry>MRI Bioeffects, Safety, and Patient Management</entry><entry /><entry /><entry /></row><row><entry>97</entry><entry /><entry /><entry /></row><row><entry>Table 1. Comparison of the physical effects of the various fields applied to patients dur-</entry><entry /><entry /><entry /></row><row><entry>ing MRI.</entry><entry /><entry /><entry /></row><row><entry>Type of Field</entry><entry /><entry /><entry /></row><row><entry>Physical Limitation on Human Exposure</entry><entry /><entry /><entry /></row><row><entry>Static Magnetic Fields</entry><entry /><entry /><entry /></row><row><entry>Unknown</entry><entry /><entry /><entry /></row><row><entry>Gradient Magnetic Fields</entry><entry /><entry /><entry /></row><row><entry>Peripheral Nerve Stimulation1,2</entry><entry /><entry /><entry /></row><row><entry>Radiofrequency Fields</entry><entry /><entry /><entry /></row><row><entry>Tissue Heating1</entry><entry /><entry /><entry /></row><row><entry>1 The origin of both effects can be attributed to the electric field that accompanies all time-dependent mag-</entry><entry /><entry /><entry /></row><row><entry>netic fields and not the static magnetic field, itself.</entry><entry /><entry /><entry /></row><row><entry>2 Both the rate of change of the field and the duration of the change must be above threshold values for stimu-</entry><entry /><entry /><entry /></row><row><entry>lation to occur.</entry><entry /><entry /><entry /></row><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:16 PM</entry><entry>Page 97</entry></row></tbody></tgroup></table><para>y requirement of MR systems.   
 Cylindrical superconducting geometries are the most abundant form of “closed” scan-
 ners, while permanent and hybrid magnets are often used for “open” MR systems. An ac-
 count of the dates when MR systems with various magnetic fields were debuted is listed in 
@@ -20,13 +19,13 @@ Table 2</para><para>eases in field strength has been
 presented but it is not meant to be a catalogue of improvement in all aspects of magnet tech-
 nology.   
 In assimilation of new MRI technology, three factors have dominated the introduction 
-of new scanners: engineering innovation, safety, and an advantage in clinic</para><para>Risks Posed By Translational Forces And Torques 
+of new scanners: engineering innovation, safety, and an advantage in clinic</para><table frame="all"><title>(106-115). In this table, the timing of major increases in field strength has been</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:16 PM</entry><entry>Page 99</entry></row></tbody></tgroup></table><para>Risks Posed By Translational Forces And Torques 
 Since ellipsoids of revolution illustrate most of the important features of magnetic in-
 teraction with matter, a summary of the expressions for the quantities derived in this chapter 
 including magnetic energy, force and torque are listed in Table 3.</para><para>of these expressions for extreme values of the susceptibility predict behaviors that are qual-
 itatively different from one other. Designating the demagnetizing factor along the axis of 
 symmetry of the object as Da and the radial demagnetizing factor in the transverse direction 
-as Dr from the earl</para><para>ndence and a 
+as Dr from the earl</para><table frame="all"><title>Also, the asymptotic limits</title><tgroup cols="4"><tbody><row><entry>as Dr from the earlier discussion, we have Da + 2 Dr = 1.</entry><entry>The relative values of Da and Dr</entry><entry /><entry /></row><row><entry>offer simple results with powerful implications. For needle-like ellipsoids with one very</entry><entry /><entry /><entry /></row><row><entry>long axis of symmetry and isotropic radial directions, Da → 0 and Dr → ½. For a sphere,</entry><entry /><entry /><entry /></row><row><entry>Da = Dr = 1/3. For flat ellipsoids, Da → 1 and Dr → 0. These case examples are useful to</entry><entry /><entry /><entry /></row><row><entry>MRI Bioeffects, Safety, and Patient Management</entry><entry /><entry /><entry /></row><row><entry>111</entry><entry /><entry /><entry /></row><row><entry>Table 3. Magnetic properties of ellipsoids of revolution.</entry><entry /><entry /><entry /></row><row><entry>Qty</entry><entry /><entry /><entry /></row><row><entry>Full Expression</entry><entry /><entry /><entry /></row><row><entry>Soft Magnetic</entry><entry /><entry /><entry /></row><row><entry>Materials</entry><entry /><entry /><entry /></row><row><entry>χDa, χDr &gt;&gt; 1</entry><entry /><entry /><entry /></row><row><entry>“Non-Magnetic”</entry><entry /><entry /><entry /></row><row><entry>Materials</entry><entry /><entry /><entry /></row><row><entry>|χ| &lt;&lt; 1</entry><entry /><entry /><entry /></row><row><entry>U</entry><entry /><entry /><entry /></row><row><entry>Fz</entry><entry /><entry /><entry /></row><row><entry>Mx</entry><entry /><entry /><entry /></row><row><entry>Mz</entry><entry /><entry /><entry /></row><row><entry>τy</entry><entry /><entry /><entry /></row><row><entry>The first column gives the complete expression for the magnetic potential energy (U), force (Fz), magnetiza-</entry><entry /><entry /><entry /></row><row><entry>tion (Mx and Mz) and torque (Ty) for an ellipsoid of revolution in a magnetic field along the z-axis. The sym-</entry><entry /><entry /><entry /></row><row><entry>metry axis is in the x-direction and θ is the angle between this axis and the magnetic field. The second</entry><entry /><entry /><entry /></row><row><entry>column gives approximations appropriate for soft magnetic materials and the third column gives approxima-</entry><entry /><entry /><entry /></row><row><entry>tions appropriate to materials, such as biological tissues, with very small susceptibilities. For objects inside a</entry><entry /><entry /><entry /></row><row><entry>medium of uniform susceptibility, such as water or tissue with χ = χH2O, χ should be replaced by</entry><entry /><entry /><entry /></row><row><entry>Δχ = χ - χH2O . It is assumed that Bz is the only non-zero component of Bo at the location of the object and</entry><entry /><entry /><entry /></row><row><entry>that the spatial derivatives of the transverse components,</entry><entry /><entry /><entry /></row><row><entry>, etc. are all zero. This is the case</entry><entry /><entry /><entry /></row><row><entry>along the central axis of the magnets commonly used in MRI. At other points in the field, there may be non-</entry><entry /><entry /><entry /></row><row><entry>zero force components in addition to Fz, but the qualitative physical principles are unchanged.</entry><entry /><entry /><entry /></row><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:16 PM</entry><entry>Page 111</entry></row></tbody></tgroup></table><para>ndence and a 
 maximum value occurs near the center of the magnet, where the axis of the paper clip is at 
 a direction of 45-degrees with respect to the z-axis of the magnetic field. 
 A close examination of the behavior of biological tissues, with |χ| &lt;&lt; 1 by using the ex-
@@ -35,11 +34,21 @@ tissues is proportional to χ2. Due to the opposite signs of the susceptibilitie
 and paramagnetic materials, they are expected to point in opposite directions when lined 
 114
 Bioeffects of Static Magnetic Fields
-BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="all">
+BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="all"><title>, demonstrates that the magnitude of the torque acting on these</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:16 PM</entry><entry>Page 114</entry></row></tbody></tgroup></table><table frame="all"><title>Type and severity of acute adverse reactions to gadolinium-based contrast agents</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/8/2021</entry><entry>3:53 AM</entry><entry>Page 334</entry></row></tbody></tgroup></table><table frame="all"><title>) have been rec-</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/8/2021</entry><entry>3:53 AM</entry><entry>Page 336</entry></row></tbody></tgroup></table><table frame="all"><title>Suitable premedication regimens (adapted from Reference 15).</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/8/2021</entry><entry>3:53 AM</entry><entry>Page 337</entry></row></tbody></tgroup></table><table frame="all"><title>, this list includes but is not</title><tgroup cols="4"><tbody><row><entry>IM = intramuscular; IV = intravenous; SC =</entry><entry>subcutaneous</entry><entry /><entry /></row><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/8/2021</entry><entry>3:53 AM</entry><entry>Page 338</entry></row></tbody></tgroup></table><table frame="all"><title>and Table 5, include infor-</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/8/2021</entry><entry>3:53 AM</entry><entry>Page 340</entry></row></tbody></tgroup></table><table frame="all"><title>and Table 2.</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:30 PM</entry><entry>Page 463</entry></row></tbody></tgroup></table><table frame="all"><title>Possible MRI-related risks for active implants.</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:30 PM</entry><entry>Page 463</entry></row></tbody></tgroup></table><table frame="all"><title>presents techniques that may be used to reduce</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:30 PM</entry><entry>Page 469</entry></row></tbody></tgroup></table><table frame="all"><title>). Notably, the previous</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:30 PM</entry><entry>Page 476</entry></row></tbody></tgroup></table></sect1>
+    <sect1 id="ch0004s02">
+      <title>INTRODUCTION</title>
+      <para>Among the three different electromagnetic fields associated with magnetic resonance  imaging (MRI), the static magnetic field has always been a primary focus of safety consid- erations. The need for intermittent exposure to the powerful static magnetic field of the MR  system is at the base of safety concerns, from the pioneers working on developing nuclear  magnetic resonance (NMR), to the diagnostic imaging technique that is currently used today,  as MRI. Since the early 1970s, when Raymond Damadian’s pioneering work on animal  tumor imaging and Paul Lauterbur’s application of gradient magnetic fields in combination  with a strong magnetic field to generate images marked the birth of MRI (1, 2), the safety  implications for human subjects have been a constant preoccupation of practitioners (1, 2).   This is the case even though there have been no unpreventable safety incidents for patients  and others in the MRI environment (3). The safety record of scanning hundreds of millions  of human subjects imaged in MR systems worldwide indicates a relative lack of inherent  risk associated with MRI.</para>
+      <para>Although the static magnetic field (B0) is not the only source of safety concern, the  other two, that is, the gradient magnetic fields (dB/dt) and the radiofrequency (RF) fields  (B1), warrant their own safety evaluations. Considering that all three of these electromag- netic fields act simultaneously on the human body during MRI, understanding their inter- actions constitutes the first order of business in quantifying safety implications. In so doing,  in the present chapter, there will be an exclusive focus on the task of understanding the in- teractions of static magnetic fields with the human body. The other two, radiofrequency  fields and gradient magnetic fields, are easier to quantify since a large part of their interac- tions is a manifestation of Faraday’s Law of Induction. These effects are functions of easily  controlled characteristics of transmit RF coils and the gradient magnetic fields, such as am- plitude and frequency.  It is inherently easier to build a transmit RF coil operating at high  frequencies greater than 300-MHz and gradients operating at greater than 50-mT/m with  slew rates of higher than 200-T/m/s than to build a whole-body magnet operating at greater</para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 96</para>
+      <para>than 7-Tesla (T). Furthermore, computations of specific absorption rate (SAR) and con- comitant RF-induced tissue heating or gradient field-induced voltage and associated neu- rostimulation are readily carried out. By comparison, the limiting physiological effects of  static magnetic fields on biological tissues have not been sufficiently quantified because  the observable effects on tissues are relatively small and it is difficult to estimate the static  magnetic field strengths at which these may become substantial hazards (<emphasis role="bold">Table 1</emphasis>) (3).</para>
+      <para>However, since the development and manufacturing of powerful magnets, scientists  have begun to understand the mechanisms of interactions with biological tissues at different  levels. To date, the strongest of these effects is the attractive force on ferromagnetic materials  which demonstrates the most ominous of all safety risks to the life and wellbeing of patients  and other individuals (4, 5). Notably, this effect, also known as the projectile or missile ef- fect, is a secondary effect meaning that it is easily avoidable and is not inherent to the in- teraction of the static magnetic field with the human body. As far as the hazards associated  with intrinsic interactions, the scientific community has yet to establish an upper limit for  the static magnetic field designed for exposure of human subjects. Considering the difficulty  of building whole-body magnets operating at field strengths much higher than currently  recommended by the United States Food and Drug Administration (FDA), presently stand- ing at 8-Tesla (5), it is conceivable that there would be many opportunities and available  hardware to characterize such effects. Proliferation of 7-T whole-body magnets (subsequent  to the success of the 8-T scanner, designed by the team at the Ohio State University in 1998)  has offered a fertile ground to study the interactions of static magnetic fields with biological  tissues using all available techniques, in addition to the imaging capabilities that such scan- ners afford the scientists and clinicians. The safe operation of the more than eighty 7-T re- search and clinical MR systems around the world has encouraged scientists to dream of  even higher field strengths. NeuroSpin in Orsay, France, and the National Institutes of  Health (NIH) now have 11.7-T, whole-body MR systems. The successful move to the ultra- high-field (UHF), 11.7-T scanner was undoubtedly the result of the invaluable information  that was gained from the exposure of thousands of human subjects to 7-, 8-, 9.4-, and 10.5- T static magnetic fields since 1998. To date, numerous safety investigations have been con- ducted on UHF MR systems (5-10).  Importantly, as the number of high-field (HF) scanners  (i.e., less than 3-T) increases in clinical settings and the number of UHF MR systems (higher  than 4-T) increases in research and clinical facilities, the opportunity is created for more</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">97</emphasis></para>
+      <para><emphasis role="bold">Table 1.</emphasis> Comparison of the physical effects of the various fields applied to patients dur- ing MRI.</para>
+      <table frame="all">
             <title>Untitled</title>
             <tgroup cols="2">
-              <colspec colname="c1"/>
-              <colspec colname="c2"/>
+              <colspec colname="c1" />
+              <colspec colname="c2" />
               <thead>
                 <row>
                   <entry>Type of Field</entry>
@@ -61,15 +70,21 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
                 </row>
               </tbody>
             </tgroup>
-          </table>
-          <table frame="all">
+          </table><para><emphasis role="bold">Type of Field</emphasis> <emphasis role="bold">Physical Limitation on Human Exposure</emphasis></para>
+      <para>Static Magnetic Fields Unknown</para>
+      <para>Gradient Magnetic Fields Peripheral Nerve Stimulation<superscript>1,2</superscript></para>
+      <para>Radiofrequency Fields Tissue Heating<superscript>1</superscript></para>
+      <para>1 The origin of both effects can be attributed to the electric field that accompanies all time-dependent mag- netic fields and not the static magnetic field, itself.  2 Both the rate of change of the field and the duration of the change must be above threshold values for stimu- lation to occur.</para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 97</para>
+      <para>complex safety studies to investigate the interactions of powerful magnets with matter at  molecular, cellular, tissue, and systems levels.</para>
+    <table frame="all">
             <title>Untitled</title>
             <tgroup cols="5">
-              <colspec colname="c1"/>
-              <colspec colname="c2"/>
-              <colspec colname="c3"/>
-              <colspec colname="c4"/>
-              <colspec colname="c5"/>
+              <colspec colname="c1" />
+              <colspec colname="c2" />
+              <colspec colname="c3" />
+              <colspec colname="c4" />
+              <colspec colname="c5" />
               <thead>
                 <row>
                   <entry>Field Strength (Tesla)</entry>
@@ -152,74 +167,7 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
                 </row>
               </tbody>
             </tgroup>
-          </table>
-          <table frame="all">
-              <title>Untitled</title>
-              <tgroup cols="4">
-                <colspec colname="c1"/>
-                <colspec colname="c2"/>
-                <colspec colname="c3"/>
-                <colspec colname="c4"/>
-                <thead>
-                  <row>
-                    <entry>Qty</entry>
-                    <entry>Full Expression</entry>
-                    <entry>Soft Magnetic MaterialsχDa, χDr &gt;&gt; 1</entry>
-                    <entry>"Non-Magnetic" Materials|χ| &lt;&lt; 1</entry>
-                  </row>
-                </thead>
-                <tbody>
-                  <row>
-                    <entry>U</entry>
-                    <entry>χVBz2/2μo [cos2 θ/(1+χDa) + sin2 θ/(1+χDr)]</entry>
-                    <entry>VBz2/2μo [cos2 θ/Da + sin2 θ/Dr]</entry>
-                    <entry>χVBz2/2μo</entry>
-                  </row>
-                  <row>
-                    <entry>Fz</entry>
-                    <entry>χV/μo Bz ∂Bz/∂z [cos2 θ/(1+χDa) + sin2 θ/(1+χDr)]</entry>
-                    <entry>V/μo Bz ∂Bz/∂z [cos2 θ/Da + sin2 θ/Dr]</entry>
-                    <entry>χV/μo Bz ∂Bz/∂z</entry>
-                  </row>
-                  <row>
-                    <entry>Mx</entry>
-                    <entry>χBz/μo [(Dr - Da)/((1+χDa)(1+χDr))] cos θ sin θ</entry>
-                    <entry>Bz (Dr - Da)/μo DaDr cos θ sin θ</entry>
-                    <entry>χ2 Bz/μo (Dr - Da) cos θ sin θ</entry>
-                  </row>
-                  <row>
-                    <entry>Mz</entry>
-                    <entry>χBz/μo [cos2 θ/(1+χDa) + sin2 θ/(1+χDr)]</entry>
-                    <entry>Bz/μo [cos2 θ/Da + sin2 θ/Dr]</entry>
-                    <entry>χBz/μo</entry>
-                  </row>
-                  <row>
-                    <entry>τy</entry>
-                    <entry>χ2VBz2/μo [(Dr - Da)/((1+χDa)(1+χDr))] cos θ sin θ</entry>
-                    <entry>VBz2 (Dr - Da)/μo DaDr cos θ sin θ</entry>
-                    <entry>χ2VBz2/μo (Dr - Da) cos θ sin θ</entry>
-                  </row>
-                </tbody>
-              </tgroup>
-            </table>
-            </sect1>
-    <sect1 id="ch0004s02">
-      <title>INTRODUCTION</title>
-      <para>Among the three different electromagnetic fields associated with magnetic resonance  imaging (MRI), the static magnetic field has always been a primary focus of safety consid- erations. The need for intermittent exposure to the powerful static magnetic field of the MR  system is at the base of safety concerns, from the pioneers working on developing nuclear  magnetic resonance (NMR), to the diagnostic imaging technique that is currently used today,  as MRI. Since the early 1970s, when Raymond Damadian’s pioneering work on animal  tumor imaging and Paul Lauterbur’s application of gradient magnetic fields in combination  with a strong magnetic field to generate images marked the birth of MRI (1, 2), the safety  implications for human subjects have been a constant preoccupation of practitioners (1, 2).   This is the case even though there have been no unpreventable safety incidents for patients  and others in the MRI environment (3). The safety record of scanning hundreds of millions  of human subjects imaged in MR systems worldwide indicates a relative lack of inherent  risk associated with MRI.</para>
-      <para>Although the static magnetic field (B0) is not the only source of safety concern, the  other two, that is, the gradient magnetic fields (dB/dt) and the radiofrequency (RF) fields  (B1), warrant their own safety evaluations. Considering that all three of these electromag- netic fields act simultaneously on the human body during MRI, understanding their inter- actions constitutes the first order of business in quantifying safety implications. In so doing,  in the present chapter, there will be an exclusive focus on the task of understanding the in- teractions of static magnetic fields with the human body. The other two, radiofrequency  fields and gradient magnetic fields, are easier to quantify since a large part of their interac- tions is a manifestation of Faraday’s Law of Induction. These effects are functions of easily  controlled characteristics of transmit RF coils and the gradient magnetic fields, such as am- plitude and frequency.  It is inherently easier to build a transmit RF coil operating at high  frequencies greater than 300-MHz and gradients operating at greater than 50-mT/m with  slew rates of higher than 200-T/m/s than to build a whole-body magnet operating at greater</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 96</para>
-      <para>than 7-Tesla (T). Furthermore, computations of specific absorption rate (SAR) and con- comitant RF-induced tissue heating or gradient field-induced voltage and associated neu- rostimulation are readily carried out. By comparison, the limiting physiological effects of  static magnetic fields on biological tissues have not been sufficiently quantified because  the observable effects on tissues are relatively small and it is difficult to estimate the static  magnetic field strengths at which these may become substantial hazards (<emphasis role="bold">Table 1</emphasis>) (3).</para>
-      <para>However, since the development and manufacturing of powerful magnets, scientists  have begun to understand the mechanisms of interactions with biological tissues at different  levels. To date, the strongest of these effects is the attractive force on ferromagnetic materials  which demonstrates the most ominous of all safety risks to the life and wellbeing of patients  and other individuals (4, 5). Notably, this effect, also known as the projectile or missile ef- fect, is a secondary effect meaning that it is easily avoidable and is not inherent to the in- teraction of the static magnetic field with the human body. As far as the hazards associated  with intrinsic interactions, the scientific community has yet to establish an upper limit for  the static magnetic field designed for exposure of human subjects. Considering the difficulty  of building whole-body magnets operating at field strengths much higher than currently  recommended by the United States Food and Drug Administration (FDA), presently stand- ing at 8-Tesla (5), it is conceivable that there would be many opportunities and available  hardware to characterize such effects. Proliferation of 7-T whole-body magnets (subsequent  to the success of the 8-T scanner, designed by the team at the Ohio State University in 1998)  has offered a fertile ground to study the interactions of static magnetic fields with biological  tissues using all available techniques, in addition to the imaging capabilities that such scan- ners afford the scientists and clinicians. The safe operation of the more than eighty 7-T re- search and clinical MR systems around the world has encouraged scientists to dream of  even higher field strengths. NeuroSpin in Orsay, France, and the National Institutes of  Health (NIH) now have 11.7-T, whole-body MR systems. The successful move to the ultra- high-field (UHF), 11.7-T scanner was undoubtedly the result of the invaluable information  that was gained from the exposure of thousands of human subjects to 7-, 8-, 9.4-, and 10.5- T static magnetic fields since 1998. To date, numerous safety investigations have been con- ducted on UHF MR systems (5-10).  Importantly, as the number of high-field (HF) scanners  (i.e., less than 3-T) increases in clinical settings and the number of UHF MR systems (higher  than 4-T) increases in research and clinical facilities, the opportunity is created for more</para>
-      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">97</emphasis></para>
-      <para><emphasis role="bold">Table 1.</emphasis> Comparison of the physical effects of the various fields applied to patients dur- ing MRI.</para>
-      <para><emphasis role="bold">Type of Field</emphasis> <emphasis role="bold">Physical Limitation on Human Exposure</emphasis></para>
-      <para>Static Magnetic Fields Unknown</para>
-      <para>Gradient Magnetic Fields Peripheral Nerve Stimulation<superscript>1,2</superscript></para>
-      <para>Radiofrequency Fields Tissue Heating<superscript>1</superscript></para>
-      <para>1 The origin of both effects can be attributed to the electric field that accompanies all time-dependent mag- netic fields and not the static magnetic field, itself.  2 Both the rate of change of the field and the duration of the change must be above threshold values for stimu- lation to occur.</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 97</para>
-      <para>complex safety studies to investigate the interactions of powerful magnets with matter at  molecular, cellular, tissue, and systems levels.</para>
-    </sect1>
+          </table></sect1>
     <sect1 id="ch0004s03">
       <title>HISTORICAL PERPECTIVE</title>
       <para>Over more than a century of recorded research on the effect of static magnetic fields  on human subjects, there have been many publications (11-98). These works have shown  that no verifiable harmful effect can be attributed to exposure to strong static magnetic  fields. This is predominantly attributed to the diamagnetic nature of human tissues and the  small number of paramagnetic elements present in the human body. Nevertheless, the fact  that, following the introduction of MRI as a dominant medical imaging device, an even  larger segment of the human population is being exposed to powerful magnetic fields each  year, warranting additional research in this field. It is conceivable that, as MRI becomes  available to more developing countries, there will come a time that most human beings will  be exposed to strong magnetic fields at some point in their lives.</para>
@@ -333,10 +281,10 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">107</emphasis></para>
       <para><emphasis role="bold">Figure 1.</emphasis> Spectrum of magnetic susceptibilities. The upper diagram uses a logarithmic  scale to indicate the full range of observed magnetic susceptibility values: it extends from  χ = -1.0 for superconductors to χ &gt; 100,000 for soft ferromagnetic materials. The bottom  diagram uses a linear scale (in ppm) to indicate the properties of some materials with |χ| &lt;  20 ppm. The susceptibilities of most human tissues are in the range from -7.0 to -11.0  ppm (Adapted from Reference 90).</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0090.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0090.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -351,10 +299,10 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
       <para><emphasis role="bold">108</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 108</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0091.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0091.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -369,34 +317,34 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">109</emphasis></para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 109</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0092.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0092.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0093.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0093.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0094.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0094.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0095.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0095.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -412,39 +360,87 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
       <para><emphasis role="bold">110</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 110</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0096.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0096.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0097.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0097.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0098.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0098.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0099.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0099.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <para><emphasis role="bold">Risks Posed By Translational Forces And Torques </emphasis></para>
-      <para>Since ellipsoids of revolution illustrate most of the important features of magnetic in- teraction with matter, a summary of the expressions for the quantities derived in this chapter  including magnetic energy, force and torque are listed in <emphasis role="bold">Table 3</emphasis>. Also, the asymptotic limits  of these expressions for extreme values of the susceptibility predict behaviors that are qual- itatively different from one other. Designating the demagnetizing factor along the axis of  symmetry of the object as <emphasis role="italics">D</emphasis>a and the radial demagnetizing factor in the transverse direction  as <emphasis role="italics">D</emphasis>r from the earlier discussion, we have <emphasis role="italics">D</emphasis>a + 2 <emphasis role="italics">D</emphasis>r = 1.  The relative values of <emphasis role="italics">D</emphasis>a and <emphasis role="italics">D</emphasis>r  offer simple results with powerful implications. For needle-like ellipsoids with one very  long axis of symmetry and isotropic radial directions, <emphasis role="italics">D</emphasis>a → 0 and <emphasis role="italics">D</emphasis>r → ½. For a sphere,  <emphasis role="italics">D</emphasis>a = <emphasis role="italics">D</emphasis>r = 1/3. For flat ellipsoids, <emphasis role="italics">D</emphasis>a → 1 and <emphasis role="italics">D</emphasis>r → 0. These case examples are useful to</para>
+      <table frame="all">
+              <title>Untitled</title>
+              <tgroup cols="4">
+                <colspec colname="c1" />
+                <colspec colname="c2" />
+                <colspec colname="c3" />
+                <colspec colname="c4" />
+                <thead>
+                  <row>
+                    <entry>Qty</entry>
+                    <entry>Full Expression</entry>
+                    <entry>Soft Magnetic MaterialsχDa, χDr &gt;&gt; 1</entry>
+                    <entry>"Non-Magnetic" Materials|χ| &lt;&lt; 1</entry>
+                  </row>
+                </thead>
+                <tbody>
+                  <row>
+                    <entry>U</entry>
+                    <entry>χVBz2/2μo [cos2 θ/(1+χDa) + sin2 θ/(1+χDr)]</entry>
+                    <entry>VBz2/2μo [cos2 θ/Da + sin2 θ/Dr]</entry>
+                    <entry>χVBz2/2μo</entry>
+                  </row>
+                  <row>
+                    <entry>Fz</entry>
+                    <entry>χV/μo Bz ∂Bz/∂z [cos2 θ/(1+χDa) + sin2 θ/(1+χDr)]</entry>
+                    <entry>V/μo Bz ∂Bz/∂z [cos2 θ/Da + sin2 θ/Dr]</entry>
+                    <entry>χV/μo Bz ∂Bz/∂z</entry>
+                  </row>
+                  <row>
+                    <entry>Mx</entry>
+                    <entry>χBz/μo [(Dr - Da)/((1+χDa)(1+χDr))] cos θ sin θ</entry>
+                    <entry>Bz (Dr - Da)/μo DaDr cos θ sin θ</entry>
+                    <entry>χ2 Bz/μo (Dr - Da) cos θ sin θ</entry>
+                  </row>
+                  <row>
+                    <entry>Mz</entry>
+                    <entry>χBz/μo [cos2 θ/(1+χDa) + sin2 θ/(1+χDr)]</entry>
+                    <entry>Bz/μo [cos2 θ/Da + sin2 θ/Dr]</entry>
+                    <entry>χBz/μo</entry>
+                  </row>
+                  <row>
+                    <entry>τy</entry>
+                    <entry>χ2VBz2/μo [(Dr - Da)/((1+χDa)(1+χDr))] cos θ sin θ</entry>
+                    <entry>VBz2 (Dr - Da)/μo DaDr cos θ sin θ</entry>
+                    <entry>χ2VBz2/μo (Dr - Da) cos θ sin θ</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table><para>Since ellipsoids of revolution illustrate most of the important features of magnetic in- teraction with matter, a summary of the expressions for the quantities derived in this chapter  including magnetic energy, force and torque are listed in <emphasis role="bold">Table 3</emphasis>. Also, the asymptotic limits  of these expressions for extreme values of the susceptibility predict behaviors that are qual- itatively different from one other. Designating the demagnetizing factor along the axis of  symmetry of the object as <emphasis role="italics">D</emphasis>a and the radial demagnetizing factor in the transverse direction  as <emphasis role="italics">D</emphasis>r from the earlier discussion, we have <emphasis role="italics">D</emphasis>a + 2 <emphasis role="italics">D</emphasis>r = 1.  The relative values of <emphasis role="italics">D</emphasis>a and <emphasis role="italics">D</emphasis>r  offer simple results with powerful implications. For needle-like ellipsoids with one very  long axis of symmetry and isotropic radial directions, <emphasis role="italics">D</emphasis>a → 0 and <emphasis role="italics">D</emphasis>r → ½. For a sphere,  <emphasis role="italics">D</emphasis>a = <emphasis role="italics">D</emphasis>r = 1/3. For flat ellipsoids, <emphasis role="italics">D</emphasis>a → 1 and <emphasis role="italics">D</emphasis>r → 0. These case examples are useful to</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">111</emphasis></para>
       <para><emphasis role="bold">Table 3.</emphasis> Magnetic properties of ellipsoids of revolution.</para>
       <para><emphasis role="bold">Qty</emphasis> <emphasis role="bold">Full Expression</emphasis></para>
@@ -460,130 +456,130 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
       <para>along the central axis of the magnets commonly used in MRI. At other points in the field, there may be non- zero force components in addition to <emphasis role="italics">F</emphasis><emphasis role="italics">z</emphasis>, but the qualitative physical principles are unchanged.</para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 111</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0100.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0100.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0101.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0101.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0102.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0102.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0103.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0103.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0104.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0104.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0105.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0105.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0106.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0106.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0107.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0107.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0108.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0108.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0109.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0109.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0110.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0110.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0111.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0111.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0112.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0112.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0113.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0113.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0114.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0114.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0115.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0115.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -599,26 +595,26 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
       <para><emphasis role="bold">112</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 112</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0116.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0116.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0117.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0117.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0118.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0118.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -633,43 +629,43 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">113</emphasis></para>
       <para><emphasis role="bold">Figure 2.</emphasis> Force by magnetic field spatial gradient. The product of the spatial gradient of  the magnetic and the magnetic field (BdB/dz) produces a large force that rises to a maxi- mum value around the entry point on either end of the magnet of the MR system. A plot  of BdB/dz for the 8-T whole-body magnetic field is shown here. The origin corresponds to  the center of the magnet.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0119.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0119.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 113</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0120.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0120.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0121.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0121.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0122.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0122.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0123.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0123.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -689,58 +685,58 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
       <para><emphasis role="bold">114</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 114</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0124.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0124.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0125.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0125.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0126.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0126.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0127.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0127.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0128.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0128.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0129.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0129.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0130.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0130.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -753,18 +749,18 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">115</emphasis></para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 115</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0131.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0131.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0132.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0132.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -786,18 +782,18 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">117</emphasis></para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 117</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0133.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0133.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0134.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0134.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -816,26 +812,26 @@ BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Pag</para><table frame="al
       <para><emphasis role="bold">118</emphasis> <emphasis role="bold">Bioeffects of Static Magnetic Fields</emphasis></para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 118</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0135.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0135.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0136.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0136.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0137.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0137.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>

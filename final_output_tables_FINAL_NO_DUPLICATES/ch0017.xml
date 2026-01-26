@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='utf-8'?>
 <chapter id="ch0017" label="17">
     <title>Chapter 17</title>
     <para><emphasis role="bold">Chapter 17</emphasis> <emphasis role="bold">Physiological Monitoring of Patients </emphasis> <emphasis role="bold">During MRI  </emphasis></para>
@@ -10,7 +9,7 @@
 itoring devices that can be safely utilized to record various physiological parameters in the 
 MRI environment. 
 Other organizations similarly recommend the need to monitor certain patients using 
-proper equipment and techniques in the MRI setting (36-38). Table 1</para><para>ethered” to prevent them from becoming projectiles. Fur-
+proper equipment and techniques in the MRI setting (36-38). Table 1</para><table frame="all"><title>summarizes the types</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:30 PM</entry><entry>Page 437</entry></row></tbody></tgroup></table><para>ethered” to prevent them from becoming projectiles. Fur-
 thermore, these devices must have prominent warning labels to inform MRI healthcare pro-
 fessionals and others that they should not move this equipment too close to the MR scanner. 
 440
@@ -24,14 +23,14 @@ Ventilators
 AliMed (www.alimed.com)
 Patient support equipment 
 Draeger Medical, Inc. (www.draeger.com)
-Ventilators</para><para>aindicated for some of 
+Ventilators</para><table frame="all"><title>List of manufacturers and suppliers of physiological monitors and support de-</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:30 PM</entry><entry>Page 440</entry></row></tbody></tgroup></table><table frame="all"><title>Recommendations to prevent excessive heating and possible burns in associa-</title><tgroup cols="2"><thead><row><entry>patient’s skin and transmit RF coil that is used for the MRI exam.</entry><entry>Alternatively, the transmit</entry></row></thead><tbody><row><entry>RF coil itself should be padded. There should be no direct contact between the patient’s skin</entry><entry /></row><row><entry>and the transmit RF body coil of the MR system. This may be accomplished by having the</entry><entry /></row><row><entry>patient place his/her arms over his/her head or by using elbow pads or foam padding be-</entry><entry /></row><row><entry>tween the patient’s tissue and the transmit RF body coil of the MR system. This is especially</entry><entry /></row><row><entry>important for MRI exams that use the transmit RF body coil or other large RF coils for</entry><entry /></row><row><entry>transmission of RF energy.</entry><entry /></row><row><entry>Use only electrically conductive devices, equipment, accessories (e.g., ECG leads, elec-</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>trodes, etc.), and materials that have been thoroughly tested and determined to be safe or</entry><entry /></row><row><entry>otherwise acceptable for MRI exams.</entry><entry /></row><row><entry>Carefully follow the MR Safe or MR Conditional criteria and recommendations for implants</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>and devices made from electrically-conductive materials (e.g., bone fusion stimulators, neu-</entry><entry /></row><row><entry>rostimulation systems, cardiac devices, cochlear implants, etc.).</entry><entry /></row><row><entry>Before using electrical equipment, check the integrity of the insulation and/or housing of all</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>components including surface RF coils, monitoring leads, cables, and wires. Preventive</entry><entry /></row><row><entry>maintenance should be practiced routinely for such equipment.</entry><entry /></row><row><entry>Remove all non-essential electrically conductive materials from the MR system prior to the</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>MRI exam (i.e., unused surface RF coils, ECG leads, EEG leads, cables, wires, etc.).</entry><entry /></row><row><entry>Keep electrically conductive materials that must remain in the MR system from directly con-</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>tacting the patient by placing thermal and/or electrical insulation between the conductive</entry><entry /></row><row><entry>material and the patient.</entry><entry /></row><row><entry>Keep electrically conductive materials that must remain within the transmit body RF coil or</entry><entry /></row><row><entry>•</entry><entry /></row><row><entry>other transmit RF coil from forming conductive loops. Note: The patient’s tissue is conduc-</entry><entry /></row><row><entry>tive and, therefore, may be involved in the formation of a conductive loop, which can be cir-</entry><entry /></row><row><entry>cular, U-shaped, or S-shaped.</entry><entry /></row><row><entry>Position electrically conductive materials to prevent “cross points”. A cross point is the point</entry><entry /></row></tbody></tgroup></table><table frame="all"><title>Monitoring Equipment and Support Devices</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:30 PM</entry><entry>Page 445</entry></row></tbody></tgroup></table><para>aindicated for some of 
 these conditions. For example, the use of GBCAs has emerged as an MRI safety concern 
 in patients with renal insufficiency because certain GBCAs have been implicated in causing 
 nephrogenic systemic fibrosis (NSF) and some gadolinium may be retained in the patient’s 
 body (16</para><para>Hence, the results of a glomerular filtration rate (GFR) test must be obtained 
 prior to a GBCA administration in patients with suspected renal insufficiency. This important 
 topic is discussed in considerable detail in another chapter of this textbook.  
-Questions #10 through #14 pertain to female </para></sect1>
+Questions #10 through #14 pertain to female </para><table frame="all"><title>).</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:30 PM</entry><entry>Page 454</entry></row></tbody></tgroup></table></sect1>
     <sect1 id="ch0017s02">
       <title>ALEXANDRA KARACOZOFF, MPH</title>
       <para>Associate Editor  Biomedical Research Publishing Group  Sacramento, CA</para>
@@ -92,10 +91,10 @@ Questions #10 through #14 pertain to female </para></sect1>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">441</emphasis></para>
       <para><emphasis role="bold">Figure 1.</emphasis> Examples of projectile-related accidents. (<emphasis role="bold">A, upper left</emphasis>) Cart with infusion  pumps and I.V. pole. (<emphasis role="bold">B, upper right</emphasis>) Crash cart. (<emphasis role="bold">C, lower left</emphasis>) Cart with infusion  pump, I.V. pole, and accessories. (<emphasis role="bold">D, lower right</emphasis>) Steel oxygen tank.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0339.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0339.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -107,26 +106,26 @@ Questions #10 through #14 pertain to female </para></sect1>
       <title>C D</title>
       <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:30 PM  Page 441</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0340.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0340.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0341.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0341.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0342.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0342.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -136,10 +135,10 @@ Questions #10 through #14 pertain to female </para></sect1>
       <para><emphasis role="bold">442</emphasis> <emphasis role="bold">Physiological Monitoring of Patients During MRI </emphasis></para>
       <para><emphasis role="bold">Figure 2.</emphasis> T1-weighted, MR image of a fluid-filled phantom showing substantial artifacts  related to electromagnetic interference associated with the operation of a monitor in the  MR system room.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0343.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0343.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -147,10 +146,10 @@ Questions #10 through #14 pertain to female </para></sect1>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">443</emphasis></para>
       <para><emphasis role="bold">Figure 3.</emphasis> Examples of burns caused by the inappropriate use of monitoring equipment.  (<emphasis role="bold">A</emphasis>) Multiple burns caused by unconnected ECG electrodes that were permitted to remain  on the patient during MRI. (<emphasis role="bold">B</emphasis>) Serious burn caused by the cable of an arterial blood pres- sure monitoring device that was in direct contact with the patient’s arm during MRI. (<emphasis role="bold">C</emphasis>)  Severe burn to the patient’s finger caused by the probe from an MR Unsafe pulse oxime- ter. (<emphasis role="bold">D</emphasis>) Severe burn to an infant’s arm caused by the probe from an MR Unsafe pulse  oximeter. (<emphasis role="bold">E</emphasis>) Severe burn to an infant’s finger caused by the probe from an MR Unsafe  pulse oximeter. (<emphasis role="bold">F</emphasis>) For the case shown in (<emphasis role="bold">E</emphasis>), the substantial tissue damage from the  burn required amputation of the finger.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0344.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0344.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -162,42 +161,42 @@ Questions #10 through #14 pertain to female </para></sect1>
       <para><emphasis role="bold">E</emphasis></para>
       <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:30 PM  Page 443</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0345.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0345.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0346.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0346.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0347.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0347.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0348.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0348.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0349.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0349.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -237,10 +236,10 @@ Questions #10 through #14 pertain to female </para></sect1>
       <para><emphasis role="bold">446</emphasis> <emphasis role="bold">Physiological Monitoring of Patients During MRI </emphasis></para>
       <para><emphasis role="bold">Figure 4.</emphasis> Electrocardiogram recorded in a patient in the MR system room: (<emphasis role="bold">Top panel</emphasis>)  Five-feet from a 1.5-Tesla MR system; (<emphasis role="bold">Middle panel</emphasis>) At isocenter; and (<emphasis role="bold">Bottom panel</emphasis>)  Inside the MR system during MRI. Note the augmented T-wave resulting from the in- duced flow potential as well as the other nonspecific changes caused by the static mag- netic field of the MR system. During MRI, there is severe distortion of the  electrocardiographic waveform.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0350.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0350.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -269,10 +268,10 @@ Questions #10 through #14 pertain to female </para></sect1>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">449</emphasis></para>
       <para><emphasis role="bold">Figure 5.</emphasis> (<emphasis role="bold">A, left</emphasis>) MR Conditional, laryngoscope showing the handle and different  blades. (<emphasis role="bold">B, right</emphasis>) Portable MR Conditional oxygen tank and suction system. These de- vices can be used in the MRI setting to manage the patient in the event of respiratory dis- tress.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0351.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0351.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -281,10 +280,10 @@ Questions #10 through #14 pertain to female </para></sect1>
       <title>A B</title>
       <para>BioRef 2021 V10 435-748_Layout 1  12/5/2021  3:30 PM  Page 449</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0352.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0352.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -294,10 +293,10 @@ Questions #10 through #14 pertain to female </para></sect1>
       <para><emphasis role="bold">450</emphasis> <emphasis role="bold">Physiological Monitoring of Patients During MRI </emphasis></para>
       <para><emphasis role="bold">Figure 6.</emphasis> Monitoring the patient’s heart rate and oxygen saturation in the MRI setting  using an MR Conditional pulse oximeter.  Note the waveform on the monitor that is rep- resentative of the pulsations that occur as blood moves through the vascular bed. The fre- quency of the pulsations is used to determine heart rate.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0353.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0353.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -309,10 +308,10 @@ Questions #10 through #14 pertain to female </para></sect1>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">451</emphasis></para>
       <para><emphasis role="bold">Figure 7.</emphasis> MR Conditional pulse oximeter that uses fiber-optic technology to continu- ously monitor oxygen saturation and heart rate (Nonin Medical, www.nonin.com).</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0354.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0354.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -339,10 +338,10 @@ Questions #10 through #14 pertain to female </para></sect1>
       <para><emphasis role="bold">454</emphasis> <emphasis role="bold">Physiological Monitoring of Patients During MRI </emphasis></para>
       <para><emphasis role="bold">Figure 8.</emphasis> Example of an MR Conditional, multi-parameter, physiological monitoring  system (Model 3880 MRI Patient Monitor, IRadimed, www.iradimed.com) used on a pa- tient being prepared to undergo an MRI examination. Note the MR Conditional infusion  pumps (Model 3860+ MRI Infusion Pump) mounted on the I.V. pole.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0355.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0355.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -354,10 +353,10 @@ Questions #10 through #14 pertain to female </para></sect1>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">455</emphasis></para>
       <para><emphasis role="bold">Figure 9.</emphasis> Example of an MR Conditional ventilator (pNeuton Pneumatic Ventilator,  Airon Corporation, www.aironusa.com). This device is a pneumatic ventilator and was  specially designed for use in the MRI setting.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0356.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0356.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -365,19 +364,19 @@ Questions #10 through #14 pertain to female </para></sect1>
       <para><emphasis role="bold">456</emphasis> <emphasis role="bold">Physiological Monitoring of Patients During MRI </emphasis></para>
       <para><emphasis role="bold">Figure 10.</emphasis> Example of an MR Conditional ventilator system. This equipment includes a  magnetic field strength alarm system (<emphasis role="bold">arrow</emphasis>) (GaussAlert, Kopp Development Inc.,  www.koppdevelopment.com) that is designed to help keep MR Conditional equipment  outside of a particular MRI exclusion zone (e.g., 300-gauss).</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0357.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0357.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <para><emphasis role="bold">Figure 11.</emphasis> Example of an MR Conditional gas anesthesia machine and related acces- sories.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0358.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0358.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>

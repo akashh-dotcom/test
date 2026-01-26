@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='utf-8'?>
 <chapter id="ch0006" label="6">
     <title>Chapter 6</title>
     <para><emphasis role="bold">Chapter 6</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI </emphasis> <emphasis role="bold">Procedures </emphasis></para>
@@ -17,11 +16,11 @@ Changes in cochlear perception of
 auditory stimuli (intensity and fre-
 quency). Confined to auditory 
 fMRI.
-Table 1.</para><para>ower.  
+Table 1.</para><table frame="all"><title>A summary of potential issues with unwanted acoustic noise in fMRI (14). Re-</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:19 PM</entry><entry>Page 158</entry></row></tbody></tgroup></table><para>ower.  
 The sound level that is measured depends not only on the source, but also the environ-
 ment (e.g., the proximity of surfaces that may reflect sound). Thus, sound levels are usually 
 quoted in terms of sound pressure level (SPL), which accounts for the environment of the 
-measurement. Table 2</para><para> Patient Management
+measurement. Table 2</para><table frame="all"><title>displays a range of sound pressure levels for some typical sources</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:19 PM</entry><entry>Page 159</entry></row></tbody></tgroup></table><para> Patient Management
 161
 Sound Pressure Level (dB)
 Typical Sound Sources
@@ -46,7 +45,7 @@ Whisper
 0
 Threshold of hearing
 Table 2.</para><para>coustic noise.
-BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 161</para><para>on  
+BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 161</para><table frame="all"><title>Sound pressure level for some typical sources of acoustic noise.</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:19 PM</entry><entry>Page 161</entry></row></tbody></tgroup></table><para>on  
  
 where teff is the duration of the dB/dt pulse (Figure 19). Alternatively, an E-field 
 rheobase of 2.2-V/m may be used. 
@@ -55,66 +54,67 @@ search mode, subject to Institutional Review Board (IRB) or ethics committee app
 operational modes in a similar manner with identical limits (57). 
 Gradient weighting-factors are applied to the scanner’s stimulation prediction monitor 
 to account for the different sensitivities of each axis: WAP = 1.0, WLR = 0.8, WHF = 0.7 
-where AP, HF, and</para><table frame="all">
-  <title/>
+where AP, HF, and</para><table frame="all"><title>The International Commission on Non-Ionizing Radiation Pro-</title><tgroup cols="4"><tbody><row><entry>Table 3. Occupational noise action values and limits (adapted from reference 80).</entry><entry>Repro-</entry><entry /><entry /></row><row><entry>duced by permission, HMSO (Open Government License).</entry><entry /><entry /><entry /></row><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:19 PM</entry><entry>Page 171</entry></row></tbody></tgroup></table></sect1>
+    <sect1 id="ch0006s02">
+      <title>INTRODUCTION</title>
+      <para>During the operation of the magnetic resonance (MR) system, various types of acoustic  noises are produced. The problems associated with acoustic noise for patients and healthcare  workers are wide ranging, from simple annoyance and difficulties in verbal communication  between staff and patients, to heightened anxiety or discomfort, and even potentially per- manent hearing impairment (1-9). Acoustic noise may pose a particular problem for specific  patient groups that may be at increased risk. For example, patients with head injuries or  psychiatric disorders, the elderly, young children, and infants may be confused or suffer  from heightened anxiety during MRI procedures (2). Patients taking medications may ex- perience increased hearing sensitivity (3). Additionally, neonates with immature anatomical  development may be at increased risk for adverse effects associated with acoustic noise.  For example, significant fluctuations in vital signs of newborns have been reported during  magnetic resonance imaging (MRI) examinations, which may partly be attributable to  acoustic noise (4). High levels of acoustic noise may also impact the quality of the MRI  procedure by causing distress in the patient.</para>
+      <table frame="all">
+  <title />
   <tgroup cols="3">
-    <colspec colname="c1"/>
-    <colspec colname="c2"/>
-    <colspec colname="c3"/>
+    <colspec colname="c1" />
+    <colspec colname="c2" />
+    <colspec colname="c3" />
     <thead>
       <row>
-        <entry>Mechanism</entry>
-        <entry/>
-        <entry>Characteristics</entry>
+        <entry>Action Level</entry>
+        <entry>Daily or Weekly Personal Exposure dB(A) (average value)</entry>
+        <entry>Peak Sound Pressure, dB</entry>
       </row>
     </thead>
     <tbody>
       <row>
-        <entry morerows="1">Direct confounding</entry>
-        <entry>Intra-acquisition response</entry>
-        <entry>Activation by scanner noise within same volume acquisition. Primarily interfering with auditory fMRI.</entry>
+        <entry>Lower exposure value</entry>
+        <entry>80</entry>
+        <entry>135</entry>
       </row>
       <row>
-        <entry>Inter-acquisition response</entry>
-        <entry>Activation by scanner noise of preceding volume acquisition. Primarily interfering with auditory fMRI.</entry>
+        <entry>Upper exposure value</entry>
+        <entry>85</entry>
+        <entry>137</entry>
       </row>
       <row>
-        <entry morerows="6">Indirect confounding</entry>
-        <entry>Attention</entry>
-        <entry>Increased activation in attention-related cortical areas.</entry>
-      </row>
-      <row>
-        <entry>Distraction</entry>
-        <entry>Decreased activation in cortical areas by (inter-modal) distraction.</entry>
-      </row>
-      <row>
-        <entry>Habituation</entry>
-        <entry>Slowly developing adaption-related loss of attention. May be advantageous in noisy environments.</entry>
-      </row>
-      <row>
-        <entry>Motion artifacts</entry>
-        <entry>Not substantially related to scanner noise.</entry>
-      </row>
-      <row>
-        <entry>Masking</entry>
-        <entry>Overlap of spectral components of scanner noise and auditory stimuli. Confined to auditory fMRI.</entry>
-      </row>
-      <row>
-        <entry>Stapedial muscle reflex</entry>
-        <entry>Changes in cochlear perception of auditory stimuli (intensity and frequency). Confined to auditory fMRI.</entry>
-      </row>
-      <row>
-        <entry>Temporary hearing loss</entry>
-        <entry>Changes in cochlear perception of auditory stimuli (intensity and frequency). Confined to auditory fMRI.</entry>
+        <entry>Exposure limit values</entry>
+        <entry>87</entry>
+        <entry>140</entry>
       </row>
     </tbody>
   </tgroup>
-</table>
-    <table frame="all">
-  <title/>
+</table><para>Due to several of the issues listed above and the more specific issues discussed below,  acoustic noise levels also pose a significant problem for one particular area of MRI: the in- creasing amount of research in functional MRI (fMRI) studies of brain activation. Typically,  patients and volunteer subjects will be provided earplugs to wear during fMRI. However,  these may impair vocal communication with staff members and also the perception of study  stimuli. The acoustic noise associated with fMRI procedures can often be comparatively  loud, as the use of fast acquisition sequences (e.g., echo planar imaging, EPI) are normally  used. Acoustic noise can often lead to motion-related artifacts and degraded image quality.  Furthermore, acoustic noise has been reported to interfere with auditory functional studies,</para>
+      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 157</para>
+      <para>and more broadly, with cross modal neural activity (10-14). A summary of the potential is- sues related to the acoustic noise that is associated with fMRI is shown in <emphasis role="bold">Table 1</emphasis>.</para>
+      <para>MR system-related acoustic noise will interfere with the communication of activation  task instructions that often must be provided during scanning. One area of particular interest  is the study of auditory and language function (13). In this work, the response to pure tone  stimuli is analyzed. Therefore, any background levels of unwanted or uncontrolled acoustic  noise can interfere with the delivery of these sound stimuli and affect experimental integrity.  Solutions specific to controlling acoustic noise exposure during fMRI are generally se- quence-related and a full discussion of this topic is presented later in this chapter.</para>
+      <para>Acoustic noise levels during echo planar imaging have been reported to significantly  increase pure tone hearing thresholds in the optimal frequency hearing range (0- to 8-kHz)  (15). These effects vary across the frequency range and the threshold changes depend on  the characteristics of the sequence-generated acoustic noise. It may be possible to take into  account, or adjust for, the MR system-induced auditory activation by using a control series</para>
+      <para><emphasis role="bold">158</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
+      <para><emphasis role="bold">Mechanism</emphasis> <emphasis role="bold">Characteristics</emphasis></para>
+      <para>Direct confounding Intra-acquisition response</para>
+      <para>Activation by scanner noise within  same volume acquisition. Prima- rily interfering with auditory  fMRI.</para>
+      <para>Inter-acquisition response</para>
+      <para>Activation by scanner noise of  preceding volume acquisition.   Primarily interfering with auditory  fMRI.</para>
+      <para>Indirect confounding Attention Increased activation in attention- related cortical areas.</para>
+      <para>Distraction Decreased activation in cortical  areas by (inter-modal) distraction.</para>
+      <para>Habituation</para>
+      <para>Slowly developing adaption-re- lated loss of attention. May be ad- vantageous in noisy environments.</para>
+      <para>Motion artifacts Not substantially related to scan- ner noise.</para>
+      <para>Masking</para>
+      <para>Overlap of spectral components of  scanner noise and auditory stimuli.  Confined to auditory fMRI.</para>
+      <para>Stapedial muscle reflex</para>
+      <para>Changes in cochlear perception of  auditory stimuli (intensity and fre- quency). Confined to auditory  fMRI.</para>
+      <para>Temporary hearing loss</para>
+      <table frame="all">
+  <title />
   <tgroup cols="2">
-    <colspec colname="c1"/>
-    <colspec colname="c2"/>
+    <colspec colname="c1" />
+    <colspec colname="c2" />
     <thead>
       <row>
         <entry>Sound Pressure Level (dB)</entry>
@@ -164,65 +164,7 @@ where AP, HF, and</para><table frame="all">
       </row>
     </tbody>
   </tgroup>
-</table>
-    <table frame="all">
-  <title/>
-  <tgroup cols="3">
-    <colspec colname="c1"/>
-    <colspec colname="c2"/>
-    <colspec colname="c3"/>
-    <thead>
-      <row>
-        <entry>Action Level</entry>
-        <entry>Daily or Weekly Personal Exposure dB(A) (average value)</entry>
-        <entry>Peak Sound Pressure, dB</entry>
-      </row>
-    </thead>
-    <tbody>
-      <row>
-        <entry>Lower exposure value</entry>
-        <entry>80</entry>
-        <entry>135</entry>
-      </row>
-      <row>
-        <entry>Upper exposure value</entry>
-        <entry>85</entry>
-        <entry>137</entry>
-      </row>
-      <row>
-        <entry>Exposure limit values</entry>
-        <entry>87</entry>
-        <entry>140</entry>
-      </row>
-    </tbody>
-  </tgroup>
-</table>
-    </sect1>
-    <sect1 id="ch0006s02">
-      <title>INTRODUCTION</title>
-      <para>During the operation of the magnetic resonance (MR) system, various types of acoustic  noises are produced. The problems associated with acoustic noise for patients and healthcare  workers are wide ranging, from simple annoyance and difficulties in verbal communication  between staff and patients, to heightened anxiety or discomfort, and even potentially per- manent hearing impairment (1-9). Acoustic noise may pose a particular problem for specific  patient groups that may be at increased risk. For example, patients with head injuries or  psychiatric disorders, the elderly, young children, and infants may be confused or suffer  from heightened anxiety during MRI procedures (2). Patients taking medications may ex- perience increased hearing sensitivity (3). Additionally, neonates with immature anatomical  development may be at increased risk for adverse effects associated with acoustic noise.  For example, significant fluctuations in vital signs of newborns have been reported during  magnetic resonance imaging (MRI) examinations, which may partly be attributable to  acoustic noise (4). High levels of acoustic noise may also impact the quality of the MRI  procedure by causing distress in the patient.</para>
-      <para>Due to several of the issues listed above and the more specific issues discussed below,  acoustic noise levels also pose a significant problem for one particular area of MRI: the in- creasing amount of research in functional MRI (fMRI) studies of brain activation. Typically,  patients and volunteer subjects will be provided earplugs to wear during fMRI. However,  these may impair vocal communication with staff members and also the perception of study  stimuli. The acoustic noise associated with fMRI procedures can often be comparatively  loud, as the use of fast acquisition sequences (e.g., echo planar imaging, EPI) are normally  used. Acoustic noise can often lead to motion-related artifacts and degraded image quality.  Furthermore, acoustic noise has been reported to interfere with auditory functional studies,</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 157</para>
-      <para>and more broadly, with cross modal neural activity (10-14). A summary of the potential is- sues related to the acoustic noise that is associated with fMRI is shown in <emphasis role="bold">Table 1</emphasis>.</para>
-      <para>MR system-related acoustic noise will interfere with the communication of activation  task instructions that often must be provided during scanning. One area of particular interest  is the study of auditory and language function (13). In this work, the response to pure tone  stimuli is analyzed. Therefore, any background levels of unwanted or uncontrolled acoustic  noise can interfere with the delivery of these sound stimuli and affect experimental integrity.  Solutions specific to controlling acoustic noise exposure during fMRI are generally se- quence-related and a full discussion of this topic is presented later in this chapter.</para>
-      <para>Acoustic noise levels during echo planar imaging have been reported to significantly  increase pure tone hearing thresholds in the optimal frequency hearing range (0- to 8-kHz)  (15). These effects vary across the frequency range and the threshold changes depend on  the characteristics of the sequence-generated acoustic noise. It may be possible to take into  account, or adjust for, the MR system-induced auditory activation by using a control series</para>
-      <para><emphasis role="bold">158</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
-      <para><emphasis role="bold">Mechanism</emphasis> <emphasis role="bold">Characteristics</emphasis></para>
-      <para>Direct confounding Intra-acquisition response</para>
-      <para>Activation by scanner noise within  same volume acquisition. Prima- rily interfering with auditory  fMRI.</para>
-      <para>Inter-acquisition response</para>
-      <para>Activation by scanner noise of  preceding volume acquisition.   Primarily interfering with auditory  fMRI.</para>
-      <para>Indirect confounding Attention Increased activation in attention- related cortical areas.</para>
-      <para>Distraction Decreased activation in cortical  areas by (inter-modal) distraction.</para>
-      <para>Habituation</para>
-      <para>Slowly developing adaption-re- lated loss of attention. May be ad- vantageous in noisy environments.</para>
-      <para>Motion artifacts Not substantially related to scan- ner noise.</para>
-      <para>Masking</para>
-      <para>Overlap of spectral components of  scanner noise and auditory stimuli.  Confined to auditory fMRI.</para>
-      <para>Stapedial muscle reflex</para>
-      <para>Changes in cochlear perception of  auditory stimuli (intensity and fre- quency). Confined to auditory  fMRI.</para>
-      <para>Temporary hearing loss</para>
-      <para>Changes in cochlear perception of  auditory stimuli (intensity and fre- quency). Confined to auditory  fMRI.</para>
+</table><para>Changes in cochlear perception of  auditory stimuli (intensity and fre- quency). Confined to auditory  fMRI.</para>
       <para><emphasis role="bold">Table 1.</emphasis> A summary of potential issues with unwanted acoustic noise in fMRI (14). Re- produced by permission, Wiley - John Wiley and Son Publishers, NY</para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 158</para>
       <para>of scans during task paradigms. Results have been reported on mapping auditory activation  induced by MR system-induced acoustic noise (16).</para>
@@ -240,19 +182,19 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">160</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
       <para><emphasis role="bold">Figure 2.</emphasis> The frequency response of the human ear. The dashed line shows the relative  frequency response of the human ear and the solid line shows the A-weighted filter ap- proximation to this response (18). Reproduced by permission through the HMSO Open  Government License.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0181.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0181.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <para><emphasis role="bold">Figure 1.</emphasis> The main components of the human hearing mechanism.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0182.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0182.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -274,7 +216,61 @@ where AP, HF, and</para><table frame="all">
       <para>30 Whisper</para>
       <para>0 Threshold of hearing</para>
       <para><emphasis role="bold">Table 2.</emphasis> Sound pressure level for some typical sources of acoustic noise.</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 161</para>
+      <table frame="all">
+  <title />
+  <tgroup cols="3">
+    <colspec colname="c1" />
+    <colspec colname="c2" />
+    <colspec colname="c3" />
+    <thead>
+      <row>
+        <entry>Mechanism</entry>
+        <entry />
+        <entry>Characteristics</entry>
+      </row>
+    </thead>
+    <tbody>
+      <row>
+        <entry morerows="1">Direct confounding</entry>
+        <entry>Intra-acquisition response</entry>
+        <entry>Activation by scanner noise within same volume acquisition. Primarily interfering with auditory fMRI.</entry>
+      </row>
+      <row>
+        <entry>Inter-acquisition response</entry>
+        <entry>Activation by scanner noise of preceding volume acquisition. Primarily interfering with auditory fMRI.</entry>
+      </row>
+      <row>
+        <entry morerows="6">Indirect confounding</entry>
+        <entry>Attention</entry>
+        <entry>Increased activation in attention-related cortical areas.</entry>
+      </row>
+      <row>
+        <entry>Distraction</entry>
+        <entry>Decreased activation in cortical areas by (inter-modal) distraction.</entry>
+      </row>
+      <row>
+        <entry>Habituation</entry>
+        <entry>Slowly developing adaption-related loss of attention. May be advantageous in noisy environments.</entry>
+      </row>
+      <row>
+        <entry>Motion artifacts</entry>
+        <entry>Not substantially related to scanner noise.</entry>
+      </row>
+      <row>
+        <entry>Masking</entry>
+        <entry>Overlap of spectral components of scanner noise and auditory stimuli. Confined to auditory fMRI.</entry>
+      </row>
+      <row>
+        <entry>Stapedial muscle reflex</entry>
+        <entry>Changes in cochlear perception of auditory stimuli (intensity and frequency). Confined to auditory fMRI.</entry>
+      </row>
+      <row>
+        <entry>Temporary hearing loss</entry>
+        <entry>Changes in cochlear perception of auditory stimuli (intensity and frequency). Confined to auditory fMRI.</entry>
+      </row>
+    </tbody>
+  </tgroup>
+</table><para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 161</para>
       <para>of inner ear damage. That is, destruction of the hair cells that convert acoustic energy to  electrical impulses transmitted via the nervous system to the brain. These cells cannot re- generate and, therefore, the damage is irreversible. This damage is similar to age-related  hearing loss (presbycusis) in that it progresses slowly, with the affected hearing threshold  rising. Mean hearing loss is a function of noise frequency and duration (20). Permanent  damage is primarily a risk for prolonged daily exposure to loud (&gt;85-dB) occupational noise  or short impulsive noise around 140-dB. Excessive noise is known to be one of the most  common causes of hearing loss (20). The risk of hearing damage increases with the noise  level, duration of the noise, the number of exposures to the noise, and the susceptibility of  the individual (20, 21). Along with sensitive groups, children have a lower threshold for  hearing damage and, therefore, restricting exposure levels to around 120-dB or lower is  recommended (22). It is generally accepted that exposure to noise levels up to a maximum  of 75-dBA will not result in PTS irrespective of the duration of exposure (22). Over the  years, several instances of noise-related incidents have been reported in the literature (see  below).</para>
       <para><emphasis role="bold">Noise That Is Not Perceived By the Ear Canal </emphasis></para>
       <para>The ear canal is not the only path for transmission of sound to the cochlea. Sound may  be conducted via air and bone conduction, through the ear canal, head, and body. Protection  of the ear canal via earplugs will, thus, never lead to silence, due to the remaining sound  conduction via the other paths. Sound can be conducted directly to the cochlea, to the middle  ear and then to the cochlea, or through the walls of the middle ear, along the ear canal to  the middle ear, and then to the cochlea (23). When the ear canal is relatively unprotected,  this path will be the dominant one for perception of sound. However, as noise is attenuated  along the ear canal, the other paths become increasingly dominant and further hearing pro- tection measures will have little effect on the residual noise. Using a helmet in addition to  conventional earplugs and “defenders”, Ravicz and Melcher, (24) studied the impact of iso- lating the head and ear canal from sound. Isolating the head enabled the original noise at- tenuation of 39- to 41-dB to increase to 55- to 63-dB.</para>
@@ -296,10 +292,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">163</emphasis></para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 163</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0183.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0183.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -316,10 +312,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">165</emphasis></para>
       <para><emphasis role="bold">Figure 3.</emphasis> Octave band spectra for two MR systems: 1-T Siemens Impact (black squares)  and a 1.5-T Siemens Magnetom (open squares). Measurements obtained on these MR  systems show that the peaks in noise intensity are at approximately 200-Hz (45).</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0184.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0184.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -331,10 +327,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">166</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
       <para><emphasis role="bold">Figure 4.</emphasis> Measured acoustic noise for an echo planar imaging (EPI) pulse sequence.  Acoustic noise spectrum at the right ear (53). Reproduced by permission, Wiley - John  Wiley and Son Publishers, NY.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0185.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0185.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -345,10 +341,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">167</emphasis></para>
       <para><emphasis role="bold">Figure 5.</emphasis> Relationship between the operating acoustic noise at the left ear and gradient  pulse waveform for an EPI pulse sequence. Data is shown for each separate gradient and  the associated noise spectral peaks (53). Reproduced by permission, Wiley - John Wiley  and Son Publishers, NY.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0186.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0186.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -360,10 +356,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">168</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
       <para><emphasis role="bold">Figure 6.</emphasis> Gradient trapezoidal current excitation and acoustic noise response. (a) Trape- zoidal current waveform time series. The signal consisted of a series of simple trape- zoidal gradient pulses. (b) Fourier transform of trapezoidal time series, and (c) measured  acoustic response (47). Reproduced by permission, Wiley - John Wiley and Son Publish- ers, NY.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0187.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0187.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -375,19 +371,19 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">169</emphasis></para>
       <para><emphasis role="bold">Figure 7.</emphasis> Predicted (top) and measured (bottom) acoustic noise spectrums, SPL, for a  fast spin echo (FSE) pulse sequence. Overall predicted and measured levels were 93.1-  and 92.7-dB respectively. Good agreement over a broad spectral range is evident (47).   Reproduced by permission, Wiley - John Wiley and Son Publishers, NY.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0188.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0188.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 169</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0189.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0189.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -450,10 +446,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">175</emphasis></para>
       <para><emphasis role="bold">Figure 8.</emphasis> Noise attenuation for several commercial earplugs and ear defenders. Note the  significant variability in attenuation at low frequencies. Reproduced by permission, the  3M<superscript>TM</superscript> Company. E.A.R. Classic<superscript>TM</superscript> and E.A.R. Ultrafit<superscript>TM</superscript> are trademarks of the 3M<superscript>TM</superscript>  Company.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0190.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0190.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -474,10 +470,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">177</emphasis></para>
       <para><emphasis role="bold">Figure 9.</emphasis> Principle of sound attenuation using anti-phase noise to create a zone of quiet.  This diagram shows a noise (periodic) source and synthesized anti-phase noise interfering  destructively in a specific region to produce a zone of quiet.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0191.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0191.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -496,10 +492,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">179</emphasis></para>
       <para><emphasis role="bold">Figure 10.</emphasis> Results of noise cancellation for a typical clinical spin echo pulse sequence.  Noise level spectra before (dotted line) and after cancellation (solid line) are shown for  time and frequency domain spectra. A major disadvantage of this technique is that, if per- formed below optimal efficiency, at certain frequencies or in some spatial regions, noise  levels may be enhanced rather than attenuated by the superposition of the additional anti- noise control (ANC) (114). Reproduced by permission, Elsevier, Philadelphia, PA.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0192.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0192.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -511,10 +507,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">180</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
       <para><emphasis role="bold">Figure 11.</emphasis> Reduction in vibrational amplitudes with active vibration control (AVC). Re- sults are shown for no control, case 1 (non-optimized control), and case 2 (optimized con- trol)(126). Reproduced by permission, Institute of Physics Publishing.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0193.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0193.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -533,10 +529,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">181</emphasis></para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 181</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0194.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0194.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -547,10 +543,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">182</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
       <para><emphasis role="bold">Figure 12.</emphasis> The efficiency of soft gradient pulses. Magnitude spectra are shown (with an  arbitrary linear scale) for the sound generated by the readout gradient of a FLASH (i.e.,  fast gradient echo) pulse sequence. Data was acquired with a linear ramp, 0.5-msec dura- tion (top plot) and sinusoidal ramp duration 4-msec (lower plot). With the sinusoidal  ramping, high frequency acoustic components above 500-Hz are severely attenuated  (133). Reproduced by permission, Wiley - John Wiley and Son Publishers, NY.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0195.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0195.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -561,10 +557,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">183</emphasis></para>
       <para><emphasis role="bold">Figure 13. </emphasis>Acoustic noise levels for gradient-echo (a) and spin-echo (b) pulse sequences  measured as a function of echo time (TE, milliseconds) at 3-T. The top lines in the graphs  correspond to sequences using soft (S) gradient pulses. The middle lines in the graphs  show sequences with linear (L) ramps of maximum duration. The bottom lines in the  graphs show standard sequence default settings. The dashed line is the level of ambient  room noise from the air-conditioning system (133). Reproduced by permission, Wiley -  John Wiley and Son Publishers, NY.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0196.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0196.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -573,19 +569,19 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">184</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
       <para><emphasis role="bold">Figure 14.</emphasis> Optimized use of soft gradient pulses for two fast imaging sequences: (Top)  FLASH sequence, (Bottom) RARE sequence. In each case, three types of gradient wave- form are compared: (a) hard trapezoidal, (b) older style soft waveforms designed accord- ing to (133), and (c) new soft waveforms designed according to (134).  Reproduced by  permission, Wiley - John Wiley and Son Publishers, NY.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0197.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0197.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 184</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0198.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0198.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -616,10 +612,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">187</emphasis></para>
       <para><emphasis role="bold">Figure 15.</emphasis> Left: Pulse sequence diagram for one repetition of the radial part of the  PETRA sequence. Gradients are held constant during almost an entire repetition time  (TR) period and altered only slightly at the end of each repetition without being ramped  down. This very low gradient activity leads to minimal acoustic noise. Tsw is the time re- quired to switch from transmission mode to receive mode. Right: During Tsw, a spherical  volume of data, Spw is missed, and that data is collected separately, point-wise. Redrawn  from Ida, et al. (159).</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0199.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0199.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -653,10 +649,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">191</emphasis></para>
       <para><emphasis role="bold">Figure 16.</emphasis> Examples of design configurations for active-passive gradient shielding sys- tems (187). Reproduced by permission, Wiley - John Wiley and Son Publishers, NY.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0200.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0200.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -676,10 +672,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">193</emphasis></para>
       <para><emphasis role="bold">Figure 17. </emphasis>(a) Diagram representing two coupled line elements of conductor, dl, of equal  mass, m, carrying equal and opposite currents. The center of mass of the system remains  fixed if the spring constants, <emphasis role="italics">K</emphasis>, are equal. The system is placed in a magnetic field <emphasis role="bold">B</emphasis>,  which gives rise to the forces, <emphasis role="italics">F</emphasis>, causing displacements. (b) Rectangular conductor loop  carrying a current, <emphasis role="italics">I</emphasis>, placed in a magnetic field <emphasis role="bold">B</emphasis>, such that the loop plane is normal <emphasis role="bold">B</emphasis>.  All forces <emphasis role="italics">F</emphasis> and <emphasis role="italics">F’</emphasis> are balanced, provided the plane of the coil is oriented perpendicular  to the magnetic field direction. If these coils are coupled to similar others via non-com- pressive struts, then all forces in the system are balanced. If non-compressive materials  are used, the conductors cannot move and no sound is generated (192). Reproduced by  permission, Institute of Physics Publishing.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0201.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0201.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -695,10 +691,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">194</emphasis> <emphasis role="bold">Acoustic Noise Associated With MRI Procedures</emphasis></para>
       <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:19 PM  Page 194</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0202.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0202.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>
@@ -708,10 +704,10 @@ where AP, HF, and</para><table frame="all">
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">195</emphasis></para>
       <para><emphasis role="bold">Figure 18.</emphasis> A plot showing SPL and attenuation <emphasis role="bold">A</emphasis> dB versus f for a test coil. Curve <emphasis role="bold">A</emphasis> cor- responds to the radiated sound received when one coil only is powered. Curve <emphasis role="bold">B</emphasis> is the re- duced level when two coils are powered in balanced mode. Curve <emphasis role="bold">C</emphasis> is the resultant sound  attenuation (the difference between <emphasis role="bold">A</emphasis> and <emphasis role="bold">B</emphasis>) and curve <emphasis role="bold">D</emphasis> is the theoretical prediction.  The results of attenuation levels agree reasonably well with a theoretical prediction  (curve <emphasis role="bold">D</emphasis>)(192). Reproduced by permission, Institute of Physics Publishing.</para>
       <figure>
-        <title/>
+        <title />
         <mediaobject>
           <imageobject>
-            <imagedata fileref="fig0203.png" width="100%" scalefit="1"/>
+            <imagedata fileref="fig0203.png" width="100%" scalefit="1" />
           </imageobject>
         </mediaobject>
       </figure>

@@ -1,0 +1,362 @@
+
+Step 1: Extracting all tables from PDF...
+====================================================================================================
+EXTRACTING ALL TABLES FROM PDF
+====================================================================================================
+
+Scanning 1019 pages...
+  Progress: 100/1019
+  Progress: 200/1019
+  Progress: 300/1019
+  Progress: 400/1019
+  Progress: 500/1019
+  Progress: 600/1019
+  Progress: 700/1019
+  Progress: 800/1019
+  Progress: 900/1019
+  Progress: 1000/1019
+
+✓ Found 133 unique tables in PDF
+
+Step 2: Analyzing existing tables in XML...
+✓ Found 97 existing tables in XML
+
+Step 3: Identifying missing tables...
+
+====================================================================================================
+IDENTIFYING MISSING TABLES
+====================================================================================================
+  Missing: Page 21, Chapter 1, Table 1 - lists the approximate
+  Missing: Page 22, Chapter 1, Table 1 - , it is shown that this range is in the radiofrequ
+  Missing: Page 25, Chapter 1, Table 2 - ).
+  Missing: Page 27, Chapter 1, Table 3 - ). The value of T2 is unique for every kind of tis
+  Page 42: Cannot determine chapter - skipping
+  Missing: Page 53, Chapter 2, Table 1 - below gives the suscepti-
+  Missing: Page 61, Chapter 2, Table 2 - Force index of common objects.
+  Missing: Page 98, Chapter 11, Table 1 - provides a brief overview of properties that chang
+  Missing: Page 103, Chapter 3, Table 2 - gives an overview of safety assessments of passive
+  Missing: Page 114, Chapter 4, Table 1 - ) (3).
+  Missing: Page 116, Chapter 4, Table 2 - (106-115). In this table, the timing of major incr
+  Missing: Page 128, Chapter 4, Table 3 - Also, the asymptotic limits
+  Missing: Page 131, Chapter 4, Table 3 - , demonstrates that the magnitude of the torque ac
+  Page 135: Cannot determine chapter - skipping
+  Missing: Page 165, Chapter 5, Table 2 - shows a summary of PNS studies using this alternat
+  Missing: Page 175, Chapter 6, Table 1 - A summary of potential issues with unwanted acoust
+  Missing: Page 176, Chapter 6, Table 2 - displays a range of sound pressure levels for some
+  Missing: Page 178, Chapter 6, Table 2 - Sound pressure level for some typical sources of a
+  Missing: Page 188, Chapter 6, Table 3 - The International Commission on Non-Ionizing Radia
+  Missing: Page 238, Chapter 7, Table 1 - lists local SAR levels required to
+  Missing: Page 272, Chapter 9, Table 1 - Limits to RF exposure in MRI equipment (2). For gl
+  Missing: Page 277, Chapter 9, Table 2 - ), but that data is
+  Missing: Page 280, Chapter 9, Table 2 - (estimated 1 clo, room temperature not specified b
+  Missing: Page 309, Chapter 9, Table 1 - (3-5, 7, 9, 11, 12,
+  Missing: Page 315, Chapter 10, Table 1 - should be attempted for these patients before elec
+  Missing: Page 326, Chapter 8, Table 1 - ).
+  Missing: Page 326, Chapter 8, Table 2 - Safety of MRI in pregnancy: Non-adverse outcomes i
+  Missing: Page 327, Chapter 8, Table 4 - Safety of MRI in pregnancy:  Non-adverse outcomes 
+  Missing: Page 328, Chapter 8, Table 5 - Currently approved MRI contrast agents.
+  Missing: Page 329, Chapter 8, Table 6 - Safety of gadolinium-based MRI contrast agents in 
+  Missing: Page 330, Chapter 8, Table 5 - ).  Massive doses of these agents have been shown 
+  Missing: Page 330, Chapter 8, Table 6 - ) and (56-64) (Table 7)]. Thus,
+  Missing: Page 330, Chapter 8, Table 7 - Safety of non-gadolinium-based MRI contrast agents
+  Missing: Page 331, Chapter 8, Table 6 - It is predictable that the dissociation of the gad
+  Missing: Page 351, Chapter 4, Table 1 - Type and severity of acute adverse reactions to ga
+  Missing: Page 353, Chapter 4, Table 2 - ) have been rec-
+  Missing: Page 354, Chapter 4, Table 2 - Suitable premedication regimens (adapted from Refe
+  Missing: Page 355, Chapter 4, Table 3 - , this list includes but is not
+  Missing: Page 357, Chapter 4, Table 4 - and Table 5, include infor-
+  Missing: Page 373, Chapter 13, Table 1 - , more (major) and less (minor) frequent clinical 
+  Missing: Page 375, Chapter 13, Table 1 - Clinical findings for the diagnosis of nephrogenic
+  Page 444: Cannot determine chapter - skipping
+  Page 445: Cannot determine chapter - skipping
+  Missing: Page 454, Chapter 17, Table 1 - summarizes the types
+  Missing: Page 457, Chapter 17, Table 2 - List of manufacturers and suppliers of physiologic
+  Missing: Page 461, Chapter 17, Table 3 - Recommendations to prevent excessive heating and p
+  Missing: Page 462, Chapter 17, Table 3 - Monitoring Equipment and Support Devices
+  Missing: Page 471, Chapter 17, Table 2 - ).
+  Page 472: Cannot determine chapter - skipping
+  Missing: Page 480, Chapter 4, Table 1 - and Table 2.
+  Missing: Page 480, Chapter 4, Table 2 - Possible MRI-related risks for active implants.
+  Missing: Page 486, Chapter 4, Table 3 - presents techniques that may be used to reduce
+  Missing: Page 493, Chapter 4, Table 4 - ). Notably, the previous
+  Missing: Page 494, Chapter 5, Table 4 - Guidelines for the management of patients with cor
+  Missing: Page 496, Chapter 18, Table 5 - ).
+  Missing: Page 497, Chapter 18, Table 5 - Guidelines for the management of patients with hea
+  Page 499: Cannot determine chapter - skipping
+  Page 501: Cannot determine chapter - skipping
+  Page 502: Cannot determine chapter - skipping
+  Missing: Page 517, Chapter 24, Table 1 - ). First, ferromagnetic content in the device is s
+  Missing: Page 538, Chapter 24, Table 1 - Qualitative comparison of RF-induced and gradient 
+  Missing: Page 538, Chapter 24, Table 2 - Maximum temperature elevation ΔTmax versus positio
+  Missing: Page 539, Chapter 24, Table 1 - A graphical illus-
+  Missing: Page 573, Chapter 21, Table 1 - Figure 2 also illustrates
+  Missing: Page 574, Chapter 21, Table 1 - Potential patient hazards and corresponding test m
+  Missing: Page 575, Chapter 21, Table 2 - includes a detailed view on one way an
+  Missing: Page 577, Chapter 21, Table 3 - Evaluation of the AIMDs for MRI Hazards Involves B
+  Missing: Page 581, Chapter 21, Table 3 - ), Tier 3 modeling re-
+  Missing: Page 610, Chapter 22, Table 1 - lists measured and calculated rises for the three 
+  Missing: Page 610, Chapter 22, Table 2 - lists measured and calculated tem-
+  Page 611: Cannot determine chapter - skipping
+  Page 612: Cannot determine chapter - skipping
+  Page 619: Cannot determine chapter - skipping
+  Page 621: Cannot determine chapter - skipping
+  Page 624: Cannot determine chapter - skipping
+  Page 649: Cannot determine chapter - skipping
+  Page 657: Cannot determine chapter - skipping
+  Missing: Page 677, Chapter 13, Table 1 - At our institution, the Johns Hopkins Hospital, we
+  Missing: Page 677, Chapter 13, Table 2 - During our in vitro testing of ICDs, we found seve
+  Missing: Page 679, Chapter 13, Table 1 - and Table 2). A noteworthy study is the MagnaSafe 
+  Missing: Page 680, Chapter 13, Table 2 - Clinical MRI studies in the setting of standard IC
+  Missing: Page 681, Chapter 13, Table 2 - (Continued)
+  Missing: Page 685, Chapter 13, Table 3 - (39).
+  Missing: Page 686, Chapter 13, Table 3 - Center for Medicaid & Medicare Services (CMS) Guid
+  Missing: Page 692, Chapter 24, Table 1 - ). In regard to permanent cardiac pacemakers, case
+  Missing: Page 693, Chapter 25, Table 1 - Summary of MRI case reports and studies involving 
+  Missing: Page 701, Chapter 25, Table 1 - (Continued) Summary of MRI examinations involving 
+  Missing: Page 730, Chapter 26, Table 1 - (3-7, 9, 14-28). Importantly, each of these variab
+  Missing: Page 732, Chapter 26, Table 1 - Important variables that impact MRI-related heatin
+  Missing: Page 740, Chapter 26, Table 2 - Head-Only Deep Brain Stimulation (DBS) System, Act
+  Missing: Page 741, Chapter 26, Table 3 - Full-Body Deep Brain Stimulation (DBS) System, Mod
+  Missing: Page 742, Chapter 26, Table 4 - Full-Body Vercise Gevia Deep Brain Stimulation (DB
+  Missing: Page 743, Chapter 26, Table 5 - Spinal Cord Stimulation Systems
+  Missing: Page 744, Chapter 26, Table 5 - Responsive Neurostimulation System, RNS, NeuroPace
+  Missing: Page 745, Chapter 26, Table 8 - describes the MRI-related information for one such
+  Missing: Page 745, Chapter 26, Table 6 - Proclaim XR Recharge-Free Spinal Cord Stimulation 
+  Missing: Page 746, Chapter 26, Table 7 - Precision Montage MRI Spinal Cord Stimulator (SCS)
+  Page 747: Cannot determine chapter - skipping
+  Page 747: Cannot determine chapter - skipping
+  Page 748: Cannot determine chapter - skipping
+  Page 749: Cannot determine chapter - skipping
+  Page 750: Cannot determine chapter - skipping
+  Page 751: Cannot determine chapter - skipping
+  Page 752: Cannot determine chapter - skipping
+  Page 756: Cannot determine chapter - skipping
+  Page 757: Cannot determine chapter - skipping
+  Page 759: Cannot determine chapter - skipping
+  Page 759: Cannot determine chapter - skipping
+  Missing: Page 769, Chapter 24, Table 1 - Basic policies and procedures for a hospital or me
+  Missing: Page 770, Chapter 24, Table 1 - Continued
+  Missing: Page 782, Chapter 28, Table 1 - lists safety concerns relevant to all medical imag
+  Missing: Page 783, Chapter 27, Table 1 - Safety requirements shared by all diagnostic imagi
+  Missing: Page 785, Chapter 27, Table 5 - Responsibilities of employees.
+  Missing: Page 786, Chapter 127, Table 6 - Determination of the appropriateness of the reques
+  Missing: Page 789, Chapter 127, Table 7 - outlines the indications for performing MRI
+  Missing: Page 792, Chapter 127, Table 8 - lists screening ques-
+  Missing: Page 890, Chapter 14, Table 1 - Static magnetic field limits for occupational expo
+  Missing: Page 891, Chapter 14, Table 1 - The ICNIRP has a 2-T limit
+  Missing: Page 891, Chapter 14, Table 2 - a and 2b.
+  Missing: Page 893, Chapter 14, Table 3 - Induced
+  Missing: Page 893, Chapter 14, Table 4 - summarizes the results from various studies. The a
+  Missing: Page 895, Chapter 14, Table 4 - Personal dosimetry measurements from MRI workers.
+  Missing: Page 896, Chapter 14, Table 5 - shows peak B, dB/dt and per-
+  Missing: Page 931, Chapter 34, Table 1 - ). In the case of MRI, a projectile incident, for 
+  Missing: Page 944, Chapter 34, Table 1 - The levels cited in the safety code were never mea
+  Missing: Page 945, Chapter 34, Table 1 - 1987 Health Canada safety code 26 patient exposure
+  Missing: Page 947, Chapter 34, Table 2 - shows the SAR limits for vol-
+  Missing: Page 947, Chapter 34, Table 3 - shows the SAR limits for local
+  Missing: Page 948, Chapter 35, Table 2 - SAR limits for volume transmit RF coils.
+  Missing: Page 948, Chapter 35, Table 3 - Canadian SAR limits for local transmit RF coils.
+  Missing: Page 949, Chapter 35, Table 4 - Canadian temperature limits for different operatio
+  Missing: Page 995, Chapter 36, Table 1 - ). In the Nor-
+  Missing: Page 996, Chapter 36, Table 1 - Key Australian exposure limits for MRI. *
+
+✓ Found 107 missing tables
+
+Step 4: Creating output directory...
+✓ Created: /home/user/test/final_output_tables_COMPLETE
+
+Step 5: Adding missing tables to XML files...
+
+  Chapter 1: Adding 4 table(s)
+    Table 1 (page 21): Added - lists the approximate
+    Table 1 (page 22): Added - , it is shown that this range is in the 
+    Table 2 (page 25): Added - ).
+    Table 3 (page 27): Added - ). The value of T2 is unique for every k
+
+  Chapter 2: Adding 2 table(s)
+    Table 1 (page 53): Added - below gives the suscepti-
+    Table 2 (page 61): Added - Force index of common objects.
+
+  Chapter 3: Adding 1 table(s)
+    Table 2 (page 103): Added - gives an overview of safety assessments 
+
+  Chapter 4: Adding 13 table(s)
+    Table 1 (page 114): Added - ) (3).
+    Table 2 (page 116): Added - (106-115). In this table, the timing of 
+    Table 3 (page 128): Added - Also, the asymptotic limits
+    Table 3 (page 131): Added - , demonstrates that the magnitude of the
+    Table 1 (page 351): Added - Type and severity of acute adverse react
+    Table 2 (page 353): Added - ) have been rec-
+    Table 2 (page 354): Added - Suitable premedication regimens (adapted
+    Table 3 (page 355): Added - , this list includes but is not
+    Table 4 (page 357): Added - and Table 5, include infor-
+    Table 1 (page 480): Added - and Table 2.
+    Table 2 (page 480): Added - Possible MRI-related risks for active im
+    Table 3 (page 486): Added - presents techniques that may be used to 
+    Table 4 (page 493): Added - ). Notably, the previous
+
+  Chapter 5: Adding 2 table(s)
+    Table 2 (page 165): Added - shows a summary of PNS studies using thi
+    Table 4 (page 494): Added - Guidelines for the management of patient
+
+  Chapter 6: Adding 4 table(s)
+    Table 1 (page 175): Added - A summary of potential issues with unwan
+    Table 2 (page 176): Added - displays a range of sound pressure level
+    Table 2 (page 178): Added - Sound pressure level for some typical so
+    Table 3 (page 188): Added - The International Commission on Non-Ioni
+
+  Chapter 7: Adding 1 table(s)
+    Table 1 (page 238): Added - lists local SAR levels required to
+
+  Chapter 8: Adding 9 table(s)
+    Table 1 (page 326): Added - ).
+    Table 2 (page 326): Added - Safety of MRI in pregnancy: Non-adverse 
+    Table 4 (page 327): Added - Safety of MRI in pregnancy:  Non-adverse
+    Table 5 (page 328): Added - Currently approved MRI contrast agents.
+    Table 6 (page 329): Added - Safety of gadolinium-based MRI contrast 
+    Table 5 (page 330): Added - ).  Massive doses of these agents have b
+    Table 6 (page 330): Added - ) and (56-64) (Table 7)]. Thus,
+    Table 7 (page 330): Added - Safety of non-gadolinium-based MRI contr
+    Table 6 (page 331): Added - It is predictable that the dissociation 
+
+  Chapter 9: Adding 4 table(s)
+    Table 1 (page 272): Added - Limits to RF exposure in MRI equipment (
+    Table 2 (page 277): Added - ), but that data is
+    Table 2 (page 280): Added - (estimated 1 clo, room temperature not s
+    Table 1 (page 309): Added - (3-5, 7, 9, 11, 12,
+
+  Chapter 10: Adding 1 table(s)
+    Table 1 (page 315): Added - should be attempted for these patients b
+
+  Chapter 11: Adding 1 table(s)
+    Table 1 (page 98): Added - provides a brief overview of properties 
+
+  Chapter 13: Adding 9 table(s)
+    Table 1 (page 373): Added - , more (major) and less (minor) frequent
+    Table 1 (page 375): Added - Clinical findings for the diagnosis of n
+    Table 1 (page 677): Added - At our institution, the Johns Hopkins Ho
+    Table 2 (page 677): Added - During our in vitro testing of ICDs, we 
+    Table 1 (page 679): Added - and Table 2). A noteworthy study is the 
+    Table 2 (page 680): Added - Clinical MRI studies in the setting of s
+    Table 2 (page 681): Added - (Continued)
+    Table 3 (page 685): Added - (39).
+    Table 3 (page 686): Added - Center for Medicaid & Medicare Services 
+
+  Chapter 14: Adding 7 table(s)
+    Table 1 (page 890): Added - Static magnetic field limits for occupat
+    Table 1 (page 891): Added - The ICNIRP has a 2-T limit
+    Table 2 (page 891): Added - a and 2b.
+    Table 3 (page 893): Added - Induced
+    Table 4 (page 893): Added - summarizes the results from various stud
+    Table 4 (page 895): Added - Personal dosimetry measurements from MRI
+    Table 5 (page 896): Added - shows peak B, dB/dt and per-
+
+  Chapter 17: Adding 5 table(s)
+    Table 1 (page 454): Added - summarizes the types
+    Table 2 (page 457): Added - List of manufacturers and suppliers of p
+    Table 3 (page 461): Added - Recommendations to prevent excessive hea
+    Table 3 (page 462): Added - Monitoring Equipment and Support Devices
+    Table 2 (page 471): Added - ).
+
+  Chapter 18: Adding 2 table(s)
+    Table 5 (page 496): Added - ).
+    Table 5 (page 497): Added - Guidelines for the management of patient
+
+  Chapter 21: Adding 5 table(s)
+    Table 1 (page 573): Added - Figure 2 also illustrates
+    Table 1 (page 574): Added - Potential patient hazards and correspond
+    Table 2 (page 575): Added - includes a detailed view on one way an
+    Table 3 (page 577): Added - Evaluation of the AIMDs for MRI Hazards 
+    Table 3 (page 581): Added - ), Tier 3 modeling re-
+
+  Chapter 22: Adding 2 table(s)
+    Table 1 (page 610): Added - lists measured and calculated rises for 
+    Table 2 (page 610): Added - lists measured and calculated tem-
+
+  Chapter 24: Adding 7 table(s)
+    Table 1 (page 517): Added - ). First, ferromagnetic content in the d
+    Table 1 (page 538): Added - Qualitative comparison of RF-induced and
+    Table 2 (page 538): Added - Maximum temperature elevation ΔTmax vers
+    Table 1 (page 539): Added - A graphical illus-
+    Table 1 (page 692): Added - ). In regard to permanent cardiac pacema
+    Table 1 (page 769): Added - Basic policies and procedures for a hosp
+    Table 1 (page 770): Added - Continued
+
+  Chapter 25: Adding 2 table(s)
+    Table 1 (page 693): Added - Summary of MRI case reports and studies 
+    Table 1 (page 701): Added - (Continued) Summary of MRI examinations 
+
+  Chapter 26: Adding 10 table(s)
+    Table 1 (page 730): Added - (3-7, 9, 14-28). Importantly, each of th
+    Table 1 (page 732): Added - Important variables that impact MRI-rela
+    Table 2 (page 740): Added - Head-Only Deep Brain Stimulation (DBS) S
+    Table 3 (page 741): Added - Full-Body Deep Brain Stimulation (DBS) S
+    Table 4 (page 742): Added - Full-Body Vercise Gevia Deep Brain Stimu
+    Table 5 (page 743): Added - Spinal Cord Stimulation Systems
+    Table 5 (page 744): Added - Responsive Neurostimulation System, RNS,
+    Table 8 (page 745): Added - describes the MRI-related information fo
+    Table 6 (page 745): Added - Proclaim XR Recharge-Free Spinal Cord St
+    Table 7 (page 746): Added - Precision Montage MRI Spinal Cord Stimul
+
+  Chapter 27: Adding 2 table(s)
+    Table 1 (page 783): Added - Safety requirements shared by all diagno
+    Table 5 (page 785): Added - Responsibilities of employees.
+
+  Chapter 28: Adding 1 table(s)
+    Table 1 (page 782): Added - lists safety concerns relevant to all me
+
+  Chapter 34: Adding 5 table(s)
+    Table 1 (page 931): Added - ). In the case of MRI, a projectile inci
+    Table 1 (page 944): Added - The levels cited in the safety code were
+    Table 1 (page 945): Added - 1987 Health Canada safety code 26 patien
+    Table 2 (page 947): Added - shows the SAR limits for vol-
+    Table 3 (page 947): Added - shows the SAR limits for local
+
+  Chapter 35: Adding 3 table(s)
+    Table 2 (page 948): Added - SAR limits for volume transmit RF coils.
+    Table 3 (page 948): Added - Canadian SAR limits for local transmit R
+    Table 4 (page 949): Added - Canadian temperature limits for differen
+
+  Chapter 36: Adding 2 table(s)
+    Table 1 (page 995): Added - ). In the Nor-
+    Table 1 (page 996): Added - Key Australian exposure limits for MRI. 
+
+  Chapter 127: XML file not found, skipping 3 tables
+
+====================================================================================================
+SUMMARY
+====================================================================================================
+
+Tables in PDF: 133
+Tables already in XML: 97
+Missing tables found: 107
+Tables added: 104
+
+✓ Updated files saved to: /home/user/test/final_output_tables_COMPLETE
+
+Step 7: Verifying updated files...
+  Chapter 01: 8 tables (added 4)
+  Chapter 02: 2 tables (added 2)
+  Chapter 03: 1 tables (added 1)
+  Chapter 04: 16 tables (added 13)
+  Chapter 05: 4 tables (added 2)
+  Chapter 06: 7 tables (added 4)
+  Chapter 07: 2 tables (added 1)
+  Chapter 08: 9 tables (added 9)
+  Chapter 09: 5 tables (added 4)
+  Chapter 10: 2 tables (added 1)
+  Chapter 11: 6 tables (added 1)
+  Chapter 13: 10 tables (added 9)
+  Chapter 14: 7 tables (added 7)
+  Chapter 17: 5 tables (added 5)
+  Chapter 18: 9 tables (added 2)
+  Chapter 21: 9 tables (added 5)
+  Chapter 22: 2 tables (added 2)
+  Chapter 24: 14 tables (added 7)
+  Chapter 25: 10 tables (added 2)
+  Chapter 26: 26 tables (added 10)
+  Chapter 27: 4 tables (added 2)
+  Chapter 28: 10 tables (added 1)
+  Chapter 34: 9 tables (added 5)
+  Chapter 35: 3 tables (added 3)
+  Chapter 36: 3 tables (added 2)
