@@ -1,0 +1,925 @@
+<?xml version='1.0' encoding='utf-8'?>
+<chapter id="ch0026" label="26">
+    <title>Chapter 26</title>
+    <para><emphasis role="bold">Chapter 26</emphasis> <emphasis role="bold">MRI Safety Issues for  </emphasis> <emphasis role="bold">Neuromodulation Systems </emphasis></para>
+    <sect1 id="ch0026s01">
+      <title>MIZAN RAHMAN, PH.D.</title>
+      <para>Electrical Engineering Fellow  Research &amp; Development  Boston Scientific Neuromodulation Corporation  Valencia, CA</para>
+    </sect1>
+    <sect1 id="ch0026s02">
+      <title>FRANK G. SHELLOCK, PH.D.</title>
+      <para>Director of MRI Safety  USC Stevens Neuroimaging and Informatics Institute  Adjunct Clinical Professor of Radiology and Medicine  Keck School of Medicine  University of Southern California  Los Angeles, CA</para>
+    </sect1>
+    <sect1 id="ch0026s03">
+      <title>INTRODUCTION</title>
+      <para>Magnetic resonance imaging (MRI) has been utilized in the clinical setting for more  than 35 years. During this time, the technology has continued to evolve to improve image  quality, acquisition time, and patient comfort. These changes resulted in MR systems with  more powerful static magnetic fields, faster and stronger time-varying gradient magnetic  fields, and improved radiofrequency (RF) transmission coils. The short-term exposures to  the electromagnetic fields used for MRI at the levels recommended in the governing MRI  standard from the International Electrotechnical Commission, IEC 60601-2-33 and by the  United States (U.S.) Food and Drug Administration have resulted in relatively few problems  for the hundreds of millions of MRI examinations performed to date (1-7). MRI-related in- juries and the few fatalities that have occurred in patients without and with implants have  been mostly due to not following recommended user guidelines related to the safety aspects  of the MR scanners and medical implants.</para>
+      <para><emphasis role="bold">710</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para>Accordingly, the preservation of a safe MRI environment requires the utmost vigilance  with respect to the management of patients with implants and devices because the variety  and complexity of these items constantly changes (3, 6-9). This is particularly important  when managing patients with active implantable medical devices (AIMDs) because of the  elaborate nature of these implants (3, 6, 9). In consideration of the above, this chapter dis- cusses MRI safety issues for neuromodulation systems, which are widely used and clinically  important AIMDs.</para>
+    </sect1>
+    <sect1 id="ch0026s04">
+      <title>WHAT IS NEUROMODULATION?</title>
+      <para>Neuromodulation utilizes a medical device to relieve symptoms through alteration or  modulation of nerve system function via the targeted delivery of a stimulus, such as elec- trical stimulation or a chemical agent, to a specific neurological site in the body (7-12).  Neuromodulation therapies have been available since the 1960s and are an essential tool  for healthcare professionals. The field of neuromodulation encompasses a wide range of  therapeutic applications from chronic pain to neurological conditions, such as epilepsy, dys- tonia, and Parkinson’s disease, with the goal of supporting the recovery of abilities such as  hearing, vision, and mobility, as well as the control of bladder or bowel function (7-12). In  many instances, neuromodulation therapies improve the lives of patients because they pro- vide an alternative to long-term drug therapy for the symptomatic relief of persistent or  chronic conditions, which is especially important when existing medications are ineffective  or become problematic for chronic use due to development of tolerance, addiction, adverse  side-effects, or toxicity (10).</para>
+      <para>Technological advances in neuroscience combined with neuromodulation systems that  were miniaturized to feasibly permit implantation contributed to the exponential growth of  neuromodulation applications, including those used for deep brain stimulation, peripheral  nerve stimulation, spinal cord stimulation, sacral nerve stimulation, vagus nerve stimulation,  as well as the administration of drugs for pain management (7-12). Notably, neuromodula- tion systems are the fastest growing segment of the overall medical device industry.</para>
+    </sect1>
+    <sect1 id="ch0026s05">
+      <title>MRI SAFETY ISSUES FOR NEUROMODULATION SYSTEMS</title>
+      <para><emphasis role="bold">Static Magnetic Field-Related Issues  </emphasis></para>
+      <para>Static magnetic field-related issues are known to present hazards to patients with certain  implants or devices primarily due to movement or dislodgment of objects made from fer- romagnetic materials (3-9, 12, 13). Thus, neuromodulation systems with ferromagnetic ma- terials, which are usually related to the power supply in the implantable pulse generator  (IPG), will be attracted to (i.e., force) and aligned (i.e., torque) with the strong static mag- netic field of the MR system (<emphasis role="bold">Figure 1</emphasis>). This movement could result in patient injury (e.g.,  torn sutures, internal bleeding, etc.) or require surgical revision to reposition the device (i.e.,  to restore therapy or for patient comfort). Exposure to the scanner’s powerful static magnetic  field may also alter the neuromodulation system’s settings, requiring reprogramming, or  permanently damage the device, necessitating replacement surgery (8, 9).</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">711</emphasis></para>
+      <para>Numerous studies have assessed magnetic field interactions for implants and devices  by measuring translational attraction and torque associated with the static magnetic fields  of MR systems (3, 6). These investigations demonstrated that, for certain items, MRI exams  may be performed safely if the items are nonferromagnetic or “weakly” ferromagnetic (i.e.,  the object minimally interacts with the magnetic field in relation to its <emphasis role="italics">in vivo</emphasis> application),  such that the associated magnetic field interactions are insufficient to move or dislodge the  items, <emphasis role="italics">in situ</emphasis>. Furthermore, the “intended use” of the implant must be taken into consider- ation, because this can greatly impact whether or not a particular item is acceptable for a  patient undergoing MRI from a magnetic field interaction consideration. Sufficient <emphasis role="italics">in situ</emphasis>- related forces (e.g., fibrous encapsulation of an IPG) can exist to retain even a ferromagnetic  device once it is implanted in the patient (3, 6).</para>
+      <para><emphasis role="bold">Time-Varying Gradient Magnetic Field-Related Issues  </emphasis></para>
+      <para>MRI may be unsafe for patients with certain implants or devices due to induced energy  and/or eddy currents related to the time-varying gradient magnetic fields. According to Fara- day’s Law of Induction, any circuit located within the rapidly changing magnetic fields is  subject to induced currents (9, 13, 14). With typical neuromodulation systems that utilize a  lead and electrode, the circuit can be formed between the implanted electrode and the IPG,  on a metallic structure (i.e., the IPG), or on individual components (e.g., coiled structures  like antennas or energy transfer coils) (<emphasis role="bold">Figure 2</emphasis>). A variety of interactions can occur if cur- rent flows. For AIMDs, like neuromodulation systems, there is the risk of unintentional  stimulation at the switching rate of the MR system’s gradient coils. Unintentional stimula- tion can be relatively benign as is the case with most neurostimulation scenarios, since neu- rostimulation pulse frequencies are much higher than the gradient switching frequencies  associated with clinical MRI exams.</para>
+      <para>It should be noted that the gradient-induced voltages acting on the antennae and recharge  coils of AIMDs, such as neuromodulation systems, can be extremely high, due to the number  of coils within the associated components. If the circuitry is not robust enough to shield  against high voltages, the device may sustain damage to its communication or recharge sys-</para>
+      <para><emphasis role="bold">712</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para><emphasis role="bold">Figure 1.</emphasis> High ferromagnetic material con- tent of a neuromodulation system, which is  usually related to the power supply in the im- plantable pulse generator, will increase mag- netic field interactions (i.e., force and torque),  resulting in issues including patient injury or  device damage.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0501.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>tem, memory, or output channels in association with MRI. If the device is damaged, it may  require reprogramming or surgical replacement.</para>
+      <para>An additional concern from the time-varying gradient fields is the heating of the metallic  surfaces of AIMDs caused by eddy currents. Large metallic surfaces with poor conductivity  such as those associated with IPGs and implantable infusion pumps, may heat excessively  resulting in possible burns.</para>
+      <para><emphasis role="bold">Radiofrequency Field-Related Issues </emphasis></para>
+      <para>The use of AIMDs, physiological monitors, external accessories and similar objects  made from conductive materials has caused excessive heating, resulting in serious burn in- juries to patients undergoing MRI (3, 6, 7). The heating of implants and devices tends to be  problematic primarily for objects made from conductive materials that have an elongated  shape such as electrodes, leads, guidewire, and certain types of catheters (e.g., thermodilu- tion catheters with thermistors, intracranial pressure monitoring catheters, etc.)(3, 6, 7, 14,  15).</para>
+      <para>Relatively long conductive structures can act as antennas during MRI, collecting RF  energy and dissipating it along the path of least resistance. For leads associated with neu- romodulation systems, this typically occurs at the electrodes of the leads, which are com- monly found at the distal end and in contact with the organ receiving stimulation (e.g., brain,  occipital nerve, vagus nerve, sacral nerve, etc.)(<emphasis role="bold">Figure 3</emphasis>). Since the electrodes used with  neuromodulation systems are relatively small, the dissipated energy is concentrated very  close to their surface. Excessive heating can be generated in neuromodulation systems under  certain MRI conditions and there have been reports of serious patient injuries (16-18). A  variety of factors contribute to the potential heating of a neuromodulation system. The im- portant variables that impact MRI-related heating of an implanted medical device are pre- sented in <emphasis role="bold">Table 1</emphasis> (3-7, 9, 14-28). Importantly, each of these variables must be taken into  consideration to create safe MRI operating conditions for patients with neuromodulation</para>
+      <table frame="all"><title>Important variables that impact MRI-related heating of a medical implant.</title><tgroup cols="3"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><thead><row><entry>Area</entry><entry>Variable</entry><entry>Comments</entry></row></thead><tbody><row><entry>MRI Related
+Variables</entry><entry>Static Field Strength and
+RF Frequency</entry><entry>The RF frequency is related to the static mag-
+netic field strength of the MR system.</entry></row><row><entry /><entry>RF Power Level, Whole-Body
+Averaged Specific Absorption Rate
+(SAR), or B
+1+RMS</entry><entry>In the Normal Operating Mode, the RF power
+is limited to 2.0-W/kg whole-body averaged
+S AR and 3.2-W/kg averaged head SAR. In the
+First Level Controlled Operating Mode, the RF
+power is limited to 4.0-W/kg whole-body aver-
+aged body SAR and 3.2-W/kg averaged head
+SAR.</entry></row><row><entry /><entry>Landmark (Area of Body Exposed
+to RF Energy)</entry><entry>Depending on which area of the patient’s body
+is being imaged, more or less of the implanted
+medical device may be exposed to the RF en-
+ergy.</entry></row><row><entry /><entry>Transmit RF Coil Size</entry><entry>Transmitting RF energy with an extremity or
+head RF coil exposes less of the patient’s body
+and, therefore, potentially less or none of the
+implanted medical device.</entry></row><row><entry /><entry>Scan Duration</entry><entry>Thermal injuries are based on thermal doses to
+tissue. Thermal dose is a function of time and
+temperature. Thus, it takes a shorter time to
+damage tissue at higher temperatures.</entry></row><row><entry>Medical Device
+Variables</entry><entry>Conductive Structure Design</entry><entry>Some design structures may be better or worse
+antennas, resulting in greater or less RF field-
+induced heating.</entry></row><row><entry /><entry>Conductive Structure Length</entry><entry>Structures may have a worst-case length de-
+pending on the resonant frequency. In general,
+relatively short structures may not be long
+enough to act as a good antenna.</entry></row><row><entry /><entry>Implant Location</entry><entry>The amount of RF energy incident on a device
+depends on the device’s location including lead
+or catheter routings.</entry></row><row><entry /><entry>Loops/Coils of the Leads</entry><entry>Crossover points of the leads provided by
+strain relief or “slack” loops can alter the distri-
+bution of RF energy, possibly resulting in lo-
+calized RF energy dissipation at the cross-over
+point and a decrease in the amount dissipated
+at the electrodes.</entry></row><row><entry>Patient Variables</entry><entry>Size</entry><entry>Larger patients have more tissue and, therefore,
+higher RF power is needed to excite the tissue
+for MRI.</entry></row><row><entry /><entry>Body Composition</entry><entry>Fat is more permeable to RF energy so less en-
+ergy is required to penetrate it.</entry></row></tbody></tgroup></table><para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">713</emphasis></para>
+      <para><emphasis role="bold">Figure 2.</emphasis>  Time-varying gradient magnetic fields used during MRI can induce voltages  that impact neuromodulation systems, resulting in unintended stimulation.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0502.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>systems. It is particularly important to appreciate the complex interactions between the vari- ables related to RF heating. For example, each RF frequency used for MRI (i.e., 64-MHz  associated with 1.5-Tesla, 128-MHz associated with 3-Tesla, etc.) needs to be evaluated  and considered individually for a given neuromodulation system because the resulting tem- perature rises may actually be lower at higher frequencies compared with lower frequencies  (3, 6, 9, 14, 15-28)(<emphasis role="bold">Figure 4</emphasis>).</para>
+      <para>Over the years, different RF field-induced heating mitigation strategies have been em- ployed and presented in the MR Conditional labeling for neuromodulation products.  For  example, for certain neuromodulation systems that did not incorporate design changes in  consideration of the electromagnetic fields used for MRI, the strategy was to exclude the  RF exposure entirely by utilizing a transmit RF head or extremity coil if the neuromodula- tion system was implanted outside of that particular transmit coil. In those instances, the  transmitted RF energy did not subject any part of the implant to heating, resulting in a safe  MRI exam (3, 6, 8, 9). Other neuromodulation systems used a reduced whole-body averaged  SAR or B1+RMS limit to minimize exposure to RF energy, while still other neuromodulation  products have been specially designed to safely manage the RF energy so that the MR sys- tem can be operated under normal RF power levels (i.e., the Normal Operating Mode or  First Level Controlled Operating Mode)(3, 6, 8, 9).</para>
+      <para>With respect to the whole-body averaged SAR value reported by the MR system, it  should be realized that this metric is especially problematic with regard to MRI-related im- plant heating, as reported by Baker, et al. (29, 30) and Nitz, et al. (31). The scanner reported  SAR values can be considered to be “not to exceed” values, such that each MR system man- ufacturer may have a different safety margin (i.e., comparing one manufacturer to another)  to ensure that the displayed SAR values are not exceeded. Because there is no direct way  to measure SAR prior to or during an MRI exam, scanner manufacturers rely on numerical</para>
+      <para><emphasis role="bold">714</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para><emphasis role="bold">Figure 3.</emphasis> The coupling of RF energy associ- ated with MRI and a spinal cord stimulation  system. Note that excessive heating typically  occurs at the electrodes located at the distal  end of the lead.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0503.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">715</emphasis></para>
+      <para><emphasis role="bold">Area</emphasis> <emphasis role="bold">Variable</emphasis> <emphasis role="bold">Comments</emphasis></para>
+      <para><emphasis role="bold">MRI Related  </emphasis> <emphasis role="bold">Variables</emphasis></para>
+      <para>Static Field Strength and   RF Frequency</para>
+      <para>The RF frequency is related to the static mag- netic field strength of the MR system.</para>
+      <para>RF Power Level, Whole-Body   Averaged Specific Absorption Rate  (SAR), or B1+RMS</para>
+      <para>In the Normal Operating Mode, the RF power  is limited to 2.0-W/kg whole-body averaged  SAR and 3.2-W/kg averaged head SAR.  In the  First Level Controlled Operating Mode, the RF  power is limited to 4.0-W/kg whole-body aver- aged body SAR and 3.2-W/kg averaged head  SAR.</para>
+      <para>Landmark (Area of Body Exposed  to RF Energy)</para>
+      <para>Depending on which area of the patient’s body  is being imaged, more or less of the implanted  medical device may be exposed to the RF en- ergy.</para>
+      <para>Transmit RF Coil Size</para>
+      <para>Transmitting RF energy with an extremity or  head RF coil exposes less of the patient’s body  and, therefore, potentially less or none of the  implanted medical device.</para>
+      <para>Scan Duration</para>
+      <para>Thermal injuries are based on thermal doses to  tissue. Thermal dose is a function of time and  temperature. Thus, it takes a shorter time to  damage tissue at higher temperatures.</para>
+      <para><emphasis role="bold">Medical Device  </emphasis> <emphasis role="bold">Variables</emphasis></para>
+      <para>Conductive Structure Design</para>
+      <para>Some design structures may be better or worse  antennas, resulting in greater or less RF field- induced heating.</para>
+      <para>Conductive Structure Length</para>
+      <para>Structures may have a worst-case length de- pending on the resonant frequency.  In general,  relatively short structures may not be long  enough to act as a good antenna.</para>
+      <para>Implant Location</para>
+      <para>The amount of RF energy incident on a device  depends on the device’s location including lead  or catheter routings.</para>
+      <para>Loops/Coils of the Leads</para>
+      <para>Crossover points of the leads provided by  strain relief or “slack” loops can alter the distri- bution of RF energy, possibly resulting in lo- calized RF energy dissipation at the cross-over  point and a decrease in the amount dissipated  at the electrodes.</para>
+      <para><emphasis role="bold">Patient Variables</emphasis></para>
+      <para>Size</para>
+      <para>Larger patients have more tissue and, therefore,  higher RF power is needed to excite the tissue  for MRI.</para>
+      <para>Body Composition Fat is more permeable to RF energy so less en- ergy is required to penetrate it.</para>
+      <para>models to conservatively estimate the SAR for a particular scan sequence and each manu- facturer uses certain assumptions for their SAR models. Importantly, the estimates of SAR  did not consider situations when metallic implants were present in patients. Therefore, it is  important to understand that implant heating may differ significantly when using different  MR systems of the same static magnetic field strength and frequency for a given pulse se- quence.</para>
+      <para>Significant variations in heating for a deep brain stimulation lead in association with  different 1.5-Tesla scanners (notably from the same manufacturer) was first reported by  Baker, et al. (29) and further examined in a later investigation (30). The specific concern is  when MRI safety labeling for an implant is based on data generated using a particular MR  system that has a high SAR safety margin, which ultimately equates to a lower transmitted  RF power. In the clinical setting, the device’s safety conditions may be followed using a  different scanner that has a lower SAR safety margin, resulting in a higher transmitted RF  power level. The end result could be a substantially higher temperature rise for the implant,  potentially resulting in a patient injury.</para>
+      <para><emphasis role="bold">716</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para><emphasis role="bold">Figure 4.</emphasis> MRI-related heating at 1.5-Tesla/64-MHz (diamond) versus 3-Tesla/128-MHz  (circle) for a lead not connected to a pulse generator. The MR system reported, whole- body averaged SAR used at 1.5-Tesla was 1.4-W/kg and at 3-Tesla it was 3-W/kg. Note  the substantial differences in the temperature profiles during MRI-related heating of the  lead (i.e., 1.5-T/64-MHz showing substantially higher temperatures), which illustrates  that different resonant effects impact temperature rises for elongated implants. For an im- plant of a given length, different RF wavelengths will yield different heating effects (i.e.,  64-MHz versus 128-MHz).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0504.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>In consideration of the myriad of issues of using SAR to ensure safety for patients with  implants, the Food and Drug Administration along with other entities recommended that a  different metric for RF energy should be utilized to characterize MRI-related heating specif- ically for AIMDs. This metric, the B1+RMS, is the root-mean-square value of the MRI-ef- fective component of the RF magnetic field (B1 field). That is, it is the time-averaged RF  magnetic field component relevant for creating an MR image.</para>
+      <para>The MR scanner measures the B<superscript>+</superscript>1 field (i.e., the positively rotating RF magnetic field)  needed for an imaging sequence and uses the time-averaged B<superscript>+</superscript>1 field, or B1+RMS, that is  associated with a particular imaging sequence. Thus, the B1+RMS value is calibrated by the  MR system’s software during the “prep” or “pre-scan” phase of an MRI exam. An important  characteristic of B1+RMS is that it is not an estimated value but it is a known quantity based  on the pulse sequence and the associated parameters. Notably, B1+RMS is not patient-depen- dent nor is it calculated differently based on a given MR system manufacturer.</para>
+      <para>Understanding the importance of B1+RMS as a metric for RF energy that is presented in  MR Conditional labeling of AIMDs necessitates an appreciation of basic MRI physics.  When a patient enters the MR scanner, protons in the body align in the direction of the static  magnetic field (B0), similar to a compass aligning with the Earth’s magnetic field. An MR  imaging sequence is composed of a series of RF pulses that produce a magnetic field that  interacts with these magnetically-aligned protons and rotates them through a specific angle  commonly referred to as the “flip angle”. The RF magnetic field (B1 field) of which only  one part, known as the positively rotating or “+” component, is useful for “flipping” the  magnetically-aligned protons, allowing MR images to be created. The maximum 10-second,  time-averaged B<superscript>+</superscript>1 field strength of the RF pulses in the imaging sequence is the root-mean- square or “RMS” B<superscript>+</superscript>1 value of the imaging sequence.</para>
+      <para>In 2013, the (International Electrotechnical Commission (IEC) mandated that all MR  systems manufactured going forward must display the B1+RMS. Therefore, it is unlikely to  see B1+RMS information presented on older scanners or those with software that has not  been updated. B1+RMS is measured and reported by the MR system in units of micro-Tesla  (μT).</para>
+      <para>Considering that B1+RMS is a more precise RF exposure metric than SAR, AIMD man- ufacturers typically present values for B1+RMS that must not be exceeded when scanning  patients in the <emphasis role="italics">Instructions for Use</emphasis> (IFU) for their implants. When following B1+RMS as a  condition of use, the SAR value is irrelevant, unless, of course, a particular operating mode  of the MR system is specified. Using B1+RMS tends to provide better performance for the  MRI exam because it has fewer limitations versus using SAR values for patients with  AIMDs.</para>
+      <para>Because B1+RMS is being used by manufacturers in their MR Conditional labeling for  AIMDs, it is vital to understand how to adjust protocols to achieve an acceptable B1+RMS  value to ensure patient safety. The parameters that an MR system operator uses to modify  B1+RMS will vary with the particular MR system. By way of example, parameters and op- tions that can be adjusted to reduce B1+RMS include, the following: (1) increase the RF pulse  duration, (2) utilize a “Low SAR” mode of other similar option, (3) increase the repetition  time (TR), (4) reduce the number of slices for a given TR, (5) reduce the echo train length</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">717</emphasis></para>
+      <para>(ETL) in a fast spin echo (FSE) pulse sequence, (6) reduce the refocusing angle (i.e., for  FSE sequences), (7) reduce the flip angle (i.e., for gradient echo, GRE, pulse sequences)  and (8) use a GRE sequence instead of a spin echo or fast spin echo pulse sequence (3, 6).</para>
+      <para>In addition to being a more precise metric for controlling RF power deposition, another  advantage to using B1+RMS as opposed to SAR is that, once the adjustment is made to a de- sired B1+RMS value for a given sequence, that information can be saved in scanner’s protocol  library for future use. The B1+RMS will then remain at that value for the next patient unless  the imaging parameters are changed.</para>
+      <para>As previously stated, patients with neuromodulation systems are exposed to the risks  associated with the RF energy collected in undesirable antennas in the leads, resulting in  excessive heating. Because RF energy can also travel in the opposite direction towards the  IPG, device components or memory can be damaged and, thus, may require replacement  surgery in the event that the electronics are compromised (3, 6, 8, 9, 14). The RF energy  entering into the IPG can impact the internal electronics causing rectification (i.e., rectifi- cation is the process of turning an alternating current waveform into a direct current wave- form, thus, creating a new signal that has only a single polarity) and the resultant signal can  be delivered to the patient through the lead contacts creating unintended stimulation.</para>
+    </sect1>
+    <sect1 id="ch0026s06">
+      <title>MRI EXAMINATIONS AND NEUROMODULATION SYSTEMS</title>
+      <para>As previously indicated, neuromodulation systems have been employed for a variety  of neurological disorders as well as for many other conditions (8, 9, 11, 12). A typical neu- romodulation system used for stimulation consists of an IPG (i.e., similar to a cardiac pace- maker) and one or more leads that conduct the electrical pulses to the therapeutic target via  one or more electrodes (3, 6, 8, 9)(<emphasis role="bold">Figure 5</emphasis>). The IPG contains electronics and a single-use  or rechargeable battery. The size of the IPG and the therapeutic target dictate the potential  implant locations and lead routings through the patient’s body.</para>
+      <para><emphasis role="bold">718</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para><emphasis role="bold">Figure 5.</emphasis> X-ray showing a typical neu- romodulation system used for stimula- tion that consists of an IPG and a set of  leads that conduct the electrical pulses  to the therapeutic target via one or more  electrodes. This example shows a spinal  cord stimulation system. Note the posi- tions of the IPG, leads, and electrodes.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0505.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>There is a newer type of neuromodulation system that is predominantly used for spinal  cord stimulation (SCS) or peripheral nerve stimulation (32-34). This device utilizes an im- planted lead and has an external battery and stimulator. The external component communi- cates with the implanted lead using wireless technology (3, 6, 8, 9)(<emphasis role="bold">Figure 6</emphasis>). This platform  was developed for neuromodulation for various reasons. Traditional neuromodulation sys- tems require surgical implantation of multiple components: the IPG, lead extensions, and  lead with stimulating electrodes. The IPG used with a conventional neuromodulation system  is somewhat bulky and, thus, may cause tissue damage or other problems (32-34). Because  of possible complications and hardware-related issues, the standard neuromodulation system  platform is suggested to pose a higher risk for certain adverse events (32-34).</para>
+      <para>By comparison, wirelessly-powered leads used for SCS or peripheral nerve stimulation  represent a practical option for patients with respect to their clinical utilization. Importantly,  a clear advantage of using a wirelessly-powered lead system is the elimination of compo- nents that are required by traditional systems, namely the pulse generators, lead extensions,  and longer leads (32-34). Thus, the proposed benefits of a wirelessly-powered lead system  include decreased implantation procedural time, lower risk of infection (i.e., because fewer  components are implanted), reduced overall costs compared with conventional neuromod-</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">719</emphasis></para>
+      <para><emphasis role="bold">Figure 6.</emphasis> Example of a neuromodulation sys- tem used for spinal cord or peripheral nerve  stimulation that utilizes an implanted lead and  an external battery and stimulator. The exter- nal component communicates with the im- planted lead using wireless technology. (<emphasis role="bold">a</emphasis>)  This example shows the Patient Programmer,  the External Pulse Transmitter, and the im- planted StimRouter Lead (Bioness,  www.stimrouter.com). (<emphasis role="bold">b</emphasis>) The Patient Pro- grammer can be used by the patient to self- administer stimulation.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0506.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>ulation systems and, because of its unique design (i.e., an external simulation component  and power supply), diminished limitations for patients undergoing MRI (32-34).</para>
+      <para>Current neuromodulation therapies approved by the FDA and other notified bodies in- clude deep brain stimulation (DBS) for essential tremor, Parkinsonian tremor, dystonia, and  obsessive-compulsive disorder and other conditions; SCS for chronic pain; peripheral nerve  stimulation for chronic pain sacral nerve stimulation for urinary and fecal incontinence;  gastric stimulation for gastroparesis; vagus nerve stimulation (VNS) and responsive neu- rostimulation (RNS) for epilepsy; VNS for depression; auditory nerve stimulation for hear- ing impaired patients; administration of Baclofen or other medications for chronic pain via  implantable infusion pumps; as well as many others (8, 9, 11, 12, 33, 34).</para>
+      <para>During the early days of MRI technology, because of the inherent risks associated with  neuromodulation systems relative to the MRI environment, the presence of these AIMDs  and others was considered a strict contraindication for patients. However, over the years,  various studies were performed that supported the safety of scanning patients with neuro- modulation systems under highly specific MRI conditions (9, 11, 12, 20, 22, 24, 29, 30, 33- 61). Because of concerted efforts of device manufacturers and biomedical investigators, a  large number of neuromodulation systems now have MR Conditional labeling, allowing  patients to benefit from the diagnostic capabilities of MRI (8, 9, 11, 12, 62, 63).  As such,  if specific guidelines are followed, MRI examinations may be conducted safely in patients  with certain neuromodulation systems.</para>
+      <para>Various representative examples of neuromodulation systems that have criteria defined  to permit safe MRI examinations are presented in the following sections of this chapter,  with the acknowledgment that many other devices exist with approved MR Conditional la- beling. It should be noted that certain neuromodulation systems are labeled MR Unsafe in  the United States but MR Conditional outside the United States. Therefore, it is always im- portant to obtain country-specific labeling information for a given neuromodulation system.  In addition, because the labeling for implants may change based on new information, health- care professionals are advised to contact the manufacturer of the neuromodulation system  to obtain the latest information to ensure patient safety relative to the use of MRI.</para>
+      <para><emphasis role="bold">Deep Brain Stimulation Systems </emphasis></para>
+      <para>Deep brain stimulation is one of the most rapidly growing areas in neuromodulation.  Since 1997, there have been well over 160,000 patients implanted with DBS systems world- wide. As previously mentioned, DBS is currently approved for the treatment of essential  tremor, Parkinsonian tremor, dystonia, and obsessive-compulsive disorder. In addition, clin- ical trials are underway assessing the role of DBS to treat epilepsy, chronic pain, cluster  headaches, major depression, post-traumatic stress syndrome, morbid obesity, and other  conditions (11, 35-40).</para>
+      <para>A typical DBS device includes an IPG, which is usually implanted in a subclavicular  position but may also be placed in an abdominal site. The IPG is connected to one or two  lead extensions, and one or two leads that run through the torso, chest, and neck region to  the brain (<emphasis role="bold">Figure 7</emphasis>). This neuromodulation device delivers high frequency electrical stim-</para>
+      <para><emphasis role="bold">720</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para>ulation to multiple contact electrodes placed in the ventral intermediate nucleus of the thal- amus or other anatomic sites.</para>
+      <para>The necessity of using MRI is essential to the use of DBS therapy in patients. MRI is  important for the diagnosis of hemorrhage, stroke, and intracranial lesions, as well as for  assessing the progression of neurodegenerative disorders. Additionally, MRI-guided pro- cedures are used to optimally position the DBS electrodes, resulting in a substantial decrease  in the time required for implantation (58, 59). MRI is used post-operatively to determine  the location of the DBS leads and electrodes, which is critical information for the evaluation  of patients with sub-optimal results or side effects, as well as for targeting during revision,  or other cranial surgeries. Furthermore, functional MRI (fMRI) has been demonstrated to  be beneficial for understanding the mechanisms of DBS (47, 60).</para>
+      <para>The inherent desire to use MRI in DBS patients prompted several groups to systemat- ically study MRI-related issues for these AIMDs (8, 9, 29, 30, 41-57, 61). Approximately  20 years ago, the earliest research contributed to the first AIMD to receive MR Conditional  labeling, the DBS system from Medtronic. Despite the limitations for MRI that included  scanning at 1.5 Tesla, only, using a transmit/receive RF head coil, and a maximum head  SAR of 0.1 W/kg, patients were allowed to undergo MRI for the first time. Importantly,  these studies along with those conducted by device manufacturers resulted in MR Condi- tional labeling for several DBS systems, including those that are “full-body eligible”, en- abling a wide range of MRI exams to be performed in patients (8, 9). Because manufacturers  of DBS systems have strict safety criteria for MRI examinations, healthcare professionals  must only scan patients according to the specific information indicated in the <emphasis role="italics">Instructions </emphasis></para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">721</emphasis></para>
+      <para><emphasis role="bold">Figure 7.</emphasis> Example of a DBS system  (Activa PC Model 37601 IPG, Model  37085 lead extension, and Model 3389  lead, Medtronic, Inc.). Note the posi- tions of the IPG, lead extensions,  leads, and electrodes implanted in the  brain.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0507.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="italics">for Use</emphasis> documents for these products. Otherwise, serious injuries can occur, like the cata- strophic injury reported by Henderson, et al. (17)(<emphasis role="bold">Figure 8</emphasis>).</para>
+      <para>In this case report, Henderson, et al. (17) described a patient with Parkinson’s disease  that sustained a serious permanent neurological injury secondary to an RF lesion caused by  excessive heating of the electrode of a DBS system associated with MRI of the lumbar  spine. Because the patient was an avid hunter, the IPG for the DBS system was placed in  his abdomen rather than in the typical subclavicular region to avoid interference with the  butt of his rifle. Seven months after placement of the IPG, the patient underwent an MRI of  the lumbar spine for the evaluation of back and left leg pain. Multiple scan sequences were  performed at 1.0-Tesla/42-MHz with a transmit body RF coil and a receive-only spine coil.  Following the MRI examination, the patient experienced hemiparesis.</para>
+      <para>The patient was subsequently evaluated by his neurologist, who noted that he exhibited  “obtunded aphasia with right hemiplegia, bilateral extensor plantar responses, and skew de- viation, right eye below left.” A computed tomography scan performed immediately fol- lowing the MRI revealed hemorrhage surrounding the left DBS electrode. An MRI of the  brain conducted using a 1.5-Tesla MR system two days after the lumbar scan found “suba- cute hemorrhage with methemoglobin in the left thalamus, posterior limb of the left internal  capsule, and left cerebral peduncle.” The hemorrhage was adjacent to the DBS electrode,  with surrounding edema seen on T2-weighted pulse sequences (<emphasis role="bold">Figure 8</emphasis>).</para>
+      <para><emphasis role="bold">722</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para><emphasis role="bold">Figure 8.</emphasis> (<emphasis role="bold">A</emphasis>) A computed tomography scan performed immediately after a lumbar spine  MRI exam was performed in a symptomatic patient with a DBS system, which revealed  evidence of a hemorrhage surrounding the left DBS electrode. (<emphasis role="bold">B</emphasis>) Axial plane, T2- weighted MR image of the patient’s brain showing edema around the left DBS electrode.  In this case, the patient underwent MRI of the lumbar spine at 1.0-Tesla, using a transmit  body RF coil, substantially deviating from the safety labeling for the DBS system, result- ing in a permanent neurological deficit.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0508.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>The patient was evaluated seven months following the MRI exam and determined to  have severe dysarthria that made his speech nearly impossible to understand. He had per- sistent right hemiparesis with falling toward the right and clumsiness of his right hand. No- tably, this patient’s neurological deficits were identified immediately after his lumbar MRI  exam, implicating a direct relationship between the imaging procedure and associated brain  lesion. In addition, the hemorrhage and edema demonstrated on subsequent brain imaging  surrounded the DBS electrode circumferentially, as would be expected of a lesion generated  by RF heating (17). Of further note is that this patient suffered from a lesion on the left side  of the brain, corresponding with the left-sided lead and the IPG implanted in his abdomen.  No lesion was produced on the right side, where the IPG was implanted in the standard sub- clavicular position. This serious accident clearly emphasizes that, while MRI may be per- formed safely in patients with DBS systems with close adherence to specific safety  guidelines (i.e., in this case, the labeling required imaging at 1.5-Tesla using a transmit/re- ceive RF head coil and not exceeding a head SAR of 0.1-W/kg), any deviation from the  stated MRI requirements can result in serious consequences for the patient.</para>
+      <para>While the findings from numerous investigators helped the medical community under- stand the safety and risks associated with MRI of patients with DBS systems, because of  the complicated and expensive nature of the testing procedures (9, 13, 14), device manu- facturers decided to conduct their own evaluations based on guidelines outlined in the In-</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">723</emphasis></para>
+      <para>Implant System Head-Only Deep Brain Stimulation (DBS) System, Activa SC Model 37602</para>
+      <para>Scan Region Head-Only</para>
+      <para>Scan   Requirements</para>
+      <para>IPG implanted in pectoral or abdomen area  Impedance test to determine open or short circuits  No abandoned leads within transmit/receive head RF coil  If programmer cannot communicate with IPG or if IPG is end of life (EOS), MRI safety  is unknown</para>
+      <para>System Settings  During Scan Therapy On with special Bipolar program only with Pocket Adaptor</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T horizontal cylindrical bore  Max. spatial gradient magnetic field, 19 T/m  Max. gradient slew rate, 200 T/m/s  Transmit/receive head RF coil, only  Head SAR ≤ 0.1 W/kg</para>
+      <para>Active Scan Time No restrictions</para>
+      <para>Patient Positioning Supine or Prone</para>
+      <para>Post Scan Program back to original settings, turn Therapy On</para>
+      <para>Website https://manuals.medtronic.com/manuals/main/region</para>
+      <table frame="all"><title>Head-Only Deep Brain Stimulation (DBS) System, Activa SC Model 37602,</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Head-Only Deep Brain Stimulation (DBS) System, Activa SC Model 37602</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Head-Only</entry></row><row><entry>Scan
+Requirements</entry><entry>IPG implanted in pectoral or abdomen area
+Impedance test to determine open or short circuits
+No abandoned leads within transmit/receive head RF coil
+If programmer cannot communicate with IPG or if IPG is end of life (EOS), MRI safety
+is unknown</entry></row><row><entry>System Settings
+During Scan</entry><entry>Therapy On with special Bipolar program only with Pocket Adaptor</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 19 T/m
+Max. gradient slew rate, 200 T/m/s
+Transmit/receive head RF coil, only
+Head SAR ≤ 0.1 W/kg</entry></row><row><entry>Active Scan Time</entry><entry>No restrictions</entry></row><row><entry>Patient Positioning</entry><entry>Supine or Prone</entry></row><row><entry>Post Scan</entry><entry>Program back to original settings, turn Therapy On</entry></row><row><entry>Website</entry><entry>https://manuals.medtronic.com/manuals/main/region</entry></row></tbody></tgroup></table><para>(IPG, implantable pulse generator; WBA, whole-body averaged; SAR, specific absorp- tion rate)</para>
+      <para>ternational Organization for Standardization/Technical Standard (ISO/TS) 10974:2018 and  other pertinent documents (25-28), resulting in approval for MR Conditional labeling from  various regulatory bodies, including the FDA. <emphasis role="bold">Tables 2, 3</emphasis> and <emphasis role="bold">4</emphasis> present examples of MRI- related labeling information for DBS systems, including head-only and full-body eligible  versions. For complete and up-to-date information, readers are advised to visit the manu- facturer’s websites.</para>
+      <para><emphasis role="bold">Responsive Neurostimulation Systems </emphasis></para>
+      <para>Responsive neurostimulation (RNS) is a recent breakthrough surgical approach for treat- ing seizures that cannot be managed by medication (64, 73). A relatively small neurostim- ulator is implanted in the skull and connected to two leads that have electrodes implanted  either on the surface of the brain, into the brain, or both (<emphasis role="bold">Figure 9</emphasis>). The RNS device is pro- grammed to detect seizures by continuously monitoring brain activity. When it detects</para>
+      <para><emphasis role="bold">724</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para>Implant System Full-Body Deep Brain Stimulation (DBS) System, Model B35200</para>
+      <para>Scan Region Full-Body</para>
+      <para>Scan   Requirements</para>
+      <para>IPG implanted in pectoral or abdomen area  Impedance test to determine open or short circuits  No elevated body temperature  If programmer cannot communicate with IPG or if IPG is end of life (EOS), MRI safety  is unknown</para>
+      <para>System Settings  During Scan Set IPG to MRI Mode, Therapy Off</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T or 3 T horizontal cylindrical bore  Max. spatial gradient magnetic field, 19 T/m, 1.5 T  Max. spatial gradient magnetic field, 19 T/m, 3 T  Max. gradient slew rate 200 T/m/s, 1.5 T or 3 T  Transmit body RF coil with any receive-only coil  Transmit/receive head RF coil  Transmit/receive extremity RF coil transmit  1.5 T, B1+RMS ≤ 2.0 μT*  3 T, B1+RMS ≤ 2.5 μT*  *If B1+RMS is unavailable, then max. WBA SAR or Head SAR &lt; 0.1 W/kg</para>
+      <para>Active Scan Time 30 min. in a 90 min. window</para>
+      <para>Patient Positioning Supine or Prone</para>
+      <para>Post Scan Program back to original settings, turn Therapy On</para>
+      <para>Website https://manuals.medtronic.com/manuals/main/region</para>
+      <table frame="all"><title>Full-Body Deep Brain Stimulation (DBS) System, Model B35200, Medtronic,</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Full-Body Deep Brain Stimulation (DBS) System, Model B35200</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Full-Body</entry></row><row><entry>Scan
+Requirements</entry><entry>IPG implanted in pectoral or abdomen area
+Impedance test to determine open or short circuits
+No elevated body temperature
+If programmer cannot communicate with IPG or if IPG is end of life (EOS), MRI safety
+is unknown</entry></row><row><entry>System Settings
+During Scan</entry><entry>Set IPG to MRI Mode, Therapy Off</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T or 3 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 19 T/m, 1.5 T
+Max. spatial gradient magnetic field, 19 T/m, 3 T
+Max. gradient slew rate 200 T/m/s, 1.5 T or 3 T
+Transmit body RF coil with any receive-only coil
+Transmit/receive head RF coil
+Transmit/receive extremity RF coil transmit
+1.5 T, B ≤ 2.0 μT*
+1+RMS
+3 T, B ≤ 2.5 μT*
+1+RMS
+*If B is unavailable, then max. WBA SAR or Head SAR &lt; 0.1 W/kg
+1+RMS</entry></row><row><entry>Active Scan Time</entry><entry>30 min. in a 90 min. window</entry></row><row><entry>Patient Positioning</entry><entry>Supine or Prone</entry></row><row><entry>Post Scan</entry><entry>Program back to original settings, turn Therapy On</entry></row><row><entry>Website</entry><entry>https://manuals.medtronic.com/manuals/main/region</entry></row></tbody></tgroup></table><para>(IPG, implantable pulse generator; WBA, whole-body averaged; SAR, specific absorp- tion rate)</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">725</emphasis></para>
+      <para>Implant System Vercise Gevia Deep Brain Stimulation (DBS) System</para>
+      <para>Scan Region Full-Body or Head Using Transmit/Receive Head RF Coil</para>
+      <para>Scan   Requirements</para>
+      <para><emphasis role="italics">Leads Only Version, DB-2201 or DB-2202 Leads</emphasis></para>
+      <para>Patient is implanted with a booted lead system comprised of Leads, Lead Boots, and Burr Hole  Cover</para>
+      <para>Leads are capped with Lead Boots on proximal ends and excess Lead is coiled and implanted under  the scalp of the skull</para>
+      <para>No fractured Leads  No Extensions are present   No Stimulator is present</para>
+      <para>Externalized portion of Lead is not contacting the patient and is positioned in a straight configuration  without loops, and centered with reference to the transmit/receive RF coil</para>
+      <para><emphasis role="italics">Fully Implanted Version </emphasis> Patient implanted with full DBS system comprised of Leads, Extensions, Stimulator, and Burr Hole  Cover  No fractured leads  No elevated body temperature</para>
+      <para>System Settings  During Scan</para>
+      <para>IPG fully charged   Set IPG to MRI Mode, Therapy Off  Impedance check automatically performed. If no error messages, proceed with MRI</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T horizontal cylindrical bore  Max. spatial gradient magnetic field, 40 T/m  Max. gradient slew rate, 200 T/m/s</para>
+      <para><emphasis role="italics">Lead Only Version, DB-2201 or DB-2202 Leads</emphasis>  Transmit body RF coil and any receive-only coil  Transmit/receive head RF coil  B1+RMS ≤ 2.0 μT*</para>
+      <para><emphasis role="italics">Fully Implanted Version, DB-2201 or DB-2202 Leads</emphasis>  Transmit body RF coil and any receive-only coil  Transmit/receive head RF coil</para>
+      <para>Transmit/receive head RF coil  B1+RMS ≤ 2.0 μT*</para>
+      <para>Transmit body RF coil and any receive-only coil with DB-2201 Leads:  Isocenter above vertebra T5:  B1+RMS ≤ 1.5 μT*  At or below vertebra T5:  B1+RMS ≤ 2.0 μT*</para>
+      <para>Transmit body RF coil and any receive-only coil with DB-2202 Leads:  Isocenter above vertebra T12:  B1+RMS ≤ 1.2 μT*  At or below vertebra T12:  B1+RMS ≤ 2.0 μT*</para>
+      <para>*If B1+RMS is unavailable, then max. WBA SAR or Head SAR &lt; 0.1 W/kg</para>
+      <para>Active Scan Time 30 min. in a 60 min. window</para>
+      <para>Patient Positioning Supine or Prone</para>
+      <para>Post Scan Disable MRI Mode and turn Therapy On</para>
+      <para>Website https://www.bostonscientific.com/imageready/image-ready/gateway.html</para>
+      <table frame="all"><title>Full-Body Vercise Gevia Deep Brain Stimulation (DBS) System, Boston Scien-</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Vercise Gevia Deep Brain Stimulation (DBS) System</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Full-Body or Head Using Transmit/Receive Head RF Coil</entry></row><row><entry>Scan
+Requirements</entry><entry>Leads Only Version, DB-2201 or DB-2202 Leads
+Patient is implanted with a booted lead system comprised of Leads, Lead Boots, and Burr Hole
+Cover
+Leads are capped with Lead Boots on proximal ends and excess Lead is coiled and implanted under
+the scalp of the skull
+No fractured Leads
+No Extensions are present
+No Stimulator is present
+Externalized portion of Lead is not contacting the patient and is positioned in a straight configuration
+without loops, and centered with reference to the transmit/receive RF coil
+Fully Implanted Version
+Patient implanted with full DBS system comprised of Leads, Extensions, Stimulator, and Burr Hole
+Cover
+No fractured leads
+No elevated body temperature</entry></row><row><entry>System Settings
+During Scan</entry><entry>IPG fully charged
+Set IPG to MRI Mode, Therapy Off
+Impedance check automatically performed. If no error messages, proceed with MRI</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 40 T/m
+Max. gradient slew rate, 200 T/m/s
+Lead Only Version, DB-2201 or DB-2202 Leads
+Transmit body RF coil and any receive-only coil
+Transmit/receive head RF coil
+B1+RMS ≤ 2.0 μT*
+Fully Implanted Version, DB-2201 or DB-2202 Leads
+Transmit body RF coil and any receive-only coil
+Transmit/receive head RF coil
+Transmit/receive head RF coil
+B1+RMS ≤ 2.0 μT*
+Transmit body RF coil and any receive-only coil with DB-2201 Leads:
+Isocenter above vertebra T5: B1+RMS ≤ 1.5 μT*
+At or below vertebra T5: B1+RMS ≤ 2.0 μT*
+Transmit body RF coil and any receive-only coil with DB-2202 Leads:
+Isocenter above vertebra T12: B1+RMS ≤ 1.2 μT*
+At or below vertebra T12: B1+RMS ≤ 2.0 μT*
+*If B1+RMS is unavailable, then max. WBA SAR or Head SAR &lt; 0.1 W/kg</entry></row><row><entry>Active Scan Time</entry><entry>30 min. in a 60 min. window</entry></row><row><entry>Patient Positioning</entry><entry>Supine or Prone</entry></row><row><entry>Post Scan</entry><entry>Disable MRI Mode and turn Therapy On</entry></row><row><entry>Website</entry><entry>https://www.bostonscientific.com/imageready/image-ready/gateway.html</entry></row></tbody></tgroup></table><para>(IPG, implantable pulse generator; WBA, whole-body averaged; SAR, specific absorp- tion rate)</para>
+      <para>seizure or seizure-like activity, the RNS device delivers an electrical current to the brain to  stop or shorten the seizure, or possibly prevent it altogether. In 2013, the first commercially  available RNS system received FDA approval for the treatment of drug-resistant focal  epilepsy. The first generation of this neuromodulation system (RNS-300M, NeuroPace,  Inc.) was labeled MR Unsafe. A newer version (RNS-320) is labeled MR Conditional. The  MRI-related information for both of these systems is presented in <emphasis role="bold">Table 5</emphasis>.</para>
+      <table frame="all"><title>Spinal Cord Stimulation Systems</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 5</entry><entry>See PDF</entry></row></tbody></tgroup></table><para><emphasis role="bold">Spinal Cord Stimulation Systems </emphasis></para>
+      <para>Spinal cord stimulation (SCS) is commonly used to treat chronic pain of neurologic  origin, as well as other conditions that are undergoing clinical investigations (8, 9, 12). Sev- eral types of IPGs and many different types of leads with different electrode arrays are used  to administer SCS. <emphasis role="bold">Figure 10</emphasis> shows an example of a SCS device. Equipment-related factors  associated with standard SCS devices substantially complicate MRI-related issues for these  devices (8, 9, 65-72). Importantly, the lead used for SCS varies in length depending on the  spinal location targeted for stimulation, presenting particular challenges for the evaluation  of MRI-related heating (i.e., because the length of an implant is a major determinant of  heating)(3, 9, 13-15, 74). There are several different manufacturers of SCS products, many  of which have MR Conditional labeling.</para>
+      <para><emphasis role="bold">726</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para><emphasis role="bold">Figure 9.</emphasis> Responsive neurostim- ulation (RNS) device (RNS-320,  NeuroPace, Inc.). Note the rela- tively small neurostimulator that  is implanted in the skull and con- nected to two leads that have  electrodes implanted on the sur- face of the brain and into the  brain.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0509.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">Figure 10.</emphasis> A typical spinal cord stimulation  (SCS) system consists of an IPG, which is  implanted near the buttocks or abdomen, at- tached to leads. The electrodes associated  with the leads are typically implanted in the  epidural space (i.e., the area between the  dura mater and the vertebral wall).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0510.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>Initially, SCS systems approved for patients undergoing MRI were limited to the use  of 1.5-Tesla/64-MHz scanners to image the head using a transmit/receive RF head coil,  only. In 2013, the first “full-body” MR Conditional SCS systems from Medtronic were ap- proved for scanning at 1.5-Tesla/64-MHz. These AIMDs utilized “MRI SureScan” technol- ogy, which involved substantial modifications of the IPGs, leads, and electrodes and still  have conditions that must be complied with in order to perform risk-free MRI exams (8,  9). Other device manufacturers such as Boston Scientific, Abbott, Nevro, and others now  have MR Conditional SCS systems that are full-body eligible. Patients with these particular  SCS systems are now afforded the benefit of the diagnostic capabilities of MRI since other  body parts can be examined in addition to the head. <emphasis role="bold">Tables 6</emphasis> and <emphasis role="bold">7</emphasis> present MRI-related in- formation for two SCS devices from Abbott and Boston Scientific, respectively.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">727</emphasis></para>
+      <para>Implant System Responsive Neurostimulation System, RNS-320 RNS-300M</para>
+      <para>MRI Eligibility MR Conditional  MR Unsafe</para>
+      <para>Scan Region Full-Body  NA</para>
+      <para>Scan   Requirements</para>
+      <para>IPG is not end of service, EOS  10 days has passed since implant procedure  Patient has no other implant system  No elevated body temperature  Enable MRI Mode</para>
+      <para>NA</para>
+      <para>System Settings  During Scan Set IPG to MRI Mode, Therapy Off  NA</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T horizontal cylindrical bore   Max. spatial gradient magnetic field, 30 T/m   Max. gradient slew rate, 200 T/m/s   Transmit body RF coil with any receive-only coil  No transmit head or extremity RF coil (untested)  -Isocenter above T2 vertebra:   B1+RMS ≤ 2.95 μT,   Max. Head SAR: 0.6 W/kg  -Isocenter between vertebrae T8 to T2:   B1+RMS 4.67 μT,   Max. WBA SAR: 1.0 W/kg  -Isocenter below vertabra T8:   B1+RMS 4.67 μT,   Max WBA SAR: 2.0 W/kg</para>
+      <para>NA</para>
+      <para>Active Scan Time 30 min. per session, 30 min. wait period between sessions NA</para>
+      <para>Patient Positioning Supine  NA</para>
+      <para>Post Scan Disable MRI Mode, turn Therapy On NA</para>
+      <para>Website https://www.neuropace.com/providers/rns-system-mri-guidelines/</para>
+      <para>(IPG, implantable pulse generator; WBA, whole-body averaged; SAR, specific absorp- tion rate)</para>
+      <para><emphasis role="bold">Spinal Cord Stimulation Systems with Implanted Leads and External Components </emphasis></para>
+      <para>As previously mentioned, standard SCS systems have an IPG that contains the stimu- lator along with a power source that connects with leads to deliver electrical pulses via elec- trodes into the spinal column (8, 9, 12). The other platform used for SCS has an implanted  lead (which may incorporate pulse generating electronic components) and an external bat- tery and stimulator that wirelessly communicates with the lead (33, 34). Using this type of  SCS system, the patient must wear the external components when therapy is needed for  pain management. Because of the inherent shorter lead lengths and fewer metallic compo- nents, it is less challenging to meet the MRI safety requirements for these SCS systems  compared to traditional SCS systems (33, 34). In all instances, the external components are  MR Unsafe and must be removed from the patient prior to entering the MR system room.  Various manufacturers make SCS devices with implanted leads and external components.  <emphasis role="bold">Table 8</emphasis> describes the MRI-related information for one such system, the Freedom-8A  (FR8A) Stimulator Receiver for Spinal Cord Stimulator (SCS) from Stimwave Technolo- gies.</para>
+      <table frame="all"><title>Freedom-8A (FR8A) Stimulator Receiver for Spinal Cord Stimulator (SCS),</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Freedom-8A (FR8A) Stimulator Receiver for Spinal Cord Stimulator (SCS)</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Full-Body</entry></row><row><entry>Scan
+Requirements</entry><entry>No external component of the Freedom-8A (FR8A) (e.g., Wearable Antenna Assembly,
+WAA) is allowed in the MR system room</entry></row><row><entry>System Settings
+During Scan</entry><entry>None</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T or 3 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 10 T/m
+Max. gradient slew rate, 200 T/m/s
+Transmit body RF coil with any receive-only coil
+Normal Operating Mode
+Head and Extremity: Max. WBA SAR: 2.0 W/kg (3 T)
+Torso: Max. SAR: 2.0 W/kg (1.5 T), Max. SAR: 0.3 W/kg (3 T)</entry></row><row><entry>Active Scan Time</entry><entry>None</entry></row><row><entry>Patient Positioning</entry><entry>Supine and Prone</entry></row><row><entry>Post Scan</entry><entry>None</entry></row><row><entry>Website</entry><entry>https://stimwavefreedom.com/about-us/mri-information</entry></row></tbody></tgroup></table><para><emphasis role="bold">728</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para>Implant System Proclaim XR Recharge-Free SCS System</para>
+      <para>Scan Region Full-Body</para>
+      <para>Scan   Requirements</para>
+      <para>IPG in upper buttock, low back, midline, flank, or abdomen  Lead tip in the epidural space between vertebrae T7 and T12  No broken or nonfunctional leads  No abandoned devices, extensions or leads  Components fully implanted  No elevated body temperature  Enable MRI Mode</para>
+      <para>System Settings  During Scan Set IPG to MRI mode, Therapy Off</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T horizontal cylindrical bore   Max. spatial gradient magnetic field, 30 T/m  Max. gradient slew rate, 200 T/m/s   With Octrode 3186 Leads:  Transmit body RF coil with any receive-only coil   WBA SAR ≤ 0.8 W/kg  With Penta 3228 Leads:   Transmit body RF coil with any receive-only coil   WBA SAR ≤ 0.1 W/kg</para>
+      <para>Active Scan Time 30 min. per session, 30 min. wait between sessions</para>
+      <para>Patient Positioning Supine</para>
+      <para>Post Scan Disable MRI Mode, Therapy On</para>
+      <para>Website https://www.neuromodulation.abbott/us/en/hcp/provider-resources/mri-support.html</para>
+      <table frame="all"><title>Proclaim XR Recharge-Free Spinal Cord Stimulation (SCS) System, Abbott.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Proclaim XR Recharge-Free SCS System</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Full-Body</entry></row><row><entry>Scan
+Requirements</entry><entry>IPG in upper buttock, low back, midline, flank, or abdomen
+Lead tip in the epidural space between vertebrae T7 and T12
+No broken or nonfunctional leads
+No abandoned devices, extensions or leads
+Components fully implanted
+No elevated body temperature
+Enable MRI Mode</entry></row><row><entry>System Settings
+During Scan</entry><entry>Set IPG to MRI mode, Therapy Off</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 30 T/m
+Max. gradient slew rate, 200 T/m/s
+With Octrode 3186 Leads:
+Transmit body RF coil with any receive-only coil
+WBA SAR ≤ 0.8 W/kg
+With Penta 3228 Leads:
+Transmit body RF coil with any receive-only coil
+WBA SAR ≤ 0.1 W/kg</entry></row><row><entry>Active Scan Time</entry><entry>30 min. per session, 30 min. wait between sessions</entry></row><row><entry>Patient Positioning</entry><entry>Supine</entry></row><row><entry>Post Scan</entry><entry>Disable MRI Mode, Therapy On</entry></row><row><entry>Website</entry><entry>https://www.neuromodulation.abbott/us/en/hcp/provider-resources/mri-support.html</entry></row></tbody></tgroup></table><para>(IPG, implantable pulse generator; WBA, whole-body averaged; SAR, specific absorp- tion rate)</para>
+      <para><emphasis role="bold">Peripheral Nerve Stimulation System </emphasis></para>
+      <para>The use of peripheral nerve stimulation (PNS) to treat chronic pain conditions has be- come an increasingly important field in the area of neuromodulation (8, 9, 12). Pain in the  extremities may occur due to a variety of central and peripheral neuropathic and nociceptive  syndromes. Accordingly, peripheral nerve stimulation may be particularly effective when  the pain is localized to a part of a single extremity or when the source of the pain is related  to the malfunction of a known peripheral nerve. The ongoing advances in electrical neuro- modulation technology since 1999 led to the miniaturization of the implantable electronics</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">729</emphasis></para>
+      <para>(IPG, implantable pulse generator; WBA, whole-body averaged; SAR, specific absorp- tion rate)</para>
+      <para>Implant System Precision Montage MRI Spinal Cord Stimulator (SCS) System, Model SC-1200</para>
+      <para>Scan Region Full-Body</para>
+      <para>Scan   Requirements</para>
+      <para>IPG in upper buttock or lower flank  Leads in epidural space  No abandoned leads of IPGs  No fractured leads or compromised system integrity  No elevated body temperature  No external devices allowed in MR system room  Enable MRI Mode</para>
+      <para>System Settings  During Scan Set IPG to MRI mode, Therapy off</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T horizontal cylindrical bore   Max. spatial gradient magnetic field, 40 T/m  Max. gradient slew rate, 200 T/m/s  Transmit body RF coil and any receive-only coil  Transmit/receive head RF coil or transmit/receive extremity RF coil   With Avista leads:  Normal Operating Mode  WBA SAR ≤ 2.0 W/kg  Head SAR ≤ 3.2 W/kg  All other leads:   Normal Operating Mode   WBA SAR ≤ 0.1 W/kg; B1+RMS ≤ 2.0 μT or Head SAR ≤ 0.2 W/kg</para>
+      <para>Active Scan Time 30 min. per session, 60 min. wait period between sessions</para>
+      <para>Patient Positioning Supine or Prone</para>
+      <para>Post Scan Disable MRI Mode, turn Therapy On</para>
+      <para>Website https://www.bostonscientific.com/imageready/image-ready/gateway.html</para>
+      <table frame="all"><title>Precision Montage MRI Spinal Cord Stimulator (SCS) System, Model SC-1200,</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Precision Montage MRI Spinal Cord Stimulator (SCS) System, Model SC-1200</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Full-Body</entry></row><row><entry>Scan
+Requirements</entry><entry>IPG in upper buttock or lower flank
+Leads in epidural space
+No abandoned leads of IPGs
+No fractured leads or compromised system integrity
+No elevated body temperature
+No external devices allowed in MR system room
+Enable MRI Mode</entry></row><row><entry>System Settings
+During Scan</entry><entry>Set IPG to MRI mode, Therapy off</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 40 T/m
+Max. gradient slew rate, 200 T/m/s
+Transmit body RF coil and any receive-only coil
+Transmit/receive head RF coil or transmit/receive extremity RF coil
+With Avista leads:
+Normal Operating Mode
+WBA SAR ≤ 2.0 W/kg
+Head SAR ≤ 3.2 W/kg
+All other leads:
+Normal Operating Mode
+WBA SAR ≤ 0.1 W/kg; B ≤ 2.0 μT or Head SAR ≤ 0.2 W/kg
+1+RMS</entry></row><row><entry>Active Scan Time</entry><entry>30 min. per session, 60 min. wait period between sessions</entry></row><row><entry>Patient Positioning</entry><entry>Supine or Prone</entry></row><row><entry>Post Scan</entry><entry>Disable MRI Mode, turn Therapy On</entry></row><row><entry>Website</entry><entry>https://www.bostonscientific.com/imageready/image-ready/gateway.html</entry></row></tbody></tgroup></table><para>and that paved the way for using a minimally invasive percutaneous approach to target those  peripheral nerves directly as opposed to using standard SCS systems.</para>
+      <para>Despite the advances in the PNS technologies, there are only a handful of neuromodu- lation devices designed specifically for the periphery. However, similar to SCS devices with  implanted leads and external components, because of the miniaturization of the implantable  PNS devices, there are fewer limitations for the use of MRI in patients with these implants  (<emphasis role="bold">Figure 11</emphasis>). <emphasis role="bold">Table 9</emphasis> summarizes the MRI-related information for the Nalu Neurostimula- tion System (Nalu Medical, Inc.) used for PNS.</para>
+      <table frame="all"><title>Nalu Neurostimulation System for Peripheral Nerve Stimulation (PNS), Nalu</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Nalu Neurostimulation System for Peripheral Nerve Stimulation (PNS)</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Head and Extremity</entry></row><row><entry>Scan
+Requirements</entry><entry>Impedance check of 10kΩ within prior 7 days of scan
+Do not sedate the patient
+No external part allowed in the MR system room</entry></row><row><entry>System Settings
+During Scan</entry><entry>None</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T or 3 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 20 T/m
+Max. gradient slew rate, 200 T/m/s
+Normal Operating Mode
+Max. WBA SAR: 2.0 W/kg
+No parts of the implanted system are allowed within any transmit/receive RF coil</entry></row><row><entry>Active Scan Time</entry><entry>15 min.</entry></row><row><entry>Patient Positioning</entry><entry>Supine or Prone</entry></row><row><entry>Post Scan</entry><entry>None</entry></row><row><entry>Website</entry><entry>https://nalumed.com/physician-resources-content/</entry></row></tbody></tgroup></table><para><emphasis role="bold">730</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para>Implant System Freedom-8A (FR8A) Stimulator Receiver for Spinal Cord Stimulator (SCS)</para>
+      <para>Scan Region Full-Body</para>
+      <para>Scan   Requirements</para>
+      <para>No external component of the Freedom-8A (FR8A) (e.g., Wearable Antenna Assembly,  WAA) is allowed in the MR system room</para>
+      <para>System Settings  During Scan None</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T or 3 T horizontal cylindrical bore   Max. spatial gradient magnetic field, 10 T/m  Max. gradient slew rate, 200 T/m/s  Transmit body RF coil with any receive-only coil  Normal Operating Mode  Head and Extremity: Max. WBA SAR: 2.0 W/kg (3 T)  Torso: Max. SAR: 2.0 W/kg (1.5 T), Max. SAR: 0.3 W/kg (3 T)</para>
+      <para>Active Scan Time None</para>
+      <para>Patient Positioning Supine and Prone</para>
+      <para>Post Scan None</para>
+      <para>Website https://stimwavefreedom.com/about-us/mri-information</para>
+      <para>(WBA, whole-body averaged; SAR, specific absorption rate)</para>
+      <para><emphasis role="bold">Figure 11.</emphasis> The Nalu Neurostimulation System (Nalu  Medical, Inc.) is approved for peripheral nerve stimu- lation and spinal cord stimulation, as shown in this  figure. Note the miniaturized implantable electronics.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0511.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">Sacral Nerve Stimulation System </emphasis></para>
+      <para>The sacral nerve stimulation (SNS) system is a neuromodulation system that is indicated  for the treatment of urinary retention and the symptoms of overactive bladder, including  urinary urge incontinence and significant symptoms of urgency-frequency alone or in com- bination, in patients who have failed or could not tolerate more conservative treatments.  SNS devices may also be used for bowel control and, thus, are indicated for the treatment  of chronic fecal incontinence in patients who have failed or who are not candidates for more  conservative treatments.</para>
+      <para>Medtronic pioneered the first SNS systems, the InterStim and InterStim II Neuromod- ulation Systems) for clinical applications (<emphasis role="bold">Figure 12</emphasis>), both of which have MR Conditional  labeling (75-78). Recently, Axonics Modulation Technologies, received FDA approval and  MR Conditional labeling for their device, the Axonics Sacral Nerve Stimulation (SNM)  Neurostimulator (<emphasis role="bold">Figure 13</emphasis>). The MRI-related information for the Interstim II Sacral Nerve  Stimulation System and the Axonics Sacral Nerve Stimulation Neurostimulator is shown  in <emphasis role="bold">Tables 10</emphasis> and <emphasis role="bold">11</emphasis>.</para>
+      <para><emphasis role="bold">Vagus Nerve Stimulation Systems  </emphasis></para>
+      <para>Vagus nerve stimulation (VNS) therapy is a technique that uses a pulse generator to de- liver intermittent electrical pulses via a lead that has helical cuff electrodes that are used to  securely attach them to the vagus nerve at the cervical level (9, 79-88). In the U.S., VNS</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">731</emphasis></para>
+      <para>Implant System Nalu Neurostimulation System for Peripheral Nerve Stimulation (PNS)</para>
+      <para>Scan Region Head and Extremity</para>
+      <para>Scan   Requirements</para>
+      <para>Impedance check of 10kΩ within prior 7 days of scan   Do not sedate the patient  No external part allowed in the MR system room</para>
+      <para>System Settings  During Scan None</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T or 3 T horizontal cylindrical bore   Max. spatial gradient magnetic field, 20 T/m  Max. gradient slew rate, 200 T/m/s   Normal Operating Mode  Max. WBA SAR: 2.0 W/kg   No parts of the implanted system are allowed within any transmit/receive RF coil</para>
+      <para>Active Scan Time 15 min.</para>
+      <para>Patient Positioning Supine or Prone</para>
+      <para>Post Scan None</para>
+      <para>Website https://nalumed.com/physician-resources-content/</para>
+      <para>(WBA, whole-body averaged; SAR, specific absorption rate)</para>
+      <para>therapy is approved for treatment of epilepsy and medication-resistant depression and is  under investigation as a therapy for other disorders, including anxiety, Alzheimer's disease,  morbid obesity, and migraine headaches. Currently, a few AIMDs are available from   LivaNova (previously Cyberonics) and Enteromedics that are FDA approved for vagus  nerve stimulation, but only the devices from LivaNova have MR Conditional labeling, such  as the SenTiva Vagus Nerve Stimulation System, Model 1000 (LivaNova, Inc.)(<emphasis role="bold">Figure 14</emphasis>).  MRI is often needed to evaluate patients with the VNS devices, including for the purpose  of elucidating the mechanisms responsible for the success or failure of this therapy (9, 79- 88). The MRI-related information for the SenTiva Vagus Nerve Stimulation System, Model  1000 is presented in <emphasis role="bold">Table 12</emphasis>.</para>
+      <table frame="all"><title>732</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 12</entry><entry>See PDF</entry></row></tbody></tgroup></table><para><emphasis role="bold">732</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para><emphasis role="bold">Figure 12.</emphasis> The Interstim II Sacral Nerve  Stimulation System, Medtronic, Inc.  Note the IPG implanted near the buttocks  and the positions of the lead and elec- trodes.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0512.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">Figure 13.</emphasis> Axonics Sacral Nerve Stim- ulation (SNM) Neurostimulator, Axon- ics Modulation Technologies, Inc.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0513.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">733</emphasis></para>
+      <para><emphasis role="bold">Figure 14.</emphasis> The SenTiva  Vagus Nerve Stimulation  System, Model 1000,   LivaNova, Inc. Note the  lead with helical cuff elec- trodes that are used to se- curely attach them to the  vagus nerve at the cervical  level.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0514.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>Implant System Interstim II Sacral Nerve Stimulation System</para>
+      <para>Scan Region Full-Body</para>
+      <para>Scan   Requirements No elevated body temperature</para>
+      <para>System Settings  During Scan MRI readiness check, enable MRI Mode, Therapy Off</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T or 3 T horizontal cylindrical bore  Max. spatial gradient magnetic field, 20 T/m  Max. gradient slew rate, 200 T/m/s  Transmit body RF coil with any receive-only coil   -Isocenter at or above vertebra T7:   Normal Operating Mode or First Level Controlled Operating Mode (1.5 T and 3 T)  -Isocenter below vertebra T7:  B1+RMS  ≤ 4.0 μT or WBA SAR ≤ 2.0 W/Kg (1.5 T)  -Isocenter below T7 vertebra:  B1+RMS  ≤ 2.0 μT or WBA SAR ≤ 1.4 W/Kg (3 T)</para>
+      <para>Active Scan Time 30 min. with 5 min. wait period between sessions</para>
+      <para>Patient Positioning Supine or Prone</para>
+      <para>Post Scan Disable MRI Mode and turn Therapy On</para>
+      <para>Website https://manuals.medtronic.com/manuals/main/region</para>
+      <table frame="all"><title>Interstim II Sacral Nerve Stimulation System, Medtronic, Inc.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Interstim II Sacral Nerve Stimulation System</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Full-Body</entry></row><row><entry>Scan
+Requirements</entry><entry>No elevated body temperature</entry></row><row><entry>System Settings
+During Scan</entry><entry>MRI readiness check, enable MRI Mode, Therapy Off</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T or 3 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 20 T/m
+Max. gradient slew rate, 200 T/m/s
+Transmit body RF coil with any receive-only coil
+-Isocenter at or above vertebra T7:
+Normal Operating Mode or First Level Controlled Operating Mode (1.5 T and 3 T)
+-Isocenter below vertebra T7:
+B ≤ 4.0 μT or WBA SAR ≤ 2.0 W/Kg (1.5 T)
+1+RMS
+-Isocenter below T7 vertebra:
+B ≤ 2.0 μT or WBA SAR ≤ 1.4 W/Kg (3 T)
+1+RMS</entry></row><row><entry>Active Scan Time</entry><entry>30 min. with 5 min. wait period between sessions</entry></row><row><entry>Patient Positioning</entry><entry>Supine or Prone</entry></row><row><entry>Post Scan</entry><entry>Disable MRI Mode and turn Therapy On</entry></row><row><entry>Website</entry><entry>https://manuals.medtronic.com/manuals/main/region</entry></row></tbody></tgroup></table><para>(WBA, whole-body averaged; SAR, specific absorption rate)</para>
+      <para><emphasis role="bold">Cochlear Implants </emphasis></para>
+      <para>A cochlear implant (CI) is neuromodulation system designed to help severely-to-pro- foundly deaf adults and children who get little or no benefit from external hearing aids (89- 106). Notably, even individuals with severe or profound “nerve deafness” may benefit from  these AIMDs. A cochlear implant has two main parts: an external part that hooks over the  ear or that is worn on the head, and a surgically implanted internal part (<emphasis role="bold">Figure 15</emphasis>). The  two components are coupled together using powerful magnets, one or more of which are  implanted. With respect to the external part of the CI, this component contains a transmitter,  microphone, and speech or sound processor. The microphone detects acoustic sounds and  sends it to the speech processor. The processor then analyzes and digitizes the signal before  sending it to the transmitter. The transmitter “codes” the signals and sends them to the im- planted receiver via the magnetic coupling. With respect to the internal part, this component  includes one or more magnets, a receiver, which is located under the skin on the temporal  bone, and one or more electrode arrays (<emphasis role="bold">Figure 16</emphasis>). The receiver collects signals from the  transmitter and converts them to electrical pulses, which are then dispatched to the elec- trodes that have been inserted into the inner ear. The electrodes directly stimulate the audi- tory nerve throughout a portion of the cochlea, resulting in the brain interpreting the signals  as sound.</para>
+      <para><emphasis role="bold">734</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para>Implant System Axonics Sacral Nerve Stimulation (SNM) Neurostimulator, Model 1101 With Tined  Lead, Model 1201 or 2201</para>
+      <para>Scan Region Full-Body</para>
+      <para>Scan   Requirements</para>
+      <para>IPG must be implanted in the posterior hip area or upper buttock area  No other implanted device   No external components permitted in the MR system room</para>
+      <para>System Settings  During Scan Turn Therapy Off</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T or 3 T horizontal cylindrical bore  Max. spatial gradient magnetic field, 25 T/m  Max. gradient slew rate, 200 T/m/s  Transmit body RF coil with any receive-only coil  Normal Operating Mode  1.5 T, Max. WBA SAR 0.85 W/Kg, Max. B1+RMS 3 μT  3 T, Max. WBA SAR 0.6 W/Kg, Max. B1+RMS 1 μT</para>
+      <para>Active Scan Time Max. 30 min.</para>
+      <para>Patient Positioning Supine or Prone</para>
+      <para>Post Scan Turn Therapy On</para>
+      <para>Website https://www.axonics.com/</para>
+      <table frame="all"><title>Axonics Sacral Nerve Stimulation (SNM) Neurostimulator, Axonics Modula-</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Axonics Sacral Nerve Stimulation (SNM) Neurostimulator, Model 1101 With Tined
+Lead, Model 1201 or 2201</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Full-Body</entry></row><row><entry>Scan
+Requirements</entry><entry>IPG must be implanted in the posterior hip area or upper buttock area
+No other implanted device
+No external components permitted in the MR system room</entry></row><row><entry>System Settings
+During Scan</entry><entry>Turn Therapy Off</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T or 3 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 25 T/m
+Max. gradient slew rate, 200 T/m/s
+Transmit body RF coil with any receive-only coil
+Normal Operating Mode
+1.5 T, Max. WBA SAR 0.85 W/Kg, Max. B 3 μT
+1+RMS
+3 T, Max. WBA SAR 0.6 W/Kg, Max. B 1 μT
+1+RMS</entry></row><row><entry>Active Scan Time</entry><entry>Max. 30 min.</entry></row><row><entry>Patient Positioning</entry><entry>Supine or Prone</entry></row><row><entry>Post Scan</entry><entry>Turn Therapy On</entry></row><row><entry>Website</entry><entry>https://www.axonics.com/</entry></row></tbody></tgroup></table><para>(IPG, implantable pulse generator; WBA, whole-body averaged; SAR, specific absorp- tion rate)</para>
+      <para>The technology used for cochlear implants has made tremendous advancements since  the earliest version used in the 1960s, which was relatively large and had a single electrode  (106). Presently, sophisticated CI devices exist and are available from three major manu- facturers: Cochlear Limited, Advanced Bionics, and MED-EL. Similar to other AIMDs, CI  systems were not originally designed in consideration of the electromagnetic fields used  during MRI. Not surprisingly, the implanted magnets, which are integral parts of these de- vices, along with the presence of other ferromagnetic materials used in the internal compo- nents of cochlear implants, present particular challenges for MRI safety (89, 93, 98, 99,  101-105).</para>
+      <para>MRI-related labeling for the first CI devices required removal of the magnets prior to  performing MRI exams, meaning that the patient had to undergo two separate surgical pro- cedures: one to remove the magnet and another to replace it after undergoing MRI (<emphasis role="bold">Figure </emphasis> <emphasis role="bold">17</emphasis>). One of the major issues related to removal and replacement of the magnet is that the  patient with a CI needed to endure a period without sound to allow the surgical wound to  heal. Obviously, this was undesirable for most patients, resulting in many individuals re- fusing to have MRI exams, undergoing less favorable diagnostic imaging procedures, which  usually involved exposure to ionizing radiation.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">735</emphasis></para>
+      <para>Implant System SenTiva Vagus Nerve Stimulation (VNS) System, Model 1000</para>
+      <para>Scan Region Full-Body</para>
+      <para>Scan   Requirements IPG implanted in upper chest or above armpit</para>
+      <para>System Settings  During Scan MRI readiness check, enable MRI Mode, Therapy Off, Sensing Off</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T or 3 T horizontal cylindrical bore  Max. spatial gradient magnetic field, 30 T/m  Max. gradient slew rate, 200 T/m/s  Body RF transmit coil w/ any receive coil  only  Transmit-Receive head coil or extremity coil  Exclusion Zones:   Vertebra C7 to L3 (transmit body RF coil),   Vertebra C7 to T8 (transmit head or extremity RF coil)|  Max. SAR: 3.2 W/kg (head or extremity RF coil)  Max. SAR: 2.0 W/kg (transmit body RF coil)</para>
+      <para>Active Scan Time No time restrictions for transmit/receive head RF coil  Transmit body RF coil, 15 min. with 30 min. wait period between sessions</para>
+      <para>Patient Positioning Supine or Prone</para>
+      <para>Post Scan Disable MRI Mode, turn Therapy On.</para>
+      <para>Website www.vnstherapy.com</para>
+      <para>(IPG, implantable pulse generator; WBA, whole-body averaged; SAR, specific absorp- tion rate)</para>
+      <para>In order to avoid magnet removal and replacement surgery, an alternative approach was  utilized, whereby a “compression bandage and splint kit” was used to immobilize the  cochlear implant’s magnet and control its orientation with respect to the direction of the  static magnetic field (98, 101-104). This MRI safety strategy was suboptimal because pa- tients could experience unintended acoustic stimulation because of the implant’s interactions  with the electromagnetic fields that are applied during scanning (89). Notably, clinical im- aging of the patient’s head was still impacted by substantial signal loss and distortion caused  by the implant (this occurred even with the magnet removed due to the ferromagnetic ma- terials used in cochlear implants)(89, 94, 97-99). Furthermore, there was still a tendency</para>
+      <para><emphasis role="bold">736</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para><emphasis role="bold">Figure 16.</emphasis> Diagram  showing the internal  parts of one type of  cochlear implant: active  electrode array; ball re- turn electrode; implant  coil and magnet; and re- ceiver/stimulator.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0515.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">Figure 15. </emphasis>Diagram showing a  typical cochlear implant (CI). A  CI has two main components: an  external part that hooks over the  ear or that is worn on the head,  and a surgically implanted inter- nal part. The two components are  coupled together using a magnet.  The external part contains a  transmitter, microphone, and  speech or sound processor. The  internal part includes the magnet,  a receiver, which is located under  the skin on the temporal bone,  and one or more electrode arrays.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0516.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">737</emphasis></para>
+      <para><emphasis role="bold">Figure 17.</emphasis>  Schematic showing removal of the  internal magnet used with a cochlear implant.  The first MR Conditional cochlear implants re- quired removal of the magnets prior to perform- ing an MRI exam.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0517.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">Figure 18.</emphasis> Modified Stenver’s view X-rays before (left panel) and after (right panel)  magnet displacement associated with exposure to an MRI system. Before MRI and dis- placement, the magnet (2) was located in the geometrical center of the antenna coil (3).  After MRI and magnet dislocation (right panel), the magnet is clearly shifted outwards in  relation to the antenna coil (white arrow).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0518.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">Figure 19.</emphasis> The HiRes Ultra 3D  Cochlear Implant, Advanced Bion- ics, LLC. Note the magnetic com- ponent (3D). This device has  multiple magnets that rotate to  align to the direction of the static  magnetic field of the MR system.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0519.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>for the implanted magnets to be dislocated (<emphasis role="bold">Figure 18</emphasis>), causing pain and other problematic  symptoms in patients, and/or to be demagnetized, especially when patients were imaged at  3-Tesla (90-96, 98-105)</para>
+      <para>A new generation of cochlear implants has been specifically-designed for patients un- dergoing MRI. These cochlear implants have multiple “rotating” magnets that align to the  direction of the MR scanner’s static magnetic field (<emphasis role="bold">Figures 19, 20</emphasis>, and <emphasis role="bold">21</emphasis>). This unique  feature was implemented with the intent of preventing the painful symptoms frequently ex-</para>
+      <para><emphasis role="bold">738</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para><emphasis role="bold">Figure 20.</emphasis> The HiRes Ultra 3D Cochlear Implant, Advanced  Bionics, LLC has a unique multi-magnet assembly that is  composed of four rotatable magnets encased in a revolving  disc, permitting the magnets to align with the direction of the  static magnetic field of an MR system.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0520.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">Figure 21.</emphasis> The Mi1200 SYNCHRONY Cochlear Implant, MED-EL Corporation has dia- metric magnet poles that rotate within the device to align with the direction of the static  magnetic field of the MR system. (<emphasis role="bold">A</emphasis>) This cochlear implant has the possibility of remov- ing the internal magnet, if that is desired for the MRI exam. (<emphasis role="bold">B</emphasis>) The magnet is freely ro- tating. (<emphasis role="bold">C</emphasis>) The magnet is in a random position, when no external magnetic field is  applied. (<emphasis role="bold">D</emphasis>) The magnet is aligned to the direction of the static magnetic field of the MR  scanner.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0521.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>perienced by patients, along with avoiding dislocated magnets, which tends to occur with  standard cochlear implants (89-96, 98-105). Unfortunately, patients with these cochlear im- plants continue to experience injury, explantation, and device malfunction despite the sub- stantial efforts made to prevent such issues. <emphasis role="bold">Tables 13</emphasis> and <emphasis role="bold">14</emphasis> lists the MRI-related  information for cochlear implants that have rotating magnets, the HiRes Ultra 3D Cochlear  Implant (Advanced Bionics, LLC) and the Mi1200 SYNCHRONY Cochlear Implant  (MED-EL Corporation), both of which have MR Conditional labeling at 1.5- and 3-Tesla.</para>
+      <para><emphasis role="bold">Implantable Infusion Pumps </emphasis></para>
+      <para>Implantable infusion pumps systems are used for intrathecal or intravascular adminis- tration of various medications, especially those used for pain management (8, 9, 107-114)  (<emphasis role="bold">Figure 22</emphasis>). Targeted drug delivery with these AIMDs provides several advantages includ- ing the fact that significantly decreased dosages may be used in patients (which appears to  reduce drug-related adverse events) and, importantly, these devices permit patient mobility  (8, 107, 108).</para>
+      <para>An infusion pump operates by having the drug enter the pump through the reservoir  fill port, where it passes through the reservoir valve and the pump’s reservoir. At normal  body temperatures, pressurized gas that is stored below the reservoir expands, exerting pres- sure on the reservoir. The pressure helps advance the drug into the pump’s tubing. The peri- staltic action of the pump moves the drug from the pump’s reservoir, through the pump’s  tubing, check valve, catheter access port, through the implanted catheter, to the infusion  site. <emphasis role="bold">Figure 23</emphasis> shows a schematic of the critical components of an implantable infusion  pump.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">739</emphasis></para>
+      <para>Implant System HiRes Ultra 3D Cochlear Implant</para>
+      <para>Scan Region Full-Body</para>
+      <para>Scan   Requirements</para>
+      <para>External sound processor and headpiece must be removed   No elevated body temperature  2 to 4 weeks has passed since surgery</para>
+      <para>System Settings  During Scan None</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T or 3 T horizontal cylindrical bore  Max. spatial gradient magnetic field, 20 T/m  Max. gradient slew rate, 200 T/m/s   Transmit body RF coil with any receive-only coil  Max. WBA SAR: 2.0 W/kg (1.5 T &amp; 3 T)  Max. Head SAR: 3.2 W/kg (1.5 T), 2.6 W/kg (3 T)</para>
+      <para>Active Scan Time 15 min. continuous scanning</para>
+      <para>Patient Positioning Supine or Prone</para>
+      <para>Post Scan None</para>
+      <para>Website www.advancedbionics.com/mri</para>
+      <table frame="all"><title>HiRes Ultra 3D Cochlear Implant, Advanced Bionics, LLC.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>HiRes Ultra 3D Cochlear Implant</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Full-Body</entry></row><row><entry>Scan
+Requirements</entry><entry>External sound processor and headpiece must be removed
+No elevated body temperature
+2 to 4 weeks has passed since surgery</entry></row><row><entry>System Settings
+During Scan</entry><entry>None</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T or 3 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 20 T/m
+Max. gradient slew rate, 200 T/m/s
+Transmit body RF coil with any receive-only coil
+Max. WBA SAR: 2.0 W/kg (1.5 T &amp; 3 T)
+Max. Head SAR: 3.2 W/kg (1.5 T), 2.6 W/kg (3 T)</entry></row><row><entry>Active Scan Time</entry><entry>15 min. continuous scanning</entry></row><row><entry>Patient Positioning</entry><entry>Supine or Prone</entry></row><row><entry>Post Scan</entry><entry>None</entry></row><row><entry>Website</entry><entry>www.advancedbionics.com/mri</entry></row></tbody></tgroup></table><para>(WBA, whole-body averaged; SAR, specific absorption rate)</para>
+      <para><emphasis role="bold">740</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para>Implant System Mi1200 SYNCHRONY Cochlear Implant</para>
+      <para>Scan Region Full-Body</para>
+      <para>Scan   Requirements</para>
+      <para>Electrically and mechanically intact  Surgically remove the magnet  External sound processor and headpiece must be removed   No elevated body temperature</para>
+      <para>System Settings  During Scan None</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T or 3 T horizontal cylindrical bore  Max. spatial gradient magnetic field, 29 T/m  Max. gradient slew rate, 200 T/m/s  Transmit body RF coil with any receive-coil  Normal Operating Mode  Max. WBA SAR: 2.0 W/kg (1.5 T &amp; 3 T)  Max. Head SAR: 3.2 W/kg (1.5 T), 1.6 W/kg (3 T)</para>
+      <para>Active Scan Time No restrictions</para>
+      <para>Patient Positioning Supine, Prone, or Lateral Decubitus Positions With Head Kept Straight</para>
+      <para>Post Scan None</para>
+      <para>Website www.medel.com/isi/</para>
+      <table frame="all"><title>Mi1200 SYNCHRONY Cochlear Implant, MED-EL Corporation.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Mi1200 SYNCHRONY Cochlear Implant</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Full-Body</entry></row><row><entry>Scan
+Requirements</entry><entry>Electrically and mechanically intact
+Surgically remove the magnet
+External sound processor and headpiece must be removed
+No elevated body temperature</entry></row><row><entry>System Settings
+During Scan</entry><entry>None</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T or 3 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 29 T/m
+Max. gradient slew rate, 200 T/m/s
+Transmit body RF coil with any receive-coil
+Normal Operating Mode
+Max. WBA SAR: 2.0 W/kg (1.5 T &amp; 3 T)
+Max. Head SAR: 3.2 W/kg (1.5 T), 1.6 W/kg (3 T)</entry></row><row><entry>Active Scan Time</entry><entry>No restrictions</entry></row><row><entry>Patient Positioning</entry><entry>Supine, Prone, or Lateral Decubitus Positions With Head Kept Straight</entry></row><row><entry>Post Scan</entry><entry>None</entry></row><row><entry>Website</entry><entry>www.medel.com/isi/</entry></row></tbody></tgroup></table><para>(WBA, whole-body averaged; SAR, specific absorption rate)</para>
+      <para><emphasis role="bold">Figure 22. </emphasis>Example of a typical infusion pump used for intrathecal or intravascular ad- ministration of medication. The infusion pump is implanted subcutaneously in the area of  the abdomen and the end of catheter is placed at a desired delivery site.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0522.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>Infusion pumps and associated catheters typically contain metallic parts and, thus, can  be impacted by MRI-related electromagnetic fields (3, 9, 100-114). For example, the elec- tromagnetic fields (static magnetic, time-varying gradient magnetic, and radio frequency  fields) may displace the infusion pump, generate excessive heating, alter the programmed  settings, damage the device, and create substantial artifacts. Several programmable pumps  have undergone comprehensive MRI testing and certain ones have FDA approved, MR  Conditional labeling. <emphasis role="bold">Tables 15</emphasis> and <emphasis role="bold">16</emphasis> present the MRI-related information for two of the  more popular implantable infusion pumps: the Prometra II Programmable Pump (Flowonix  Medical) and the SynchroMed II Implantable Drug Infusion Pump (Medtronic, Inc.).</para>
+    </sect1>
+    <sect1 id="ch0026s07">
+      <title>CONCLUSIONS</title>
+      <para>With the continued advancements in MRI technology and the development of more so- phisticated AIMDs, there is an increased potential for hazardous situations to occur in the  MRI environment. Therefore, to prevent incidents and accidents, it is essential to be cog- nizant of the latest information pertaining to MRI safety and to adhere to current labeling  for AIMDs, particularly for neuromodulation systems. Unfortunately, there is still reluctance  by MRI facilities to scan patients with neuromodulation systems. Thus, further interaction  is needed by the device manufacturers to provide educational resources and technical sup- port, so that MRI healthcare professionals feel competent when performing MRI in patients  with AIMDs.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">741</emphasis></para>
+      <para><emphasis role="bold">Figure 23. </emphasis>Schematic of the SynchroMed II Implantable Drug Infusion Pump,  Medtronic, Inc. showing the various critical components including the peristaltic pump,  motor, battery, refill port, and reservoir.</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0523.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">742</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para>Implant System Prometra II Programmable Pump</para>
+      <para>Scan Region Full-Body</para>
+      <para>Scan   Requirements</para>
+      <para>Surgical site must be fully healed  Make sure the patient can be deprived of drug delivery for the duration of the MRI exam</para>
+      <para>System Settings  During Scan</para>
+      <para>Confirm the pump operations and settings  Empty the pump prior to MRI</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T horizontal cylindrical bore  Max. spatial gradient magnetic field, 19 T/m  Max. gradient slew rate, 200 T/m/s   Circularly polarized drive RF coil  Transmit body RF coil with any receive-only coil   Normal Operating Mode  Max. WBA SAR: 2.0 W/kg</para>
+      <para>Active Scan Time 10 min. per pulse sequence</para>
+      <para>Patient Positioning Supine, Prone, or Lateral Decubitus</para>
+      <para>Post Scan Confirm the pump operations and settings.</para>
+      <para>Website www.flowonix.com</para>
+      <table frame="all"><title>Prometra II Programmable Pump, Flowonix Medical.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Prometra II Programmable Pump</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Full-Body</entry></row><row><entry>Scan
+Requirements</entry><entry>Surgical site must be fully healed
+Make sure the patient can be deprived of drug delivery for the duration of the MRI exam</entry></row><row><entry>System Settings
+During Scan</entry><entry>Confirm the pump operations and settings
+Empty the pump prior to MRI</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 19 T/m
+Max. gradient slew rate, 200 T/m/s
+Circularly polarized drive RF coil
+Transmit body RF coil with any receive-only coil
+Normal Operating Mode
+Max. WBA SAR: 2.0 W/kg</entry></row><row><entry>Active Scan Time</entry><entry>10 min. per pulse sequence</entry></row><row><entry>Patient Positioning</entry><entry>Supine, Prone, or Lateral Decubitus</entry></row><row><entry>Post Scan</entry><entry>Confirm the pump operations and settings.</entry></row><row><entry>Website</entry><entry>www.flowonix.com</entry></row></tbody></tgroup></table><para>(WBA, whole-body averaged; SAR, specific absorption rate)</para>
+      <para>Implant System SynchroMed II Implantable Drug Infusion Pump, Model 8637</para>
+      <para>Scan Region Full-Body</para>
+      <para>Scan   Requirements</para>
+      <para>Make sure that the patient can be deprived of drug delivery for the duration of the MRI  exam</para>
+      <para>System Settings  During Scan</para>
+      <para>Confirm that the pump is not oriented 90° with respect to the Z-axis of the static magnetic  field of the MR system</para>
+      <para>MRI Scan   Conditions</para>
+      <para>1.5 T or 3 T horizontal cylindrical bore   Max. spatial gradient magnetic field, 19 T/m  Max. gradient slew rate, 200 T/m/s  Transmit body RF coil with any receive-only coil  First Level Controlled Operating Mode  Max. SAR: Not Specified</para>
+      <para>Active Scan Time 30 min. continuous scanning</para>
+      <para>Patient Positioning Supine or Prone</para>
+      <para>Post Scan Motor of the pump may stall and delay the infusion up to 24 hrs.  Wait for 20 min. and confirm that therapy has resumed.</para>
+      <para>Website https://manuals.medtronic.com/manuals/main/region</para>
+      <table frame="all"><title>SynchroMed II Implantable Drug Infusion Pump, Model 8637, Medtronic, Inc.</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Implant System</entry><entry>Prometra II Programmable Pump</entry></row></thead><tbody><row><entry>Scan Region</entry><entry>Full-Body</entry></row><row><entry>Scan
+Requirements</entry><entry>Surgical site must be fully healed
+Make sure the patient can be deprived of drug delivery for the duration of the MRI exam</entry></row><row><entry>System Settings
+During Scan</entry><entry>Confirm the pump operations and settings
+Empty the pump prior to MRI</entry></row><row><entry>MRI Scan
+Conditions</entry><entry>1.5 T horizontal cylindrical bore
+Max. spatial gradient magnetic field, 19 T/m
+Max. gradient slew rate, 200 T/m/s
+Circularly polarized drive RF coil
+Transmit body RF coil with any receive-only coil
+Normal Operating Mode
+Max. WBA SAR: 2.0 W/kg</entry></row><row><entry>Active Scan Time</entry><entry>10 min. per pulse sequence</entry></row><row><entry>Patient Positioning</entry><entry>Supine, Prone, or Lateral Decubitus</entry></row><row><entry>Post Scan</entry><entry>Confirm the pump operations and settings.</entry></row><row><entry>Website</entry><entry>www.flowonix.com</entry></row></tbody></tgroup></table><para>(SAR, specific absorption rate)</para>
+      </sect1>
+    <sect1 id="ch0026s08">
+      <title>REFERENCES</title>
+      <para>1.  International Electrotechnical Commission, IEC 60601-2-33: Particular requirements for the basic safety  and essential performance of magnetic resonance equipment for medical diagnosis. 2015.</para>
+      <para>2.  U.S. Department of Health and Human Services, Food and Drug Administration, Center for Devices  and Radiological Health, Guidance for Industry and FDA Staff: Criteria for Significant Risk Investiga- tions of Magnetic Resonance Diagnostic Devices. 2014.</para>
+      <para>3.  Shellock FG. Reference Manual for Magnetic Resonance Safety, Implants and Devices: 2020 Edition.  Los Angeles: Biomedical Research Publishing Group; 2020.</para>
+      <para>4.  Stafford RJ. The physics of magnetic resonance imaging safety. Magn Reson Imaging Clin N Am  2020;28:517-536.</para>
+      <para>5.  Panych LP, Madore B. The physics of MRI safety. J Magn Reson Imaging 2018;47:28-43.</para>
+      <para>6.  www.MRIsafety.com, Accessed September, 2021.</para>
+      <para>7.  ACR Manual on MR Safety. American College of Radiology 2020. Available via www.ACR.org. Ac- cessed September, 2021</para>
+      <para>8.  Sayad D, Chakravarthy K, Amirdelfan K, et al. A comprehensive practice guideline for magnetic reso- nance imaging compatibility in implanted neuromodulation devices. Neuromodulation 2020;23:893– 911.</para>
+      <para>9.  Manker, S. Shellock FG. Chapter 24. MRI Safety and Neuromodulation Systems. In: Krames ES, Peck- ham Hunter P, Rezai AR, Editors. Neurmodulation. Second Edition. New York: Academic Press/Elsevier;  2018. pp. 315-337.</para>
+      <para>10.  International Neuromodulation Society. Ten Things to Know About Neuromodulation. www.neuromod- ulation.com. Accessed September, 2021</para>
+      <para>11.  Krauss JK, Lipsman N, Aziz T, et al. Technology of deep brain stimulation: Current status and future  directions. Nat Rev Neurol 2021;17:75-87.</para>
+      <para>12.  Walsh KM, Machado AG, Krishnaney AA. Spinal cord stimulation: A review of the safety literature and  proposal for perioperative evaluation and management. Spine J 2015;15:1864-9.</para>
+      <para>13.  Aldayeh L, Rahman M, Venook R. Practical aspects of MR imaging safety test methods for MR Condi- tional active implantable medical devices. Magn Reson Imaging Clin N Am 2020;28:559-571.</para>
+      <para>14.  Watson RE Jr, Edmonson HA. MR safety: Active implanted medical devices. Magn Reson Imaging Clin  N Am. 2020 Nov;28:549-558.</para>
+      <para>15.  Shellock FG. Radiofrequency energy-induced heating during MR procedures: A review. J Magn Reson  Imaging 2000;12:30-36.</para>
+      <para>16.  Spiegel J, Fuss G, Backens M, et al. Transient dystonia following magnetic resonance imaging in a pa- tient with deep brain stimulation electrodes for the treatment of Parkinson disease. J Neurosurg  2003;99:772-774.</para>
+      <para>17.  Henderson J, Tkach J, Phillips M, et al. Permanent neurological deficit related to magnetic resonance  imaging in a patient with implanted deep brain stimulation electrodes for Parkinson’s disease: Case re- port. Neurosurgery 2005;57:E1063.</para>
+      <para>18.  Rezai AR, Baker K, Tkach J, et al. Is magnetic resonance imaging safe for patients with neurostimulation  systems used for deep brain stimulation (DBS)? Neurosurgery 2005;57:1056-1062.</para>
+      <para>19.  Mattei E, Triventi M, Calcagnini G, et al. Temperature and SAR measurement errors in the evaluation  of metallic linear structures heating during MRI using fluoroptic probes. Phys Med Biol  2007;21;52:1633-46.</para>
+      <para>20.  Coffey RJ, Kalin R, Olsen JM. Magnetic resonance imaging conditionally safe neurostimulation leads:  Investigation of the maximum safe lead tip temperature. Neurosurgery 2014;74:215-25.</para>
+      <para>21.  Winter L, Seifert F, Zilberti L, Murbach M, Ittermann B. MRI-related heating of implants and devices:  A review. J Magn Reson Imaging 2021;53:1646-1665.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">743</emphasis></para>
+      <para>22.  Gupte AA, Shrivastava D, Spaniol MA, Abosch A. MRI-related heating near deep brain stimulation  electrodes: More data are needed. Stereotact Funct Neurosurg 2011;89:131-40.</para>
+      <para>23.  Shrivastava D, Abosch A, Hughes J, et al. Heating induced near deep brain stimulation lead electrodes  during magnetic resonance imaging with a 3 T transceive volume head coil. Phys Med Biol  2012;57:5651-65.</para>
+      <para>24.  Cabot E, Lloyd T, Christ A, Kainz W, et al. Evaluation of the RF heating of a generic deep brain stimu- lator exposed in 1.5-T magnetic resonance scanners. Bioelectromagnetics. 2013;34:104-113.</para>
+      <para>25.  Woods TO. Standards for medical devices in MRI: Present and future. J Magn Reson Imaging  2007;26:1186-1189.</para>
+      <para>26.  Delfino JG, Woods TO. New developments in standards for MRI safety testing of medical devices. Cur- rent Radiology Reports 2016;4:1-9.</para>
+      <para>27.  International Organization for Standardization/Technical Standard, ISO/TS 10974:2018. Assessment of  the safety of magnetic resonance imaging for patients with an active implantable medical device. Inter- national Organization for Standardization. 2018.</para>
+      <para>28.  U.S. Food and Drug Administration. Testing and Labeling Medical Devices for Safety in the Magnetic  Resonance (MR) Environment. Guidance for Industry and Food and Drug Administration Staff, 2021.  https://www.fda.gov/regulatory-information/search-fda-guidance-documents/testing-and-labeling-med- ical-devices-safety-magnetic-resonance-mr-environment. Accessed September, 2021.</para>
+      <para>29.  Baker KB, Tkach JA, Nyenhuis JA, et al. Evaluation of specific absorption rate as a dosimeter of MRI- Related implant heating. J Magn Reson Imaging 2004;20:315-320.</para>
+      <para>30.  Baker KB, Tkach JA, Phillips MD, Rezai AR. Variability in RF-induced heating of a deep brain stimu- lation implant across MR systems. J Magn Reson Imaging 2006;24:1236-42.</para>
+      <para>31.  Nitz WR, Brinker G, Diehl D, Frese G. Specific absorption rate as a poor indicator of magnetic reso- nance-related implant heating. Invest Radiol 2005;40:773-6.</para>
+      <para>32.  Speck B. Complications and risks associated with implantable pulse generators (IPGs): White paper.  London, UK: Stimwave Technologies, Inc., 2016.</para>
+      <para>33.  Shellock FG, Audet-Griffin AJ. Evaluation of magnetic resonance imaging issues for a wirelessly pow- ered lead used for epidural, spinal cord stimulation. Neuromodulation 2014;17:334-349.</para>
+      <para>34.  Vasquez LP, Chen J, Shellock FG. Evaluation of MRI issues for a new wirelessly powered, spinal cord  stimulation lead with receiver. AJR Am J Roentgenol 2020;214:406-412.</para>
+      <para>35.  Oluigbo CO, Salma A, Rezai AR. Deep brain stimulation for neurological disorders. IEEE Rev Biomed  Eng 2012;5:88-99.</para>
+      <para>36.  Taghva A, Corrigan JD, Rezai AR. Obesity and brain addiction circuitry: Implications for deep brain  stimulation. Neurosurgery 2012;71:224-38.</para>
+      <para>37.  Taghva A, Oluigbo C, Corrigan J, Rezai AR. Posttraumatic stress disorder: Neurocircuitry and implica- tions for potential deep brain stimulation. Stereotact  Funct Neurosurg 2013;91:207-219.</para>
+      <para>38.  Ho AL, Sussman ES, Pendharkar AV, et al. Deep brain stimulation for obesity: Rationale and approach  to trial design. Neurosurg Focus 2015;38:E8.</para>
+      <para>39.  Kundu B, Brock AA, Englot DJ, et al. Deep brain stimulation for the treatment of disorders of con- sciousness and cognition in traumatic brain injury patients: A review. Neurosurg Focus 2018;45:E14.</para>
+      <para>40.  Holtzheimer PE, Husain MM, Lisanby SH, et al. Subcallosal cingulate deep brain stimulation for treat- ment-resistant depression: A multisite, randomised, sham-controlled trial. Lancet Psychiatry, 2017;4:839- 849.</para>
+      <para>41.  Rezai AR, Phillips M, Baker K, et al. Neurostimulation system used for deep brain stimulation (DBS):  MR safety issues and implications of failing to follow guidelines. Invest Radiology 2004;39:300-303.</para>
+      <para>42.  Baker KB, Tkach J, Hall JD, Nyenhuis JA, Shellock FG, Rezai AR. Reduction of MRI-related heating  in deep brain stimulation leads using a lead management system. Neurosurgery 2005;57:392-397.</para>
+      <para><emphasis role="bold">744</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para>43.  Bhidayasiri R, Bronstein JM, Sinha S, et al. Bilateral neurostimulation systems used for deep brain stim- ulation: <emphasis role="italics">In vitro</emphasis> study of MRI-related heating at 1.5-Tesla and implications for clinical imaging of the  brain. Magn Reson Imaging 2005;23:549-555.</para>
+      <para>44.  Finelli DA, Rezai AR, Ruggieri P, et al. MR-related heating of deep brain stimulation electrodes: An <emphasis role="italics">in </emphasis> <emphasis role="italics">vitro</emphasis> study of clinical imaging sequences. Am J Neurorad 2002;23:1795-1802.</para>
+      <para>45.  Rezai AR, Finelli D, Nyenhuis JA, et al. Neurostimulator for deep brain stimulation: <emphasis role="italics">Ex vivo</emphasis> evaluation  of MRI-related heating at 1.5-Tesla. J Magn Reson Imaging 2002;15:241-250.</para>
+      <para>46.  Rezai AR, Finelli D, Ruggieri P, et al. Neurostimulators: Potential for excessive heating of deep brain  stimulation electrodes during MR imaging. J Magn Reson Imaging 2001;14:488-489.</para>
+      <para>47.  Carmichael DW, Pinto S, Limousin-Dowsey P, et al. Functional MRI with active, fully implanted, deep  brain stimulation systems: Safety and experimental confounds. Neuroimage 2007;37:508-17.</para>
+      <para>48.  Kazemivalipour E, Keil B, Vali A, et al. Reconfigurable MRI technology for low-SAR imaging of deep  brain stimulation at 3T: Application in bilateral leads, fully-implanted systems, and surgically modified  lead trajectories. Neuroimage 2019;199:18-29.</para>
+      <para>49.  Falowski S, Safriel Y, Ryan MP, Hargens L. The rate of magnetic resonance imaging in patients with  deep brain stimulation. Sterotact Funct Neurosurg 2016;94:147-153.</para>
+      <para>50.  Franceschi AM, Wiggins GC, Mogilner AY, et al. Optimized, minimal specific absorption rate MRI for  high-resolution imaging in patients with implanted deep brain stimulation electrodes. AJNR Am J Neu- roradiol 2016;37:1996-2000.</para>
+      <para>51.  Golestanirad L, Angelone LM, Iacono MI, et al.  Local SAR near deep brain stimulation (DBS) elec- trodes at 64 and 127 MHz: A simulation study of the effect of extracranial loops. Magn Reson Med  2017;78:1558-1565</para>
+      <para>52.  Boutet A, Hancu I, Saha U, et al. 3-Tesla MRI of deep brain stimulation patients: Safety assessment of  coils and pulse sequences.  J Neurosurg 2019;132:586-594.</para>
+      <para>53.  Boutet A, Hancu I, Saha U, et al. 3-Tesla MRI of deep brain stimulation patients: Safety assessment of  coils and pulse sequences.  J Neurosurg 2019;132:586-594</para>
+      <para>54.  Boutet A, Rashid T, Hancu I, Saha U, et al. Functional MRI safety and artifacts during deep brain stim- ulation: Experience in 102 patients. Radiology 2019;293:174-183.</para>
+      <para>55.  Boutet A, Elias GJB, Gramer R, et al. Safety assessment of spine MRI in deep brain stimulation patients.  J Spine Surg 2020;32:973-983.</para>
+      <para>56.  Davidson B, Tam F, Yang B, et al. Three-tesla magnetic resonance imaging of patients with deep brain  stimulators: Results from a phantom study and a pilot study in patients. Neurosurgery 2021;88:349-355.</para>
+      <para>57.  Eross L, Riley J, Levy EI, Vakharia K. Neuroimaging of deep brain stimulation. Neurol Clin  2020;38:201-214.</para>
+      <para>58.  Starr PA, Christine CW, Theodosopoulos PV, et al. Implantation of deep brain stimulators into the sub- thalamic nucleus: Technical approach and magnetic resonance imaging-verified lead locations. J Neu- rosurg 2002;97:370-387.</para>
+      <para>59.  Starr PA, Martin AJ, Ostrem JL, et al. Subthalamic nucleus deep brain stimulator placement using high- field interventional magnetic resonance imaging and a skull-mounted aiming device: Technique and ap- plication accuracy. J Neurosurg 2010;112:479-90.</para>
+      <para>60.  Phillips MD, Baker KB, Lowe MJ, et al. Parkinson disease: Pattern of functional MR imaging activation  during deep brain stimulation of subthalamic nucleus- initial experience. Radiology 2006;239:209–216.</para>
+      <para>61.  Zrinzo L, Yoshida F, Hariz MI, et al. Clinical safety of brain magnetic resonance imaging with implanted  deep brain stimulation hardware: Large case series and review of the literature. World Neurosurg  2011;76:164-72.</para>
+      <para>62.  Shellock FG, Woods TO, Crues JV. MR labeling information for implants and devices: Explanation of  terminology. Radiology 2006;253:26–30.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">745</emphasis></para>
+      <para>63.  Kanal E, Froelich J, Barkovich AJ, et al. Standardized MR terminology and reporting of implants and  devices as recommended by the American College of Radiology Subcommittee on MR Safety. Radiology  2015;274:866-870.</para>
+      <para>64.  Razavi B, Rao VR, Lin C, et al. Real-world experience with direct brain-responsive neurostimulation  for focal onset seizures. Epilepsia 2020;61:1749-1757.</para>
+      <para>65.  Liem LA, van Dongen VC. Magnetic resonance imaging and spinal cord stimulation systems. Pain  1997;70:95-97.</para>
+      <para>66.  De Andres J, Valía JC, Cerda-Olmedo G, et al. Magnetic resonance imaging in patients with spinal neu- rostimulation systems. Anesthesiology 2007;106:779-86.</para>
+      <para>67.  De Andres J, Martinez-Sanjuan VV, Fabregat-Cid G, et al. MRI-compatible spinal cord stimulator device  and related changes in patient safety and imaging artifacts. Pain Med 2014;15:1815-9.</para>
+      <para>68.  Desai MJ, Hargens LM, Breitenfeldt MD, et al. The rate of magnetic resonance imaging in patients with  spinal cord stimulation. Spine 2015;40:E531-7.</para>
+      <para>69.  Rubino S, Adepoju A, Kumar V, et al. MRI conditionality in patients with spinal cord stimulation devices.  Stereotact Funct Neurosurg 2016;94:254-258</para>
+      <para>70.  Manfield J, Bartlett R, Park N. Safety and utility of spinal magnetic resonance imaging in patients with  high-frequency spinal cord stimulators: A prospective single-centre study.  Stereotact Funct Neurosurg  2019;97:272-277.</para>
+      <para>71.  Jotwani R, Abd-Elsayed A, Villegas K, et al. Failure of SCS MR-Conditional modes due to high imped- ance: A review of literature and case series. Pain Ther 2021;10:729-737.</para>
+      <para>72.  Hagedorn JM, Parmele JB, Wolff JS, Bendel MA, et al. The prevalence of elevated impedances and  magnetic resonance imaging ineligibility following implantation of 10 kHz spinal cord stimulation de- vices: A retrospective review. Neuromodulation 2021 (In Press)</para>
+      <para>73.  Razavi B, Rao VR, Lin C, et al. Real-world experience with direct brain-responsive neurostimulation  for focal onset seizures. Epilepsia 2020;61:1749-1757.</para>
+      <para>74.  Winter L, Seifert F, Zilberti L, Murbach M, Ittermann B. MRI-related heating of implants and devices:  A review. J Magn Reson Imaging 2021;53:1646-1665.</para>
+      <para>75.  Elkelini MS, Hassouna MM. Safety of MRI at 1.5-Tesla in patients with implanted sacral nerve neu- rostimulator. Eur Urol 2006;50:311-6.</para>
+      <para>76.  Guzman-Negron JM, et al. Can lumbosacral magnetic resonance imaging be performed safely in patients  with a sacral neuromodulation device? An <emphasis role="italics">in vivo</emphasis> prospective study. J Urol 2018;200:1088-1092.</para>
+      <para>77.  Heidler S, Lusuardi L, Dieterdorfer F. First report of magnetic resonance imaging in patients with im- planted InterStim Twin (model 7427T) sacral nerve stimulator. Urol J (In Press)</para>
+      <para>78.  Karrer-Warzinek E, Apt D, Kim O C-H, et al. Safety of magnetic resonance imaging in patients under  sacral neuromodulation with an InterStim Neuromodulator. Urology 2021;154:115-119.</para>
+      <para>79.  Binnie CD. Vagus nerve stimulation for epilepsy: A review. Seizure 2000;9:161-169.</para>
+      <para>80.  Kosel M, Schlaepfer TE. Beyond the treatment of epilepsy: New applications of vagus nerve stimulation  in psychiatry. CNS Spect 2003;8:515-521.</para>
+      <para>81.  Panebianco M. Zavanone C, Dupont S, et al. Vagus nerve stimulation therapy in partial epilepsy: A re- view. Acta Neurol Belg 2016;116:241-248.</para>
+      <para>82.  Benbadis SR, Nyhenhuis J, Tatum WO, et al. MRI of the brain is safe in patients implanted with the  vagus nerve stimulator. Seizure 2001;10:512-515.</para>
+      <para>83.  Narayanan JT, Watts R, Haddad N, et al. Cerebral activation during vagus nerve stimulation: A functional  MR study. Epilepsia 2002;43:1509-1514.</para>
+      <para>84.  Groves DA, Brown VJ. Vagal nerve stimulation: A review of its applications and potential mechanisms  that mediate its clinical effects. Neurosci Biobehav Rev 2005;29:493-500.</para>
+      <para><emphasis role="bold">746</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      <para>85.  Shellock FG. Begnaud J, Inman DM. VNS Therapy System: <emphasis role="italics">In vitro</emphasis> evaluation of MRI-related heating  and function at 1.5- and 3-Tesla. Neuromodulation 2006;9:204-213.</para>
+      <para>86.  Gorny KR, Bernstein MA, Watson RE Jr. 3 Tesla MRI of patients with a vagus nerve stimulator: Initial  experience using a T/R head coil under controlled conditions. J Magn Reson Imaging 2010;31:475-81.</para>
+      <para>87.  de Jonge JC, Melis GI, Gebbink TA, et al. Safety of a dedicated brain MRI protocol in patients with a  vagus nerve stimulator. Epilepsia 2014;55:e112-115.</para>
+      <para>88.  Fetzer S, Dibue M, Nagel AM, Trollmann R. A systematic review of magnetic resonance imaging in pa- tients with an implanted vagus nerve stimulator. Neuroradiology 2021;63:1407-1417.</para>
+      <para>89.  Azadarmaki R, Tubbs R, Chen DA, Shellock FG. MRI information for commonly used otologic im- plants: Review and update. Otolaryngology Head Neck Surg 2014;150:512-519.</para>
+      <para>90.  Majdani O, Lenung M, Rau T, et al. Demagnetization of cochlear implants and temperature changes in  3.0T MRI environment. Otolaryngol Head Neck Surg 2008;139:833-839.</para>
+      <para>91.  Cuda D, Murri A, Succo G, Hospital SL. Focused tight dressing does not prevent cochlear implant mag- net migration under 1.5 Tesla MRI. Acta Otorhinolaryngol Ital. 2013;33:133–136.</para>
+      <para>92.  Hassepass F, Hassepass F, Stabenau V, et al. Magnet dislocation: An increasing serious complication  following MRI in patients with cochlear implants. Rofo 2014;186:680-5.</para>
+      <para>93.  Kim BG, Kim J, Park JJ, et al. Adverse events and discomfort during magnetic resonance imaging in  cochlear implant recipients, JAMA Otolaryngology - Head and Neck Surgery 2015;141:45-52.</para>
+      <para>94.  Carlson ML, Neff BA, Link MJ, et al. Magnetic resonance imaging with cochlear implant magnet in  place: Safety and imaging quality. Otol Neurotol 2015;36:965-971.</para>
+      <para>95.  Leong WJC, Yuen HW. Dislocation of cochlear implant magnet during 1.5 Tesla magnetic resonance  imaging despite head bandaging and its repositioning using an endoscopic approach. J Laryngol Otol  2018;132:943-945.</para>
+      <para>96.  Leinung M, Loth A, Groger M, et al. Cochlear implant magnet dislocation after MRI: Surgical manage- ment and outcome. Eur Arch Otorhinolaryngol. 2020;277:1297-1304.</para>
+      <para>97.  Edmonson HA, Carlson ML, Patton AC, Watson RE. MR imaging and cochlear implants with retained  internal magnets: Reducing artifacts near highly inhomogeneous magnetic fields. Radiographics  2018;38:94-106.</para>
+      <para>98.  Srinivasan R, So CW, Amin N, et al. A review of the safety of MRI in cochlear implant patients with re- tained magnets. Clin Radiol 2019;74:972.e9-972.e16.</para>
+      <para>99.  Shew M, Wichova H, Lin J, et al. Magnetic resonance imaging with cochlear implants and auditory  brainstem implants: Are we truly practicing MRI safety? Laryngoscope 2019;129:482-489.</para>
+      <para>100.  Cass ND, Honce JM, O’Dell AL, Gubbels SP. First MRI with new cochlear implant with rotatable in- ternal magnet system and proposal for standardization of reporting magnet-related artifact size. Otol  Neurotol 2019;40:883-891.</para>
+      <para>101.  Fussell WL, Patel NS, Carlson ML, et al. Cochlear implants and magnetic resonance imaging: Experi- ence with over 100 studies performed with magnets in place. Otol Neurotol 2021;42:51-58.</para>
+      <para>102.  Fierens G. Standaert N, Peeters R, et al. Safety of active auditory implants in magnetic resonance im- aging. J Otol 2021;16:185-198.</para>
+      <para>103.  Gallant SC, Danehy AR, Licameli GR. Adverse events in pediatric cochlear implant patients undergoing  magnetic resonance imaging. Int J Pediatr Otorhinolaryngol 2021 (In Press).</para>
+      <para>104.  Bestourous DE, Davidson L, Reilly BK. A review of reported adverse events in MRI-Safe and MRI- Conditional cochlear implants. Otol Neurotol 2021 (In Press)</para>
+      <para>105.  Holtmann L, Hans S, Kaster F, et al. Magnet dislocation following magnetic resonance imaging in  cochlear implant users: Diagnostic pathways and management. Cochlear Implants Int 2021;22:195-202.</para>
+      <para>106.  Eshraghi AA, Nazarian R, Telishchi FF, et al. The cochlear implant: Historical aspects and future  prospects. Anat Rec 2012;295:1967–1980.</para>
+      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">747</emphasis></para>
+      <para>107.  Smith T, Swainey C, Coyne P. Pain management, including intrathecal pumps. Cur Pain Headache Rep  2005;9:243-248.</para>
+      <para>108.  Turner M. Intrathecal drug delivery 2002Acta Neurchir 2003;87:29-35.</para>
+      <para>109.  von Roemeling R, Lanning RM, Eames FA. MR imaging of patients with implanted drug infusion  pumps. J Magn Reson Imaging 1991;1:77-81.</para>
+      <para>110.  Shellock FG, Crivelli R, Venugopalan R. Programmable infusion pump and catheter: Evaluation using  3-Tesla magnetic resonance imaging. Neuromodulation 2008;11:163-70.</para>
+      <para>111.  De Andres J, Villanueva V, Palmisani S, et al. The safety of magnetic resonance imaging in patients with  programmable implanted intrathecal drug delivery systems: A 3-year prospective study. Anesth Analg.  2011;112:1124-119.</para>
+      <para>112.  Diehn FE, Wood CP, Watson RE Jr, Mauck WD, et al. Clinical safety of magnetic resonance imaging in  patients with implanted SynchroMed EL infusion pumps. Neuroradiology 2011;53:117-22.</para>
+      <para>113.  Kosturakis A, Gebhardt R. SynchroMed II intrathecal pump memory errors due to repeated magnetic  resonance imaging. Pain Physician 2012;15:475–477.</para>
+      <para>114.  Huh B, Roldan CJ. Magnetic fields and intrathecal pump malfunction. Am J Emerg Med 2016;34:115.e5- 6.</para>
+      <para><emphasis role="bold">748</emphasis> <emphasis role="bold">MRI Safety Issues for Neuromodulation Systems</emphasis></para>
+      </sect1>
+</chapter>
