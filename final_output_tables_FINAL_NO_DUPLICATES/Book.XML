@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE book PUBLIC "-//RIS Dev//DTD DocBook V4.3 -Based Variant V1.1//EN" "http://LOCALHOST/dtd/V1.1/RittDocBook.dtd" [
+<!DOCTYPE book [
 	<!ENTITY frontmatter SYSTEM "frontmatter.xml">
 	<!ENTITY ch0001 SYSTEM "ch0001.xml">
 	<!ENTITY ch0002 SYSTEM "ch0002.xml">

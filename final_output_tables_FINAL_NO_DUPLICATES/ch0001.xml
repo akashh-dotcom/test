@@ -5,11 +5,10 @@
     <sect1 id="ch0001s01">
       <title>MORIEL NESSAIVER, PH.D.</title>
       <para>Simply Physics  Baltimore, MD</para>
-    <para>Where h is known as Planck’s constant. In simple words, the energy of electromagnetic 
-radiation goes up directly with the frequency of the radiation. Table 1</para><para>frequency ranges for different types of electromagnetic radiation. As will be discussed in 
+    <para>frequency ranges for different types of electromagnetic radiation. As will be discussed in 
 detail shortly, MRI uses radio waves with frequencies around 107-Hz (cycles per second). 
 Most other radiology imaging techniques (e.g., X-ray, computed tomography, and nuclear 
-medicine) use ionizing radiati</para><table frame="all"><title>lists the approximate</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:11 PM</entry><entry>Page 4</entry></row></tbody></tgroup></table><para>om. For a simple 
+medicine) use ionizing radiati</para><para>om. For a simple 
 proton, γ = 42.56-MHz/T. As before, BØ represents the externally applied static magnetic 
 field. At the magnetic field strengths used in clinical MR systems, 0.2 to 7 T, the resonance 
 frequency of hydrogen ranges from 8.5-MHz to 298-MHz (8.5 x 106-Hz to 2.98 x 108-Hz). 
@@ -17,7 +16,7 @@ In Table 1</para><para>ency (RF) portion of the electro-
 magnetic spectrum.  
 As such, it is now apparent how Figure 1B was slightly inaccurate. The spins do align 
 roughly with (or against) the static magnetic field but, if you could take a freeze frame snap-
-shot of all of the protons in a voxel, you would see that each</para><table frame="all"><title>, it is shown that this range is in the radiofrequency (RF) portion of the electro-</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:11 PM</entry><entry>Page 5</entry></row></tbody></tgroup></table><para>The Editors 
+shot of all of the protons in a voxel, you would see that each</para><para>The Editors 
 Frank G. Shellock, Ph.D. is a physiolo-
 gist with more than 35 years of experience 
 conducting laboratory and clinical investiga-
@@ -29,7 +28,7 @@ and clinical 3-Tesla and 7-Tesla scanners, and
 an Adjunct Clinical Professor of Radiology 
 and Medicine at the Keck School of Medi-
 cine, University of Southern California. As a 
-com</para><table frame="all"><title>).</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:11 PM</entry><entry>Page 8</entry></row></tbody></tgroup></table><para>. 
+com</para><para>. 
  
 The value T2 is the time after excitation when the signal amplitude has been reduced to 
 36.8% of its original value or has lost 63.2%. This is the opposite of T1 where 63.2% of Mz 
@@ -38,82 +37,13 @@ remaining (Table 3</para><para>sue and is determined
 primarily by its chemical environment with little relation to field strength. This uniqueness 
 in T2 decay rates is one of the other mechanisms that enables MRI to differentiate between 
 different types of tissue. 
-Key Definition: T2 Decay. The exponential loss of signal resul</para><table frame="all"><title>). The value of T2 is unique for every kind of tissue and is determined</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 001-434_Layout 1</entry><entry>12/5/2021</entry><entry>3:11 PM</entry><entry>Page 10</entry></row></tbody></tgroup></table></sect1>
+Key Definition: T2 Decay. The exponential loss of signal resul</para></sect1>
     <sect1 id="ch0001s02">
       <title>INTRODUCTION</title>
       <para>Most medical professionals today are well aware of the fact that magnetic resonance  imaging (MRI) technology uses systems with powerful magnets that make considerable  amounts of noise and that you generally cannot bring ferromagnetic objects or patients with  certain implants into the scanner room. However, these individuals may not be aware that  MR systems use relatively safe radiofrequency (RF) radiation instead of ionizing radiation  (e.g., X-rays, gamma rays, etc.) to create images and they may not understand just how  powerful the magnets are, why they may always be “on” and why they make so much noise.  This chapter provides simple explanations for these matters by presenting information per- taining to basic MRI physics.</para>
-      <table frame="all">
-            <title>Untitled</title>
-            <tgroup cols="2">
-              <colspec colname="c1" />
-              <colspec colname="c2" />
-              <thead>
-                <row>
-                  <entry>t/T2</entry>
-                  <entry>MXY</entry>
-                </row>
-              </thead>
-              <tbody>
-                <row>
-                  <entry>-0.5</entry>
-                  <entry>0.6065</entry>
-                </row>
-                <row>
-                  <entry>-1</entry>
-                  <entry>0.3679</entry>
-                </row>
-                <row>
-                  <entry>-2</entry>
-                  <entry>0.1354</entry>
-                </row>
-                <row>
-                  <entry>-3</entry>
-                  <entry>0.0498</entry>
-                </row>
-                <row>
-                  <entry>-4</entry>
-                  <entry>0.0184</entry>
-                </row>
-              </tbody>
-            </tgroup>
-          </table><table frame="all">
-            <title>Untitled</title>
-            <tgroup cols="2">
-              <colspec colname="c1" />
-              <colspec colname="c2" />
-              <thead>
-                <row>
-                  <entry>t/T1</entry>
-                  <entry>MZ</entry>
-                </row>
-              </thead>
-              <tbody>
-                <row>
-                  <entry>-1</entry>
-                  <entry>0.6321</entry>
-                </row>
-                <row>
-                  <entry>-2</entry>
-                  <entry>0.8646</entry>
-                </row>
-                <row>
-                  <entry>-3</entry>
-                  <entry>0.9502</entry>
-                </row>
-                <row>
-                  <entry>-4</entry>
-                  <entry>0.9816</entry>
-                </row>
-                <row>
-                  <entry>-5</entry>
-                  <entry>0.9932</entry>
-                </row>
-              </tbody>
-            </tgroup>
-          </table><para>MRI has at its root the chemical technique known as nuclear magnetic resonance or  NMR (1, 2). As every chemist knows, the use of the word "nuclear" has nothing to do with  radioactivity, but since the general population is not composed of mostly chemists, the med- ical community has dropped that emotionally laden word to become, simply, MRI. For most  MRI examinations, the word “nuclear” has to do with the nucleus of the hydrogen atom,  which consists of a single proton. The content of this chapter will begin by examining the  magnetic properties of protons and then continue with an explanation of the MRI signal,  some basic tissue properties, spin echo formation, and conclude with a brief discussion of  MRI hardware issues. Much of the information in this chapter is adapted from <emphasis role="italics">All You Really </emphasis> <emphasis role="italics">Need to Know About MRI Physics</emphasis> (3). Several other textbooks also cover this introductory  material (4-7).</para>
+      <para>MRI has at its root the chemical technique known as nuclear magnetic resonance or  NMR (1, 2). As every chemist knows, the use of the word "nuclear" has nothing to do with  radioactivity, but since the general population is not composed of mostly chemists, the med- ical community has dropped that emotionally laden word to become, simply, MRI. For most  MRI examinations, the word “nuclear” has to do with the nucleus of the hydrogen atom,  which consists of a single proton. The content of this chapter will begin by examining the  magnetic properties of protons and then continue with an explanation of the MRI signal,  some basic tissue properties, spin echo formation, and conclude with a brief discussion of  MRI hardware issues. Much of the information in this chapter is adapted from <emphasis role="italics">All You Really </emphasis> <emphasis role="italics">Need to Know About MRI Physics</emphasis> (3). Several other textbooks also cover this introductory  material (4-7).</para>
       <para><emphasis role="bold">Note:</emphasis> Throughout this chapter, “Key Definitions” are designated in bold print.</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 1</para>
-    </sect1>
+      </sect1>
     <sect1 id="ch0001s03">
       <title>MAGNETIC PROPERTIES OF PROTONS</title>
       <para><emphasis role="bold">Spinning Protons Act Like Little Magnets </emphasis></para>
@@ -134,7 +64,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 2</para>
       <figure>
         <title />
         <mediaobject>
@@ -145,41 +74,7 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       </figure>
       <para>tinually oscillating back and forth between the two states but at any given instant, and with  a large enough sample, there will be a very slight majority aligned with the field. The larger  the external static magnetic field, the greater the difference in energy levels and the larger  the excess number aligned with the field. <emphasis role="bold">Figure 2</emphasis> demonstrates this for a sample of two  million protons. At 1 T there are just six extra protons. At 1.5 T, there are only nine extra  protons for every two million. At 3 T there are 18 and at 7 T, the highest field strength used  in the clinical setting, there are 42 excess protons for every two million. The number of ex- cess protons is directly proportional to the strength of the static magnetic field.</para>
       <para>As will be discussed more fully later in this chapter, the MR signal comes from just  these excess protons. With only nine out of two million protons (at 1.5 T) in excess, one  might ask how can we even detect such a small signal? We shall answer that question by  first asking a different question: how many excess protons are there in a single imaging  voxel? (A voxel is a three-dimensional or volume pixel.) Without going into the math in  great detail, assume a voxel dimension of 1-mm x 1-mm x 5-mm = 0.005-cm<superscript>3</superscript> or 0.005-ml.  Using Avogadro’s Number, we can calculate that there are a total of 3.4 x 10<superscript>20</superscript> water protons  in a 0.005-ml voxel. If nine out of every two million protons are in excess, then there are a  total of 1.5 x 10<superscript>15</superscript> protons in every voxel that will contribute to the MR signal (or, on the  order of a million billion protons). The important lesson here is that even though a spinning  proton is a very poor magnet, the number of excess protons that align with the field is so  large that we can basically ignore quantum mechanics and focus on the classical mechanics  description.</para>
-      <table frame="all">
-            <title>Untitled</title>
-            <tgroup cols="2">
-              <colspec colname="c1" />
-              <colspec colname="c2" />
-              <thead>
-                <row>
-                  <entry>Types of Radiation</entry>
-                  <entry>Approximate Frequency in Hz</entry>
-                </row>
-              </thead>
-              <tbody>
-                <row>
-                  <entry>Radio Waves</entry>
-                  <entry>107</entry>
-                </row>
-                <row>
-                  <entry>Visible Light</entry>
-                  <entry>1014</entry>
-                </row>
-                <row>
-                  <entry>Ultraviolet</entry>
-                  <entry>1016</entry>
-                </row>
-                <row>
-                  <entry>X-Rays</entry>
-                  <entry>1018</entry>
-                </row>
-                <row>
-                  <entry>Gamma Rays</entry>
-                  <entry>&gt;1019</entry>
-                </row>
-              </tbody>
-            </tgroup>
-          </table><para><emphasis role="bold">Key Definition:</emphasis> The total magnetic field of the excess protons is defined as <emphasis role="bold">M</emphasis><emphasis role="bold">Ø</emphasis>.</para>
+      <para><emphasis role="bold">Key Definition:</emphasis> The total magnetic field of the excess protons is defined as <emphasis role="bold">M</emphasis><emphasis role="bold">Ø</emphasis>.</para>
       <para>While it was stated above that, due to the large number of excess protons, we can pretty  much ignore quantum physics, there is still one issue that is best discussed using quantum  physics terminology. The relationship between the energy <emphasis role="bold">(E)</emphasis> of a photon or a unit of elec- tromagnetic radiation and its frequency <emphasis role="bold">(</emphasis><emphasis role="bold">ν</emphasis><emphasis role="bold">)</emphasis> (the Greek symbol ‘nu’) is described by the  Planck’s equation:</para>
       <para>(1)</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">3</emphasis></para>
@@ -192,7 +87,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 3</para>
       <figure>
         <title />
         <mediaobject>
@@ -208,7 +102,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       <para><emphasis role="bold">Spinning Protons Act Like Dreidles </emphasis></para>
       <para>Three spinning dreidels (i.e., a toy top traditionally used during Chanukah) are shown  in <emphasis role="bold">Figure 3</emphasis>. Imagine the first one is spinning on the international space station. In the ab- sence of gravity, it behaves just like a gyroscope and spins without wobbling. Imagine the  second one is spinning on the moon. In the low gravity of the moon, the Dreidle will wobble  rather slowly. The third dreidel is spinning on the Earth and wobbles faster than the dreidel  on the moon. Imagine a fourth dreidel somewhere on Jupiter (if you could find a solid sur- face, that is). That dreidel would be wobbling the fastest yet.</para>
       <para><emphasis role="bold">4</emphasis> <emphasis role="bold">Basic MRI Physics: Implications for MRI Safety</emphasis></para>
-      <para><emphasis role="bold">Table 1.</emphasis> Frequencies associated with different types of electromagnetic radiation.</para>
       <para><emphasis role="bold">Types of Radiation</emphasis> <emphasis role="bold">Approximate Frequency in Hz</emphasis></para>
       <para>Radio Waves 10<superscript>7</superscript></para>
       <para>Visible Light 10<superscript>14</superscript></para>
@@ -224,7 +117,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 4</para>
       <para>Previously, a spinning proton was described as being a very tiny magnet. Just as a spin- ning dreidel wobbles about its axis, so do spinning protons wobble, or precess, about the  axis of the external <emphasis role="bold">B</emphasis><emphasis role="bold">Ø</emphasis> field. The frequency of the precession is directly proportional to the  strength of the magnetic field and is defined by the Larmor Equation:</para>
       <para>Where, <emphasis role="bold">ω</emphasis><emphasis role="bold">Ø</emphasis> is known as either the precessional, Larmor or resonance frequency and γ  (gamma) is the gyromagnetic ratio and is a constant unique to every atom. For a simple  proton, γ = 42.56-MHz/T. As before, <emphasis role="bold">B</emphasis><emphasis role="bold">Ø</emphasis> represents the externally applied static magnetic  field. At the magnetic field strengths used in clinical MR systems, 0.2 to 7 T, the resonance  frequency of hydrogen ranges from 8.5-MHz to 298-MHz (8.5 x 10<superscript>6</superscript>-Hz to 2.98 x 10<superscript>8</superscript>-Hz).  In <emphasis role="bold">Table 1</emphasis>, it is shown that this range is in the radiofrequency (RF) portion of the electro- magnetic spectrum.</para>
       <para>As such, it is now apparent how <emphasis role="bold">Figure 1B</emphasis> was slightly inaccurate. The spins do align  roughly with (or against) the static magnetic field but, if you could take a freeze frame snap- shot of all of the protons in a voxel, you would see that each individual proton is slightly  tilted. However, remember that the protons are each precessing at faster than ten million  times per second, so if you take the average position of the vectors over even a very short  amount of time, they will each be aligned either perfectly with, or perfectly against, the  main magnetic field.</para>
@@ -243,7 +135,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 5</para>
       <figure>
         <title />
         <mediaobject>
@@ -283,7 +174,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 6</para>
       <para>net result of the <emphasis role="bold">Z</emphasis> component (<emphasis role="bold">M</emphasis><emphasis role="bold">Z</emphasis>) of the magnetization recovering back to <emphasis role="bold">M</emphasis><emphasis role="bold">Ø</emphasis> while the  <emphasis role="bold">M</emphasis><emphasis role="bold">XY</emphasis> component gets smaller and smaller (<emphasis role="bold">Figure 7</emphasis>).</para>
       <para>Not all of the energy given off is detectable as an RF signal. Some of the energy is re- absorbed by nearby protons. Most of the energy actually goes to heating up the surrounding  tissue, referred to as the lattice. In a global, or rather, universal sense, this system can be di- vided into the spins, and the rest of the universe, or a very large lattice. This type of spin- lattice interaction is the result of the excited system returning to thermal equilibrium.</para>
       <para><emphasis role="bold">Key Definition:</emphasis> Spin-Lattice Relaxation. The process whereby energy absorbed by the  excited protons or spins is released back into the surrounding lattice re-establishing thermal  equilibrium. In general, T1 values are longer at higher field strengths.</para>
@@ -317,7 +207,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 7</para>
       <figure>
         <title />
         <mediaobject>
@@ -332,7 +221,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       <para>When the spins are first tilted down to the XY-plane, they are all in-phase. Think of a  playground with a million swings. If all of the children are going up and down together, at  exactly the same rate, then they are swinging in-phase. Assuming that all the children are  pumping their legs with the same force and frequency, then they will stay in-phase. But if  one child stops pumping for a few seconds and another child pumps a little harder or a little  faster, then they will start to get out of sync with everyone else. The same type of thing hap- pens to the spins. For reasons that will be described later, some protons spin a little faster  while others spin a little slower (<emphasis role="bold">Figure 9</emphasis>). Very quickly, they get out of phase relative to  some reference (usually the spins at the center of the magnet).</para>
       <para>As another analogy, think of a room filled with a million (or a million billion) people,  all of them whispering “Mary had a little lamb”. As long as they are all speaking in-phase  with each other, you hear a very loud “<emphasis role="bold">MARY HAD A LITTLE LAMB</emphasis>”. But what usually  happens in a room full of people where those at one end of the room can’t hear those at the</para>
       <para><emphasis role="bold">8</emphasis> <emphasis role="bold">Basic MRI Physics: Implications for MRI Safety</emphasis></para>
-      <para><emphasis role="bold">Table 2.</emphasis> MZ recovery fractions at different multiples of T1 times.</para>
       <para><emphasis role="bold">t/T</emphasis><emphasis role="bold">1</emphasis> <emphasis role="bold">M</emphasis><emphasis role="bold">Z</emphasis> -1 0.6321</para>
       <para>-2 0.8646</para>
       <para>-3 0.9502</para>
@@ -347,7 +235,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 8</para>
       <para>other, some people start speaking a little faster and others a little slower. Soon the words  start to become harder to make out until eventually all you hear is some low, background  noise (<emphasis role="bold">Figure 10</emphasis>). The same happens to the spins and the resulting MRI signal.</para>
       <para>How fast a proton wobbles or precesses depends on the magnetic field that it experi- ences. An isolated proton, far from any other proton (or electron), is only affected by the  main magnetic field, <emphasis role="bold">B</emphasis><emphasis role="bold">Ø</emphasis>. As protons (or spins) move together (e.g., due to random motion),  their magnetic fields begin to interact. If the field from one proton increases the field that  the second proton feels, while the field from the second proton reduces the field that the  first proton feels, then the second proton will precess at a slightly faster rate, while the first  proton will precess slightly slower (<emphasis role="bold">Figure 11A</emphasis>). If the fields from both protons add to the  main field, then both protons will precess more rapidly (<emphasis role="bold">Figure 11B</emphasis>). As soon as the spins  move farther apart, their fields no longer interact and they both return to the original fre- quency but at different phases. This type of interaction is called spin-spin interaction. These  temporary, random interactions cause a cumulative loss of phase across the excited spins  resulting in an overall loss of signal.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">9</emphasis></para>
@@ -369,7 +256,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 9</para>
       <figure>
         <title />
         <mediaobject>
@@ -393,13 +279,11 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para><emphasis role="bold">Table 3.</emphasis> <emphasis role="bold">M</emphasis><emphasis role="bold">XY</emphasis> residual fractions at different multiples of T2 times.</para>
       <para><emphasis role="bold">t/T</emphasis><emphasis role="bold">2</emphasis> <emphasis role="bold">M</emphasis><emphasis role="bold">xy</emphasis> -0.5 0.6065</para>
       <para>-1 0.3679</para>
       <para>-2 0.1354</para>
       <para>-3 0.0498</para>
       <para>-4 0.0184</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 10</para>
       <figure>
         <title />
         <mediaobject>
@@ -433,7 +317,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 11</para>
       <para>Thus, T2 relaxation comes from random causes while T2* comes from a combination  of both random and fixed causes. There is nothing that can be done to prevent or compensate  for random losses in-phase, but what about the fixed effects? Can anything be done about  these losses? The answer is yes.</para>
       <para>Consider the following race (<emphasis role="bold">Figure 15A</emphasis>). The contestants are a turtle, a bicyclist, a  pace car, an airplane, and a rocket. At the start of the race, everyone is together (in-phase.)   Once the race starts (at t = 0), the contestants all move out, each at their fastest pace. Soon,  there is a noticeable distance between them.</para>
       <para>After some time, let’s call it TE/2, a signal is given for everyone to turn around and go  back. Assuming that everyone is still going at the same rate as before, then after an additional  time, TE/2, they all arrive at the starting/finish line together (<emphasis role="bold">Figure 15B</emphasis>). In terms of MRI,  at the time TE (TE/2 + TE/2), all the spins are back in-phase, producing a large signal. This  large signal is called a spin echo and the time TE is called the echo time (8).</para>
@@ -449,7 +332,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 12</para>
       <figure>
         <title />
         <mediaobject>
@@ -483,7 +365,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 13</para>
       <para>different resonance frequencies can be assigned to different locations in the magnet. This  is accomplished using what are known as the X-, Y- and Z-gradients.</para>
       <para><emphasis role="bold">The Magnet and the Fringe Field </emphasis></para>
       <para>Horizontal field magnets produce magnetic field lines that go out one end of the magnet,  loop around and go back the other end. Areas with the highest density of field lines have  the highest strength. However, it is the areas that have the most rapidly changing density of  field lines (i.e., the largest spatial gradients) that produce the greatest forces that can act on  ferromagnetic materials. In other words, it is these areas that represent the greatest danger  for items to become projectiles. Examples of projectiles that occurred in the MRI environ- ment may be seen at www.simplyphysics.com (9).</para>
@@ -500,7 +381,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 14</para>
       <para>the magnetic field. This can take several hours to accomplish. Once it is up to its full field  strength, the power supply is disconnected and the current will continue virtually for cen- turies (as long as it’s kept cold, of course). This is why you will typically see signs outside  MR system rooms that state, “Danger! This Magnet is Always On!”</para>
       <para>The magnetic field lines depicted in <emphasis role="bold">Figure 18</emphasis> that extend outside of the magnet are  known as the fringe field. It is this fringe field that can cause problems with ferromagnetic  objects. In general, the five gauss line is the demarcation between what is considered safe  or a danger for certain objects. Modern-day MR systems use what is know as “active shield- ing”. An actively-shielded magnet has an inner or primary set of field coils that produces  more than the desired field with an outer or secondary set of field coils with a lower current  going in the opposite direction (<emphasis role="bold">Figure 20</emphasis>). The smaller opposite field partially cancels the  field at the center of the magnet but cancels a much larger portion on the outside. For ex- ample, the primary set coils might produce a positive 2 T field while the secondary coils  produce a negative 0.5 T, resulting in a net 1.5 T field at the center of the magnet but, be- cause the secondary coils are closer to the outside, they create a greater amount of cancel- lation.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">15</emphasis></para>
@@ -522,7 +402,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 15</para>
       <para>The advantage of modern actively-shielded magnets is that the five gauss line can be  restricted relatively close to the magnet. However, this also means that as one moves closer  to the bore of the magnet, the field strength rises rapidly over a relatively short distance  (i.e., a high spatial gradient magnetic field is present). Understandably, a relatively high  spatial gradient magnetic field can produce substantial issues for ferromagnetic objects. By  way of example, <emphasis role="bold">Figure 21</emphasis> shows a hospital bed lifted completely off the ground and stuck  to the front of a 3 T MR system.</para>
       <para><emphasis role="bold">Time-Varying Gradient Magnetic Fields </emphasis></para>
       <para>The main magnetic field, <emphasis role="bold">B</emphasis><emphasis role="bold">Ø</emphasis>, discussed above is also known as the static magnetic  field, meaning that it never changes over time. In order to actually produce MR images, it  is necessary to apply a magnetic field that changes over time and space in a predictable  fashion. What is needed is to be able to produce a change that is linear moving away from  the magnet center, with positive changes in one direction and negative changes in the other.  (Note, the field at the center of the magnet never changes.) The field produced by a current  in a single loop of wire reaches a peak at the center of the coil and drops off non-linearly as  it move out (<emphasis role="bold">Figure 22A</emphasis>). Obviously, this won’t suffice for MRI.</para>
@@ -538,7 +417,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 16</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">17</emphasis></para>
       <para><emphasis role="bold">Figure 22.</emphasis> <emphasis role="bold">(A)</emphasis> The magnetic field produced by a current in a simple loop of wire is at a maxi- mum at the center of the loop and drops off rapidly (and non-linearly) as you move away. <emphasis role="bold">(B)</emphasis>  Using two loops of wire separated by roughly the diameter of the coil and with currents flowing  in opposite direction results in a region in-between where the strength or amplitude of the mag- net field varies in a linear fashion.</para>
       <figure>
@@ -558,7 +436,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 17</para>
       <figure>
         <title />
         <mediaobject>
@@ -581,7 +458,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 18</para>
       <para>quence (see below), but using the lowest amplitude and lowest slew rates possible helps to  minimize acoustic noise.</para>
       <para>One of the important properties of electromagnetism is that just as an electric current  creates a magnetic field, a time-varying gradient magnetic field can produce an electric cur- rent in any nearby conductor. This brings us to the other issue that is associated with time- varying gradient magnetic fields. The human body is an electrical conductor. If a patient  undergoing MRI has crossed-arms or crossed-legs, these may create a closed loop for current  to flow under certain imaging conditions. The rapidly changing imaging gradients can in- duce current to flow across the body and peripheral nerve stimulation may occur (16). The  area near the center of the coils in <emphasis role="bold">Figure 22B</emphasis> is the location of the largest dB/dt, so it is at  this location where the greatest danger of induced currents exists with respect to peripheral  nerve stimulation. Note that at the center of the magnet, the gradients do not produce any  change in the magnetic field, so this is where the potential for nerve stimulation is the least.</para>
       <para>To summarize, the potential problems caused by time-varying gradient magnetic fields  are, as follows: (1) acoustic noise and (2) peripheral nerve stimulation. The more rapidly  the gradients change and the higher the amplitude, the greater the risks. Importantly, for pa- tients with electronically-activated devices, the location of the greatest risk is not at the cen- ter of the MR system but at the outer edges of the gradient coils where the absolute changes  in the magnetic fields per unit time (i.e., dB/dt) is the highest.</para>
@@ -589,7 +465,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       <para>As discussed above, MRI requires the use of a radio transmitter to provide the RF ex- citation pulses. Every scanner has a built in body RF coil (<emphasis role="bold">Figure 19</emphasis>) which is used for  many of the imaging sequences. Alternatively, the RF excitation pulses can be applied by  a smaller transmit RF coil, most commonly designed for imaging either the patient’s head  or a knee. While some of the applied RF energy that is absorbed ends up producing the MRI  signal, most of it actually results in tissue heating of the patient (17). The amount of RF  power absorbed by the body increases approximately with the square of the field strength.  Accordingly, at higher static magnetic fields, there can be an inherent danger of over-heating  the patient (17). The mass normalized rate at which RF energy is coupled to biological tissue  is characterized by the specific absorption rate (SAR) and is reported in W/kg relative to  the use of a particular pulse sequence and the body weight of the patient.</para>
       <para>The built in transmit body RF coil deposits RF energy over a relatively large area of  the patient. Even if only a small amount of tissue is actually being imaged, a large amount  of tissue will absorb much of the transmitted energy. By comparison, smaller transmit/re- ceive RF coils have a limited volume of coverage and result in greatly reduced RF power  deposition. Additionally, a class of RF coils known as quadrature (quadrature is an engi- neering term that has nothing to do with the number four) coils result in less power depo- sition than comparably-sized linear coils. Notably, this information has implications for  scanning patients with certain types of biomedical implants insofar as it may be necessary  to prevent substantial implant heating by limiting the MRI examination to the use of a trans- mit/receive head RF coil only, versus performing the MRI procedure using a transmit body  RF coil and a receive-only head coil (e.g., certain neurostimulation systems used for spinal  cord stimulation have these particular conditions specified in the MRI labeling).</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">19</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:11 PM  Page 19</para>
       <para><emphasis role="bold">Imaging Sequences </emphasis></para>
       <para>While there are many different types of imaging sequences used for MRI, most have  three basic steps in common which are: (1) Exciting a slice or slab of tissue by using a slice  select gradient combined with one or more RF excitation pulses. In an axial image, the Z- gradient is the slice select gradient. (2) Applying one (2D) or two (3D) spatial encoding  gradients known as phase encoding pulses. The details of how this works are beyond the  scope of this chapter. In an axial plane 2D image, the phase encoding direction can be in ei- ther the X-direction (i.e., left/right) or the Y-direction (i.e., anterior/posterior). For the mo- ment, let’s assume it is in the Y-direction. For a three dimensional image, there will also be  a phase encode pulse in the Z or slice select direction. (3) Reading out the MRI signal while  applying a third spatial encoding gradient known as the frequency encoding gradient.</para>
       <para>The pulse diagrams of two of the simplest imaging sequences, a basic gradient echo  (GRE) (18), also known as a field echo (FE) and a basic spin echo (SE) are shown in <emphasis role="bold">Figure </emphasis> <emphasis role="bold">25</emphasis> and <emphasis role="bold">Figure 26</emphasis>, respectively (8). As was previously discussed (<emphasis role="bold">Figure 16</emphasis>), a SE sequence  requires two RF pulses while, as shown in <emphasis role="bold">Figure 25</emphasis>, a GRE sequence uses a single RF  pulse. The SE pulse sequence is most commonly used for T1-weighted imaging incorpo- rating a 90°/180° pair of RF pulses. The GRE pulse sequence can use virtually any flip  angle, which then impacts the type of image-weighting that results, in part, by the combi- nation of the flip angle, echo time (TE) and repetition time (TR). Typically, flip angles from  20° to 40° are used for T2*-weighting and flip angles from 70° to 90° are used for T1-weight- ing. The key point here is that, with only one RF pulse, the RF power deposition, or SAR,  is substantially lower with GRE sequences than with SE sequences. This is particularly im- portant on MRI examinations using MR systems operating at 3 T or higher.</para>
@@ -603,7 +478,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 20</para>
       <para><emphasis role="bold">Figure 17</emphasis> illustrates how it is possible to obtain multiple spin echoes using a train of  180° RF pulses. <emphasis role="bold">Figure 27</emphasis> shows how a train of eight 180° RF pulses, combined with ap- propriate slice select, phase encode and frequency encode gradients, comprise what is  known as a fast spin echo (FSE) pulse sequence (19) (also known as turbo spin echo, or  TSE). This type of sequence can have an echo train length (ETL) as short as two to four for  T1-weighted or proton density-weighting, or moderate echo train lengths of eight to 32 for  T2-weighted imaging, or as long as 128 to 256 for MRI procedures such as single shot myel- ograms or cholangiograms (20, 21). The advantage of using a FSE pulse sequence is the  decreased acquisition time that is due to acquiring multiple echoes or lines of data during  one repetition time (TR) interval.</para>
       <figure>
         <title />
@@ -624,7 +498,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
         </mediaobject>
       </figure>
       <para><emphasis role="bold">Figure 27.</emphasis> The same diagram as shown in <emphasis role="bold">Figure 26</emphasis> except for a fast spin echo pulse sequence.</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 21</para>
       <para>With all of the associated gradient activity, a FSE pulse sequence may suffer from the  consequences of time-varying gradient magnetic fields discussed earlier. More importantly,  particularly at 1.5-T and higher fields, all of the 180° RF pulses significantly increase the  specific absorption rate (SAR) level. Accordingly, the MR system reported SAR may exceed  the recommended FDA limits for specific absorption rate. When this happens, there are five  possible options: (1) Increase the repetition time (TR) so that the average power per unit  time goes down. (2) Decrease the total number of slices acquired per TR (3, 17), as half the  number of slices means half the RF power. (3) Use the technique known as Half-Fourier  imaging (22). This takes advantage of the symmetry in MRI raw data to reduce the number  of lines of data required (and the associated acquisition time and RF power) by roughly one  half. The disadvantage to this is that it reduces the signal-to-noise ratio (SNR) by the square  root of two. (4) Use refocusing RF pulses less than 180°. The amount of RF energy per RF  pulse of a given duration is proportional to the square of the flip angle so a 180° RF pulse  deposits four times as much as a 90° pulse of the same length. Reduce the flip angle of a  large number of RF pulses and the total SAR will be decreased. (5) Use “low SAR” RF  pulses. The amount of RF energy per RF pulse of given amplitude is proportional to the  duration of the pulse. Instead of doubling the amplitude of the 90° RF pulse to obtain a 180°  flip, you can double the duration. This will reduce the specific absorption rate in half but  will also result in much longer time between echoes reducing the number of echoes possible  per repetition time (TR) thereby increasing the total scan time.</para>
       <para>Reducing the flip angle of the refocusing pulse does reduce the SAR, but with all things  in MRI, there are tradeoffs. In terms of refocusing spins that are going out of phase due to  T2* affects (<emphasis role="bold">Figure 16</emphasis>), a 180° pulse is optimal. Reducing the refocusing flip angle from  180° to 140° for a single echo will reduce the effectiveness by about 12%. The effect on  the signal-to-noise (SNR) when using multiple refocusing pulses becomes very complicated  but suffice to say that the SNR is maximum with 180° pulses and goes down from there.  While RF power deposition is mainly a problem at higher static magnetic field strengths,</para>
       <para><emphasis role="bold">22</emphasis> <emphasis role="bold">Basic MRI Physics: Implications for MRI Safety</emphasis></para>
@@ -637,7 +510,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 22</para>
       <para>higher fields have higher SNR starting points so they can better afford some loss in SNR in  order to minimize the SAR.</para>
       <para><emphasis role="bold">Figure 28</emphasis> depicts the last imaging sequence to be discussed in this chapter, a spin echo- echo planar imaging (SE-EPI) pulse sequence (23). This type of sequence is most commonly  used for diffusion-weighted imaging (DTI) or functional MRI (fMRI). The RF excitation  utilizes a single 90°/180° pair so the SAR levels associated with these pulse sequences are  usually not a problem. However, these sequences use the absolute fastest changing gradients  so they have the greatest potential for creating the possible problems related to the time- varying gradient magnetic fields discussed above.</para>
       <figure>
@@ -654,40 +526,8 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       <para>Without going into the mathematical details which are beyond the scope of this chapter,  specialized techniques such as SENSE, SMASH, GRAPPA (25-27), which are all members</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">23</emphasis></para>
       <para><emphasis role="bold">Figure 29.</emphasis> A diagram showing a four- channel phased array coil. This is typical  configuration for a torso phased-array  coil.</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 23</para>
       <para>of a class of parallel imaging reconstruction methods, utilize the known or measured sen- sitivity profile of each individual coil to impart some spatial information. This makes it pos- sible to reduce the number of phase encoding (PE) steps that are required for virtually any  imaging technique. As the number of PE steps goes down, so does the total SAR. If the ac- quisition time is reduced by a factor of two, then the SAR is cut in half. If the acquisition  time is reduced by a factor of four, then the SAR is cut to one-fourth. Theoretically, while  it is possible to “speed up” a scan by a factor equal to the number of different coil elements,  in practice the speed up factors are usually less than four. The main reason for this limitation  is that while the acquisition time may be faster, the SNR of the final image is proportional  to the square root of the number of actual phase encoding views used. If the scan is speeded  up by a factor of four, the SNR is cut in half. Therefore, while high field strength MR sys- tems have an initially high SNR, there is a limit as to how much SNR can be “thrown away”.</para>
-      <table frame="all">
-            <title>Untitled</title>
-            <tgroup cols="3">
-              <colspec colname="c1" />
-              <colspec colname="c2" />
-              <colspec colname="c3" />
-              <thead>
-                <row>
-                  <entry>Operating Mode</entry>
-                  <entry>Whole-Body SAR (W/kg)</entry>
-                  <entry>Head SAR (W/kg)</entry>
-                </row>
-              </thead>
-              <tbody>
-                <row>
-                  <entry>Normal Operating Mode</entry>
-                  <entry>2</entry>
-                  <entry>3.2</entry>
-                </row>
-                <row>
-                  <entry>First Level Controlled Operating Mode</entry>
-                  <entry>4</entry>
-                  <entry>3.2</entry>
-                </row>
-                <row>
-                  <entry>Second Level Controlled Operating Mode</entry>
-                  <entry>4</entry>
-                  <entry>&gt;3.2</entry>
-                </row>
-              </tbody>
-            </tgroup>
-          </table><para>One final cautionary note about parallel imaging techniques: some MRI centers may  decide to use “speed up” factors of two or three but then are unhappy with the SNR of the  final images. Therefore, these MRI facilities use two or three signal averages for the pulse  sequence. Of course, that just takes the acquisition time back to what it would have been  without the use of parallel imaging. In fact, parallel imaging reconstruction can actually  add artifacts to the image, particularly if the patient moves. Thus, parallel imaging should  only be used with one signal average. If better SNR is desired, it is best to not use parallel  imaging.</para>
+      <para>One final cautionary note about parallel imaging techniques: some MRI centers may  decide to use “speed up” factors of two or three but then are unhappy with the SNR of the  final images. Therefore, these MRI facilities use two or three signal averages for the pulse  sequence. Of course, that just takes the acquisition time back to what it would have been  without the use of parallel imaging. In fact, parallel imaging reconstruction can actually  add artifacts to the image, particularly if the patient moves. Thus, parallel imaging should  only be used with one signal average. If better SNR is desired, it is best to not use parallel  imaging.</para>
     </sect1>
     <sect1 id="ch0001s09">
       <title>IS THERE AN OPTIMAL FIELD STRENGTH?</title>
@@ -697,7 +537,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       <para><emphasis role="bold">Signal-To-Noise </emphasis></para>
       <para>As was illustrated in <emphasis role="bold">Figure 2</emphasis>, the number of excess protons that align with the static  magnetic field goes up linearly with field strength. It is these excess protons that are used  to produce the MR image. Therefore, the signal strength goes up with the field strength.  While there are many other issues that affect SNR, such as the differences of RF penetration  and sources of RF noise at different field strengths, as well RF coil design, the number of</para>
       <para><emphasis role="bold">24</emphasis> <emphasis role="bold">Basic MRI Physics: Implications for MRI Safety</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 24</para>
       <para>channels, differences in relaxation time constants and details of the imaging sequences, in  general, the SNR goes up linearly with the field strength (29-31).</para>
       <para>This extra SNR can be utilized to obtain higher resolution images in the same scan time  or to keep the overall resolution constant but with shorter scans, meaning potentially higher  patient throughput. Because the SNR of a scan is proportional to the square root of the scan  time, to get the same SNR of a four minute scan at 1.5 T would only require a one minute  scan at 3 T. (Of course what usually happens at 3 T is that a higher resolution scan is obtained  at some slightly shorter scan time.) At higher static magnetic fields it is also possible to per- form techniques that inherently have low SNR such as diffusion tensor imaging (DTI) and  functional MRI (fMRI) (32-33). However, for these techniques there are still tradeoffs. For  example, scanning at 3 T may be roughly four times faster than at 1.5 T, but problems with  image distortion also go up proportional to field strength.</para>
       <para>In addition to the inherent higher SNR at higher field strengths, most high and ultra- high field scanners utilize phased array coils with a high number of channels, typically be- tween 8 and 32 channels or even as high as 64. As was stated above, the SNR increases,  roughly, with the square root of the number of channels providing more opportunities for  faster and/or higher resolution scans. Of course, the greater the number of channels, the  higher the monetary cost.</para>
@@ -705,13 +544,11 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       <para>The International Electrotechnical Commission (IEC) has set guidelines for the specific  absorption rate (SAR) during a clinical MRI examination (<emphasis role="bold">Table 4</emphasis>). It is important to note  that these guidelines are independent of the strength of the static magnetic field. Because  the RF power deposited in the body increases roughly with the square of the magnetic field  (17, 31, 34-36) higher field strength scanners are more likely to bump up against these  limits, (1.5 T occasionally, 3 T and up quite frequently).</para>
       <para>There are a number of approaches to reducing SAR and/or its impact on the patient but  most of them have noticeable drawbacks. Just a few of the approaches presented by Allison  and Yansak are, as follows (36):</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">25</emphasis></para>
-      <para><emphasis role="bold">Table 4.</emphasis> International Electrotechnical Commission (IEC) guidelines on SAR.</para>
       <para><emphasis role="bold">Operating Mode</emphasis> <emphasis role="bold">Whole-Body  </emphasis> <emphasis role="bold">SAR (W/kg)</emphasis></para>
       <para><emphasis role="bold">Head SAR  </emphasis> <emphasis role="bold">(W/kg)</emphasis></para>
       <para>Normal Operating Mode 2 3.2</para>
       <para>First Level Controlled Operating Mode 4 3.2</para>
       <para>Second Level Controlled Operating Mode 4 &gt;3.2</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 25</para>
       <para>Increase the TR, which can lead to longer scan times  •</para>
       <para>Reduce the flip angles (for fast spin echo sequences use 60 to 130° refocusing  • pulses rather than 180° pulses), which can alter image contrast-to-noise or signal- to-noise ratios</para>
       <para>Reduce the number of slices per repeat time, which can lead to longer scan times  • for a fixed number of slices</para>
@@ -725,7 +562,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       <para>It is well known that ferromagnetic objects are attracted to magnets and, thus, they  should not be brought near an MR scanner lest the object become a projectile. Does the  danger go up with the field strength? Not necessarily! The translational force exerted on a  ferromagnetic object as it is moved near a magnet is not dependent on the strength of the</para>
       <para>(5)</para>
       <para><emphasis role="bold">26</emphasis> <emphasis role="bold">Basic MRI Physics: Implications for MRI Safety</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 26</para>
       <figure>
         <title />
         <mediaobject>
@@ -742,7 +578,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       <para>The dielectric constant, ε<emphasis role="italics">r</emphasis>, of water (which predominates in the human body) is approx- imately 80 (in a vacuum it is 1.0). The wavelength of radio waves moving through a medium  other than a vacuum is reduced by the square root of ε<emphasis role="italics">r</emphasis>, or in this case roughly a factor of  9. At 3 T, with a resonance frequency of 128 MHz, the wavelength in a vacuum is 235 cm  but in the human body it is approximately 26 cm. This is on the same order as the dimensions  of the human body, particularly of the torso. As a result, “standing waves” can form inside  of the body resulting in peaks and troughs of different effective RF strength or flip angles.  At 7 T the wavelength drops to around 11 cm and you get substantial dielectric effects in  the brain, as well.</para>
       <para>When using simple gradient echo (GRE) pulse sequences to image a uniform phantom,  the signal amplitude is determined by the amount of spins tipped onto the XY plane and is  proportional to the sine of the flip angle (ignoring T1, T2, TR and TE). <emphasis role="bold">Figure 30</emphasis> depicts  a series of images obtained on a Siemens 1.5 T Aera and a Siemens 3 T Skyra using a GRE</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">27</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 27</para>
       <para>pulse sequence with a flip angle of 720°. Since the sine of 720° = Ø (as are the sine of 0°,  180°, 360° and 540°) any spins that experience a full 720° flip angle should produce little  to no signal.</para>
       <para><emphasis role="bold">Figure 30A</emphasis> shows axial, coronal, and sagittal MR images acquired using a water filled  phantom on a 1.5 T scanner. The dark ring in each image shows where in the phantom the  spins were all tipped the full 720°. The brighter regions show where spins experience either  a little more RF or a little less. (Remember, most MR images are magnitude images. If they  had been “real” or “complex”, then any spins experiencing more than 720° would have a  positive signal and less than 720° would have a negative signal.) Unfortunately, with this  single GRE sequence, it is not possible to tell exactly how much more or less than 720° the  other spins experienced. The important thing to note about these images is that the signal  distribution is rather simple, moderately uniform, and with good circular symmetry.</para>
       <figure>
@@ -773,7 +608,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 28</para>
       <figure>
         <title />
         <mediaobject>
@@ -796,7 +630,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 29</para>
       <para>angle. The average flip angle in the water filled phantom of <emphasis role="bold">Figure 30B</emphasis> was 77.1° and  sin(77.1) = 0.975, so there is less than a 3% decrease in signal. Where the flip angle is 69°  (the minimum value shown in <emphasis role="bold">Figure 30B</emphasis>) there is a 7% loss in signal. However, because  the spins are <emphasis role="italics">not</emphasis> flipped all the way down to the XY plane, they don’t take as long to recover  back to Mz=Ø, so T1 contrast can be reduced.</para>
       <para><emphasis role="italics">Spin Echo</emphasis>: This is the next level up in complexity. An ideal spin echo has a 90° excita- tion pulse and a 180° refocusing pulse. However, any two RF pulses will generate what is  known as a Hahn Echo (8) and the signal amplitude is proportional to the product  sin(α1)•sin<superscript>2</superscript>(α2/2), ignoring T1 recovery. In our case α2 = 2α1 so the product becomes  sin(α1)•sin<superscript>2</superscript>(α1) = sin<superscript>3</superscript>(α) If α = 90°, then the product equals 1.0. If α = 77.1, then the prod- uct equals 0.93, a loss of 7%. At α = 69°, the product equals 0.81, so a loss of 19%. If the  TR is short as for a T1-weighted image, then things become complicated. If we assume that  the TE is short relative to the T2 decay rate, then most of the spins effectively experience  an α+2α=3α flip angle. When α = 90°, then that is 270° or completely on the XY plane  (Mz = Ø). However, if α = 70° then this becomes 210° or just 30° past 180° meaning that  most of the spins are much closer to the -Mz axis than they are the XY plane and, therefore,  will take longer to recover resulting in greater T1 contrast.</para>
       <para><emphasis role="italics">Fast Spin Echo</emphasis>: One would expect that each additional non-optimal refocusing pulse  would further reduce the MR signal. However, this is not the case. While the first echo in  the echo train is just like the spin echo discussed above and is reduced by sin<superscript>2</superscript>(α2/2) (49,  50), the longer echo train drives the magnetization into a pseudo-steady state with a signal  that is reduced by only sin(α2/2). Again, since α2 = 2α1 the net signal is proportional to  sin<superscript>2</superscript>(α), (squared instead of cubed). If α = 90°, then the product equals 1.0. If α = 77.1, then  the product equals 0.95, a loss of 5%. At α = 69°, the product equals 0.87, so a loss of 13%.</para>
@@ -810,7 +643,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       <title>REFERENCES</title>
       <para>1. Block F, Hanson WW, Packard ME. Nuclear induction. Phys Rev 1946;69:127-138.</para>
       <para><emphasis role="bold">30</emphasis> <emphasis role="bold">Basic MRI Physics: Implications for MRI Safety</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 30</para>
       <para>2. Purcell EM, Torrey HC, Round RV. Resonance absorption by nuclear magnetic moments in solid. Phys  Rev 1946;69:37.</para>
       <para>3. NessAiver MS. All You Really Need to Know About MRI Physics. Chapters 2 and 3. Baltimore: Simply  Physics; 1997.</para>
       <para>4. Abragam A. The Principles of Nuclear Magnetism. Oxford: Oxford University Press, 1978.</para>
@@ -839,7 +671,6 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       <para>27. Griswold MA, Jakob PM, Heidemann RM, et al. Generalized autocalibrating partially parallel acquisitions  (GRAPPA). Magn Reson Med 2002;47:1202-1210.</para>
       <para>28. Sarracaine M, LaPierre CD, Salameh N, et al. Low-cost high performance MRI. Sci Rep 2015;5:15177.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">31</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 31</para>
       <para>29. Edelstein WA, Glover GH, Hardy CJ, Redington RW. The intrinsic signal-to-noise ratio in NMR imaging.  Magn Reson Med 1986;604-618.</para>
       <para>30. Maubon AJ, Ferru JM, Berger V, et al. Effect of field strength on MR images: Comparison of the same  subject at 0.5, 1.0 and 1.5 T. RadioGraphics 1999;19:1057-1067.</para>
       <para>31. Collins CM, Smith MB. Signal-to-noise ratio and absorbed power as functions of main magnetic field  strength, and defintion of “90º” RF pulse for the head in the birdcage coil. Magn Reson Med 2001;45:684- 691.</para>
@@ -868,12 +699,10 @@ Key Definition: T2 Decay. The exponential loss of signal resul</para><table fram
       <para>54. Yang QX, Wang J, Wang J, et al. Reducing SAR and enhancing cerebral signal-to-noise ratio with high  permittivity padding at 3 T. Magn Reson Med 2011;65:358-362.</para>
       <para>55. Brink WM, Gulani V, Webb AG. Clinical applications of dual-channel transmit MRI: A review. J Magn  Reson Imaging 2015;42:855-869.</para>
       <para><emphasis role="bold">32</emphasis> <emphasis role="bold">Basic MRI Physics: Implications for MRI Safety</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 32</para>
       <para>56. Grissom WA, Sacolick L, Vogel MW. Improving high-field MRI using parallel excitation. Imaging Med  2010;2:675-693.</para>
       <para>57. Katscher U. Basic and tailored RF shimming in a multi-transmit whole body MR system. PIERS online  2008;4:781-784.</para>
       <para>58. Webb AG, Collins CM. Parallel transmit and receive technology in high-field magnetic resonance neu- roimaging. Int J Imaging Syst Technol 2010;20:2-13.</para>
       <para>59. Shellock, FG. Reference Manual for Magnetic Resonance Safety, Implants and Devices, 2020 Edition.  Los Angeles: Biomedical Research Publishing Group; 2020.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">33</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:12 PM  Page 33</para>
-    </sect1>
+      </sect1>
 </chapter>

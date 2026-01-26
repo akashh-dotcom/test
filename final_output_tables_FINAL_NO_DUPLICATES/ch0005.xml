@@ -5,7 +5,7 @@
     <sect1 id="ch0005s01">
       <title>DONALD W. MCROBBIE, PH.D.</title>
       <para>Associate Professor, Discipline of Medical Physics  School of Physical Sciences  University of Adelaide  Adelaide, Australia</para>
-    <table frame="all"><title>shows a summary of PNS studies using this alternative gradient formulation</title><tgroup cols="2"><thead><row><entry>iologic factors.</entry><entry>As with earlier experiments, the linear SD formulation found no convincing</entry></row></thead><tbody><row><entry>correlation with anatomical measurements, including weight, height, girth, and average</entry><entry /></row><row><entry>body fat percentage (48) although a weak correlation between ΔGmin and the effective radius</entry><entry /></row><row><entry>was reported (Figure 17).</entry><entry /></row><row><entry>Hoffman, et al. (50) used EMG to determine responses to gradient stimulation. They</entry><entry /></row><row><entry>concluded that EMG thresholds and perception thresholds were equally reproducible with</entry><entry /></row><row><entry>148</entry><entry /></row><row><entry>Bioeffects of Gradient Magnetic Fields</entry><entry /></row><row><entry>Table 2. Literature results for gradient coil PNS perception thresholds and chronaxies</entry><entry /></row><row><entry>using the Chronik and Rutt formulation of the SD curve as in Equation (15). The results</entry><entry /></row><row><entry>of Feldman, et al. (49) were for planar coils and are excluded from the weighted mean</entry><entry /></row><row><entry>calculation. N is the number of subjects. The results for Zhang, et al. (44) were for 481,</entry><entry /></row><row><entry>402 and 353 cm defined spherical volume (DSV) coils.</entry><entry /></row><row><entry>Reference</entry><entry /></row><row><entry>Waveform</entry><entry /></row><row><entry>N</entry><entry /></row><row><entry>Axis</entry><entry /></row><row><entry>SRmin</entry><entry /></row><row><entry>(T/m/s)</entry><entry /></row><row><entry>Gmin</entry><entry /></row><row><entry>(T/m)</entry><entry /></row><row><entry>c</entry><entry /></row><row><entry>(ms)</entry><entry /></row><row><entry>Ham,</entry><entry /></row><row><entry>et al.</entry><entry /></row><row><entry>46</entry><entry /></row><row><entry>Sinusoid</entry><entry /></row><row><entry>4</entry><entry /></row><row><entry>Z</entry><entry /></row><row><entry>41.5</entry><entry /></row><row><entry>34</entry><entry /></row><row><entry>0.81</entry><entry /></row><row><entry>Zhang,</entry><entry /></row><row><entry>et al.</entry><entry /></row><row><entry>44</entry><entry /></row><row><entry>Trap 64</entry><entry /></row><row><entry>20</entry><entry /></row><row><entry>XY 1</entry><entry /></row><row><entry>66.8</entry><entry /></row><row><entry>24.7</entry><entry /></row><row><entry>0.37</entry><entry /></row><row><entry>20</entry><entry /></row></tbody></tgroup></table><table frame="all"><title>Guidelines for the management of patients with coronary artery stents</title><tgroup cols="4"><tbody><row><entry>BioRef 2021 V10 435-748_Layout 1</entry><entry>12/5/2021</entry><entry>3:30 PM</entry><entry>Page 477</entry></row></tbody></tgroup></table></sect1>
+    </sect1>
     <sect1 id="ch0005s02">
       <title>INTRODUCTION</title>
       <para>During magnetic resonance imaging (MRI), the patient is exposed to the static magnetic  field, which produces the nuclear magnetization in tissues, radiofrequency (RF) pulses,  which manipulate the magnetization in order to detect an MRI signal, and low frequency  pulsed magnetic field gradients, which are used for localization of the signal in image for- mation. This chapter concerns the physiological effects of exposure to time-varying mag- netic fields from the imaging gradients, hereafter simply referred to as the “gradients” or  “gradient magnetic fields”.</para>
@@ -15,7 +15,6 @@
       <title>BASIC PHYSICS AND PHYSIOLOGY</title>
       <para><emphasis role="bold">Imaging Gradients </emphasis></para>
       <para>The imaging gradients are defined as linear spatial variations in the z-component of the  static magnetic field Bz, that is, along the axis of the MR system’s bore, as follows:</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 132</para>
       <para>and are specified in millitesla per meter (mT/m).  Within the imaging field-of-view  (FOV), the gradients produce static magnetic fields whose z-axis components are additive  to B0:</para>
       <para>The gradients alter the Larmor frequency of the MR signal depending upon its source  location. For example, with Gx = 10-mT/m at 0.2-m along the x-axis from the isocenter,  the additional field from the x-gradient is 2-mT. The maximum field experienced by the  patient will depend upon the patient’s size and the linearity of the gradients. <emphasis role="bold">Figure 1</emphasis> illus- trates how the magnitude of the gradient fields varies across the patient in the scanner’s  field-of-view (FOV). Note that the gradient field will be negative over half the FOV.</para>
       <para>Gradient pulses are commonly applied as trapezoidal waveforms with durations of a  few milliseconds, ramp times of typically 0.1- to 1.0-ms and amplitudes of up to, and in  excess of, 50-mT/m (<emphasis role="bold">Figure 2</emphasis>). The gradient slew rate (SR), defined in T/m/s, is given by</para>
@@ -31,7 +30,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 133</para>
       <figure>
         <title />
         <mediaobject>
@@ -63,7 +61,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 134</para>
       <figure>
         <title />
         <mediaobject>
@@ -99,7 +96,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 135</para>
       <para><emphasis role="italics">Complications Associated with Gradient Magnetic Fields</emphasis>. Simple linear gradient fields  with only a Bz component cannot exist in actuality. This is a consequence of Maxwell’s  equations. So-called concomitant fields (1) in the x and y directions must exist such that</para>
       <para><emphasis role="bold">î</emphasis>, <emphasis role="bold">ĵ</emphasis>, <emphasis role="bold">ǩ</emphasis> are unit vectors with a magnitude equal to 1, pointing along the x, y and z direc- tions. For a Maxwell pair coil used, for example, as a simple z-gradient coil a=b=-0.5. Each  gradient coil produces Bx and By components. These do not affect imaging much because  the tissue magnetization is sensitised in the z-axis, however they affect the magnitude of B  and dB/dt exposure. For example, the amplitude of the x-gradient field is:</para>
       <para>The gradient field has zero z-dependence only in the plane of the isocenter. This results  in a patient exposure greater than can be considered from the simple calculations considered  above.</para>
@@ -113,7 +109,6 @@
       <para>(8)</para>
       <para>(9)</para>
       <para><emphasis role="bold">136</emphasis> <emphasis role="bold">Bioeffects of Gradient Magnetic Fields</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 136</para>
       <figure>
         <title />
         <mediaobject>
@@ -170,7 +165,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 137</para>
       <figure>
         <title />
         <mediaobject>
@@ -202,7 +196,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 138</para>
       <figure>
         <title />
         <mediaobject>
@@ -230,7 +223,6 @@
       <para>(12)</para>
       <para>(13)</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">139</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 139</para>
       <figure>
         <title />
         <mediaobject>
@@ -266,7 +258,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 140</para>
       <para>sider the step change in magnetic field ΔB as the stimulus (9). The SD curve, now assuming  its hyperbolic form, becomes linear for ΔB:</para>
       <para>where ΔBmin is the minimum change in magnetic field for an infinitely short stimulus,  that is, an infinite dB/dt. Although not obviously intuitive, this latter formulation is instruc- tive for comparing diverse physiological effects and stimuli. Glover (10) has also com- mented upon the role of ΔB for static field effects such as metallic taste and vertigo.</para>
     </sect1>
@@ -278,7 +269,6 @@
       <para>McRobbie and Foster (19) first demonstrated the strength-duration curve from topical  stimulation of the median nerve in 1984 using electromyography (EMG) to determine re- producible thresholds (<emphasis role="bold">Figure 7</emphasis>). They fitted an exponential form of the SD curve with a  time constant of 0.47-ms and an estimated J rheobase of 3.6-A/m<superscript>2</superscript>, corresponding to an es- timated ERb of 12-V/m. They also demonstrated that, contrary to expectations of the SENN,  the biphasic damped sinusoidal pulse produced by their capacitance discharge system was  a more effective stimulus than mono-phasic pulses (<emphasis role="bold">Figure 11</emphasis>). This is supported by further  evidence from the TMS literature (20, 21) and the recent ultra-high slew rate studies (22).</para>
       <para>(14)</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">141</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 141</para>
       <figure>
         <title />
         <mediaobject>
@@ -307,7 +297,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 142</para>
       <para>In the SENN model, a 20-um nerve fiber is predicted to have a theoretical time constant  of 0.12-ms (7). Despite SENN apologists’ appeal to magnetic stimulation for validation of  the theory (8), most magnetic stimulation results contradict the predictions of the SENN  model. In carefully devised experiments, Rescoskie, et al. (23, 24) demonstrated large dis- crepancies in chronaxies from electrical and topical magnetic stimulation of the ulnar nerve  for both perception and EMG thresholds. Perception chronaxies were 0.024 ± 0.02-ms for  electrical stimulation, against 0.67 ± 0.18-ms for magnetic stimulation. A confounding factor  is the huge variation (i.e., thirty times) in reported electrical stimulation chronaxies. This  raises issues about the validity of applying electrical stimulation data to formulate limits  for time-varying magnetic fields.</para>
       <para>Weinberg, et al. (22) investigated ultra-high dB/dt, high frequency (&gt; 100 kHz) pulses,  using a topical coil, and reported a significantly reduced probability for stimulation at these  frequencies (<emphasis role="bold">Figure 12</emphasis>). They concluded that ultra-short pulses (were the technology avail- able) in whole-body gradient systems are unlikely to cause PNS despite very high dB/dt.  Using results from Magnetic Particle Imaging (25) and MRI studies (26), a modified SD  curve has been proposed (27). Shown in <emphasis role="bold">Figure 13</emphasis>, the threshold is seen to rise for very  short (&lt;20 μs) stimuli above 25 kHz. Also shown are SENN predictions.</para>
       <para><emphasis role="bold">Magnetic Stimulation and Different Organs </emphasis></para>
@@ -322,7 +311,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 143</para>
       <para><emphasis role="bold">144</emphasis> <emphasis role="bold">Bioeffects of Gradient Magnetic Fields</emphasis></para>
       <para><emphasis role="bold">Figure 12.</emphasis> Probability of PNS sensation at various frequencies, at magnitude 0.4-T. Error  bars correspond to exact confidence intervals with 95% power. Data points are labeled  with frequency values. Reproduced with permission from Reference 22.</para>
       <figure>
@@ -342,7 +330,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 144</para>
       <para>coil with a frequency of 853-Hz. In later work, the median canine respiration threshold for  a 0.53-ms pulse was shown to be around 900-T/s.</para>
       <para>Direct cardiac stimulation is more difficult to achieve due to the longer time constants  of cardiac muscle and the smaller induction paths around the organ.  Early attempts with  small coil systems produced violent muscular contractions and estimated current densities  in the range 5 to 20-A/m<superscript>2</superscript> but without any detected cardiac arrhythmias in rats (29, 30).  Nevertheless, Bourland, et al. (31) achieved trans-chest magnetic simulation of the dog  heart, producing ectopic beats but not ventricular fibrillation, with an estimated induced  electric field of 50-V/m and a median threshold dB/dt of 2,700-T/s. for a 0.53-ms pulse.  Using a tissue time constant of 3-ms, a rheobase of 400-T/s can be extrapolated. Yamaguchi,  et al. (32) showed similar results with an estimated ERb of 55- to 340-V/m.  Cohen, et al.  (33) did not detect any changes in the electrocardiogram (ECG) of canines exposed to up  to 66-T/s. using a human whole-body gradient system. The cardiac stimulation dB/dt  rheobase for the most sensitive percentile of the population has been theoretically estimated  as 62-T/s. (34). It is thought that at least 50 times the electrical stimulus for cardiac stimu- lation is required to cause ventricular fibrillation (35).</para>
       <para>Interestingly, exposure of pregnant mice to dB/dt of up to 3,600-T/sec. at 2.2-kHz  caused significant muscular contractions but showed no effect on the litter size or terato- genicity (3).</para>
@@ -350,7 +337,6 @@
       <para>PNS associated with MRI-related gradient magnetic fields was first reported by Cohen,  et al. (33) and Budinger, et al. (36). Initially, the possibility of PNS was limited to high slew  rate specialist gradient systems, based upon capacitance discharge technology, for echo pla- nar imaging (EPI). The advent of improved linear amplifiers for the MRI-related gradients  has resulted in a much greater likelihood of patients experiencing stimulation. For example,  Vogt, et al. (37) exposed 210 patients to gradient slew rates of 120% of the International  Electrotechnical Commission (IEC) limit for PNS (38) using a rapid gradient echo (FLASH)  sequence. For this study group, 16.7% reported PNS with 2.9% reporting very uncomfort- able stimulation.</para>
       <para>The Purdue University group (39, 40) has published extensive studies of MRI-related  gradient stimulation using y- (anatomically aligned anterior-posterior) and z-gradient coil  systems external to the bore of the MR system. <emphasis role="bold">Figure 14</emphasis> shows SD curves for an individual  subject’s subjective reporting of three levels of stimulation (1 = threshold, 5 = uncomfort- able, 10 = intolerable) fitted to the hyperbolic form. The subjects (n = 84) reported uncom- fortable stimulation at about 50% higher exposure than for the threshold, and about 100%  higher than threshold for intolerable. Pooling these data, one can calculate a stimulus or  dose response curve and a population SD curve (<emphasis role="bold">Figure 15</emphasis>). For perception, the median  dB/dt rheobases were 15-T/s for the y-gradient and 26-T/s for x with similar chronaxies  (0.37-ms, 0.38-ms). The stimulus was a train of 64 trapezoidal gradient lobes, resulting in  128 rectangular dB/dt pulses of duration 0.05 to 1.0-ms. Using dB/dt pulse lengths of 0.2-  and 0.5-ms, there was no correlation between subject height, sex or age on stimulation</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">145</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 145</para>
       <para><emphasis role="bold">146</emphasis> <emphasis role="bold">Bioeffects of Gradient Magnetic Fields</emphasis></para>
       <para><emphasis role="bold">Figure 15.</emphasis> Pooled results from a human PNS experiment (Nyenhuis, et al.).  <emphasis role="italics">Top.</emphasis> The  group stimulus-response curves for perception, discomfort and intolerable stimulation.  <emphasis role="italics">Bottom.</emphasis> From the above, the median population SD curves may be derived, fitted to a hy- perbolic SD curve. Reproduced with permission.</para>
       <figure>
@@ -362,109 +348,7 @@
         </mediaobject>
       </figure>
       <para><emphasis role="bold">Figure 14.</emphasis> Individual SD curves from y- and z-gradients showing perception (score = 1),  discomfort (score = 5) and intolerable stimulation (score = 10) from Nyenhuis, et al. (40).  In this experiment the y-axis refers to the AP direction. The solid lines are fitted to the hy- perbolic SD curve. Reproduced with permission.</para>
-      <table frame="all">
-              <title>Untitled</title>
-              <tgroup cols="8">
-                <colspec colname="c1" />
-                <colspec colname="c2" />
-                <colspec colname="c3" />
-                <colspec colname="c4" />
-                <colspec colname="c5" />
-                <colspec colname="c6" />
-                <colspec colname="c7" />
-                <colspec colname="c8" />
-                <thead>
-                  <row>
-                    <entry>Reference</entry>
-                    <entry>Waveform</entry>
-                    <entry>N</entry>
-                    <entry>Axis</entry>
-                    <entry>dB/dt (T/s)</entry>
-                    <entry>ΔB (mT)</entry>
-                    <entry>c (ms)</entry>
-                  </row>
-                </thead>
-                <tbody>
-                  <row>
-                    <entry>Irnich and Schmitt</entry>
-                    <entry>9</entry>
-                    <entry>Sinusoid</entry>
-                    <entry>1</entry>
-                    <entry>Z</entry>
-                    <entry>18.0</entry>
-                    <entry>9.9</entry>
-                    <entry>0.55</entry>
-                  </row>
-                  <row>
-                    <entry morerows="1">Bourland</entry>
-                    <entry morerows="1">39</entry>
-                    <entry morerows="1">Trap 128</entry>
-                    <entry>84</entry>
-                    <entry>Y</entry>
-                    <entry>14.9</entry>
-                    <entry>5.4</entry>
-                    <entry>0.37</entry>
-                  </row>
-                  <row>
-                    <entry>84</entry>
-                    <entry>Z</entry>
-                    <entry>26.2</entry>
-                    <entry>9.9</entry>
-                    <entry>0.38</entry>
-                  </row>
-                  <row>
-                    <entry>Den Boer, et al.</entry>
-                    <entry>42</entry>
-                    <entry>Trap</entry>
-                    <entry>153</entry>
-                    <entry>Y</entry>
-                    <entry>18.8</entry>
-                    <entry>6.8</entry>
-                    <entry>0.36</entry>
-                  </row>
-                  <row>
-                    <entry morerows="2">Hebrank, et al.</entry>
-                    <entry morerows="2">43</entry>
-                    <entry morerows="2">Trap 128</entry>
-                    <entry>65</entry>
-                    <entry>Y</entry>
-                    <entry>16.3</entry>
-                    <entry>8.6</entry>
-                    <entry>0.52</entry>
-                  </row>
-                  <row>
-                    <entry>65</entry>
-                    <entry>XY</entry>
-                    <entry>18.6</entry>
-                    <entry>8.7</entry>
-                    <entry>0.47</entry>
-                  </row>
-                  <row>
-                    <entry>65</entry>
-                    <entry>XYZ</entry>
-                    <entry>20.1</entry>
-                    <entry>10.2</entry>
-                    <entry>0.51</entry>
-                  </row>
-                  <row>
-                    <entry>Zhang, et al.</entry>
-                    <entry>44</entry>
-                    <entry>Trap 64</entry>
-                    <entry>20</entry>
-                    <entry>XY</entry>
-                    <entry>24.7</entry>
-                    <entry>11.1</entry>
-                    <entry>0.53</entry>
-                  </row>
-                  <row>
-                    <entry namest="c1" nameend="c4">Mean Value</entry>
-                    <entry>19.4</entry>
-                    <entry>8.1</entry>
-                    <entry>0.42</entry>
-                  </row>
-                </tbody>
-              </tgroup>
-            </table><figure>
+      <figure>
         <title />
         <mediaobject>
           <imageobject>
@@ -472,149 +356,12 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 146</para>
       <para>threshold. Limited correlation of girth and threshold for the z-gradient coil was observed  but not evaluated statistically. Abart, et al. (41) also noted lack of correlation of stimulus  threshold with age, body surface, and sex.</para>
       <para>Many other authors have investigated PNS perception thresholds for various combina- tions of axes on whole-body, MRI-related gradient systems (9, 39, 42-44). Rheobases and  chronaxies from these studies are shown in <emphasis role="bold">Table 1</emphasis>. Given the range of combinations of  waveforms, axes and coil designs, there is a striking consistency across these results. Taking  the weighted mean from these studies, we arrive at an average dB/dt rheobase of 19.4-T/s.  and a chronaxie of 0.42-ms - in agreement with topical stimulation studies (19, 22-24).  Using Equations (9), (10) and (14) with a=0.4-m, b=0.2-m and σ =0.2-S/m one can deduce  the rheobase for E, and J to be in the region of 3.1-V/m and 0.62-A/m<superscript>2</superscript> with a ΔBmin of 8.1- mT.</para>
-      <table frame="all">
-            <title>Untitled</title>
-            <tgroup cols="8">
-              <colspec colname="c1" />
-              <colspec colname="c2" />
-              <colspec colname="c3" />
-              <colspec colname="c4" />
-              <colspec colname="c5" />
-              <colspec colname="c6" />
-              <colspec colname="c7" />
-              <colspec colname="c8" />
-              <thead>
-                <row>
-                  <entry>Reference</entry>
-                  <entry>Waveform</entry>
-                  <entry>N</entry>
-                  <entry>Axis</entry>
-                  <entry>SRmin (T/m/s)</entry>
-                  <entry>Gmin (T/m)</entry>
-                  <entry>c (ms)</entry>
-                </row>
-              </thead>
-              <tbody>
-                <row>
-                  <entry>Ham, et al.</entry>
-                  <entry>46</entry>
-                  <entry>Sinusoid</entry>
-                  <entry>4</entry>
-                  <entry>Z</entry>
-                  <entry>41.5</entry>
-                  <entry>34</entry>
-                  <entry>0.81</entry>
-                </row>
-                <row>
-                  <entry>Zhang, et al.</entry>
-                  <entry>44</entry>
-                  <entry>Trap 64</entry>
-                  <entry>20</entry>
-                  <entry>XY ¹</entry>
-                  <entry>66.8</entry>
-                  <entry>24.7</entry>
-                  <entry>0.37</entry>
-                </row>
-                <row>
-                  <entry />
-                  <entry />
-                  <entry />
-                  <entry>20</entry>
-                  <entry>XY ²</entry>
-                  <entry>75.4</entry>
-                  <entry>34.0</entry>
-                  <entry>0.45</entry>
-                </row>
-                <row>
-                  <entry />
-                  <entry />
-                  <entry />
-                  <entry>20</entry>
-                  <entry>XY ³</entry>
-                  <entry>77.0</entry>
-                  <entry>40.5</entry>
-                  <entry>0.53</entry>
-                </row>
-                <row>
-                  <entry>Hoffman, et al.</entry>
-                  <entry>50</entry>
-                  <entry>Trap</entry>
-                  <entry>14</entry>
-                  <entry>Y</entry>
-                  <entry>26.0</entry>
-                  <entry>20.8</entry>
-                  <entry>1.03</entry>
-                </row>
-                <row>
-                  <entry>Chronik, et al.</entry>
-                  <entry>47</entry>
-                  <entry>Trap</entry>
-                  <entry>20</entry>
-                  <entry>XY</entry>
-                  <entry>62.2</entry>
-                  <entry>44.4</entry>
-                  <entry>0.77</entry>
-                </row>
-                <row>
-                  <entry>Chronik, et al.</entry>
-                  <entry>48</entry>
-                  <entry>Trap</entry>
-                  <entry>18</entry>
-                  <entry>XY</entry>
-                  <entry>50.1</entry>
-                  <entry>48.5</entry>
-                  <entry>1.054</entry>
-                </row>
-                <row>
-                  <entry>Feldman, et al.</entry>
-                  <entry>49</entry>
-                  <entry>Trap</entry>
-                  <entry>14</entry>
-                  <entry>X</entry>
-                  <entry>252</entry>
-                  <entry>218</entry>
-                  <entry>0.87</entry>
-                </row>
-                <row>
-                  <entry />
-                  <entry />
-                  <entry />
-                  <entry>14</entry>
-                  <entry>Y</entry>
-                  <entry>222</entry>
-                  <entry>147</entry>
-                  <entry>0.66</entry>
-                </row>
-                <row>
-                  <entry />
-                  <entry />
-                  <entry />
-                  <entry>14</entry>
-                  <entry>Z</entry>
-                  <entry>210</entry>
-                  <entry>133</entry>
-                  <entry>0.63</entry>
-                </row>
-                <row>
-                  <entry>Mean Value</entry>
-                  <entry />
-                  <entry />
-                  <entry />
-                  <entry />
-                  <entry>59.3</entry>
-                  <entry>35.4</entry>
-                  <entry>0.69</entry>
-                </row>
-              </tbody>
-            </tgroup>
-          </table><para>Chronik and Rutt (45) derived the law of stimulation in terms of the MRI-related gra- dient parameters:</para>
+      <para>Chronik and Rutt (45) derived the law of stimulation in terms of the MRI-related gra- dient parameters:</para>
       <para>where SRmin is the smallest stimulating slew rate for infinitely long pulse durations,  ΔGmin is the smallest stimulating gradient excursion for infinitely short pulse durations, and  c is the chronaxie. This can be represented diagrammatically (<emphasis role="bold">Figure 16</emphasis>) where the gradient</para>
       <para>(15)</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">147</emphasis></para>
-      <para><emphasis role="bold">Table 1.</emphasis> Literature results for gradient coil PNS perception thresholds and chronaxies  using the hyperbolic formulation of the SD curve. The mean values are weighted for the  number of subjects, N. The column, ΔB, is calculated from Equation (14).</para>
       <para><emphasis role="bold">Reference </emphasis> <emphasis role="bold">Waveform </emphasis> <emphasis role="bold">N </emphasis> <emphasis role="bold">Axis </emphasis> <emphasis role="bold">dB/dt  </emphasis> <emphasis role="bold">(T/s) </emphasis></para>
       <para><emphasis role="bold">Δ</emphasis><emphasis role="bold">B  </emphasis> <emphasis role="bold">(mT) </emphasis></para>
       <para><emphasis role="bold">c  </emphasis> <emphasis role="bold">(ms)</emphasis> Irnich and   Schmitt  9 Sinusoid  1  Z  18.0  9.9  0.55</para>
@@ -626,7 +373,6 @@
       <para>65 XYZ 20.1 10.2 0.51</para>
       <para>Zhang,   et al. 44 Trap 64 20 XY 24.7 11.1 0.53</para>
       <para>Mean Value 19.4 8.1 0.42</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 147</para>
       <figure>
         <title />
         <mediaobject>
@@ -653,7 +399,6 @@
       <para>14 Y 222 147 0.66</para>
       <para>14 Z 210 133 0.63</para>
       <para>Mean Value 59.3 35.4 0.69</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 148</para>
       <para>standard deviations of 2.1- and 2.0-mT/m, respectively, and a difference of only 0.45-mT/m,  the subjective threshold being the lower.</para>
     </sect1>
     <sect1 id="ch0005s05">
@@ -670,7 +415,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 149</para>
       <para><emphasis role="bold">150</emphasis> <emphasis role="bold">Bioeffects of Gradient Magnetic Fields</emphasis></para>
       <para><emphasis role="bold">Figure 17.</emphasis> Experimental values of ΔGmin and effective loop radius Rax plotted for 37 sub- jects fitted to a power law function. Reproduced with permission from Reference 48.</para>
       <figure>
@@ -690,8 +434,7 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 150</para>
-    </sect1>
+      </sect1>
     <sect1 id="ch0005s06">
       <title>EXPOSURE LIMITS</title>
       <para>Most standards for patient exposure during MRI utilize PNS SD data derived theoreti- cally or from direct measurement in volunteers according to a defined protocol (38, 56, 57).  The Normal Operating Mode for the MR system’s gradient magnetic fields is defined as  80% of the median perception threshold for PNS. The First Level Controlled Operating  Mode is defined as 100% of the median perception threshold. Where MR system-specific  experimental data is unavailable, theoretical data may be used. The International Elec- trotechnical Commission (IEC) standard 60601-2-33 3rd Edition uses a theoretical dB/dt  rheobase (rb) of 20-T/s, with a chronaxie of 0.36-ms for PNS, giving its three operational  mode limits:</para>
@@ -705,7 +448,6 @@
       <para>(16b)</para>
       <para>(16c)</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">151</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:16 PM  Page 151</para>
       <figure>
         <title />
         <mediaobject>
@@ -746,7 +488,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:17 PM  Page 152</para>
       <figure>
         <title />
         <mediaobject>
@@ -791,7 +532,6 @@
           </imageobject>
         </mediaobject>
       </figure>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:17 PM  Page 153</para>
       <para>diction algorithms of clinical MR systems. These studies consistently show dB/dt rheobases  for perception of around 20-T/s, with a ΔBmin of around 8-mT. The y-gradient (anterior- posterior) is the most effective for stimulation with a rheobase in the range 15 to 19-T/s  and measured chronaxies are remarkably similar across many different experiments. The  threshold for discomfort or pain from PNS is approximately 50 to 100% higher than the  perception threshold, and not generally achievable using clinical MR systems. The longer  time constant for cardiac muscle and the smaller conduction loops around the heart make  direct cardiac stimulation extremely unlikely.</para>
     </sect1>
     <sect1 id="ch0005s09">
@@ -817,7 +557,6 @@
       <para>15. Polson MJ, Barker AT, Freeston IL. Stimulation of nerve trunks with time-varying magnetic fields. Med  Bio Eng Comput 1982;20:243-244.</para>
       <para>16. Barker AT, Freeston IL, Jalinous R, Jarratt JA.  Magnetic stimulation of human brain and peripheral nervous  system: An introduction and the results of an initial clinical evaluation. Neurosurgery 1987;20:100-109.</para>
       <para><emphasis role="bold">154</emphasis> <emphasis role="bold">Bioeffects of Gradient Magnetic Fields</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:17 PM  Page 154</para>
       <para>17. Conolly KR, Helmer A, Cristancho MA, et al. Effectiveness of transcranial magnetic stimulation in clinical  practice post-FDA approval in the United States: Results observed with the first 100 cases of depression  at an academic clinical center. J Clin Psychiatry 2012;73:e567-e573.</para>
       <para>18. Klomjai W, Katz R, Lackmy-Vallee A. Basic principles of transcranial magnetic stimulation (TMS) and  repetitive TMS (rTMS). Ann Phys Rehab Med 2015;58:208-213.</para>
       <para>19. McRobbie D, Foster MA. Thresholds for biological effects of magnetic fields. Clin Phys Physiol Meas  1984;5:67-78.</para>
@@ -840,7 +579,6 @@
       <para>36. Budinger TF, Fischer H, Hentschel D, et al. Physiologic effects of fast oscillating magnetic field gradients.  J Comput Assist Tomogr 1991;15:609-614.</para>
       <para>37. Vogt FM, Ladd ME, Hunold P, et al. Increased time rate of change of gradient fields: Effect on peripheral  nerve stimulation at clinical MR imaging. Radiology 2004;233:548-554.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">155</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:17 PM  Page 155</para>
       <para>38. International Electrotechnical Commission.  Medical Electrical Equipment – Part 2-33: Particular Require- ments for the Safety of Magnetic Resonance Equipment for Medical Diagnosis. IEC 60601-2-33 3rd Edi- tion. Geneva: IEC, 2015.</para>
       <para>39. Bourland JD, Nyenhuis JA, Schaefer DJ.  Physiologic effects of intense MR imaging gradient fields. Neu- roimaging Clin N Am 1999;9:363-377.</para>
       <para>40. Nyenhuis JA, Bourland JD, Kildishec AV. Health Effects and Safety of Intense MRI Gradient Magnetic  Fields. In: Shellock FG, Editor. Magnetic Resonance Procedures: Health Effects and Safety. Boca Raton,  USA: CRC Press, 2001.</para>
@@ -863,6 +601,5 @@
       <para>57. International Commission on Non-Ionizing Radiation Protection. Medical magnetic resonance (MR) pro- cedures: Protection of patients. Health Phys 2004;87:197-216.</para>
       <para>58. Food and Drugs Administration.  Criteria for significant risk investigations of magnetic resonance diag- nostic devices. Rockville, MD: Center for Devices and Radiological Health, U.S. Food and Drug Admin- istration, 2014.</para>
       <para><emphasis role="bold">156</emphasis> <emphasis role="bold">Bioeffects of Gradient Magnetic Fields</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/5/2021  3:17 PM  Page 156</para>
-    </sect1>
+      </sect1>
 </chapter>

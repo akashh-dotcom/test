@@ -2,125 +2,18 @@
 <chapter id="ch0012" label="12">
     <title>Chapter 12</title>
     <para><emphasis role="bold">Chapter 12</emphasis> <emphasis role="bold">Identification and Management of </emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-</emphasis> <emphasis role="bold">Based Contrast Agents </emphasis></para>
-    <table frame="all">
-  <title />
-  <tgroup cols="2">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <tbody>
-      <row>
-        <entry namest="c1" nameend="c2">Mild (self-limited, nonprogressive)</entry>
-      </row>
-      <row>
-        <entry>• Altered taste</entry>
-        <entry>• Headache, dizziness</entry>
-      </row>
-      <row>
-        <entry>• Pallor, flushing, warmth, chills, sweats</entry>
-        <entry>• Mild and transient nausea/vomiting</entry>
-      </row>
-      <row>
-        <entry>• Scattered and/or transient urticaria/itching</entry>
-        <entry>• Mild and transient hypertension or hypotension</entry>
-      </row>
-      <row>
-        <entry>• Cough</entry>
-        <entry>• Short-lasting and self-limited vasovagal reaction</entry>
-      </row>
-      <row>
-        <entry>• Nasal congestion, rhinorrhea, sneezing, conjunctivitis</entry>
-        <entry>• Mild and limited tachycardia/bradycardia</entry>
-      </row>
-      <row>
-        <entry namest="c1" nameend="c2">Moderate (requires medical treatment, may progress if untreated)</entry>
-      </row>
-      <row>
-        <entry>• Protracted nausea/vomiting</entry>
-        <entry>• Moderate and protracted tachycardia</entry>
-      </row>
-      <row>
-        <entry>• Diffuse urticaria/itching</entry>
-        <entry>• Hypertension/hypotension/vasovagal reaction that requires and responds to treatment</entry>
-      </row>
-      <row>
-        <entry>• Diffuse erythema, stable vital signs</entry>
-        <entry />
-      </row>
-      <row>
-        <entry>• Bronchospasm, dyspnea</entry>
-        <entry>• Isolated chest pain, no electrocardiographic changes</entry>
-      </row>
-      <row>
-        <entry>• Facial/laryngeal edema without dyspnea</entry>
-        <entry />
-      </row>
-      <row>
-        <entry namest="c1" nameend="c2">Severe (life-threatening, may result in inpatient hospitalization, prolongation of hospitalization, permanent morbidity or death)</entry>
-      </row>
-      <row>
-        <entry>• Hypotensive shock</entry>
-        <entry>• Severe or rapidly progressing laryngeal edema with stridor and/or hypoxia</entry>
-      </row>
-      <row>
-        <entry>• Respiratory arrest</entry>
-        <entry>• Severe bronchospasm with significant hypoxia</entry>
-      </row>
-      <row>
-        <entry>• Cardiac arrest</entry>
-        <entry>• Diffuse erythema with hypotension</entry>
-      </row>
-      <row>
-        <entry>• Vasovagal reaction resistant to treatment</entry>
-        <entry>• Hypertensive emergency</entry>
-      </row>
-      <row>
-        <entry>• Convulsions/seizures</entry>
-        <entry>• Clinically manifested arrhythmias</entry>
-      </row>
-      <row>
-        <entry>• Unresponsiveness</entry>
-        <entry />
-      </row>
-    </tbody>
-  </tgroup>
-</table><sect1 id="ch0012s01">
+    <sect1 id="ch0012s01">
       <title>ALBERTO SPINAZZI, M.D.</title>
       <para>Chief Medical and Regulatory Officer  Bracco Group  Monroe, NJ</para>
     </sect1>
     <sect1 id="ch0012s02">
       <title>INTRODUCTION</title>
       <para>Gadolinium-based contrast agents (GBCAs) have been used in clinical practice since  the 1980s. Over the years, nine GBCAs have been approved for intravenous or intra-articular  use in various countries throughout the world: Ablavar (gadofosveset), Dotarem (gadoterate  meglumine), Eovist/Primovist (gadoxetate disodium), Gadavist/Gadovist (gadobutrol),  Magnevist (gadopentetate dimeglumine), MultiHance (gadobenate dimeglumine), ProHance  (gadoteridol), Omniscan (gadodiamide), and OptiMARK (gadoversetamide).</para>
-      <table frame="all">
-  <title />
-  <tgroup cols="2">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <thead>
-      <row>
-        <entry>Equipment</entry>
-        <entry>Medications</entry>
-      </row>
-    </thead>
-    <tbody>
-      <row>
-        <entry>OxygenSuction (wall-mounted or portable), tubing and cathetersOral airways"Ambu"-type bagEndotracheal tubesStethoscope, sphygmomanometer, tourniquets, tongue depressorOne-way mouth breather apparatusIV fluids (normal saline or Ringer's solution)Tourniquets, syringes and needles of varying sizesTracheostomy set, cut-down trays with sterile instruments</entry>
-        <entry>Epinephrine 1:1,000 (1-mL for SC/IM injection) or IM auto-injectorEpinephrine 1:10,000 (10-mL preloaded syringe for IV injection)AtropineBeta-agonist metered dose inhalerDiphenhydramineNitroglycerinAspirinAnti-convulsive drugs</entry>
-      </row>
-      <row>
-        <entry namest="c1" nameend="c2">On Emergency Cart or Immediately Available</entry>
-      </row>
-      <row>
-        <entry>DefibrillatorElectrocardiogram</entry>
-        <entry>Blood pressure/pulse monitorPulse oximeter (optional)</entry>
-      </row>
-    </tbody>
-  </tgroup>
-</table><para>“Adverse reactions” are defined by all regulatory authorities as noxious and unintended  responses to a medicinal product (1). The phrase “responses to a medicinal product” means  that a causal relationship between exposure to a medicinal product and an untoward medical  occurrence is at least a reasonable possibility. All medicinal products can produce an adverse  reaction in someone who has been exposed to them. GBCAs, though generally safe and  well tolerated, are no exception: adverse reactions can occur after their administration, par- ticularly in patients with underlying risk factors.</para>
+      <para>“Adverse reactions” are defined by all regulatory authorities as noxious and unintended  responses to a medicinal product (1). The phrase “responses to a medicinal product” means  that a causal relationship between exposure to a medicinal product and an untoward medical  occurrence is at least a reasonable possibility. All medicinal products can produce an adverse  reaction in someone who has been exposed to them. GBCAs, though generally safe and  well tolerated, are no exception: adverse reactions can occur after their administration, par- ticularly in patients with underlying risk factors.</para>
       <para>“Acute adverse reactions” to GBCAs are defined as undesirable side effects that occur  within the first 60 minutes after administration of a GBCA (2). According to the approved  prescribing information of the GBCAs that are currently commercially available in the  United States (U.S.), the most frequent acute reactions to these imaging agents are headache,  nausea with or without vomiting, injection site reactions, dizziness, localized rash, and pru- ritus (incidence rate, 1 to 5%) (3-7). Importantly, reactions like coldness, warmth, or pain  at the injection site or headache probably depend on the physicochemical characteristics of  the GBCAs, while all other types of immediate reactions fall into the category of hypersen- sitivity reactions and are either allergic or pseudoallergic (allergy-like) in nature (8, 9).</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 333</para>
       <para>These latter two reactions are clinically indistinguishable due to their symptomatic similar- ities. However, they vastly differ mechanistically. Allergy-like reactions lack immunological  specificity and do not require previous exposure to the triggering antigen to elicit a response  (10). Conversely, allergic reactions are characterized by immunological specificity and  transferability. In cases of an allergic reaction, the patient’s immune system is able to rec- ognize and mount an immune response against an antigen, particularly due to subsequent  exposures to the same antigen (10). Allergy-like reactions are not associated with immuno- logical specificity but with direct release of histamine and other mediators from activated  mast cells and circulating basophils and eosinophils, activation of the contact and comple- ment systems, conversion of L-arginine into nitric oxide, and activation of the XII clotting  system leading to the production of bradykinin (11). Current clinical evidence shows that  most acute reactions to GBCAs are allergy-like in nature (8). However, cases of true allergic  reactions to GBCAs have been reported (9, 12-14).</para>
       <para>The severity of immediate GBCA reactions can range from non-serious and mild in in- tensity (i.e., transient and self-resolving symptoms), to life-threatening events, as shown in  <emphasis role="bold">Table 1</emphasis>. Most acute reactions to GBCAs are mild, self-limiting, and do not require specific  treatment. However, serious immediate reactions, such as anaphylactic or anaphylactic-like</para>
-      <para><emphasis role="bold">334</emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-Based Contrast Agents</emphasis></para>
+      <table frame="all"><title>Most acute reactions to GBCAs are mild, self-limiting, and do not require specific</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 1</entry><entry>See PDF</entry></row></tbody></tgroup></table><para><emphasis role="bold">334</emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-Based Contrast Agents</emphasis></para>
       <para><emphasis role="bold">Mild (self-limited, nonprogressive)</emphasis></para>
       <para>Altered taste • Headache, dizziness •</para>
       <para>Pallor, flushing, warmth, chills, sweats • Mild and transient nausea/vomiting •</para>
@@ -134,8 +27,6 @@
       <para><emphasis role="bold">Severe (life-threatening, may result in inpatient hospitalization, prolongation of hospitalization, per-</emphasis> <emphasis role="bold">manent morbidity or death)</emphasis></para>
       <para>Hypotensive shock  • Respiratory arrest  • Cardiac arrest  • Vasovagal reaction resistant to treatment  • Convulsions/seizures  • Unresponsiveness •</para>
       <para>Severe or rapidly progressing laryngeal edema  • with stridor and/or hypoxia  Severe bronchospasm with significant hypoxia  • Diffuse erythema with hypotension  • Hypertensive emergency  • Clinically manifested arrhythmias •</para>
-      <para><emphasis role="bold">Table 1.</emphasis> Type and severity of acute adverse reactions to gadolinium-based contrast agents  (adapted from Reference 15).</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 334</para>
       <para>events, may rarely occur (less than 1 in every 10,000 administered doses) (15-25). Serious  adverse reactions may result in patient hospitalizations, prolongation of hospitalization, per- manent morbidity, or even have a fatal outcome, especially if they are not promptly recog- nized and properly managed (15, 26).</para>
       <para>This chapter aims to provide information on the following: (1) how to identify patients  who may be at risk for developing serious acute reactions; (2) how to properly assess the  risks and benefits of using GBCAs in individual patients; (3) the preventative measures that  should be adopted; (4) when and how to promptly recognize the type of acute reaction; and  (5) the treatments that are recommended for patients experiencing serious adverse reactions.  These recommendations are based on guidance documents developed and published by  leading scientific societies (2, 15, 27).</para>
     </sect1>
@@ -147,51 +38,8 @@
       <para>Also, healthcare professionals should be aware of the potential for acute reactions to  drugs administered concomitantly for the sake of the MRI procedure, such as drugs used to  reduce anxiety, to sedate the patient, for analgesia or anesthesia, antihistamines, or phar- macologic stressors.</para>
       <para><emphasis role="bold">(2) Know Your Patient </emphasis></para>
       <para>Risk factors associated with the development of immediate hypersensitivity reactions  to GBCAs are well known. However, the occurrence of acute adverse reactions is substan- tially unpredictable, and allergic or allergy-like acute reactions, including serious ones, are  frequently observed in the absence of risk factors.</para>
-      <table frame="all">
-  <title />
-  <tgroup cols="4">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <colspec colname="c3" />
-    <colspec colname="c4" />
-    <thead>
-      <row>
-        <entry>Regimen</entry>
-        <entry>Drug and Timing</entry>
-        <entry>Adult Dose</entry>
-        <entry>Pediatric Dose</entry>
-      </row>
-    </thead>
-    <tbody>
-      <row>
-        <entry>Option 1</entry>
-        <entry>Prednisolone given at 13, 7, and 1 hour before GBCA, plus</entry>
-        <entry>50-mg PO</entry>
-        <entry>0.5 to 0.7-mg/kg PO (up to 50-mg)</entry>
-      </row>
-      <row>
-        <entry />
-        <entry>Diphenhydramine one hour before GBCA</entry>
-        <entry>50-mg PO</entry>
-        <entry>1.25-mg/kg PO (up to 50-mg)</entry>
-      </row>
-      <row>
-        <entry>Option 2</entry>
-        <entry>Methylprednisolone 12 and two hours before GBCA, plus</entry>
-        <entry>32-mg PO</entry>
-        <entry>N/A</entry>
-      </row>
-      <row>
-        <entry />
-        <entry>Diphenhydramine one hour before GBCA (optional)</entry>
-        <entry>50-mg PO</entry>
-        <entry>N/A</entry>
-      </row>
-    </tbody>
-  </tgroup>
-</table><para>Patients at risk for developing acute reactions include those who have experienced prior  reactions to a GBCA (2, 15, 20, 27, 28). These patients are eight times more likely to expe- rience subsequent reactions, the severity of which may be greater than that of previous re- actions (29). Patients with underlying asthma or allergic diathesis, including hypersensitivity  to food, chemicals, or other medications, are also considered to be at increased risk. Al-</para>
+      <para>Patients at risk for developing acute reactions include those who have experienced prior  reactions to a GBCA (2, 15, 20, 27, 28). These patients are eight times more likely to expe- rience subsequent reactions, the severity of which may be greater than that of previous re- actions (29). Patients with underlying asthma or allergic diathesis, including hypersensitivity  to food, chemicals, or other medications, are also considered to be at increased risk. Al-</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">335</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 335</para>
       <para>though there is no cross-reactivity, patients with known hypersensitivity to other types of  medical imaging agents (e.g., radiocontrast iodinated agents) should be considered at higher  risk for the development of hypersensitivity reactions to GBCAs (2, 15, 20, 28).</para>
       <para>Patients receiving treatment with beta-adrenergic blockers have been reported to be at  increased risk for experiencing hypersensitivity reactions to iodinated agents due to an in- crease in the release of mediators involved in anaphylaxis (30). Importantly, in the event  that a severe hypersensitivity reaction occurs, beta-blocking agents may decrease the car- diovascular compensatory changes to the anaphylactic shock, and epinephrine (adrenaline)  may be ineffective or promote paradoxical reflex vagotonic effects when used to resolve  the reaction (31-34).</para>
       <para>Therefore, before administering a GBCA, the healthcare professionals responsible for  the procedure should be aware of the patient’s pre-existing conditions, including the main  known or suspected diseases and any potential co-morbidities, identify any possible risk  factors, and ensure all medications the patient is taking have been identified. It is recom- mended to use a questionnaire to in order to ensure possible risk factors are identified and  to best assess the risk of GBCA use in individual patients. Finally, attention should be also  given to the emotional state of patients. Anxiety may cause panic attacks with symptoms  that may mimic hypersensitivity reactions. Also, under high stress situations, vasovagal re- actions may occur as well and it may be difficult to distinguish them from real hypersensi- tivity reactions. Severe acute reactions to GBCAs can be mitigated at least in part by having  a calm, relaxing atmosphere, and experienced personnel familiar with the GBCAs being  utilized and able to reduce anxiety (28).</para>
@@ -201,7 +49,6 @@
       <para>There are no widely accepted policies for dealing with patients who have experienced  prior reactions to GBCAs and the need for subsequent exposure to the same or other  GBCAs. However, even in the absence of supportive evidence, it is suggested that in the  case of a patient who experiences an acute reaction to a GBCA and requires a future con- trast-enhanced MRI, every effort should be made to determine if a GBCA is absolutely nec- essary, and if so, identify the specific GBCA that elicited the initial reaction so that a  different agent may be selected for use (2, 15, 27).</para>
       <para>Premedication with corticosteroids and antihistamines is recommended for patients with  a history of previous hypersensitivity reactions to GBCAs, allergies or known hypersensi- tivity to drugs or chemicals (2, 15). Two premedication regimens (<emphasis role="bold">Table 2</emphasis>) have been rec- ommended (15, 35, 36), of which the adults dosing regimens are summarized as follows:</para>
       <para><emphasis role="bold">336</emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-Based Contrast Agents</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 336</para>
       <para>a) Prednisone-based: 50-mg prednisone by mouth at 13 hours, seven hours, and one hour  before GBCA administration, plus 50-mg diphenhydramine intravenously, intramuscu- larly, or by mouth one hour before GBCA administration, or</para>
       <para>b) Methylprednisolone-based: 32-mg methylprednisolone by mouth 12 hours and two hours  before GBCA administration; 50-mg diphenhydramine may be added as in the pred- nisone-based option.</para>
       <para>It is important to note that such regimens may reduce the frequency or severity of re- actions but are not always effective as breakthrough reactions, including life-threatening</para>
@@ -217,16 +64,13 @@
       <para>Diphenhydramine one  hour before GBCA   (optional)</para>
       <para>50-mg PO N/A</para>
       <para>GBCA = gadolinium-based contrast agent; N/A = not applicable; PO = orally Note: Suitable intravenous doses may be substituted for patients unable to take medication orally.</para>
-      <para><emphasis role="bold">Table 2.</emphasis> Suitable premedication regimens (adapted from Reference 15).</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 337</para>
       <para><emphasis role="bold">(5) Be Prepared to Manage Any Adverse Reaction </emphasis></para>
       <para>Prerequisites to managing acute reactions include properly trained personnel and well- designed treatment plans. Personnel should be periodically and effectively trained to rapidly  recognize and assess acute adverse reactions and take all the necessary steps to initiate ap- propriate treatment, with properly documented review sessions and assessments. Periodic  training of onsite health care providers in cardiopulmonary resuscitation techniques, includ- ing basic life support or advanced cardiac life support, is recommended. Staff should be  also aware of how to activate the emergency response system to elevate the level of care if  needed in extreme cases. The contact phone number of the cardiopulmonary arrest emer- gency response team (i.e., the Code Blue team) should be clearly posted within or near any  room in which a GBCA is to be injected.</para>
       <para>All MRI facilities should have readily available, basic equipment and medications  needed to assess and treat acute reactions. As shown in <emphasis role="bold">Table 3</emphasis>, this list includes but is not  limited to equipment to assess a patient, such as stethoscope, blood pressure and pulse mon- itor, pulse oximeter, as well as medications and equipment needed to treat a patient, such  as sterile saline for intravenous injection, epinephrine, atropine, diphenhydramine, beta-ag- onist inhalers, oxygen, intubation equipment, and a cardiac defibrillator (2, 15). MRI facil- ities should institute periodic monitoring programs to ensure functionality of equipment  and confirm all medications are within expiration date limits (2, 15). The equipment to as- sess and treat acute reactions must be readily available and within or nearby any room in  which a GBCA is to be injected. The number and distribution of carts designed to treat acute  adverse reactions should be tailored to the size of the imaging facility.</para>
-      <para><emphasis role="bold">338</emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-Based Contrast Agents</emphasis></para>
+      <table frame="all"><title>Equipment and medications supply list for patient examination room</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 3</entry><entry>See PDF</entry></row></tbody></tgroup></table><para><emphasis role="bold">338</emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-Based Contrast Agents</emphasis></para>
       <para><emphasis role="bold">Table 3.</emphasis> Equipment and medications supply list for patient examination room   or emergency carts (adapted from references 2 and 15). <emphasis role="bold">Equipment</emphasis> <emphasis role="bold">Medications</emphasis> Oxygen  Suction (wall-mounted or portable), tubing and  catheters  Oral airways  “Ambu”-type bag  Endotracheal tubes  Stethoscope, sphygmomanometer, tourniquets,  tongue depressor</para>
       <para>Epinephrine 1:1,000 (1-mL for SC/IM injection)   or IM auto-injector  Epinephrine 1:10,000 (10-mL preloaded syringe for  IV injection)  Atropine  Beta-agonist metered dose inhaler  Diphenhydramine   Nitroglycerin One-way mouth breather apparatus Aspirin IV fluids (normal saline or Ringer’s solution) Anti-convulsive drugs Tourniquets, syringes and needles of varying sizes Tracheostomy set, cut-down trays with sterile   instruments <emphasis role="bold">On Emergency Cart or Immediately Available</emphasis> Defibrillator Blood pressure/pulse monitor Electrocardiogram Pulse oximeter (optional)</para>
       <para>IM = intramuscular; IV = intravenous; SC =  subcutaneous</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 338</para>
       <para>Finally, at-risk patients should be scheduled during daytime hours when more personnel  are available to assist in the event of an adverse reaction, preferably at a hospital-based  MRI facility, wherein a code team is readily available to help manage life-threatening re- actions.</para>
     </sect1>
     <sect1 id="ch0012s04">
@@ -239,127 +83,15 @@
       <para>Moderate reactions can be more pronounced and persistent, requiring specific treatment,  and may progress if left untreated. Patients experiencing a moderate reaction should have  their vital signs closely monitored to make certain that progression to a more serious event  is avoided.</para>
       <para>Severe reactions are rare but of utmost concern since they may be life-threatening.  While they rarely occur, immediate recognition and treatment is necessary. In many cases,</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">339</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 339</para>
       <para>life-threatening events begin with mild signs and symptoms, and then rapidly evolve to a  severe reaction. As a result, it is imperative that practitioners monitor all patients experi- encing minor or moderate adverse reactions until their complete resolution.</para>
       <para><emphasis role="bold">(2) Prompt Recognition of the Type and Severity of Adverse Reactions </emphasis></para>
       <para>In the event of acute reactions, assessment of airway, breathing, circulation, and men- tation are necessary before proceeding to management steps. The American College of Ra- diology (ACR) Manual on Contrast Media recommends that the following assessments be  immediately made (15):</para>
       <para>(1) How does the patient look?   (2) Can the patient speak?   (3) How does the patient’s voice sound?  (4) How is the patient’s breathing?   (5) What is the patient’s pulse strength and rate?   (6) What is the patient’s blood pressure?</para>
-      <table frame="all">
-  <title />
-  <tgroup cols="2">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <tbody>
-      <row>
-        <entry namest="c1" nameend="c2">Nausea/Vomiting</entry>
-      </row>
-      <row>
-        <entry>1.</entry>
-        <entry>Transient: Supportive treatment.</entry>
-      </row>
-      <row>
-        <entry>2.</entry>
-        <entry>Severe, protracted: Appropriate antiemetic drugs should be considered.</entry>
-      </row>
-      <row>
-        <entry namest="c1" nameend="c2">Urticaria</entry>
-      </row>
-      <row>
-        <entry>1.</entry>
-        <entry>Discontinue injection if not completed.</entry>
-      </row>
-      <row>
-        <entry>2.</entry>
-        <entry>No treatment necessary in most cases.</entry>
-      </row>
-      <row>
-        <entry>3.</entry>
-        <entry>ACR guidelines:
-        • Administer H1-receptor blocker: Diphenhydramine PO/IM/IV 25 to 50-mg.
-        • If severe or widely disseminated: Give α-agonist (arteriolar and venous constriction): epinephrine SC (1:1,000) 0.1- to 0.3-mL (0.1- to 0.3-mg) (if no cardiac contraindications).</entry>
-      </row>
-      <row>
-        <entry>4.</entry>
-        <entry>ESUR guidelines:
-        • Scattered, transient: Supportive treatment including observation.
-        • Scattered, protracted: H1-receptor blocker IM or IV should be considered.
-        • Generalized: H1-receptor blocker IM or IV. Consider epinephrine IM (1:1,000) 0.1- to 0.3-mL (0.1- to 0.3-mg). Repeat as needed.</entry>
-      </row>
-      <row>
-        <entry namest="c1" nameend="c2">Facial or Laryngeal Edema</entry>
-      </row>
-      <row>
-        <entry>1.</entry>
-        <entry>Administer oxygen 6- to 10-L/min via mask</entry>
-      </row>
-      <row>
-        <entry>2.</entry>
-        <entry>ACR guidelines:
-        • Administer alpha-agonist (arteriolar and venous constriction): Epinephrine SC or IM (1:1,000) 0.1- to 0.3-mL (0.1- to 0.3-mg) or, especially if hypotension is evident, epinephrine (1:10,000) slowly IV – 3-mL (0.1- to 0.3-mg)
-        • Repeat as needed to a maximum of 1-mg
-        • If not responsive to therapy or if there is no obvious acute laryngeal edema, seek appropriate assistance (cardiopulmonary arrest response team).</entry>
-      </row>
-      <row>
-        <entry>3.</entry>
-        <entry>ESUR guidelines (laryngeal edema):
-        • Epinephrine IM (1:1,000) 0.5-mL (0.5-mg). Repeat as needed.</entry>
-      </row>
-      <row>
-        <entry namest="c1" nameend="c2">Bronchospasm</entry>
-      </row>
-      <row>
-        <entry>1.</entry>
-        <entry>Administer O2, 6 to 10-L/min via mask. Monitor: Electrocardiogram, O2 saturation, and blood pressure.</entry>
-      </row>
-      <row>
-        <entry>2.</entry>
-        <entry>Administer beta-agonist inhalers (bronchiolar dilators such as metaproterenol, terbutaline, or albuterol) two to three puffs; repeat as necessary. If unresponsive to inhalers, use SC, IM, or IV epinephrine.</entry>
-      </row>
-      <row>
-        <entry>3.</entry>
-        <entry>ACR guidelines:
-        • Administer epinephrine SC or IM (1:1,000) 0.1- to 0.3-mL (0.1- to 0.3-mg) or, especially if hypotension is evident, epinephrine (1:10,000) slowly IV, 1- to 3 mL (0.1- to 0.3-mg).
-        • Repeat as needed to a maximum of 1-mg.
-        • Call for assistance (cardiopulmonary arrest response team) if severe bronchospasm or if O2 saturation &lt;88% persists.</entry>
-      </row>
-      <row>
-        <entry>4.</entry>
-        <entry>ESUR guidelines:
-        • Normal blood pressure: Epinephrine IM (1:1,000) 0.1 to 0.3-mL (0.1- to 0.3-mg). Use smaller doses in patients with CAD or if elderly.
-        • Decreased blood pressure: Epinephrine IM (1:1,000) 0.5-mL (0.5-mg).</entry>
-      </row>
-      <row>
-        <entry namest="c1" nameend="c2">Hypotension with Tachycardia</entry>
-      </row>
-      <row>
-        <entry>1.</entry>
-        <entry>Legs elevated 60-degrees or more (preferred) or Trendelenburg position.</entry>
-      </row>
-      <row>
-        <entry>2.</entry>
-        <entry>Monitor: Electrocardiogram, pulse oximeter, blood pressure.</entry>
-      </row>
-      <row>
-        <entry>3.</entry>
-        <entry>Administer O2, 6 to10-L/min (via mask).</entry>
-      </row>
-      <row>
-        <entry>4.</entry>
-        <entry>Rapid IV administration of large volumes of Ringer's lactate or normal saline.</entry>
-      </row>
-      <row>
-        <entry>5.</entry>
-        <entry>ACR guidelines:</entry>
-      </row>
-    </tbody>
-  </tgroup>
-</table><para>The level of consciousness, appearance of the skin, quality of phonation, lung auscul- tation, blood pressure and heart rate assessment will allow the responding physician to  quickly determine not only the severity of a reaction but also allow for the proper diagnosis  of the reaction (15). Once the type and severity of a reaction have been identified, the ap- propriate treatment should be initiated. In cases of severe reactions, such as cardiopulmonary  arrest, it may be necessary to seek additional assistance to obtain access to specialized life- support equipment and the expertise of appropriately trained personnel. The ACR and the  European Society of Urogenital Radiology (ESUR) both publish guidelines for practitioners  to use as references. These guidelines, summarized in <emphasis role="bold">Table 4</emphasis> and <emphasis role="bold">Table 5</emphasis>, include infor- mation concerning the latest approaches to treatment for various signs and symptoms of  acute reactions (2, 15). Patients should be monitored continuously to facilitate prompt de- tection of any clinical changes or progression to more severe symptoms.</para>
-      <para><emphasis role="italics">Distinguishing Vasovagal Episodes From Hypersensitivity Reactions.</emphasis> Distinguishing  between vagal reactions and hypersensitivity reactions is critical since the approach to treat- ment is markedly different. Also known as neurally-mediated syncope, vasovagal reactions  are characterized by abrupt peripheral vasodilation and hypotension, along with bradycardia.  Patients can also experience pallor, nausea, vomiting, and loss of consciousness, but no cu- taneous rash, bronchospasm, tachycardia, or angioedema are observed. The exact cause of  vagal reactions is unknown, but triggers such as anxiety and fear are known to elicit the re- sponse (44, 45).</para>
+      <para>The level of consciousness, appearance of the skin, quality of phonation, lung auscul- tation, blood pressure and heart rate assessment will allow the responding physician to  quickly determine not only the severity of a reaction but also allow for the proper diagnosis  of the reaction (15). Once the type and severity of a reaction have been identified, the ap- propriate treatment should be initiated. In cases of severe reactions, such as cardiopulmonary  arrest, it may be necessary to seek additional assistance to obtain access to specialized life- support equipment and the expertise of appropriately trained personnel. The ACR and the  European Society of Urogenital Radiology (ESUR) both publish guidelines for practitioners  to use as references. These guidelines, summarized in <emphasis role="bold">Table 4</emphasis> and <emphasis role="bold">Table 5</emphasis>, include infor- mation concerning the latest approaches to treatment for various signs and symptoms of  acute reactions (2, 15). Patients should be monitored continuously to facilitate prompt de- tection of any clinical changes or progression to more severe symptoms.</para>
+      <table frame="all"><title>Management of acute reactions to gadolinium-based contrast agents in adult</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 4</entry><entry>See PDF</entry></row></tbody></tgroup></table><table frame="all"><title>Management of acute reactions to gadolinium-based contrast agents in pediatric</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 5</entry><entry>See PDF</entry></row></tbody></tgroup></table><para><emphasis role="italics">Distinguishing Vasovagal Episodes From Hypersensitivity Reactions.</emphasis> Distinguishing  between vagal reactions and hypersensitivity reactions is critical since the approach to treat- ment is markedly different. Also known as neurally-mediated syncope, vasovagal reactions  are characterized by abrupt peripheral vasodilation and hypotension, along with bradycardia.  Patients can also experience pallor, nausea, vomiting, and loss of consciousness, but no cu- taneous rash, bronchospasm, tachycardia, or angioedema are observed. The exact cause of  vagal reactions is unknown, but triggers such as anxiety and fear are known to elicit the re- sponse (44, 45).</para>
       <para>In anaphylactic or anaphylactic-like reactions, the most common areas affected include  the skin (flushing, itching, urticaria, angioedema in 80 to 90% of cases), respiratory tract  (throat itching and tightness, dysphonia, hoarseness, stridor, dry staccato cough,  wheezing/bronchospasm in 70% of cases), gastrointestinal tract (abdominal pain, nausea,  vomiting, diarrhea in 30 to 45% of cases), heart and vasculature (hypotension, tachycardia,  bradycardia, cardiac arrest in 10 to 45% of cases), and central nervous system (altered men- tal status, dizziness, confusion, loss of consciousness in 10 to 15% of cases) (46).</para>
       <para><emphasis role="bold">340</emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-Based Contrast Agents</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 340</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">341</emphasis></para>
-      <para><emphasis role="bold">Table 4.</emphasis> Management of acute reactions to gadolinium-based contrast agents in adult   patients (adapted from references 2 and 15).</para>
       <para><emphasis role="bold">Nausea/Vomiting </emphasis></para>
       <para>1. Transient: Supportive treatment.  2. Severe, protracted: Appropriate antiemetic drugs should be considered.</para>
       <para><emphasis role="bold">Urticaria </emphasis></para>
@@ -370,7 +102,6 @@
       <para>1. Administer O2, 6 to 10-L/min via mask. Monitor: Electrocardiogram, O2 saturation, and blood pressure.  2. Administer beta-agonist inhalers (bronchiolar dilators such as metaproterenol, terbutaline, or albuterol)  two to three puffs; repeat as necessary. If unresponsive to inhalers, use SC, IM, or IV epinephrine.  3. ACR guidelines:  • Administer epinephrine SC or IM (1:1,000) 0.1- to 0.3-mL (0.1- to 0.3-mg) or, especially if hy- potension is evident, epinephrine (1:10,000) slowly IV, 1- to 3 mL (0.1- to 0.3-mg).  • Repeat as needed to a maximum of 1-mg.  • Call for assistance (cardiopulmonary arrest response team) if severe bronchospasm or if O2 satura- tion &lt;88% persists .  4. ESUR guidelines:  • Normal blood pressure: Epinephrine IM (1:1,000) 0.1 to 0.3-mL (0.1- to 0.3-mg). Use smaller  doses in patients with CAD or if elderly.  • Decreased blood pressure: Epinephrine IM (1:1,000) 0.5-mL (0.5-mg).</para>
       <para><emphasis role="bold">Hypotension with Tachycardia </emphasis></para>
       <para>1. Legs elevated 60-degrees or more (preferred) or Trendelenburg position.  2. Monitor: Electrocardiogram, pulse oximeter, blood pressure.  3. Administer O2, 6 to10-L/min (via mask).  4. Rapid IV administration of large volumes of Ringer’s lactate or normal saline.  5. ACR guidelines:</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 341</para>
       <para><emphasis role="bold">342</emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-Based Contrast Agents</emphasis></para>
       <para>• If poorly responsive: Epinephrine (1:10,000) slowly IV 1-mL (0.1-mg).  • Repeat as needed to a maximum of 1-mg.  • If still poorly responsive seek appropriate assistance (cardiopulmonary arrest response team).  6. ESUR guidelines (isolated hypotension):  • If unresponsive: Epinephrine IM (1:1,000) 0.5-mL (0.5-mg). Repeat as needed.</para>
       <para><emphasis role="bold">Hypotension with Bradycardia (Vagal Reaction) </emphasis></para>
@@ -383,105 +114,8 @@
       <para>1. Administer O2, 6 to 10-L/min via mask.  2. Elevate torso.  3. Give diuretics: Furosemide 20 to 40-mg IV, slow push.  4. Consider giving morphine (1 to 3-mg IV).  5. Transfer to intensive care unit or emergency department.</para>
       <para><emphasis role="bold">Generalized Anaphylactoid Reaction </emphasis></para>
       <para>1. Call for resuscitation team.  2. Suction airway as needed.  3. Elevate legs if hypotensive.  4. Oxygen by mask, 6 to 10-L/min.  5. Epinephrine IM (1:1,000) 0.5 mL (0.5-mg). Repeat as needed.  6. Intravenous fluids (e.g., normal saline, Ringer’s solution).  7. H1-blocker, e.g., diphenhydramine 25 to 50-mg intravenously.</para>
-      <table frame="all">
-  <title />
-  <tgroup cols="2">
-    <colspec colname="c1" />
-    <colspec colname="c2" />
-    <tbody>
-      <row>
-        <entry namest="c1" nameend="c2">Urticaria</entry>
-      </row>
-      <row>
-        <entry>1.</entry>
-        <entry>No treatment necessary in most cases.</entry>
-      </row>
-      <row>
-        <entry>2.</entry>
-        <entry>For moderate itching, consider H1-receptor blocker: Diphenhydramine PO/IM or slow IV 1 to 2-mg/kg, up to 50-mg.</entry>
-      </row>
-      <row>
-        <entry>3.</entry>
-        <entry>ACR guidelines:
-        • If severe or widely disseminated: consider α-agonist: epinephrine IV (1:10,000) 0.1-mL/kg slow push over 2 to 5 minutes, up to-3 mL.</entry>
-      </row>
-      <row>
-        <entry>4.</entry>
-        <entry>ESUR guidelines:
-        • Epinephrine IM (1:1,000):
-        • 6 to 12 year old - 50% of adult dose.
-        • • Repeat as needed.</entry>
-      </row>
-      <row>
-        <entry namest="c1" nameend="c2">Facial Edema</entry>
-      </row>
-      <row>
-        <entry>1.</entry>
-        <entry>Secure airway and administer O2 6 to 10-L/min (via mask, face tent, or blow-by stream). Monitor: electrocardiogram, O2 saturation, and blood pressure.</entry>
-      </row>
-      <row>
-        <entry>2.</entry>
-        <entry>Administer α-agonist: Epinephrine IV (1:10,000) 0.1-mL/kg slow push over 2 to 5 minutes, up to 3-mL/dose. Repeat in 5 to 30 minutes as needed.</entry>
-      </row>
-      <row>
-        <entry>3.</entry>
-        <entry>Consider H1-receptor blocker: Diphenhydramine IM or slow IV push 1 to 2-mg/kg, up to 50-mg.</entry>
-      </row>
-      <row>
-        <entry>4.</entry>
-        <entry>Note: If facial edema is mild and there is no reaction progression, observation alone may be appropriate
-        • If not responsive to therapy, seek appropriate assistance (e.g., cardiopulmonary arrest response team).</entry>
-      </row>
-      <row>
-        <entry namest="c1" nameend="c2">Bronchospasm</entry>
-      </row>
-      <row>
-        <entry>1.</entry>
-        <entry>Secure airway and administer oxygen 6 to 10-L/min (via mask, face tent, or blow-by stream). Monitor: electrocardiogram, O2 saturation, and blood pressure.</entry>
-      </row>
-      <row>
-        <entry>2.</entry>
-        <entry>Administer beta-agonist (bronchiolar dilator such as albuterol) 2 to 3 puffs from metered dose inhaler; repeat as necessary.</entry>
-      </row>
-      <row>
-        <entry>3.</entry>
-        <entry>ACR guidelines:
-        • If bronchospasm progresses, administer epinephrine (1:10,000) IV 0.1-mL/kg slow push over 2 to 5 minutes, up to 3-mL/dose. Repeat in 5 to 30 minutes as needed.
-        • If not responsive to therapy, call for assistance (e.g., cardiopulmonary arrest response team) for severe bronchospasm or if O2 saturation &lt;88% persists.</entry>
-      </row>
-      <row>
-        <entry>4.</entry>
-        <entry>ESUR guidelines:
-        • Epinephrine IM (1:1,000) when patient has normal blood pressure:
-        • 6 to 12 year old – 50% of adult dose.
-        • • Repeat as needed.
-        • Epinephrine IM (1:1,000) when patient has decreased blood pressure:
-        • 6 to 12 year old – 0.3-mL (0.3-mg).
-        • &lt;6 years of age – 0.15-mL (0.15-mg).</entry>
-      </row>
-      <row>
-        <entry namest="c1" nameend="c2">Laryngeal Edema</entry>
-      </row>
-      <row>
-        <entry>1.</entry>
-        <entry>Secure airway and administer oxygen 6 to 10-L/min (via mask, face tent, or blow-by stream). Monitor: electrocardiogram, O2 saturation, and blood pressure.</entry>
-      </row>
-      <row>
-        <entry>2.</entry>
-        <entry>ACR guidelines:
-        • Administer epinephrine (1:10,000) IV 0.1-mL/kg slow push over 2 to 5 minutes, up to 3-mL/dose. Repeat in 5 to 30 minutes as needed.
-        • If not promptly responsive to initial therapy, call for assistance (e.g., cardiopulmonary arrest response team).</entry>
-      </row>
-      <row>
-        <entry>3.</entry>
-        <entry>ESUR guidelines:</entry>
-      </row>
-    </tbody>
-  </tgroup>
-</table><para>ACR = American College of Radiology; CAD = coronary artery disease; ESUR =  Euro- pean Society of Urogenital Radiology; IM = intramuscular; IV = intravenous; PO =  orally; SC = subcutaneous</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 342</para>
+      <para>ACR = American College of Radiology; CAD = coronary artery disease; ESUR =  Euro- pean Society of Urogenital Radiology; IM = intramuscular; IV = intravenous; PO =  orally; SC = subcutaneous</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">343</emphasis></para>
-      <para><emphasis role="bold">Table 5.</emphasis> Management of acute reactions to gadolinium-based contrast agents in pediatric  patients (adapted from references 2 and 15).</para>
       <para><emphasis role="bold">Urticaria </emphasis></para>
       <para>1. No treatment necessary in most cases.  2. For moderate itching, consider H1-receptor blocker: Diphenhydramine PO/IM or slow IV 1 to 2-mg/kg,  up to 50-mg.  3. ACR guidelines:  • If severe or widely disseminated: consider α-agonist: epinephrine IV (1:10,000) 0.1-mL/kg slow  push over 2 to 5 minutes, up to-3 mL.  4. ESUR guidelines:  • Epinephrine IM (1:1,000):   • 6 to 12 year old - 50% of adult dose.  • &lt;6 years of age - 25% of adult dose.  • Repeat as needed.</para>
       <para><emphasis role="bold">Facial Edema </emphasis></para>
@@ -490,7 +124,6 @@
       <para>1. Secure airway and administer oxygen 6 to 10-L/min (via mask, face tent, or blow-by stream). Monitor:  electrocardiogram, O2 saturation, and blood pressure.  2. Administer beta-agonist (bronchiolar dilator such as albuterol) 2 to 3 puffs from metered dose inhaler; re- peat as necessary.   3. ACR guidelines:  •  If bronchospasm progresses, administer epinephrine (1:10,000) IV 0.1-mL/kg slow push over 2 to 5  minutes, up to 3-mL/dose. Repeat in 5 to 30 minutes as needed.  • If not responsive to therapy, call for assistance (e.g., cardiopulmonary arrest response team) for se- vere bronchospasm or if O2 saturation &lt;88% persists .  4. ESUR guidelines:  • Epinephrine IM (1:1,000) when patient has normal blood pressure:   • 6 to 12 year old – 50% of adult dose.  • &lt;6 years of age – 25% of adult dose.  • Repeat as needed.  • Epinephrine IM (1:1,000) when patient has decreased blood pressure:  • 6 to 12 year old – 0.3-mL (0.3-mg).   • &lt;6 years of age – 0.15-mL (0.15-mg).</para>
       <para><emphasis role="bold">Laryngeal Edema </emphasis></para>
       <para>1. Secure airway and administer oxygen 6 to 10-L/min (via mask, face tent, or blow-by stream). Monitor:  electrocardiogram, O2 saturation, and blood pressure.  2. ACR guidelines:  • Administer epinephrine (1:10,000) IV 0.1-mL/kg slow push over 2 to 5 minutes, up to 3-mL/dose.  Repeat in 5 to 30 minutes as needed.  • If not promptly responsive to initial therapy, call for assistance (e.g., cardiopulmonary arrest re- sponse team).  3. ESUR guidelines:</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 343</para>
       <para><emphasis role="bold">344</emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-Based Contrast Agents</emphasis></para>
       <para>• Epinephrine IM (1:1,000):  • 6 to 12 years old – 0.3-mL (0.3-mg).   • &lt;6 years of age – 0.15-mL (0.15-mg).</para>
       <para><emphasis role="bold">Pulmonary Edema </emphasis></para>
@@ -502,7 +135,6 @@
       <para><emphasis role="bold">Generalized Anaphylactoid Reaction </emphasis></para>
       <para>1. Call for resuscitation team.  2. Suction airway as needed.  3. Elevate legs if hypotensive.  4. Oxygen by mask, 6 to 10-L/min.  5. Epinephrine IM (1:1,000)   • 6 to 12 year old - 0.3-mL (0.3-mg).  • &lt;6 years of age - 0.15-mL (0.15-mg).  6. Intravenous fluids (e.g., normal saline, Ringer’s solution).  7. H1-blocker, eg, diphenhydramine 25 to 50-mg intravenously.</para>
       <para>ACR = American College of Radiology; ESUR = European Society of Urogenital Radiol- ogy; IM= intramuscular; IO = intraosseous; IV = intravenous; PO = orally</para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 344</para>
       <para><emphasis role="italics">Distinguishing Anxiety or Panic Attacks From Hypersensitivity Reactions.</emphasis> An anxiety  or panic attack can cause diagnostic confusion because a sense of impending doom, breath- lessness, flushing, tachycardia, and gastrointestinal symptoms can occur in both  anxiety/panic attacks and in hypersensitivity events. However, urticaria, angioedema,  wheezing, and hypotension are unlikely to occur during an anxiety/panic attack (45, 46).</para>
       <para>Be aware of possible difficulties in timely detection of hypersensitivity reactions. In  patients with concomitant medical conditions, for example, asthma, chronic obstructive pul- monary disease, congestive heart failure, pulmonary embolism, or pre-existing myocardial  infarction, signs and symptoms of these diseases can cause confusion in the differential di- agnosis of anaphylactic or anaphylactic-type reactions (46).</para>
       <para><emphasis role="bold">(3) Timely and Appropriate Treatment of the Adverse Reaction </emphasis></para>
@@ -511,14 +143,12 @@
       <para>Epinephrine is the treatment of choice for severe hypersensitivity reactions. Anaphy- lactic and anaphylactic-like reactions are rapid onset, multisystem, and potentially lethal  events that develop very quickly as a result of mast cells and basophils systemically and  abruptly releasing mediators of inflammation. Different from vagal reactions, anaphylactic  and anaphylactic-like reactions are most effectively treated with rapid infusion of large vol- umes of fluids, along with epinephrine (2, 15, 48-50). If administered properly and promptly,  epinephrine can prevent or reverse the life-threatening symptoms of anaphylactic shock.  Patients are at risk for death in as little as five minutes following exposure to GBCAs. Ep- inephrine is life-saving because it is a mixed alpha-and beta-adrenergic receptor agonist  with rapid onset of action (48, 49). The alpha-adrenergic vasoconstricting effect reverses  vasodilation, thus alleviating hypotension and reducing erythema, urticaria, and angioedema  (49-50). Beta-adrenergic receptor agonist activity acts to dilate bronchial airways, increase  the force of myocardial muscle contraction (inotropy) and heart rate (chronotropy), which  increases cardiac output, and attenuates the severity of histamine-induced symptoms via  beta-2 receptors on mast cells (48-52). Fatality studies provide the most compelling evidence  for prompt epinephrine injection (53-56).</para>
       <para>While epinephrine is recommended as first-line therapy, antihistamines and corticos- teroids can be considered as adjunctive therapies and may be tried after epinephrine is ad- ministered to help control cutaneous and cardiovascular manifestations such as itching,  flushing, urticaria, angioedema, and nasal and eye symptoms, as well as to prevent second- ary reactions. There is no evidence that either antihistamines or corticosteroids provide life- saving treatment (i.e., they do not prevent or relieve upper airway obstruction, hypotension,  or shock) (49). Besides, antihistamines, such as diphenhydramine, have a significantly</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">345</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 345</para>
       <para>longer onset of action and longer time to peak activity compared with epinephrine (57).  Similarly, corticosteroids have the potential to prevent recurrent or protracted episodes, but  should not be used in place of, or prior to, epinephrine, as they are not helpful for acute  symptoms (49). Of note, administering one or more second-line medications potentially de- lays prompt injection of epinephrine, the first-line treatment (58-60).</para>
       <para><emphasis role="italics">Issues Related to the Use of Epinephrine in the Management of Serious Hypersensitivity.</emphasis>  Despite the knowledge that epinephrine can save lives, it may be underused by physicians,  health care professionals, and even emergency medical services. Rates of epinephrine use  in the emergency department (ED) as first-line treatment of anaphylaxis are generally low,  even in patients who have been clearly diagnosed with anaphylaxis (60). In a small 2013  cross-sectional survey of emergency medical health professionals (N = 207) in EDs in the  United States, only 42% of healthcare professionals reported using epinephrine for most  anaphylactic episodes (61). In a retrospective study analyzing anaphylaxis-related Interna- tional Classification of Diseases, Ninth Revision (ICD-9) codes in a large health mainte- nance organization from 2008 to 2012 (N &gt; 150,000), epinephrine was only used in 16.2%  of total anaphylaxis cases (62). In a study of pediatric patients treated in the emergency de- partment for anaphylaxis, high proportions were inappropriately treated with antihistamines  (92%) or corticosteroids (78%), while only 54% of patients in this study received epineph- rine initially to treat the event (63).</para>
       <para>No use, use of inadequate doses, or delayed use of epinephrine is associated with poor  outcomes: fatality, encephalopathy because of hypoxia and/or ischemia, and protracted or  biphasic reactions (that is, reactions lasting several hours or a second phase occurring an  hour or more after the onset of the first phase, respectively) (60). A patient may still expe- rience serious complications or die in the instance of using epinephrine that has passed its  expiration date (48).</para>
       <para>If a patient does not respond to timely and appropriate treatment with epinephrine, po- sitioning on the back with the lower extremities elevated, supplemental oxygen, intravenous  fluid resuscitation, and rapid transfer to the care of a team specialized in emergency medi- cine, critical care medicine, or anesthesiology is recommended (46). Even if it is critical  for effectively resolving anaphylactic or anaphylactic-like reactions, the use of epinephrine  is not devoid of risk and, therefore, caution should be exercised when using it.</para>
       <para>Common side effects that occur at recommended doses of epinephrine via any route of  administration include agitation, anxiety, tremulousness, headache, dizziness, pallor, or pal- pitations (48). Rarely, and usually associated with overdosage or overly rapid rate of intra- venous infusion, epinephrine administration might contribute to or cause myocardial  ischemia, pulmonary edema, prolonged ventricular repolarization and arrhythmias, accel- erated hypertension, and intracranial hemorrhage in adults and children alike (48). Partic- ularly vulnerable populations are those individuals at the extremes of age and those with  hypertension, peripheral vascular disease, ischemic heart disease, or untreated hyperthy- roidism (i.e., due to an increased number of beta-adrenergic receptors in the vasculature of  these individuals, rendering the myocardium more sensitive to the beta-adrenergic effects  of epinephrine) (48).</para>
       <para><emphasis role="bold">346</emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-Based Contrast Agents</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 346</para>
       <para>Concomitant use of beta-adrenergic blockers decreases the effectiveness of exogenously  administered epinephrine. Angiotensin-converting enzyme inhibitors and possibly an- giotensin II receptor blockers may interfere with intrinsic compensatory responses to hy- potension. Tricyclic antidepressants and monoamine oxidase inhibitors may impede  epinephrine metabolism and lead to increased plasma and tissue concentrations. Cocaine  and amphetamines sensitize the myocardium to the effects of epinephrine, thus increasing  the risk of toxicity (48).</para>
     </sect1>
     <sect1 id="ch0012s05">
@@ -538,7 +168,6 @@
       <para>5.  Gadavist (gadobutrol) Injection. U.S. Prescribing information. Available via http://labeling.bayerhealth- care.com/html/products/pi/gadavist_PI.pdf. Accessed March, 2021.</para>
       <para>6.  MultiHance (gadobenate dimeglumine) Injection. U.S. Prescribing Information. Available via https://imag- ing.bracco.com/sites/braccoimaging.com/files/technica_sheet_pdf/us-en-2019-01-16-spc-medication- guide-multihance.pdf. Accessed March, 2021.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">347</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 347</para>
       <para>7.  Omniscan  (gadodiamide)  Injection.  U.S.  Prescribing  Information. Available  via  https://  www.gehealthcare.com/-/media/a3f25c3ec97642599ad91266a2364685.pdf?la=en-us. Accessed March,  2021.</para>
       <para>8.  Thomsen HS. How to manage (treat) immediate-type adverse reactions to GBCA. Top Magn Reson Im- aging 2016;25:269-274.</para>
       <para>9.  Carr TF. Pathophysiology of immediate reactions to injectable gadolinium-based contrast agents. Top Magn  Reson Imaging 2016;25:265-268.</para>
@@ -560,7 +189,6 @@
       <para>25. McDonald JS, Hunt CH, Kolbe AB, et al. Acute adverse events following gadolinium-based contrast agent  administration: A single-center retrospective study of 281 945 injections. Radiology 2019;292:620-627.</para>
       <para>26. Murphy KP, Szopinski KT, Cohal RH, Mermillod B, Ellis JH. Occurrence of adverse reactions to gadolin- ium-based contrast material and management of patients at increased risk: A survey of the American Society  of Neuroradiology Fellowship Directors. Acad Radiol 1999;6:656-664.</para>
       <para><emphasis role="bold">348</emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-Based Contrast Agents</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 348</para>
       <para>27. Expert Panel on MR Safety, Kanal E, Barkovich AJ, et al. ACR guidance document on MR safe practices:  2013. J Magn Reson Imaging 2013;37:501-530.</para>
       <para>28. Heshmatzadeh Behzadi A, Prince MR. Preventing allergic reactions to gadolinium-based contrast agents.  Top Magn Reson Imaging 2016; 25:275-279.</para>
       <para>29. Nelson KL, Gifford LM, Lauber-Huber C, Gross CA, Lasser TA. Clinical safety of gadopentetate dimeg- lumine. Radiology 1995;196:439-443.</para>
@@ -583,7 +211,6 @@
       <para>46. Simons FE, World Allergy Organization. World Allergy Organization survey on global availability of es- sentials for the assessment and management of anaphylaxis by allergy-immunology specialists in health  care settings. Ann Allergy Asthma Immunol 2010;104:405-412.</para>
       <para>47. Aydin MA, Salukhe TV, Wilke I, Willems S. Management and therapy of vasovagal syncope: A review.  World J Cardiol 2010;2:308-315.</para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">349</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 349</para>
       <para>48. Kemp SF, Lockey RF, Simons FE, World Allergy Organization ad hoc Committee on Epinephrine in Ana- phylaxis. Epinephrine: The drug of choice for anaphylaxis. A statement of the World Allergy Organization.  Allergy 2008;63:1061-1070.</para>
       <para>49. Wood PJ, Traub SJ, Lipinski C. Safety of epinephrine for anaphylaxis in the emergency setting. World J  Emerg Med 2013;4:245-251.</para>
       <para>50. McLean-Tooke AP, Bethune CA, et al. Adrenaline in the treatment of anaphylaxis: What is the evidence?  BMJ 2003;327:1332-1335.</para>
@@ -601,6 +228,5 @@
       <para>62. Pourang D, Batech M, Sheikh J, Samant S, Kaplan M. Anaphylaxis in a health maintenance organization:  International Classification of Diseases coding and epinephrine auto-injector prescribing. Ann Allergy  Asthma Immunol 2017;118:186-190.</para>
       <para>63. Russell S, Monroe K, Losek JD. Anaphylaxis management in the pediatric emergency department: oppor- tunities for improvement. Pediatr Emerg Care 2010;26:71-76.</para>
       <para><emphasis role="bold">350</emphasis> <emphasis role="bold">Acute Reactions to Gadolinium-Based Contrast Agents</emphasis></para>
-      <para>BioRef 2021 V10 001-434_Layout 1  12/8/2021  3:53 AM  Page 350</para>
-    </sect1>
+      </sect1>
 </chapter>
