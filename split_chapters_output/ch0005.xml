@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter id="ch0005"><sect1 id="ch0001s01s12">
+<chapter id="ch0005"><title>Chapter 5    Bioeffects of Gradient Magnetic Fields</title><sect1 id="ch0001s01s12">
       <title>Chapter 5    Bioeffects of Gradient Magnetic Fields</title>
       <para>DONALD W. MCROBBIE, PH.D.</para>
       <para>Associate Professor, Discipline of Medical Physics</para>
@@ -515,7 +515,7 @@
           </figure>
           <sect4 id="ch0001s01s12s01s13s01">
             <title>MRI Bioeffects, Safety, and Patient Management     151</title>
-          </sect4>
+          <para></para></sect4>
         </sect3>
         <sect3 id="ch0001s01s12s01s14">
           <title>EXPOSURE LIMITS</title>
@@ -553,7 +553,7 @@
           <para>The IEC limits are shown in<emphasis role="bold">Figure 20</emphasis>. In the United States (U.S.) IEC 60601-2-33 is adopted as a voluntary standard. The Food and Drug Administration (FDA) does not specify numerical limits in its <emphasis role="italics">Criteria for Significant Risk Investigations of Magnetic Resonance Devices</emphasis>, but advocates that uncomfortable or painful PNS be avoided (58).</para>
           <sect4 id="ch0001s01s12s01s15s01">
             <title>MRI Bioeffects, Safety, and Patient Management     153</title>
-          </sect4>
+          <para></para></sect4>
           <sect4 id="ch0001s01s12s01s15s02">
             <title>Figure 20. IEC (38) limits for cardiac stimulation and Normal Operating Mode (L01) and First Level Controlled Operating Mode (L12) for peripheral nerve stimulation, and the cardiac limit. teff is the effective duration of the field change as defined in Figure 19.</title>
             <figure>

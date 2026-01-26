@@ -33,11 +33,50 @@ TAG_MAPPING = {
 }
 
 
+def fix_empty_sections(element):
+    """
+    Fix sections that only have a title by adding an empty para.
+    DocBook DTD requires content after the title.
+    """
+    # Check if this is a section element
+    if element.tag in ['sect1', 'sect2', 'sect3', 'sect4', 'sect5', 'sect6', 'section']:
+        # Count children
+        children = list(element)
+        
+        # Check if only has title (or title + subtitle/titleabbrev)
+        has_only_title = True
+        for child in children:
+            if child.tag not in ['title', 'subtitle', 'titleabbrev']:
+                has_only_title = False
+                break
+        
+        if has_only_title and len(children) > 0:
+            # Add an empty para after the title elements
+            # Find the last title-related element
+            insert_pos = 0
+            for i, child in enumerate(children):
+                if child.tag in ['title', 'subtitle', 'titleabbrev']:
+                    insert_pos = i + 1
+            
+            # Create an empty para element
+            para = etree.Element('para')
+            para.text = ""
+            element.insert(insert_pos, para)
+    
+    # Recursively process children
+    for child in element:
+        fix_empty_sections(child)
+
+
 def transform_section_tags(element):
     """
     Recursively transform section tags:
     sect2 -> sect1, sect3 -> sect2, sect4 -> sect3, sect5 -> sect4
+    Also fixes empty sections.
     """
+    # Fix empty sections first
+    fix_empty_sections(element)
+    
     # Process children first (bottom-up to avoid issues)
     for child in element:
         transform_section_tags(child)
@@ -57,14 +96,46 @@ def extract_chapter_number(sect1_id):
     return None
 
 
+def extract_chapter_title(sect1_element, chapter_num):
+    """
+    Extract chapter title from the sect1 element.
+    Looks for title in various places within the structure.
+    Returns (title_text, title_element_to_remove) - the element is only set if it's a direct child
+    """
+    # First, look for a direct title child
+    title_elem = sect1_element.find('title')
+    if title_elem is not None and title_elem.text:
+        return title_elem.text.strip(), title_elem
+    
+    # Look for title in first sect2 child
+    for sect2 in sect1_element.findall('sect2'):
+        title_elem = sect2.find('title')
+        if title_elem is not None and title_elem.text:
+            text = title_elem.text.strip()
+            # Check if it contains "Chapter" in the title
+            if 'Chapter' in text:
+                return text, None
+    
+    # Look for title anywhere in descendants
+    for title_elem in sect1_element.iter('title'):
+        if title_elem.text:
+            text = title_elem.text.strip()
+            if 'Chapter' in text:
+                return text, None
+    
+    # Default to a generic title
+    return f"Chapter {chapter_num}", None
+
+
 def create_chapter_element(sect1_element, chapter_num):
     """
     Create a chapter element from a sect1 element.
     - Changes the root tag from sect1 to chapter
     - Updates the id from ch####s0000 to ch####
+    - Adds a proper title element as first child
     - Transforms all nested section tags (sect2->sect1, sect3->sect2, etc.)
     """
-    # Create a deep copy
+    # Create chapter element
     chapter = etree.Element('chapter')
     
     # Copy attributes from sect1, but modify the id
@@ -76,8 +147,17 @@ def create_chapter_element(sect1_element, chapter_num):
         else:
             chapter.set(attr, value)
     
-    # Copy all children
+    # Extract chapter title
+    chapter_title, direct_title_elem = extract_chapter_title(sect1_element, chapter_num)
+    
+    # Add title as first child of chapter (required by DocBook DTD)
+    title_elem = etree.SubElement(chapter, 'title')
+    title_elem.text = chapter_title
+    
+    # Copy all children, but skip if it's the direct title we already used
     for child in sect1_element:
+        if child.tag == 'title' and direct_title_elem is not None and child is direct_title_elem:
+            continue  # Skip this title as we already used it
         chapter.append(child)
     
     # Transform all section tags in the chapter
@@ -86,10 +166,31 @@ def create_chapter_element(sect1_element, chapter_num):
     return chapter
 
 
+def fix_duplicate_titles(element):
+    """
+    Fix elements that have duplicate title elements.
+    DocBook only allows one title per element.
+    """
+    titles = element.findall('title')
+    if len(titles) > 1:
+        # Merge titles or keep only the first one with meaningful content
+        first_title = titles[0]
+        for title in titles[1:]:
+            # Remove duplicate titles
+            element.remove(title)
+    
+    # Recursively fix children
+    for child in element:
+        fix_duplicate_titles(child)
+
+
 def format_xml_output(element, xml_declaration):
     """
     Format XML output with proper indentation and declaration.
     """
+    # Fix any duplicate titles
+    fix_duplicate_titles(element)
+    
     # Convert to string with pretty printing
     xml_bytes = etree.tostring(element, encoding='unicode', pretty_print=True)
     

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter id="ch0004"><sect1 id="ch0001s01s11">
+<chapter id="ch0004"><title>Chapter 4    Bioeffects of Static Magnetic Fields</title><sect1 id="ch0001s01s11">
       <title>Chapter 4    Bioeffects of Static Magnetic Fields</title>
       <para>ALAYAR KANGARLU, PH.D.</para>
       <para>Director of MRI Physics</para>
@@ -211,7 +211,7 @@
           </sect4>
           <sect4 id="ch0001s01s11s02s03s03">
             <title>MRI Bioeffects, Safety, and Patient Management    105</title>
-          </sect4>
+          <para></para></sect4>
         </sect3>
         <sect3 id="ch0001s01s11s02s04">
           <title>Magnetostriction</title>
@@ -237,7 +237,7 @@
           <para>The enormous range of susceptibility values of all matter in nature is shown in<emphasis role="bold">Figure 1</emphasis> (90). As is seen in this figure, the vast majority of materials have susceptibility values</para>
           <sect4 id="ch0001s01s11s02s07s01">
             <title>MRI Bioeffects, Safety, and Patient Management     107</title>
-          </sect4>
+          <para></para></sect4>
           <sect4 id="ch0001s01s11s02s07s02">
             <title>Figure 1. Spectrum of magnetic susceptibilities. The upper diagram uses a logarithmic scale to indicate the full range of observed magnetic susceptibility values: it extends from χ = -1.0 for superconductors to χ &gt; 100,000 for soft ferromagnetic materials. The bottom diagram uses a linear scale (in ppm) to indicate the properties of some materials with |χ| &lt; 20 ppm. The susceptibilities of most human tissues are in the range from -7.0 to -11.0 ppm (Adapted from Reference 90).</title>
             <para>much less than 0.001, making the magnetic forces on such materials very weak and, therefore, not easily observable. Relevant to this discussion are the vast majority of biological tissues with susceptibilities very close to the susceptibility of water, χ<subscript>H2O</subscript> = -9.05 x 10<superscript>-6</superscript> in SI units. In fact, χ of most biological tissues differs from that of water by about ± 20%. This narrow range of variation of χ is the primary reason why exquisite MR images are acquired from biological tissues. In regions of the human body where large variation in susceptibility is present (e.g., the air/tissue interfaces between the sinuses and the orbitofrontal regions of the brain), high field MRI causes large position-dependent variations in the Larmor frequency that results in severe signal losses.</para>

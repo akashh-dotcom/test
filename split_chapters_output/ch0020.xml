@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter id="ch0020"><title>Chapter 20    MRI-RELATED HEATING OF IMPLANTS AND DEVICES</title>
-    <para><emphasis role="bold">LUKAS WINTER, PH.D.</emphasis></para>
+<chapter id="ch0020"><title>Chapter 20    MRI-RELATED HEATING OF IMPLANTS AND DEVICES</title><para><emphasis role="bold">LUKAS WINTER, PH.D.</emphasis></para>
     <para>Physikalisch-Technische Bundesanstalt (PTB)</para>
     <para>Braunschweig und Berlin</para>
     <para>Germany</para>
@@ -306,7 +305,7 @@
         </sect2>
         <sect2 id="ch0020s0000s0012s0002">
           <title>538    MRI-Related Heating of Implants and Devices</title>
-        </sect2>
+        <para></para></sect2>
       </sect1>
       <sect1 id="ch0020s0000s0013">
         <title>Parallel Transmission</title>

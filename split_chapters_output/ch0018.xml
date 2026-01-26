@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter id="ch0018"><title>Chapter 18    MRI-Related Issues for Implants and Devices</title>
-    <para><emphasis role="bold">FRANK G. SHELLOCK, PH.D.</emphasis></para>
+<chapter id="ch0018"><title>Chapter 18    MRI-Related Issues for Implants and Devices</title><para><emphasis role="bold">FRANK G. SHELLOCK, PH.D.</emphasis></para>
     <para>Director of MRI Safety</para>
     <para>USC Stevens Neuroimaging and Informatics Institute</para>
     <para>Adjunct Clinical Professor of Radiology and Medicine</para>
@@ -328,7 +327,7 @@
         </sect2>
         <sect2 id="ch0018s0000s0008s0003">
           <title>MRI Bioeffects, Safety, and Patient Management     479</title>
-        </sect2>
+        <para></para></sect2>
         <sect2 id="ch0018s0000s0008s0004">
           <title>Figure 5. Examples of (top) heart valve prostheses and (bottom) annuloplasty rings.</title>
   <para>prosthesis or annuloplasty ring. Therefore, in consideration of the relevant peer-reviewed literature and other related documents (1, 2, 82, 90, 103, 106-116), guidelines were developed indicating that it is acceptable to perform MRI exams in patients with all commercially available heart valve prostheses and annuloplasty rings by following specific guidelines. These guidelines were created by taking into consideration possible safety concerns, that is, magnetic field interactions and MRI-related heating for these implants. By following these admittedly conservative MRI conditions, every patient with a heart valve prosthesis or annuloplasty ring can benefit from the diagnostic imaging information afforded by MRI (Table 5).</para>
@@ -549,7 +548,7 @@
         <title>MRI-Related Issues for Implants and Devices</title>
         <sect2 id="ch0018s0000s0011s0001">
           <title>Figure 10. 7-Tesla MR system (General Electric Healthcare, www.gehealthcare.com).</title>
-  </sect2>
+  <para></para></sect2>
         <sect2 id="ch0018s0000s0011s0002">
           <title>Magnetic Field Interactions</title>
     <para>As previously described in this chapter, attractive translational and rotational forces acting on metallic objects, including medical implants and devices, depend on a myriad of factors including the composition of the material and its shape (1, 2, 4, 130-132). Translational forces are highly dependent on the field strength and the spatial gradient magnetic field, while rotational forces are directly proportional to the strength of the static magnetic field (1, 2, 4, 130-132). Of note is that, in comparison to a 3-Tesla MR system, a scanner operating at 7-Tesla has a fringe field that changes faster as a function of distance from the static magnetic field. That is, the fringe field has a "steeper" spatial gradient magnetic field. Because both the static magnetic and spatial gradient magnetic fields are greater at 7-Tesla than at lower fields, translational attraction forces affect implants to a greater extent, which may pose higher risks for certain devices (4, 130-132).</para>

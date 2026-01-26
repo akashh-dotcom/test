@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter id="ch0025"><title>Chapter 25 MRI and Patients with Cardiac Implantable Electronic Devices</title>
-    <para><emphasis role="bold">SUMIT PATEL, M.D.</emphasis></para>
+<chapter id="ch0025"><title>Chapter 25 MRI and Patients with Cardiac Implantable Electronic Devices</title><para><emphasis role="bold">SUMIT PATEL, M.D.</emphasis></para>
     <para>Cardiology Fellow</para>
     <para>Division of Cardiovascular Medicine Cardiovascular and Thoracic Institute</para>
     <para>Keck School of Medicine</para>
@@ -847,7 +846,7 @@
     <para>An expert consensus statement from the Heart Rhythm Society has been developed in collaboration with and endorsed by other multidisciplinary societies with recommendations and protocols for the management of patients with MR Conditional CIEDs undergoing MRI (42). The document states: "MR Conditional devices should be considered MR Conditional only when the product labeling is adhered to, which includes programming the appropriate "MR mode" and scanning with the prerequisites specified for the device" (Recommendation: Class I, Level of Evidence: A) (42). Similar to information for non-MR Conditional CIEDs, this document provides recommendations delineating institutional workflow, personnel skill set and responsibilities, patient monitoring, equipment and location for potential resuscitative efforts and emergency treatments, CIED peri-scan evaluation and programming. These recommendations should be followed in the context of the most up-to-date overall, MRI-related safe practices (43, 44).</para>
         <sect2 id="ch0025s0000s0003s0001">
           <title>MRI Bioeffects, Safety, and Patient Management     687</title>
-        </sect2>
+        <para></para></sect2>
       </sect1>
       <sect1 id="ch0025s0000s0004">
         <title>MR CONDITIONAL DESIGN AND ENGINEERING</title>
