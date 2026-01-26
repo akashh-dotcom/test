@@ -1,0 +1,226 @@
+====================================================================================================
+ADDING TABLES FROM DOCBOOK TO final_output_tables
+====================================================================================================
+
+✓ Created output directory: /home/user/test/final_output_tables_with_all_tables
+
+1. Extracting tables from DocBook versions...
+  Chapter 01: 4 table(s)
+  Chapter 04: 3 table(s)
+  Chapter 05: 2 table(s)
+  Chapter 06: 3 table(s)
+  Chapter 07: 1 table(s)
+  Chapter 09: 2 table(s)
+  Chapter 10: 1 table(s)
+  Chapter 11: 5 table(s)
+  Chapter 12: 5 table(s)
+  Chapter 13: 1 table(s)
+  Chapter 16: 1 table(s)
+  Chapter 18: 7 table(s)
+  Chapter 19: 1 table(s)
+  Chapter 20: 2 table(s)
+  Chapter 21: 4 table(s)
+  Chapter 23: 1 table(s)
+  Chapter 24: 7 table(s)
+  Chapter 25: 8 table(s)
+  Chapter 26: 16 table(s)
+  Chapter 27: 2 table(s)
+  Chapter 28: 9 table(s)
+  Chapter 31: 1 table(s)
+  Chapter 32: 7 table(s)
+  Chapter 34: 4 table(s)
+  Chapter 36: 1 table(s)
+
+✓ Total tables extracted: 98
+
+2. Checking existing tables in final_output_tables...
+  Chapter 09: 1 existing table(s)
+
+3. Inserting tables into final_output_tables...
+
+  Chapter 01: Processing 4 table(s)
+    Table 1: Inserted (match score: 5)
+    Table 2: Inserted (match score: 3)
+    Table 3: Inserted (match score: 3)
+    Table 4: Inserted (match score: 5)
+
+  Chapter 04: Processing 3 table(s)
+    Table 1: Inserted (match score: 4)
+    Table 2: Inserted (match score: 7)
+    Table 3: Inserted (match score: 5)
+
+  Chapter 05: Processing 2 table(s)
+    Table 1: Inserted (match score: 7)
+    Table 2: Inserted (match score: 5)
+
+  Chapter 06: Processing 3 table(s)
+    Table 1: Inserted (match score: 3)
+    Table 2: Inserted (match score: 4)
+    Table 3: Inserted (match score: 3)
+
+  Chapter 07: Processing 1 table(s)
+    Table 1: Inserted (match score: 5)
+
+  Chapter 09: Skipping (1 table already exists)
+
+  Chapter 10: Processing 1 table(s)
+    Table 1: Inserted (match score: 5)
+
+  Chapter 11: Processing 5 table(s)
+    Table 1: Inserted (match score: 9)
+    Table 2: Inserted (match score: 5)
+    Table 3: Inserted (match score: 7)
+    Table 4: Inserted (match score: 9)
+    Table 5: Inserted (match score: 7)
+
+  Chapter 12: Processing 5 table(s)
+    Table 1: Inserted (match score: 2)
+    Table 2: Inserted (match score: 5)
+    Table 3: Inserted (match score: 3)
+    Table 4: Inserted (match score: 9)
+    Table 5: Inserted (match score: 4)
+
+  Chapter 13: Processing 1 table(s)
+    Table 1: Inserted (match score: 5)
+
+  Chapter 16: Processing 1 table(s)
+    Table 1: Inserted (match score: 5)
+
+  Chapter 18: Processing 7 table(s)
+    Table 1: Inserted (match score: 3)
+    Table 2: Inserted (match score: 5)
+    Table 3: Inserted (match score: 7)
+    Table 4: Inserted (match score: 7)
+    Table 5: Inserted (match score: 7)
+    Table 6: Inserted (match score: 5)
+    Table 7: Inserted (match score: 7)
+
+  Chapter 19: Processing 1 table(s)
+    Table 1: Inserted (match score: 9)
+
+  Chapter 20: Processing 2 table(s)
+    Table 1: Inserted (match score: 5)
+    Table 2: Inserted (match score: 6)
+
+  Chapter 21: Processing 4 table(s)
+    Table 1: Inserted (match score: 5)
+    Table 2: Inserted (match score: 7)
+    Table 3: Inserted (match score: 3)
+    Table 4: Inserted (match score: 3)
+
+  Chapter 23: Processing 1 table(s)
+    Table 1: Inserted (match score: 5)
+
+  Chapter 24: Processing 7 table(s)
+    Table 1: Inserted (match score: 5)
+    Table 2: Inserted (match score: 6)
+    Table 3: Inserted (match score: 5)
+    Table 4: Inserted (match score: 7)
+    Table 5: Inserted (match score: 4)
+    Table 6: Inserted (match score: 3)
+    Table 7: Inserted (match score: 6)
+
+  Chapter 25: Processing 8 table(s)
+    Table 1: Inserted (match score: 7)
+    Table 2: Inserted (match score: 3)
+    Table 3: Inserted (match score: 5)
+    Table 4: Inserted (match score: 3)
+    Table 5: Inserted (match score: 3)
+    Table 6: Inserted (match score: 4)
+    Table 7: Inserted (match score: 4)
+    Table 8: Inserted (match score: 5)
+
+  Chapter 26: Processing 16 table(s)
+    Table 1: Inserted (match score: 7)
+    Table 2: Inserted (match score: 7)
+    Table 3: Inserted (match score: 4)
+    Table 4: Inserted (match score: 6)
+    Table 5: Inserted (match score: 4)
+    Table 6: Inserted (match score: 7)
+    Table 7: Inserted (match score: 3)
+    Table 8: Inserted (match score: 3)
+    Table 9: Inserted (match score: 7)
+    Table 10: Inserted (match score: 6)
+    Table 11: Inserted (match score: 5)
+    Table 12: Inserted (match score: 7)
+    Table 13: Inserted (match score: 6)
+    Table 14: Inserted (match score: 3)
+    Table 15: Inserted (match score: 5)
+    Table 16: Inserted (match score: 3)
+
+  Chapter 27: Processing 2 table(s)
+    Table 1: Inserted (match score: 5)
+    Table 2: Inserted (match score: 3)
+
+  Chapter 28: Processing 9 table(s)
+    Table 1: Inserted (match score: 4)
+    Table 2: Inserted (match score: 5)
+    Table 3: Inserted (match score: 7)
+    Table 4: Inserted (match score: 6)
+    Table 5: Inserted (match score: 9)
+    Table 6: Inserted (match score: 9)
+    Table 7: Inserted (match score: 9)
+    Table 8: Inserted (match score: 6)
+    Table 9: Inserted (match score: 7)
+
+  Chapter 31: Processing 1 table(s)
+    Table 1: Inserted (match score: 5)
+
+  Chapter 32: Processing 7 table(s)
+    Table 1: Inserted (match score: 5)
+    Table 2: Inserted (match score: 3)
+    Table 3: Inserted (match score: 4)
+    Table 4: Inserted (match score: 5)
+    Table 5: Inserted (match score: 5)
+    Table 6: Inserted (match score: 4)
+    Table 7: Inserted (match score: 7)
+
+  Chapter 34: Processing 4 table(s)
+    Table 1: Inserted (match score: 7)
+    Table 2: Inserted (match score: 5)
+    Table 3: Inserted (match score: 5)
+    Table 4: Inserted (match score: 7)
+
+  Chapter 36: Processing 1 table(s)
+    Table 1: Inserted (match score: 7)
+
+====================================================================================================
+SUMMARY
+====================================================================================================
+
+Tables added: 96
+Tables skipped (already exist): 2
+Total tables in DocBook: 98
+
+4. Verifying updated files...
+  Chapter 01: 4 table(s) ✓
+  Chapter 04: 3 table(s) ✓
+  Chapter 05: 2 table(s) ✓
+  Chapter 06: 3 table(s) ✓
+  Chapter 07: 1 table(s) ✓
+  Chapter 09: 1 table(s) ⚠️
+  Chapter 10: 1 table(s) ✓
+  Chapter 11: 5 table(s) ✓
+  Chapter 12: 5 table(s) ✓
+  Chapter 13: 1 table(s) ✓
+  Chapter 16: 1 table(s) ✓
+  Chapter 18: 7 table(s) ✓
+  Chapter 19: 1 table(s) ✓
+  Chapter 20: 2 table(s) ✓
+  Chapter 21: 4 table(s) ✓
+  Chapter 23: 1 table(s) ✓
+  Chapter 24: 7 table(s) ✓
+  Chapter 25: 8 table(s) ✓
+  Chapter 26: 16 table(s) ✓
+  Chapter 27: 2 table(s) ✓
+  Chapter 28: 9 table(s) ✓
+  Chapter 31: 1 table(s) ✓
+  Chapter 32: 7 table(s) ✓
+  Chapter 34: 4 table(s) ✓
+  Chapter 36: 1 table(s) ✓
+
+✓ Updated files saved to: /home/user/test/final_output_tables_with_all_tables
+
+====================================================================================================
+COMPLETE
+====================================================================================================
