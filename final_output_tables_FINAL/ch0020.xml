@@ -1,0 +1,724 @@
+<?xml version='1.0' encoding='utf-8'?>
+<chapter id="ch0020" label="20">
+    <title>Chapter 20</title>
+    <para><emphasis role="bold">Chapter 20</emphasis> <emphasis role="bold">MRI</emphasis><emphasis role="bold">‐</emphasis><emphasis role="bold">RELATED HEATING OF  </emphasis> <emphasis role="bold">IMPLANTS AND DEVICES </emphasis></para>
+    <sect1 id="ch0020s01">
+      <title>LUKAS WINTER, PH.D.</title>
+      <para>Physikalisch-Technische Bundesanstalt (PTB)    Braunschweig und Berlin  Germany</para>
+    <table frame="all"><title>Qualitative comparison of RF-induced and gradient field-induced heating in terms of the implant</title><tgroup cols="3"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><thead><row><entry>Parameter</entry><entry>RF-Induced Heating</entry><entry>Gradient-Induced Heating</entry></row></thead><tbody><row><entry>Implant Size</entry><entry>Most critical: Lengths approximately one-
+quarter to one-half the RF wave-length in
+tissue.</entry><entry>Most critical: Bulky implants.</entry></row><row><entry>Implant Shape</entry><entry>Most critical: One-dimensional, pointed
+ends, multiple implants with short gaps
+between them.</entry><entry>Most critical: Large cross-sections.</entry></row><row><entry>Implant
+Material</entry><entry>Electrical conductivity is less relevant,
+higher thermal conductivity reduces
+temperature hotspots.</entry><entry>Higher electrical conductivity gives
+higher eddy currents. For example,
+CoCrMo alloy creates ~60% more gradi-
+ent heating than the alloy, Ti-6Al-4V.
+Thermal conductivity is less relevant.</entry></row><row><entry>Implant
+Position</entry><entry>Most critical: Regions of highest back-
+ground E-field. In a conventional transmit
+body RF coil, this field increases radially
+with distance from the RF coil axis
+(where it vanishes). Axially, the field is
+uniformly high within the footprint of the
+RF coil; substantial field tails beyond the
+end of the coil can exist.</entry><entry>Not critical: Isocenter.
+Critical: Locations in the MR system’s
+bore where B -fields are highest, which is
+G
+towards the ends of the gradient coil, that
+is, outside the imaging region (Figure 2).
+Radially, B increases monotonically
+G
+with distance from the magnet axis; axi-
+ally, a maximum is reached at |z|≈30 to 50
+cm from the isocenter (Table 2).</entry></row><row><entry>Implant
+Orientation</entry><entry>Most critical: Implant aligned with the
+background E-field vector (i.e., parallel to
+the magnet axis for conventional body RF
+coils).</entry><entry>Most critical: Large implant cross-section
+perpendicular to the direction of the
+switched B -fields with high amplitudes.
+G</entry></row><row><entry>MRI Sequence
+Parameters</entry><entry>Most critical: Fast pulse sequences with
+high density of large flip-angle RF pulses,
+such as Turbo or Fast Spin Echo. Higher
+(local and whole-body averaged) SAR as
+indicated by the scanner corresponds to
+more critical pulse sequences, but the
+readings do not account for the implant
+and different exposure conditions (e.g.,
+scanner, RF coil, subject, position, etc.)
+cannot be compared.</entry><entry>Most critical: Fast pulse sequences with
+high slew rates and high slew percentage,
+for example, echo planar imaging. Criti-
+cal conditions are not indicated by the
+MR scanner.</entry></row></tbody></tgroup></table><table frame="all"><title>A graphical illus-</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 1</entry><entry>Refer to PDF</entry></row></tbody></tgroup></table><table frame="all"><title>Maximum temperature elevation ΔTmax versus position z of a total hip prosthesis made of CoCrMo</title><tgroup cols="3"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><thead><row><entry>Parameter</entry><entry>RF-Induced Heating</entry><entry>Gradient-Induced Heating</entry></row></thead><tbody><row><entry>Implant Size</entry><entry>Most critical: Lengths approximately one-
+quarter to one-half the RF wave-length in
+tissue.</entry><entry>Most critical: Bulky implants.</entry></row><row><entry>Implant Shape</entry><entry>Most critical: One-dimensional, pointed
+ends, multiple implants with short gaps
+between them.</entry><entry>Most critical: Large cross-sections.</entry></row><row><entry>Implant
+Material</entry><entry>Electrical conductivity is less relevant,
+higher thermal conductivity reduces
+temperature hotspots.</entry><entry>Higher electrical conductivity gives
+higher eddy currents. For example,
+CoCrMo alloy creates ~60% more gradi-
+ent heating than the alloy, Ti-6Al-4V.
+Thermal conductivity is less relevant.</entry></row><row><entry>Implant
+Position</entry><entry>Most critical: Regions of highest back-
+ground E-field. In a conventional transmit
+body RF coil, this field increases radially
+with distance from the RF coil axis
+(where it vanishes). Axially, the field is
+uniformly high within the footprint of the
+RF coil; substantial field tails beyond the
+end of the coil can exist.</entry><entry>Not critical: Isocenter.
+Critical: Locations in the MR system’s
+bore where B -fields are highest, which is
+G
+towards the ends of the gradient coil, that
+is, outside the imaging region (Figure 2).
+Radially, B increases monotonically
+G
+with distance from the magnet axis; axi-
+ally, a maximum is reached at |z|≈30 to 50
+cm from the isocenter (Table 2).</entry></row><row><entry>Implant
+Orientation</entry><entry>Most critical: Implant aligned with the
+background E-field vector (i.e., parallel to
+the magnet axis for conventional body RF
+coils).</entry><entry>Most critical: Large implant cross-section
+perpendicular to the direction of the
+switched B -fields with high amplitudes.
+G</entry></row><row><entry>MRI Sequence
+Parameters</entry><entry>Most critical: Fast pulse sequences with
+high density of large flip-angle RF pulses,
+such as Turbo or Fast Spin Echo. Higher
+(local and whole-body averaged) SAR as
+indicated by the scanner corresponds to
+more critical pulse sequences, but the
+readings do not account for the implant
+and different exposure conditions (e.g.,
+scanner, RF coil, subject, position, etc.)
+cannot be compared.</entry><entry>Most critical: Fast pulse sequences with
+high slew rates and high slew percentage,
+for example, echo planar imaging. Criti-
+cal conditions are not indicated by the
+MR scanner.</entry></row></tbody></tgroup></table></sect1>
+    <sect1 id="ch0020s02">
+      <title>FRANK SEIFERT, PH.D.</title>
+      <para>Physikalisch-Technische Bundesanstalt (PTB)   Braunschweig und Berlin  Germany</para>
+    </sect1>
+    <sect1 id="ch0020s03">
+      <title>LUCA ZILBERTI, PH.D.</title>
+      <para>Istituto Nazionale di Ricerca Metrologica  Torino, Italy</para>
+    </sect1>
+    <sect1 id="ch0020s04">
+      <title>MANUEL MURBACH, PH.D.</title>
+      <para>ZMT Zurich MedTech AG  Zurich, Switzerland</para>
+    </sect1>
+    <sect1 id="ch0020s05">
+      <title>BERND ITTERMANN, PH.D.</title>
+      <para>Physikalisch-Technische Bundesanstalt (PTB)  Braunschweig und Berlin  Germany</para>
+    </sect1>
+    <sect1 id="ch0020s06">
+      <title>INTRODUCTION</title>
+      <para>Magnetic resonance (MR) scanners utilize static magnetic, time-varying gradient mag- netic, and radiofrequency (RF) fields to image human subjects. Even when interacting with  purely biological tissues, these electromagnetic fields can pose a hazard for the patient by  excessive tissue heating due to the transmitted RF field. While still an active area of re- search, a high level of understanding has been achieved for this phenomenon and mature  safety provisions have emerged from this knowledge. The situation becomes more compli-</para>
+      <para>cated when a patient has a metallic biomedical implant, especially if that device contains  electrically conductive parts.</para>
+      <para>By the physical nature of their interactions, patient hazards related to magnetic reso- nance imaging (MRI) that are due to the presence of metallic implants can be grouped into  four categories: (1) forces and torques acting on ferromagnetic objects due to the static mag- netic field, <emphasis role="italics">B</emphasis>0; (2) forces, sometimes referred to as Lenz forces, and related torques exerted  by the static magnetic field on moving metallic objects, even if nonferromagnetic; (3) mal- function of an active implanted medical device (AIMD, i.e., an implant relying on an em- bedded energy source to function such as a cardiac pacemaker or a neuromodulation system)  because of the strong electromagnetic fields used during MRI, which may impact the vital  functions of the device or even damage it; and (4) localized heating and resulting tissue  damage due to currents in the implant induced by the RF fields and the time-varying gradient  magnetic fields (1-3).</para>
+      <para>Today’s MR systems are built to image biological tissues but not to deal with implanted  metallic objects and, thus, they have no means to automatically detect and adjust to them  even though implemented safety measures are no longer adequate in the presence of metals  (4). Ultimately, appropriate safety concepts for scanning patients with implants must be  carried out at a <emphasis role="italics">system level</emphasis>. That is, MR scanners must be designed to detect an implant in  the patient and respond accordingly by adjusting scan parameters or, in extreme cases, by  rejecting the MRI exam if it cannot be conducted safely. However, this technology is not  yet available and, until then, it will remain the responsibility of the MR system operators  (i.e., the MRI technologists and radiographers) to ensure the safe scanning of patients with  metallic implants.</para>
+      <para>Severe injuries and fatalities have occurred in patients with implants that underwent  MRI (5-10). Most of these incidents were related to dislodgement of a ferromagnetic implant  (e.g., an aneurysm clip) or the malfunction of a device, such as a cardiac pacemaker. Severe  injuries solely because of excessive implant heating have been documented (8–12). In these  instances, RF-induced heating of deep brain stimulation leads was believed to be responsible  for the greatest risk during MRI (8-12). Of note is that, in phantom experiments, the tem- perature at the tip of a long wire may increase by as much as 75°C under certain RF exposure  conditions (13).</para>
+      <para>The present chapter focuses on the state of knowledge on the important topic of MRI- related heating of implants and devices. This attention to this single subject is not because  other MRI-related hazards would be less dangerous (the opposite is most certainly true) but  because it is (1) omnipresent, and (2) scientifically and practically the most challenging  case for a risk assessment (14). Within the limited space of this chapter, we will consider  fully incorporated biomedical implants, while interventional and intraoperative devices will  not be covered, despite plentiful conceptual similarities.</para>
+      <para>In the following sections, the underlying physics of implant heating will be presented  and summarized. Additionally, the most relevant standardization documents in this field  will be recapitulated since they define how both MR systems and implants are designed,  built, and tested. Importantly, such standards inform MRI users as to what they can, or rather  should not, expect from a device.</para>
+      <para>While this first part aims to provide a conceptual background at a level suited also for  general readership, the subsequent sections address mostly the active researchers in the  field. Methods to assess and emerging concepts to actively mitigate implant-related hazards  in association with MRI technology will be reviewed, with a focus on recent developments.  An extensive evaluation of past developments that brought the field to where it stands today  is not possible within the present format. MR system users and operators seeking practical  advice about scanning or not scanning a patient with implants or devices are kindly referred  to the literature, continuously updated websites on this important subject (15, 16), and other  chapters in this textbook.</para>
+    </sect1>
+    <sect1 id="ch0020s07">
+      <title>PHYSICS OF IMPLANT HEATING</title>
+      <para>MRI relies on two time-varying magnetic fields, that is, the RF field and gradient mag- netic field, which differ in frequency and amplitude. The sinusoidal RF field, <emphasis role="italics">B</emphasis>1, is required  to excite the spins to be imaged. Usually, it is generated by a volume transmit RF coil like  the scanner’s body RF coil or a dedicated transmit/receive head RF coil. The design target  is a homogeneous <emphasis role="italics">B</emphasis>1-field over most of the RF coil’s geometrical volume. Amplitudes are  in the 10 µT range and frequencies are in the 100 MHz regime. The gradient magnetic field,  <emphasis role="italics">B</emphasis>G, provides spatial encoding for image generation. The water-cooled gradient coils create  <emphasis role="italics">B</emphasis>(0, z) gradients in three orthogonal directions. The design targets are linearly varying offset  fields around the isocenter (where <emphasis role="italics">B</emphasis>G=0). Radially, <emphasis role="italics">B</emphasis>G fields are maximal at the MR sys- tem’s bore; axially, they have maxima around the ends of the gradient coils (i.e., at |z|≈30  to 50 cm). In modern clinical MR scanners, amplitudes reach the 10 mT regime in those  areas. Gradient magnetic fields have base frequencies in the kilohertz range, but higher har- monics up to several 10 kHz often exist.</para>
+      <para>Faraday’s law requires that all time-varying magnetic fields <emphasis role="italics">B(t)</emphasis> are accompanied by  electric fields <emphasis role="italics">E(t)</emphasis>, where <emphasis role="italics">E</emphasis>∝<emphasis role="italics">f B</emphasis> for sinusoidal <emphasis role="italics">B(t)</emphasis> with frequency <emphasis role="italics">f</emphasis>. In an electrically con- ductive metallic implant with conductivity <emphasis role="italics">σ</emphasis>, those <emphasis role="italics">E</emphasis>-fields drive so-called eddy currents  with current densities <emphasis role="italics">J = </emphasis><emphasis role="italics">σ</emphasis><emphasis role="italics">E</emphasis>. This occurs also in biological tissue but is much more dramatic  in metals (including “poorly conducting” alloys), which typically have ~ 10<superscript>6</superscript> times higher  electrical conductivities. These induced currents have two effects: (1) due to ohmic losses,  power <emphasis role="italics">P </emphasis>∝<emphasis role="italics">JE</emphasis> is locally deposited <emphasis role="italics">inside</emphasis> the implant, leading to a temperature increase with  an initial slope of <emphasis role="italics">dT </emphasis>∕<emphasis role="italics"> dt=P </emphasis>∕ <emphasis role="italics">C</emphasis>, where <emphasis role="italics">C</emphasis> is the heat capacity of the exposed mass, and (2)  secondary <emphasis role="italics">B-</emphasis> and <emphasis role="italics">E-</emphasis>fields are induced around the implant which superimpose the incident  <emphasis role="italics">E</emphasis>-field and modify the power deposition. Both effects can lead to tissue heating but the  mechanisms depend on frequency and, thus, are very different for gradients and RF fields.</para>
+      <para><emphasis role="bold">RF-Induced Power Deposition in Tissues Around Implants </emphasis></para>
+      <para>Under continuous RF exposure and without heat dissipation, the local tissue temperature  in a patient undergoing MRI would rise linearly in time with the absorbed RF power <emphasis role="italics">P</emphasis><emphasis role="italics">RF</emphasis>  per exposed mass Δ<emphasis role="italics">m</emphasis>, the so-called specific absorption rate (SAR),</para>
+      <para>where the angular brackets denote temporal averaging. Electrical conductivity <emphasis role="italics">σ</emphasis> and  mass density <emphasis role="italics">ρ</emphasis> are tissue parameters; <emphasis role="italics">E</emphasis> depends on MRI hardware and software, the transmit  RF coil, and pulse sequence. SAR is a local quantity since all parameters are position de- pendent and Equation (1) holds with or without an implant being present.</para>
+      <para>In a periodic MRI pulse sequence, 〈<emphasis role="italics">P</emphasis><emphasis role="italics">RF</emphasis> 〉t in Equation (1) is given by the sum of all  pulse energies ∫ <emphasis role="italics">P</emphasis><emphasis role="italics">RF</emphasis> <emphasis role="italics">dt</emphasis> divided by the repetition time, TR. Consequently, sequences with a  short repetition time (TR) and a high density of high-power pulses have increased SAR val- ues. The time-averaged SAR can be modified and limited to safe exposure levels, for ex- ample, by reducing the flip angle and, thus, the power per RF pulse, and/or by extending  the TR and, thus, the mean time between RF pulses.</para>
+      <para>RF currents at <emphasis role="italics">f</emphasis> ~ 100 MHz in metallic objects are restricted to a thin surface layer of  about ~100 µm by the laws of electrodynamics (i.e., the skin effect). The mass of directly  heated implant material remains too small, therefore, to affect the neighboring tissue no- ticeably. The current-induced secondary <emphasis role="italics">E</emphasis>-field (i.e., the “scattered field”) around the im- plant becomes highly relevant, however, as it can vastly exceed the primary “background”  <emphasis role="italics">E</emphasis>-field in critical locations. RF currents induced directly in tissue by the scattered <emphasis role="italics">E</emphasis>-field  are the dominant effect for RF-induced implant heating (<emphasis role="bold">Figure 1</emphasis>). In particular, a one-di- mensional implant tends to exhibit the so-called “antenna effect” which is a pronounced  maximum of the scattered <emphasis role="italics">E</emphasis>-field at the distal end, whose intensity peaks when the electrical  length of the implant is in the range of one-quarter to one-half of the RF wavelength in  tissue (17). The electromagnetic energy of the background field is then most effectively  converted into implant current and corresponding scattered field.</para>
+      <para>(1)</para>
+      <para><emphasis role="bold">Figure 1.</emphasis> Simulated electric-field distribution of a vascular stent with varying conductiv- ity. For highly conductive materials such as metals, a scattered field is induced by the cur- rent in the stent that exceeds the incident electric field. This scattered field creates <emphasis role="italics">E</emphasis>-field  (and SAR) hotspots at the ends of the stent. Adapted from color figure in Winter, et al.  (1).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0384.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0385.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">Gradient-Induced Power Deposition in Implants </emphasis></para>
+      <para>In contrast to the RF energy case, secondary <emphasis role="italics">E</emphasis>-fields and the direct induction of currents  <emphasis role="italics">in tissue</emphasis> are both negligible for gradient switching at kilohertz frequencies. Switched gra- dients can heat-up the metallic implant, itself, however, via eddy currents. These currents  and the associated power deposition are confined to the metal, but thermal energy diffuses  into adjacent tissues, subsequently. Such confined eddy-current loops are intrinsically lim- ited in small or approximately one-dimensional implants (e.g., screws or leads) but are pos- sibly substantial in implants with a large cross-sectional area (e.g., orthopedic prostheses  such as total hip or knee replacement implants), where large, low-resistance closed current  paths exist (18, 19).</para>
+      <para>Eddy currents inside a sphere (e.g., the femoral head of a total hip prosthesis) encircle  the switched gradient field <emphasis role="italics">B</emphasis><emphasis role="italics">G</emphasis>. Their density is (19):</para>
+      <para>in a generic radial position, <emphasis role="italics">r</emphasis>, with magnetic permeability of vacuum, <emphasis role="italics">μ</emphasis>0, colatitude <emphasis role="italics">θ</emphasis>  with respect to the direction of <emphasis role="italics">B</emphasis><emphasis role="italics">G</emphasis>, assumed to be uniform, and <emphasis role="italics">k</emphasis><superscript>2 </superscript>= -2 π <emphasis role="italics">i f </emphasis><emphasis role="italics">μ</emphasis><superscript>0</superscript> <emphasis role="italics">σ</emphasis>, where  . Equation (2) considers the skin effect and that eddy currents produce a secondary  magnetic field perturbing the applied one. In the equatorial plane and for low <emphasis role="italics">k</emphasis> (i.e., low   <emphasis role="italics">f </emphasis><emphasis role="italics">σ</emphasis>), Equation (2) simplifies to</para>
+      <para>Equations (2) and (3a) refer to the (complex) amplitudes of (rarely occurring) sinusoidal  gradients with frequency <emphasis role="italics">f</emphasis>. For generic time-signals <emphasis role="italics">B</emphasis><emphasis role="italics">G</emphasis><emphasis role="italics"> (t)</emphasis>, Equation (3a) can be expressed  as:</para>
+      <para>A broad variety of gradient waveforms exist but trapezoidal pulses with linear <emphasis role="italics">B</emphasis><emphasis role="italics">G</emphasis> ramps  and flat tops are most common. Only the ramps create eddy currents, then, and the flat sec- tions do not contribute. Under the simplifying assumptions of Equation (3b), the induced  current density scales with implant conductivity, the change rate of <emphasis role="italics">B</emphasis><emphasis role="italics">G</emphasis>, and the radius, <emphasis role="italics">r</emphasis>, of  the current loop. The total heating power of those currents depends on the square of the  current density.</para>
+      <para>(2)</para>
+      <para>(3a)</para>
+      <para>(3b)</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0386.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0387.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0388.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0389.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>For a given implant, gradient heating is maximal, when the implant is positioned in the  aforementioned locations of highest <emphasis role="italics">B</emphasis><emphasis role="italics">G</emphasis>, when the gradients are ramped at the highest avail- able slew rate, and when pulse sequences are run with a high “slew percentage” (i.e., a high  fraction of ramp time during the TR). The gradient strength itself is only indirectly a factor,  insofar as higher gradients need longer ramp times to reach them.</para>
+      <para>Few studies on MRI-related gradient magnetic field-induced implant heating exist. Ear- lier reports did not find significant temperature elevations (20, 21), yet did not systematically  investigate critical scenarios, as described in the previous paragraph. More recent work  demonstrated that gradient magnetic field-inducted heating of a hip prostheses (namely, the  acetabular cup component) can increase the temperature in adjacent tissue by several de- grees using a manufacturer-provided, “gradient aggressive” pulse sequence, in the afore- mentioned sense, on a clinical MR system (18, 22–24) (<emphasis role="bold">Figure 2</emphasis>). Very close agreement  between experimental findings and computational results indicated that the effects are well  understood (24).</para>
+      <para><emphasis role="bold">From Power Deposition to Heating to Tissue Damage </emphasis></para>
+      <para>So far, only implant-related changes in the power deposition were discussed, but the  hazards are excessive tissue temperatures. As such, temperature is established by the balance  between heating and cooling. Implant heating is a local phenomenon and the most widely  used description in this context is Pennes Bioheat Equation (PBE) (25), as follows:</para>
+      <para><emphasis role="bold">Figure 2.</emphasis> Maximum gradient field-induced heating of a total hip prosthesis made of  CoCrMo alloy after 12 minutes of continuous exposure to an echo planar imaging pulse  sequence performed by standard gradient coils for different readout directions and at dif- ferent longitudinal positions of the body. The results refer to a gradient strength of 20  mT/m, a repetition time of TR = 43 ms and a readout slew rate of 168 (T/m)/s for a rela- tively short gradient-coil assembly. Adapted from color figure in Winter, et al. (1).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0390.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>Parameters are specific heat capacity, <emphasis role="italics">c</emphasis> (W s kg<superscript>-1</superscript> K<superscript>-1</superscript>), thermal conductivity,   <emphasis role="italics">k</emphasis> (W m<superscript>-1</superscript> K<superscript>-1</superscript>), mass density, <emphasis role="italics">ρ</emphasis> (kg m<superscript>-3</superscript>), and blood perfusion, <emphasis role="italics">w</emphasis> (m<superscript>3</superscript> s<superscript>-1</superscript> kg<superscript>-1</superscript>). Subscripts <emphasis role="italics">t </emphasis> and <emphasis role="italics">b</emphasis> refer to tissue and (arterial) blood, respectively. Tissue temperature change on the left  is expressed as the balance of heat diffusion, perfusion cooling, metabolic heat   <emphasis role="italics">Q</emphasis><emphasis role="italics">m</emphasis> (W kg<superscript>-1</superscript>) and external heat, <emphasis role="italics">Q</emphasis><emphasis role="italics">ext</emphasis> (W kg<superscript>-1</superscript>), such as SAR. Equilibrium (<emphasis role="italics">d T</emphasis><emphasis role="italics">t</emphasis> ∕ <emphasis role="italics">dt </emphasis>= 0) is  reached when the terms on the right-hand side compensate each other. PBE is not a funda- mental law and makes a number of questionable assumptions (e.g., the blood pool as an in- finite heat sink, isotropic thermal conduction, inadequate perfusion model, absence of  thermoregulation, etc.). Still, it appears to work remarkably well in predicting tissue tem- peratures (see (26) for an extended discussion).</para>
+      <para>Thermal modeling is indispensable to assess hazards related to implant heating by gra- dient switching since the deposited power reaches the tissues only via thermal diffusion.  But also for RF energy-induced heating it is highly advisable even though the existing reg- ulations only impose limits on SAR. The tissue parameters <emphasis role="italics">k</emphasis><emphasis role="italics">t</emphasis>, <emphasis role="italics">w</emphasis><emphasis role="italics">t</emphasis>, and <emphasis role="italics">Q</emphasis><emphasis role="italics">m</emphasis> in Equation (4)  can vary by orders of magnitude between tissue types (27). Therefore, even a uniform ex- ternal power deposition would result in a non-uniform distribution of equilibrium temper- atures in the human body. Equivalently, it can be said that for a non-uniform SAR  distribution, the temperature hotspots will not normally coincide with the SAR hotspots  (28). This discrepancy can be further enhanced by the high thermal conductivity of metallic  implants. This reduces temperature differences along the implant and tends to “smear” out  localized hotspots.</para>
+      <para>For a conclusive safety assessment, however, even a realistic temperature distribution  is not yet sufficient, because tissue types vary not only in cooling properties but also in tem- perature resilience. For example, 10 minutes at a temperature of 45°C is not much of a prob- lem for skin but it is for brain matter (29). <emphasis role="italics">Thermal Dose</emphasis> safety concepts, considering the  applied temperature over time individually for each tissue type, account for this variation  and arguably represent the best that can be done today. The best known example is the “<emphasis role="italics">Cu-</emphasis> <emphasis role="italics">mulative Equivalent Minutes at 43°C</emphasis>” (CEM43) approach (29–32). This is beyond the scope  of this chapter, however, the present standard is still the whole-body averaged SAR.</para>
+      <para><emphasis role="italics">RF-Induced vs. Gradient-Induced Heating</emphasis>. As previously mentioned, RF-induced cur- rents in metals are confined to a thin surface layer by the skin effect, while the low-frequency  gradient currents fill almost the whole implant volume. Compared to RF fields, gradient  switching has a lower frequency content (&lt;10<superscript>5</superscript> Hz vs. ~10<superscript>8</superscript> Hz) but a higher magnitude (~10  mT vs. ~10 µT). The combined effect is that, in “bulky” (i.e., implants with a relatively  larger surface area such as an implantable infusion pump or a total hip prosthesis) metallic  objects, switched gradients can deposit much more power than RF energy (19). In a non- ferromagnetic sphere (radius <emphasis role="italics">R </emphasis>= 2 cm, <emphasis role="italics">σ</emphasis><emphasis role="italics"> </emphasis>= 1 MS/m, similar to the femoral head of a total  hip prosthesis made of cobalt chromium alloy), the power deposition by a gradient magnetic</para>
+      <para>(4)</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0391.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="bold">Parameter</emphasis> <emphasis role="bold">RF-Induced Heating</emphasis> <emphasis role="bold">Gradient-Induced Heating</emphasis></para>
+      <para><emphasis role="bold">Implant Size</emphasis></para>
+      <para>Most critical: Lengths approximately one- quarter to one-half the RF wave-length in  tissue.</para>
+      <para>Most critical: Bulky implants.</para>
+      <para><emphasis role="bold">Implant Shape</emphasis></para>
+      <para>Most critical: One-dimensional, pointed  ends, multiple implants with short gaps  between them.</para>
+      <para>Most critical: Large cross-sections.</para>
+      <para><emphasis role="bold">Implant  </emphasis> <emphasis role="bold">Material</emphasis></para>
+      <para>Electrical conductivity is less relevant,  higher thermal conductivity reduces   temperature hotspots.</para>
+      <para>Higher electrical conductivity gives  higher eddy currents. For example,  CoCrMo alloy creates ~60% more gradi- ent heating than the alloy, Ti-6Al-4V.  Thermal conductivity is less relevant.</para>
+      <para><emphasis role="bold">Implant  </emphasis> <emphasis role="bold">Position</emphasis></para>
+      <para>Most critical: Regions of highest back- ground <emphasis role="italics">E</emphasis>-field. In a conventional transmit  body RF coil, this field increases radially  with distance from the RF coil axis  (where it vanishes). Axially, the field is  uniformly high within the footprint of the  RF coil; substantial field tails beyond the  end of the coil can exist.</para>
+      <para>Not critical: Isocenter.  Critical: Locations in the MR system’s  bore where <emphasis role="italics">B</emphasis><emphasis role="italics">G</emphasis>-fields are highest, which is  towards the ends of the gradient coil, that  is, outside the imaging region (<emphasis role="bold">Figure 2</emphasis>).  Radially, <emphasis role="italics">B</emphasis><emphasis role="italics">G</emphasis> increases monotonically  with distance from the magnet axis; axi- ally, a maximum is reached at |z|≈30 to 50  cm from the isocenter (<emphasis role="bold">Table 2</emphasis>).</para>
+      <para><emphasis role="bold">Implant  </emphasis> <emphasis role="bold">Orientation</emphasis></para>
+      <para>Most critical: Implant aligned with the  background <emphasis role="italics">E</emphasis>-field vector (i.e., parallel to  the magnet axis for conventional body RF  coils).</para>
+      <para>Most critical: Large implant cross-section  perpendicular to the direction of the  switched <emphasis role="italics">B</emphasis><emphasis role="italics">G</emphasis>-fields with high amplitudes.</para>
+      <para><emphasis role="bold">MRI Sequence </emphasis> <emphasis role="bold">Parameters</emphasis></para>
+      <para>Most critical: Fast pulse sequences with  high density of large flip-angle RF pulses,  such as Turbo or Fast Spin Echo. Higher  (local and whole-body averaged) SAR as  indicated by the scanner corresponds to  more critical pulse sequences, but the  readings do not account for the implant  and different exposure conditions (e.g.,  scanner, RF coil, subject, position, etc.)  cannot be compared.</para>
+      <para>Most critical: Fast pulse sequences with  high slew rates and high slew percentage,  for example, echo planar imaging. Criti- cal conditions are not indicated by the  MR scanner.</para>
+      <para><emphasis role="bold">Table 1.</emphasis> Qualitative comparison of RF-induced and gradient field-induced heating in terms of the implant  and pulse sequence parameters.</para>
+      <para><emphasis role="bold">z (mm)</emphasis> <emphasis role="bold">-450</emphasis> <emphasis role="bold">-350</emphasis> <emphasis role="bold">-300</emphasis> <emphasis role="bold">-250</emphasis> <emphasis role="bold">-150</emphasis> <emphasis role="bold">0</emphasis> <emphasis role="bold">150</emphasis> <emphasis role="bold">300</emphasis></para>
+      <para><emphasis role="bold">Δ</emphasis><emphasis role="bold"><emphasis role="italics">Tmax</emphasis></emphasis><emphasis role="bold"> (°C) </emphasis> 0.66 2.38 3.24 3.56 2.42 0.46 0.64 3.14</para>
+      <para><emphasis role="bold">Table 2.</emphasis> Maximum temperature elevation Δ<emphasis role="italics">T</emphasis><emphasis role="italics">max</emphasis> versus position <emphasis role="italics">z</emphasis> of a total hip prosthesis made of CoCrMo  alloy in an MR system after 12 minutes of continuous exposure to a coronal plane, echo planar imaging pulse  sequence with frequency encoding along the <emphasis role="italics">x</emphasis>-axis. Simulation data from Arduino A, et al. (24). For <emphasis role="italics">z </emphasis>&lt; 0,   <emphasis role="italics">z </emphasis>= 0, and <emphasis role="italics">z </emphasis>&gt; 0, the upper body, pelvis, and lower limbs, respectively, are in the imaging position. See also  <emphasis role="bold">Figure 2</emphasis>.</para>
+      <para>field of <emphasis role="italics">B</emphasis><emphasis role="italics">G </emphasis>= 6 mT at <emphasis role="italics">f</emphasis> = 1 kHz is about 900 mW, compared to 8 mW for an RF field of 10  μT at 64 MHz (<emphasis role="italics">B</emphasis>0 = 1.5 T) and 10 mW at 128 MHz (<emphasis role="italics">B</emphasis>0=3 T).</para>
+      <para>The effects of implant and pulse sequence parameters on RF-induced heating and gra- dient switching-related heating for an implant are compared in <emphasis role="bold">Table 1</emphasis>. A graphical illus- tration of the qualitative differences is presented in <emphasis role="bold">Figure 3</emphasis>. To date, only one study exists  where the combined effect of RF energy and gradient heating on hip implants was investi- gated (33). This investigation demonstrated that either mechanism can prevail, depending  on the pulse sequence and the subject’s position in the MR system (33).</para>
+    </sect1>
+    <sect1 id="ch0020s08">
+      <title>STANDARDS AND GUIDELINES</title>
+      <para>With respect to the safety of medical devices, the importance of standards cannot be  overestimated. No product makes it to the market unless it conforms to the applicable stan- dards. Therefore, these documents define how medical devices are designed, built, and  tested. Furthermore, they inform users about what they can or should not expect from a  given device.</para>
+      <para><emphasis role="bold">Figure 3.</emphasis> Numerical simulations of the same voxel model (male adult with unilateral  total hip prostheses) illustrating the different distributions of the temperature elevations  resulting from gradient field-induced heating (<emphasis role="bold">left</emphasis>) versus RF-induced heating (<emphasis role="bold">right</emphasis>).  Gradient field-induced heating is confined to the immediate vicinity of the implant and  effective only in extended cross-sections (in this case, the acetabular cup of the total hip  prosthesis). RF-induced heating can create hot spots everywhere in the body. The im- plant-related contribution of RF-induced heating is most prominent at pointed elements  such as the tip of the femoral stem or the screw protruding from the acetabular cup. No  absolute scales are shown since the exposure conditions cannot be compared. Adapted  from color figure in Winter, et al. (1).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0392.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>A set of international standards was established in recent decades covering implant  safety in MRI (34), which was supplemented by recommendations from governmental agen- cies (35, 36). All refer to the international MRI safety standard from the International Elec- trotechnical Commission, IEC 60601-2-33, first established in 1995 (37). Below, we  summarize the three most relevant standards concerning implant-related heating in the MRI  environment, namely ASTM F2182 (38), IEC 60601-2-33 (37), and International Organi- zation for Standardization/Technical Specification, ISO/TS 10974 (39). Note, however, that  the instructions of use provided by the MR system manufacturer may be more restrictive  than the currently applicable standard. These instructions are legally relevant, because not  following them constitutes “off-label” use with potentially severe liability implications for  the physician supervisor as well as the MR system operator.</para>
+      <para>All three standards adopt a scheme from ASTM F2503 (40) where implants are labeled  as either <emphasis role="italics">MR Unsafe</emphasis> (“an item that is known to pose hazards in all MRI environments”),  <emphasis role="italics">MR Conditional</emphasis> (“an item that has been demonstrated to pose no known hazards in a spec- ified MRI environment with specified conditions of use”), or <emphasis role="italics">MR Safe</emphasis> (“an item that poses  no known hazards in all MRI environments”). Note that metallic items can always exert  Lenz forces and create image artifacts, which may present diagnostic hazards (41) and hence  are never <emphasis role="italics">MR Safe</emphasis> in this terminology. This labeling is the responsibility of the implant  manufacturer who defines the conditions for safe use in association with MRI technology.</para>
+    </sect1>
+    <sect1 id="ch0020s09">
+      <title>ASTM F2182</title>
+      <para>The American Society for Testing and Materials (ASTM) International standard F2182  is fully designated to RF-induced implant heating (38). It provides the implant manufacturer  with well-defined procedures and materials for <emphasis role="italics">in vitro</emphasis> heating tests of their devices. The  standard itself defines no pass or fail criteria. The test results are sent to and evaluated by a  competent authority, most notably the United States Food and Drug Administration (FDA),  for a decision on the conditionality of the implant for MRI. There are other related ASTM  International standards (i.e., ASTM F2052, F2119, F2213, and F2503) that are outside the  scope of this chapter.</para>
+      <para>ASTM F2182 describes in detail a test procedure where the implant under test is em- bedded in gelled-saline filled phantom setup and exposed to a relatively high, whole-body  averaged SAR value (i.e., 2 W/kg or higher) by using either a 1.5 T or 3 T MR scanner or  a suitable benchtop system, reproducing the RF fields from a transmit body RF coil oper- ating in a circularly-polarized (CP) mode. For 15 minutes, the temperature is monitored.  By repeating the measurement with the implant removed, the background temperature rise  is also measured, and the implant-related temperature rise can be determined.</para>
+      <para>The scope of ASTM F2182 is limited to passive implants that are completely inside the  human body. However, similar methods described in ASTM F2182 can be applied for de- vices penetrating the body’s surface (e.g., external fixation systems, vascular catheters, etc.).  Procedures described in ASTM F2182 are also appropriate to perform validation experi- ments as required by ISO/TS 10974.</para>
+      </sect1>
+    <sect1 id="ch0020s10">
+      <title>IEC 60601-2-33</title>
+      <para>The IEC 60601-2-33 standard is the most relevant safety and performance standard for  MRI (37). It provides manufacturers of MR systems with a comprehensive set of criteria  and limits, thus allowing them to self-declare conformity if all requirements are met. This  standard is generally all about the MR scanner and implant safety is only one of many topics  presented in this document.</para>
+      <para>According to IEC 60601-2-33, the risk of RF field-induced heating of an MR Condi- tional device should be assessed in terms of the root-mean-square (RMS) averaged, <emphasis role="italics">B</emphasis>1+RMS</para>
+      <para>with an averaging period <emphasis role="italics">t</emphasis><emphasis role="italics">x</emphasis> = 10 s. From pre-scan flip-angle measurements, the absolute  value of <emphasis role="italics">B</emphasis><superscript>+</superscript>1 can be determined, making <emphasis role="italics">B</emphasis>1+RMS a reliably calibrated quantity when averaged  over a proper region of interest in a central axial slice. <emphasis role="italics">B</emphasis>1+RMS is typically calibrated by the  MR system, and its values should be displayed by the MR scanner’s software. However, it  is important to note that implant heating is related to the total <emphasis role="italics">B</emphasis><emphasis role="italics">1</emphasis> (i.e., all three vector com- ponents), not just <emphasis role="italics">B</emphasis><superscript>+</superscript>1, and the standard gives some guidance to estimate the uncertainties  when using <emphasis role="italics">B</emphasis>1+RMS. This quantity is a much more consistent approach to assess RF-induced  implant heating than the whole-body averaged SAR, which was previously the reference  metric. In contrast to the whole-body averaged SAR, <emphasis role="italics">B</emphasis>1+RMS is independent of the patient  and calculated consistently by different MR system manufacturers.</para>
+      <para>In the latest version of IEC 60601-2-33, the so-called Fixed-Parameter Option (FPO)  was introduced for 1.5 T MR scanners (FPO:B), which specifically addresses scanning pa- tients with implants. In the FPO:B mode, both the RF and the gradient outputs are restricted,  and the MR system manufacturer guarantees that specified maximum values are nowhere  exceeded, within a defined volume in the bore of the MR scanner. Important FPO:B limit  values are <emphasis role="italics">B</emphasis>1+RMS = 3.2 μT and |(<emphasis role="italics">dB</emphasis><emphasis role="italics">G</emphasis>) ∕ <emphasis role="italics">dt</emphasis>|RMS = 56 T/s where</para>
+      <para>is the time-averaged temporal derivative of the gradient field. The latter limit relates to  gradient-induced implant heating but was introduced primarily to protect the device from  damage. Note that the FPO:B limits do not by themselves define “safe scan” conditions.  The FPO rationale is that the MR system manufacturer guarantees that those field limits  are kept, such that implant manufacturers can design and test their devices, accordingly.  Only the combination, that is, a MR system operating in the FPO mode and an FPO-ap- proved implant or device, would then establish a safe setting for the patient. The problem  of the FPO is that a single set of field limits must suffice for a large variety of medical im-</para>
+      <para>(6)</para>
+      <para>(5)</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0393.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0394.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>plants. Up to now, medical implants labeled as MR Conditional with respect to FPO:B are  very rare. The FPO approach is unlikely to reappear in future editions of the standard.</para>
+    </sect1>
+    <sect1 id="ch0020s11">
+      <title>ISO/TS 10974:2018</title>
+      <para>The ISO/TS 10974:2018 is the first comprehensive standardization document on active  implantable medical devices (AIMD) in an MRI context (39). The purpose of this document  is to provide manufacturers of active implants with defined procedures and methods to as- sess the MRI safety aspects of their devices. Conceptually, it is the active implant’s coun- terpart of ASTM F2182, which covers only passive implants. In its current version, the  scope is restricted to 1.5 T scanners with cylindrical bore and body RF coil excitation. With  respect to RF-induced heating, the standard deals with implant-related effects only, and not  with possible background-SAR hotspots elsewhere in the body (which are covered by IEC  60601-2-33).</para>
+      <para><emphasis role="bold">Figure 4.</emphasis> Schematic of the 4 Tier approach for implant-safety assessments in the ISO/TS  10974 stand-ard (39). Each level increases the complexity of the simulations and/or test- ing methods, but at the same time increases the accuracy and decreases the overestima- tion of RF-induced heating, which allows for safe, but less conservative safety margins.  Adapted from Winter, et al. (1).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0395.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>To determine the RF power deposition, a four-tiered approach is prescribed (<emphasis role="bold">Figure 4</emphasis>).  The tiers represent different levels of complexity and accuracy. Lower levels are synony- mous with lower accuracy and larger safety margins that need to be applied. Tier 1 does  not require electromagnetic modeling. Tier 2 uses simulated human RF exposures to “de- termine the electric field in the implant volume of interest”. Tiers 1 and 2 are restricted to  “electrically short” AIMDs, since phase effects are not included. For Tier 3, an equivalent  electromagnetic model of the AIMD is required to determine the transfer function (42). Tier  4 assesses the AIMD electromagnetic model within anatomical models for relevant RF field  exposure conditions. Except for very simple implants, the Tier 4 approach is the most chal- lenging, requiring state-of-the-art computational capabilities.</para>
+      <para>Detailed requirements are given on how measurements should be performed to validate  the simulations. ISO/TS 10974 also deals with gradient-induced device heating in a tiered  approach.</para>
+    </sect1>
+    <sect1 id="ch0020s12">
+      <title>METHODS TO ASSESS IMPLANT SAFETY</title>
+      <para><emphasis role="bold">Simplifications </emphasis></para>
+      <para>Long, one-dimensional shaped implants (e.g., cardiac pacemaker leads) collect RF en- ergy over their entire length which makes them potentially hazardous and simultaneously  defies simplifying assumptions like a constant <emphasis role="italics">E</emphasis>-field, in magnitude and phase, over the  entire implant. Their structural detail, for example, a finely wound helix or multiple elec- trodes, and steep field gradients near the implant call for a high mesh resolution but the  simulation space, defined by the transmit body RF coil, remains large. To aggravate the  problem, the trajectories for long leads are not well defined and, thus, a variety of different  clinically relevant pathways needs to be investigated. Numerical simplification approaches  exist and are widely used, such as the Huygens box concept where a high-resolution simu- lation of the implant region is embedded in a lower-resolution simulation of the rest of the  body (43). For a discussion of the pros and cons of such procedures, the reader is referred  to specialized reviews on numerical techniques including the work by Li, et al. (44).</para>
+      <para>To simplify the geometry, helices are often modeled as straight wires plus lumped ele- ments to account for their inductance or stents as cylinders, ignoring their complex wire- mesh structure (45, 46). Despite these efforts, full Tier 4 simulations are not yet feasible  with normal computational resources, and Tier 3 represents the actual state of the art. There,  first the full-scale native problem, that is, a numerical body model without the implant in  an MR scanner, is computed at an appropriate resolution providing the spatial distribution  of the unperturbed background <emphasis role="italics">E</emphasis>-field. This part may be repeated for different body models,  positions, postures, or transmit RF coils, resulting in a library of background fields. In a  second step, the electrodynamic response of the metallic implant to that background field  is computed. Frequently, this is expressed as the “scattered field,” that is, the difference be- tween the total <emphasis role="italics">E</emphasis>-field with the implant and background field.</para>
+      <para>The critical spot of a wire-like implant is always at the distal tip and a frequent simpli- fication, therefore, is to ignore all other locations. The scattered field at the tip can be derived  from the background-field distribution along the implant trajectory. A first step in that di-</para>
+      <para>rection was the definition of a “safety index” as a metric to characterize one-dimensional  implants (47). Later, this was succeeded by the introduction of the transfer function (TF)  (42), the most widely-used approach to assess the MRI safety of one-dimensional implants  today. To determine the scattered <emphasis role="italics">E-</emphasis>field at some reference  in tissue, close to the tip, one  needs to know the response   of the <emphasis role="italics">E</emphasis>-field at the reference point to a unit tangential  <emphasis role="italics">E</emphasis>-field applied somewhere along the implant (<emphasis role="bold">Figure 5</emphasis>). The latter location is uniquely  identified by a scalar coordinate, ẑ measuring its distance from the tip along the implant  trajectory. This response can be expressed as a complex weight function   and the  desired ‘scattered’ field   can then be obtained by integrating the weighted tangential  background field <emphasis role="italics">E</emphasis><emphasis role="italics">tan</emphasis><emphasis role="italics"> </emphasis>(ẑ) along the wire:</para>
+      <para>The normalized, dimensionless function   describes the spatial distribution of the  scattered <emphasis role="italics">E</emphasis>-field around the tip and is assumed to be independent of how the implant was  excited. Thus, the problem is broken down into two independent steps, namely to determine  (1) the background <emphasis role="italics">E</emphasis>-field without implant, and (2) the transfer function <emphasis role="italics">S</emphasis>(ẑ) of the implant.  The former means a state-of-the-art EMF simulation, the latter can be achieved either by  simulations or experimentally. TF is a normalized, complex function, determining how var- ious elementary RF currents induced along the length of the implant superimpose at the tip.</para>
+      <para>(7)</para>
+      <para><emphasis role="bold">Figure 5.</emphasis> Graphical representation of the transfer function introduced by Park, et al. (42).  A piece-wise excitation with an incident tangential electric field <emphasis role="italics">E</emphasis><emphasis role="italics">tan</emphasis> induces a scattered  electric field   at the tip of a one-dimensional implant. Adapted from color figure in  Winter, et al. (1), original figure from Tokaya, et al. (48). The length coordinate <emphasis role="italics">q</emphasis> in this  figure is denoted <emphasis role="italics">ẑ</emphasis> in the present chapter (<emphasis role="bold">Equation 7</emphasis>).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0396.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0397.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0398.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0399.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0400.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0401.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0402.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0403.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>In this instance, the TF phase describes the propagation and the TF magnitude the attenua- tion of an RF current along the implant. In the simplest case, the TF phase would be a linear  function of the distance from the tip. The <emphasis role="italics">E</emphasis>-field “collected” within a certain distance from  the tip would then increase the scattered field around the tip while contributions from be- yond that point would decrease it again (<emphasis role="bold">Figure 6</emphasis>). For longer distances, attenuation damp- ens the interference pattern, but a critical “resonance length” of one quarter to one half the  RF current wavelength persists. This wavelength, and hence the TF, depend on the dielectric  parameters of the tissue and possibly an insulation surrounding the implant. The TF of an  implant depends on its environment, therefore, but for simplicity this fact is often ignored.  For unfavorable phase distributions of the background <emphasis role="italics">E</emphasis>-field the tip heating can signifi- cantly exceed even the values for the resonant length (<emphasis role="bold">Figure 6</emphasis>).</para>
+      <para>The TF can be determined by measuring or calculating the scattered <emphasis role="italics">E</emphasis>-field at some  reference point,   close to the tip when the implant is exposed to a piece-wise excitation  by a unity tangential <emphasis role="italics">E</emphasis>-field. In simulations, this can be approximated artificially by a short  boxcar function (42) or as the <emphasis role="italics">E</emphasis>-field between two parallel metallic plates in close proximity  to one another (48). Experimentally, for example, short toroid coils or coaxial cables with  a few millimeters of bare inner conductor can be used (49, 50).</para>
+      <para>An important advancement to reduce the multitude of piece-wise excitations and meas- urements (and/or simulations) to a single excitation is based on the principle of reciprocity  (51). Injecting a unit current at its tip, the TF is represented by the current distribution along  the implant and several experimental strategies were proposed to determine this current (50,  52, 53).</para>
+      <para><emphasis role="bold">Figure 6.</emphasis> Temperature increase at the tip of a bare wire as a function of wire length for  RF exposure at 64 MHz. For a uniform phase distribution, the temperature increase   shows a maximum at a “resonance length” of roughly half the RF wavelength  in the phantom medium. If the phase distribution is non-uniform over the implant  (  = temperature increase for a worst-case phase distribution), which is often the  case for relatively long implants, the tip temperature can increase even above the resonant  length of the wire. Reproduced from Winter, et al. (1), original figure from Park, et al.  (42).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0404.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0405.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0406.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0407.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para><emphasis role="italics">Numerical Simulations</emphasis>. The numerical assessment of implant heating in the MR scanner  involves a whole chain of exposure assessments, which can broadly be categorized into (1)  three-dimensional (3D), computer aided design (CAD) models of RF or gradient coil, im- plant, and patient, (2) the electromagnetic simulation including dielectric properties of all  involved tissues and electrical elements, and (3) the thermal simulation along with thermal  and physiological tissue parameters.</para>
+      <para>Here, we focus on the implant-related aspects of simulations. A more detailed overview  of electromagnetic-simulation techniques in an MRI safety context, in general, can be found,  in the work by Fiedler, et al. (54).</para>
+      <para><emphasis role="italics">Realistic Simulation and Body Models</emphasis>. If the 3D-CAD model of an implant cannot be  obtained from the manufacturer, an electrically equivalent simulation model could be cre- ated from the actual implant, based on its geometry, composition, and size. Transmit RF  and gradient coils are integral parts of the MR scanner and their actual design is more dif- ficult to create. However, RF field measurements can be utilized to give a good estimate  about the design, length, and diameter of commercial transmit body RF coils (55, 56). Reg- ularly at 7 T but occasionally at lower field strengths, too, local transmit-receive RF coils  are used (e.g., for head or knee MRI exams). In such a case, safety assessments of implants  are only possible if the RF fields or the transmit RF coil model are known (57, 58). It is im- portant to apply the correct transmit coil-driving conditions (e.g., circularly-polarized, CP,  quadrature-driven). Transmit RF body coils of 1.5 T MR systems typically apply only the  CP mode, whereas at 3 T and above, RF shimming is common to counteract <emphasis role="italics">B</emphasis><superscript>+</superscript>1 inhomo- geneities (59–61).</para>
+      <para>The distribution of the gradient magnetic field <emphasis role="italics">B</emphasis><emphasis role="italics">G</emphasis> can be derived from quasi-static field  measurements or manufacture-provided field maps, if available.</para>
+      <para>Regarding numerical body models, a wide range is available with increasing resolution  and quality (62–64). An extensive review on body models for electromagnetic simulations  has been provided by Makarov, et al. (65).</para>
+      <para>The dielectric properties of human tissues can be assigned according to literature values.  The publication by Gabriel, et al. (66) is the pioneering paper in this respect, while the  wealth of today’s knowledge in this field has been conveniently compiled in a comprehen- sive database of electromagnetic and thermal tissue parameters (27).</para>
+      <para><emphasis role="italics">Electromagnetic Simulation Techniques – RF Fields and Currents</emphasis>. There are several  simulation techniques in computational electromagnetics, each with advantages and weak- nesses. For birdcage coils, the method of moments (MOM) also called the Boundary Ele- ment Method (BEM), or the finite elements method (FEM) may be the best choices, because  they can treat curved geometrical objects more accurately than other techniques. However,  when complex anatomical models or structures are involved, the simulation space can easily  reach dimensions of 100 million voxels (three-dimensional pixels) or more, which is most  efficiently handled by the finite-difference time-domain (FDTD) technique.</para>
+      <para>It has been shown that the common practice of simulating the metallic implant as a per- fect electric conductor is sufficient for practical purposes (67). Thus, it is unnecessary to</para>
+      <para>discretize the implant on the 10 µm scale of the RF penetration depth. Calculations can be  parallelized on graphics processors, thus shortening simulation times by factors &gt;100. The  simulation output contains the induced <emphasis role="italics">E</emphasis>-field distribution in the patient for a given exposure  scenario and can be expressed as SAR maps, which are subjected to different averaging  volumes. The most important of which are the whole-body averaged SAR and the local  SAR averaged over 10 g of tissue (37). For implants, there is an ongoing discussion whether  smaller averaging masses should be used to assess temperature and thermal dose more cor- rectly (45, 68, 69).</para>
+      <para>The exposure condition in the simulation model such as linearly-polarized, CP, or RF  shimming, is important and needs to match reality since it determines the background <emphasis role="italics">E</emphasis>- field distribution responsible for the RF field-induced implant heating. With state-of-the- art electromagnetic modeling, satisfactory agreement (for the given purpose) with phantom  measurements can be obtained and (standard) uncertainties in the range of 10 to 15% (70)  should be achieved for local SAR values, because the dielectric properties of the tissues are  only minimally affected by the physiological response.</para>
+      <para><emphasis role="italics">Electromagnetic Simulation Techniques – Gradient Fields and Induced Currents</emphasis>. Most  investigations dealing with the simulations of gradient-induced heating of bulky implants  adopt the hybrid FEM/BEM frequency-domain formulation described by Zilberti, et al.  (22). Such a formulation applies to non-magnetic metallic implants and, at the frequencies  of interest, assumes that the current density induced inside bulky implants is much higher  than in the surrounding tissues, thus limiting the electromagnetic problem to the implant  volume. To simulate a gradient sequence realistically, the harmonic solutions are moved  back to the time domain, where they are properly combined to follow the actual waveforms  of the three gradient coils.</para>
+      <para><emphasis role="italics">Electromagnetic Simulation Techniques – Thermal Simulations</emphasis>. The power-density dis- tribution from electromagnetic simulations can be used as input for thermal simulations  (<emphasis role="bold">Figure 7</emphasis>). For one-dimensional implants, RF power is absorbed along the whole length of  the lead(s) but tissue heating occurs only around the tip or end and this fact can be exploited  to reduce the total computational burden (71). Steady-state solvers can be used when only  absolute equilibrium temperatures are of interest. To simulate temperature increase versus  time, more complex transient time-domain solvers are required. As previously-stated,  Pennes Bioheat Equation (PBE) (25) is presumably the most widely used formulation, and  most commercial software to calculate tissue temperatures employs PBE or amended vari- ants, for example, with thermoregulation included (i.e., temperature dependent tissue pa- rameters). It performs well for the given exposure scenarios but is a heatsink model  assuming stable core temperatures. If a patient’s core temperature increase must be consid- ered, the PBE can be enhanced by a variable blood temperature formulation. Other aspects  remain neglected, however, such as anisotropic heat-flux or blood temperature variations  along the vessel. For the latter, the impact of the thermal vasculature could be investigated  based on a model which couples, one-dimensional convective vascular tree thermal simu- lations with 3D thermal modeling (72). While the PBE assumes that the arterial inflow to  tissue is still at core temperature, such discrete vasculature (DIVA) models (73) acknowl- edge the flow directionality and the gradual thermalization of blood along the (arterial) vas-</para>
+      <para>cular tree. Other formulations are also being used, such as the generic bioheat transfer model  (74).</para>
+      <para>The total uncertainty for modeling the relatively high local temperature increase in MRI  is about 20 to 30% (standard uncertainty) (32), with the largest contributions from tissue  perfusion and thermoregulatory response.</para>
+      <para><emphasis role="italics">Towards Subject Specific Models – Morphing and Image Registration</emphasis>. Sophisticated  electromagnetic modeling can be performed on virtual body models, but these models never  represent the true patient geometry. Personalized exposure evaluations might permit the re- duction of the necessary safety margins for the majority of the patient population and, con- sequently, permit faster and safer MRI exams: for example, a dynamic adaptation of  exposure limits based on the patient’s body mass index (BMI) or body cross-section (70).  We will briefly discuss two methods: a physics-based morphing and a three-dimensional  image-registration approach.</para>
+      <para>A physics-based morphing technique can be applied on existing anatomical models via  constrained biomechanical FEM simulations, where the body is treated as a hyper-elastic  material (75, 76). The tissue deformation is constrained by the proximity of rigid bones and</para>
+      <para><emphasis role="bold">Figure 7.</emphasis> Electromagnetic and temperature modeling and simulations of two different  implant types positioned on the skull of a human body model. The SAR can be calculated  based on the RF power deposition and used in the temperature simulations to determine  the peak temperature increase at the implant for a given input power to the transmit RF  coil. Adapted from color figure in Winter, et al. (1).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0408.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>regularized by the presence of surrounding soft tissue. This allows regional shrinkage or  expansion of certain tissues (e.g., fat, muscle, etc.) to investigate the effect of different tissue  distributions. A look-up table can be generated, where the actual patient would be matched  to the closest morphing variant of an anatomical model. Pre-computed exposure data would  serve as a coarse personalized estimate.</para>
+      <para>If a certain target anatomy of the actual patient is aimed for in higher detail, a 3D image  registration is better suited to capture the actual skeletal anatomy and posture. Sparse (e.g.,  cross-sectional) pilot-scan images of the patient could be used as input for the non-rigid  registration approach to map the numerical phantom to the patient-specific anatomy (77- 79). The resulting 3D-registered derivative can then be used to compute the exposure esti- mation on-the-fly. Unfortunately, as of today, personalized electromagnetic simulations are  not yet in widespread use.</para>
+      <para><emphasis role="bold">Measurements </emphasis></para>
+      <para>Measurement procedures for <emphasis role="italics">in vitro</emphasis> model validation are well described in ISO/TS  10974 (39). Assessments can be performed at points of interest near the implant, by meas- uring either (1) electromagnetic-field quantities using time-domain sensors, or (2) root- mean-square (RMS) quantities like voltage or temperature. Fiber-optic temperature probes  are the most widely used sensors for safety assessments involving patients and metallic im- plants in MRI (11). They use a non-conducting transmission medium and are nonferromag- netic, preventing RF coupling and enabling a precise and accurate application to record  temperatures in the harsh electromagnetic environment associated with the MR system. Im- portantly, in order to obtain an accurate assessment of temperatures, probe positioning rel- ative to the implant is crucial. For example, for a peak temperature of 10°C, a 1°C change  can be observed over less than 250 µm (80) .</para>
+      <para>Time-domain probes yield information on amplitudes and phases of field quantities  which is necessary, for example, for TF measurements (50, 81). For <emphasis role="italics">in situ</emphasis> applications in  the MR scanner, the field probes must be nonferromagnetic and must not generate static  magnetic fields by internal DC currents. Examples of <emphasis role="italics">in situ</emphasis> RF current measurements on  implanted wires using optical fibers for signal transfer have been reported by Zanchi, et al.  (13) and Weidemann, et al. (82). Recently, fully optical <emphasis role="italics">E</emphasis>-field measurements based on  electro-optic field sensing have been used to assess the RF safety of different stent config- urations (83). While this technique is promising, it is too premature for a final judgment  with respect to its validity.</para>
+      <para>Another approach to perform <emphasis role="italics">in situ</emphasis> measurements especially in active devices is the  use of already built-in sensors. Due to the lack of a phase reference, this appears to be  limited to RMS measurements so far, but this issue may be resolved in the near future using  state-of-the-art electronics. In a proof-of-principle investigation, it was shown that the tem- perature at the tip of an implanted pacemaker lead surrogate can be reliably measured during  <emphasis role="italics">in vivo</emphasis> MRI using wireless data transfer (84).</para>
+      <para><emphasis role="bold"><emphasis role="italics">In Vivo</emphasis></emphasis><emphasis role="bold"> Assessments of Implant Safety </emphasis></para>
+      <para>Recently, methods have been investigated to assess implant safety <emphasis role="italics">in vivo</emphasis> by MR-based  methods. This methodology, if further developed and validated, would enable patient-spe- cific safety evaluations of implanted devices. Approaches to “put the implant patient in the  scanner and see what happens” exist (85) and are not automatically unethical, if done with  the necessary caution. Still, they are not discussed here as they do little to quantify the pa- tient hazard.</para>
+      <para><emphasis role="italics">Non-MR Based Methods</emphasis>. A metallic implant with strong coupling to the transmit RF  coil causes substantial impedance changes. These can be measured via the RF coil’s current  distribution or scattering (S) parameters and related to the induced current strengths and  the location of the implant if a multichannel transmission system is used (86–88) (<emphasis role="bold">Figure </emphasis> <emphasis role="bold">8</emphasis>). Such an “implant detector” at an MR system level would solve many problems, only it  would be very difficult to ensure that every hazardous implant is detected.</para>
+      <para>Another method to determine potential RF field-induced heating <emphasis role="italics">in vivo</emphasis> independently  of prior simulations is the use of integrated temperature sensors in the implant at locations  where the maximum temperature increase is expected (84, 89). Alternatively, the thermo- acoustic effect can be utilized for external temperature monitoring (90, 91). The latter ex- ploits the pressure waves that a sudden temperature increase inevitably generates and can  be detected by sensitive acoustic receivers. It has been shown in a proof-of-concept study  that this ultrasound signal can be used to detect RF field-induced heating of a lead tip and,</para>
+      <para><emphasis role="bold">Figure 8.</emphasis> Normalized signal from a pick-up coil (PUC) as a measure of the current in one  element of a parallel-transmit (pTx) coil array when a phantom with (open squares) and  without (solid dots) a disconnected cardiac pacemaker lead inside is moved through the  MR system. Decreased pick-up signal reflects increased coupling of the load (i.e., the  phantom plus implant) to the RF coil element. Temperature measurements at patient table  positions, <emphasis role="bold">a</emphasis> and <emphasis role="bold">b</emphasis>, showed no or negligible heating, respectively, while a temperature in- crease of 43.7 K within 30 seconds was observed at position <emphasis role="bold">c</emphasis>, indicating a strong corre- lation between the detected RF coil-implant coupling and the heating effect. Adapted  from color figure in Winter, et al. (1), original figure from Graesslin, et al. (86).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0409.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>therefore, could be utilized in a pre-scan MRI procedure (91). Translating such ultrasound- based systems to a robust clinical <emphasis role="italics">in vivo</emphasis> application is challenging, however (i.e., due to  receiver size and positioning, movement, acoustic window, signal-to-noise constraints,  quantified measurements etc.), and still needs to be demonstrated.</para>
+      <para><emphasis role="italics">MR-Based Methods</emphasis>. The MR scanner itself is a versatile machine, and several publica- tions demonstrated that it could be utilized for a noninvasive, implant safety assessment  and monitoring, <emphasis role="italics">in vivo</emphasis>. However, this is ongoing research and not yet routinely available.</para>
+      <para>For elongated implants, tip heating is related to the induced RF currents in the implant  (92), which then induce a new <emphasis role="italics">B</emphasis>1,<emphasis role="italics">ind</emphasis>-field altering the total <emphasis role="italics">B</emphasis><superscript>+</superscript>1. Consequently, tip heating  can be estimated by MR-based measurements of <emphasis role="italics">B</emphasis><superscript>+</superscript>1 around the implant (93, 94) (<emphasis role="bold">Figure </emphasis> <emphasis role="bold">9</emphasis>). If <emphasis role="italics">B</emphasis>1,<emphasis role="italics">ind</emphasis> has a <emphasis role="italics">z</emphasis>-component, it will also shift the RF phase (95).</para>
+      <para>Implant-related image <emphasis role="italics">B</emphasis>1 effects can also be translated to direct measurements of the  induced RF current in the implant. This may appear as a detour because, ultimately, the  quantity of interest is temperature, and implant current is only a surrogate. The advantage  of current measurements is their sensitivity. In principle, relatively small and harmless im- plant currents are detectable <emphasis role="italics">in vivo</emphasis>, while a measurable temperature rise may be potentially  hazardous for the patient. Frequently, model assumption like a perfect quadrature excitation  or simplifications like a quasi-static treatment neglecting displacement currents are being  used to facilitate direct current quantification without extensive numerical simulations. The  measured <emphasis role="italics">B</emphasis><superscript>+</superscript>1 magnitude at a certain radius from the conductor can be converted into the  magnitude of the current by applying a simplified Ampere’s circuit law (96–98). The back- ground signal around the lead, which <emphasis role="italics">in vivo</emphasis> is often inhomogeneous, represents a source  of error for magnitude-based methods. A way to suppress this background signal is by using  reversed RF polarization on the transmitter and receiver (98) (<emphasis role="bold">Figure 9</emphasis>). In this manner,  ideally only the implant coupling is visualized in the MR image and can be used to deter- mine the current amplitude. On the receiver side, reverse polarization reconstruction is in- trinsic to the acquired dataset, while on the transmit side, parallel RF transmission (pTx)  systems with ≥ 2 channels would allow for reversed polarization during transmission.</para>
+      <para>Another method to quantify induced currents is based on analyzing the phase of an MR  image around the implant (99). This way, RF field-induced implant currents can be detected  with a low SAR, pre-scan sequence that poses no hazard in itself. Since the RMS-averaged  RF current in the implant is proportional to <emphasis role="italics">B</emphasis>1+RMS, the result from the pre-scan can easily  be scaled to subsequent MR imaging sequences at higher SAR levels. Compared to magni- tude-based methods, phase-based current measurements are potentially faster, independent  of proton-density weighting and have lower SNR requirements. A disadvantage of phase- based methods is their sensitivity to gradient nonlinearities and phase variations of other  origin, such as frequency shifts due to temperature variations, susceptibility jumps at inter- faces, or blood flow. To reduce these influences, short echo times combined with a fast read- out using an ultra-short echo time (UTE) sequence was applied <emphasis role="italics">in vivo</emphasis> and demonstrated  the ability to characterize RF currents within an accuracy of ~10 mA/μT (100). Based on  these measurements and some simplifying assumptions, the corresponding RF-induced im- plant heating could be predicted accurately. Another relatively simple method to assess not  only the current magnitude but also its phase <emphasis role="italics">in vivo</emphasis> is based on using multi-channel receive</para>
+      <para>coils; it was applied for analyzing the image artifact around a deep brain stimulation (DBS)  lead (101). Typically, two null-locations can be identified in the signal intensity emerging  from the transmitter and receiver separately. Since the location of the receiver-null is inde- pendent of the transmitter and different for each receiver element, the receiver-null and  transmitter-null locations can be identified independently by inspecting the MR images  from each receive-coil element separately. The phase of the current can then be calculated  from the geometric null location and is an important parameter to allow mitigation of RF  field-induced currents on the DBS lead using pTx systems (101).</para>
+      <para>The MR-based determination of the transfer function represents another promising ap- proach to measure implant currents (48, 102). This expands the TF approach beyond phan- toms to more complex exposure scenarios with realistic tissue heterogeneity, implant  geometry and location. The methodology uses the wire-like implant as a transceiver antenna.  The implant is excited via a coaxial cable soldered to its tip and the resulting current distri- bution along its trajectory, reflecting the transfer function by virtue of the principle of rec- iprocity– can be measured by MRI (48, 51). The necessity to connect a cable to the implant  modifies the TF, however, and prevents <emphasis role="italics">in vivo</emphasis> applications. This restriction was overcome  by the introduction of the transfer matrix. This approach measures the RF field-induced  currents in the implant directly and without the need of any galvanic contact from MR meas- urements alone (102–104) (<emphasis role="bold">Figure 10</emphasis>). The transfer matrix derived from this data contains</para>
+      <para><emphasis role="bold">Figure 9.</emphasis> MR image artifacts associated with induced current in a wire. If the wire is not  coupled to the RF fields, only small signal changes indicate the location of the wire. If the  wire is coupled to the transmitted RF energy, the current induced in the wire alters the <emphasis role="italics">B</emphasis><superscript>+</superscript>1  distribution in its vicinity and leads to severe signal changes, resulting in bright and dark  spots along the wire. Reversing the polarization of the birdcage RF coil shows only the  wire currents, while the background signal disappears. Reproduced from Winter, et al.  (1), original figure from Overall, et al. (98).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0410.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>not only the full TF, but additionally determines the total current along the implant for a  given exposure situation. This allows not only the ability to fully evaluate tip heating based  on an incident background field but also to assess other locations of potential RF-induced  heating along the implant. Like its “ancestor” TF, the transfer matrix describes how the im- plant responds to a pre-existing background <emphasis role="italics">E</emphasis>-field. Therefore, the latter must be known,  that is, simulations are still required while the aforementioned sensor-based methods are,  in principle, independent of such prior knowledge. The techniques applied for transfer-ma- trix acquisition have similarities with electric-properties tomography (EPT) (105, 106) and  consequently share some of its problems as well, most notably the transceive-phase approx- imation and assumptions on the vector orientation of <emphasis role="italics">B</emphasis><superscript>+</superscript>1 and <emphasis role="italics">E</emphasis>.</para>
+      <para>Most of these described MR-based techniques to assess implant safety still need further  investigations, in particular if more complex implant geometries or locations, multiple im- plants or complex lead trajectories come into play. Also, most of these MR-based current- measurement techniques assume a homogeneous or known <emphasis role="italics">B</emphasis>1 transmit and/or receive field  to work accurately (100, 101). These assumptions are increasingly difficult to attain at higher  field strengths, which may limit the general applicability of such methods.</para>
+      <para>Current measurements are only an indirect measure of implant heating because they  rely on thermal models that might be incomplete (e.g., neglecting perfusion or thermoreg- ulation). Measuring temperatures around the implant is a more direct assessment of implant  safety and a variety of temperature-dependent MR contrasts exists that can be exploited for  that purpose (107, 108). As of today, however, MR thermometry could not replace RF- power monitoring in conjunction with dedicated SAR models as an MRI-related safety</para>
+      <para><emphasis role="bold">Figure 10.</emphasis> Simulation  based construction of the  transfer matrix by apply- ing a localized incident  electric field. The rows of  the transfer matrix are the  current distributions for  the various excitations.  The transfer function is the  first column of the transfer  matrix. The transfer matrix  for an implant can be de- termined solely by MRI  measurements, that is, <emphasis role="italics">B</emphasis><superscript>+</superscript>1,  and transceiver phase dis- tributions. Adapted from  color figure in Winter, et  al. (1), original figure from  Tokaya, et al. (103).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0411.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>monitor. One reason is its vulnerability to subject-specific error sources that may compro- mise temperature-reading accuracy <emphasis role="italics">in vivo</emphasis> beyond acceptable levels. In the presence of im- plants, accurate MR thermometry is even more challenging due to additional artifacts and  signal voids around implants. Nevertheless, several studies have been performed showing  the potential of MR thermometry around implants to assess heating with reasonable accu- racies &lt;1℃ compared to fiber-optic thermometry (45, 109). Additional research is warranted  to study the development and validation of robust, fast and accurate MR thermometry for  <emphasis role="italics">in vivo</emphasis> applications around implants, which has an enormous potential impact on patient  safety.</para>
+    </sect1>
+    <sect1 id="ch0020s13">
+      <title>MITIGATION STRATEGIES</title>
+      <para>Mitigation strategies, that is, active countermeasures against implant heating, can target  either the background <emphasis role="italics">E</emphasis>-field the implant is exposed to or the scattered <emphasis role="italics">E</emphasis>-field generated  by the implant. The latter methods may require the implant manufacturer to modify the im- plant in terms of geometry, size, or materials, while the former addresses the MR system  manufacturer because it requires variations in transmit RF coil design or transmission-field  properties to reduce heating independently of the implant type. Mitigation of gradient field- induced heating is not yet supported by implant or scanner manufacturers. Therefore, to  date, it is up to the MR system operator’s common sense to avoid critical scenarios that  may be injurious to patients.</para>
+      <para><emphasis role="bold">Implant Geometry and Materials </emphasis></para>
+      <para>Suppressing RF field-induced currents by replacing electrically conductive material is  the ideal solution but not always feasible. Other alterations of the implant structure can be  implemented, which at least reduce RF-induced currents and possibly allow them to shift  their occurrence to less critical areas. These techniques can be grouped into the following  approaches:</para>
+      <para>1) Increasing the resistivity of the implant reduces the induced currents (110–112).  2) Increasing the capacitance (permittivity and thickness) and conductivity of the insulation  around the conductor attenuates the wave propagation along the conductor (113).  3) Implementing “RF chokes” or traps, that is, resonating circuits tuned to block RF currents  at the Larmor frequency (112, 114, 115).   4) Adding inductances (e.g., by helical winding for one-dimensional implants) or capaci- tances (e.g., by adding dielectric materials) along the conductive lengths of the implant  (116–119). This way, low-pass or high-pass filters are implemented, blocking or reducing  RF-induced currents along the implant.   5) Cloaking the implant by using metamaterials (i.e., material engineered to have a property  not found in naturally occurring materials) to reduce RF field interactions (120, 121).  While approaches (1), (2) and (5) focus on reducing the magnitude of the induced cur- rent, approaches, approaches (3) and (4) change the effective resonant length of the wire/im- plant. In the latter case, the result is frequency dependent, implying that the same  configuration that safely reduces heating at 1.5 T/64 MHz might not be working effectively  at 3 T/128 MHz, and vice versa.</para>
+      <para><emphasis role="bold">Parallel Transmission </emphasis></para>
+      <para>Each transmit RF coil produces a characteristic <emphasis role="italics">E</emphasis>-field distribution inside the human  body. If a second coil element with another characteristic <emphasis role="italics">E</emphasis>-field distribution is added, the  overall incident <emphasis role="italics">E</emphasis>-field is a coherent superposition of both <emphasis role="italics">E</emphasis>-field vectors. In particular, the  phase difference, which allows the incident <emphasis role="italics">E</emphasis>-field vectors to be of opposite direction at a  particular location, provides an opportunity to reduce the background <emphasis role="italics">E</emphasis>-field in dedicated  regions. Most importantly, the relative pulse amplitudes and phases for different RF coil  elements can be changed at the pulse sequence level without hardware modifications and,  at least in principle, in real-time. A birdcage RF coil, the standard body RF coil design for  many clinical MR systems, consists of two ports driven with a 90° phase difference to  achieve the CP or quadrature-driven mode. However, if the two channels are driven indi- vidually as two independent linear polarization modes, the <emphasis role="italics">E</emphasis>-field distribution in the human  body can change completely. Eryaman, et al. (122) have demonstrated that the linear mode  has <emphasis role="italics">E</emphasis>-field null zones in which an implant would be exposed to highly reduced background  <emphasis role="italics">E</emphasis>-field, hence strongly reduced RF field-induced heating. If the linear birdcage modes are  combined, accordingly, to reduce the RF current on an implant such as a lead, this two- channel, pTx system effectively mitigates RF heating (101, 123–125) (<emphasis role="bold">Figure 11</emphasis>).</para>
+      <para><emphasis role="bold">Figure 11.</emphasis> Detection and mitigation of RF-induced tip heating of a deep brain stimulation  lead in a cadaver brain using an MR image-based method and a two-channel, parallel- transmission system. For the “implant friendly” mode, RF-induced tip heating (<emphasis role="bold">a</emphasis>, square  box) was reduced substantially versus the quadrature transmission mode (b, square box),  while at the same time image quality is improved. Adapted from color figure in Winter, et  al. (1), original figure from Eryaman, et al. (101).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0412.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>Increasing the number of pTx channels increases the degrees of freedom to reduce the  <emphasis role="italics">E</emphasis>-field near the implant and, hence, suppresses unwanted hotspots with minimal loss of di- agnostic image quality (126–130) (<emphasis role="bold">Figure 12</emphasis>). This is achieved in an optimization process  that also reveals the worst-case and best-case RF heating scenario for a particular implant  and transmit RF coil configuration, indicating the potential safety risk margins (131, 132).  Investigators have demonstrated that an eight-channel pTx coil outperforms a four-channel  pTx coil in suppressing unwanted SAR hotspots induced by DBS leads (130, 133, 134).  Other constraints that can be embedded in the optimization of the RF pulse process are local  SAR, whole-body averaged SAR, adaptive SAR (135), or the k-space trajectory for spokes  pulses (127).</para>
+      <para>Interestingly, these pTx techniques are not restricted to proof-of-concept studies in phan- toms on simplified implant geometries under controlled conditions; they could be an actual  game changer for patients with implants that have complex geometries. This was recently  demonstrated by two independent simulation studies investigating pTx mitigation of RF- induced heating of DBS leads with realistic trajectories extracted from CT-based patient  data (130, 134) (<emphasis role="bold">Figure 12</emphasis>). Those studies showed that the local SAR could be decreased  by more than 94% compared to body RF coil excitation at comparable <emphasis role="italics">B</emphasis><superscript>+</superscript>1 homogeneity  and global SAR. These results suggest that pTx systems could be a viable strategy to deal  with the increasing complexity and number of medical implants in patients undergoing MRI</para>
+      <para><emphasis role="bold">Figure 12.</emphasis> Simulation-based  parallel-transmit (pTx) miti- gation (<emphasis role="bold">a</emphasis>) of RF-induced tip  heating of a deep brain stim- ulation lead (<emphasis role="bold">b</emphasis>) based on re- alistic trajectories and  models obtained from pa- tient data (<emphasis role="bold">c</emphasis>). A higher num- ber of pTx channels reduces  the absolute induced implant  SAR values and decreases  their standard deviation  across the simulated patient  population (<emphasis role="bold">d</emphasis>). Adapted  from color figure in Winter,  et al. (1), original figure  from Mc Elcheran, et al.  (134).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0413.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>exams. However, more validation studies are needed to support this claim. Access to robust  and flexible pTx system hardware is still very limited. Fortunately, efforts exist to attend to  this need such as the ongoing development of an open-source, hardware-based pTx im- plant-safety testbed, which is adaptable to experiments with up to 32-channels at all relevant  static magnetic field strengths (i.e., 1.5 to 7 Tesla) (136).</para>
+      <para>An interesting approach is to combine sensor measurements from on or around implants  and use this information for pTx based mitigation. This has been demonstrated by using  time-domain current (129, 132) and <emphasis role="italics">E</emphasis>-field sensors (136). More recently, even simple RMS  sensors such as thermistors or diodes were utilized in proof-of-concept studies for real-time  mitigation of RF-induced heating. In addition to being real-time capable, these sensor meas- urements also contain imaging information that can be used to maintain image quality, while  at the same time RF field-induced heating is reduced substantially (136, 137). While still  in its infancy, it is imaginable that in the future, sensor equipped “smart” medical implants  could communicating with a pTx cable MRI device to guarantee safe scanning of implants  even under varying conditions such as patient movement.</para>
+      <para><emphasis role="bold">Other Techniques </emphasis></para>
+      <para>If pTx hardware is not available, other methods can be applied to reduce implant heating  by shaping the RF field. For example, the linear-polarization mode of the birdcage RF coil  has regions of reduced <emphasis role="italics">E</emphasis>-field, and if these regions overlap with the implant, RF-induced  currents are reduced (122). If a birdcage coil had multiple ports along its circumference,  one could ‘rotate’ the linear-polarization mode by changing the feeding port. Similarly, a  birdcage coil in the linear-polarization mode with a single transmit channel can be physically  rotated to align the low <emphasis role="italics">E-field</emphasis> zone with the implant (138). This concept has been applied  to DBS leads and showed significant improvement compared to the standard CP mode of  the same birdcage coil (139). Another mitigation approach that does not rely on pTx tech- nology or modified RF coil hardware is to put high-permittivity material pads on the subject  at strategic locations. The high-permittivity dielectric modifies the background-field and it  has been demonstrated that this can be efficiently used to reduce RF field-induced tip heating  (140). A simple, but effective solution is using vertical MR scanners, where <emphasis role="italics">B</emphasis>0 is directed  perpendicular instead of parallel to the axis of the bore. Consequently, <emphasis role="italics">B</emphasis><superscript>+</superscript>1 and the <emphasis role="italics">E</emphasis>-field  directions change, and the same implant experiences a different background <emphasis role="italics">E</emphasis>-field. Sim- ulations have shown that more than a ten-fold tip SAR reduction could be achieved for re- alistic DBS implants and lead geometries if scanned in a vertical MR system versus a  horizontal one (141).</para>
+    </sect1>
+    <sect1 id="ch0020s14">
+      <title>CONCLUSIONS</title>
+      <para>This chapter reviewed the existing literature on MRI-related heating of implants and  devices. It should be noted that a number of topics had to be excluded because of space  limitations (e.g., interventional tools and devices, low-power pulse sequences, etc.), but the  crucial information for RF energy- and gradient field-induced heating of implants was pre- sented.</para>
+      <para>Implant safety is an important field in MRI and much has been accomplished, but fur- ther work is needed. Three international standards are most relevant in this field: the MRI  standard IEC 60601-2-33 and the implant standards that include ASTM F2182 and ISO/TS  10974. The latter set their scopes either on “passive” (ASTM) or “active” (ISO) implants.  From the implant manufacturer’s point of view, this distinction is fundamental since active  implants need electromagnetic compatibility (EMC) and other tests, while passive implants  do not. From an MRI perspective, however, this distinction appears less relevant. Passive  implant-related hazards are a subset of active implant-related hazards and are comprehen- sively covered by the document, ISO/TS 10974, as well. The document from the ASTM  International, ASTM F2182, was a significant milestone and many of its procedural devel- opments will prevail for the testing of passive implants. But no reasons exist, in these au- thors’ opinion, to maintain two implant standards in parallel. ISO/TS 10974 is in many  respects more up-to-date and more general. Accordingly, all implants, active or passive,  should be tested against it. Low-cost test procedures for low-risk implants would be on the  wish list for future editions. For example, test strategies to easily translate an existing safety  assessment from, say, one spinal fixation system to a similar one. The concept of an empir- ical parametrization of the implant-related hazard as demonstrated by Winter, et al. (45)  may be helpful in this context (<emphasis role="bold">Figure 13</emphasis>).</para>
+      <para>It is important to note that the assessments of implant safety that are based on the current  standards are always limited to a single, functional implant. Modifying this test scenario in  any electromagnetically relevant way such as having multiple MR Conditional implants  close to each other (83), multiple AIMD leads in close distance (142), or broken or aban- doned AIMD leads of a previously MR Conditional implant (143) may pose potential safety  hazards to the patient.</para>
+      <para>The paucity of peer-reviewed literature on gradient field-induced heating of implants  suggests that excessive heating occurs only in unfavorable and potentially, unrecognized  cases. Regardless, such cases are possible and, thus, it is unsatisfactory that presently, neither  the manufacturer of the scanner nor the implant informs the MR system operator’s when a  critical situation may arise and how to avoid it.</para>
+      <para>Accurate numerical simulations are the key to implant safety because they have reached  a high level of maturity and can provide both insight and practical solutions. Future devel- opments must be directed towards treating complex implants in realistic detail. To date,  ISO/TS 10974’s Tier 4 is only of conceptual but not yet of any practical value. Simulations  need validation, however, and measurements are often restricted to phantoms. This is ac- ceptable as long as phantom measurements are not misunderstood as predictive for the <emphasis role="italics">in </emphasis> <emphasis role="italics">vivo</emphasis> case. Phantom experiments are a testbed to validate the simulation methodology, trans- mit RF coil models, and other situations that are then identically applied to anatomical voxel  models.</para>
+      <para><emphasis role="italics">Ex ante</emphasis> simulations of certain numerical models remain surrogates, however. Ulti- mately, any safety assessment must be specific to the given subject or patient, implant, and  scan conditions. This means, that the scanner and implant must somehow “communicate”.  For example, the implant must “inform” the MR system about its presence and condition,  and the scanner must be able to “respond” to this input. The combination of real-time sensors</para>
+      <para><emphasis role="bold">Figure 13.</emphasis> Simulated results for the RF-induced heating of a coronary artery stent as a  function of different parameters (i.e., stent length, stent diameter, stent orientation, back- ground local SAR) (<emphasis role="bold">a - f</emphasis>). The data can be fitted to empirical functions in an <emphasis role="italics">n</emphasis>-dimen- sional parameter space, which can then be used to estimate the maximum induced stent  SAR values for a given background local SAR in a human-body model (<emphasis role="bold">g</emphasis>). This simula- tion-based parametrization approach for short implants gives a fast estimation of RF-in- duced heating and would enable a more generalized risk assessment of implant types  instead of performing a full safety assessment for each new implant design. Adapted from  color figure in Winter, et al. (1), original figure from Winter, et al. (45).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0414.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      <para>(temperature, current, <emphasis role="italics">E</emphasis>-field, etc.) on the implant and a pTx system incorporated into the  MR scanner would be most helpful to achieve this goal, but other approaches are certainly  conceivable.</para>
+      <para>In implant safety-related discussions, it is often taken for granted that lower static mag- netic field strengths automatically reduce the risk. ISO/TS 10974 or the Fixed-Parameter  Option were initially conceived for 1.5 T but not for 3 T MR systems and, recently, the idea  of dedicated or niche, low field strength scanners with fields less than 0.6 T (and as low as  0.05 T) is gaining new attention (144-147). Conceptually, the translation of <emphasis role="italics">B</emphasis>1+RMS into im- plant SAR, for example, at the tip of a cardiac pacemaker lead, is a two-step process, how- ever. First, <emphasis role="italics">B</emphasis>1+RMS creates a background <emphasis role="italics">E</emphasis>-field. This effect scales with the frequency, hence  <emphasis role="italics">B</emphasis>0, and the lower field strength may have the safety edge. In the second step, background  <emphasis role="italics">E</emphasis>-field creates the tip <emphasis role="italics">E</emphasis>-field, and this conversion scales linearly with the RF wavelength  in tissue (as long as half this wavelength is shorter than the implant and the transmit body  RF coil). This time, the higher field strength has the advantage. Qualitatively, this effect  can be seen in <emphasis role="bold">Figure 14</emphasis> (148). There is no universal answer to the question of a safest  field strength, therefore, the individual implant, transmit RF coil, and scan parameters must  be considered.</para>
+      <para>(This chapter is based on Winter L, Seifert F, Zilberti L, Murbach M, Ittermann B. MRI- related heating of implants and devices: A review. J Magn Reson Imaging 2021;53:1646- 1665.)</para>
+      <para><emphasis role="bold">Figure 14.</emphasis> Temperature increase per local background SAR for different stent lengths.  RF-induced heating experiments were performed in phantoms and conducted according  to ASTM F2182. Adapted from color figure in Winter, et al. (1), original figure from  Song, et al. (148).</para>
+      <figure>
+        <title />
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="fig0415.png" width="100%" scalefit="1" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      </sect1>
+    <sect1 id="ch0020s15">
+      <title>ACKNOWLEDGMENTS</title>
+      <para>The authors wish to thank Alessandro Arduino, Oriano Bottauscio, Rüdiger Brühl,  Mario Chiampi, Niels Kuster, Johannes Petzold, Berk Silemek, and Umberto Zanovello for  many helpful discussions. This work was supported by funding from the EMPIR programme  co-financed by the Participating States and from the European Union’s Horizon 2020 re- search and innovation programme (grant 17IND01 – MIMAS).</para>
+    </sect1>
+    <sect1 id="ch0020s16">
+      <title>REFERENCES</title>
+      <para>1.  Winter L, Seifert F, Zilberti L, Murbach M, Ittermann B. MRI-related heating of implants and devices:  A review. J Magn Reson Imaging 2021;53:1646-1665.</para>
+      <para>2.  Davis P, Crooks L, Arakawa M, et al. Potential hazards in NMR imaging: Heating effects of changing  magnetic fields and RF fields on small metallic implants. Am J Roentgenol 1981;137:857–860.</para>
+      <para>3.  Nyenhuis JA, Sung-Min Park, Kamondetdacha R, et al. MRI and implanted medical devices: Basic in- teractions with an emphasis on heating. IEEE Trans Device Mater Reliab 2005;5:467–480.</para>
+      <para>4.  Baker KB, Tkach JA, Nyenhuis JA, et al. Evaluation of specific absorption rate as a dosimeter of MRI- related implant heating. J Magn Reson Imaging 2004;20:315–320.</para>
+      <para>5.  Irnich W, Irnich B, Bartsch C, et al. Do we need pacemakers resistant to magnetic resonance imaging?  EP Eur 2005;7:353–365.</para>
+      <para>6.  Ferris NJ, Kavnoudias H, Thiel C, Stuckey S. The 2005 Australian MRI safety survey. Am J Roentgenol  2007;188:1388–1394.</para>
+      <para>7.  Kanal E, Barkovich AJ, Bell C, et al. ACR guidance document on MR safe practices: 2013. J Magn  Reson Imaging 2013;37:501–530.</para>
+      <para>8.  Rezai AR, Baker KB, Tkach JA, et al. Is magnetic resonance imaging safe for patients with neurostim- ulation systems used for deep brain stimulation? Neurosurgery 2005;57:1056-62.</para>
+      <para>9.  Spiegel J, Fuss G, Backens M, et al. Transient dystonia following magnetic resonance imaging in a pa- tient with deep brain stimulation electrodes for the treatment of Parkinson disease: Case report. J Neu- rosurg 2003;99:772–774.</para>
+      <para>10.  Henderson JM, Tkach J, Phillips M, et al. Permanent neurological deficit related to magnetic resonance  imaging in a patient with implanted deep brain stimulation electrodes for Parkinson's disease: Case re- port. Neurosurgery 2005;57:E1063.</para>
+      <para>11.  Shellock FG. Reference Manual for Magnetic Resonance Safety, Implants and Devices: 2020 Edition.  Los Angeles: Biomedical Research Publishing Group; 2020.</para>
+      <para>12.  Rezai AR, Phillips M, Baker KB, et al. Neurostimulation system used for deep brain stimulation (DBS):  MR safety issues and implications of failing to follow safety recommendations. Invest Radiol  2004;39:300–303.</para>
+      <para>13.  Zanchi MG, Venook R, Pauly JM, Scott GC. An optically coupled system for quantitative monitoring  of MRI-induced RF currents into long conductors. IEEE Trans Med Imaging 2010;29:169–178.</para>
+      <para>14.  Kraff O, Quick HH. Sicherheit von Implantaten im Hochfeld-und Ultrahochfeld-MRT. Radiol 2019:1– 8.</para>
+      <para>15.  MRI Safety Resources. International Society for Magnetic Resonance in Medicine (ISMRM) and Society  for MR Radiographers &amp; Technologists (SMRT). Available at https://www.ismrm.org/mr-safety-links/.</para>
+      <para>16.  MRI Safety Resource. Available at http://www.mrisafety.com/.</para>
+      <para>17.  Dempsey MF, Condon B, Hadley DM. Investigation of the factors responsible for burns during MRI. J  Magn Reson Imaging 2001;13:627–631.</para>
+      <para>18.  Brühl R, Ihlenfeld A, Ittermann B. Gradient heating of bulk metallic implants can be a safety concern  in MRI. Magn Reson Med 2017;77:1739–1740.</para>
+      <para>19.  Zilberti L, Arduino A, Bottauscio O, Chiampi M. The underestimated role of gradient coils in MRI  safety. Magn Reson Med 2017;77:13–15.</para>
+      <para>20.  Graf H, Steidle G, Schick F. Heating of metallic implants and instruments induced by gradient switching  in a 1.5-Tesla whole-body unit. J Magn Reson Imaging 2007;26:1328–1333.</para>
+      <para>21.  Bannan KE, Handler W, Chronik B, Salisbury SP. Heating of metallic rods induced by time-varying  gradient fields in MRI. J Magn Reson Imaging 2013;38:411–416.</para>
+      <para>22.  Zilberti L, Bottauscio O, Chiampi M, et al. Collateral thermal effect of MRI-LINAC gradient coils on  metallic hip prostheses. IEEE Trans Magn 2014;50:1–4.</para>
+      <para>23.  Zilberti L, Bottauscio O, Chiampi M, et al. Numerical prediction of temperature elevation induced around  metallic hip prostheses by traditional, split, and uniplanar gradient coils. Magn Reson Med 2015;74:272– 279.</para>
+      <para>24.  Arduino A, Bottauscio O, Brühl R, Chiampi M, Zilberti L. <emphasis role="italics">In silico</emphasis> evaluation of the thermal stress in- duced by MRI switched gradient fields in patients with metallic hip implant. Phys Med Biol  2019;64:245006.</para>
+      <para>25.  Pennes HH. Analysis of tissue and arterial blood temperatures in the resting human forearm. Appl Physiol  1948;1:93–122.</para>
+      <para>26.  Wissler EH. Pennes’ 1948 paper revisited. J Appl Physiol 1998;85:35–41.</para>
+      <para>27.  EM and thermal tissue parameter database. Available at https://itis.swiss/virtual-population/tissue-prop- erties/database/database-summary/.</para>
+      <para>28.  Collins CM, Liu W, Wang J, et al. Temperature and SAR calculations for a human head within volume  and surface coils at 64 and 300 MHz. J Magn Reson Imaging 2004;19:650–656.</para>
+      <para>29.  van Rhoon GC, Samaras T, Yarmolenko PS, et al. CEM43°C thermal dose thresholds: A potential guide  for magnetic resonance radiofrequency exposure levels? Eur Radiol 2013;23:2215–2227.</para>
+      <para>30.  Sapareto SA, Dewey WC. Thermal dose determination in cancer therapy. Int J Radiat Oncol Biol Phys  1984;10:787–800.</para>
+      <para>31.  Yarmolenko PS, Moon EJ, Landon C, et al. Thresholds for thermal damage to normal tissues: An update.  Int J Hyperthermia 2011;27:320–343.</para>
+      <para>32.  Murbach M, Neufeld E, Capstick M, et al. Thermal tissue damage model analyzed for different whole- body SAR and scan durations for standard MR body coils: Thermal dose and tissue damage in MR RF  heating. Magn Reson Med 2014;71:421–431.</para>
+      <para>33.  Arduino A, Zanovello U, Hand J, et al. Heating of hip joint implants in MRI: The combined effect of  RF and switched-gradient fields. Magn Reson Med 2021;85:3447–3462.</para>
+      <para>34.  Delfino JG, Woods TO. New developments in standards for MRI safety testing of medical devices. Cur- rent Radiology Reports 2016;4:1-9.</para>
+      <para>35.  Establishing Safety and Compatibility of Passive Implants in the Magnetic Resonance (MR) Environ- ment - Guidance for Industry and Food and Drug Administration Staff. Food and Drug Administration,  2014.</para>
+      <para>36.  Assessment of Radiofrequency-Induced Heating in the Magnetic Resonance (MR) Environment for  Multi-Configuration Passive Medical Devices - Guidance for Industry and Food and Drug Administration  Staff. Food and Drug Administration, 2016.</para>
+      <para>37.  IEC 60601-2-33:2010+AMD1:2013+AMD2:2015 CSV: Medical electrical equipment - particular re- quirements for the basic safety and essential performance of magnetic resonance equipment for medical  diagnosis. Edition 3.2. International Electrotechnical Commission (IEC). 2015.</para>
+      <para>38.  ASTM F2182-19<superscript>2e</superscript>. Standard test method for measurement of radio frequency induced heating on or  near passive implants during magnetic resonance imaging. American Society of Testing and Materials  International. 2019.</para>
+      <para>39.  International Organization for Standardization (ISO), Technical Specification (TS) ISO/TS 10974:2018.  Assessment of the safety of magnetic resonance imaging for patients with an active implantable medical  device. Second Edition. 2018.</para>
+      <para>40.  F2503-20. Standard practice for marking medical devices and other items for safety in the magnetic res- onance environment. American Society of Testing and Materials International.  2020.</para>
+      <para>41.  Food and Drug Administration (FDA). Testing and Labeling Medical Devices for Safety in the Magnetic  Resonance (MR) Environment. Guidance for Industry and Food and Drug Administration Staff. Food  and Drug Administration, 2021.</para>
+      <para>42.  Park S-M, Kamondetdacha R, Nyenhuis JA. Calculation of MRI-induced heating of an implanted med- ical lead wire with an electric field transfer function. J Magn Reson Imaging 2007;26:1278-1285.</para>
+      <para>43.  Umashankar K, Taflove A. A novel method to analyze electromagnetic scattering of complex objects.  IEEE Trans Electromagn Compat 1982;EMC-24:397–405.</para>
+      <para>44.  Li BK, Liu F, Weber E, Crozier S. Hybrid numerical techniques for the modelling of radiofrequency  coils in MRI. NMR Biomed 2009;22:937–951.</para>
+      <para>45.  Winter L, Oberacker E, Özerdem C, et al. On the RF heating of coronary stents at 7.0 Tesla MRI. Magn  Reson Med 2015;74:999–1010.</para>
+      <para>46.  Santoro D, Winter L, Müller A, et al. Detailing radio frequency heating induced by coronary stents: A  7.0 Tesla magnetic resonance study. PLoS One 2012;7:e49963.</para>
+      <para>47.  Yeung CJ, Susil RC, Atalar E. RF safety of wires in interventional MRI: Using a safety index. Magn  Reson Med 2002;47:187–193.</para>
+      <para>48.  Tokaya JP, Raaijmakers AJE, Luijten PR, Bakker JF, van Den Berg CA. MRI-based transfer function  determination for the assessment of implant safety. Magn Reson Med 2017;78:2449–2459.</para>
+      <para>49.  Attaran A, Handler WB, Wawrzvn K, Chronik BA. Development of a transfer-function measurement  procedure for the evaluation’s of MRI-conditional medical devices at 3T. IEEE Can Conf Electr Comput  Eng (CCECE). 2018:1–4.</para>
+      <para>50.  Missoffe A, Aissani S. Experimental setup for transfer function measurement to assess RF heating of  medical leads in MRI: Validation in the case of a single wire. Magn Reson Med 2018;79:1766-1772.</para>
+      <para>51.  Feng S, Qiang R, Kainz W, Chen J. A technique to evaluate MRI-induced electric fields at the ends of  practical implanted lead. IEEE Trans Microw Theory Tech 2015;63:305–313.</para>
+      <para>52.  Feng S, Wang Q, Wen C, et al. Simplified transfer function assessment of implantable leads for MRI  safety evaluations. IEEE Trans Electromagn Compat 2019;61:1432–1437.</para>
+      <para>53.  Mattei E, Censi F, Calcagnini G, Lucano E, Angelone LM. A combined computational and experimental  approach to assess the transfer function of real pacemaker leads for MR radiofrequency-induced heating.  Magn Reson Mater Phys Biol Med 2021.</para>
+      <para>54.  Fiedler TM, Ladd ME, Bitz AK. SAR simulations and safety. Neuroimage 2018;s168:33–58.</para>
+      <para>55.  Murbach MJ. EMF risk assessment: Exposure assessment and safety considerations in MRI and other  environments. Doctoral Thesis. Research Collection. ETH Zürich; 2013.</para>
+      <para>56.  Ittermann B, Bottauscio O, Hand J, et al. Metrology for MRI Safety. Seventeenth Int Congr Metrol. EDP  Sciences 2015:09001.</para>
+      <para>57.  Noureddine Y, Kraff O, Ladd ME, et al. <emphasis role="italics">In vitro</emphasis> and <emphasis role="italics">in silico</emphasis> assessment of RF-induced heating around  intracranial aneurysm clips at 7 Tesla. Magn Reson Med 2018;79:568–581.</para>
+      <para>58.  Noureddine Y, Kraff O, Ladd ME, et al. Radiofrequency induced heating around aneurysm clips using  a generic birdcage head coil at 7 Tesla under consideration of the minimum distance to decouple multiple  aneurysm clips. Magn Reson Med 2019;82:1859-1875.</para>
+      <para>59.  Murbach M, Neufeld E, Cabot E, et al. Virtual population-based assessment of the impact of 3 Tesla ra- diofrequency shimming and thermoregulation on safety and <emphasis role="italics">B</emphasis><superscript>+</superscript>1 uniformity: Safety and thermoregulation  in 3T RF shimming. Magn Reson Med 2016;76:986–997.</para>
+      <para>60.  Adriany G, Moortele P-FV de, Wiesinger F, et al. Transmit and receive transmission line arrays for 7  Tesla parallel imaging. Magn Reson Med 2005;53:434-445.</para>
+      <para>61.  Vaughan JT, Adriany G, Snyder CJ, et al. Efficient high-frequency body coil for high-field MRI. Magn  Reson Med 2004;52:851–859.</para>
+      <para>62.  Gosselin M-C, Neufeld E, Moser H, et al. Development of a new generation of high-resolution anatom- ical models for medical device evaluation: The virtual population 3.0. Phys Med Biol 2014;59:5287- 5303.</para>
+      <para>63.  Saito K, Sato K, Kinase S, Nagaoka T. Japanese Computational Phantoms: Otoko, Onago, JM, JM2, JF,  TARO, HANAKO, Pregnant Woman, and Deformable Child. In: Handb Anat Models Radiat Dosim.  CRC Press; 2009. pp. 241–274.</para>
+      <para>64.  Ackerman MJ. The visible human project. Proc IEEE 1998;86:504–511.</para>
+      <para>65.  Makarov SN, Noetscher GM, Yanamadala J, et al. Virtual human models for electromagnetic studies  and their applications. IEEE Rev Biomed Eng 2017;10:95–121.</para>
+      <para>66.  Gabriel S, Lau RW, Gabriel C. The dielectric properties of biological tissues: II. Measurements in the  frequency range 10 Hz to 20 GHz. Phys Med Biol 1996;41:2251–2269.</para>
+      <para>67.  Zilberti L, Zanovello U, Arduino A, Bottauscio O, Chiampi M. RF-induced heating of metallic implants  simulated as PEC: Is there something missing? Magn Reson Med 2021; 85:583–586.</para>
+      <para>68.  Oberacker E, Paul K, Huelnhagen T, et al. Magnetic resonance safety and compatibility of tantalum  markers used in proton beam therapy for intraocular tumors: A 7.0 Tesla study. Magn Reson Med  2017;78:1533-1546.</para>
+      <para>69.  Destruel A, O’Brien K, Jin J, et al. Adaptive SAR mass-averaging framework to improve predictions of  local RF heating near a hip implant for parallel transmit at 7 T. Magn Reson Med 2019;81:615–627.</para>
+      <para>70.  Murbach M, Neufeld E, Kainz W, Pruessmann KP, Kuster N. Whole-body and local RF absorption in  human models as a function of anatomy and position within 1.5T MR body coil: MR RF exposure as a  function of large-scale anatomical properties. Magn Reson Med 2014;71:839–845.</para>
+      <para>71.  Yao A, Zastrow E, Neufeld E, Kuster N. Efficient and reliable assessment of the maximum local tissue  temperature increase at the electrodes of medical implants under MRI exposure. Bioelectromagnetics  2019;40:422–433.</para>
+      <para>72.  Kotte A, Leeuwen G van, Bree J de, et al. A description of discrete vessel segments in thermal modelling  of tissues. Phys Med Biol 1996;41:865-884.</para>
+      <para>73.  Kok HP, Gellermann J, Berg CAT van den, et al. Thermal modelling using discrete vasculature for ther- mal therapy: A review. Int J Hyperthermia 2013;29:336–345.</para>
+      <para>74.  Shrivastava D, Utecht L, Tian J, Hughes J, Vaughan JT. <emphasis role="italics">In vivo</emphasis> radiofrequency heating in swine in a 3T  (123.2-MHz) birdcage whole body coil: <emphasis role="italics">In vivo</emphasis> RF heating in 3T. Magn Reson Med 2014;72:1141– 1150.</para>
+      <para>75.  Zienkiewicz OC, Taylor RL. The Finite Element Method for Solid and Structural Mechanics. Seventh  Edition. Butterworth-Heinemann; 2013.</para>
+      <para>76.  Szczerba D, Neufeld E, Zefferer M, Buhlmann B, Kuster N. FEM Based Morphing of Whole Body  Human Models. 2011 XXXth URSI Gen Assem Sci Symp. Istanbul: IEEE; 2011: pp.1-3.</para>
+      <para>77.  Avants BB, Epstein CL, Grossman M, Gee JC. Symmetric diffeomorphic image registration with cross- correlation: Evaluating automated labeling of elderly and neurodegenerative brain. Med Image Anal  2008;12:26–41.</para>
+      <para>78.  Akbarzadeh A, Gutierrez D, Baskin A, et al. Evaluation of whole-body MR to CT deformable image  registration. J Appl Clin Med Phys 2013;14:4163.</para>
+      <para>79.  Tward D, Ceritoglu C, Sturgeon G, et al. Generating patient-specific dosimetry phantoms with whole- body diffeomorphic image registration. Bioeng Conf NEBEC 2011 IEEE 37th Annu Northeast  IEEE;2011:1–2.</para>
+      <para>80.  International Organization for Standardization. Guidance for uncertainty analysis regarding the appli- cation of ISO/TS 10974. ISO/TR 21900. 2018.</para>
+      <para>81.  Yao A, Zastrow E, Neufeld E, et al. Novel test field diversity method for demonstrating magnetic reso- nance imaging safety of active implantable medical devices. Phys Med Biol 2020;65:075004.</para>
+      <para>82.  Weidemann G, Seifert F, Hoffmann W, Ittermann B. RF current measurements in implanted wires in  phantoms by fiber optic current clamps. Proc Intl Soc Magn Reson Med 2015; 281.</para>
+      <para>83.  Reiss S, Lottner T, Ozen A, et al. Analysis of the RF excitation of endovascular stents in small gap and  overlap scenarios using an electro-optical <emphasis role="italics">E-field</emphasis> sensor. IEEE Trans Biomed Eng 2021;68:783-792</para>
+      <para>84.  Silemek B, Acikel V, Oto C, et al. A temperature sensor implant for active implantable medical devices  for <emphasis role="italics">in vivo</emphasis> subacute heating tests under MRI. Magn Reson Med 2018;79:2824–2832.</para>
+      <para>85.  Davidson B, Tam F, Yang B, et al. Three-tesla magnetic resonance imaging of patients with deep brain  stimulators: Results from a phantom study and a pilot study in patients. Neurosurgery 2021;88:349-355</para>
+      <para>86.  Graesslin I, Krueger S, Vernickel P, et al. Detection of RF unsafe devices using a parallel transmission  MR system. Magn Reson Med 2013;70:1440–1449.</para>
+      <para>87.  Ellenor CW, Stang PP, Etezadi-Amoli M, Pauly JM, Scott GC. Offline impedance measurements for  detection and mitigation of dangerous implant interactions: An RF safety prescreen. Magn Reson Med  2015;73:1328–1339.</para>
+      <para>88.  Graesslin I, Vernickel P, Börnert P, et al. Comprehensive RF safety concept for parallel transmission  MR. Magn Reson Med 2015;74:589–598.</para>
+      <para>89.  Luechinger R, Zeijlemaker VA, Pedersen electromagnetic, et al. <emphasis role="italics">In vivo</emphasis> heating of pacemaker leads dur- ing magnetic resonance imaging. Eur Heart J 2005;26:376–383.</para>
+      <para>90.  Winkler SA, Picot PA, Thornton MM, Rutt BK. Direct SAR mapping by thermoacoustic imaging: A  feasibility study. Magn Reson Med 2017;78:1599–1606.</para>
+      <para>91.  Dixit N, Stang PP, Pauly JM, Scott GC. Thermo-acoustic ultrasound for detection of RF-inducedd device  lead heating in MRI. IEEE Trans Med Imaging 2018;37:536–546.</para>
+      <para>92.  Acikel V, Uslubas A, Atalar E. Modeling of electrodes and implantable pulse generator cases for the  analysis of implant tip heating under MR imaging. Med Phys 2015;42:3922–3931.</para>
+      <para>93.  Camacho CR, Plewes DB, Henkelman RM. Nonsusceptibility artifacts due to metallic objects in MR  imaging. J Magn Reson Imaging 1995;5:75–88.</para>
+      <para>94.  Scott GC, Joy MLG, Armstrong RL, Henkelman RM. Electromagnetic considerations for RF current  density imaging [MRI technique]. IEEE Trans Med Imaging 1995;14:515–524.</para>
+      <para>95.  Graf H, Steidle G, Martirosian P, Lauer UA, Schick F. Effects on MRI due to altered rf polarization near  conductive implants or instruments. Med Phys 2006;33:124–127.</para>
+      <para>96.  Venook RD, Overall WR, Shultz K, et al. Monitoring induced currents on long conductive structures  during MRI. Proc Intl Soc Magn Reson Med 2008:898.</para>
+      <para>97.  van den Bosch MR, Moerland MA, Lagendijk JJ, Bartels LW, van den Berg CA. New method to monitor  RF safety in MRI-guided interventions based on RF induced image artefacts. Med Phys 2010;37:814– 821.</para>
+      <para>98.  Overall WR, Pauly JM, Stang PP, Scott GC. Ensuring safety of implanted devices under MRI using re- versed RF polarization. Magn Reson Med 2010;64:823–833.</para>
+      <para>99.  Griffin GH, Anderson KJT, Celik H, Wright GA. Safely assessing radiofrequency heating potential of  conductive devices using image-based current measurements. Magn Reson Med 2015;73:427–441.</para>
+      <para>100.  Griffin GH, Ramanan V, Barry J, Wright GA. Toward <emphasis role="italics">in vivo</emphasis> quantification of induced RF currents on  long thin conductors. Magn Reson Med 2018;80:1922–1934.</para>
+      <para>101.  Eryaman Y, Kobayashi N, Moen S, et al. A simple geometric analysis method for measuring and miti- gating RF induced currents on deep brain stimulation leads by multichannel transmission/reception.  NeuroImage 2019;184:658–668.</para>
+      <para>102.  Tokaya JP, Raaijmakers AJ, Luijten PR, van den Berg CAT. MRI-based, wireless determination of the  transfer function of a linear implant: Introduction of the transfer matrix. Magn Reson Med 2018;80:2771– 2784.</para>
+      <para>103.  Tokaya JP, Raaijmakers AJE, Luijten PR, Sbrizzi A, van den Berg CAT. MRI-based transfer function  determination through the transfer matrix by jointly fitting the incident and scattered <emphasis role="italics">B</emphasis><superscript>+</superscript>1 field. Magn  Reson Med 2020;83:1081-1095</para>
+      <para>104.  Tokaya JP, Berg CAT, Luijten PR, Raaijmakers AJE. Explaining RF induced current patterns on im- plantable medical devices during MRI using the transfer matrix. Med Phys 2021;48:132–141.</para>
+      <para>105.  Katscher U, van den Berg CAT. Electric properties tomography: Biochemical, physical and technical  background, evaluation and clinical applications. NMR Biomed 2017;30:e3729.</para>
+      <para>106.  Katscher U, Voigt T, Findeklee C, et al. Determination of electric conductivity and local SAR via B1  mapping. IEEE Trans Med Imaging 2009;8:1365–1374.</para>
+      <para>107.  Rieke V, Butts Pauly K. MR thermometry. J Magn Reson Imaging 2008;27:376–390.</para>
+      <para>108.  Winter L, Oberacker E, Paul K, et al. Magnetic resonance thermometry: Methodology, pitfalls and prac- tical solutions. Int J Hyperth 2016;32:63–75.</para>
+      <para>109.  Ehses P, Fidler F, Nordbeck P, et al. MRI thermometry: Fast mapping of RF field-induced heating along  conductive wires. Magn Reson Med 2008;60:457–461.</para>
+      <para>110.  Angelone LM, Ahveninen J, Belliveau JW, Bonmassar G. Analysis of the role of lead resistivity in spe- cific absorption rate for deep brain stimulator leads at 3T MRI. IEEE Trans Med Imaging 2010;29:1029– 1038.</para>
+      <para>111.  Mattei E, Calcagnini G, Censi F, Triventi M, Bartolini P. Role of the lead structure in MRI-induced heat- ing: <emphasis role="italics">In vitro</emphasis> measurements on 30 commercial pacemaker/defibrillator leads. Magn Reson Med  2012;67:925–935.</para>
+      <para>112.  Bottomley PA, Kumar A, Edelstein WA, Allen JM, Karmarkar PV. Designing passive MRI-safe im- plantable conducting leads with electrodes. Med Phys 2010;37:3828–3843.</para>
+      <para>113.  Golestanirad L, Angelone LM, Kirsch J, et al. Reducing RF field-inducedd heating near implanted leads  through high-dielectric capacitive bleeding of current (CBLOC). IEEE Trans Microw Theory Tech  2019;67:1265-1273.</para>
+      <para>114.  Griffin GH, Anderson KJT, Wright GA. Miniaturizing floating traps to increase RF safety of magnetic- resonance-guided percutaneous procedures. IEEE Trans Biomed Eng 2017;64:329–340.</para>
+      <para>115.  Ladd ME, Quick HH. Reduction of resonant RF heating in intravascular catheters using coaxial chokes.  Magn Reson Med 2000;43:615–619.</para>
+      <para>116.  Ferhanoglu O, Eryaman Y, Atalar E. MRI compatible pacemaker leads. Proc Intl Soc Magn Reson Med  2005;13:963.</para>
+      <para>117.  Baker KB, Tkach J, Hall JD, et al. Reduction of magnetic resonance imaging-related heating in deep  brain stimulation leads using a lead management device. Neurosurg 2005;57:392-7.</para>
+      <para>118.  Liu Y, Kainz W, Qian S, Wu W, Chen J. Effect of insulating layer material on RF field-induced heating  for external fixation system in 1.5 T MRI system. Electromagn Biol Med 2014;33:223–227.</para>
+      <para>119.  Nordbeck P, Weiss I, Ehses P, et al. Measuring RF field-induced currents inside implants: Impact of de- vice configuration on MRI safety of cardiac pacemaker leads. Magn Reson Med 2009;61:570–578.</para>
+      <para>120.  Zanovello U, Matekovits L, Zilberti L. An ideal dielectric coat to avoid prosthesis RF-artefacts in mag- netic resonance imaging. Sci Rep 2017;7:326.</para>
+      <para>121.  Zanovello U, Zilberti L, Matekovits L. A near-field cloaking study to reduce MRI RF-artefacts in pres- ence of elongated prostheses. IEEE J Electromagn RF Microw Med Biol 2018;2:249–256.</para>
+      <para>122.  Eryaman Y, Akin B, Atalar E. Reduction of implant RF heating through modification of transmit coil  electric field. Magn Reson Med 2011;65:1305–1313.</para>
+      <para>123.  Etezadi-Amoli M, Zanchi MG, Stang P, et al. Transmit array concepts for improved MRI safety in the  presence of long conductors. Proc Intl Soc Magn Reson Med 2009:4801.</para>
+      <para>124.  Eryaman Y, Turk EA, Oto C, Algin O, Atalar E. Reduction of the radiofrequency heating of metallic de- vices using a dual-drive birdcage coil. Magn Reson Med 2013;69:845–852.</para>
+      <para>125.  Córcoles J, Yao A, Kuster N. Experimental and numerical optimization modelling to reduce radiofre- quency-induced risks of magnetic resonance examinations on leaded implants. Appl Math Model  2021;96:177-188.</para>
+      <para>126.  Gudino N, Sonmez M, Yao Z, et al. Parallel transmit excitation at 1.5 T based on the minimization of a  driving function for device heating. Med Phys 2015;42:359–371.</para>
+      <para>127.  Eryaman Y, Guerin B, Akgun C, et al. Parallel transmit pulse design for patients with deep brain stimu- lation implants. Magn Reson Med 2015;73:1896–1903.</para>
+      <para>128.  Córcoles J, Zastrow E, Kuster N. Convex optimization of MRI exposure for mitigation of RF-heating  from active medical implants. Phys Med Biol 2015;60:7293-7308.</para>
+      <para>129.  Etezadi-Amoli M, Stang P, Kerr A, Pauly J, Scott G. Controlling radiofrequency-induced currents in  guidewires using parallel transmit. Magn Reson Med 2015;74:1790–1802.</para>
+      <para>130.  Guerin B, Angelone LM, Dougherty D, Wald LL. Parallel transmission to reduce absorbed power around  deep brain stimulation devices in MRI: Impact of number and arrangement of transmit channels. Magn  Reson Med 2020;83:299-311.</para>
+      <para>131.  Seifert F, Weidemann G, Ittermann B. Q matrix approach to control implant heating by transmit array  coils. Proc Intl Soc Magn Reson Med 2015:3212.</para>
+      <para>132.  Godinez F, Scott G, Padormo F, Hajnal JV, Malik SJ. Safe guidewire visualization using the modes of  a PTx transmit array MR system. Magn Reson Med 2020;83:2343–2355.</para>
+      <para>133.  McElcheran CE, Yang B, Anderson KJ, Golestanirad L, Graham SJ. Parallel radiofrequency transmission  at 3 tesla to improve safety in bilateral implanted wires in a heterogeneous model. Magn Reson Med  2017;78:2406–2415.</para>
+      <para>134.  McElcheran CE, Golestanirad L, Iacono MI, et al. Numerical simulations of realistic lead trajectories  and an experimental verification support the efficacy of parallel radiofrequency transmission to reduce  heating of deep brain stimulation implants during MRI. Sci Rep 2019;9:2124.</para>
+      <para>135.  Destruel A, Fuentes M, Weber E, et al. A numerical and experimental study of RF shimming in the pres- ence of hip prostheses using adaptive SAR at 3 T. Magn Reson Med 2019;81:3826–3839.</para>
+      <para>136.  Winter L, Silemek B, Petzold J, et al. Parallel transmission (pTx) medical implant safety testbed: Real- time mitigation of RF induced tip heating using time-domain <emphasis role="italics">E-field</emphasis> sensors. Magn Reson Med  2020;84:3468–3484.</para>
+      <para>137.  Silemek B, Seifert F, Ittermann B, Winter L. Safe scanning of elongated implants with the sensor matrix  Qs: Comparison of orthogonal projection and null mode based pTx mitgation. Proc Intl Soc Magn Reson  Med 2021.</para>
+      <para>138.  Golestanirad L, Keil B, Angelone LM, et al. Feasibility of using linearly polarized rotating birdcage  transmitters and close-fitting receive arrays in MRI to reduce SAR in the vicinity of deep brain simulation  implants. Magn Reson Med 2017;77:1701-1712.</para>
+      <para>139.  Golestanirad L, Iacono MI, Keil B, et al. Construction and modeling of a reconfigurable MRI coil for  lowering SAR in patients with deep brain stimulation implants. NeuroImage 2017;147:577-588.</para>
+      <para>140.  Yu Z, Xin X, Collins CM. Potential for high-permittivity materials to reduce local SAR at a pacemaker  lead tip during MRI of the head with a body transmit coil at 3 T. Magn Reson Med 2017;78:383-386.</para>
+      <para>141.  Golestanirad L, Kazemivalipour E, Lampman D, et al. RF heating of deep brain stimulation implants in  open-bore vertical MRI systems: A simulation study with realistic device configurations. Magn Reson  Med 2020;83:2284–2292.</para>
+      <para>142.  Kabil J, Felblinger J, Vuissoz P-A, Missoffe A. Coupled transfer function model for the evaluation of  implanted cables safety in MRI. Magn Reson Med 2020;84:991-s999.</para>
+      <para>143.  Yao A, Goren T, Samaras T, Kuster N, Kainz W. Radiofrequency-induced heating of broken and aban- doned implant leads during magnetic resonance examinations. Magn Reson Med 2021;86:2156-2164.</para>
+      <para>144.  Campbell-Washburn AE, Ramasawmy R, Restivo MC, et al. Opportunities in interventional and diag- nostic imaging by using high-performance low-field-strength MRI. Radiology 2019;293:384-393.</para>
+      <para>145.  Sheth KN, Mazurek MH, Yuen MM, et al. Assessment of brain injury using portable, low-field magnetic  resonance imaging at the bedside of critically ill patients. JAMA Neurol 2021 (In Press).</para>
+      <para>146.  Van Speybroek CDE, O'Reilly T, Teeuwisse W, Arnold PM, Webb AG. Characterization of displacement  forces and image artifacts in the presence of passive medical implants in low-field (&lt;100 mT) permanent  magnet-based MRI systems, and comparisons with clinical MRI systems. Phys Med 2021;84:116-124.</para>
+      <para>147.  Turpin J, Unadkat P, Thomas J, et al. Portable magnetic resonance imaging for ICU patients. Crit Care  Explor 2020;2:e0306.</para>
+      <para>148.  Song T, Xu Z, Iacono MI, Angelone LM, Rajan S. Retrospective analysis of RF heating measurements  of passive medical implants. Magn Reson Med 2018;80:2726–2730.</para>
+      <para>149.  Steensma B. Effect of transmit frequency on RF heating of metallic implants. Proceed Int Soc Magn  Reson Med, 2021.</para>
+      <para>150.  Kazemivalipour E. Demystifying the effect of field strength on RF heating of conductive leads: A sim- ulation study of SAR in DBS lead models during MRI at 1.5 T - 10.5 T. Proc Intl Soc Magn Reson Med,  2021.</para>
+      <para>151.  Nordbeck P, Fidler F, Weiss I, et al. Spatial distribution of RF field-induced E-fields and implant heating  in MRI. Magn Reson Med 2008;60:312–319.</para>
+      </sect1>
+</chapter>
