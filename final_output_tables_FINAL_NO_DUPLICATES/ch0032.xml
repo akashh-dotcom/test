@@ -186,13 +186,6 @@ Instantaneous Ceiling (T)</entry><entry>Limbs (T)</entry></row></thead><tbody><r
       <para>0 - 1 - 2 - -</para>
       <para>0 - 0.66 - - 1.1 1.1</para>
       <para>0.66 - 1 - - 0.7 / f 1.1</para>
-      <para>in the absence of experimental data from a specific MR system, proposes a rheobase of 2.2- V/m or 20-T/s and chronaxie of 0.36-ms (see Chapter 3).</para>
-      <para>These limits pertain to single frequency sinusoidal fields. For non-sinusoidal pulses, in  the region 1 to 100-kHz, one can apply the limits to each frequency component present in  the waveform (22):</para>
-      <para>where, Bi, is each individual frequency component of the field, Li, the appropriate limit  value and fmin and fmax define the frequency range. This approach may result in overly con- servative limits because it assumes coherent phase between the spectral components (23).  For frequency ranges where the incident field limit, BL, has an inverse relationship to fre- quency, its time derivative, dB/dt, is constant and may be used to test compliance even for  complex waveforms (22, 23):</para>
-      <para>(13)</para>
-      <para>(14)</para>
-      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">875</emphasis></para>
-      <para><emphasis role="bold">Figure 1.</emphasis> Induced field limits (Basic Restrictions) up to 100 kHz. ICNIRP (3) and IEEE  (5). Values are root mean square (RMS). The IEC limit (1) is the 100% median PNS  threshold.</para>
       <figure>
         <title />
         <mediaobject>
@@ -217,21 +210,7 @@ Instantaneous Ceiling (T)</entry><entry>Limbs (T)</entry></row></thead><tbody><r
           </imageobject>
         </mediaobject>
       </figure>
-      <para>Applying this approach, the ICNIRP Reference Level becomes 2.6-T/s over the fre- quency range 300 to 3000-Hz. Similarly, the IEEE head and trunk MPEs below 20-Hz be- come 0.48-T/s and, for the heart, 18.4-T/s below 3.325-kHz. This methodology is  particularly useful for MRI where gradient waveforms are usually of trapezoidal form with  multiple harmonics but a single peak dB/dt. <emphasis role="bold">Figure 2</emphasis> shows Reference Levels up to 100- kHz.</para>
-      <para><emphasis role="bold">Radiofrequency Fields </emphasis></para>
-      <para>Occupational limits relevant to MRI for RF exposures are shown in <emphasis role="bold">Table 3</emphasis>. Induced  field limits are specified as SAR, with a whole-body limit of 0.4-W/kg time averaged over  six minutes, chosen to restrict a core body temperature rise to not more than 0.1°C. This is  one tenth of the upper limit for patients. The IEEE incident field limits have a frequency  and, therefore, a dependence on the strength of the static magnetic field of the scanner. The  IEC uses the same limit both for workers and patients, that is, a whole-body SAR of up to  4-W/kg (1). Also specified are local (surface) RF transmit coil SAR limits of 10-W/kg for  the head and trunk and 20-W/kg for the limbs.</para>
-    <table frame="all"><title>Induced</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 3</entry><entry>See PDF</entry></row></tbody></tgroup></table><table frame="all"><title>Personal dosimetry measurements from MRI workers.</title><tgroup cols="9"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><colspec colname="c6" /><colspec colname="c7" /><colspec colname="c8" /><colspec colname="c9" /><thead><row><entry>B0 (T)</entry><entry>No. of
-Scan-
-ners</entry><entry>No. of
-Shifts</entry><entry>Average1
-Peak B
-(mT)</entry><entry>TWA B1,2
-(mT)</entry><entry>Maximum
-B (mT)</entry><entry>Average
-Peak dB/dt
-(T/s)</entry><entry>Maximum
-dB/dt
-(T/s)</entry><entry>Ref.</entry></row></thead><tbody><row><entry>0.6</entry><entry>1</entry><entry>19</entry><entry>380</entry><entry>5.7 ± 3.0</entry><entry>380</entry><entry>N/A</entry><entry>N/A</entry><entry>(24)</entry></row><row><entry>1.5</entry><entry>4</entry><entry>103</entry><entry>467 ± 103</entry><entry>5.1 ± 2.8</entry><entry>518</entry><entry>N/A</entry><entry>N/A</entry><entry>(24)</entry></row><row><entry>1.5</entry><entry>3</entry><entry>23</entry><entry>601 ± 240</entry><entry>5.1 ± 3.1</entry><entry>1281</entry><entry>2.2 ± 1.5</entry><entry>5.98</entry><entry>(25, 26)</entry></row><row><entry>1.5</entry><entry>&gt;7</entry><entry>138</entry><entry>594 (2.38)</entry><entry>18 (1.3)</entry><entry>2981</entry><entry>1.05 (3.01)</entry><entry>12.46</entry><entry>(29)</entry></row><row><entry>1.53</entry><entry>1</entry><entry>5</entry><entry>67 ± 49</entry><entry>-</entry><entry>120</entry><entry>-</entry><entry>-</entry><entry>(27)</entry></row><row><entry>2.0</entry><entry>1</entry><entry>2</entry><entry>561 ± 33</entry><entry>6.9 ± 1.2</entry><entry>584</entry><entry>1.5 ± 0.4</entry><entry>1.75</entry><entry>(25, 26)</entry></row><row><entry>3.0</entry><entry>1</entry><entry>12</entry><entry>822</entry><entry>4.8 ± 2.4</entry><entry>822</entry><entry>N/A</entry><entry>N/A</entry><entry>(24)</entry></row><row><entry>3.0</entry><entry>1</entry><entry>6</entry><entry>1261 (1.13)</entry><entry>24 (2.2)</entry><entry>1588</entry><entry>1.56 (1.23)</entry><entry>1.90</entry><entry>(29)</entry></row><row><entry>4.0</entry><entry>1</entry><entry>5</entry><entry>513 ± 67</entry><entry>6.4 ± 2.9</entry><entry>616</entry><entry>1.7 ± 0.4</entry><entry>2.04</entry><entry>(25, 26)</entry></row><row><entry>0.5 - 7.0</entry><entry>&gt;15</entry><entry>413</entry><entry>595 (2.39)</entry><entry>4.8 (3.67)</entry><entry>2661</entry><entry>0.95 (3.13)</entry><entry>5.02</entry><entry>(28)</entry></row></tbody></tgroup></table></sect1>
+      </sect1>
     <sect1 id="ch0032s06">
       <title>STUDIES OF INCIDENT FIELDS</title>
       <para>Studies of occupational exposures have utilized a number of approaches. The most di- rect is to issue magnetic dosimeters to staff members and to record their exposures to static  and time-varying magnetic fields during the working day (24-30). The second approach is  to record the movements of staff members during real activities and correlate these with  field maps, either from the manufacturers’ data sheets, theoretical calculations, or environ- mental electromagnetic field (EMF) measurements (31-32). The third approach is to simu- late staff member activities while measuring the magnetic field exposure. This has the  advantage of being predictive, such that worst-case movements can be investigated and  peak exposures may be estimated (33-37). In a more generalized approach to occupational  exposure in MRI, one can identify specific tasks and their temporal and magnitude expo- sures to formulate a Job Evaluation Matrix (38). This can then be used predictively to esti- mate occupational exposures for different staff groups over a prolonged period of time.</para>
@@ -279,7 +258,6 @@ Achieva</entry><entry>N/A</entry><entry>1.6</entry><entry>62</entry><entry>0.0</
       <para>1.5-T 63.9 N/A 61.4 0.255 N/A 10</para>
       <para>3-T 127.7 N/A 61.4 0.163 N/A 10</para>
       <para>7-T 298.0 N/A 61.4 0.163 N/A 10</para>
-      <para><emphasis role="bold">Figure 2.</emphasis> Incident field limits: ICNIRP Reference Levels (3) and IEEE Exposure Refer- ence Levels (5).</para>
       <figure>
         <title />
         <mediaobject>
@@ -288,8 +266,6 @@ Achieva</entry><entry>N/A</entry><entry>1.6</entry><entry>62</entry><entry>0.0</
           </imageobject>
         </mediaobject>
       </figure>
-      <para><emphasis role="bold">878</emphasis> <emphasis role="bold">Occupational Exposure During MRI</emphasis></para>
-      <para><emphasis role="bold">Figure 3.</emphasis> Staff dosimeter readings over one work shift from a 1.5 T clinical system. Top:  Instantaneous B; Bottom: Instantaneous dB/dt. Reproduced with permission from Refer- ence 24.</para>
       <figure>
         <title />
         <mediaobject>
@@ -309,54 +285,10 @@ Achieva</entry><entry>N/A</entry><entry>1.6</entry><entry>62</entry><entry>0.0</
       <para><emphasis role="bold">Average </emphasis> <emphasis role="bold">Peak dB/dt  </emphasis> <emphasis role="bold">(T/s) </emphasis></para>
       <para><emphasis role="bold">Maximum </emphasis> <emphasis role="bold">dB/dt  </emphasis> <emphasis role="bold">(T/s)</emphasis></para>
       <para><emphasis role="bold">Ref.  </emphasis></para>
-      <para>0.6  1  19  380  5.7 ± 3.0 380  N/A  N/A  (24)</para>
-      <para>1.5  4  103  467 ± 103  5.1 ± 2.8  518  N/A  N/A  (24)</para>
       <para>1.5  3  23  601 ± 240  5.1 ± 3.1  1281  2.2 ± 1.5  5.98  (25, 26)</para>
-      <para>1.5 &gt;7 138 594 (2.38) 18 (1.3) 2981 1.05 (3.01) 12.46 (29)</para>
-      <para>1.5<superscript>3</superscript> 1 5 67 ± 49 - 120 - - (27)</para>
       <para>2.0  1  2  561 ± 33  6.9 ± 1.2  584  1.5 ± 0.4  1.75  (25, 26)</para>
-      <para>3.0  1  12  822  4.8 ± 2.4  822  N/A  N/A  (24)</para>
-      <para>3.0 1 6 1261 (1.13) 24 (2.2) 1588 1.56 (1.23) 1.90 (29)</para>
       <para>4.0  1  5  513 ± 67  6.4 ± 2.9  616  1.7 ± 0.4  2.04  (25, 26)</para>
-      <para>0.5 - 7.0 &gt;15 413 595 (2.39) 4.8 (3.67) 2661 0.95 (3.13) 5.02 (28)</para>
-      <para>(TWA, time-weighted average; N/A, not applicable)  Mean values ± standard deviation  1 - Arithmetic mean values; ± denotes standard deviation; (x) denotes geometric standard deviation.  2 - Averaged over shift.  3 - Nurses only.</para>
-      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">879</emphasis></para>
       <para><emphasis role="bold">Environmental EMF Studies </emphasis></para>
-      <para><emphasis role="bold"><emphasis role="italics">Static Magnetic Field </emphasis></emphasis></para>
-      <para>Static magnetic field surveys (31, 33) show that 200-mT (the ICNIRP RMS reference  level for 1-Hz) is exceeded at about 0.5-m from the bore opening for most 1.5-T and 3-T  MR systems. The 500-mT contour (IEEE ERL for &lt;0.153-Hz) lies in the region 0.2 to 0.3- m from the bore entrance. <emphasis role="bold">Figure 5</emphasis> shows measured field plots in one-quadrant outside the  bore for a 1-T open, 1.5-T, 3-T and 7-T (unshielded) closed bore scanners.</para>
-      <para><emphasis role="bold"><emphasis role="italics">Time-Varying Magnetic Fields </emphasis></emphasis></para>
-      <para>Measurements of gradient fringe fields beyond the bore of the scanner have been made  using 3-axis calibrated meters (31, 33, 34, 36, 37). <emphasis role="bold">Table 5</emphasis> shows peak B, dB/dt and per- centage of the ICNIRP  reference levels measured outside the bore of the magnet for the  worst-case sequences from the available data. The ICNIRP RLs are rarely exceeded outside  the bore of the MR system, rendering a staff exclusion zone unnecessary (19).</para>
-      <table frame="all"><title>Peak static magnetic field (B), dB/dt and average RF field (B1) for various activ-</title><tgroup cols="8"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><colspec colname="c6" /><colspec colname="c7" /><colspec colname="c8" /><thead><row><entry /><entry /><entry /><entry>Peak B
-(mT)</entry><entry>Peak dB/dt
-movement</entry><entry>Peak dB/dt
-gradients</entry><entry>TWA-B1
-(6-min.
-RMS)</entry><entry>Complies
-with
-ICNIRP
-Reference
-Levels?</entry></row></thead><tbody><row><entry /><entry /><entry /><entry>(mT)</entry><entry>(T/s)</entry><entry>(T/s)</entry><entry>(µT)</entry><entry /></row><row><entry>ICNIRP Reference Level</entry><entry /><entry /><entry>280</entry><entry>1.8</entry><entry>2.6</entry><entry>0.2</entry><entry /></row><row><entry>B0</entry><entry>Activity</entry><entry>Occupa-
-tion</entry><entry /><entry /><entry /><entry /><entry /></row><row><entry>1-T</entry><entry>Breast
-biopsy</entry><entry>Radiologist</entry><entry>150</entry><entry>0</entry><entry>0</entry><entry>0</entry><entry>Yes</entry></row><row><entry /><entry>Breast clip
-insertion</entry><entry>Radiologist</entry><entry>800</entry><entry>1.94</entry><entry>5</entry><entry>0.08</entry><entry>No</entry></row><row><entry /><entry>General
-anesthesia
-child</entry><entry>Care giver</entry><entry>50</entry><entry>0</entry><entry>&lt;&lt;RL</entry><entry>&lt;&lt;RL</entry><entry>Yes</entry></row><row><entry /><entry>Emergency</entry><entry>Radiogra-
-pher</entry><entry>50</entry><entry>0.21</entry><entry>0</entry><entry>0</entry><entry>Yes</entry></row><row><entry>1.5-T</entry><entry>General
-anesthesia
-child</entry><entry>Anesthetist</entry><entry>500</entry><entry>0.13</entry><entry>1.89</entry><entry>0</entry><entry>No</entry></row><row><entry /><entry>Manual
-contrast</entry><entry>Radiogra-
-pher</entry><entry>200</entry><entry>0.13</entry><entry>0</entry><entry>0</entry><entry>Yes</entry></row><row><entry /><entry>Emergency</entry><entry>Radiogra-
-pher</entry><entry>200</entry><entry>0.19</entry><entry>0</entry><entry>0</entry><entry>Yes</entry></row><row><entry /><entry>Cleaning</entry><entry>Cleaner</entry><entry>1500</entry><entry>0.36</entry><entry>0</entry><entry>0</entry><entry>No</entry></row><row><entry>3-T</entry><entry>Tactile
-fMRI</entry><entry>Radiogra-
-pher</entry><entry>400</entry><entry>0.5</entry><entry>0.32</entry><entry>&lt;&lt;RL</entry><entry>No</entry></row><row><entry /><entry>Cardiac
-stress</entry><entry>Cardiolo-
-gist</entry><entry>150</entry><entry>0.6</entry><entry>0.05</entry><entry>&lt;&lt;RL</entry><entry>Yes</entry></row><row><entry /><entry>General
-anesthesia</entry><entry>Anesthetist</entry><entry>300</entry><entry>0.72</entry><entry>0.39</entry><entry>&lt;&lt;RL</entry><entry>No</entry></row><row><entry /><entry>Emergency</entry><entry>Radiogra-
-pher</entry><entry>100</entry><entry>0.5</entry><entry>0</entry><entry>0</entry><entry>Yes</entry></row><row><entry /><entry>Cleaning</entry><entry>Radiogra-
-pher</entry><entry>3000</entry><entry>0.9</entry><entry>0</entry><entry>0</entry><entry>No</entry></row><row><entry>7-T</entry><entry>Manual
-contrast</entry><entry>Radiologist</entry><entry>1200</entry><entry>0.73</entry><entry>&lt;&lt;RL</entry><entry>&lt;&lt;RL</entry><entry>No</entry></row><row><entry /><entry>EEG</entry><entry>Researcher</entry><entry>7000</entry><entry>3.7</entry><entry>0</entry><entry>0</entry><entry>No</entry></row><row><entry /><entry>Emergency</entry><entry>Radiogra-
-pher</entry><entry>900</entry><entry>2.5</entry><entry>0</entry><entry>0</entry><entry>No</entry></row></tbody></tgroup></table><para>In general, the faster pulse sequences (e.g., EPI, b-TFE, b-FFE, TruFISP) had higher  peak dB/dt, although some MR systems are programmed to utilize the highest possible slew  rate, making the peak dB/dt more independent of the sequence type. Greater exposures may  occur for open scanners (39), although the data of <emphasis role="bold">Table 5</emphasis> does not support this assertion.  For the other MR systems, the length of the bore is important. For example, the very long</para>
-      <para><emphasis role="bold">Figure 4.</emphasis> Staff dosimetry study in the Netherlands (28) for different staff groups: <emphasis role="bold">(a)</emphasis>  Peak B and dB/dt; <emphasis role="bold">(b) </emphasis>Time-weighted average (over a shift) B. Data adapted from Refer- ence 28.</para>
       <figure>
         <title />
         <mediaobject>
@@ -373,14 +305,7 @@ pher</entry><entry>900</entry><entry>2.5</entry><entry>0</entry><entry>0</entry>
           </imageobject>
         </mediaobject>
       </figure>
-      <para>bore of the 7-T scanner ensures that the fringe field of the gradients is negligible outside  this MR system’s bore. The exposure values scale with various factors including pixel size,  field-of-view (31), slice thickness and orientation, bandwidth, echo time and acoustic noise  reduction (37). <emphasis role="bold">Figure 6</emphasis> shows the instantaneous |dB/dt| (vector sum for all gradients) for  various pulse sequences from one scanner measured at the entrance to the bore.</para>
-      <para>The fundamental frequency of the sequences ranged from as low as 80-Hz (turbo spin  echo) to 1-kHz (echo planar imaging, EPI). Most of the fast pulse sequences relevant to in- terventional MRI (b-TFE, b-FFE, TruFISP) had fundamental frequencies in the range of  300- to 500-Hz, appropriate to the application of the ICNIRP dB/dt limit of 2.6-T/s. <emphasis role="bold">Figure </emphasis> <emphasis role="bold">6</emphasis> also shows the frequency components for an EPI sequence.</para>
-      <para><emphasis role="bold"><emphasis role="italics">Radiofrequency Field</emphasis></emphasis></para>
-      <para>Studies of the fringe field associated with the RF B1-field for a turbo spin echo (TSE)  pulse sequence used for magnetic resonance cholangiopancreatography (MRCP) examina- tions and a bespoke test sequence on a range on MR systems showed that Reference Levels  can be exceeded close to the bore of the MR system (31), within 0.45-m for an open scanner  and 0.2-m for a short-bore, closed MR system (34).</para>
       <para><emphasis role="bold">Time-Motion Studies </emphasis></para>
-      <para>In a study commissioned by the European Commission, under the auspices of the Eu- ropean Society of Radiology and specifically designed to investigate the impact on MRI of  an earlier version of the EU Directive, Capstick, et al. (31) observed staff members during  typical clinical procedures in an open 1-T scanner and closed bore 1.5-, 3- and 7-T MR sys-</para>
-      <para><emphasis role="bold">880</emphasis> <emphasis role="bold">Occupational Exposure During MRI</emphasis></para>
-      <para><emphasis role="bold">Figure 5.</emphasis> Single quadrant static field plots for 1-T open, 1.5-, 3- and 7-T MR systems.  The dotted arrow indicates the isocenter, the solid arrow indicates the center of the bore  opening. Reproduced with permission from Reference 31.</para>
       <figure>
         <title />
         <mediaobject>
@@ -389,9 +314,6 @@ pher</entry><entry>900</entry><entry>2.5</entry><entry>0</entry><entry>0</entry>
           </imageobject>
         </mediaobject>
       </figure>
-      <para>tems (<emphasis role="bold">Figure 7</emphasis>). Staff movements were recorded by a two-camera video system and their  position, velocity and exposure times were determined for each procedure. The staff groups  investigated included radiographers, anesthetists, interventional radiologists, cleaners, re- searchers and parent/care givers. By combining these observations with three-dimensional  volumetric environmental EMF measurements, the staff exposures were estimated in terms  of maximum and mean B, maximum static field gradient (|dB/dr|), maximum dB/dt and  fundamental frequency from the imaging gradients, and TWA B1, H1 and E1 (time-averaged  over 6-min.).</para>
-      <para><emphasis role="bold">Figure 8</emphasis> and <emphasis role="bold">Table 6</emphasis> summarize these results and those from other studies (24-28, 30,  31) for B, both from the static magnetic field and the gradients, shown with respect to the</para>
-      <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">881</emphasis></para>
       <para>(RL, Reference Level; N/A, not applicable)</para>
       <para><emphasis role="bold">B0 (T)</emphasis> <emphasis role="bold">MR  </emphasis> <emphasis role="bold">System</emphasis></para>
       <para><emphasis role="bold">|B|rms  </emphasis> <emphasis role="bold">(</emphasis><emphasis role="bold">μ</emphasis><emphasis role="bold">T)</emphasis></para>
@@ -400,24 +322,14 @@ pher</entry><entry>900</entry><entry>2.5</entry><entry>0</entry><entry>0</entry>
     <sect1 id="ch0032s09">
       <title>%   ICNIRP  RL</title>
       <para><emphasis role="bold">Distance </emphasis> <emphasis role="bold">from </emphasis> <emphasis role="bold">Bore  </emphasis> <emphasis role="bold">Entrance </emphasis> <emphasis role="bold">(m)</emphasis></para>
-      <para><emphasis role="bold">Sequence </emphasis><emphasis role="bold"><superscript>Fundamental  </superscript></emphasis> <emphasis role="bold">Frequency</emphasis> <emphasis role="bold">Reference</emphasis></para>
       <para>0.6 Fonar N/A 0.22 9 0.30 FSE Unknown 24</para>
-      <para>1.0 Philips  Panorama N/A 0.32 12 0.0 b-TFE 260-Hz 31</para>
       <para>1.0 Philips  Panorama N/A 0.1 4 0.0 EPI Unknown 36</para>
       <para>1.5 GE Signa  Twin N/A 1.14 44 0.0 EPI Unknown 24</para>
       <para>1.5 Philips  Achieva 114 N/A 11 0.2 EPI Unknown 26</para>
       <para>1.5 Philips  Achieva 118 N/A 12 0.45 Q-flow Unknown 26</para>
-      <para>1.5 Unspecified A 1500  N/A 150 0.0 b-FFE 300-Hz  33</para>
-      <para>1.5 Unspecified B 700 N/A 84 0.0  b-FFE 360-Hz  33</para>
-      <para>1.5 Philips Intera 650 N/A 108 0.0 FFE 500-Hz 34</para>
-      <para>1.5 Siemens  Avanto  N/A 1.99 77 0.15 TruFISP 670-Hz  31</para>
       <para>1.5 Siemens  Espree 100 0.77 29 0.3 TruFISP Unknown 37</para>
-      <para>3.0 Philips  Achieva N/A 1.69 65 0.11 EPI 1-kHz 31</para>
       <para>3.0 Philips  Achieva N/A 1.6 62 0.0 EPI Unknown 36</para>
-      <para>7.0 Philips Intera  662 1.78 &lt;&lt;RL -0.85 Perfusion 770-Hz 31</para>
-      <para>ICNIRP incident field limits (RL). Some movement-related exposures exceeded the ICNIRP  movement-related limits.  Imaging gradient dB/dt exceeded the ICNIRP Reference Level  (RL) (300 to 3000-Hz) for the clip insertion by 1.9 times. The ICNIRP Reference Levels  for exposure from the imaging gradients were exceeded for breast biopsy clip insertion (by  7% with a sequence fundamental frequency of 260-Hz) and monitoring patients under gen- eral anesthesia (by 16% for a fundamental frequency of 670-Hz). In no instance was a RF  field Reference Level exceeded, although for the breast interventional procedure this was  largely due to the time averaging (i.e., the procedure only lasted 42-s).</para>
-      <para>Other studies have investigated exposures and induced fields from specific movements  by volunteer subjects chosen to mimic actual movements performed by staff members car- rying out their duties close to the MR system (33, 35, 36). The observed dB/dt values in the  range of 1- to 3-T/sec. are in good agreement with the dosimetric studies. Using a unique  dosimeter Glover, et al. (35) directly measured induced electric fields Ei in the range of  0.042- to 0.17-V/m for movements, compared with 2.4- to 3.8-mV/m from the gradients  for a person standing next to the opening of the bore of the MR system and a gradient slew  rate of 10-T/m/s.</para>
-    </sect1>
+      </sect1>
     <sect1 id="ch0032s10">
       <title>STUDIES OF INDUCED FIELDS IN TISSUES</title>
       <para>As the Basic Restrictions are given in terms of induced fields or SAR, numerical sim- ulations may be required to demonstrate compliance. Both quasi-static finite difference or</para>
@@ -544,8 +456,7 @@ pher</entry><entry>900</entry><entry>2.5</entry><entry>0</entry><entry>0</entry>
       </sect1>
     <sect1 id="ch0032s12">
       <title>PREGNANT STAFF</title>
-      <para>The current advice for pregnant staff members is to avoid being in the MR system room  during scan acquisition, principally because of the potential risk to fetal hearing from  acoustic noise (15, 16, 53). Specific dosimetric studies for pregnant staff have not been car- ried out, although incident field exposures are expected to be similar to those for other staff  members. Kanal, et al. (54) conducted a limited epidemiological study of pregnant MRI  healthcare workers, concluding that there was no adverse effect on pregnancy outcome.  Studies of pregnancy outcomes from patients who have undergone first trimester MRI have  shown no adverse effect on neonatal and infant hearing function, birthweight, nor increased  incidence of stillbirth, neonatal death, congenital anomalies, neoplasms, or vision loss (55,  56).</para>
-    </sect1>
+      </sect1>
     <sect1 id="ch0032s13">
       <title>SUMMARY AND CONCLUSIONS</title>
       <para>Outside the bore of the MR system, exposure from the imaging gradients and RF is  generally well below most incident and induced field limits. Careful consideration needs  to be given to movement around high field strength magnets for MR systems. Most activities  that occur during clinical MRI will only result in significant occupational exposure in as- sociation with the static field. Special cases of particular importance include pregnant staff  members, and those who must remain close to the bore of the MR system during scanning  (e.g., anesthesiologists, intervention radiologists, nurses and researchers).</para>
@@ -615,5 +526,45 @@ pher</entry><entry>900</entry><entry>2.5</entry><entry>0</entry><entry>0</entry>
       <para>55. Strizek B, Jani JC, Mucyo E, et al. Safety of MR imaging at 1.5 T in fetuses: A retrospective case-control  study of birth weights and the effects of acoustic noise. Radiology 2015;275:530-537.</para>
       <para>56. Ray JG, Vermeulen MJ, Bharatha A, et al. Association between MRI exposure during pregnancy and fetal  and childhood outcomes. JAMA 2016;316:952-961.</para>
       <para><emphasis role="bold">892</emphasis> <emphasis role="bold">Occupational Exposure During MRI</emphasis></para>
-      </sect1>
+      <table frame="all"><title>Induced</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Content</entry><entry>Details</entry></row></thead><tbody><row><entry>Table 3</entry><entry>See PDF</entry></row></tbody></tgroup></table><table frame="all"><title>Personal dosimetry measurements from MRI workers.</title><tgroup cols="9"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><colspec colname="c6" /><colspec colname="c7" /><colspec colname="c8" /><colspec colname="c9" /><thead><row><entry>B0 (T)</entry><entry>No. of
+Scan-
+ners</entry><entry>No. of
+Shifts</entry><entry>Average1
+Peak B
+(mT)</entry><entry>TWA B1,2
+(mT)</entry><entry>Maximum
+B (mT)</entry><entry>Average
+Peak dB/dt
+(T/s)</entry><entry>Maximum
+dB/dt
+(T/s)</entry><entry>Ref.</entry></row></thead><tbody><row><entry>0.6</entry><entry>1</entry><entry>19</entry><entry>380</entry><entry>5.7 ± 3.0</entry><entry>380</entry><entry>N/A</entry><entry>N/A</entry><entry>(24)</entry></row><row><entry>1.5</entry><entry>4</entry><entry>103</entry><entry>467 ± 103</entry><entry>5.1 ± 2.8</entry><entry>518</entry><entry>N/A</entry><entry>N/A</entry><entry>(24)</entry></row><row><entry>1.5</entry><entry>3</entry><entry>23</entry><entry>601 ± 240</entry><entry>5.1 ± 3.1</entry><entry>1281</entry><entry>2.2 ± 1.5</entry><entry>5.98</entry><entry>(25, 26)</entry></row><row><entry>1.5</entry><entry>&gt;7</entry><entry>138</entry><entry>594 (2.38)</entry><entry>18 (1.3)</entry><entry>2981</entry><entry>1.05 (3.01)</entry><entry>12.46</entry><entry>(29)</entry></row><row><entry>1.53</entry><entry>1</entry><entry>5</entry><entry>67 ± 49</entry><entry>-</entry><entry>120</entry><entry>-</entry><entry>-</entry><entry>(27)</entry></row><row><entry>2.0</entry><entry>1</entry><entry>2</entry><entry>561 ± 33</entry><entry>6.9 ± 1.2</entry><entry>584</entry><entry>1.5 ± 0.4</entry><entry>1.75</entry><entry>(25, 26)</entry></row><row><entry>3.0</entry><entry>1</entry><entry>12</entry><entry>822</entry><entry>4.8 ± 2.4</entry><entry>822</entry><entry>N/A</entry><entry>N/A</entry><entry>(24)</entry></row><row><entry>3.0</entry><entry>1</entry><entry>6</entry><entry>1261 (1.13)</entry><entry>24 (2.2)</entry><entry>1588</entry><entry>1.56 (1.23)</entry><entry>1.90</entry><entry>(29)</entry></row><row><entry>4.0</entry><entry>1</entry><entry>5</entry><entry>513 ± 67</entry><entry>6.4 ± 2.9</entry><entry>616</entry><entry>1.7 ± 0.4</entry><entry>2.04</entry><entry>(25, 26)</entry></row><row><entry>0.5 - 7.0</entry><entry>&gt;15</entry><entry>413</entry><entry>595 (2.39)</entry><entry>4.8 (3.67)</entry><entry>2661</entry><entry>0.95 (3.13)</entry><entry>5.02</entry><entry>(28)</entry></row></tbody></tgroup></table><table frame="all"><title>Peak static magnetic field (B), dB/dt and average RF field (B1) for various activ-</title><tgroup cols="8"><colspec colname="c1" /><colspec colname="c2" /><colspec colname="c3" /><colspec colname="c4" /><colspec colname="c5" /><colspec colname="c6" /><colspec colname="c7" /><colspec colname="c8" /><thead><row><entry /><entry /><entry /><entry>Peak B
+(mT)</entry><entry>Peak dB/dt
+movement</entry><entry>Peak dB/dt
+gradients</entry><entry>TWA-B1
+(6-min.
+RMS)</entry><entry>Complies
+with
+ICNIRP
+Reference
+Levels?</entry></row></thead><tbody><row><entry /><entry /><entry /><entry>(mT)</entry><entry>(T/s)</entry><entry>(T/s)</entry><entry>(µT)</entry><entry /></row><row><entry>ICNIRP Reference Level</entry><entry /><entry /><entry>280</entry><entry>1.8</entry><entry>2.6</entry><entry>0.2</entry><entry /></row><row><entry>B0</entry><entry>Activity</entry><entry>Occupa-
+tion</entry><entry /><entry /><entry /><entry /><entry /></row><row><entry>1-T</entry><entry>Breast
+biopsy</entry><entry>Radiologist</entry><entry>150</entry><entry>0</entry><entry>0</entry><entry>0</entry><entry>Yes</entry></row><row><entry /><entry>Breast clip
+insertion</entry><entry>Radiologist</entry><entry>800</entry><entry>1.94</entry><entry>5</entry><entry>0.08</entry><entry>No</entry></row><row><entry /><entry>General
+anesthesia
+child</entry><entry>Care giver</entry><entry>50</entry><entry>0</entry><entry>&lt;&lt;RL</entry><entry>&lt;&lt;RL</entry><entry>Yes</entry></row><row><entry /><entry>Emergency</entry><entry>Radiogra-
+pher</entry><entry>50</entry><entry>0.21</entry><entry>0</entry><entry>0</entry><entry>Yes</entry></row><row><entry>1.5-T</entry><entry>General
+anesthesia
+child</entry><entry>Anesthetist</entry><entry>500</entry><entry>0.13</entry><entry>1.89</entry><entry>0</entry><entry>No</entry></row><row><entry /><entry>Manual
+contrast</entry><entry>Radiogra-
+pher</entry><entry>200</entry><entry>0.13</entry><entry>0</entry><entry>0</entry><entry>Yes</entry></row><row><entry /><entry>Emergency</entry><entry>Radiogra-
+pher</entry><entry>200</entry><entry>0.19</entry><entry>0</entry><entry>0</entry><entry>Yes</entry></row><row><entry /><entry>Cleaning</entry><entry>Cleaner</entry><entry>1500</entry><entry>0.36</entry><entry>0</entry><entry>0</entry><entry>No</entry></row><row><entry>3-T</entry><entry>Tactile
+fMRI</entry><entry>Radiogra-
+pher</entry><entry>400</entry><entry>0.5</entry><entry>0.32</entry><entry>&lt;&lt;RL</entry><entry>No</entry></row><row><entry /><entry>Cardiac
+stress</entry><entry>Cardiolo-
+gist</entry><entry>150</entry><entry>0.6</entry><entry>0.05</entry><entry>&lt;&lt;RL</entry><entry>Yes</entry></row><row><entry /><entry>General
+anesthesia</entry><entry>Anesthetist</entry><entry>300</entry><entry>0.72</entry><entry>0.39</entry><entry>&lt;&lt;RL</entry><entry>No</entry></row><row><entry /><entry>Emergency</entry><entry>Radiogra-
+pher</entry><entry>100</entry><entry>0.5</entry><entry>0</entry><entry>0</entry><entry>Yes</entry></row><row><entry /><entry>Cleaning</entry><entry>Radiogra-
+pher</entry><entry>3000</entry><entry>0.9</entry><entry>0</entry><entry>0</entry><entry>No</entry></row><row><entry>7-T</entry><entry>Manual
+contrast</entry><entry>Radiologist</entry><entry>1200</entry><entry>0.73</entry><entry>&lt;&lt;RL</entry><entry>&lt;&lt;RL</entry><entry>No</entry></row><row><entry /><entry>EEG</entry><entry>Researcher</entry><entry>7000</entry><entry>3.7</entry><entry>0</entry><entry>0</entry><entry>No</entry></row><row><entry /><entry>Emergency</entry><entry>Radiogra-
+pher</entry><entry>900</entry><entry>2.5</entry><entry>0</entry><entry>0</entry><entry>No</entry></row></tbody></tgroup></table></sect1>
 </chapter>

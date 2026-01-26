@@ -179,30 +179,11 @@ tions, levels.</entry></row></tbody></tgroup></table><para>Notably, in May 2021,
     </sect1>
     <sect1 id="ch0021s06">
       <title>• ASTM F2119</title>
-      <para>or existing peer-reviewed literature.  It also includes, for the first time, some specific tis- sue-specific temperature safety thresholds.</para>
-    </sect1>
+      </sect1>
     <sect1 id="ch0021s07">
       <title>MRI AND AIMD TEST METHODS FOR DIFFERENT INTERACTIONS</title>
       <para>One way to categorize potential safety evaluations for AIMDs is whether modeling is  a part of the assessment or not. The following section lists these evaluations according to  the two categories presented in <emphasis role="bold">Table 3</emphasis>.</para>
-      <table frame="all"><title>Evaluation of the AIMDs for MRI Hazards Involves Bench-Top Testing, Modeling,</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Six MR Safety Assessments That Rely on
-Bench-Top Testing and/or MR Systems
-Without Modeling</entry><entry>Three MR Safety Assessments That
-Rely on Modeling In Addition to
-Measurement-Based Testing</entry></row></thead><tbody><row><entry>1. Static magnetic field-induced force
-2. Static magnetic field-induced torque
-3. Gradient magnetic field-induced vibration
-4. Gradient magnetic field-induced device (e.g.,
-IPG) heating
-5. Device (IPG) malfunction (static magnetic
-field and/or gradient magnetic field-induced
-and/or RF field-induced)
-6. Combined fields test</entry><entry>7. RF field-induced heating of the AIMD (i.e., the
-IPG and/or leads)
-8. Unintended stimulation from RF field-induced
-lead voltage
-9. Unintended stimulation from gradient mag-
-netic field-induced lead voltage (i.e., extrinsic
-electric potential)</entry></row></tbody></tgroup></table><para><emphasis role="bold">Evaluation of the AIMDs for MRI Hazards Involves Bench-Top Testing, Modeling, </emphasis> <emphasis role="bold">MR Systems, or a Combination of These Approaches </emphasis></para>
+      <para><emphasis role="bold">Evaluation of the AIMDs for MRI Hazards Involves Bench-Top Testing, Modeling, </emphasis> <emphasis role="bold">MR Systems, or a Combination of These Approaches </emphasis></para>
       <para><emphasis role="italics">1.</emphasis> <emphasis role="italics">Static Magnetic Field-Induced Force </emphasis></para>
       <para>A displacement force produced by the static magnetic field (B0) on a device containing  magnetic materials has the potential to cause unwanted movement of the implant. The force  exerted on the device is a function of the spatial gradient of the static magnetic field (or the  product of B0 and the spatial gradient of B0, depending on whether the materials are below  or above magnetic saturation) as well as the mass of magnetic material. This established  test method described in ASTM F2052 (11). It is measurement-based and is typically con- ducted using an MR system.</para>
       <para>The concept of testing is to measure the magnetically-induced displacement force of  the implant where the “patient accessible” spatial gradient magnetic field is greatest (near  the opening of the bore) and compare against value the gravitational force acting on the de- vice (since all implanted devices are subjected to the force due to gravity without patient  harm)(29). One version of this test is to suspend the device by a light-weight string at that  location and measure the deflection angle. If the device deflects less than 45°, its magnetic  force is less than that of gravity.</para>
@@ -258,7 +239,25 @@ electric potential)</entry></row></tbody></tgroup></table><para><emphasis role="
       <para>For the three assessments that rely heavily on modeling (<emphasis role="bold">Table 3</emphasis>), Tier 3 modeling re- quires that, along the lead path in every anatomical model, the tangential vector of the elec- trical component (E-tan) of the incident fields be extracted from the electromagnetic  simulation. <emphasis role="bold">Figure 3</emphasis> shows the E-tan magnitude of example lead routings for deep brain  stimulation (DBS) and spinal cord stimulation (SCS) device, for a specific landmark in an  MR system with a transmit body RF coil.</para>
       <para>The Second Element Needed for Modeling, the Transfer Function:</para>
       <para>For RF energy, the first two of the three assessments shown in <emphasis role="bold">Table 3</emphasis>, the Transfer  Function (31) is needed, which is really a characterization of how a particular AIMD (i.e.,  a specific IPG plus lead combination) behaves as an RF antenna in the MR scanner envi- ronment. For safety purposes benefiting the patient, the AIMD is favorable when it is a “bad  antenna” in the electromagnetic environment of the MR scanner.</para>
-      <para><emphasis role="bold">564</emphasis> <emphasis role="bold">MRI Test Methods for MR Conditional AIMDs</emphasis></para>
+      <table frame="all"><title>Evaluation of the AIMDs for MRI Hazards Involves Bench-Top Testing, Modeling,</title><tgroup cols="2"><colspec colname="c1" /><colspec colname="c2" /><thead><row><entry>Six MR Safety Assessments That Rely on
+Bench-Top Testing and/or MR Systems
+Without Modeling</entry><entry>Three MR Safety Assessments That
+Rely on Modeling In Addition to
+Measurement-Based Testing</entry></row></thead><tbody><row><entry>1. Static magnetic field-induced force
+2. Static magnetic field-induced torque
+3. Gradient magnetic field-induced vibration
+4. Gradient magnetic field-induced device (e.g.,
+IPG) heating
+5. Device (IPG) malfunction (static magnetic
+field and/or gradient magnetic field-induced
+and/or RF field-induced)
+6. Combined fields test</entry><entry>7. RF field-induced heating of the AIMD (i.e., the
+IPG and/or leads)
+8. Unintended stimulation from RF field-induced
+lead voltage
+9. Unintended stimulation from gradient mag-
+netic field-induced lead voltage (i.e., extrinsic
+electric potential)</entry></row></tbody></tgroup></table><para><emphasis role="bold">564</emphasis> <emphasis role="bold">MRI Test Methods for MR Conditional AIMDs</emphasis></para>
       <para><emphasis role="bold">MRI Bioeffects, Safety, and Patient Management</emphasis> <emphasis role="bold">565</emphasis></para>
       <para><emphasis role="bold">Figure 3.</emphasis> Left, Human model with one deep brain stimulation (DBS) and two spinal cord  stimulation (SCS) lead routings (pathways). Upper right, RF field E-tan (tangential elec- trical field) magnitude of one DBS routing. Lower right, RF field E-tan magnitude of one  SCS routing (Note, for both, the magnitude scale is not relevant to a specific RF energy  level). (Adapted from Reference 35.)</para>
       <figure>
