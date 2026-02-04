@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0008s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 8</emphasis>
+    <emphasis role="partTitle">Aerobic Actinomycetes</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Michael A. Saubolle and A. Brian Mochon</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0194">8.1. Introduction</link></para>
+      <para role="chapterAuthor">Michael A. Saubolle</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0195">8.2. Specimen Examination and Primary Isolation</link></para>
+      <para role="chapterAuthor">Melissa E. Bell and Den (Zdenek) Sussland</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0196">8.3. Media and Methods Used for Phenotypic Characterization of Aerobic Actinomycetes</link></para>
+      <para role="chapterAuthor">Melissa E. Bell, Den (Zdenek) Sussland, and A. Brian Mochon</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0197">8.4. Definitive Identification of Aerobic Actinomycetes</link></para>
+      <para role="chapterAuthor">Melissa E. Bell, A. Brian Mochon, and Sarah K. Highlander</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0198">8.5. Susceptibility Testing</link></para>
+      <para role="chapterAuthor">Den (Zdenek) Sussland and Michael A. Saubolle</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0199">8.6. Appendixes</link></para>
+      <para role="chapterAuthor">Michael A. Saubolle, Melissa E. Bell, and Den (Zdenek) Sussland</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0199">8.6.1. Appendix 8.6.1–1—Human Clinical Diseases Associated with Aerobic Actinomycetes</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+  </itemizedlist>
+</sect1>

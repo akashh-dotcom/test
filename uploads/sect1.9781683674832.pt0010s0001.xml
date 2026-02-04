@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0010s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 10</emphasis>
+    <emphasis role="partTitle">Mycology and Antifungal Susceptibility Testing</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Shawn R. Lockhart and Nathan P. Wiederhold</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0222">10.1. Introduction and General Considerations</link></para>
+      <para role="chapterAuthor">Shawn R. Lockhart and Nathan P. Wiederhold</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0223">10.2. Fungal Taxonomy and Nomenclature</link></para>
+      <para role="chapterAuthor">Shawn R. Lockhart and Nathan P. Wiederhold</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0224">10.3. Specimen Selection, Collection, and Transport</link></para>
+      <para role="chapterAuthor">Alireza Abdolrasouli and Susan Howell</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0225">10.4. Specimen Examination</link></para>
+      <para role="chapterAuthor">Alireza Abdolrasouli and Susan Howell</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0225">10.4.1. Microscopic Examination of Clinical Specimens</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0225s0003">Appendix 10.4.1–1. Reagent Preparation</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0226">10.4.2. Staining Procedure for Direct Microscopic Detection of Pneumocystis jirovecii in Respiratory Samples</link></para>
+          <para role="chapterAuthor">Pneumocystis jirovecii</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0226">Appendix 10.4.2–1. Reagents</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0227">10.5. Processing Specimens for Fungal Culture</link></para>
+      <para role="chapterAuthor">Alireza Abdolrasouli and Susan Howell</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0228">10.6. Examination and Evaluation of Primary Cultures</link></para>
+      <para role="chapterAuthor">Sean X. Zhang and Warda Memon</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0228s0002s01">Appendix 10.6–1. Medium and Reagent Preparation</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0229">10.7. Presumptive Identification Tests for Yeasts Isolated on Primary Culture</link></para>
+      <para role="chapterAuthor">Sixto M. Leal and Marwan M. Azar</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0229s0003s01">Appendix 10.7–1. Medium Preparation, Storage, and Sources</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0230">10.8. Identification of Molds on Primary Culture</link></para>
+      <para role="chapterAuthor">Marwan M. Azar and Sixto M. Leal</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0231">10.9. Full Identification of Yeasts</link></para>
+      <para role="chapterAuthor">Sean X. Zhang and Warda Memon</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0231s0000s0000">Appendix 10.9–1. Medium Preparation and Sources</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0232">10.10. Phenotypic Identification of Molds</link></para>
+      <para role="chapterAuthor">Connie F. Cañete-Gibas and Nathan P. Wiederhold</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0232s0003s01">Appendix 10.10–1. Figures</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0232s0003s02">Appendix 10.10–2. Media and Reagents, Sources, and Recipes</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0233">10.11. Molecular Identification of Yeasts and Molds</link></para>
+      <para role="chapterAuthor">Connie F. Cañete-Gibas and Nathan P. Wiederhold</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0234">10.12. Antifungal Susceptibility Testing</link></para>
+      <para role="chapterAuthor">Nathan P. Wiederhold and Shawn R. Lockhart</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0234">10.12.1. Broth Dilution Antifungal Susceptibility Testing</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0235">10.12.2. Disk Diffusion and Gradient Diffusion Antifungal Susceptibility Testing</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0236">10.13. Clinical Breakpoints and Epidemiological Cutoff Values</link></para>
+      <para role="chapterAuthor">Philippe J. Dufresne and Jeff Fuller</para>
+    </listitem>
+  </itemizedlist>
+</sect1>

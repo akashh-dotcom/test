@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0012s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 12</emphasis>
+    <emphasis role="partTitle">Viruses and Chlamydiae</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Richard L. Hodinka</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0297">12.1. Introduction: Traditional Methods for Laboratory Diagnosis of Viral and Chlamydial Infections</link></para>
+      <para role="chapterAuthor">Richard L. Hodinka</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0298">12.2. Selection, Collection, Transport, and Processing of Specimens for Viral Diagnosis</link></para>
+      <para role="chapterAuthor">Erin H. Graf.</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0298ap0001">Appendix 12.2–1. Viral Transport Medium Formula</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0298ap0002">Appendix 12.2–2. Antimicrobial Additives for Specimen Decontamination Prior to Virus Culture Inoculation</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0298ap0003">Appendix 12.2–3. NH4Cl Lysis Solution</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0299">12.3. Quality Control and Quality Assurance in Clinical Virology</link></para>
+      <para role="chapterAuthor">Heba Mostafa</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0299ap0001">Appendix 12.3–1. Example of Assay Training Checklist</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0299ap0002">Appendix 12.3–2. Example of Laboratory Procedure Format</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0299ap0003">Appendix 12.3–3. Example of Validation/Verification Form</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0299ap0004">Appendix 12.3–4. Example of an IQCP Form</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0299ap0005">Appendix 12.3–5. Example of Tracer Form</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0300">12.4. Biosafety in the Clinical Virology Laboratory</link></para>
+      <para role="chapterAuthor">Ana María Cárdenas</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0301">12.5. Conventional Tube Cell Culture for Primary Virus Isolation</link></para>
+      <para role="chapterAuthor">Richard L. Hodinka and Ryan F. Relich</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0301ap0001">Appendix 12.5–1. Preparation of 10% RBC Suspension for Hemadsorption Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0301ap0002">Appendix 12.5–2. Viral Titration and Determination of TCID50</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0301ap0003">Appendix 12.5–3. Hemadsorption Procedure</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0301ap0004">Appendix 12.5–4. Preparation and Fixation of Cell Spots on Slides</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0301ap0005">Appendix 12.5–5. Immunofluorescence Staining of Fixed Cell Spots on Slides</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0301ap0006">Appendix 12.5–6. Acid Lability Assay</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0301ap0007">Appendix 12.5–7. Preservation of Cell Culture Monolayers in Cell Culture Tubes</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0302">12.6. Shell Vial/Multiwell Plate Culture for Rapid Virus Isolation</link></para>
+      <para role="chapterAuthor">Ninad Mehta and Christine C. Ginocchio</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0303">12.7. Selection, Maintenance, and Serial Propagation of Uninoculated Monolayer Cell Cultures</link></para>
+      <para role="chapterAuthor">Richard L. Hodinka</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0303ap0001">Appendix 12.7–1. Summary of Aseptic Technique</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0303ap0002">Appendix 12.7–2. Detection of Bacterial and Fungal Contamination in Cultured Cells</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0303ap0003">Appendix 12.7–3. Detection of Mycoplasmas in Cultured Cells</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0303ap0004">Appendix 12.7–4. Cell Counting with a Hemocytometer</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0303ap0005">Appendix 12.7–5. Samples of Forms for Recording the Preparation and QC of Monolayer Cell Cultures</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0304">12.8. Preparation of Cell Culture Media and Supplemental Components</link></para>
+      <para role="chapterAuthor">Richard L. Hodinka</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0304ap0001">Appendix 12.8–1. Composition of BSS, PBS, and Media</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0304ap0002">Appendix 12.8–2. Select Commercial Sources of Cell Culture Medium and Supplemental Components</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0304ap0003">Appendix 12.8–3. Storage Conditions and Shelf Lives of Media and Supplemental Components</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0304ap0004">Appendix 12.8–4. Procedure of Heat Inactivation of FBS</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0304ap0005">Appendix 12.8–5. Procedure for Washing and Sterilizing Glassware</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0304ap0006">Appendix 12.8–6. Samples of Report Forms for Recording the Preparation and QC of Media and Supplemental Components</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0305">12.9. Tests for Direct Detection of Viruses in Clinical Specimens</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0305">12.9.1. Immunofluorescence Test for Direct Detection of Viruses in Clinical Specimens</link></para>
+          <para role="chapterAuthor">Richard L. Hodinka</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0305s0003">Appendix 12.9.1–1. Procedures for Collection of Specimens for Immunofluorescence Testing</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0306">12.9.2. Rapid Solid-Phase Immunoassays for Direct Detection of Viruses in Clinical Specimens: Influenza Virus, Respiratory Syncytial Virus, and SARS-CoV-2</link></para>
+          <para role="chapterAuthor">Dithi Banerjee and Rangaraj Selvarangan</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0306">Appendix 12.9.2–1. Meta-analysis of RADT Performance</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0306">Appendix 12.9.2–2. Real-time Monitoring of Test Data</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0306">Appendix 12.9.2–3. Biosafety Considerations for Testing of Respiratory Viruses</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0307">12.9.3. Histologic and Cytologic Procedures for Detection of Viruses in Exfoliated Cells and Tissues</link></para>
+          <para role="chapterAuthor">Lynita Thomas and Laurel J. Glaser</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0308">12.10. Isolation of Chlamydia spp. in Cell Culture</link></para>
+      <para role="chapterAuthor">Ellena M. Peterson</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0308ap0001">Appendix 12.10–1. Preparation of Chlamydia Control Stock</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0308ap0002">Appendix 12.10–2. Procedure for Pretesting Swabs</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0309">12.11. Hemagglutination Inhibition Assay for Quantitative Measurement of Antibody Responses to Influenza Virus</link></para>
+      <para role="chapterAuthor">Stephen Young and Benjamin A. Pinsky</para>
+    </listitem>
+  </itemizedlist>
+</sect1>

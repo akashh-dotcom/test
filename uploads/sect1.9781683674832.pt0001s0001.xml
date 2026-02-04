@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0001s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 1</emphasis>
+    <emphasis role="partTitle">Procedure Coding, Reimbursement, and Billing Compliance</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Vickie S. Baselski and Alice S. Weissfeld</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0001">1.1. Introduction</link></para>
+      <para role="chapterAuthor">Vickie S. Baselski and Alice S. Weissfeld</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0001ap0001">Appendix 1.1–1. Glossary of Reimbursement and Compliance Terminology and Acronyms</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0001ap0002">Appendix 1.1–2. Websites and Guidance Documents</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0008">1.2. Procedure Coding, Reimbursement, and Billing Compliance</link></para>
+      <para role="chapterAuthor">Vickie S. Baselski and Alice S. Weissfeld</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0002s0001">1.2.1. Procedure Coding</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0002s0002">1.2.2. Procedure Billing</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0002s0003">1.2.3. Coverage of Laboratory Services</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0002s0004">1.2.4. Billing Compliance Programs</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0002s0004ap0001">Appendix 1.2.4–1. Reflex and Composite Scenarios in Microbiology</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+  </itemizedlist>
+</sect1>
