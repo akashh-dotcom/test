@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0017s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 17</emphasis>
+    <emphasis role="partTitle">Biohazards and Safety</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Ryan F. Relich</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0431">17.1. Introduction</link></para>
+      <para role="chapterAuthor">Ryan F. Relich</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0432">17.2. Biological Safety and Biohazard Prevention</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0432s0001">17.2.1. Routes of Infection and Laboratory Activities</link></para>
+          <para role="chapterAuthor">Ryan F. Relich and Ryan Demkowicz</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0433">17.2.2. Safe Work Practices</link></para>
+          <para role="chapterAuthor">Ryan F. Relich and Ryan Demkowicz</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0434">17.2.3. Decontamination</link></para>
+          <para role="chapterAuthor">Ryan F. Relich and Ryan Demkowicz</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0435">17.2.4. Biohazardous Spills</link></para>
+          <para role="chapterAuthor">Ryan F. Relich and Ryan Demkowicz</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0436">17.2.5. Hand Hygiene for Laboratory Personnel</link></para>
+          <para role="chapterAuthor">Michael A. Pentella</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0437">17.3. Biohazard Containment</link></para>
+      <para role="chapterAuthor">Ryan F. Relich and Drew Bell</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0437s0001">17.3.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0438">17.3.2. Biosafety Levels</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0439">17.3.3. Biological Safety Cabinet</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0440">17.3.4. PPE and Engineering Controls</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0441">17.4. Laboratory Instrumentation and Equipment</link></para>
+      <para role="chapterAuthor">Blake W. Buchan and Gerald A. Capraro</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0441s0001">17.4.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0442">17.4.2. Autoclave</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0443">17.4.3. Centrifuge</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0444">17.4.4. Compressed Gas Cylinders</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0445">17.4.5. Pneumatic Tube System</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0446">17.4.6. Specimen/Microorganism Storage and Retention</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0447">17.4.7. Other Equipment and Devices</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0448">17.5. Special Pathogens and Employee Safety</link></para>
+      <para role="chapterAuthor">Corrie C. Simons and Gerald A. Capraro</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0448s0001">17.5.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0449">17.5.2. Early (Bench-Level) Recognition of Biothreat Agents and Laboratory-Acquired Infections</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0450">17.5.3. Select Agents</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0451">17.5.4. Environmental, Non-Human, and Suspicious Specimens and Substances</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0452">17.5.5. Prions, Prion Diseases (Including Creutzfeldt-Jakob Disease), and Safety Issues Specific to Specimens Suspected of Containing Prions</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0453">17.5.6. Resources for Information on Specific Pathogens</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0454">17.6. Packing and Shipping Infectious Substances</link></para>
+      <para role="chapterAuthor">Michael A. Pentella</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0455">17.7. Management of Laboratory Accidents</link></para>
+      <para role="chapterAuthor">Blake W. Buchan</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0456">17.8. Management of Infectious Waste</link></para>
+      <para role="chapterAuthor">Ryan F. Relich</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0457">17.9. Risk Assessment</link></para>
+      <para role="chapterAuthor">Blake W. Buchan</para>
+    </listitem>
+  </itemizedlist>
+</sect1>

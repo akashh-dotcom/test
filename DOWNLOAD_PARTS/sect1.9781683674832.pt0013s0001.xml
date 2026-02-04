@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0013s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 13</emphasis>
+    <emphasis role="partTitle">Serology</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Elitza S. Theel</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0310">13.1. Immunoassays for Detection of Infectious Diseases</link></para>
+      <para role="chapterAuthor">Elitza S. Theel</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0310s0001">13.1.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0311">13.1.2. Common Immunologic Assays Used for Detection of Antibodies to and Antigens from Infectious Pathogens</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0311">Table 13.1.2–1. Basic description of common immunologic assays used for detection of antibodies to and antigens from infectious pathogens</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0312">13.2. Serologic Diagnosis of Group A Streptococcal Infections</link></para>
+      <para role="chapterAuthor">David Murray</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0312s0001">13.2.1. Serologic Evaluation for Rheumatic Fever and Poststreptococcal Glomerulonephritis</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0313">13.2.2. Anti-Streptolysin O and Anti-DNase B Tests</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0314">13.3. Detection of Brucella spp. Antibodies</link></para>
+      <para role="chapterAuthor">Robyn A. Stoddard</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0314s0001">13.3.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0315">13.3.2. Detection of Brucella spp. by Microagglutination Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0316">13.3.3. Detection of Brucella spp. Antibodies by Tube Agglutination Test</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0317">13.4. Detection of Francisella tularensis Antibodies</link></para>
+      <para role="chapterAuthor">Jeannine M. Peterson and Elizabeth A. Dietrich</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0317s0001">13.4.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0318">13.4.2. Detection of Francisella tularensis Antibodies by Agglutination</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0319">13.4.3. Detection of Francisella tularensis Antibodies by ELISA</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0320">13.5. Laboratory Diagnosis of Syphilis</link></para>
+      <para role="chapterAuthor">Yetty Fakile, Weiping Cao, Mayur Shukla, and Allan Pillay</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0320s0001">13.5.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0321">13.5.2. Venereal Disease Research Laboratory (VDRL) Tests</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0322">13.5.3. Rapid Plasma Reagin (RPR) Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0323">13.5.4. Automated Nontreponemal Rapid Plasma Reagin (RPR) Tests</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0324">13.5.5. Treponema pallidum Particle Agglutination (TP-PA) Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0325">13.5.6. Trep-Sure Enzyme Immunoassay</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0326">13.5.7. Automated Treponemal Tests</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0327">13.5.8. INNO-LIA Syphilis Score</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0328">13.6. Detection of Borrelia burgdorferi Antibodies</link></para>
+      <para role="chapterAuthor">Maria E. Aguero-Rosenfeld</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0329">13.7. SARS-CoV-2 Serologic Testing</link></para>
+      <para role="chapterAuthor">Elitza S. Theel</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0330">13.8. Epstein-Barr Virus Serology</link></para>
+      <para role="chapterAuthor">Linda E. Miller</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0330s0001">13.8.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0331">13.8.2. Detection of Heterophile Antibodies</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0332">13.8.3. Detection of Epstein-Barr Virus-Specific Antibodies</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0333">13.9. Cytomegalovirus Serology</link></para>
+      <para role="chapterAuthor">Harry E. Prince</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0333s0001">13.9.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0334">13.9.2. Detection of Antibodies Against Cytomegalovirus by Enzyme-Linked Immunosorbent Assays and Chemiluminescence Immunoassays</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0335">13.9.3. Cytomegalovirus IgG Avidity Testing</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0336">13.10. Human Immunodeficiency Virus Serology</link></para>
+      <para role="chapterAuthor">Erin J. Kaleta</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0336s0001">13.10.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0337">13.10.2. HIV Screening Immunoassays</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0338">13.10.3. HIV-1/2 Supplemental Immunoassays</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0339">13.11. Serologic Testing for Hepatitis Viruses</link></para>
+      <para role="chapterAuthor">Bijal A. Parikh and Neil W. Anderson</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0339s0001">13.11.1. Heptatits A Virus Serology</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0340">13.11.2. Hepatitis B Virus Serology</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0341">13.11.3. Hepatitis C Virus Serology</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0342">13.12. Serologic Diagnosis of Arbovirus Infections</link></para>
+      <para role="chapterAuthor">Matthew H. Collins and Rebecca S. Pelc</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0343">13.13. Serologic Tests for Diagnosis of Histoplasma capsulatum</link></para>
+      <para role="chapterAuthor">Patricia Slev and Jenna Rychert</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0343s0001">13.13.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0344">13.13.2. Histoplasma capsulatum Antibody Detection by Complement Fixation</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0345">13.13.3. Histoplasma capsulatum Antibody Detection by Immunodiffusion (ID)</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0346">13.14. Serologic Methods for Diagnosis of Coccidioides Infections</link></para>
+      <para role="chapterAuthor">Mark D. Lindsley</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0346s0001">13.14.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0347">13.14.2. Detection of Antibodies to Coccidioides spp. by Immunodiffusion</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0348">13.14.3. Detection of Antibodies to Coccidioides spp. by Complement Fixation</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0349">13.14.4. Detection of Antibodies to Coccidioides spp. by EIA</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0350">13.14.5. Detection of Antibodies to Coccidioides spp. by Lateral Flow Assay (LFA)</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0351">13.15. Serologic Diagnosis of Chagas Disease</link></para>
+      <para role="chapterAuthor">Jeffrey D. Whitman and Caryn Bern</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0352">13.16. Serologic Testing for Toxoplasmosis</link></para>
+      <para role="chapterAuthor">Christelle Pomares, Kjerstie Olson, and José G. Montoya</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0352s0001">13.16.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0353">13.16.2. Detection of Toxoplasma IgM Antibodies by ELISA (Remington Method)</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0354">13.16.3. Detection of Toxoplasma IgM Antibodies by the Immunoglobulin M Immunosorbent Agglutination Assay</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0355">13.16.4. Detection of Toxoplasma IgA Antibodies by ELISA (Remington Method)</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0356">13.16.5. Detection of Toxoplasma IgE Antibodies by ELISA (Remington Method)</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0357">13.16.6. Vidas Toxo IgG Avidity Assay</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0358">13.16.7. AC/HC (Differential Agglutination)</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0358s0003s04">Appendix 13.16.7–1. 1.4% 2-Mercaptoethanol in Phosphate-Buffered Saline</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0359">13.17. Interferon Gamma Release Assays for Latent Tuberculosis Infection</link></para>
+      <para role="chapterAuthor">Cristina Costales and Niaz Banaei</para>
+    </listitem>
+  </itemizedlist>
+</sect1>

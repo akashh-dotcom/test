@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0005s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 5</emphasis>
+    <emphasis role="partTitle">Blood Culture</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Amanda T. Harrington and Erin McElvania</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0136">5.1. Introduction</link></para>
+      <para role="chapterAuthor">Amanda T. Harrington and Erin McElvania</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0137">5.2. Preanalytical Considerations and Laboratory Processing of Samples for Blood Culture</link></para>
+      <para role="chapterAuthor">Robert J. Tibbetts and Amanda T. Harrington</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0138">5.3. Continuous-Monitoring Blood Culture Systems for Detection of Aerobic and Anaerobic Bacteria</link></para>
+      <para role="chapterAuthor">Evann E. Hilt</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0139">5.4. Lysis Centrifugation</link></para>
+      <para role="chapterAuthor">Erin McElvania</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0140">5.5. Continuous Monitoring Blood Culture Systems for Detection of Acid-Fast Bacilli and Fungi</link></para>
+      <para role="chapterAuthor">William D. Lainhard and Paul M. Leuthy</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0141">5.6. Quality Control and Quality Assurance for Blood Cultures</link></para>
+      <para role="chapterAuthor">Raquel M. Martinez</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0141">Appendix 5.6–1. Serial Dilution Method for Seeded Blood Culture Studies</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0142">5.7. Staining, Culture, and Identification Methods for Aerobic and Anaerobic Bacteria Recovered from Positive Blood Cultures</link></para>
+      <para role="chapterAuthor">Evann E. Hilt and Sophonie Jean</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0143">5.8. Staining, Culture, and Identification Methods for Acid-Fast Bacilli and Fungi Recovered from Positive Blood Cultures</link></para>
+      <para role="chapterAuthor">William D. Lainhart and Paul M. Luethy</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0144">5.9. Blood Cultures: Postanalytical Considerations</link></para>
+      <para role="chapterAuthor">Kamal Kamboj and Joan-Miquel Balada-Llasat</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0145">5.10. Supplementing Blood Cultures with Chromogenic Media to Expedite Microorganism Identification and/or Antimicrobial Resistance Detection</link></para>
+      <para role="chapterAuthor">Matthew L. Faron</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0146">5.11. Specialized Processing of Blood</link></para>
+      <para role="chapterAuthor">Robin R. Chamberland</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0146s0001">5.11.1. Transfusion Reactions</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0147">5.11.2. Autopsy Blood Cultures</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0148">5.11.3. Special Media or Stains for Fastidious and Infrequently Encountered Organisms</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0149">5.12. Diagnosis of Catheter-Related Bloodstream Infection: Differential-Time-to-Positivity Cultures and Catheter Tip Cultures</link></para>
+      <para role="chapterAuthor">Steve Miller</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0150">5.13. Multiplex Molecular Panels for Positive Blood Cultures</link></para>
+      <para role="chapterAuthor">Rosemary C. She and Tam T. Van</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0151">5.14. Broad-Range PCR and Emerging Technologies for the Direct Detection of Microorganisms from Blood Specimens</link></para>
+      <para role="chapterAuthor">Daniel A. Green</para>
+    </listitem>
+  </itemizedlist>
+</sect1>

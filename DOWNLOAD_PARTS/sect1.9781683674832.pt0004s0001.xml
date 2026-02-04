@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0004s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 4</emphasis>
+    <emphasis role="partTitle">Anaerobic Bacteriology</emphasis>
+  </title>
+  <para role="editor">SECTION EDITOR: Audrey N. Schuetz</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0101">4.1. Introduction</link></para>
+      <para role="chapterAuthor">Audrey N. Schuetz</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0102">4.2. Taxonomy Updates for Anaerobes</link></para>
+      <para role="chapterAuthor">Samantha K. Shannon and Morgan A. Pence</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0103">4.3. Specimen Selection, Collection, and Transport for Anaerobic Culture</link></para>
+      <para role="chapterAuthor">Melphine M. Harriott and Kristen L. Brown</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0104">4.4. Culture Media for Anaerobes</link></para>
+      <para role="chapterAuthor">Jennifer Dien Bard, Sarah Copsey-Mawer, and Mimi Precit</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0104s0001">4.4.1. Primary Culture Media for Anaerobes</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0104s0004">Appendix 4.4.1–1. Formulas of Media for Anaerobes</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0105">4.4.2. Secondary Culture Media for Anaerobes</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0106">4.5. Processing Specimens for Anaerobic Culture</link></para>
+      <para role="chapterAuthor">Trefor E. Morris</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0107">4.6. Incubation Techniques for Anaerobic Bacteriology Specimens</link></para>
+      <para role="chapterAuthor">Trefor E. Morris</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0108">4.7. Examination of Primary Culture Plates for Anaerobic Bacteria</link></para>
+      <para role="chapterAuthor">Trefor E. Morris</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0109">4.8. A Practical Guide to the Workup of Anaerobic Cultures</link></para>
+      <para role="chapterAuthor">Samantha K. Shannon and Morgan A. Pence</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0110">4.9. Rapid Disk, Spot Tests, and Other Rapid or Primary Methods for the Identification of Anaerobes</link></para>
+      <para role="chapterAuthor">Andrew Clark and Margaret Ordoñez Smith de Daines</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0110s0001">4.9.1. Introduction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0111">4.9.2. Indole Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0112">4.9.3. Nitrate Disk Reduction Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0113">4.9.4. Catalase Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0114">4.9.5. Identification by Using Special-Potency Disks</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0115">4.9.6. Sodium Polyanethol Sulfonate (SPS) Disk for Differentiation of Gram-Positive Anaerobic Cocci</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0116">4.9.7. Bile Disk Test/Bile Broth Test/Bacteroides Bile Esculin Agar for Differentiation of Anaerobic Gram-Negative Rods</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0117">4.9.8. Fluorescence</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0118">4.9.9. Lipase Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0119">4.9.10. Lecithinase Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0120">4.9.11. Pigment Production</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0121">4.9.12. Urease Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0122">4.9.13. Gelatinase Production</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0123">4.9.14. Alkaline Phosphatase</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0124">4.9.15. Glutamic Acid Decarboxylase</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0125">4.9.16. L-Alanyl-Alanylaminopeptidase</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0126">4.9.17. L-Proline-Aminopeptidase</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0127">4.9.18. 4-Methylumbelliferone Derivative Substrates</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0128">4.9.19. Combination Enzymatic Tablets for Nitrophenol, Aminopeptidase, and Glycosidases</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0129">4.10. Commercial Kit and Rapid Enzymatic Systems for the Identification of Anaerobes</link></para>
+      <para role="chapterAuthor">Frances Valencia-Shelton and Jennifer Dien Bard</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0130">4.11. Storage and Stocking of Anaerobes</link></para>
+      <para role="chapterAuthor">Frances Valencia-Shelton and Kristen L. Brown</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0131">4.12. Use of Matrix-Assisted Laser Desorption Ionization–Time of Flight Mass Spectrometry for the Identification of Anaerobic Bacteria</link></para>
+      <para role="chapterAuthor">Ashley L. Paulick and Sarah Copsey-Mawer</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0132">4.13. Anaerobic Gram-Negative Bacilli</link></para>
+      <para role="chapterAuthor">Rosemary C. She and Dierdre L. Church</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0133">4.14. Anaerobic Gram-Positive Bacilli</link></para>
+      <para role="chapterAuthor">Kathryn Bernard and Camille Hamula</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0134">4.15. Anaerobic Cocci</link></para>
+      <para role="chapterAuthor">Rosemary C. She and Deirdre L. Church</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0135">4.16. Clostridioides (Clostridium) difficile as a Pathogen Involved in Antimicrobial Agent-Associated Diarrhea, Colitis, and Pseudomembranous Colitis</link></para>
+      <para role="chapterAuthor">Karen C. Carroll and Ashley L. Paulick</para>
+    </listitem>
+  </itemizedlist>
+</sect1>

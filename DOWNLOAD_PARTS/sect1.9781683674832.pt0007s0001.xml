@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0007s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 7</emphasis>
+    <emphasis role="partTitle">Antimicrobial Susceptibility Testing</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Romney M. Humphries and Patricia J. Simner</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0158">7.1. Introduction to Antimicrobial Susceptibility Testing Methods</link></para>
+      <para role="chapterAuthor">Romney M. Humphries and Patricia J. Simner</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0159">7.1.1. Types of Antimicrobial Susceptibility Tests</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0159s0001s07">Appendix 7.1.1–1. Surrogate and Equivalent Agent Tests for Commonly Isolated Bacteria that Grow Aerobically</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0160">7.1.2. Selecting and Applying Clinical Breakpoints</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+  </itemizedlist>
+</sect1>

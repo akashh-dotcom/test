@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0011s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 11</emphasis>
+    <emphasis role="partTitle">Parasitology</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Bobbi S. Pritt and Marc R. Couturier</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0237">11.1. Introduction</link></para>
+      <para role="chapterAuthor">Lynne S. Garcia</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0237s0001">Part 1. Equipment</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0237s0002">Part 2. Calibration of Microscope with an Ocular Micrometer</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0237s0005">Part 3. Safety</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0237s0006">Part 4. Quality Control</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0237s0007">Part 5. Quality Assurance</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0237s0008">Part 6. STAT Testing in Parasitology</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0238">11.2. Collection and Preservation of Fecal Specimens</link></para>
+      <para role="chapterAuthor">Marc R. Couturier</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0238s0001">11.2.1. Collection of Fresh Specimens</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0239">11.2.2. Fixation and Preservation of Specimens</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0240">11.2.3. Shipment of Specimens</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0241">11.3. Macroscopic and Microscopic Examination of Fecal Specimens</link></para>
+      <para role="chapterAuthor">Wilson W. Chan</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0241s0001">11.3.1. Macroscopic Examination of Fecal Specimens: Age and Physical Description</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0242">11.3.2. Microscopic Examination of Fecal Specimens: Direct Smears</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0243">11.3.3. Microscopic Examination of Fecal Specimens: Concentration by Formalin-Ethyl Acetate Sedimentation</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0244">11.3.4. Microscopic Examination of Fecal Specimens: Concentration by Zinc Sulfate Flotation</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0245">11.3.5. Microscopic Examination of Fecal Specimens: Permanent Stained Smear (Trichrome)</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0246">11.3.6. Microscopic Examination of Fecal Specimens: Iron Hematoxylin Stain (Modified Spencer-Monroe Method)</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0247">11.4. Special Stains for Coccidia and Microsporidia</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0247s0001">11.4.1. Special Stains for Cryptosporidium and the Coccidia: Modified Kinyoun’s Acid-Fast Stain (Cold)</link></para>
+          <para role="chapterAuthor">Blaine A. Mathison.</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0248">11.4.2. Special Stains for Cryptosporidium and the Coccidia: Modified Ziehl-Neelsen Acid-Fast Stain (Hot</link></para>
+          <para role="chapterAuthor">Blaine A. Mathison.</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0249">11.4.3. Special Stains for Microsporidia: Modified Trichrome-Weber Green</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia.</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0250">11.4.4. Special Stains for Microsporidia: Modified Trichrome-Ryan Blue</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia.</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0251">11.4.5. Special Stains for Microsporidia: Combination Acid-Fast Modified Trichrome Stain for the Apicomplexa and the Microsporidia</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia.</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0252">11.4.6. Special Stain for Cryptosporidium and the Coccidia: Modified Safranin Technique with Microwave Heating</link></para>
+          <para role="chapterAuthor">Blaine A. Mathison.</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0253">11.4.7. Autofluorescence for Cyclospora, Cystoisospora, and Sarcocystis</link></para>
+          <para role="chapterAuthor">Blaine A. Mathison.</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0254">11.4.8. Calcofluor White for Detection of Microsporidial Spores, Acanthamoeba, and Balamuthia mandrillaris Cysts</link></para>
+          <para role="chapterAuthor">Sixto M. Leal Jr</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0255">11.5. Additional Techniques for Stool Examination</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0255s0001">11.5.1. “Culture” of Larval-Stage Nematodes: Baermann Technique</link></para>
+          <para role="chapterAuthor">Ribhi Shawar</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0256">11.5.2. “Culture” of Larval-Stage Nematodes: Harada-Mori Technique</link></para>
+          <para role="chapterAuthor">Ribhi Shawar</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0257">11.5.3. “Culture” of Larval-Stage Nematodes: Petri Dish-Filter Paper Slant</link></para>
+          <para role="chapterAuthor">Ribhi Shawar</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0258">11.5.4. “Culture” of Larval-Stage Nematodes: Agar Plate Culture for Strongyloides stercoralis</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0259">11.5.5. Determination of Egg Viability: Schistosomal Egg Hatching</link></para>
+          <para role="chapterAuthor">Ribhi Shawar</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0260">11.5.6. Recovery of Scolices and Proglottids of Cestodes</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0261">11.5.7. Qualitative Fecal Fat</link></para>
+          <para role="chapterAuthor">Lisa Johnson</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0262">11.5.8. Reducing Substances (AimTab)</link></para>
+          <para role="chapterAuthor">Lisa Johnson</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0263">11.6. Other Specimens from the Intestinal Tract and the Urogenital System</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0263s0001">11.6.1. Examination for Pinworm: Cellulose Tape Preparation</link></para>
+          <para role="chapterAuthor">Heather R. Morris and Bobbi S. Pritt</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0264">11.6.2. Sigmoidoscopy Specimen: Direct Wet Smear</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0265">11.6.3. Sigmoidoscopy Specimen: Permanent Stained Smear</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0266">11.6.4. Duodenal Contents: Duodenal Aspirate</link></para>
+          <para role="chapterAuthor">Heather R. Morris and Bobbi S. Pritt</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0267">11.6.5. Urogenital Specimens: Direct Saline Mount</link></para>
+          <para role="chapterAuthor">Heather R. Morris and Bobbi S. Pritt</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0268">11.6.6. Urogenital Specimens: Permanent Stained Smear (Giemsa)</link></para>
+          <para role="chapterAuthor">Heather R. Morris and Bobbi S. Pritt</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0269">11.6.7. Urine Concentration: Centrifugation</link></para>
+          <para role="chapterAuthor">Heather R. Morris and Bobbi S. Pritt</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0270">11.6.8. Urine Concentration: Membrane Filter (Nuclepore)</link></para>
+          <para role="chapterAuthor">Heather R. Morris and Bobbi S. Pritt</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0271">11.7. Sputum, Aspirates, and Biopsy Material</link></para>
+      <para role="chapterAuthor">Sixto M. Leal Jr</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0271s0001">11.7.1. Expectorated Sputum: Direct-Mount and Stained Preparations</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0272">11.7.2. Aspirates and Bronchoscopy Specimens</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0273">11.7.3. Biopsy Specimens</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0274s0001">11.8. Detection of Blood Parasites</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0274s0001">11.8.1. Detection of Blood Parasites</link></para>
+          <para role="chapterAuthor">Richard E. Davis.</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0275">11.8.2. Preparation of Thin Blood Films</link></para>
+          <para role="chapterAuthor">Richard E. Davis</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0276">11.8.3. Preparation of Thick Blood Films</link></para>
+          <para role="chapterAuthor">Richard E. Davis</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0277">11.8.4. Combination Thick and Thin Blood Films</link></para>
+          <para role="chapterAuthor">Richard E. Davis</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0278">11.8.5. Giemsa Stain</link></para>
+          <para role="chapterAuthor">Richard E. Davis</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0279">11.8.6. Wright’s Stain</link></para>
+          <para role="chapterAuthor">Richard E. Davis</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0280">11.8.7. Determination of Parasitemia: Parasite Quantification</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia and Richard E. Davis</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0281">11.8.8. Delafield’s Hematoxylin Stain</link></para>
+          <para role="chapterAuthor">Richard E. Davis</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0282">11.8.9. Concentration Procedures: Buffy Coat Concentration</link></para>
+          <para role="chapterAuthor">Richard E. Davis</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0283">11.8.10. Concentration Procedures: Membrane Filtration Concentration</link></para>
+          <para role="chapterAuthor">Richard E. Davis</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0284">11.8.11. Concentration Procedures: Knott Concentration</link></para>
+          <para role="chapterAuthor">Richard E. Davis</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0285">11.8.12. Testing Modalities and Algorithms for Malaria Diagnosis</link></para>
+          <para role="chapterAuthor">Richard E. Davis</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0286">11.9. Culture</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0286s0001">11.9.1. Parasite Culture of Acanthamoeba and Naegleria spp</link></para>
+          <para role="chapterAuthor">Ibne Karim M. Ali and Govinda Visvesvara</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0287">11.9.2. Parasite Culture: Trichomonas vaginalis</link></para>
+          <para role="chapterAuthor">W. Evan Secor</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0288">11.9.3. Parasite Culture: Leishmania spp. and Trypanosoma cruzi</link></para>
+          <para role="chapterAuthor">Justin J. Lawrence and Sarah G.H. Sapp</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0289">11.10. Gross Examination of Helminths and Arthropods</link></para>
+      <para role="chapterAuthor">Blaine A. Mathison</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0290">11.11. Appendixes</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0290">11.11.1. Appendix 11.11.1–1—Identification Aids: Artifacts</link></para>
+          <para role="chapterAuthor">Bobbi S. Pritt</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0290">Table 11.11.1–A1. Clinical Specimens: Summary of Artifacts Resemling Parasites</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0291">11.11.2. Appendix 11.11.2–1—Information Tables</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0291">Table 11.11.2–A1. Body Sites and Specimen Collection</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0291">Table 11.11.2–A2. Body Sites and the Most Common Parasites Recovered (Trophozoites, Cysts, Oocysts, Spores, Adults, Larvae, Eggs, Amastigotes, and Trypomastigotes)</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0291">Table 11.11.2–A3. Body Site, Specimens, and Recommended Stains</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0291">Table 11.11.2–A4. Examination of Tissues and Body Fluids</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0291">Table 11.11.2–A5. Protozoa of the Intestinal Tract and Urogenital System: Key Characteristics</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0291">Table 11.11.2–A6. Tissue Protozoa: Characteristics</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0291">Table 11.11.2–A7. Helminths: Key Characteristics</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0291">Table 11.11.2–A8. Parasites Found in Blood: Characteristics</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0291">Table 11.11.2–A9. Parasitic Infections: Clinical Findings in Healthy and Compromised Hosts</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0291">Table 11.11.2–A10. Fecal Antigen Detection Method Options</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0292">11.11.3. Appendix 11.11.3–1—Common Problems in Organism Identification</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia.</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0293">11.11.4. Appendix 11.11.4–1—Quality Control Recording Sheets</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia.</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0294">11.11.5. Appendix 11.11.5–1—Flowcharts for Processing Stool Specimens</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0295">11.11.6. Appendix 11.11.6–1—Current OSHA Regulations on the Use of Formaldehyde</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0296">11.11.7. Appendix 11.11.7–1—Test Report Comments</link></para>
+          <para role="chapterAuthor">Lynne S. Garcia</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+  </itemizedlist>
+</sect1>

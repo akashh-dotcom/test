@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0006s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 6</emphasis>
+    <emphasis role="partTitle">MALDI-TOF MS</emphasis>
+  </title>
+  <para role="editor">SECTION EDITOR: Erin McElvania</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0152">6.1. Introduction</link></para>
+      <para role="chapterAuthor">Erin McElvania</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0153">6.2. MALDI-TOF MS for Bacterial and Yeast Identification</link></para>
+      <para role="chapterAuthor">Margaret V. Powers-Fletcher and Mark A. Fisher</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0154">6.3. Identification of Highly Pathogenic Bacteria by MALDI-TOF MS</link></para>
+      <para role="chapterAuthor">Anthony Tran</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0155">6.4. MALDI-TOF MS for Identification of Acid-Fast Bacilli and Aerobic Actinomycetes</link></para>
+      <para role="chapterAuthor">Adrian M. Zelazny and Joan-Miquel Balad-Llasat</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0155s0003s05">Appendix 6.4–1. Databases</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0156">6.5. MALDI-TOF MS for Filamentous Fungi Identification</link></para>
+      <para role="chapterAuthor">Kimberly E. Hanson, Juliana Sobczyk, and Emily Snavely</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0157">6.6. MALDI-TOF MS for Identification of Bacteria and Yeast from Positive Blood Culture Broth</link></para>
+      <para role="chapterAuthor">Erin McElvania</para>
+    </listitem>
+  </itemizedlist>
+</sect1>

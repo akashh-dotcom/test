@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0003s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 3</emphasis>
+    <emphasis role="partTitle">Aerobic Bacteriology</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Amanda T. Harrington and Melanie L. Yarbrough</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0013">3.1. Introduction</link></para>
+      <para role="chapterAuthor">Amanda T. Harrington and Melanie L. Yarbrough</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0014">3.2. Staining Procedures</link></para>
+      <para role="chapterAuthor">Steven Dallas and Amanda T. Harrington</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0014s0001">3.2.1. Gram Stain</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0014s0004">Appendix 3.2.1–1. Preparation of Gram Stain Reagents</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0014s0005">Appendix 3.2.1–2. Rejection Criteria for Sputum Culture</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0014s0006">Appendix 3.2.1–3. Reporting Gram-Stained Vaginal Smears to Diagnose Bacterial Vaginosis and Vaginitis</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0015">3.2.2. Acridine Orange Stain</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0015s0007">Appendix 3.2.2–1. Preparation of Acridine Orange Stain</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0016">3.2.3. Vaginal Wet Mount</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0017">3.2.4. Methylene Blue Stain for Fecal Leukocytes</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0018">3.2.5. Dark-Field Microscopy for Treponema pallidum</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0019">3.3. Processing, Isolation, Detection, and Interpretation of Aerobic Bacteriology Cultures</link></para>
+      <para role="chapterAuthor">Amanda T. Harrington and Melanie L. Yarbrough</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0019s0001">3.3.1. Processing of Specimens for Aerobic Bacteriology</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0020">3.3.2. Interpretation and Rapid Identification of Bacterial Growth on Primary Culture Media</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0021">3.4. Body Fluid Cultures (Excluding Blood, Cerebrospinal Fluid, and Urine)</link></para>
+      <para role="chapterAuthor">Nicholas M. Moore</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0022">3.5. Cerebrospinal Fluid Cultures</link></para>
+      <para role="chapterAuthor">Rangaraj Selvarangan</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0023">3.6. Medical Devices: Pre- and Postimplant testing</link></para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0024">3.7. Fecal and Other Gastrointestinal Cultures</link></para>
+      <para role="chapterAuthor">Dylan R. Pillai and Thomas Griener</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0024s0001">3.7.1. Fecal Culture for Aerobic Pathogens of Gastroenteritis</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0024s0005">Appendix 3.7.1–1. Detection of Somatic O Antigen Serogroups of Bacteria</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0024s0006">Appendix 3.7.1–2. Detection of Escherichia coli O157 by Latex Agglutination</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0024s0007">Appendix 3.7.1–3. Detection of Shiga Toxin by Immunochromatographic Assay</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0025">3.7.2. Culture for Campylobacter and Related Organisms</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0026">3.7.3. Helicobacter pylori Cultures</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0026s0004">Appendix 3.7.3–1. Helicobacter pylori Antigen Assay</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0027">3.7.4. Quantitative Culture of Small-Bowel Contents</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0028">3.8. Genital Cultures</link></para>
+      <para role="chapterAuthor">Laura M. Filkins and Omai B. Garner</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0028s0001">3.8.1. Guidelines for Performance of Genital Cultures</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0029">3.8.2. Group B Streptococcus Cultures</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0030">3.8.3. Neisseria gonorrhoeae Cultures</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0031">3.8.4. Haemophilus ducreyi Cultures</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0032">3.9. Ocular Cultures</link></para>
+      <para role="chapterAuthor">Eileen M. Burd</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0033">3.10. Respiratory Tract Cultures</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0033s0001">3.10.1. Guidelines for Performance of Respiratory Tract Cultures • Kevin Alby and Jason R. Smedberg</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0034">3.10.2. Lower Respiratory Tract Cultures • Kevin Alby and Jason R. Smedberg</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0034s0004">Appendix 3.10.2–1. Quantitative Culture of Protected Specimen Brush and Bronchoalveolar Lavage Fluid Specimens</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0035">3.10.3. Respiratory Cultures from Cystic Fibrosis Patients • Kevin Alby and Jason R. Smedberg</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0036">3.10.4. Legionella Cultures and Urinary Antigen Testing • Diane S. J. Lindsay and Maria L. Ricci</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0036s0005">Appendix 3.10.4–1. Urinary Antigen Testing</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0037">3.10.5. Ear Cultures • Melanie L. Yarbrough and Carey-Ann D. Burnham</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0038">3.10.6. Bordetella Cultures • Amy L. Leber</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0039">3.10.7. Culture of Corynebacterium diphtheriae and Other Diphtheria Toxin-Producing Bacterial Species • Allen C. Bateman</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0040">3.10.8. Throat Culture and Nonculture Tests for Pharyngitis • Mark D. Gonzalez</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0040s0004">Appendix 3.10.8–1. Beta-Hemolytic Streptococcal Latex Agglutination Method</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0041">3.10.9 Nasal Sinus Cultures • Morgan A. Pence</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0042">3.11. Urine Cultures</link></para>
+      <para role="chapterAuthor">Melanie L. Yarbrough</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0042s0001">3.11.1. Urine Cultures</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0042s0004">Appendix 3.11.1–1. Validation of Urine Inoculation Methods</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0043">3.11.2. Stone Cultures</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0044">3.12. Wound Cultures</link></para>
+      <para role="chapterAuthor">Alexandra L. Bryson and Christopher D. Doern</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0044s0001">3.12.1. Wound/Abscess and Soft Tissue Cultures</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0045">3.12.2. Quantitative Cultures of Wound Tissues</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0046">3.13. Leptospira Culture</link></para>
+      <para role="chapterAuthor">Renee L. Galloway</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0046s0003s04">Appendix 3.13–1. Summary of Diagnostic Tests for Leptospirosis</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0047">3.14. Detection of Human Mycoplasmas and Ureaplasmas from Clinical Specimens by Culture and PCR</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0047s0001">3.14.1. Mycoplasma pneumoniae, Mycoplasma hominis, and Ureaplasma Cultures • Cécile Bébéar and Ken B. Waites</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0047s0004">Appendix 3.14.1–1. Medium Formulations for Cultivation of Mycoplasmas and Ureaplasmas from Humans</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0048">3.14.2. Antimicrobial Susceptibility Testing of Mycoplasmas and Ureaplasmas • Cécile Bébéar and Ken B. Waites</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0049">3.14.3. Detection of Mycoplasma pneumoniae by Nucleic Acid Amplification Tests • Cécile Bébéar</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0050">3.14.4. Detection of Mycoplasma genitalium, Mycoplasma hominis, and Ureaplasma Species by Nucleic Acid Amplification Tests • Cécile Bébéar</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0051">3.15. Bartonella Cultures</link></para>
+      <para role="chapterAuthor">Jill E. Clarridge III and Amanda T. Harrington</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0052">3.16. Guidelines for Biochemical Identification of Aerobic Bacteria</link></para>
+      <para role="chapterAuthor">James J. Dunn</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0053">3.17. Biochemical Tests for the Identification of Aerobic Bacteria</link></para>
+      <para role="chapterAuthor">Richard E. Davis and Marie T. Pezzlo</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0053s0001">3.17.1. Acetamide Utilization Test (Acetamide Agar)</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0054">3.17.2. Acetate Utilization Test (Acetate Differential Agar)</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0055">3.17.3. ALA (δ-Aminolevulinic Acid) Test for Porphyrin Synthesis—Tube or Disk Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0056">3.17.4. Antimicrobial Disk Tests for Identification</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0057">3.17.5. Bile-Esculin and Esculin Tests</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0058">3.17.6. Bile Solubility Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0059">3.17.7. Butyrate Esterase Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0060">3.17.8. CAMP Factor Tests (Standard/Rapid, Reverse, and Inhibition)</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0061">3.17.9. Carbohydrate Utilization Tests</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0062">3.17.10. Catalase Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0063">3.17.11. Cetrimide Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0064">3.17.12. Citrate Utilization Test (Simmons)</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0065">3.17.13. Coagulase Test—Protein A/Clumping Factor Agglutination Method</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0066">3.17.14. Coagulase Test—Rabbit Plasma Method</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0067">3.17.15. Decarboxylase-Dihydrolase Tests</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0068">3.17.16. DNase Test–Rapid Thermonuclease Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0069">3.17.17. Fluorescent-Pigment Agars for Pseudomonas Identification</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0070">3.17.18. Gelatin Liquefaction</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0071">3.17.19. Gram Reaction Enzymatic Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0072">3.17.20. Hippurate Hydrolysis Rapid Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0073">3.17.21. Hydrogen Sulfide Production</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0074">3.17.22. Indole Test</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0074s0002">Appendix 3.17.22–1. Reagent Preparation</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0075">3.17.23. Indoxyl Acetate Disk Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0076">3.17.24. Kligler’s Iron Agar Test and Triple Sugar Iron Agar Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0077">3.17.25. Leucine Aminopeptidase Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0078">3.17.26. Lecithinase and Lipase Detection</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0078s0002">Appendix 3.17.26–1. Preparation of Egg Yolk Agar Medium</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0079">3.17.27. Lipophilism Test for Corynebacterium</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0080">3.17.28. Malonate Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0081">3.17.29. Methyl Glucopyranoside (MGP) Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0082">3.17.30. Motility Tests</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0083">3.17.31. MRS Broth</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0084">3.17.32. Methyl Red–Voges-Proskauer (MR-VP) Tests</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0085">3.17.33. MUG (4-Methylumbelliferyl-β-d-Glucuronide) Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0086">3.17.34. Nitrate/Nitrite Reduction Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0087">3.17.35. O/129 Disk Susceptibility Testing for Vibrio and Aeromonas spp.</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0088">3.17.36. ONPG (o-Nitrophenyl-β-d-Galactopyranoside) Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0089">3.17.37. Optochin Susceptibility Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0090">3.17.38. Oxidase Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0091">3.17.39. Phenylalanine Deaminase Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0092">3.17.40. PYR (l-Pyrrolidonyl-β-Naphthylamide) Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0093">3.17.41. Quellung Reaction for Streptococcus pneumoniae (Neufeld Test)</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0094">3.17.42. 6.5% Salt and Temperature Tolerance Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0095">3.17.43. Satellite Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0096">3.17.44. SPS (Sodium Polyanethol Sulfonate) Disk Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0097">3.17.45. Starch Hydrolysis Test</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0098">3.17.46. Urease Test</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0099">3.18. Identification of Gram-Positive Bacteria</link></para>
+      <para role="chapterAuthor">Kathryn Bernard</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0100">3.19. Identification of Gram-Negative Bacteria</link></para>
+      <para role="chapterAuthor">Erik Munson and Raymond P. Podzorski</para>
+    </listitem>
+  </itemizedlist>
+</sect1>

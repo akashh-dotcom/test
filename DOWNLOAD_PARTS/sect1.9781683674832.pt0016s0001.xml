@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0016s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 16</emphasis>
+    <emphasis role="partTitle">Quality Assurance, Quality Control, Laboratory Records, and Water Quality</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Linoj Samuel</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0420">16.1. Quality Assessment and Improvement (Quality Assurance)</link></para>
+      <para role="chapterAuthor">Sue Kehl and Melphine Harriott</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0420s0001s05">Appendix 16.1–1. List of Approved Accreditation Organizations Under the Clinical Laboratory Improvement Amendments (CLIA)</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0420">Appendix 16.1–2. List of the Clinical Laboratory Improvement Amendments (CLIA) Approved Proficiency Testing (PT) Programs for 2021</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0420">Appendix 16.1–3. Procedure for Development of a Customer Feedback Survey</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0420">Appendix 16.1–4. Procedure to Develop a Competency Assessment Program</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0420">Appendix 16.1–5. Example Draft of Bacteriology Tests Systems or Processes Grouped for Competency Assessment</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0420s0001s13">Appendix 16.1–6. Competency Assessment Form</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0420">Appendix 16.1–7. Quality Indicators by Path of Workflow</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0420s0001s15">Appendix 16.1–8. Quality Indicator Activities Form</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0420s0001s17">Appendix 16.1–9. Example of Quality Indicator Report</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0420s0001s18">Appendix 16.1–10. Nonconforming Event Form</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0420">Appendix 16.1–11. Nonconforming Event Analyzed by Path of Workflow</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0420">Appendix 16.1–12. Examples of Tools Used for Root Cause Analysis. A. Process Mapping B. Fishbone Diagram. C. Pareto Chart</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0421">16.1.1. Process Improvement</link></para>
+          <para role="chapterAuthor">Linoj Samuel</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0421">Appendix 16.1.1–1. Problem-Solving PDCA-A3 Form</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0422">16.1.2. Quality Control and Assurance for Microbiology Full Laboratory Automation</link></para>
+          <para role="chapterAuthor">Karissa Culbreath and Cecilia Thompson</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0420s0001s06">Appendix 16.1.2–1. Example Error Report Log</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0420s0001s06">Appendix 16.1.2–2. Example Maintenance Log</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0422s0003s07">Appendix 16.1.2–3. Laboratory Process Improvement Metrics Example</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0423">16.2. Quality Control</link></para>
+      <para role="chapterAuthor">Nicole Hubbard and Mark A. Cervinski</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0424">16.3. Verification and Validation of Test System Performance Specifications</link></para>
+      <para role="chapterAuthor">Rebekah M. Martin and Michael Loeffelholz</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0425">16.4. CLIA Certification and Accreditation, ISO 15189 Accreditation, and Proficiency Testing</link></para>
+      <para role="chapterAuthor">Heather L. Stang</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0426">16.5. Individualized Quality Control Plan</link></para>
+      <para role="chapterAuthor">Kendall Bryant and Susan Sharp</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0427">16.6. Laboratory Records</link></para>
+      <para role="chapterAuthor">Rhonda Hensley</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0427s0001s06">Appendix 16.6–1. Requirements for Laboratory Records</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0427">Appendix 16.6–2. Examples of Laboratory Forms and Records</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0428">16.7. Preparation and Quality Control of Laboratory Water</link></para>
+      <para role="chapterAuthor">Rhonda Hensley</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0428s0002s04">Appendix 16.7–1. Determination of Total Bacterial Counts</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0428s0002s06">Appendix 16.7–2. Resistivity Testing</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0429">16.8. Pipette and Loop Calibration</link></para>
+      <para role="chapterAuthor">Rhonda Hensley</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0429s0001">16.8.1. Use and Performance Verification of Microbiological Loops</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0429s0002s06">Appendix 16.8.1–1. Colorimetric Quantitative Loop Calibration</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0430">16.8.2. Use and Performance Verification of Pipettors</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0430s0001s06">Appendix 16.8.2–1. Worksheet 1: Pipette Calibration—Gravimetric</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0430s0001s07">Appendix 16.8.2–2. Worksheet 2: Pipette Calibration—Spectrophotometric</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+  </itemizedlist>
+</sect1>

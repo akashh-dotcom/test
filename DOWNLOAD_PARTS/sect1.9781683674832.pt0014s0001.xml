@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0014s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 14</emphasis>
+    <emphasis role="partTitle">Molecular Techniques</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: Samia N. Naccache and Alexander L. Greninger</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0360">14.1. Introduction</link></para>
+      <para role="chapterAuthor">Alexander L. Greninger and Samia N. Naccache</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0361">14.2. General Aspects of Molecular Diagnostics</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0361s0001">14.2.1. Preanalytical Considerations for Molecular Testing</link></para>
+          <para role="chapterAuthor">Robert J. Cybulski Jr and Jessica Chiaruttini</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0362">14.2.2. Molecular Workflow and Contamination Control in a Clinical Microbiology Laboratory</link></para>
+          <para role="chapterAuthor">Mark J. Lee</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0363">14.2.3. Biosafety in the Molecular Microbiology Laboratory</link></para>
+          <para role="chapterAuthor">Joshua A. Lieberman and Stephen J. Salipante</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0364">14.2.4. Verification and Validation of Molecular Tests</link></para>
+          <para role="chapterAuthor">Matthew J. Binnicker and Jill N. Hill</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0365">14.2.5. Use of Controls and Calibrators</link></para>
+          <para role="chapterAuthor">Jeffrey B. Stevenson</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0366">14.2.6. Postanalytical Considerations for Molecular Testing</link></para>
+          <para role="chapterAuthor">Jennifer Dien Bard and Thao T. Truong</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0367">14.3. Molecular Methods for Identification of Microorganisms</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0367s0001">14.3.1. Molecular Detection of HIV-1</link></para>
+          <para role="chapterAuthor">Alexander L. Greninger</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0368">14.3.2. HIV Genotypic Resistance Testing</link></para>
+          <para role="chapterAuthor">David R. Hillyard, Larry G. Reimer, Ninad Mehta, and Melanie A. Mallory</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0368s0001">Part 1. Genotypic Assay</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0368s0004">Part 2. Phenotypic Assay</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0369">14.3.3. Molecular Methods for Identification of High-Risk Human Papillomaviruses</link></para>
+          <para role="chapterAuthor">Robert Schlaberg</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0370">14.3.4. Molecular Detection of Herpes Simplex Viruses 1 and 2 and Varicella-Zoster Virus</link></para>
+          <para role="chapterAuthor">Matthew A. Pettengill, Yi-Wei Tang, and Nang Nguyen</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0371">14.3.5. Quantitative Detection of Human Cytomegalovirus DNA by Real-Time PCR</link></para>
+          <para role="chapterAuthor">Benjamin A. Pinsky</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0372">14.3.6. Human Cytomegalovirus Drug Resistance Testing</link></para>
+          <para role="chapterAuthor">Melanie A. Mallory</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0373">14.3.7. Molecular Diagnostics of Epstein-Barr Virus Infections</link></para>
+          <para role="chapterAuthor">Ted E. Schutzbank</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0374">14.3.8. Molecular Diagnostics of BK Virus Infections</link></para>
+          <para role="chapterAuthor">Ted E. Schutzbank</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0375">14.3.9. Chlamydia trachomatis and Neisseria gonorrhoeae</link></para>
+          <para role="chapterAuthor">Erin H. Graf and Robert Schlaberg</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0376">14.4. Syndromic Panels</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0376s0001">14.4.1. Gastroenteritis Panels</link></para>
+          <para role="chapterAuthor">Marc R. Couturier</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0377">14.4.2. Syndromic Panels: Respiratory Panels</link></para>
+          <para role="chapterAuthor">Kevin Raible, Melvilí Cintrón, and N. Esther Babady</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0378">14.4.3. Meningitis/Encephalitis Molecular Panels</link></para>
+          <para role="chapterAuthor">Jennifer Dien Bard and Tam T. Van</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0379">14.5. Sequence-Based Identification and Typing</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0379s0001">14.5.1. Sequencing-Based Identification of Microorganisms</link></para>
+          <para role="chapterAuthor">Rosemary She</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0380">14.5.2. Deep Amplicon Sequencing for Direct Microbial Detection and Identification</link></para>
+          <para role="chapterAuthor">Mark A. Fisher</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0381">14.5.3. Whole-Genome Sequencing</link></para>
+          <para role="chapterAuthor">Varvara K. Kozyreva</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0381">Appendix 14.5.3–1. Common Bioinformatics Tools Used for WGS Analysis</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0382">14.5.4. Shotgun Metagenomic Next-Generation Sequencing (mNGS) for Direct Microbial Detection and Identification</link></para>
+          <para role="chapterAuthor">Shangxin Yang</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+  </itemizedlist>
+</sect1>
