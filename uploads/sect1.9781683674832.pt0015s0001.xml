@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sect1 id="pt0015s0001">
+  <title>
+    <emphasis role="partNumber">SECTION 15</emphasis>
+    <emphasis role="partTitle">Epidemiologic and Infection Control Microbiology</emphasis>
+  </title>
+  <para role="editor">SECTION EDITORS: J. Kristie Johnson</para>
+  <itemizedlist>
+    <listitem>
+      <para><link linkend="ch0383">15.1. Introduction</link></para>
+      <para role="chapterAuthor">J. Michael Miller</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0384">15.2. Laboratory Support for Infection Prevention: Collaboration with Benefits for All</link></para>
+      <para role="chapterAuthor">J. Kristie Johnson</para>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0385">15.3. Microbiological Sampling for Pharmacies that Compound Sterile Preparations</link></para>
+      <para role="chapterAuthor">Hannah N. Livesay, Alice Weissfeld, Fran Schaeffer, Meredith DeGarmo, Paula Vance, and Pamela Terry</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0386">15.3.1. Environmental Monitoring by Viable Air Sampling</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0386">Appendix 15.3.1–1. Calculating Sample Results from 500 Liters or 200 Liters per Plated Medium with Two Different Media</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0387">15.3.2. Surface Sampling</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0388">15.3.3. Gloved Fingertip Testing</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0389">15.3.4. Media Fill Test Procedure</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0389">Appendix 15.3.4–1. Media Fill Testing Procedure for Low-Risk Sterile Compounding</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0389">Appendix 15.3.4–2. Media Fill Testing Procedure for Medium-Risk Sterile Compounding</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0389">Appendix 15.3.4–3. Media Fill Testing Procedure for High-Risk Compounds</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0389s0004">Appendix 15.3.4–4. USP <797> Sample Form 1: Assessing Hand Hygiene and Garbing Related Practices of Compounding Personnel</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0389s0005">Appendix 15.3.4–5. USP <797< Sample Form 2: Assessing Aseptic Technique and Related Practices of</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0390">15.3.5. USP<71> Sterility Testing</link></para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0390">Appendix 15.3.5–1. Minimum Number of Articles to be Tested in Relation to the Number of Articles in the Batch</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0390">Appendix 15.3.5–2. Minimum Quantity to be Used for Each Medium</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0390">Appendix 15.3.5–3. Strains of the Test Microorganisms Suitable for Use in the Growth Promotion Test and the Method Suitability Test</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0391">15.3.6. Endotoxin Testing</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0392">15.4. Environmental Sampling and Cultures</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0392">15.4.1. Culture of Hospital Water for Legionellaceae</link></para>
+          <para role="chapterAuthor">Sue M. Mietzner and Janet E. Stout</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0393s0002">Appendix 15.4.1–1. Reagents and Media</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0393">15.4.2. Heterotrophic Plate Count and Endotoxin Assay of Hemodialysis Fluids</link></para>
+          <para role="chapterAuthor">Angela D. Coulliette and Matthew J. Arduino</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0394">15.4.3. Air Cultures for Fungi</link></para>
+          <para role="chapterAuthor">Paul M. Luethy</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0394">Appendix 15.4.3–1.Features of Mechanical Volumetric Sampling Devices</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0395">15.4.4. Environmental Surface Testing</link></para>
+          <para role="chapterAuthor">Gwen Robinson and J. Kristie Johnson</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0396">15.4.5. Culture of Blood and Cellular Therapy Products in Blood Banking</link></para>
+          <para role="chapterAuthor">Annette Schlueter, Bradley Ford, and Anna F. Lau</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0397">15.4.6. Culture of Human Cadaveric Tissues for Transplantation</link></para>
+          <para role="chapterAuthor">Anna F. Lau</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0398">15.4.7. Duodenoscope Surveillance</link></para>
+          <para role="chapterAuthor">Punam Verma</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0399">15.5. Outbreak Investigations: Laboratory and Epidemiologic</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0399">15.5.1. Collection and Tracking of Surveillance and Clinical Specimens for Outbreak Investigation</link></para>
+          <para role="chapterAuthor">J. Kristie Johnson</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0400">15.5.2. Collection and Storage of Outbreak Isolates</link></para>
+          <para role="chapterAuthor">J. Kristie Johnson</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0401">15.5.3. Systematic Analysis of Nosocomial Outbreaks</link></para>
+          <para role="chapterAuthor">Ralf-Peter Vonberg, Jörg-Olaf Clausmeyer, and Michael Behnke</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0402">15.5.4. Public Health Reporting of Infectious Diseases: A Collaborative Approach by the Microbiology Laboratory and Clinicians</link></para>
+          <para role="chapterAuthor">Priya Nori, Ruchika Jain, and Erika Orner</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0403">15.6. Molecular Methods for Epidemiological Typing of Microorganisms</link></para>
+      <para role="chapterAuthor">Mark A. Fisher, Salika M. Shakir, and Bert K. Lopansri</para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0403">15.6.1. Introducion</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0404">15.6.2. PCR Ribotyping</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0405">15.6.3. Molecular Strain Typing Using Pulsed-Field Gel Electrophoresis</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0406">15.6.4. Strain Typing Analysis of Staphylococcus aureus Isolates Using Staphylococcal Protein A (spa) Typing</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0407">15.6.5. Multilocus Sequence Typing</link></para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0408">15.6.6. Strain Typing Using Next-Generation Sequencing</link></para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0409">15.7. Surveillance Cultures for Hsopital-Associated Infections</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0409">15.7.1. CDC Antibiotic Resistance Coordination and Strategy Unit (ARX) Antibiotic Resistance Laboratory Network (AR Lab Network)</link></para>
+          <para role="chapterAuthor">Stephanie Gumbis, Rachel D. Aubert, and Dawn Sievert</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0410">15.7.2. Screening for Methicillin-Resistant Staphylococcus aureus</link></para>
+          <para role="chapterAuthor">William D. Lainhart</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0410">Appendix 15.7.2–1. Media Surveillance Cultures for MRSA</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0411">15.7.3. Screening for Vancomycin-Resistant Enterococci</link></para>
+          <para role="chapterAuthor">William D. Lainhart</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0412">15.7.4. Surveillance Cultures of Multidrug-Resistant Enterobacterales, Pseudomonas aeruginosa, and Acinetobacter baumannii</link></para>
+          <para role="chapterAuthor">Johann D. Pitout, Helen Bibbi, and Sam Bourassa-Blancette</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0413">15.7.5. Surveillance Cultures for Candida auris</link></para>
+          <para role="chapterAuthor">Shawn R. Lockhart</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0414">15.7.6. Surveillance Cultures from Immunocompromised Hosts</link></para>
+          <para role="chapterAuthor">Daniel A. Green</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0415">15.7.7. Infection Surveillance Prior to Transplantation</link></para>
+          <para role="chapterAuthor">Hannah Imlay and Kimberly E. Hanson</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+    <listitem>
+      <para><link linkend="ch0416">15.8. Infection Control in the Laboratory</link></para>
+      <itemizedlist>
+        <listitem>
+          <para><link linkend="ch0416">15.8.1. Immunization of Microbiology Laboratory Personnel</link></para>
+          <para role="chapterAuthor">Michael A. Pentella</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0417">15.8.2. Laboratory Support of Blood-Borne Pathogen Exposures</link></para>
+          <para role="chapterAuthor">Paul M. Luethy</para>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0418">15.8.3. Investigation of Laboratory Exposures</link></para>
+          <para role="chapterAuthor">Michael A. Pentella</para>
+          <itemizedlist>
+            <listitem>
+              <para><link linkend="ch0418">Appendix 15.8.3–1. Postexposure Questionnaire for Risk Assessment</link></para>
+            </listitem>
+            <listitem>
+              <para><link linkend="ch0418">Appendix 15.8.3–2. Tool for Monitoring Symptoms in the Case of Possible Exposure</link></para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para><link linkend="ch0419">15.8.4. Laboratory Isolation Codes and Notification Fan-Out for Suspected Biosafety Risk Group 3 and 4 Microorganisms</link></para>
+          <para role="chapterAuthor">Deirdre L. Church</para>
+        </listitem>
+      </itemizedlist>
+    </listitem>
+  </itemizedlist>
+</sect1>
